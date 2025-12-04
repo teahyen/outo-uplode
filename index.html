@@ -11,13 +11,34 @@
         <header>
             <h1>🤖 IT 블로그 자동 생성기</h1>
             <p class="subtitle">버튼 하나로 IT 업계 최신 정보 블로그 글 작성!</p>
+            <div class="news-status" id="newsStatus">
+                <span class="status-icon">📡</span>
+                <span class="status-text">최신 뉴스 로딩 중...</span>
+            </div>
         </header>
+
+        <div class="mode-selector">
+            <button class="mode-btn active" data-mode="template">
+                📚 템플릿 모드
+            </button>
+            <button class="mode-btn" data-mode="news">
+                🔥 실시간 뉴스 모드
+            </button>
+        </div>
 
         <div class="button-container">
             <button id="generateBtn" class="generate-btn">
                 <span class="btn-icon">✨</span>
                 <span class="btn-text">새 블로그 글 생성하기</span>
             </button>
+            <button id="updateNewsBtn" class="update-btn" style="display: none;">
+                🔄 뉴스 업데이트
+            </button>
+        </div>
+
+        <div id="newsPreview" class="news-preview" style="display: none;">
+            <h3>📰 최근 IT 뉴스</h3>
+            <div id="newsList" class="news-list"></div>
         </div>
 
         <div id="loading" class="loading" style="display: none;">
