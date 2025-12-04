@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT 블로그 자동 생성기 - 티스토리 글쓰기 도우미</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 IT 블로그 자동 생성기</h1>
+            <p class="subtitle">버튼 하나로 IT 업계 최신 정보 블로그 글 작성!</p>
+        </header>
+
+        <div class="button-container">
+            <button id="generateBtn" class="generate-btn">
+                <span class="btn-icon">✨</span>
+                <span class="btn-text">새 블로그 글 생성하기</span>
+            </button>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            <div class="spinner"></div>
+            <p>글을 생성하고 있습니다...</p>
+        </div>
+
+        <div id="result" class="result-container" style="display: none;">
+            <div class="result-header">
+                <h2>생성된 블로그 글</h2>
+                <div class="action-buttons">
+                    <button id="copyBtn" class="action-btn">
+                        📋 복사하기
+                    </button>
+                    <button id="downloadBtn" class="action-btn">
+                        💾 다운로드
+                    </button>
+                </div>
+            </div>
+
+            <div class="blog-post">
+                <div class="post-meta">
+                    <span class="category" id="category"></span>
+                    <span class="date" id="date"></span>
+                </div>
+                <h3 class="post-title" id="postTitle"></h3>
+                <div class="post-content" id="postContent"></div>
+                <div class="post-tags" id="postTags"></div>
+            </div>
+        </div>
+
+        <footer>
+            <p>💡 AI, 개발 언어, IT 트렌드 등 다양한 주제의 블로그 글을 자동 생성합니다.</p>
+        </footer>
+    </div>
+
+    <div id="toast" class="toast"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
