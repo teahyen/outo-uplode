@@ -8,6 +8,28 @@
 
 버튼 한 번으로 IT 블로그 글을 자동 생성하세요!
 
+---
+
+## ⚡ 빠른 시작 (5분 완료)
+
+### 1️⃣ 뉴스 자동 업데이트 설정하기
+
+👉 **[QUICK_SETUP.md](./QUICK_SETUP.md)** - 5분이면 완료되는 간단한 가이드
+
+또는 **바로 설정하기**:
+1. [GitHub Actions 페이지로 이동](https://github.com/teahyen/outo-uplode/actions/new)
+2. "set up a workflow yourself" 클릭
+3. [여기 코드](./QUICK_SETUP.md#방법-1-github-웹에서-직접-생성-권장-) 복사 & 붙여넣기
+4. Commit → 완료! ✅
+
+### 2️⃣ GitHub Pages 활성화
+
+1. [Settings → Pages](https://github.com/teahyen/outo-uplode/settings/pages)
+2. Source: `main` branch, `/ (root)` folder
+3. Save → 완료! ✅
+
+---
+
 ## ✨ 주요 기능
 
 ### 🆕 **실시간 뉴스 모드** (NEW!)
