@@ -2,6 +2,12 @@
 
 티스토리 블로그를 위한 IT 업계 컨텐츠 자동 생성 웹사이트입니다.
 
+## 🌐 바로 사용하기
+
+**GitHub Pages:** [https://teahyen.github.io/outo-uplode/](https://teahyen.github.io/outo-uplode/)
+
+버튼 한 번으로 IT 블로그 글을 자동 생성하세요!
+
 ## ✨ 주요 기능
 
 - **버튼 클릭 한 번으로 새로운 블로그 글 생성**
