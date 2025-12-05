@@ -1,7 +1,33 @@
 {
-  "last_updated": "2025-12-05T00:54:11.456867",
+  "last_updated": "2025-12-05T06:18:15.574066",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Chicago Tribune sues Perplexity",
+      "summary": "The newspaper is alleging copyright infringement and calling out Perplexity's retrieval augmented generation (RAG) as a culprit.",
+      "link": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
+      "published": "Fri, 05 Dec 2025 01:20:59 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T06:18:14.551709"
+    },
+    {
+      "source": "techcrunch",
+      "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+      "summary": "Amazon Web Services' giant tech conference re:Invent 2025 is happening this week with news ranging from chips to AI services.",
+      "link": "https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+      "published": "Fri, 05 Dec 2025 01:17:08 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-05T06:18:14.551750"
+    },
     {
       "source": "techcrunch",
       "title": "Feds ask Waymo about robotaxis repeatedly passing school buses in Austin",
@@ -13,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.754879"
+      "crawled_at": "2025-12-05T06:18:14.551779"
     },
     {
       "source": "techcrunch",
@@ -26,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.754918"
+      "crawled_at": "2025-12-05T06:18:14.551804"
     },
     {
       "source": "techcrunch",
@@ -40,34 +66,20 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-05T00:54:10.754973"
+      "crawled_at": "2025-12-05T06:18:14.551849"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors",
-      "summary": "Anthropic's CEO shared his thoughts on the economics of AI and the risk-taking of competitors, saying some were \"YOLO-ing\" with regard to spending.",
-      "link": "https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/",
-      "published": "Thu, 04 Dec 2025 20:22:59 +0000",
+      "source": "theverge",
+      "title": "The best noise-canceling headphones to buy right now",
+      "summary": "Whether you’re wearing them for the morning commute, while traveling, or if you’re simply trying to find some peace and quiet while working at home, noise-canceling headphones are a more essential piece of kit nowadays than ever before. And you’ve got a slew of great options to pick from; it’s hard ",
+      "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
+      "published": "2025-12-04T19:58:41-05:00",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.755001"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Musk says new Tesla software allows texting and driving, which is illegal in most states",
-      "summary": "Texting while driving is banned in nearly every state, even with the use of advanced driver-assistance systems like Tesla's Full Self-Driving (Supervised) software.",
-      "link": "https://techcrunch.com/2025/12/04/musk-says-new-tesla-software-allows-texting-and-driving-which-is-illegal-in-most-states/",
-      "published": "Thu, 04 Dec 2025 20:06:34 +0000",
-      "keywords": [
-        "Tesla",
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:10.755037"
+      "crawled_at": "2025-12-05T06:18:14.805233"
     },
     {
       "source": "theverge",
@@ -82,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.885849"
+      "crawled_at": "2025-12-05T06:18:14.805284"
     },
     {
       "source": "theverge",
@@ -97,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.885903"
+      "crawled_at": "2025-12-05T06:18:14.805326"
     },
     {
       "source": "theverge",
@@ -110,7 +122,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:10.885966"
+      "crawled_at": "2025-12-05T06:18:14.805384"
     },
     {
       "source": "theverge",
@@ -124,83 +136,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:10.886007"
+      "crawled_at": "2025-12-05T06:18:14.805423"
     },
     {
-      "source": "theverge",
-      "title": "Metroid Prime 4 doesn&#8217;t stand up to Nintendo&#8217;s best",
-      "summary": "Metroid Prime 4: Beyond is finally out after a long and difficult development - and despite some bright spots, the game really shows its age. Nintendo has a long and celebrated history of doing things its own way. During the original Switch era, going back to Super Mario Odyssey in 2017, Nintendo ha",
-      "link": "https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo",
-      "published": "2025-12-04T14:59:18-05:00",
+      "source": "hackernews",
+      "title": "State Department to deny visas to fact checkers and others, citing 'censorship'",
+      "summary": "Article URL: https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship\nComments URL: https://news.ycombinator.com/item?id=46156979\nPoints: 26\n# Comments: 7",
+      "link": "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship",
+      "published": "Fri, 05 Dec 2025 04:59:08 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T06:18:15.245186"
+    },
+    {
+      "source": "hackernews",
+      "title": "Netflix in exclusive talks to buy HBO",
+      "summary": "Article URL: https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery\nComments URL: https://news.ycombinator.com/item?id=46156880\nPoints: 29\n# Comments: 16",
+      "link": "https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery",
+      "published": "Fri, 05 Dec 2025 04:36:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T06:18:15.245231"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/\nComments URL: https://news.ycombinator.com/item?id=46156832\nPoints: 4\n# Comments: 0",
+      "link": "https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/",
+      "published": "Fri, 05 Dec 2025 04:26:10 +0000",
+      "keywords": [
+        "AI",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:10.886052"
-    },
-    {
-      "source": "hackernews",
-      "title": "AV1 – Now Powering 30% of Netflix Streaming",
-      "summary": "Article URL: https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80\nComments URL: https://news.ycombinator.com/item?id=46155135\nPoints: 20\n# Comments: 0",
-      "link": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
-      "published": "Fri, 05 Dec 2025 00:09:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.130229"
-    },
-    {
-      "source": "hackernews",
-      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
-      "summary": "Article URL: https://lyra.horse/blog/2025/12/svg-clickjacking/\nComments URL: https://news.ycombinator.com/item?id=46155085\nPoints: 8\n# Comments: 0",
-      "link": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
-      "published": "Fri, 05 Dec 2025 00:03:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.130279"
-    },
-    {
-      "source": "hackernews",
-      "title": "Coca Cola has an executive dedicated to McDonald's",
-      "summary": "Article URL: https://www.coca-colacompany.com/about-us/leadership/roberto-mercade\nComments URL: https://news.ycombinator.com/item?id=46154539\nPoints: 31\n# Comments: 34",
-      "link": "https://www.coca-colacompany.com/about-us/leadership/roberto-mercade",
-      "published": "Thu, 04 Dec 2025 23:12:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.130317"
-    },
-    {
-      "source": "hackernews",
-      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
-      "summary": "Article URL: https://www.aitradearena.com/research/we-ran-llms-for-8-months\nComments URL: https://news.ycombinator.com/item?id=46154491\nPoints: 100\n# Comments: 91",
-      "link": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
-      "published": "Thu, 04 Dec 2025 23:08:25 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.130345"
+      "crawled_at": "2025-12-05T06:18:15.245277"
     },
     {
       "source": "hackernews",
-      "title": "SMS phishers pivot to points, taxes, fake retailers",
-      "summary": "Article URL: https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/\nComments URL: https://news.ycombinator.com/item?id=46154484\nPoints: 37\n# Comments: 5",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "published": "Thu, 04 Dec 2025 23:08:07 +0000",
+      "title": "Fast trigram based code search",
+      "summary": "Article URL: https://github.com/sourcegraph/zoekt\nComments URL: https://news.ycombinator.com/item?id=46156718\nPoints: 10\n# Comments: 0",
+      "link": "https://github.com/sourcegraph/zoekt",
+      "published": "Fri, 05 Dec 2025 04:00:28 +0000",
       "keywords": [
-        "AI",
-        "Security",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.130374"
+      "category": "Programming",
+      "crawled_at": "2025-12-05T06:18:15.245305"
+    },
+    {
+      "source": "hackernews",
+      "title": "Blogging in 2025: Screaming into the Void",
+      "summary": "Article URL: https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/\nComments URL: https://news.ycombinator.com/item?id=46156379\nPoints: 27\n# Comments: 12",
+      "link": "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/",
+      "published": "Fri, 05 Dec 2025 02:55:34 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T06:18:15.245339"
     },
     {
       "source": "arstechnica",
@@ -212,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.264436"
+      "crawled_at": "2025-12-05T06:18:15.428218"
     },
     {
       "source": "arstechnica",
@@ -227,7 +227,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.264473"
+      "crawled_at": "2025-12-05T06:18:15.428248"
     },
     {
       "source": "arstechnica",
@@ -239,7 +239,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.264507"
+      "crawled_at": "2025-12-05T06:18:15.428280"
     },
     {
       "source": "arstechnica",
@@ -252,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.264535"
+      "crawled_at": "2025-12-05T06:18:15.428308"
     },
     {
       "source": "arstechnica",
@@ -265,72 +265,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.264556"
+      "crawled_at": "2025-12-05T06:18:15.428329"
     },
     {
       "source": "wired",
-      "title": "It's Time to Save Silicon Valley From Itself",
-      "summary": "Big Tech has lost its way. At WIRED’s Big Interview event, Techdirt editor Mike Masnick and Common Tools CEO Alex Komoroske announced a manifesto designed to help the industry get back on track.",
-      "link": "https://www.wired.com/story/big-interview-event-techdirt-mike-masnick-common-tools-alex-komoroske/",
-      "published": "Fri, 05 Dec 2025 00:42:40 +0000",
+      "title": "Womanizer Coupons: Save 15% in December",
+      "summary": "Enjoy discounts on Duo Premium and more sex toys with our Womanizer coupon codes.",
+      "link": "https://www.wired.com/story/womanizer-coupon/",
+      "published": "Fri, 05 Dec 2025 06:10:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2025-12-05T06:18:15.573846"
+    },
+    {
+      "source": "wired",
+      "title": "Groupon Promo Codes: 50% Off in December 2025",
+      "summary": "Unlock up to 50% off, 40% off packages, and 25% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+      "link": "https://www.wired.com/story/groupon-promo-code/",
+      "published": "Fri, 05 Dec 2025 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2025-12-05T06:18:15.573880"
+    },
+    {
+      "source": "wired",
+      "title": "Check Out Highlights From WIRED’s 2025 Big Interview Event",
+      "summary": "On December 4, WIRED sat down with some of the biggest names in tech, culture, business, and science for a day full of in-depth interviews.",
+      "link": "https://www.wired.com/story/the-big-interview-2025-recap/",
+      "published": "Fri, 05 Dec 2025 01:52:37 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.456618"
+      "crawled_at": "2025-12-05T06:18:15.573923"
     },
     {
       "source": "wired",
-      "title": "Meta Poached Apple’s Top Design Guys to Fix Its Software UI",
-      "summary": "Meta wants to make its AI hardware slicker and more fashion-forward. It also needs to make its software more usable. The way to do all that appears to be hiring design maestros away from Apple.",
-      "link": "https://www.wired.com/story/meta-poached-apples-top-design-guys-to-fix-its-software-ui/",
-      "published": "Fri, 05 Dec 2025 00:15:51 +0000",
+      "title": "Former USIP Lawyer on DOGE: ‘Brass Knuckles on an Authoritarian Fist’",
+      "summary": "George Foote, who served as the outside general counsel to the US Institute of Peace, said at WIRED’s Big Interview event that DOGE operatives arrived like a “strike team.”",
+      "link": "https://www.wired.com/story/big-interview-event-inside-doge-leland-dudek/",
+      "published": "Fri, 05 Dec 2025 01:44:40 +0000",
       "keywords": [
         "AI",
-        "Apple",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.456662"
+      "crawled_at": "2025-12-05T06:18:15.573956"
     },
     {
       "source": "wired",
-      "title": "Circle’s Jeremy Allaire: We’re Building an ‘Economic OS’ for the AI Era",
-      "summary": "The cofounder and CEO of Circle says “money as an app platform” is the next step in a digital-based global economic system that’s right around the corner.",
-      "link": "https://www.wired.com/story/big-interview-event-jeremy-allaire-circle/",
-      "published": "Fri, 05 Dec 2025 00:15:37 +0000",
+      "title": "David Hogg to Democratic Establishment: Get the Message or Get Voted Out",
+      "summary": "At WIRED’s Big Interview event, the activist and organizer said he doesn’t “think the Chuck Schumers of the world understand” what’s coming for the party.",
+      "link": "https://www.wired.com/story/big-interview-event-david-hogg/",
+      "published": "Fri, 05 Dec 2025 01:39:32 +0000",
       "keywords": [
         "AI",
-        "Git",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.456693"
-    },
-    {
-      "source": "wired",
-      "title": "Former DOGE Engineer Is Now Back in Government",
-      "summary": "Sahil Lavingia, previously a DOGE operative at the Department of Veterans Affairs, is now a career employee at the IRS. He said at WIRED's Big Interview event that he expects to work there 10 years.",
-      "link": "https://www.wired.com/story/big-interview-event-sahil-lavingia/",
-      "published": "Fri, 05 Dec 2025 00:11:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T00:54:11.456721"
-    },
-    {
-      "source": "wired",
-      "title": "‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle",
-      "summary": "The United States Inspector General report reviewing Secretary of Defense Pete Hegseth’s text messaging mess recommends a single change to keep classified material secure.",
-      "link": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
-      "published": "Fri, 05 Dec 2025 00:02:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T00:54:11.456765"
+      "crawled_at": "2025-12-05T06:18:15.573986"
     }
   ]
 }
