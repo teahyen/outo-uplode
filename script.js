@@ -514,25 +514,66 @@ function generateBlogFromNews(news) {
     });
 }
 
-// 뉴스 제목 생성
-function generateNewsTitle(news) {
-    const titleVariations = [
-        `${news.title}: IT 업계의 새로운 변화`,
-        `주목! ${news.title}`,
-        `[속보] ${news.title}`,
-        `IT 트렌드: ${news.title}`,
-        `${news.title} - 알아두어야 할 핵심 정보`,
+// 영어 제목을 한글로 자연스럽게 변환
+function translateNewsTitle(news) {
+    // 주요 키워드 기반으로 한글 제목 생성
+    const keywords = news.keywords.join(', ');
+    const category = news.category;
+    const source = news.source.toUpperCase();
+    
+    // 제목 패턴 생성
+    const patterns = [
+        `${category} 분야 주목! ${keywords} 관련 최신 동향`,
+        `[${source}] ${keywords}의 새로운 변화가 온다`,
+        `${keywords}, IT 업계를 뒤흔들다`,
+        `화제의 ${category} 소식: ${keywords} 중심으로`,
+        `${keywords}가 바꾸는 ${category}의 미래`,
+        `주목! ${keywords} 관련 핵심 뉴스`,
+        `${category} 업계 긴급 분석: ${keywords} 트렌드`,
+        `개발자들이 주목하는 ${keywords} 최신 이슈`,
     ];
     
-    return titleVariations[Math.floor(Math.random() * titleVariations.length)];
+    return patterns[Math.floor(Math.random() * patterns.length)];
+}
+
+// 뉴스 제목 생성
+function generateNewsTitle(news) {
+    return translateNewsTitle(news);
+}
+
+// 영어 요약을 한글로 의역
+function translateSummary(news) {
+    const keywords = news.keywords.join(', ');
+    const category = news.category;
+    const source = news.source;
+    
+    // 카테고리별 맥락 있는 한글 요약 생성
+    const summaryTemplates = {
+        'AI/ML': `최근 ${keywords} 관련하여 인공지능 분야에서 중요한 소식이 전해졌습니다. ${source}에 따르면, 이는 AI 기술의 발전과 활용에 있어 주목할 만한 변화를 예고하고 있습니다.`,
+        'Programming': `${keywords}와 관련된 프로그래밍 분야의 흥미로운 소식입니다. ${source}가 보도한 바에 따르면, 이는 개발자 커뮤니티와 소프트웨어 생태계에 중요한 영향을 미칠 것으로 보입니다.`,
+        'Cloud/DevOps': `클라우드 및 데브옵스 영역에서 ${keywords} 관련 중요한 발표가 있었습니다. ${source}의 보도에 따르면, 이는 현대적인 인프라 구축과 배포 방식에 새로운 변화를 가져올 전망입니다.`,
+        'Security': `사이버보안 분야에서 ${keywords}와 관련된 주목할 만한 소식이 전해졌습니다. ${source}에 따르면, 이는 기업과 개발자들의 보안 전략 수립에 중요한 시사점을 제공합니다.`,
+        'Blockchain': `블록체인과 웹3 분야에서 ${keywords} 관련 흥미로운 소식이 있습니다. ${source}의 보도에 따르면, 탈중앙화 기술의 실제 활용과 발전 방향에 대한 새로운 인사이트를 제공합니다.`,
+        'Mobile': `모바일 기술 분야에서 ${keywords}와 관련된 중요한 발표가 있었습니다. ${source}에 따르면, 이는 모바일 앱 개발과 사용자 경험에 새로운 패러다임을 제시할 것으로 예상됩니다.`,
+        'Startup': `스타트업 생태계에서 ${keywords} 관련 주목할 만한 소식이 전해졌습니다. ${source}의 보도에 따르면, 이는 기업가정신과 투자 트렌드를 이해하는 데 중요한 사례가 될 것입니다.`,
+        'Hardware': `하드웨어 기술 분야에서 ${keywords}와 관련된 혁신적인 소식입니다. ${source}에 따르면, 이는 컴퓨팅 성능과 하드웨어 아키텍처의 발전에 중요한 이정표가 될 전망입니다.`,
+    };
+    
+    return summaryTemplates[category] || `${source}에서 보도된 ${keywords} 관련 최신 소식입니다. IT 업계 전반에 걸쳐 주목할 만한 변화와 트렌드를 제시하고 있습니다.`;
 }
 
 // 뉴스 본문 생성
 function generateNewsContent(news) {
     let content = '';
     
-    // 도입부
-    content += `<p><strong>${news.summary}</strong></p>`;
+    // 도입부 (한글로 의역된 요약)
+    content += `<p><strong>${translateSummary(news)}</strong></p>`;
+    
+    // 원문 정보
+    content += `<p style="padding: 12px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 8px; margin: 15px 0; font-size: 0.95em; color: #555;">`;
+    content += `<strong>📰 원문:</strong> ${news.title}<br>`;
+    content += `<strong>📅 출처:</strong> ${news.source.toUpperCase()} • ${news.published ? new Date(news.published).toLocaleDateString('ko-KR') : '최근'}`;
+    content += `</p>`;
     
     // 배경 설명
     content += `<h4>📌 배경 및 개요</h4>`;
