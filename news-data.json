@@ -1,7 +1,19 @@
 {
-  "last_updated": "2025-12-05T06:18:15.574066",
+  "last_updated": "2025-12-05T12:22:17.089746",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back",
+      "summary": "PhonePe has shut down its Pincode app over two years after its debut.",
+      "link": "https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/",
+      "published": "Fri, 05 Dec 2025 11:08:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-05T12:22:16.094414"
+    },
     {
       "source": "techcrunch",
       "title": "Chicago Tribune sues Perplexity",
@@ -12,7 +24,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:14.551709"
+      "crawled_at": "2025-12-05T12:22:16.094452"
     },
     {
       "source": "techcrunch",
@@ -26,7 +38,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.551750"
+      "crawled_at": "2025-12-05T12:22:16.094485"
     },
     {
       "source": "techcrunch",
@@ -39,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.551779"
+      "crawled_at": "2025-12-05T12:22:16.094512"
     },
     {
       "source": "techcrunch",
@@ -52,21 +64,58 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.551804"
+      "crawled_at": "2025-12-05T12:22:16.094536"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple’s executive shake-up continues with departures of general counsel and policy head",
-      "summary": "Apple loses two more top senior executives with exits of longtime general counsel Kate Adams and environmental VP Lisa Jackson. Meta’s Jennifer Newstead is set to join as new general counsel in 2026.",
-      "link": "https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/",
-      "published": "Thu, 04 Dec 2025 22:28:01 +0000",
+      "source": "theverge",
+      "title": "EU fines X $140 million over ‘deceptive’ blue checkmarks",
+      "summary": "The European Union has served Elon Musk’s X with a €120 million (about $140 million) penalty for violating the bloc’s digital service rulebook, in part for the “deceptive design” of its blue checkmark. Today’s announcement marks the first time that a company has been fined under the landmark Digital",
+      "link": "https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk",
+      "published": "2025-12-05T07:04:35-05:00",
       "keywords": [
-        "Apple",
-        "Meta",
+        "Git",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-05T06:18:14.551849"
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T12:22:16.290974"
+    },
+    {
+      "source": "theverge",
+      "title": "Facebook and Instagram have a new hub to help get hijacked accounts back",
+      "summary": "Meta on Thursday announced it is launching a new, centralized support hub for Facebook and Instagram, acknowledging that getting help hasn’t always been as easy as it should be. The space will bring together all the support features users of both networks need to report account issues or recover one",
+      "link": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
+      "published": "2025-12-05T06:08:43-05:00",
+      "keywords": [
+        "Meta"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T12:22:16.291042"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft finally has a better looking Run dialog for Windows 11",
+      "summary": "Microsoft is finally updating the design of the Run dialog prompt in Windows after more than 30 years. After committing to adding a dark mode to Run, Microsoft is now testing a refreshed design that makes it fit with the aesthetics in Windows 11. X user Phantomofearth discovered the modern Run dialo",
+      "link": "https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode",
+      "published": "2025-12-05T04:53:15-05:00",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T12:22:16.291088"
+    },
+    {
+      "source": "theverge",
+      "title": "Netflix wins the bidding war for Warner Bros.",
+      "summary": "Netflix is poised to purchase Warner Bros.’ studio and streaming business after being selected as the winner of the bidding war for the media giant. The two companies will now move forward into exclusive deal talks, TheWrap reports, likely including a $5 billion breakup fee in case regulators block ",
+      "link": "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout",
+      "published": "2025-12-05T03:39:02-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T12:22:16.291141"
     },
     {
       "source": "theverge",
@@ -79,128 +128,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:14.805233"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple announces even more major executive turnover",
-      "summary": "Following the recent retirement of former COO Jeff Williams, AI chief John Giannandrea stepping down, and the departure of head of design Alan Dye for Meta, Apple announced Thursday that environmental and policy lead Lisa Jackson is retiring and that Jennifer Newstead will replace Kate Adams as the ",
-      "link": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
-      "published": "2025-12-04T17:37:44-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.805284"
-    },
-    {
-      "source": "theverge",
-      "title": "Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off",
-      "summary": "One of the biggest surprises of Cyber Monday was the terrific discount we saw on the Nintendo Switch 2 Mario Kart World bundle, which dropped in price by $50. We expected the price to return to normal once the shopping holiday ended, but to our surprise, it’s still going strong two days later. Sever",
-      "link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-      "published": "2025-12-04T17:24:13-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.805326"
-    },
-    {
-      "source": "theverge",
-      "title": "Pentagon’s Signalgate report finds Pete Hegseth violated military policies",
-      "summary": "It has been months since a group of Trump administration officials put together a Signal group chat to discuss classified military intelligence ahead of a military strike in Yemen while inadvertently adding a journalist, and now the Pentagon’s inspector general has released its report on the mess. T",
-      "link": "https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth",
-      "published": "2025-12-04T16:55:09-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:14.805384"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump invites ‘cute’ Japanese kei trucks to come to America",
-      "summary": "Tiny kei trucks from Japan have a new fan: President Donald Trump. Trump expressed admiration for the pint-sized autos during a briefing with reporters to announce his plan to gut fuel economy standards. “They&#8217;re very small. They&#8217;re really cute,” Trump said. “And I said, how would that d",
-      "link": "https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot",
-      "published": "2025-12-04T15:29:44-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:14.805423"
+      "crawled_at": "2025-12-05T12:22:16.291191"
     },
     {
       "source": "hackernews",
-      "title": "State Department to deny visas to fact checkers and others, citing 'censorship'",
-      "summary": "Article URL: https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship\nComments URL: https://news.ycombinator.com/item?id=46156979\nPoints: 26\n# Comments: 7",
-      "link": "https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship",
-      "published": "Fri, 05 Dec 2025 04:59:08 +0000",
+      "title": "Why We Can't Quit Excel",
+      "summary": "Article URL: https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/\nComments URL: https://news.ycombinator.com/item?id=46159703\nPoints: 13\n# Comments: 18",
+      "link": "https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/",
+      "published": "Fri, 05 Dec 2025 11:07:07 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-05T12:22:16.763446"
+    },
+    {
+      "source": "hackernews",
+      "title": "The US polluters that are rewriting the EU's human rights and climate law",
+      "summary": "Article URL: https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/\nComments URL: https://news.ycombinator.com/item?id=46159193\nPoints: 263\n# Comments: 131",
+      "link": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
+      "published": "Fri, 05 Dec 2025 09:58:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.245186"
+      "crawled_at": "2025-12-05T12:22:16.763497"
     },
     {
       "source": "hackernews",
-      "title": "Netflix in exclusive talks to buy HBO",
-      "summary": "Article URL: https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery\nComments URL: https://news.ycombinator.com/item?id=46156880\nPoints: 29\n# Comments: 16",
-      "link": "https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery",
-      "published": "Fri, 05 Dec 2025 04:36:42 +0000",
+      "title": "Kenyan court declares law banning seed sharing unconstitutional",
+      "summary": "Article URL: https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80\nComments URL: https://news.ycombinator.com/item?id=46158578\nPoints: 44\n# Comments: 6",
+      "link": "https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80",
+      "published": "Fri, 05 Dec 2025 09:09:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.245231"
+      "crawled_at": "2025-12-05T12:22:16.763536"
     },
     {
       "source": "hackernews",
-      "title": "Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/\nComments URL: https://news.ycombinator.com/item?id=46156832\nPoints: 4\n# Comments: 0",
-      "link": "https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/",
-      "published": "Fri, 05 Dec 2025 04:26:10 +0000",
+      "title": "Cloudflare Down Again – and DownDetector Is Also Down",
+      "summary": "https://downdetector.tr/\n\nComments URL: https://news.ycombinator.com/item?id=46158200\nPoints: 258\n# Comments: 132",
+      "link": "https://news.ycombinator.com/item?id=46158200",
+      "published": "Fri, 05 Dec 2025 08:51:42 +0000",
       "keywords": [
         "AI",
-        "Go",
+        "Cloud",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.245277"
+      "crawled_at": "2025-12-05T12:22:16.763567"
     },
     {
       "source": "hackernews",
-      "title": "Fast trigram based code search",
-      "summary": "Article URL: https://github.com/sourcegraph/zoekt\nComments URL: https://news.ycombinator.com/item?id=46156718\nPoints: 10\n# Comments: 0",
-      "link": "https://github.com/sourcegraph/zoekt",
-      "published": "Fri, 05 Dec 2025 04:00:28 +0000",
+      "title": "Cloudflare is down",
+      "summary": "Article URL: https://www.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=46158191\nPoints: 755\n# Comments: 461",
+      "link": "https://www.cloudflare.com/",
+      "published": "Fri, 05 Dec 2025 08:50:16 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "Cloud",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-05T06:18:15.245305"
-    },
-    {
-      "source": "hackernews",
-      "title": "Blogging in 2025: Screaming into the Void",
-      "summary": "Article URL: https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/\nComments URL: https://news.ycombinator.com/item?id=46156379\nPoints: 27\n# Comments: 12",
-      "link": "https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/",
-      "published": "Fri, 05 Dec 2025 02:55:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.245339"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2025-12-05T12:22:16.763593"
     },
     {
       "source": "arstechnica",
@@ -212,7 +205,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.428218"
+      "crawled_at": "2025-12-05T12:22:16.984474"
     },
     {
       "source": "arstechnica",
@@ -227,7 +220,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.428248"
+      "crawled_at": "2025-12-05T12:22:16.984511"
     },
     {
       "source": "arstechnica",
@@ -239,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.428280"
+      "crawled_at": "2025-12-05T12:22:16.984545"
     },
     {
       "source": "arstechnica",
@@ -252,7 +245,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.428308"
+      "crawled_at": "2025-12-05T12:22:16.984573"
     },
     {
       "source": "arstechnica",
@@ -265,63 +258,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.428329"
+      "crawled_at": "2025-12-05T12:22:16.984594"
     },
     {
       "source": "wired",
-      "title": "Womanizer Coupons: Save 15% in December",
-      "summary": "Enjoy discounts on Duo Premium and more sex toys with our Womanizer coupon codes.",
-      "link": "https://www.wired.com/story/womanizer-coupon/",
-      "published": "Fri, 05 Dec 2025 06:10:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-05T06:18:15.573846"
-    },
-    {
-      "source": "wired",
-      "title": "Groupon Promo Codes: 50% Off in December 2025",
-      "summary": "Unlock up to 50% off, 40% off packages, and 25% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "link": "https://www.wired.com/story/groupon-promo-code/",
-      "published": "Fri, 05 Dec 2025 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-05T06:18:15.573880"
-    },
-    {
-      "source": "wired",
-      "title": "Check Out Highlights From WIRED’s 2025 Big Interview Event",
-      "summary": "On December 4, WIRED sat down with some of the biggest names in tech, culture, business, and science for a day full of in-depth interviews.",
-      "link": "https://www.wired.com/story/the-big-interview-2025-recap/",
-      "published": "Fri, 05 Dec 2025 01:52:37 +0000",
+      "title": "The Best Meal Replacement Shakes for Total Life Optimization (2025)",
+      "summary": "Solve the problem of cooking and chewing food with these full-meal replacement drinks.",
+      "link": "https://www.wired.com/gallery/best-liquid-meal-replacements/",
+      "published": "Fri, 05 Dec 2025 12:07:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-05T06:18:15.573923"
+      "crawled_at": "2025-12-05T12:22:17.089531"
     },
     {
       "source": "wired",
-      "title": "Former USIP Lawyer on DOGE: ‘Brass Knuckles on an Authoritarian Fist’",
-      "summary": "George Foote, who served as the outside general counsel to the US Institute of Peace, said at WIRED’s Big Interview event that DOGE operatives arrived like a “strike team.”",
-      "link": "https://www.wired.com/story/big-interview-event-inside-doge-leland-dudek/",
-      "published": "Fri, 05 Dec 2025 01:44:40 +0000",
+      "title": "AI Slop Is Ruining Reddit for Everyone",
+      "summary": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
+      "published": "Fri, 05 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.573956"
+      "crawled_at": "2025-12-05T12:22:17.089564"
     },
     {
       "source": "wired",
-      "title": "David Hogg to Democratic Establishment: Get the Message or Get Voted Out",
-      "summary": "At WIRED’s Big Interview event, the activist and organizer said he doesn’t “think the Chuck Schumers of the world understand” what’s coming for the party.",
-      "link": "https://www.wired.com/story/big-interview-event-david-hogg/",
-      "published": "Fri, 05 Dec 2025 01:39:32 +0000",
+      "title": "How Long Should You Stay in a Sauna? (2025)",
+      "summary": "Optimize your sauna session by listening to the experts and, more importantly, your body.",
+      "link": "https://www.wired.com/story/how-long-should-you-stay-in-a-sauna/",
+      "published": "Fri, 05 Dec 2025 11:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2025-12-05T12:22:17.089590"
+    },
+    {
+      "source": "wired",
+      "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
+      "summary": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”",
+      "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
+      "published": "Fri, 05 Dec 2025 11:00:00 +0000",
       "keywords": [
         "AI",
+        "Startup",
+        "Database",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-05T06:18:15.573986"
+      "crawled_at": "2025-12-05T12:22:17.089629"
+    },
+    {
+      "source": "wired",
+      "title": "Logitech Promo Code: $25 Off This Holiday Season",
+      "summary": "Get an exclusive discount of $25 off $200+ this holiday season when you sign up for Logitech emails.",
+      "link": "https://www.wired.com/story/logitech-promo-code/",
+      "published": "Fri, 05 Dec 2025 07:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-05T12:22:17.089666"
     }
   ]
 }
