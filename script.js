@@ -409,9 +409,11 @@ let newsData = null;
 let selectedNewsIndex = null;
 
 // 뉴스 데이터 로드
-async function loadNewsData() {
+async function loadNewsData(forceRefresh = false) {
     try {
-        const response = await fetch('news-data.json');
+        // 캐시 버스팅: 타임스탬프를 쿼리 파라미터로 추가
+        const timestamp = forceRefresh ? Date.now() : Math.floor(Date.now() / 60000); // 1분마다 갱신
+        const response = await fetch(`news-data.json?t=${timestamp}`);
         if (!response.ok) {
             throw new Error('뉴스 데이터를 불러올 수 없습니다');
         }
@@ -650,15 +652,42 @@ function switchMode(mode) {
     }
 }
 
-// GitHub Actions 워크플로우 트리거 (설명용)
-async function triggerNewsUpdate() {
-    showToast('ℹ️ 뉴스 업데이트는 GitHub Actions에서 자동으로 진행됩니다.');
-    showToast('💡 GitHub 저장소의 Actions 탭에서 "Update IT News" 워크플로우를 수동 실행하세요.');
+// 뉴스 데이터 새로고침
+async function refreshNewsData() {
+    showToast('🔄 최신 뉴스를 불러오는 중...');
     
-    // GitHub Actions 페이지 열기
+    try {
+        // 강제로 최신 데이터 로드
+        await loadNewsData(true);
+        
+        if (newsData && newsData.news && newsData.news.length > 0) {
+            displayNewsList();
+            showToast('✅ 뉴스가 성공적으로 업데이트되었습니다!');
+        } else {
+            showToast('⚠️ 업데이트할 뉴스가 없습니다.');
+        }
+    } catch (error) {
+        showToast('❌ 뉴스 업데이트에 실패했습니다.');
+        console.error('뉴스 업데이트 오류:', error);
+    }
+}
+
+// GitHub Actions 워크플로우 트리거
+async function triggerNewsUpdate() {
+    // 먼저 현재 데이터 새로고침 시도
+    await refreshNewsData();
+    
+    // 추가 안내
     setTimeout(() => {
-        window.open('https://github.com/teahyen/outo-uplode/actions', '_blank');
+        showToast('💡 더 최신 뉴스를 원하시면 GitHub Actions에서 크롤링을 실행하세요.');
     }, 2000);
+    
+    // GitHub Actions 페이지 열기 옵션 제공
+    setTimeout(() => {
+        if (confirm('GitHub Actions 페이지로 이동하여 최신 뉴스를 크롤링하시겠습니까?')) {
+            window.open('https://github.com/teahyen/outo-uplode/actions', '_blank');
+        }
+    }, 3000);
 }
 
 // ==================== 통합 초기화 ====================
@@ -703,6 +732,10 @@ async function initializeApp() {
     
     // 뉴스 업데이트 버튼
     document.getElementById('updateNewsBtn').addEventListener('click', triggerNewsUpdate);
+    
+    // 뉴스 상태 클릭으로 새로고침
+    document.getElementById('newsStatus').addEventListener('click', refreshNewsData);
+    document.getElementById('newsStatus').style.cursor = 'pointer';
     
     // 복사 버튼
     document.getElementById('copyBtn').addEventListener('click', () => {
