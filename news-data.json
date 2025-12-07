@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-07T01:08:49.443098",
+  "last_updated": "2025-12-07T06:15:38.804774",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:48.470670"
+      "crawled_at": "2025-12-07T06:15:37.973891"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-07T01:08:48.470717"
+      "crawled_at": "2025-12-07T06:15:37.973939"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-07T01:08:48.470750"
+      "crawled_at": "2025-12-07T06:15:37.973985"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:48.470804"
+      "crawled_at": "2025-12-07T06:15:37.974038"
     },
     {
       "source": "techcrunch",
@@ -62,7 +62,7 @@
       "published": "Sat, 06 Dec 2025 17:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:48.470832"
+      "crawled_at": "2025-12-07T06:15:37.974065"
     },
     {
       "source": "theverge",
@@ -75,7 +75,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-07T01:08:48.605878"
+      "crawled_at": "2025-12-07T06:15:38.035638"
     },
     {
       "source": "theverge",
@@ -87,7 +87,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-07T01:08:48.605943"
+      "crawled_at": "2025-12-07T06:15:38.035700"
     },
     {
       "source": "theverge",
@@ -100,7 +100,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:48.605981"
+      "crawled_at": "2025-12-07T06:15:38.035738"
     },
     {
       "source": "theverge",
@@ -113,7 +113,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:48.606028"
+      "crawled_at": "2025-12-07T06:15:38.035784"
     },
     {
       "source": "theverge",
@@ -126,73 +126,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:48.606066"
+      "crawled_at": "2025-12-07T06:15:38.035822"
     },
     {
       "source": "hackernews",
-      "title": "Trains cancelled over fake bridge collapse image",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cwygqqll9k2o\nComments URL: https://news.ycombinator.com/item?id=46178108\nPoints: 7\n# Comments: 3",
-      "link": "https://www.bbc.com/news/articles/cwygqqll9k2o",
-      "published": "Sun, 07 Dec 2025 00:37:15 +0000",
+      "title": "Discovering the indieweb with calm tech",
+      "summary": "Article URL: https://alexsci.com/blog/calm-tech-discover/\nComments URL: https://news.ycombinator.com/item?id=46178892\nPoints: 17\n# Comments: 2",
+      "link": "https://alexsci.com/blog/calm-tech-discover/",
+      "published": "Sun, 07 Dec 2025 03:26:01 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-07T06:15:38.477684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Z2 – Lithographically fabricated IC in a garage fab",
+      "summary": "Article URL: https://sam.zeloof.xyz/second-ic/\nComments URL: https://news.ycombinator.com/item?id=46178789\nPoints: 81\n# Comments: 8",
+      "link": "https://sam.zeloof.xyz/second-ic/",
+      "published": "Sun, 07 Dec 2025 03:03:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-07T06:15:38.477737"
+    },
+    {
+      "source": "hackernews",
+      "title": "Oblast: A better Blasto game for the Commodore 64",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html\nComments URL: https://news.ycombinator.com/item?id=46178464\nPoints: 13\n# Comments: 2",
+      "link": "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html",
+      "published": "Sun, 07 Dec 2025 01:47:23 +0000",
+      "keywords": [
+        "VC",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-07T06:15:38.477776"
+    },
+    {
+      "source": "hackernews",
+      "title": "Eurydice: a Rust to C compiler (yes)",
+      "summary": "Article URL: https://jonathan.protzenko.fr/2025/10/28/eurydice.html\nComments URL: https://news.ycombinator.com/item?id=46178442\nPoints: 52\n# Comments: 4",
+      "link": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+      "published": "Sun, 07 Dec 2025 01:41:33 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-07T06:15:38.477804"
+    },
+    {
+      "source": "hackernews",
+      "title": "Using LLMs at Oxide",
+      "summary": "Article URL: https://rfd.shared.oxide.computer/rfd/0576\nComments URL: https://news.ycombinator.com/item?id=46178347\nPoints: 232\n# Comments: 95",
+      "link": "https://rfd.shared.oxide.computer/rfd/0576",
+      "published": "Sun, 07 Dec 2025 01:17:40 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.188833"
-    },
-    {
-      "source": "hackernews",
-      "title": "Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border",
-      "summary": "Article URL: https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71\nComments URL: https://news.ycombinator.com/item?id=46177926\nPoints: 7\n# Comments: 1",
-      "link": "https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71",
-      "published": "Sun, 07 Dec 2025 00:11:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.188882"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels",
-      "summary": "Hi everyone,\nI built FuseCells, a minimalistic logic puzzle game where every level is handcrafted (no procedural generation). It started as a personal challenge to design a clean rule-set and scale it to thousands of puzzles without losing difficulty balance.What’s unique:\n • 2,500 handcrafted level",
-      "link": "https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139",
-      "published": "Sat, 06 Dec 2025 23:51:08 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.188987"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenTelemetry Distribution Builder",
-      "summary": "Article URL: https://github.com/observIQ/otel-distro-builder\nComments URL: https://news.ycombinator.com/item?id=46177664\nPoints: 4\n# Comments: 1",
-      "link": "https://github.com/observIQ/otel-distro-builder",
-      "published": "Sat, 06 Dec 2025 23:41:18 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.189022"
-    },
-    {
-      "source": "hackernews",
-      "title": "Kilauea erupts, destroying webcam [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=TK2N99BDw7A\nComments URL: https://news.ycombinator.com/item?id=46177645\nPoints: 62\n# Comments: 10",
-      "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
-      "published": "Sat, 06 Dec 2025 23:39:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.189054"
+      "crawled_at": "2025-12-07T06:15:38.477829"
     },
     {
       "source": "arstechnica",
@@ -207,7 +203,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.314766"
+      "crawled_at": "2025-12-07T06:15:38.647053"
     },
     {
       "source": "arstechnica",
@@ -219,7 +215,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.314802"
+      "crawled_at": "2025-12-07T06:15:38.647090"
     },
     {
       "source": "arstechnica",
@@ -231,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.314841"
+      "crawled_at": "2025-12-07T06:15:38.647127"
     },
     {
       "source": "arstechnica",
@@ -244,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.314863"
+      "crawled_at": "2025-12-07T06:15:38.647150"
     },
     {
       "source": "arstechnica",
@@ -257,7 +253,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2025-12-07T01:08:49.314897"
+      "crawled_at": "2025-12-07T06:15:38.647185"
     },
     {
       "source": "wired",
@@ -270,7 +266,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.442857"
+      "crawled_at": "2025-12-07T06:15:38.804528"
     },
     {
       "source": "wired",
@@ -282,7 +278,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.442909"
+      "crawled_at": "2025-12-07T06:15:38.804580"
     },
     {
       "source": "wired",
@@ -295,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T01:08:49.442933"
+      "crawled_at": "2025-12-07T06:15:38.804607"
     },
     {
       "source": "wired",
@@ -309,7 +305,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.442962"
+      "crawled_at": "2025-12-07T06:15:38.804637"
     },
     {
       "source": "wired",
@@ -321,7 +317,7 @@
         "API"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T01:08:49.442997"
+      "crawled_at": "2025-12-07T06:15:38.804673"
     }
   ]
 }
