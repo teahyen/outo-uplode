@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-07T00:59:13.214251",
+  "last_updated": "2025-12-07T01:08:49.443098",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:12.362370"
+      "crawled_at": "2025-12-07T01:08:48.470670"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-07T00:59:12.362417"
+      "crawled_at": "2025-12-07T01:08:48.470717"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-07T00:59:12.362449"
+      "crawled_at": "2025-12-07T01:08:48.470750"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.362499"
+      "crawled_at": "2025-12-07T01:08:48.470804"
     },
     {
       "source": "techcrunch",
@@ -62,7 +62,7 @@
       "published": "Sat, 06 Dec 2025 17:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.362529"
+      "crawled_at": "2025-12-07T01:08:48.470832"
     },
     {
       "source": "theverge",
@@ -75,7 +75,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-07T00:59:12.491294"
+      "crawled_at": "2025-12-07T01:08:48.605878"
     },
     {
       "source": "theverge",
@@ -87,7 +87,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-07T00:59:12.491355"
+      "crawled_at": "2025-12-07T01:08:48.605943"
     },
     {
       "source": "theverge",
@@ -100,7 +100,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:12.491393"
+      "crawled_at": "2025-12-07T01:08:48.605981"
     },
     {
       "source": "theverge",
@@ -113,7 +113,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.491436"
+      "crawled_at": "2025-12-07T01:08:48.606028"
     },
     {
       "source": "theverge",
@@ -126,7 +126,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:12.491475"
+      "crawled_at": "2025-12-07T01:08:48.606066"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trains cancelled over fake bridge collapse image",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwygqqll9k2o\nComments URL: https://news.ycombinator.com/item?id=46178108\nPoints: 7\n# Comments: 3",
+      "link": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+      "published": "Sun, 07 Dec 2025 00:37:15 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-07T01:08:49.188833"
     },
     {
       "source": "hackernews",
@@ -138,7 +151,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.930224"
+      "crawled_at": "2025-12-07T01:08:49.188882"
     },
     {
       "source": "hackernews",
@@ -153,7 +166,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:12.930333"
+      "crawled_at": "2025-12-07T01:08:49.188987"
     },
     {
       "source": "hackernews",
@@ -167,34 +180,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.930370"
+      "crawled_at": "2025-12-07T01:08:49.189022"
     },
     {
       "source": "hackernews",
       "title": "Kilauea erupts, destroying webcam [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=TK2N99BDw7A\nComments URL: https://news.ycombinator.com/item?id=46177645\nPoints: 45\n# Comments: 5",
+      "summary": "Article URL: https://www.youtube.com/watch?v=TK2N99BDw7A\nComments URL: https://news.ycombinator.com/item?id=46177645\nPoints: 62\n# Comments: 10",
       "link": "https://www.youtube.com/watch?v=TK2N99BDw7A",
       "published": "Sat, 06 Dec 2025 23:39:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:12.930404"
-    },
-    {
-      "source": "hackernews",
-      "title": "PatchworkOS: An OS for x86_64, built from scratch in C and assembly",
-      "summary": "Article URL: https://github.com/KaiNorberg/PatchworkOS\nComments URL: https://news.ycombinator.com/item?id=46177615\nPoints: 9\n# Comments: 1",
-      "link": "https://github.com/KaiNorberg/PatchworkOS",
-      "published": "Sat, 06 Dec 2025 23:33:23 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:12.930431"
+      "crawled_at": "2025-12-07T01:08:49.189054"
     },
     {
       "source": "arstechnica",
@@ -209,7 +207,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:13.085573"
+      "crawled_at": "2025-12-07T01:08:49.314766"
     },
     {
       "source": "arstechnica",
@@ -221,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:13.085609"
+      "crawled_at": "2025-12-07T01:08:49.314802"
     },
     {
       "source": "arstechnica",
@@ -233,7 +231,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:13.085645"
+      "crawled_at": "2025-12-07T01:08:49.314841"
     },
     {
       "source": "arstechnica",
@@ -246,7 +244,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:13.085668"
+      "crawled_at": "2025-12-07T01:08:49.314863"
     },
     {
       "source": "arstechnica",
@@ -259,7 +257,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2025-12-07T00:59:13.085702"
+      "crawled_at": "2025-12-07T01:08:49.314897"
     },
     {
       "source": "wired",
@@ -272,7 +270,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:13.213974"
+      "crawled_at": "2025-12-07T01:08:49.442857"
     },
     {
       "source": "wired",
@@ -284,7 +282,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:13.214028"
+      "crawled_at": "2025-12-07T01:08:49.442909"
     },
     {
       "source": "wired",
@@ -297,7 +295,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-07T00:59:13.214053"
+      "crawled_at": "2025-12-07T01:08:49.442933"
     },
     {
       "source": "wired",
@@ -311,7 +309,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:13.214081"
+      "crawled_at": "2025-12-07T01:08:49.442962"
     },
     {
       "source": "wired",
@@ -323,7 +321,7 @@
         "API"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-07T00:59:13.214116"
+      "crawled_at": "2025-12-07T01:08:49.442997"
     }
   ]
 }
