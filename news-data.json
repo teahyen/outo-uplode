@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-12-10T00:55:25.995217",
+  "last_updated": "2025-12-10T06:19:20.615594",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Coreweave CEO defends AI circular deals as ‘working together’",
+      "title": "CoreWeave CEO defends AI circular deals as ‘working together’",
       "summary": "The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a \"violent change\" in demand.",
       "link": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
       "published": "Wed, 10 Dec 2025 00:49:25 +0000",
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:24.823356"
+      "crawled_at": "2025-12-10T06:19:19.767590"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:24.823389"
+      "crawled_at": "2025-12-10T06:19:19.767643"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:24.823415"
+      "crawled_at": "2025-12-10T06:19:19.767672"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:24.823445"
+      "crawled_at": "2025-12-10T06:19:19.767703"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,22 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:24.823469"
+      "crawled_at": "2025-12-10T06:19:19.767727"
+    },
+    {
+      "source": "theverge",
+      "title": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines fr",
+      "link": "https://www.theverge.com/column/841207/ai-neurips-2025",
+      "published": "2025-12-09T21:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T06:19:19.866495"
     },
     {
       "source": "theverge",
@@ -80,7 +95,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.026172"
+      "crawled_at": "2025-12-10T06:19:19.866568"
     },
     {
       "source": "theverge",
@@ -93,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.026214"
+      "crawled_at": "2025-12-10T06:19:19.866601"
     },
     {
       "source": "theverge",
@@ -106,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.026250"
+      "crawled_at": "2025-12-10T06:19:19.866649"
     },
     {
       "source": "theverge",
@@ -122,88 +137,72 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.026282"
-    },
-    {
-      "source": "theverge",
-      "title": "Some of our favorite gifts will cost you less than $25",
-      "summary": "Holiday shopping on a budget can feel constricting, especially if you've been invited to a white elephant or need a last-minute stocking stuffer. The good news is that, with this guide, you can leave that stress behind. Whether you're aiming for something practical or fun, we've found plenty of grea",
-      "link": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
-      "published": "2025-12-09T16:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.026316"
+      "crawled_at": "2025-12-10T06:19:19.866685"
     },
     {
       "source": "hackernews",
-      "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
-      "summary": "Article URL: https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html\nComments URL: https://news.ycombinator.com/item?id=46211861\nPoints: 11\n# Comments: 3",
-      "link": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
-      "published": "Tue, 09 Dec 2025 22:54:33 +0000",
+      "title": "Dependable C",
+      "summary": "Article URL: https://dependablec.org/\nComments URL: https://news.ycombinator.com/item?id=46214091\nPoints: 12\n# Comments: 2",
+      "link": "https://dependablec.org/",
+      "published": "Wed, 10 Dec 2025 04:29:30 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.469041"
-    },
-    {
-      "source": "hackernews",
-      "title": "Linux CVEs, more than you ever wanted to know",
-      "summary": "Article URL: http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/\nComments URL: https://news.ycombinator.com/item?id=46211802\nPoints: 18\n# Comments: 16",
-      "link": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
-      "published": "Tue, 09 Dec 2025 22:47:36 +0000",
-      "keywords": [
-        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.469085"
+      "crawled_at": "2025-12-10T06:19:20.293834"
     },
     {
       "source": "hackernews",
-      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
-      "summary": "Article URL: http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html\nComments URL: https://news.ycombinator.com/item?id=46210806\nPoints: 39\n# Comments: 8",
-      "link": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
-      "published": "Tue, 09 Dec 2025 21:19:37 +0000",
-      "keywords": [
-        "Linux",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.469122"
-    },
-    {
-      "source": "hackernews",
-      "title": "Django: what’s new in 6.0",
-      "summary": "Article URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/\nComments URL: https://news.ycombinator.com/item?id=46210240\nPoints: 134\n# Comments: 32",
-      "link": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
-      "published": "Tue, 09 Dec 2025 20:33:14 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.469164"
-    },
-    {
-      "source": "hackernews",
-      "title": "Agentic AI Foundation",
-      "summary": "Article URL: https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation\nComments URL: https://news.ycombinator.com/item?id=46209846\nPoints: 50\n# Comments: 7",
-      "link": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
-      "published": "Tue, 09 Dec 2025 20:00:39 +0000",
+      "title": "'Source available' is not open source (and that's okay)",
+      "summary": "Article URL: https://dri.es/source-available-is-not-open-source-and-that-is-okay\nComments URL: https://news.ycombinator.com/item?id=46213709\nPoints: 37\n# Comments: 28",
+      "link": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
+      "published": "Wed, 10 Dec 2025 03:33:14 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.469192"
+      "crawled_at": "2025-12-10T06:19:20.293872"
+    },
+    {
+      "source": "hackernews",
+      "title": "The end of the kernel Rust experiment",
+      "summary": "Article URL: https://lwn.net/Articles/1049831/\nComments URL: https://news.ycombinator.com/item?id=46213585\nPoints: 197\n# Comments: 83",
+      "link": "https://lwn.net/Articles/1049831/",
+      "published": "Wed, 10 Dec 2025 03:15:24 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-10T06:19:20.293901"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show all your application error using Cloudflare Error Page",
+      "summary": "Article URL: https://github.com/donlon/cloudflare-error-page\nComments URL: https://news.ycombinator.com/item?id=46213273\nPoints: 12\n# Comments: 4",
+      "link": "https://github.com/donlon/cloudflare-error-page",
+      "published": "Wed, 10 Dec 2025 02:18:07 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2025-12-10T06:19:20.293930"
+    },
+    {
+      "source": "hackernews",
+      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "summary": "Article URL: https://zenodo.org/records/17873275\nComments URL: https://news.ycombinator.com/item?id=46212969\nPoints: 54\n# Comments: 11",
+      "link": "https://zenodo.org/records/17873275",
+      "published": "Wed, 10 Dec 2025 01:25:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T06:19:20.293969"
     },
     {
       "source": "arstechnica",
@@ -215,7 +214,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.771104"
+      "crawled_at": "2025-12-10T06:19:20.484675"
     },
     {
       "source": "arstechnica",
@@ -230,7 +229,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.771133"
+      "crawled_at": "2025-12-10T06:19:20.484705"
     },
     {
       "source": "arstechnica",
@@ -242,7 +241,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-10T00:55:25.771169"
+      "crawled_at": "2025-12-10T06:19:20.484743"
     },
     {
       "source": "arstechnica",
@@ -255,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.771198"
+      "crawled_at": "2025-12-10T06:19:20.484773"
     },
     {
       "source": "arstechnica",
@@ -268,7 +267,43 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T00:55:25.771223"
+      "crawled_at": "2025-12-10T06:19:20.484798"
+    },
+    {
+      "source": "wired",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in December",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "published": "Wed, 10 Dec 2025 06:10:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-10T06:19:20.615353"
+    },
+    {
+      "source": "wired",
+      "title": "Hulu Promo Codes & Discounts: 20% Off December",
+      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+      "link": "https://www.wired.com/story/hulu-promo-code/",
+      "published": "Wed, 10 Dec 2025 06:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T06:19:20.615385"
+    },
+    {
+      "source": "wired",
+      "title": "Silicon Valley Is All About the Hard Sell These Days",
+      "summary": "Sam Altman’s appearance on The Tonight Show is part of a larger charm offensive currently being waged by the tech establishment.",
+      "link": "https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/",
+      "published": "Wed, 10 Dec 2025 01:36:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-10T06:19:20.615422"
     },
     {
       "source": "wired",
@@ -280,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.995011"
+      "crawled_at": "2025-12-10T06:19:20.615459"
     },
     {
       "source": "wired",
@@ -293,43 +328,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-10T00:55:25.995048"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Down Comforter Deals for Winter Nights (2025)",
-      "summary": "We’ve used all of these down comforter picks on our own beds, and they’re excellent for winter (or year-round).",
-      "link": "https://www.wired.com/story/down-comforter-deals-december-2025/",
-      "published": "Tue, 09 Dec 2025 22:29:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.995084"
-    },
-    {
-      "source": "wired",
-      "title": "50% Off Verizon Promo Codes | December 2025",
-      "summary": "Save with Verizon coupon codes for $1,100 off Galaxy S25 phones, free iPhone 17 Pros, and up to 50% off plans.",
-      "link": "https://www.wired.com/story/verizon-promo-code/",
-      "published": "Tue, 09 Dec 2025 21:57:06 +0000",
-      "keywords": [
-        "iPhone"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-10T00:55:25.995106"
-    },
-    {
-      "source": "wired",
-      "title": "The 51 Best Shows on Hulu, WIRED’s Picks (December 2025)",
-      "summary": "To Cook a Bear, The Manipulated, and Chris Hemsworth: A Road Trip to Remember are just a few of the shows you should be watching on Hulu this month.",
-      "link": "https://www.wired.com/story/best-tv-shows-hulu-this-week/",
-      "published": "Tue, 09 Dec 2025 20:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T00:55:25.995142"
+      "crawled_at": "2025-12-10T06:19:20.615489"
     }
   ]
 }
