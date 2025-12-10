@@ -1,83 +1,112 @@
 {
-  "last_updated": "2025-12-10T12:22:55.495967",
+  "last_updated": "2025-12-10T18:18:11.808571",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Google invests in Fervo’s $462M round to unlock even more geothermal energy",
-      "summary": "Fervo Energy's Series E round will help the company build additional phases of its Cape Station power plant while beginning development on new sites.",
-      "link": "https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/",
-      "published": "Wed, 10 Dec 2025 12:05:00 +0000",
-      "keywords": [
-        "Go",
-        "Google"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:54.385932"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises",
-      "summary": "Meesho had a good first day as a public company, with its shares climbing as much as 46% from its issue price as investors jumped to grab a piece of the company built around small merchants and value-conscious consumers.",
-      "link": "https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/",
-      "published": "Wed, 10 Dec 2025 12:03:08 +0000",
-      "keywords": [
-        "Go",
-        "Startup",
-        "IPO",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2025-12-10T12:22:54.385998"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests",
-      "summary": "Inito has raised $29 million in new funding to invest in and develop AI-engineered antibodies that will help it offer new types of tests and improve the accuracy of existing ones.",
-      "link": "https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/",
-      "published": "Wed, 10 Dec 2025 12:00:00 +0000",
+      "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
+      "summary": "Google is testing AI-powered article overviews on participating publications’ Google News pages as part of a new pilot program, the search giant announced on Wednesday. News publishers participating in the pilot program include Der Spiegel, El País, Folha, Infobae, Kompas, The Guardian, The Times of",
+      "link": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
+      "published": "Wed, 10 Dec 2025 17:00:00 +0000",
       "keywords": [
         "AI",
-        "Startup",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.690878"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks",
+      "summary": "Amazon says its Kindle Direct DRM-free titles will be available as PDFs and EPUB files going forward.",
+      "link": "https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/",
+      "published": "Wed, 10 Dec 2025 16:26:01 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.690918"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ChatGPT is Apple’s most downloaded app of 2025 in the US",
+      "summary": "This is ChatGPT's first year as the No. 1 app on the U.S. App Store by downloads.",
+      "link": "https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/",
+      "published": "Wed, 10 Dec 2025 15:17:26 +0000",
+      "keywords": [
+        "ChatGPT",
+        "GPT",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.690946"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon now offers same-day delivery of perishable groceries in 2,300 US cities",
+      "summary": "The e-commerce giant says it will expand the service to additional cities in 2026.",
+      "link": "https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/",
+      "published": "Wed, 10 Dec 2025 15:14:28 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T18:18:10.690979"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Oboe raises $16 million from a16z for its AI-powered course-generation platform",
+      "summary": "Oboe has raised $16 million in funding for its learning app. The company now lets users generate unlimited courses for free.",
+      "link": "https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/",
+      "published": "Wed, 10 Dec 2025 15:00:00 +0000",
+      "keywords": [
+        "AI",
         "Funding",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.386033"
-    },
-    {
-      "source": "techcrunch",
-      "title": "CoreWeave CEO defends AI circular deals as ‘working together’",
-      "summary": "The CEO of the AI data center provider, which has Nvidia as an investor and a supplier, described the environment as a \"violent change\" in demand.",
-      "link": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
-      "published": "Wed, 10 Dec 2025 00:49:25 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.386063"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Unconventional AI confirms its massive  $475M seed round",
-      "summary": "Led by Naveen Rao, the former head of AI at Databricks, the new hardware startup is valued at $4.5 billion.",
-      "link": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
-      "published": "Wed, 10 Dec 2025 00:24:16 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.386086"
+      "crawled_at": "2025-12-10T18:18:10.691004"
     },
     {
       "source": "theverge",
-      "title": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
-      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines fr",
-      "link": "https://www.theverge.com/column/841207/ai-neurips-2025",
-      "published": "2025-12-09T21:00:00-05:00",
+      "title": "The 27 best gifts for travelers who are always on the move",
+      "summary": "I'm convinced that whoever said it's about the journey, not the destination, has never traveled. Try sitting on a plane for 16 hours - plus delays, airport security, and a snoring seat neighbor - and then get back to me. While getting from point A to point B can feel like a test of endurance, [&#823",
+      "link": "https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025",
+      "published": "2025-12-10T12:22:06-05:00",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.836183"
+    },
+    {
+      "source": "theverge",
+      "title": "Android users can now share a live video on 911 calls",
+      "summary": "A new feature coming to Android will allow users to get more support during emergencies by sharing a live video feed from their phone with 911 responders. For instance, if someone calls 911 for a medical emergency, the 911 responder can use the live video feed to walk the caller through CPR or first",
+      "link": "https://www.theverge.com/news/841503/android-emergency-live-video",
+      "published": "2025-12-10T12:01:00-05:00",
+      "keywords": [
+        "AI",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.836226"
+    },
+    {
+      "source": "theverge",
+      "title": "Google says it will link to more sources in AI Mode",
+      "summary": "Google is planning to update its AI-powered search feature, AI Mode, to include more in-line links to the sources it's pulling information from. The company included the update as part of a broader change to the way it interacts with sources, saying it will also introduce the links embedded inside A",
+      "link": "https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide",
+      "published": "2025-12-10T12:00:00-05:00",
       "keywords": [
         "AI",
         "Go",
@@ -85,249 +114,224 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.590549"
+      "crawled_at": "2025-12-10T18:18:10.836260"
     },
     {
       "source": "theverge",
-      "title": "Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore",
-      "summary": "Future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games, Activision announced on Tuesday. The past four releases in the series have been Modern Warfare II (2022), Modern Warfare III (2023), Black Ops 6 (2024), and Black Ops 7 (2025), but moving ",
-      "link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
-      "published": "2025-12-09T19:24:11-05:00",
+      "title": "The best doorbell cameras",
+      "summary": "With a smart video doorbell, your front door's communication skills go from 1980s landline to a modern smartphone. Combining a motion-activated camera with a microphone, speaker, and buzzer, a doorbell camera sends alerts to your phone, allowing you to see who's at the door without needing to open i",
+      "link": "https://www.theverge.com/22954554/best-video-doorbell-camera",
+      "published": "2025-12-10T12:00:00-05:00",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:54.590612"
-    },
-    {
-      "source": "theverge",
-      "title": "Both sides of the aisle hate the AI moratorium",
-      "summary": "Hello and welcome to Regulator. If you're a subscriber, you are stalwart and true, and if you're here from the internet, prove your chivalry and worth by subscribing to The Verge here. (And if you're David Sacks: we said what we said.) As of Tuesday, President Donald Trump has committed to signing s",
-      "link": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
-      "published": "2025-12-09T18:03:41-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.590646"
-    },
-    {
-      "source": "theverge",
-      "title": "Somehow, this AI-generated McDonald&#8217;s ad about hating Christmas was a flop",
-      "summary": "If you're having a stressful holiday season, the answer is McDonald's - at least, that's what a now-removed AI-generated ad suggested, as reported by Futurism. Set to a song calling the holiday season \"the most terrible time of the year,\" the ad shows AI-generated people falling victim to a slew of ",
-      "link": "https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad",
-      "published": "2025-12-09T17:52:20-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.590680"
-    },
-    {
-      "source": "theverge",
-      "title": "Google is powering a new US military AI platform",
-      "summary": "The Department of Defense is announcing its own \"bespoke\" AI platform, GenAI.mil, and Google Cloud's Gemini will be the first AI tool available on it, according to a press release. Secretary of Defense Pete Hegseth (who has dubbed himself Secretary of War, though the name has not been legally change",
-      "link": "https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil",
-      "published": "2025-12-09T17:43:54-05:00",
-      "keywords": [
-        "AI",
         "Go",
-        "Google Cloud",
-        "Google",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:54.590716"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stop Breaking TLS",
-      "summary": "Article URL: https://www.markround.com/blog/2025/12/09/stop-breaking-tls/\nComments URL: https://news.ycombinator.com/item?id=46214950\nPoints: 111\n# Comments: 73",
-      "link": "https://www.markround.com/blog/2025/12/09/stop-breaking-tls/",
-      "published": "Wed, 10 Dec 2025 07:06:55 +0000",
-      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.144151"
+      "crawled_at": "2025-12-10T18:18:10.836345"
     },
     {
-      "source": "hackernews",
-      "title": "Revisiting \"Let's Build a Compiler\"",
-      "summary": "Article URL: https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/\nComments URL: https://news.ycombinator.com/item?id=46214693\nPoints: 106\n# Comments: 11",
-      "link": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
-      "published": "Wed, 10 Dec 2025 06:22:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.144194"
-    },
-    {
-      "source": "hackernews",
-      "title": "Are the Three Musketeers allergic to muskets? (2014)",
-      "summary": "Article URL: https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets\nComments URL: https://news.ycombinator.com/item?id=46214617\nPoints: 38\n# Comments: 19",
-      "link": "https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets",
-      "published": "Wed, 10 Dec 2025 06:08:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.144231"
-    },
-    {
-      "source": "hackernews",
-      "title": "Rust in the kernel is no longer experimental",
-      "summary": "Article URL: https://lwn.net/Articles/1049831/\nComments URL: https://news.ycombinator.com/item?id=46213585\nPoints: 608\n# Comments: 397",
-      "link": "https://lwn.net/Articles/1049831/",
-      "published": "Wed, 10 Dec 2025 03:15:24 +0000",
-      "keywords": [
-        "Rust",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-10T12:22:55.144258"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cloudflare error page generator",
-      "summary": "Article URL: https://github.com/donlon/cloudflare-error-page\nComments URL: https://news.ycombinator.com/item?id=46213273\nPoints: 59\n# Comments: 8",
-      "link": "https://github.com/donlon/cloudflare-error-page",
-      "published": "Wed, 10 Dec 2025 02:18:07 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-10T12:22:55.144285"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Over 250 people quarantined in South Carolina as measles outbreak rages",
-      "summary": "16 cases are linked to a church, which followed exposures at four schools last week.",
-      "link": "https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/",
-      "published": "Tue, 09 Dec 2025 22:34:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.317409"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Big Tech joins forces with Linux Foundation to standardize AI agents",
-      "summary": "The Agentic AI Foundation launches to support MCP, AGENTS.md, and goose.",
-      "link": "https://arstechnica.com/ai/2025/12/big-tech-joins-forces-with-linux-foundation-to-standardize-ai-agents/",
-      "published": "Tue, 09 Dec 2025 21:08:11 +0000",
+      "source": "theverge",
+      "title": "Calibri is too woke for the State Department",
+      "summary": "The US State Department is turning back to an old typeface in its latest quest to tear up anything related to diversity or accessibility. In an internal document seen by Reuters and The New York Times, US Secretary of State Marco Rubio said that the Biden-era decision to switch to Calibri typeface i",
+      "link": "https://www.theverge.com/news/841664/calibri-is-too-woke-for-the-state-department",
+      "published": "2025-12-10T11:54:04-05:00",
       "keywords": [
         "AI",
-        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:10.836379"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is It a Bubble? By Howard Marks",
+      "summary": "Article URL: https://www.oaktreecapital.com/insights/memo/is-it-a-bubble\nComments URL: https://news.ycombinator.com/item?id=46220640\nPoints: 4\n# Comments: 0",
+      "link": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble",
+      "published": "Wed, 10 Dec 2025 17:30:43 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T18:18:11.415455"
+    },
+    {
+      "source": "hackernews",
+      "title": "Auto-grading decade-old Hacker News discussions with hindsight",
+      "summary": "Article URL: https://karpathy.bearblog.dev/auto-grade-hn/\nComments URL: https://news.ycombinator.com/item?id=46220540\nPoints: 8\n# Comments: 1",
+      "link": "https://karpathy.bearblog.dev/auto-grade-hn/",
+      "published": "Wed, 10 Dec 2025 17:23:53 +0000",
+      "keywords": [
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-10T18:18:11.415495"
+    },
+    {
+      "source": "hackernews",
+      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+      "summary": "Article URL: https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html\nComments URL: https://news.ycombinator.com/item?id=46220488\nPoints: 40\n# Comments: 13",
+      "link": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+      "published": "Wed, 10 Dec 2025 17:20:06 +0000",
+      "keywords": [
         "Linux",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:55.317437"
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T18:18:11.415534"
     },
     {
-      "source": "arstechnica",
-      "title": "Supreme Court appears likely to approve Trump’s firing of FTC Democrat",
-      "summary": "Conservative justices seem ready to back Trump control of independent agencies.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/",
-      "published": "Tue, 09 Dec 2025 18:53:21 +0000",
+      "source": "hackernews",
+      "title": "9 Mothers (YC X26) Is Hiring",
+      "summary": "Article URL: https://app.dover.com/jobs/9mothers\nComments URL: https://news.ycombinator.com/item?id=46220211\nPoints: 0\n# Comments: 0",
+      "link": "https://app.dover.com/jobs/9mothers",
+      "published": "Wed, 10 Dec 2025 17:00:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-10T12:22:55.317473"
+      "crawled_at": "2025-12-10T18:18:11.415563"
+    },
+    {
+      "source": "hackernews",
+      "title": "DeepSeek uses banned Nvidia chips for AI model, report says",
+      "summary": "(Original is https://www.theinformation.com/articles/deepseek-using-banne... but hardwalled)\n\nComments URL: https://news.ycombinator.com/item?id=46219853\nPoints: 104\n# Comments: 74",
+      "link": "https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html",
+      "published": "Wed, 10 Dec 2025 16:34:52 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:11.415591"
     },
     {
       "source": "arstechnica",
-      "title": "NASA astronauts will have their own droid when they go back to the Moon",
-      "summary": "NASA crew will be the first astronauts to work with a robot on a celestial body other than Earth.",
-      "link": "https://arstechnica.com/space/2025/12/lunar-outpost-rover-to-study-lunar-dust-alongside-artemis-astronauts-on-moon/",
-      "published": "Tue, 09 Dec 2025 18:09:05 +0000",
+      "title": "Ugly infotainment mars the 2025 Subaru Forester Hybrid experience",
+      "summary": "It drives fine, but the first hybrid Forester is not without its flaws.",
+      "link": "https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/",
+      "published": "Wed, 10 Dec 2025 18:00:19 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:11.662367"
+    },
+    {
+      "source": "arstechnica",
+      "title": "This is the oldest evidence of people starting fires",
+      "summary": "We didn't start the fire. (Neanderthals did, at least 400,000 years ago.)",
+      "link": "https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/",
+      "published": "Wed, 10 Dec 2025 17:14:08 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.317503"
+      "crawled_at": "2025-12-10T18:18:11.662403"
     },
     {
       "source": "arstechnica",
-      "title": "Court: “Because Trump said to” may not be a legally valid defense",
-      "summary": "The \"arbitrary and capricious\" standard strikes down another administration action.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/trumps-order-blocking-wind-development-thrown-out-by-court/",
-      "published": "Tue, 09 Dec 2025 17:47:01 +0000",
+      "title": "Sperm donor with rare cancer mutation fathered nearly 200 children in Europe",
+      "summary": "Children with the mutation have up to a 90% chance of developing cancer by age 60.",
+      "link": "https://arstechnica.com/health/2025/12/sperm-donor-with-rare-cancer-mutation-fathered-nearly-200-children-in-europe/",
+      "published": "Wed, 10 Dec 2025 16:59:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T18:18:11.662434"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Impeachment articles filed against RFK Jr., claiming abuse of power",
+      "summary": "He's the \"biggest self-created threat to our health and safety,\" Stevens said.",
+      "link": "https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/",
+      "published": "Wed, 10 Dec 2025 15:11:10 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:55.317529"
+      "crawled_at": "2025-12-10T18:18:11.662456"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Dr. Oz tells his federal employees to eat less during the holidays",
+      "summary": "“You don’t have to try every cookie on the holiday table,” wrote Mehmet Oz in an email to staff.",
+      "link": "https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/",
+      "published": "Wed, 10 Dec 2025 14:45:06 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:11.662484"
     },
     {
       "source": "wired",
-      "title": "Naya Create Review: A Split Keyboard That Just Doesn’t Work",
-      "summary": "A beautifully designed split keyboard that seems utterly determined not to work.",
-      "link": "https://www.wired.com/review/naya-create-keyboard/",
-      "published": "Wed, 10 Dec 2025 12:00:00 +0000",
+      "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
+      "summary": "The names of two partial owners of firms linked to the Salt Typhoon hacker group also appeared in records for a Cisco training program—years before the group targeted Cisco’s devices in a spy campaign.",
+      "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
+      "published": "Wed, 10 Dec 2025 17:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:11.808329"
+    },
+    {
+      "source": "wired",
+      "title": "The DHS Data Grab Is Putting US Citizens at Risk",
+      "summary": "As the US government rapidly merges data from across agencies in service of draconian immigration policies, citizens increasingly risk being caught up as well.",
+      "link": "https://www.wired.com/story/dhs-data-grab-putting-us-citizens-at-risk/",
+      "published": "Wed, 10 Dec 2025 16:00:00 +0000",
+      "keywords": [
+        "Go",
+        "API"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-10T18:18:11.808373"
+    },
+    {
+      "source": "wired",
+      "title": "18 Best Gifts for Mom (2025): LED Masks, E-Readers, Blow-Dry Brushes",
+      "summary": "From high-tech skin care to cool accessories, these are our favorite picks for the WIRED mom in your life.",
+      "link": "https://www.wired.com/gallery/gifts-for-moms-2025/",
+      "published": "Wed, 10 Dec 2025 15:39:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.495750"
+      "crawled_at": "2025-12-10T18:18:11.808404"
     },
     {
       "source": "wired",
-      "title": "17 Best Gifts for Men, Manly Men, and Menly Man Men (2025)",
-      "summary": "When you need something that's as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
-      "link": "https://www.wired.com/gallery/best-gifts-for-men-2025/",
-      "published": "Wed, 10 Dec 2025 11:32:00 +0000",
+      "title": "A Complete Guide to the Jeffrey Epstein Document Dumps",
+      "summary": "New records about the infamous sex offender are released seemingly every week. Here’s a quick rundown of who’s releasing the Epstein documents, what they contain—and what they’re releasing next.",
+      "link": "https://www.wired.com/story/a-complete-guide-to-the-jeffrey-epstein-document-dumps/",
+      "published": "Wed, 10 Dec 2025 15:26:18 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-10T18:18:11.808436"
+    },
+    {
+      "source": "wired",
+      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2025)",
+      "summary": "Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.",
+      "link": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/",
+      "published": "Wed, 10 Dec 2025 15:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.495790"
-    },
-    {
-      "source": "wired",
-      "title": "‘It Was Nuts’: The Extreme Tests that Show Why Hail Is a Multibillion-Dollar Problem",
-      "summary": "The costs of a hail damage have ballooned over the past two decades, prompting researchers to resort to extreme measures to understand how these storms destroy buildings.",
-      "link": "https://www.wired.com/story/it-was-nuts-the-extreme-tests-that-show-why-hail-is-a-multi-billion-dollar-problem/",
-      "published": "Wed, 10 Dec 2025 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-10T12:22:55.495823"
-    },
-    {
-      "source": "wired",
-      "title": "Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water",
-      "summary": "Parkinson’s disease has environmental toxic factors, not just genetic.",
-      "link": "https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/",
-      "published": "Wed, 10 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.495857"
-    },
-    {
-      "source": "wired",
-      "title": "Kids and Teen Influencers in Australia Say ‘Bye-Bye’ to Social Media",
-      "summary": "Starting Wednesday, Australia will prohibit kids under 16 from using social platforms. For youth content creators, it means logging off or finding creative ways to post anyway.",
-      "link": "https://www.wired.com/story/kids-and-teen-influencers-in-australia-say-goodbye-to-social-media/",
-      "published": "Wed, 10 Dec 2025 08:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-10T12:22:55.495897"
+      "crawled_at": "2025-12-10T18:18:11.808468"
     }
   ]
 }
