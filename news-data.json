@@ -1,65 +1,181 @@
 {
-  "last_updated": "2025-12-11T12:24:05.837739",
+  "last_updated": "2025-12-11T18:16:11.496707",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
-      "summary": "Port offers a proprietary alternative to Spotify's popular devtool catalog Backstage, but with a valuable addition: it can be used to manage AI agents, too.",
-      "link": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
-      "published": "Thu, 11 Dec 2025 11:00:00 +0000",
+      "title": "Google’s AI try-on feature for clothes now works with just a selfie",
+      "summary": "In the past, users had to upload a full-body picture of themselves to virtually try on a piece of clothing. Now, they can use a selfie and Nano Banana will generate a full body digital version of them.",
+      "link": "https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/",
+      "published": "Thu, 11 Dec 2025 18:09:27 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.410260"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo",
+      "summary": "OpenAI just launched GPT-5.2, a frontier model aimed at developers and professionals, pushing reasoning and coding benchmarks as it races Google’s Gemini 3 while grappling with compute costs and no generator.",
+      "link": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
+      "published": "Thu, 11 Dec 2025 18:02:44 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.410304"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs",
+      "summary": "Google Labs is testing a product that will work with your browser tabs to make web apps for you.",
+      "link": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/",
+      "published": "Thu, 11 Dec 2025 18:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-11T18:16:10.410341"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Rivian’s AI assistant is coming to its EVs in early 2026",
+      "summary": "And when it does, the AI assistant will roll out to every existing EV in its lineup, not just the next-generation versions of its R1T truck and R1S SUV.",
+      "link": "https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/",
+      "published": "Thu, 11 Dec 2025 17:55:12 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.015280"
+      "crawled_at": "2025-12-11T18:16:10.410372"
     },
     {
       "source": "techcrunch",
-      "title": "Runware raises $50M Series A to help make image, video generation easier for developers",
-      "summary": "Runware lets developers integrate realtime image generation in their apps, with an affordable pricing model.",
-      "link": "https://techcrunch.com/2025/12/11/runware-raises-50m-series-a-from-dawn-capital-comcast-ventures-to-become-the-api-for-all-ai/",
-      "published": "Thu, 11 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.015316"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap",
-      "summary": "Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unusual Ventures.",
-      "link": "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/",
-      "published": "Thu, 11 Dec 2025 10:30:00 +0000",
+      "title": "Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis",
+      "summary": "CEO RJ Scaringe laid out his plan for how Rivian's vehicles will increasingly drive themselves, in a bid to match or exceed the capabilities of rival automakers and AV companies.",
+      "link": "https://techcrunch.com/2025/12/11/rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/",
+      "published": "Thu, 11 Dec 2025 17:20:10 +0000",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.015349"
+      "crawled_at": "2025-12-11T18:16:10.410400"
     },
     {
-      "source": "techcrunch",
-      "title": "Baby delivered in Waymo continues proud tradition of not making it to the hospital",
-      "summary": "Some traditions, it seems, are immune to disruption.",
-      "link": "https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/",
-      "published": "Thu, 11 Dec 2025 04:46:56 +0000",
+      "source": "theverge",
+      "title": "Google is building an experimental new browser and a new kind of web app",
+      "summary": "The Chrome team at Google recently built a new browser. It takes a query or prompt, opens a bunch of related tabs for you, and then builds you a custom app for whatever you're trying to do. Ask it for travel tips and it'll build you a planner app; ask it for study help and [&#8230;]",
+      "link": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
+      "published": "2025-12-11T13:10:36-05:00",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-11T18:16:10.586010"
+    },
+    {
+      "source": "theverge",
+      "title": "ChatGPT&#8217;s ‘adult mode’ is expected to debut in Q1 2026",
+      "summary": "We've seen NSFW offerings from Grok and other chatbots, and OpenAI CEO Sam Altman has been teasing adult content within ChatGPT for a while. Now, we have a timeline. Fidji Simo, OpenAI's CEO of Applications, told reporters during a Thursday briefing about GPT-5.2 that she expects \"adult mode\" to deb",
+      "link": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026",
+      "published": "2025-12-11T13:10:19-05:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.586060"
+    },
+    {
+      "source": "theverge",
+      "title": "Comcast cable boxes are getting Amazon Luna cloud gaming",
+      "summary": "Amazon's Luna cloud gaming service is coming to cable boxes from Comcast and Rogers. The Luna app is already available via web browsers, Fire TV devices, Fire tablets, and many smart TVs from Samsung and LG, and this new expansion will bring the service to \"millions\" more devices, according to Amazo",
+      "link": "https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes",
+      "published": "2025-12-11T13:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "Cloud",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.586094"
+    },
+    {
+      "source": "theverge",
+      "title": "GPT-5.2 is OpenAI&#8217;s latest move in the agentic AI battle",
+      "summary": "GPT-5.2 is here, and with it, OpenAI wants \"to unlock even more economic value for people,\" Fidji Simo, the company's CEO of Applications, told reporters in a Thursday briefing. She said it's been in the works for \"many, many months.\" The company calls GPT-5.2 its \"best model yet for everyday profes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt",
+      "published": "2025-12-11T13:00:00-05:00",
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.586124"
+    },
+    {
+      "source": "theverge",
+      "title": "Mamoru Hosoda explains why Hamlet is everywhere this year",
+      "summary": "Hamlet is having something of a renaissance in 2025. This year's edition of the Toronto International Film Festival featured three different takes on the idea, including Chlo&#233; Zhao's adaptation of the play's inspiration and Aneil Karia's rendition set in modern-day London. But the most out-ther",
+      "link": "https://www.theverge.com/entertainment/842346/mamoru-hosoda-interview-scarlet",
+      "published": "2025-12-11T12:30:00-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:10.586157"
+    },
+    {
+      "source": "hackernews",
+      "title": "Days since last GitHub incident",
+      "summary": "Article URL: https://github-incidents.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=46233798\nPoints: 74\n# Comments: 47",
+      "link": "https://github-incidents.pages.dev/",
+      "published": "Thu, 11 Dec 2025 16:52:37 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-11T18:16:11.111684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Things I want to say to my boss",
+      "summary": "Article URL: https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss\nComments URL: https://news.ycombinator.com/item?id=46233570\nPoints: 122\n# Comments: 93",
+      "link": "https://www.ithoughtaboutthatalot.com/2025/the-things-i-want-to-say-to-my-boss",
+      "published": "Thu, 11 Dec 2025 16:35:48 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.015378"
+      "crawled_at": "2025-12-11T18:16:11.111726"
     },
     {
-      "source": "techcrunch",
-      "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
-      "summary": "Amin Vahdat has been promoted to chief technologist for AI infrastructure, a newly created position reporting directly to CEO Sundar Pichai.",
-      "link": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
-      "published": "Thu, 11 Dec 2025 01:10:04 +0000",
+      "source": "hackernews",
+      "title": "A Developer Accidentally Found CSAM in AI Data. Google Banned Him for It",
+      "summary": "Article URL: https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/\nComments URL: https://news.ycombinator.com/item?id=46233067\nPoints: 56\n# Comments: 33",
+      "link": "https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/",
+      "published": "Thu, 11 Dec 2025 16:02:32 +0000",
       "keywords": [
         "AI",
         "Go",
@@ -67,134 +183,51 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.015410"
+      "crawled_at": "2025-12-11T18:16:11.111758"
     },
     {
-      "source": "theverge",
-      "title": "Adobe sees a bright future as AI bet pays off",
-      "summary": "Entrenching generative AI into Adobe's creative software ecosystem is paying off, according to the company's latest earnings. While its share price has fallen by more than 37 percent this year at the time of writing, Adobe is reporting a bump in annual profits driven by record revenue of $23.77 bill",
-      "link": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
-      "published": "2025-12-11T06:06:44-05:00",
+      "source": "hackernews",
+      "title": "Show HN: GPULlama3.java Llama Compilied to PTX/OpenCL Now Integrated in Quarkus",
+      "summary": "wget https://github.com/beehive-lab/TornadoVM/releases/download/v...\nunzip tornadovm-2.1.0-opencl-linux-amd64.zip\n# Replace  manually with the absolute path of the extracted folder\nexport TORNADO_SDK=\"/tornadovm-2.1.0-opencl\"\nexport PATH=$TORNADO_SDK/bin:$PATHtornado --devices\ntornado --version# Nav",
+      "link": "https://news.ycombinator.com/item?id=46233009",
+      "published": "Thu, 11 Dec 2025 15:59:33 +0000",
       "keywords": [
-        "AI",
+        "Java",
+        "Linux",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.111486"
+      "category": "Hardware",
+      "crawled_at": "2025-12-11T18:16:11.111840"
     },
     {
-      "source": "theverge",
-      "title": "Ayaneo’s first Android phone looks like a return of the Xperia Play",
-      "summary": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to reveal a full set of inset physical control",
-      "link": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
-      "published": "2025-12-11T04:16:52-05:00",
+      "source": "hackernews",
+      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=hksVvXONrIo\nComments URL: https://news.ycombinator.com/item?id=46232528\nPoints: 225\n# Comments: 158",
+      "link": "https://www.youtube.com/watch?v=hksVvXONrIo",
+      "published": "Thu, 11 Dec 2025 15:25:43 +0000",
       "keywords": [
-        "Android",
-        "Gaming"
+        "iPhone",
+        "iOS",
+        "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-11T12:24:05.111558"
+      "crawled_at": "2025-12-11T18:16:11.111882"
     },
     {
-      "source": "theverge",
-      "title": "Donald Trump reminds the entire world he has no idea what 6G means",
-      "summary": "When business leaders spout buzzwords like \"AI,\" \"8K\" and \"5G,\" sometimes in the same sentence, we often get a sneaking suspicion they don't know what they mean! With President Donald Trump, there's no need to wonder: he clearly has no idea. \"What does [6G] do? Give you a little bit deeper view into",
-      "link": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
-      "published": "2025-12-10T18:37:26-05:00",
+      "source": "arstechnica",
+      "title": "Oracle shares slide on $15B increase in data center spending",
+      "summary": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
+      "link": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
+      "published": "Thu, 11 Dec 2025 14:39:21 +0000",
       "keywords": [
         "AI",
-        "5G",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.111592"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump could introduce ‘mandatory’ social media reviews for travelers",
-      "summary": "The Trump administration could soon require tourists from dozens of nations to hand over their social media handles before entering the country. Under a proposal from US Customs and Border Protection, the agency would make social media history from the past five years a \"mandatory\" part of the scree",
-      "link": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
-      "published": "2025-12-10T18:21:05-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.111651"
-    },
-    {
-      "source": "theverge",
-      "title": "Spotify&#8217;s Prompted Playlists use AI to control your algorithm",
-      "summary": "A new beta feature on Spotify takes the idea behind the Discover Weekly playlist and puts the control in users' hands through AI prompts. Prompted Playlists, which are initially launching in New Zealand on Thursday, let users type out exactly what they want to listen to, with as much or little detai",
-      "link": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
-      "published": "2025-12-10T17:11:57-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.111683"
-    },
-    {
-      "source": "hackernews",
-      "title": "If You Quit Social Media, Will You Read More Books?",
-      "summary": "Article URL: https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books\nComments URL: https://news.ycombinator.com/item?id=46229766\nPoints: 17\n# Comments: 15",
-      "link": "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books",
-      "published": "Thu, 11 Dec 2025 10:38:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.459909"
-    },
-    {
-      "source": "hackernews",
-      "title": "A \"Frozen\" Dictionary for Python",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/\nComments URL: https://news.ycombinator.com/item?id=46229467\nPoints: 34\n# Comments: 10",
-      "link": "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/",
-      "published": "Thu, 11 Dec 2025 09:51:47 +0000",
-      "keywords": [
-        "Python",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-11T12:24:05.459949"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Cost of a Closure in C",
-      "summary": "Article URL: https://thephd.dev/the-cost-of-a-closure-in-c-c2y\nComments URL: https://news.ycombinator.com/item?id=46228597\nPoints: 87\n# Comments: 24",
-      "link": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
-      "published": "Thu, 11 Dec 2025 07:21:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.459981"
-    },
-    {
-      "source": "hackernews",
-      "title": "Incomplete list of mistakes in the design of CSS",
-      "summary": "Article URL: https://wiki.csswg.org/ideas/mistakes\nComments URL: https://news.ycombinator.com/item?id=46227619\nPoints: 128\n# Comments: 82",
-      "link": "https://wiki.csswg.org/ideas/mistakes",
-      "published": "Thu, 11 Dec 2025 04:20:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.460014"
-    },
-    {
-      "source": "hackernews",
-      "title": "Patterns.dev",
-      "summary": "Article URL: https://www.patterns.dev/\nComments URL: https://news.ycombinator.com/item?id=46226483\nPoints: 329\n# Comments: 76",
-      "link": "https://www.patterns.dev/",
-      "published": "Thu, 11 Dec 2025 01:18:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.460043"
+      "crawled_at": "2025-12-11T18:16:11.308996"
     },
     {
       "source": "arstechnica",
@@ -206,7 +239,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.736905"
+      "crawled_at": "2025-12-11T18:16:11.309030"
     },
     {
       "source": "arstechnica",
@@ -220,7 +253,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.736938"
+      "crawled_at": "2025-12-11T18:16:11.309051"
     },
     {
       "source": "arstechnica",
@@ -233,7 +266,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-11T12:24:05.736967"
+      "crawled_at": "2025-12-11T18:16:11.309079"
     },
     {
       "source": "arstechnica",
@@ -246,78 +279,78 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.736990"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Cable channel subscribers grew for the first time in 8 years last quarter",
-      "summary": "Sports and YouTube TV played big roles, MoffettNathanson report says.",
-      "link": "https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/",
-      "published": "Wed, 10 Dec 2025 20:07:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.737017"
+      "crawled_at": "2025-12-11T18:16:11.309100"
     },
     {
       "source": "wired",
-      "title": "Laptops Have Never Been Cheaper. That Trend Might Reverse in 2026",
-      "summary": "Despite all the worries about the economy, laptop prices have never been lower. But in 2026, all of that could change.",
-      "link": "https://www.wired.com/story/laptops-have-never-been-cheaper-that-trend-might-reverse-in-2026/",
-      "published": "Thu, 11 Dec 2025 12:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-11T12:24:05.837443"
-    },
-    {
-      "source": "wired",
-      "title": "How the Next Big Thing in Carbon Removal Sunk Without a Trace",
-      "summary": "With support from Microsoft, Stripe, and Shopify, Running Tide billed itself as on the cutting edge of carbon removal. In the end, it resorted to dumping thousands of tons of wood chips in the sea.",
-      "link": "https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/",
-      "published": "Thu, 11 Dec 2025 07:00:00 +0000",
+      "title": "How Taiwan Made Cashless Payments Cute",
+      "summary": "Taiwan’s digital payment infrastructure is tactile, decentralized, and completely distinct from China’s QR code-dominated model.",
+      "link": "https://www.wired.com/story/icash-taiwan-payments-keychains-how-it-works/",
+      "published": "Thu, 11 Dec 2025 18:06:15 +0000",
       "keywords": [
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2025-12-11T12:24:05.837490"
-    },
-    {
-      "source": "wired",
-      "title": "AirDoctor Coupon Codes: 40% Off | December 2025",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for December 2025.",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "published": "Thu, 11 Dec 2025 06:10:00 +0000",
-      "keywords": [
-        "AI"
+        "AI",
+        "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-11T12:24:05.837514"
+      "crawled_at": "2025-12-11T18:16:11.496509"
     },
     {
       "source": "wired",
-      "title": "OnePlus Promo Code: $70 Off | December 2025",
-      "summary": "Save 30% with a OnePlus coupon this month, plus save up to 10% on earbuds, phones, and more.",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "published": "Thu, 11 Dec 2025 06:00:00 +0000",
+      "title": "OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’",
+      "summary": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+      "link": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+      "published": "Thu, 11 Dec 2025 18:00:00 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Go"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-11T12:24:05.837535"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:11.496543"
     },
     {
       "source": "wired",
-      "title": "20% Off LG Promo Code & Coupons | December 2025",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors, and more early Black Friday bundle offers that won’t last long.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Thu, 11 Dec 2025 06:00:00 +0000",
+      "title": "The Disney-OpenAI Deal Redefines the AI Copyright War",
+      "summary": "Disney is hedging against the future. OpenAI is clearing a path for Sora. And together they’ve made a blueprint for how AI and Hollywood can move forward.",
+      "link": "https://www.wired.com/story/disney-and-openais-deal-is-a-major-turning-point/",
+      "published": "Thu, 11 Dec 2025 16:49:37 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-11T12:24:05.837578"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:11.496573"
+    },
+    {
+      "source": "wired",
+      "title": "Cursor Launches an AI Coding Tool For Designers",
+      "summary": "The 300-person startup hopes bringing designers aboard will give it an edge in an increasingly competitive AI software market.",
+      "link": "https://www.wired.com/story/cursor-launches-pro-design-tools-figma/",
+      "published": "Thu, 11 Dec 2025 16:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:11.496597"
+    },
+    {
+      "source": "wired",
+      "title": "AT&T’s Connected Life Platform Is a Second Try in the Smart-Home Space",
+      "summary": "The carrier’s Connected Life platform, now available nationwide, lets AT&amp;T customers easily set up a smart-home security system.",
+      "link": "https://www.wired.com/story/att-connected-life-platform-launches-nationwide/",
+      "published": "Thu, 11 Dec 2025 15:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-11T18:16:11.496629"
     }
   ]
 }
