@@ -1,330 +1,339 @@
 {
-  "last_updated": "2025-12-12T12:22:12.611133",
+  "last_updated": "2025-12-12T18:17:46.914481",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "World launches its ‘super app,’ including crypto pay and encrypted chat features",
-      "summary": "Tools for Humanity, the company behind the app, is seeking to expand its \"real human network.\"",
-      "link": "https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/",
-      "published": "Fri, 12 Dec 2025 01:40:54 +0000",
+      "title": "Data breach at credit check giant 700Credit affects at least 5.6 million",
+      "summary": "700Credit, a company that runs credit checks and identity verification services for auto dealerships across the U.S., had a data breach that allowed a hacker to steal names, addresses, dates of birth, and Social Security numbers.",
+      "link": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/",
+      "published": "Fri, 12 Dec 2025 17:35:46 +0000",
       "keywords": [
-        "Crypto"
+        "Security",
+        "Hack"
       ],
-      "category": "Blockchain",
-      "crawled_at": "2025-12-12T12:22:11.776986"
+      "category": "Security",
+      "crawled_at": "2025-12-12T18:17:46.199292"
     },
     {
       "source": "techcrunch",
-      "title": "Stanford’s star reporter takes on Silicon Valley’s ‘money-soaked’ startup culture",
-      "summary": "His reporting on a Stanford University president put Theo Baker on the map, but his upcoming book may cement his reputation as the rare young journalist willing to challenge Silicon Valley's startup machine.",
-      "link": "https://techcrunch.com/2025/12/11/stanfords-star-reporter-takes-on-silicon-valleys-money-soaked-startup-culture/",
-      "published": "Fri, 12 Dec 2025 00:52:20 +0000",
+      "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
+      "summary": "Trump signed an AI executive order targeting state laws and promising one national rulebook. Critics warn it could trigger court battles and prolong uncertainty for startups while Congress debates federal rules.",
+      "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+      "published": "Fri, 12 Dec 2025 17:07:22 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.199340"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google Translate now lets you hear real-time translations in your headphones",
+      "summary": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence intact, so it’s easier to follow the conversation and tell who’s saying what.",
+      "link": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+      "published": "Fri, 12 Dec 2025 17:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.199386"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll",
+      "summary": "Retro's new feature, Rewind, lets you look back at your photo memories and scroll through them with a dial.",
+      "link": "https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/",
+      "published": "Fri, 12 Dec 2025 16:53:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-12T18:17:46.199423"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Home Depot exposed access to internal systems for a year, says researcher",
+      "summary": "A security researcher tried to alert Home Depot to the security lapse exposing its back-end GitHub source code repos and other internal cloud systems, but was ignored.",
+      "link": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
+      "published": "Fri, 12 Dec 2025 16:42:57 +0000",
+      "keywords": [
+        "Security",
+        "Git",
+        "GitHub",
+        "Cloud",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-12T18:17:46.199453"
+    },
+    {
+      "source": "theverge",
+      "title": "Google Translate brings real-time speech translations to any headphones",
+      "summary": "Google Translate's latest update brings live speech translations, originally available only on the Pixel Buds, to any headphones you want, with support for over 70 languages. It's rolling out today in beta and just requires a compatible Android phone with the Translate app (unlike Apple's similar fe",
+      "link": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
+      "published": "2025-12-12T13:11:14-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "Google",
+        "Android"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.270544"
+    },
+    {
+      "source": "theverge",
+      "title": "The 40 best gift ideas for mom this holiday season",
+      "summary": "Your mom deserves the best, and we're going to help you get them something special. The right gift can make family or friend time more valuable, after all, or it can greatly enrich time spent alone. If your mom says that she has all that she needs, don't take her word for it and show [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
+      "published": "2025-12-12T12:45:20-05:00",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.270595"
+    },
+    {
+      "source": "theverge",
+      "title": "Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off",
+      "summary": "Samsung’s Frame TV is one of the coolest-looking TVs you can buy, doubling as wall art when you’re not watching —&#160; but it’s pricey. If you like the idea of a TV that displays art when not in use but is far more affordable, Hisense’s S7N CanvasTV delivers a similar vibe for a lot less, [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale",
+      "published": "2025-12-12T12:36:24-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.270651"
+    },
+    {
+      "source": "theverge",
+      "title": "Hannibal creator Bryan Fuller wanted his first film to be horror for everyone",
+      "summary": "When Bryan Fuller set out to make his first feature film, his goal was to make the kind of family-friendly scares that he loved as a kid. Think Gremlins or Ghostbusters. The creator of Hannibal and Pushing Daisies ended up crafting a story called Dust Bunny, about a young girl named Aurora who hires",
+      "link": "https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny",
+      "published": "2025-12-12T12:15:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.270682"
+    },
+    {
+      "source": "theverge",
+      "title": "HBO Max&#8217;s new channels keep Friends and Game of Thrones playing 24/7",
+      "summary": "HBO Max is launching curated channels, a new feature that will allow you to quickly jump into a continuous feed of a popular series or tune into a specific genre. When you select a channel on HBO Max, the streaming service will start you at the beginning of whatever's playing, while giving you the a",
+      "link": "https://www.theverge.com/news/843631/hbo-max-curated-channels-friends-harry-potter-big-bang-theory",
+      "published": "2025-12-12T12:07:02-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.270727"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: tomcp.org – Turn any URL into an MCP server",
+      "summary": "Prepend tomcp.org/ to any URL to instantly turn it into an MCP server.You can either chat directly with the page or add the config to Cursor/Claude to pipe the website/docs straight into your context.Why MCP? Using MCP is better than raw scraping or copy-pasting because it converts the page into cle",
+      "link": "https://github.com/Ami3466/tomcp",
+      "published": "Fri, 12 Dec 2025 17:10:16 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "API",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.741765"
+    },
+    {
+      "source": "hackernews",
+      "title": "Oracle made a $300B bet on OpenAI. It's paying the price",
+      "summary": "Article URL: https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html\nComments URL: https://news.ycombinator.com/item?id=46246031\nPoints: 45\n# Comments: 25",
+      "link": "https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html",
+      "published": "Fri, 12 Dec 2025 17:01:07 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.741804"
+    },
+    {
+      "source": "hackernews",
+      "title": "Japan law opening phone app stores to go into effect dec.18th",
+      "summary": "Article URL: https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/\nComments URL: https://news.ycombinator.com/item?id=46246006\nPoints: 24\n# Comments: 3",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/",
+      "published": "Fri, 12 Dec 2025 16:59:04 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-12T18:17:46.741839"
+    },
+    {
+      "source": "hackernews",
+      "title": "Async DNS",
+      "summary": "Article URL: https://flak.tedunangst.com/post/async-dns\nComments URL: https://news.ycombinator.com/item?id=46245923\nPoints: 22\n# Comments: 3",
+      "link": "https://flak.tedunangst.com/post/async-dns",
+      "published": "Fri, 12 Dec 2025 16:52:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.741869"
+    },
+    {
+      "source": "hackernews",
+      "title": "Senator endorses discredited book that claims chemical treats autism, cancer",
+      "summary": "Article URL: https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement\nComments URL: https://news.ycombinator.com/item?id=46245763\nPoints: 46\n# Comments: 10",
+      "link": "https://www.propublica.org/article/ron-johnson-wisconsin-chlorine-dioxide-pierre-kory-endorsement",
+      "published": "Fri, 12 Dec 2025 16:37:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.741898"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple loses its appeal of a scathing contempt ruling in iOS payments case",
+      "summary": "But Sweeney warns iOS devs are still afraid of \"totally illegal\" retaliation by Apple.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/",
+      "published": "Fri, 12 Dec 2025 16:00:23 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.826798"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Senator endorses discredited doctor’s book that claims chemical treats autism, cancer",
+      "summary": "Safety experts advise those who handle chlorine dioxide to work in well-ventilated spaces, wear gloves.",
+      "link": "https://arstechnica.com/health/2025/12/senator-endorses-discredited-doctors-book-that-claims-chemical-treats-autism-cancer/",
+      "published": "Fri, 12 Dec 2025 15:33:32 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.826838"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Investors commit quarter-billion dollars to startup designing “Giga” satellites",
+      "summary": "\"If we build these platforms well, we get to ask new questions about what's possible in orbit.\"",
+      "link": "https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/",
+      "published": "Fri, 12 Dec 2025 15:23:57 +0000",
       "keywords": [
         "Startup",
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-12T12:22:11.777040"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2",
-      "summary": "For the first time, developers can embed Google's Deep Research tool, based on Gemini 3 Pro, into their own apps.",
-      "link": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
-      "published": "Fri, 12 Dec 2025 00:18:56 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:11.777072"
-    },
-    {
-      "source": "techcrunch",
-      "title": "1X struck a deal to send its ‘home’ humanoids to factories and warehouses",
-      "summary": "Despite launching as a humanoid robot designed to help consumers around the house, 1X's Neo robots are heading to industrial use cases.",
-      "link": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
-      "published": "Thu, 11 Dec 2025 22:03:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:11.777111"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The market has ‘switched’ and founders have the power now, VCs say",
-      "summary": "Graham &#038; Walker’s Leslie Feinzaig and XYZ Venture’s Ross Fubini share the secrets for founders — and VCs — to make the most of the current fast pace of dealmaking.",
-      "link": "https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/",
-      "published": "Thu, 11 Dec 2025 20:07:04 +0000",
-      "keywords": [
-        "AI",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:11.777142"
-    },
-    {
-      "source": "theverge",
-      "title": "My defense of a $40 cable paperweight – I’m sorry",
-      "summary": "Warning: I'm going to make an attempt to justify a $40 paperweight for cable management. I'm not sure how I ended up in this position, or who hurt me. All I can say is that I'm not proud of myself, so please, take pity. I've been using Native Union's 3-cable Weighter for about a week. [&#8230;]",
-      "link": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
-      "published": "2025-12-12T06:55:31-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:11.868518"
-    },
-    {
-      "source": "theverge",
-      "title": "Tomb Raider announces two new games",
-      "summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 20",
-      "link": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
-      "published": "2025-12-11T22:11:15-05:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:11.868559"
-    },
-    {
-      "source": "theverge",
-      "title": "The best Christmas gifts we love under $50",
-      "summary": "One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
-      "published": "2025-12-11T21:50:15-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-12T12:22:11.868598"
-    },
-    {
-      "source": "theverge",
-      "title": "Tim Sweeney on the future of Fortnite after another win over Apple",
-      "summary": "Shortly after appeals court judges ruled against Apple's contempt appeal in a years-long antitrust dispute against the makers of Fortnite, I got to talk to Epic Games CEO Tim Sweeney in an interview. According to Sweeney, today's ruling \"completely shuts down\" Apple's App Store rules that allow it t",
-      "link": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
-      "published": "2025-12-11T21:48:49-05:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:11.868632"
-    },
-    {
-      "source": "theverge",
-      "title": "Control’s action-RPG sequel launches in 2026",
-      "summary": "Remedy Entertainment is finally showing off the much-anticipated sequel to Control. The new game, dubbed Control Resonant, expands on the original with a new action-RPG framework. It takes place seven years later and shifts the setting from the unsettling Oldest House of the original to a more open ",
-      "link": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
-      "published": "2025-12-11T21:05:26-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:11.868672"
-    },
-    {
-      "source": "hackernews",
-      "title": "Native ads coming soon to Stack Overflow and Stack Exchange",
-      "summary": "Article URL: https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange\nComments URL: https://news.ycombinator.com/item?id=46242946\nPoints: 11\n# Comments: 10",
-      "link": "https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange",
-      "published": "Fri, 12 Dec 2025 11:02:41 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.270028"
-    },
-    {
-      "source": "hackernews",
-      "title": "After 27 years within budget Austria open 6thlongest railway tunnel in the world",
-      "summary": "Article URL: https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway\nComments URL: https://news.ycombinator.com/item?id=46242871\nPoints: 27\n# Comments: 0",
-      "link": "https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway",
-      "published": "Fri, 12 Dec 2025 10:50:22 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:12.270069"
-    },
-    {
-      "source": "hackernews",
-      "title": "Guarding My Git Forge Against AI Scrapers",
-      "summary": "Article URL: https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/\nComments URL: https://news.ycombinator.com/item?id=46241849\nPoints: 44\n# Comments: 33",
-      "link": "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/",
-      "published": "Fri, 12 Dec 2025 07:51:04 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:12.270098"
-    },
-    {
-      "source": "hackernews",
-      "title": "Smartphone without a battery (2022)",
-      "summary": "Article URL: https://yaky.dev/2022-09-06-smartphone-without-battery/\nComments URL: https://news.ycombinator.com/item?id=46241767\nPoints: 39\n# Comments: 4",
-      "link": "https://yaky.dev/2022-09-06-smartphone-without-battery/",
-      "published": "Fri, 12 Dec 2025 07:36:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.270131"
-    },
-    {
-      "source": "hackernews",
-      "title": "The tiniest yet real telescope I've built",
-      "summary": "Article URL: https://lucassifoni.info/blog/miniscope-tiny-telescope/\nComments URL: https://news.ycombinator.com/item?id=46241763\nPoints: 133\n# Comments: 23",
-      "link": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
-      "published": "Fri, 12 Dec 2025 07:35:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.270165"
+      "crawled_at": "2025-12-12T18:17:46.826874"
     },
     {
       "source": "arstechnica",
-      "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
-      "summary": "Original KOTOR director Casey Hudson returns to Star Wars with new studio Arcanaut.",
-      "link": "https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/",
-      "published": "Fri, 12 Dec 2025 02:51:40 +0000",
+      "title": "How to break free from smart TV ads and tracking",
+      "summary": "Sick of smart TVs? Here are your best options.",
+      "link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "published": "Fri, 12 Dec 2025 12:30:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.440929"
+      "crawled_at": "2025-12-12T18:17:46.826898"
     },
     {
       "source": "arstechnica",
-      "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you",
-      "summary": "Preview: Order of the Sinking Star started small but became a \"combinatoric explosion.\"",
-      "link": "https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/",
-      "published": "Fri, 12 Dec 2025 01:50:08 +0000",
+      "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
+      "summary": "\"... AI toys shouldn’t be capable of having sexually explicit conversations, period.\"",
+      "link": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/",
+      "published": "Fri, 12 Dec 2025 12:15:02 +0000",
       "keywords": [
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.440965"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.826925"
     },
     {
-      "source": "arstechnica",
-      "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
-      "summary": "Runway joins a competitive field alongside Google, Nvidia, and others.",
-      "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
-      "published": "Thu, 11 Dec 2025 23:47:33 +0000",
+      "source": "wired",
+      "title": "This Group Pays Bounties to Repair Broken Devices—Even If the Fix Breaks the Law",
+      "summary": "Fulu sets repair bounties on consumer products that employ sneaky features that limit user control. Just this week, it awarded more than $10,000 to the person who hacked the Molekule air purifier.",
+      "link": "https://www.wired.com/story/fulu-repair-bounties-nest-molekule/",
+      "published": "Fri, 12 Dec 2025 17:01:02 +0000",
       "keywords": [
         "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.914190"
+    },
+    {
+      "source": "wired",
+      "title": "You’re Thinking About AI and Water All Wrong",
+      "summary": "Fears about AI data centers’ water use have exploded. Experts say the reality is far more complicated than people think.",
+      "link": "https://www.wired.com/story/karen-hao-empire-of-ai-water-use-statistics/",
+      "published": "Fri, 12 Dec 2025 16:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-12T18:17:46.914241"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Age-Tech Gadgets Tried and Tested by WIRED",
+      "summary": "As more and more age tech hits the market, I’ve been testing the most innovative gadgets for older folks and caregivers.",
+      "link": "https://www.wired.com/gallery/best-age-tech/",
+      "published": "Fri, 12 Dec 2025 15:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.914279"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Permanent Outdoor Lights (2025): Govee, Eufy, Lepro",
+      "summary": "DIY permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort (and cost)?",
+      "link": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "published": "Fri, 12 Dec 2025 14:06:00 +0000",
+      "keywords": [
         "Go",
-        "Google"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:12.440995"
+      "category": "Tech News",
+      "crawled_at": "2025-12-12T18:17:46.914313"
     },
     {
-      "source": "arstechnica",
-      "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
-      "summary": "\"We all kinda immediately agreed this was way too cool to change.\"",
-      "link": "https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/",
-      "published": "Thu, 11 Dec 2025 23:03:02 +0000",
+      "source": "wired",
+      "title": "Best Merino Wool T-Shirts (2025), Tried On and Tested",
+      "summary": "These merino wool T-shirts are the last shirt you’ll ever wear. I’m wearing one right now.",
+      "link": "https://www.wired.com/gallery/best-merino-wool-t-shirts/",
+      "published": "Fri, 12 Dec 2025 13:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.441029"
-    },
-    {
-      "source": "arstechnica",
-      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-      "summary": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
-      "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
-      "published": "Thu, 11 Dec 2025 21:27:18 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:12.441054"
-    },
-    {
-      "source": "wired",
-      "title": "Does Red-Light Therapy Work? (2025)",
-      "summary": "Even if the glowing mask scares your family, red-light therapy can rejuvenate skin and aid in muscle repair.",
-      "link": "https://www.wired.com/story/does-red-light-therapy-work/",
-      "published": "Fri, 12 Dec 2025 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-12T12:22:12.610916"
-    },
-    {
-      "source": "wired",
-      "title": "People Are Already Taking This Unapproved New Weight-Loss Drug",
-      "summary": "Retatrutide, originally developed by Eli Lilly, has found a loyal fan base—even though clinical trials of the drug still haven’t finished.",
-      "link": "https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/",
-      "published": "Fri, 12 Dec 2025 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-12T12:22:12.610966"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Meteor Shower of the Year Is Coming—Here’s How to Watch",
-      "summary": "The highlight of the year, the Geminids are the most active and colorful meteor shower, offering the chance to see hundreds of shooting stars every hour when they peak in mid-December.",
-      "link": "https://www.wired.com/story/how-to-watch-the-geminids-meteor-shower/",
-      "published": "Fri, 12 Dec 2025 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.611009"
-    },
-    {
-      "source": "wired",
-      "title": "Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation",
-      "summary": "If A-spot stimulation doesn't mean much to you, the Pleasure Puff likely won't excite.",
-      "link": "https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/",
-      "published": "Fri, 12 Dec 2025 09:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-12T12:22:12.611039"
-    },
-    {
-      "source": "wired",
-      "title": "B&H Photo Promo Codes and Deals for December 2025",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "published": "Fri, 12 Dec 2025 06:10:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-12T12:22:12.611061"
+      "crawled_at": "2025-12-12T18:17:46.914347"
     }
   ]
 }
