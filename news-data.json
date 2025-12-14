@@ -1,7 +1,31 @@
 {
-  "last_updated": "2025-12-13T18:14:35.104080",
+  "last_updated": "2025-12-14T00:59:55.847817",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "DoorDash driver faces felony charges after allegedly spraying customers’ food",
+      "summary": "A woman is facing felony charges in Evansville, Indiana over a DoorDash delivery in which she allegedly sprayed the food with a substance that made the customers vomit.",
+      "link": "https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/",
+      "published": "Sat, 13 Dec 2025 21:06:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-14T00:59:54.744387"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI data center boom could be bad news for other infrastructure projects",
+      "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
+      "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
+      "published": "Sat, 13 Dec 2025 19:37:47 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-14T00:59:54.744422"
+    },
     {
       "source": "techcrunch",
       "title": "A comprehensive list of 2025 tech layoffs",
@@ -13,7 +37,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-13T18:14:34.239688"
+      "crawled_at": "2025-12-14T00:59:54.744452"
     },
     {
       "source": "techcrunch",
@@ -27,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.239734"
+      "crawled_at": "2025-12-14T00:59:54.744482"
     },
     {
       "source": "techcrunch",
@@ -43,35 +67,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.239767"
+      "crawled_at": "2025-12-14T00:59:54.744510"
     },
     {
-      "source": "techcrunch",
-      "title": "Google and Apple roll out emergency security updates after zero-day attacks",
-      "summary": "Apple released patches for all of its flagship devices to fix security flaws under attack. Google also updated Chrome to remediate one vulnerability exploited in the attacks.",
-      "link": "https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/",
-      "published": "Fri, 12 Dec 2025 20:31:36 +0000",
+      "source": "theverge",
+      "title": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
+      "summary": "It's a small sample size, likely driven by Black Friday discounts and temporary virality, but the Nex Playground has gone from little-known console curiosity to best-seller. It's now on track to quadruple its sales from last year. According to research firm Circana, the Playground was the second bes",
+      "link": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+      "published": "2025-12-13T13:17:20-05:00",
       "keywords": [
         "Go",
-        "AWS",
-        "Security",
-        "Vulnerability",
-        "Apple"
+        "iOS",
+        "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-13T18:14:34.239799"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OK, what’s going on with LinkedIn’s algo?",
-      "summary": "Women ran an experiment to see if LinkedIn's new algo was being sexist and thought they proved it. But there's more complexity involved, experts say.",
-      "link": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
-      "published": "Fri, 12 Dec 2025 19:38:16 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:34.239839"
+      "category": "Mobile",
+      "crawled_at": "2025-12-14T00:59:54.954480"
     },
     {
       "source": "theverge",
@@ -86,7 +96,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-13T18:14:34.416796"
+      "crawled_at": "2025-12-14T00:59:54.954534"
     },
     {
       "source": "theverge",
@@ -99,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.416840"
+      "crawled_at": "2025-12-14T00:59:54.954567"
     },
     {
       "source": "theverge",
@@ -113,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.416876"
+      "crawled_at": "2025-12-14T00:59:54.954600"
     },
     {
       "source": "theverge",
@@ -125,86 +135,74 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:34.416953"
-    },
-    {
-      "source": "theverge",
-      "title": "Sektori is psychedelic, tough as nails, and worth the pain",
-      "summary": "Sektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have to weave through them to get upgrades to help you survive. Often, my runs end after less than a coup",
-      "link": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s",
-      "published": "2025-12-13T09:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.416985"
+      "crawled_at": "2025-12-14T00:59:54.954657"
     },
     {
       "source": "hackernews",
-      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
-      "summary": "Article URL: https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/\nComments URL: https://news.ycombinator.com/item?id=46256249\nPoints: 9\n# Comments: 1",
-      "link": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
-      "published": "Sat, 13 Dec 2025 17:32:21 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.816058"
-    },
-    {
-      "source": "hackernews",
-      "title": "EasyPost (YC S13) Is Hiring",
-      "summary": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=46256002\nPoints: 0\n# Comments: 0",
-      "link": "https://www.easypost.com/careers",
-      "published": "Sat, 13 Dec 2025 17:01:25 +0000",
+      "title": "Closures as Win32 Window Procedures",
+      "summary": "Article URL: https://nullprogram.com/blog/2025/12/12/\nComments URL: https://news.ycombinator.com/item?id=46259334\nPoints: 23\n# Comments: 0",
+      "link": "https://nullprogram.com/blog/2025/12/12/",
+      "published": "Sat, 13 Dec 2025 23:39:48 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:34.816099"
+      "crawled_at": "2025-12-14T00:59:55.486726"
     },
     {
       "source": "hackernews",
-      "title": "I tried Gleam for Advent of Code",
-      "summary": "Article URL: https://blog.tymscar.com/posts/gleamaoc2025/\nComments URL: https://news.ycombinator.com/item?id=46255991\nPoints: 39\n# Comments: 12",
-      "link": "https://blog.tymscar.com/posts/gleamaoc2025/",
-      "published": "Sat, 13 Dec 2025 17:00:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-13T18:14:34.816128"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask HN: How can I get better at using AI for programming?",
-      "summary": "I've been working on a personal project recently, rewriting an old jQuery + Django project into SvelteKit. The main work is translating the UI templates into idiomatic SvelteKit while maintaining the original styling. This includes things like using semantic HTML instead of div-spamming, not wrappin",
-      "link": "https://news.ycombinator.com/item?id=46255285",
-      "published": "Sat, 13 Dec 2025 15:37:16 +0000",
+      "title": "RemoveWindowsAI",
+      "summary": "Article URL: https://github.com/zoicware/RemoveWindowsAI\nComments URL: https://news.ycombinator.com/item?id=46259095\nPoints: 18\n# Comments: 18",
+      "link": "https://github.com/zoicware/RemoveWindowsAI",
+      "published": "Sat, 13 Dec 2025 23:04:26 +0000",
       "keywords": [
         "AI",
-        "Claude",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.816221"
-    },
-    {
-      "source": "hackernews",
-      "title": "Z8086: Rebuilding the 8086 from Original Microcode",
-      "summary": "Article URL: https://nand2mario.github.io/posts/2025/z8086/\nComments URL: https://news.ycombinator.com/item?id=46255007\nPoints: 9\n# Comments: 1",
-      "link": "https://nand2mario.github.io/posts/2025/z8086/",
-      "published": "Sat, 13 Dec 2025 15:04:29 +0000",
-      "keywords": [
+        "Windows",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-13T18:14:34.816249"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-14T00:59:55.486772"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linux Sandboxes and Fil-C",
+      "summary": "Article URL: https://fil-c.org/seccomp\nComments URL: https://news.ycombinator.com/item?id=46259064\nPoints: 58\n# Comments: 8",
+      "link": "https://fil-c.org/seccomp",
+      "published": "Sat, 13 Dec 2025 22:58:29 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-14T00:59:55.486804"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flat-pack washing machine spins a fairer future",
+      "summary": "Article URL: https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/\nComments URL: https://news.ycombinator.com/item?id=46258906\nPoints: 40\n# Comments: 19",
+      "link": "https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/",
+      "published": "Sat, 13 Dec 2025 22:38:08 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-14T00:59:55.486833"
+    },
+    {
+      "source": "hackernews",
+      "title": "Some surprising things about DuckDuckGo",
+      "summary": "Article URL: https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo\nComments URL: https://news.ycombinator.com/item?id=46258529\nPoints: 44\n# Comments: 34",
+      "link": "https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo",
+      "published": "Sat, 13 Dec 2025 21:57:28 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-14T00:59:55.486867"
     },
     {
       "source": "arstechnica",
@@ -219,7 +217,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.993701"
+      "crawled_at": "2025-12-14T00:59:55.673084"
     },
     {
       "source": "arstechnica",
@@ -232,7 +230,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.993732"
+      "crawled_at": "2025-12-14T00:59:55.673112"
     },
     {
       "source": "arstechnica",
@@ -245,7 +243,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.993756"
+      "crawled_at": "2025-12-14T00:59:55.673134"
     },
     {
       "source": "arstechnica",
@@ -261,7 +259,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-13T18:14:34.993781"
+      "crawled_at": "2025-12-14T00:59:55.673159"
     },
     {
       "source": "arstechnica",
@@ -274,7 +272,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-13T18:14:34.993809"
+      "crawled_at": "2025-12-14T00:59:55.673180"
     },
     {
       "source": "wired",
@@ -286,7 +284,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:35.103736"
+      "crawled_at": "2025-12-14T00:59:55.847571"
     },
     {
       "source": "wired",
@@ -300,7 +298,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-13T18:14:35.103779"
+      "crawled_at": "2025-12-14T00:59:55.847610"
     },
     {
       "source": "wired",
@@ -312,7 +310,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:35.103813"
+      "crawled_at": "2025-12-14T00:59:55.847643"
     },
     {
       "source": "wired",
@@ -327,7 +325,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:35.103858"
+      "crawled_at": "2025-12-14T00:59:55.847687"
     },
     {
       "source": "wired",
@@ -340,7 +338,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-13T18:14:35.103922"
+      "crawled_at": "2025-12-14T00:59:55.847725"
     }
   ]
 }
