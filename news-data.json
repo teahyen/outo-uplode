@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T06:16:22.158166",
+  "last_updated": "2025-12-14T12:19:54.523798",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "Funding"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-14T06:16:21.336401"
+      "crawled_at": "2025-12-14T12:19:53.455673"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:21.336455"
+      "crawled_at": "2025-12-14T12:19:53.455729"
     },
     {
       "source": "techcrunch",
@@ -37,7 +37,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.336482"
+      "crawled_at": "2025-12-14T12:19:53.455755"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-14T06:16:21.336510"
+      "crawled_at": "2025-12-14T12:19:53.455783"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.336540"
+      "crawled_at": "2025-12-14T12:19:53.455813"
     },
     {
       "source": "theverge",
@@ -78,7 +78,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T06:16:21.422353"
+      "crawled_at": "2025-12-14T12:19:53.624754"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-14T06:16:21.422410"
+      "crawled_at": "2025-12-14T12:19:53.624810"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.422443"
+      "crawled_at": "2025-12-14T12:19:53.624843"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.422476"
+      "crawled_at": "2025-12-14T12:19:53.624876"
     },
     {
       "source": "theverge",
@@ -132,12 +132,24 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:21.422535"
+      "crawled_at": "2025-12-14T12:19:53.624936"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bye, Mom",
+      "summary": "Article URL: https://aella.substack.com/p/bye-mom\nComments URL: https://news.ycombinator.com/item?id=46261616\nPoints: 54\n# Comments: 12",
+      "link": "https://aella.substack.com/p/bye-mom",
+      "published": "Sun, 14 Dec 2025 08:21:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-14T12:19:54.191616"
     },
     {
       "source": "hackernews",
       "title": "Heavy metal is healing teens on the Blackfeet Nation",
-      "summary": "Article URL: https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/\nComments URL: https://news.ycombinator.com/item?id=46260596\nPoints: 21\n# Comments: 1",
+      "summary": "Article URL: https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/\nComments URL: https://news.ycombinator.com/item?id=46260596\nPoints: 86\n# Comments: 34",
       "link": "https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/",
       "published": "Sun, 14 Dec 2025 03:46:51 +0000",
       "keywords": [
@@ -145,25 +157,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:21.815340"
+      "crawled_at": "2025-12-14T12:19:54.191665"
     },
     {
       "source": "hackernews",
-      "title": "Rocket Lab – 'Raise and Shine' Launch for JAXA [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=cMP328yoUu4\nComments URL: https://news.ycombinator.com/item?id=46260474\nPoints: 12\n# Comments: 0",
-      "link": "https://www.youtube.com/watch?v=cMP328yoUu4",
-      "published": "Sun, 14 Dec 2025 03:13:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.815384"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lean Theorem Prover Mathlib",
-      "summary": "Article URL: https://github.com/leanprover-community/mathlib4\nComments URL: https://news.ycombinator.com/item?id=46260128\nPoints: 20\n# Comments: 0",
+      "title": "Lean theorem prover mathlib",
+      "summary": "Article URL: https://github.com/leanprover-community/mathlib4\nComments URL: https://news.ycombinator.com/item?id=46260128\nPoints: 46\n# Comments: 0",
       "link": "https://github.com/leanprover-community/mathlib4",
       "published": "Sun, 14 Dec 2025 01:49:11 +0000",
       "keywords": [
@@ -172,12 +171,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:21.815418"
+      "crawled_at": "2025-12-14T12:19:54.191699"
     },
     {
       "source": "hackernews",
       "title": "If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",
-      "summary": "Article URL: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain\nComments URL: https://news.ycombinator.com/item?id=46260106\nPoints: 27\n# Comments: 13",
+      "summary": "Article URL: https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain\nComments URL: https://news.ycombinator.com/item?id=46260106\nPoints: 101\n# Comments: 55",
       "link": "https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain",
       "published": "Sun, 14 Dec 2025 01:43:33 +0000",
       "keywords": [
@@ -186,19 +185,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.815448"
+      "crawled_at": "2025-12-14T12:19:54.191729"
     },
     {
       "source": "hackernews",
-      "title": "Therapeutic Use of Cannabis and Cannabinoids: A Review",
-      "summary": "Article URL: https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305\nComments URL: https://news.ycombinator.com/item?id=46260039\nPoints: 24\n# Comments: 7",
-      "link": "https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305",
-      "published": "Sun, 14 Dec 2025 01:32:36 +0000",
+      "title": "An Implementation of J (1992)",
+      "summary": "Article URL: https://www.jsoftware.com/ioj/ioj.htm\nComments URL: https://news.ycombinator.com/item?id=46259702\nPoints: 65\n# Comments: 25",
+      "link": "https://www.jsoftware.com/ioj/ioj.htm",
+      "published": "Sun, 14 Dec 2025 00:34:56 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:21.815485"
+      "crawled_at": "2025-12-14T12:19:54.191759"
     },
     {
       "source": "arstechnica",
@@ -213,7 +212,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.985276"
+      "crawled_at": "2025-12-14T12:19:54.354944"
     },
     {
       "source": "arstechnica",
@@ -226,7 +225,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.985306"
+      "crawled_at": "2025-12-14T12:19:54.354974"
     },
     {
       "source": "arstechnica",
@@ -239,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.985328"
+      "crawled_at": "2025-12-14T12:19:54.354996"
     },
     {
       "source": "arstechnica",
@@ -255,7 +254,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T06:16:21.985353"
+      "crawled_at": "2025-12-14T12:19:54.355022"
     },
     {
       "source": "arstechnica",
@@ -268,73 +267,69 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T06:16:21.985375"
+      "crawled_at": "2025-12-14T12:19:54.355043"
     },
     {
       "source": "wired",
-      "title": "18 Gifts for People Who Are Perpetually Cold (2025)",
-      "summary": "From a backyard hot tub to the warmest slippers, these picks will make your loved ones feel warm and fuzzy—inside and out.",
-      "link": "https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/",
-      "published": "Sat, 13 Dec 2025 14:09:00 +0000",
+      "title": "Samsung Galaxy XR Review: Needs More Polish",
+      "summary": "A little more accessible than the Apple Vision Pro, this Android XR headset could use more polish.",
+      "link": "https://www.wired.com/review/samsung-galaxy-xr/",
+      "published": "Sun, 14 Dec 2025 11:30:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:22.157859"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Motorola Phones (2025), Tested and Reviewed",
-      "summary": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
-      "link": "https://www.wired.com/story/best-motorola-phones/",
-      "published": "Sat, 13 Dec 2025 13:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Android",
-        "AR"
+        "Apple",
+        "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T06:16:22.157900"
+      "crawled_at": "2025-12-14T12:19:54.523576"
     },
     {
       "source": "wired",
-      "title": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
-      "summary": "Here’s how Amazon’s ebook readers stack up—and which one might be right for you.",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "published": "Sat, 13 Dec 2025 12:35:00 +0000",
+      "title": "PlayStation Portal's Latest Update Proves Sony Needs a Real Handheld Console Again",
+      "summary": "Cloud gaming remains a pie-in-the-sky idea.",
+      "link": "https://www.wired.com/story/playstation-portals-latest-update-proves-sony-needs-a-real-handheld-console-again/",
+      "published": "Sun, 14 Dec 2025 11:30:00 +0000",
       "keywords": [
-        "Amazon"
+        "AI",
+        "Cloud",
+        "Gaming"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:22.157935"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-14T12:19:54.523605"
     },
     {
       "source": "wired",
-      "title": "Google Data Centers Are Returning Nuclear Power to Tornado Country",
-      "summary": "A destructive storm in 2020 prematurely shut down Iowa’s only nuclear plant. With Google’s plans to reopen it to power nearby data centers, will extreme weather threaten the reactor’s safety?",
-      "link": "https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/",
-      "published": "Sat, 13 Dec 2025 12:00:00 +0000",
+      "title": "How Do Astronomers Find Planets in Other Solar Systems?",
+      "summary": "Even the best telescopes can’t see exoplanets. It’s all about watching for jiggly stars, blue shifts, and transits.",
+      "link": "https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/",
+      "published": "Sun, 14 Dec 2025 11:00:00 +0000",
       "keywords": [
-        "Go",
-        "React",
-        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:22.157980"
+      "crawled_at": "2025-12-14T12:19:54.523650"
     },
     {
       "source": "wired",
-      "title": "The 24 Best Shows on Amazon Prime, WIRED’s Picks (December 2025)",
-      "summary": "Bat-Fam, The Girlfriend, and The Mighty Nein are just a few of the shows you should be watching on Amazon Prime Video this week.",
-      "link": "https://www.wired.com/story/best-shows-amazon-prime/",
-      "published": "Sat, 13 Dec 2025 12:00:00 +0000",
+      "title": "Is Your Vibrator Spying on You?",
+      "summary": "Here’s everything you need to know about data privacy in sex toys and the apps that connect to them.",
+      "link": "https://www.wired.com/story/is-your-vibrator-spying-on-you/",
+      "published": "Sun, 14 Dec 2025 10:00:00 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2025-12-14T12:19:54.523680"
+    },
+    {
+      "source": "wired",
+      "title": "Alpine A390 Review: Price, Specs, Availability",
+      "summary": "Ahead of its entry into the US, the European brand with an ex-Ferrari boss and decades of motorsport success has a new EV to take on Porsche and Polestar. WIRED tries it on for size.",
+      "link": "https://www.wired.com/review/review-alpine-a390/",
+      "published": "Sun, 14 Dec 2025 07:00:00 +0000",
       "keywords": [
-        "Amazon",
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-14T06:16:22.158020"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-14T12:19:54.523704"
     }
   ]
 }
