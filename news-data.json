@@ -1,199 +1,241 @@
 {
-  "last_updated": "2025-12-15T12:24:28.409842",
+  "last_updated": "2025-12-15T18:18:06.789327",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "How iRobot lost its way home",
-      "summary": "iRobot survived three decades of competition, but couldn't survive European regulators killing its Amazon buyout. Now it's being taken over by its own supplier in bankruptcy court.",
-      "link": "https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/",
-      "published": "Mon, 15 Dec 2025 02:29:22 +0000",
+      "title": "Threads adds new communities, tests badges for highly engaged members",
+      "summary": "Threads, which has more than 150 million daily active users, adds more communities to its platform.",
+      "link": "https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/",
+      "published": "Mon, 15 Dec 2025 18:00:00 +0000",
       "keywords": [
-        "Amazon"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:27.512441"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.776102"
     },
     {
       "source": "techcrunch",
-      "title": "WhatsApp’s biggest market is becoming its toughest test",
-      "summary": "Meta has three months to comply with Indian government directions that could affect how WhatsApp operates in the country.",
-      "link": "https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/",
-      "published": "Mon, 15 Dec 2025 01:30:00 +0000",
+      "title": "Lidar-maker Luminar files for bankruptcy",
+      "summary": "The filing marks the end of a tumultuous year full of layoffs, executive departures, and piling debts.",
+      "link": "https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/",
+      "published": "Mon, 15 Dec 2025 17:34:55 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:05.776154"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Zoom brings its AI assistant to the web with access to free users",
+      "summary": "Zoom is allowing free users to try its AI assistant in limited capacity",
+      "link": "https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/",
+      "published": "Mon, 15 Dec 2025 16:58:46 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.776179"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Netflix responds to concerns about WBD deal",
+      "summary": "Industry concerns over Netflix acquiring Warner Bros has led executives to address fears regarding jobs and theatrical releases.",
+      "link": "https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/",
+      "published": "Mon, 15 Dec 2025 16:28:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:05.776210"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Facebook Messenger’s desktop app is no more",
+      "summary": "The app remains usable via the web, Facebook app, and through the mobile app for iOS and Android.",
+      "link": "https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/",
+      "published": "Mon, 15 Dec 2025 16:26:56 +0000",
+      "keywords": [
+        "AI",
+        "Android",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.776239"
+    },
+    {
+      "source": "theverge",
+      "title": "Cadillac and Chevy are getting native Apple Music",
+      "summary": "General Motors is adding native Apple Music to the infotainment systems of select 2025 model year Cadillac and Chevrolet vehicles, the company announced today. The news comes as the automaker is racing to add more native app experiences to some of its vehicles to make up for the absence of popular p",
+      "link": "https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native",
+      "published": "2025-12-15T13:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "VR",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.886396"
+    },
+    {
+      "source": "theverge",
+      "title": "Google&#8217;s turning off its dark web monitoring service that scoured data breaches for your info",
+      "summary": "Google notified users in an email today that, beginning next month, it will stop sending its dark web reports, an opt-in feature that alerted users when Google detected their personal information on the dark web, as reported by 9to5Google. On January 15th, Google will stop scanning for that data, li",
+      "link": "https://www.theverge.com/news/844700/google-dark-web-reports-shut-down",
+      "published": "2025-12-15T12:30:23-05:00",
+      "keywords": [
+        "AI",
         "Go",
+        "Google",
+        "5G",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.886439"
+    },
+    {
+      "source": "theverge",
+      "title": "Tesla robotaxis spotted on public roads without safety monitors",
+      "summary": "After years of false promises and missed deadlines, several Tesla vehicles have been spotted over the weekend driving autonomously without safety monitors on public roads in Austin. For months, Tesla's robotaxis in Austin and San Francisco have included safety monitors with access to a kill switch i",
+      "link": "https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors",
+      "published": "2025-12-15T12:01:23-05:00",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:05.886487"
+    },
+    {
+      "source": "theverge",
+      "title": "Fallout season 2 is streaming one day early",
+      "summary": "The second season of Fallout is debuting one day earlier than previously announced: the new season will now launch on Tuesday, December 16th at 9PM ET / 6PM PT on Prime Video, Amazon says. The season will have eight episodes that will premiere weekly on Wednesdays (besides this first episode), with ",
+      "link": "https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video",
+      "published": "2025-12-15T12:00:20-05:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.886518"
+    },
+    {
+      "source": "theverge",
+      "title": "GNOME bans AI-generated extensions",
+      "summary": "Earlier this month, the GNOME Shell Extensions store updated its review guidelines to include a new section specifically stating that \"extensions must not be AI-generated,\" as reported by It's FOSS and Phoronix. Developers producing add-ons for the Linux desktop environment can still use AI as a too",
+      "link": "https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban",
+      "published": "2025-12-15T11:17:43-05:00",
+      "keywords": [
+        "AI",
+        "Linux",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:05.886549"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air",
+      "summary": "Written natively from scratch in Metal and Swift. Build for AirVis app.\n\nComments URL: https://news.ycombinator.com/item?id=46277477\nPoints: 13\n# Comments: 0",
+      "link": "https://twitter.com/AKurian001/status/1986979144014701026",
+      "published": "Mon, 15 Dec 2025 17:27:03 +0000",
+      "keywords": [
+        "AI",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:06.533824"
+    },
+    {
+      "source": "hackernews",
+      "title": "Break up bad companies; replace bad union bosses",
+      "summary": "Article URL: https://pluralistic.net/2025/12/15/class-war-labor-peace/\nComments URL: https://news.ycombinator.com/item?id=46277381\nPoints: 25\n# Comments: 5",
+      "link": "https://pluralistic.net/2025/12/15/class-war-labor-peace/",
+      "published": "Mon, 15 Dec 2025 17:21:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:06.533867"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.adx7892\nComments URL: https://news.ycombinator.com/item?id=46277090\nPoints: 17\n# Comments: 0",
+      "link": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+      "published": "Mon, 15 Dec 2025 17:01:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:06.533902"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pro-democracy HK tycoon Jimmy Lai convicted in national security trial",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cp844kjj37vo\nComments URL: https://news.ycombinator.com/item?id=46276740\nPoints: 255\n# Comments: 165",
+      "link": "https://www.bbc.com/news/articles/cp844kjj37vo",
+      "published": "Mon, 15 Dec 2025 16:36:19 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T18:18:06.533929"
+    },
+    {
+      "source": "hackernews",
+      "title": "$50 PlanetScale Metal Is GA for Postgres",
+      "summary": "Article URL: https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres\nComments URL: https://news.ycombinator.com/item?id=46276378\nPoints: 91\n# Comments: 50",
+      "link": "https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres",
+      "published": "Mon, 15 Dec 2025 16:11:37 +0000",
+      "keywords": [
         "Meta",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-15T12:24:27.512489"
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T18:18:06.533964"
     },
     {
-      "source": "techcrunch",
-      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
-      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
-      "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
-      "published": "Sun, 14 Dec 2025 23:17:47 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:27.512525"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Mesa shuts down credit card that rewarded cardholders for paying their mortgages",
-      "summary": "Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages.",
-      "link": "https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/",
-      "published": "Sun, 14 Dec 2025 21:37:44 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2025-12-15T12:24:27.512557"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Making sense of the risky Netflix-Warner Bros. deal",
-      "summary": "Netflix's $82.6 billion acquisition of Warner Bros. encapsulates a fraught moment for Hollywood, as the entertainment business is increasingly overshadowed by tech giants.",
-      "link": "https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/",
-      "published": "Sun, 14 Dec 2025 17:27:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:27.512582"
-    },
-    {
-      "source": "theverge",
-      "title": "Kindle app now answers questions about the book you’re reading",
-      "summary": "Amazon has launched a new AI feature in the Kindle app that gives spoiler-free answers to questions about the book you're reading, and confirmed that authors can't opt out from the feature. The company calls Ask this Book an \"expert reading assistant\" in its announcement, and says that it's capable ",
-      "link": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios",
-      "published": "2025-12-15T07:12:41-05:00",
-      "keywords": [
-        "AI",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:27.663985"
-    },
-    {
-      "source": "theverge",
-      "title": "Feeding the machine",
-      "summary": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2023 as essentially a staffing agency, albeit a highly automated one. Language models reviewed resumes",
-      "link": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
-      "published": "2025-12-15T07:00:00-05:00",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2025-12-15T12:24:27.664036"
-    },
-    {
-      "source": "theverge",
-      "title": "Starlink and Chinese satellites nearly collided last week",
-      "summary": "A collision in space was narrowly avoided last week when a newly deployed Chinese satellite came within a few hundred meters of one of the roughly 9,000 Starlink satellites currently operating in low Earth orbit. SpaceX is laying the blame on the satellite operator for not sharing location data. \"Wh",
-      "link": "https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week",
-      "published": "2025-12-15T04:53:29-05:00",
+      "source": "arstechnica",
+      "title": "Oh look, yet another Starship clone has popped up in China",
+      "summary": "Chinese companies are no longer hiding their intent to clone SpaceX. They're advertising it.",
+      "link": "https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/",
+      "published": "Mon, 15 Dec 2025 16:44:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:27.664099"
+      "crawled_at": "2025-12-15T18:18:06.692953"
     },
     {
-      "source": "theverge",
-      "title": "Who is Picea Robotics, Roomba’s new owner?",
-      "summary": "iRobot, the owner of the Roomba robot vacuum, has filed for Chapter 11 bankruptcy, stating that it will be acquired by its contract manufacturer, Picea Robotics. The Chinese-based company assumed iRobot's $190 million loan earlier this month and, under the terms of iRobot's restructuring, will waive",
-      "link": "https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot",
-      "published": "2025-12-15T03:52:45-05:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:27.664140"
-    },
-    {
-      "source": "theverge",
-      "title": "iRobot files for bankruptcy",
-      "summary": "After 35 years, the maker of the Roomba robot vacuum filed for bankruptcy protection late Sunday night. Following warnings issued earlier this year that it was fast running out of options, iRobot says it is entering Chapter 11 protection and will be acquired by its contract manufacturer, China-based",
-      "link": "https://www.theverge.com/news/844460/irobot-files-for-bankruptcy",
-      "published": "2025-12-15T01:11:18-05:00",
+      "source": "arstechnica",
+      "title": "Roomba maker iRobot swept into bankruptcy",
+      "summary": "Shenzhen-based Picea Robotics, its lender and primary supplier, will acquire all of iRobot’s shares.",
+      "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
+      "published": "Mon, 15 Dec 2025 15:24:41 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:27.664182"
+      "crawled_at": "2025-12-15T18:18:06.692995"
     },
     {
-      "source": "hackernews",
-      "title": "Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng",
-      "summary": "Article URL: https://www.optery.com/careers/\nComments URL: https://news.ycombinator.com/item?id=46273372\nPoints: 0\n# Comments: 0",
-      "link": "https://www.optery.com/careers/",
-      "published": "Mon, 15 Dec 2025 12:00:26 +0000",
+      "source": "arstechnica",
+      "title": "Verizon refused to unlock man’s iPhone, so he sued the carrier and won",
+      "summary": "Verizon changed policy after he bought the phone, wouldn't unlock it despite FCC rule.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/verizon-refused-to-unlock-mans-iphone-so-he-sued-the-carrier-and-won/",
+      "published": "Mon, 15 Dec 2025 12:30:44 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:28.106985"
-    },
-    {
-      "source": "hackernews",
-      "title": "Avoid UUIDv4 Primary Keys",
-      "summary": "Article URL: https://andyatkinson.com/avoid-uuid-version-4-primary-keys\nComments URL: https://news.ycombinator.com/item?id=46272487\nPoints: 80\n# Comments: 68",
-      "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
-      "published": "Mon, 15 Dec 2025 10:08:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:28.107027"
-    },
-    {
-      "source": "hackernews",
-      "title": "Common Rust Lifetime Misconceptions",
-      "summary": "Article URL: https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md\nComments URL: https://news.ycombinator.com/item?id=46270882\nPoints: 46\n# Comments: 9",
-      "link": "https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md",
-      "published": "Mon, 15 Dec 2025 05:46:35 +0000",
-      "keywords": [
-        "Rust",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-15T12:24:28.107073"
-    },
-    {
-      "source": "hackernews",
-      "title": "Read Something Wonderful",
-      "summary": "Article URL: https://readsomethingwonderful.com/\nComments URL: https://news.ycombinator.com/item?id=46270415\nPoints: 131\n# Comments: 19",
-      "link": "https://readsomethingwonderful.com/",
-      "published": "Mon, 15 Dec 2025 04:15:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:28.107106"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Whole App is a Blob",
-      "summary": "Article URL: https://drobinin.com/posts/the-whole-app-is-a-blob/\nComments URL: https://news.ycombinator.com/item?id=46270386\nPoints: 97\n# Comments: 50",
-      "link": "https://drobinin.com/posts/the-whole-app-is-a-blob/",
-      "published": "Mon, 15 Dec 2025 04:09:51 +0000",
-      "keywords": [
+        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-15T12:24:28.107136"
+      "crawled_at": "2025-12-15T18:18:06.693028"
     },
     {
       "source": "arstechnica",
@@ -208,7 +250,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.265578"
+      "crawled_at": "2025-12-15T18:18:06.693053"
     },
     {
       "source": "arstechnica",
@@ -221,49 +263,31 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.265607"
+      "crawled_at": "2025-12-15T18:18:06.693074"
     },
     {
-      "source": "arstechnica",
-      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
-      "summary": "Help raise a charity haul that's already past $11,000 in just a couple of days.",
-      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/",
-      "published": "Fri, 12 Dec 2025 21:35:44 +0000",
+      "source": "wired",
+      "title": "Get 22 Percent Off One of Our (and Taylor Swift’s) Favorite Pillows",
+      "summary": "Eagle-eyed Swifties have ID’d the star’s pillow brand in a recent TV show appearance, and it’s one of my favorites as well. Coop is having a special sale to commemorate the event.",
+      "link": "https://www.wired.com/story/coop-pillow-sale-taylor-swift-2025/",
+      "published": "Mon, 15 Dec 2025 17:16:12 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.265629"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google Translate expands live translation to all earbuds on Android",
-      "summary": "Expanded live translation will come to iOS in the coming months.",
-      "link": "https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/",
-      "published": "Fri, 12 Dec 2025 20:44:35 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "iOS",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-15T12:24:28.265654"
+      "crawled_at": "2025-12-15T18:18:06.789097"
     },
     {
-      "source": "arstechnica",
-      "title": "Ukrainians sue US chip firms for powering Russian drones, missiles",
-      "summary": "Lawsuits may force Intel, AMD, and Texas Instruments to do more to control chip supply chains.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/",
-      "published": "Fri, 12 Dec 2025 19:49:27 +0000",
+      "source": "wired",
+      "title": "Nvidia Becomes a Major Model Maker With Nemotron 3",
+      "summary": "The world’s top chipmaker wants open source AI to succeed—perhaps because closed models increasingly run on its rivals’ silicon.",
+      "link": "https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/",
+      "published": "Mon, 15 Dec 2025 14:00:00 +0000",
       "keywords": [
-        "AI",
-        "AWS"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.265676"
+      "crawled_at": "2025-12-15T18:18:06.789147"
     },
     {
       "source": "wired",
@@ -277,7 +301,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.409632"
+      "crawled_at": "2025-12-15T18:18:06.789177"
     },
     {
       "source": "wired",
@@ -290,7 +314,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:28.409672"
+      "crawled_at": "2025-12-15T18:18:06.789211"
     },
     {
       "source": "wired",
@@ -303,31 +327,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-15T12:24:28.409708"
-    },
-    {
-      "source": "wired",
-      "title": "Radiation-Detection Systems Are Quietly Running in the Background All Around You",
-      "summary": "If a major disaster like Fukushima or Chernobyl ever happens again, the world would know almost straight away, thanks to an array of government and DIY radiation-monitoring programs running globally.",
-      "link": "https://www.wired.com/story/radiation-detection-systems-are-quietly-running-in-the-background-all-around-you/",
-      "published": "Mon, 15 Dec 2025 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T12:24:28.409735"
-    },
-    {
-      "source": "wired",
-      "title": "Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax",
-      "summary": "These compact walking pads fit under your desk and make staying active so much easier.",
-      "link": "https://www.wired.com/story/best-walking-pads/",
-      "published": "Sun, 14 Dec 2025 15:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T12:24:28.409761"
+      "crawled_at": "2025-12-15T18:18:06.789244"
     }
   ]
 }
