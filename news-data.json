@@ -1,7 +1,34 @@
 {
-  "last_updated": "2025-12-14T18:15:31.487176",
+  "last_updated": "2025-12-15T00:57:59.160775",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+      "summary": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today’s mass shooting at Bondi Beach in Australia.",
+      "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "published": "Sun, 14 Dec 2025 23:17:47 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T00:57:58.291598"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mesa shuts down credit card that rewarded cardholders for paying their mortgages",
+      "summary": "Fintech startup Mesa has shut down its Homeowners Card, which awarded points to cardholders for paying their mortgages.",
+      "link": "https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/",
+      "published": "Sun, 14 Dec 2025 21:37:44 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-15T00:57:58.291644"
+    },
     {
       "source": "techcrunch",
       "title": "Making sense of the risky Netflix-Warner Bros. deal",
@@ -13,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:30.674069"
+      "crawled_at": "2025-12-15T00:57:58.291673"
     },
     {
       "source": "techcrunch",
@@ -25,7 +52,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:30.674118"
+      "crawled_at": "2025-12-15T00:57:58.291711"
     },
     {
       "source": "techcrunch",
@@ -38,31 +65,44 @@
         "Funding"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-14T18:15:30.674155"
+      "crawled_at": "2025-12-15T00:57:58.291744"
     },
     {
-      "source": "techcrunch",
-      "title": "DoorDash driver faces felony charges after allegedly spraying customers’ food",
-      "summary": "A woman is facing felony charges in Evansville, Indiana over a DoorDash delivery in which she allegedly sprayed the food with a substance that made the customers vomit.",
-      "link": "https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/",
-      "published": "Sat, 13 Dec 2025 21:06:51 +0000",
+      "source": "theverge",
+      "title": "You need to listen to Sudan Archives&#8217; violin opus for the club",
+      "summary": "My introduction to Sudan Archives was the song \"Nont for Sale\" from her first EP Sink in 2018. I've been a die-hard fan ever since. With each album, she finds new ways to sculpt the sound of her violin, contorting it in defiance of expectations. Athena found her in conversation with it, leaving its ",
+      "link": "https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm",
+      "published": "2025-12-14T18:45:00-05:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:30.674199"
+      "crawled_at": "2025-12-15T00:57:58.366455"
     },
     {
-      "source": "techcrunch",
-      "title": "AI data center boom could be bad news for other infrastructure projects",
-      "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
-      "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
-      "published": "Sat, 13 Dec 2025 19:37:47 +0000",
+      "source": "theverge",
+      "title": "Grok is spreading misinformation about the Bondi Beach shooting",
+      "summary": "Grok's track record is spotty at best. But even by the very low standards of xAI, its failure in the aftermath of the tragic mass shooting at Bondi Beach in Australia is shocking. The AI chatbot has repeatedly misidentified 43-year-old Ahmed al Ahmed, the man who heroically disarmed one of the shoot",
+      "link": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+      "published": "2025-12-14T16:24:24-05:00",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:30.674223"
+      "crawled_at": "2025-12-15T00:57:58.366500"
+    },
+    {
+      "source": "theverge",
+      "title": "Absynth is back and weirder than ever after 16 years",
+      "summary": "Absynth is something of a cult classic in the soft synth world. It was originally released in 2000, and quickly found an audience among the growing cadre of people making music on computers. But its last major update, Absynth 5, was released in 2009, and Native Instruments officially discontinued th",
+      "link": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+      "published": "2025-12-14T14:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T00:57:58.366546"
     },
     {
       "source": "theverge",
@@ -77,7 +117,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T18:15:30.866292"
+      "crawled_at": "2025-12-15T00:57:58.366582"
     },
     {
       "source": "theverge",
@@ -92,115 +132,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:30.866333"
+      "crawled_at": "2025-12-15T00:57:58.366613"
     },
     {
-      "source": "theverge",
-      "title": "I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox",
-      "summary": "I still wouldn't buy an Xbox Ally, and I still don't think the tweaked version of Windows that shipped with it is ready for primetime. The Xbox Full Screen Experience (FSE) needs work. But two months after I panned the cheaper $600 white Xbox Ally and wasn't quite sold on the $1,000 black one, one [",
-      "link": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
-      "published": "2025-12-14T09:00:00-05:00",
+      "source": "hackernews",
+      "title": "Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years",
+      "summary": "Article URL: https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years\nComments URL: https://news.ycombinator.com/item?id=46268854\nPoints: 6\n# Comments: 1",
+      "link": "https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years",
+      "published": "Mon, 15 Dec 2025 00:36:44 +0000",
       "keywords": [
-        "Rust",
-        "Microsoft",
-        "Windows"
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-14T18:15:30.866367"
+      "category": "Tech News",
+      "crawled_at": "2025-12-15T00:57:58.938604"
     },
     {
-      "source": "theverge",
-      "title": "AI image generators are getting better by getting worse",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and digital imagery - real or otherwise - follow Allison Johnson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Remember",
-      "link": "https://www.theverge.com/column/843883/ai-image-generators-better-worse",
-      "published": "2025-12-14T08:00:00-05:00",
+      "source": "hackernews",
+      "title": "Our emotional pain became a product",
+      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health\nComments URL: https://news.ycombinator.com/item?id=46268469\nPoints: 11\n# Comments: 3",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health",
+      "published": "Sun, 14 Dec 2025 23:50:32 +0000",
       "keywords": [
         "AI",
-        "Git",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:30.866398"
+      "crawled_at": "2025-12-15T00:57:58.938641"
     },
     {
-      "source": "theverge",
-      "title": "A new old idea about video stores",
-      "summary": "Hi, friends! Welcome to Installer No. 109, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're staying warm, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Maps and shopaganda and life a",
-      "link": "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
-      "published": "2025-12-14T08:00:00-05:00",
+      "source": "hackernews",
+      "title": "AI agents are starting to eat SaaS",
+      "summary": "Article URL: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/\nComments URL: https://news.ycombinator.com/item?id=46268452\nPoints: 41\n# Comments: 43",
+      "link": "https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/",
+      "published": "Sun, 14 Dec 2025 23:48:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T00:57:58.938670"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude CLI deleted my home directory Wiped my whole Mac",
+      "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/\nComments URL: https://news.ycombinator.com/item?id=46268222\nPoints: 98\n# Comments: 68",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/",
+      "published": "Sun, 14 Dec 2025 23:23:00 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-15T00:57:58.938699"
+    },
+    {
+      "source": "hackernews",
+      "title": "DARPA GO: Generative Optogenetics",
+      "summary": "Article URL: https://www.darpa.mil/research/programs/go\nComments URL: https://news.ycombinator.com/item?id=46268153\nPoints: 4\n# Comments: 0",
+      "link": "https://www.darpa.mil/research/programs/go",
+      "published": "Sun, 14 Dec 2025 23:13:39 +0000",
       "keywords": [
         "Go",
-        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:30.866438"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Typeframe PX-88 Portable Computing System",
-      "summary": "Article URL: https://www.typeframe.net/\nComments URL: https://news.ycombinator.com/item?id=46265015\nPoints: 3\n# Comments: 0",
-      "link": "https://www.typeframe.net/",
-      "published": "Sun, 14 Dec 2025 17:43:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:31.175142"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hashcards: A Plain-Text Spaced Repetition System",
-      "summary": "Article URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition\nComments URL: https://news.ycombinator.com/item?id=46264492\nPoints: 29\n# Comments: 4",
-      "link": "https://borretti.me/article/hashcards-plain-text-spaced-repetition",
-      "published": "Sun, 14 Dec 2025 16:55:29 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.175178"
-    },
-    {
-      "source": "hackernews",
-      "title": "Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils",
-      "summary": "Article URL: https://github.com/uutils/coreutils/releases/tag/0.5.0\nComments URL: https://news.ycombinator.com/item?id=46264329\nPoints: 15\n# Comments: 4",
-      "link": "https://github.com/uutils/coreutils/releases/tag/0.5.0",
-      "published": "Sun, 14 Dec 2025 16:40:40 +0000",
-      "keywords": [
-        "Rust",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-14T18:15:31.175210"
-    },
-    {
-      "source": "hackernews",
-      "title": "Update Now: iOS 26.2 Fixes 20 Security Vulnerabilities, 2 Actively Exploited",
-      "summary": "Article URL: https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=46264101\nPoints: 46\n# Comments: 33",
-      "link": "https://www.macrumors.com/2025/12/12/ios-26-2-security-vulnerabilities/",
-      "published": "Sun, 14 Dec 2025 16:13:55 +0000",
-      "keywords": [
-        "Security",
-        "iOS",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2025-12-14T18:15:31.175242"
-    },
-    {
-      "source": "hackernews",
-      "title": "Illuminating the processor core with LLVM-mca",
-      "summary": "Article URL: https://abseil.io/fast/99\nComments URL: https://news.ycombinator.com/item?id=46263530\nPoints: 31\n# Comments: 2",
-      "link": "https://abseil.io/fast/99",
-      "published": "Sun, 14 Dec 2025 15:05:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2025-12-14T18:15:31.175273"
+      "crawled_at": "2025-12-15T00:57:58.938730"
     },
     {
       "source": "arstechnica",
@@ -215,7 +212,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.361621"
+      "crawled_at": "2025-12-15T00:57:59.046018"
     },
     {
       "source": "arstechnica",
@@ -228,7 +225,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.361650"
+      "crawled_at": "2025-12-15T00:57:59.046049"
     },
     {
       "source": "arstechnica",
@@ -241,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.361672"
+      "crawled_at": "2025-12-15T00:57:59.046071"
     },
     {
       "source": "arstechnica",
@@ -257,7 +254,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T18:15:31.361698"
+      "crawled_at": "2025-12-15T00:57:59.046097"
     },
     {
       "source": "arstechnica",
@@ -270,7 +267,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.361720"
+      "crawled_at": "2025-12-15T00:57:59.046118"
     },
     {
       "source": "wired",
@@ -280,7 +277,7 @@
       "published": "Sun, 14 Dec 2025 15:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:31.486916"
+      "crawled_at": "2025-12-15T00:57:59.160513"
     },
     {
       "source": "wired",
@@ -294,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.486966"
+      "crawled_at": "2025-12-15T00:57:59.160560"
     },
     {
       "source": "wired",
@@ -306,7 +303,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-14T18:15:31.486997"
+      "crawled_at": "2025-12-15T00:57:59.160592"
     },
     {
       "source": "wired",
@@ -319,7 +316,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-14T18:15:31.487024"
+      "crawled_at": "2025-12-15T00:57:59.160619"
     },
     {
       "source": "wired",
@@ -332,7 +329,7 @@
         "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-14T18:15:31.487050"
+      "crawled_at": "2025-12-15T00:57:59.160645"
     }
   ]
 }
