@@ -1,269 +1,310 @@
 {
-  "last_updated": "2025-12-15T18:18:06.789327",
+  "last_updated": "2025-12-16T00:56:01.733015",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Threads adds new communities, tests badges for highly engaged members",
-      "summary": "Threads, which has more than 150 million daily active users, adds more communities to its platform.",
-      "link": "https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/",
-      "published": "Mon, 15 Dec 2025 18:00:00 +0000",
+      "title": "VCs discuss why most consumer AI startups still lack staying power",
+      "summary": "The next consumer tech revolution may require an introduction of a new personal device.",
+      "link": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
+      "published": "Tue, 16 Dec 2025 00:22:07 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "VC",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:00.974027"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation",
+      "summary": "Chai is building foundation models for drug discovery, specifically to predict interactions between  molecules so they could be reprogramed for cures.",
+      "link": "https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/",
+      "published": "Mon, 15 Dec 2025 23:41:26 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "IoT"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:00.974063"
+    },
+    {
+      "source": "techcrunch",
+      "title": "I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters",
+      "summary": "Riverside's year-end review is amusing, but it represents a creative culture that's increasingly entwined with AI.",
+      "link": "https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/",
+      "published": "Mon, 15 Dec 2025 22:53:12 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:00.974096"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Disney’s OpenAI deal is exclusive for just one year — then it’s open season",
+      "summary": "After the one year is up, Disney is free to sign similar deals with other AI companies.",
+      "link": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
+      "published": "Mon, 15 Dec 2025 22:17:36 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:00.974125"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
+      "summary": "Nvidia acquired SchedMD, the lead developer of Slurm, and launched the Nemotron 3 family of open source AI models.",
+      "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+      "published": "Mon, 15 Dec 2025 22:00:57 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.776102"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Lidar-maker Luminar files for bankruptcy",
-      "summary": "The filing marks the end of a tumultuous year full of layoffs, executive departures, and piling debts.",
-      "link": "https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/",
-      "published": "Mon, 15 Dec 2025 17:34:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:05.776154"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Zoom brings its AI assistant to the web with access to free users",
-      "summary": "Zoom is allowing free users to try its AI assistant in limited capacity",
-      "link": "https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/",
-      "published": "Mon, 15 Dec 2025 16:58:46 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.776179"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Netflix responds to concerns about WBD deal",
-      "summary": "Industry concerns over Netflix acquiring Warner Bros has led executives to address fears regarding jobs and theatrical releases.",
-      "link": "https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/",
-      "published": "Mon, 15 Dec 2025 16:28:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:05.776210"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Facebook Messenger’s desktop app is no more",
-      "summary": "The app remains usable via the web, Facebook app, and through the mobile app for iOS and Android.",
-      "link": "https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/",
-      "published": "Mon, 15 Dec 2025 16:26:56 +0000",
-      "keywords": [
-        "AI",
-        "Android",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.776239"
+      "crawled_at": "2025-12-16T00:56:00.974151"
     },
     {
       "source": "theverge",
-      "title": "Cadillac and Chevy are getting native Apple Music",
-      "summary": "General Motors is adding native Apple Music to the infotainment systems of select 2025 model year Cadillac and Chevrolet vehicles, the company announced today. The news comes as the automaker is racing to add more native app experiences to some of its vehicles to make up for the absence of popular p",
-      "link": "https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native",
-      "published": "2025-12-15T13:00:00-05:00",
+      "title": "The best Apple Watch to buy",
+      "summary": "If you have an iPhone, the Apple Watch is the best smartwatch for you. But there was only one Apple Watch when the smartwatch launched in 2015. A decade later, you’ve got three flavors to choose from: the entry-level Watch SE, the standard Series, and the rugged Ultra. Each appeals to a different de",
+      "link": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
+      "published": "2025-12-15T19:00:00-05:00",
       "keywords": [
-        "AI",
-        "Apple",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.886396"
-    },
-    {
-      "source": "theverge",
-      "title": "Google&#8217;s turning off its dark web monitoring service that scoured data breaches for your info",
-      "summary": "Google notified users in an email today that, beginning next month, it will stop sending its dark web reports, an opt-in feature that alerted users when Google detected their personal information on the dark web, as reported by 9to5Google. On January 15th, Google will stop scanning for that data, li",
-      "link": "https://www.theverge.com/news/844700/google-dark-web-reports-shut-down",
-      "published": "2025-12-15T12:30:23-05:00",
-      "keywords": [
-        "AI",
         "Go",
-        "Google",
-        "5G",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.886439"
-    },
-    {
-      "source": "theverge",
-      "title": "Tesla robotaxis spotted on public roads without safety monitors",
-      "summary": "After years of false promises and missed deadlines, several Tesla vehicles have been spotted over the weekend driving autonomously without safety monitors on public roads in Austin. For months, Tesla's robotaxis in Austin and San Francisco have included safety monitors with access to a kill switch i",
-      "link": "https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors",
-      "published": "2025-12-15T12:01:23-05:00",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:05.886487"
-    },
-    {
-      "source": "theverge",
-      "title": "Fallout season 2 is streaming one day early",
-      "summary": "The second season of Fallout is debuting one day earlier than previously announced: the new season will now launch on Tuesday, December 16th at 9PM ET / 6PM PT on Prime Video, Amazon says. The season will have eight episodes that will premiere weekly on Wednesdays (besides this first episode), with ",
-      "link": "https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video",
-      "published": "2025-12-15T12:00:20-05:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.886518"
-    },
-    {
-      "source": "theverge",
-      "title": "GNOME bans AI-generated extensions",
-      "summary": "Earlier this month, the GNOME Shell Extensions store updated its review guidelines to include a new section specifically stating that \"extensions must not be AI-generated,\" as reported by It's FOSS and Phoronix. Developers producing add-ons for the Linux desktop environment can still use AI as a too",
-      "link": "https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban",
-      "published": "2025-12-15T11:17:43-05:00",
-      "keywords": [
-        "AI",
-        "Linux",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:05.886549"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air",
-      "summary": "Written natively from scratch in Metal and Swift. Build for AirVis app.\n\nComments URL: https://news.ycombinator.com/item?id=46277477\nPoints: 13\n# Comments: 0",
-      "link": "https://twitter.com/AKurian001/status/1986979144014701026",
-      "published": "Mon, 15 Dec 2025 17:27:03 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.533824"
-    },
-    {
-      "source": "hackernews",
-      "title": "Break up bad companies; replace bad union bosses",
-      "summary": "Article URL: https://pluralistic.net/2025/12/15/class-war-labor-peace/\nComments URL: https://news.ycombinator.com/item?id=46277381\nPoints: 25\n# Comments: 5",
-      "link": "https://pluralistic.net/2025/12/15/class-war-labor-peace/",
-      "published": "Mon, 15 Dec 2025 17:21:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.533867"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.adx7892\nComments URL: https://news.ycombinator.com/item?id=46277090\nPoints: 17\n# Comments: 0",
-      "link": "https://www.science.org/doi/10.1126/sciadv.adx7892",
-      "published": "Mon, 15 Dec 2025 17:01:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.533902"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pro-democracy HK tycoon Jimmy Lai convicted in national security trial",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cp844kjj37vo\nComments URL: https://news.ycombinator.com/item?id=46276740\nPoints: 255\n# Comments: 165",
-      "link": "https://www.bbc.com/news/articles/cp844kjj37vo",
-      "published": "Mon, 15 Dec 2025 16:36:19 +0000",
-      "keywords": [
-        "AI",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.533929"
-    },
-    {
-      "source": "hackernews",
-      "title": "$50 PlanetScale Metal Is GA for Postgres",
-      "summary": "Article URL: https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres\nComments URL: https://news.ycombinator.com/item?id=46276378\nPoints: 91\n# Comments: 50",
-      "link": "https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres",
-      "published": "Mon, 15 Dec 2025 16:11:37 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.533964"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Oh look, yet another Starship clone has popped up in China",
-      "summary": "Chinese companies are no longer hiding their intent to clone SpaceX. They're advertising it.",
-      "link": "https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/",
-      "published": "Mon, 15 Dec 2025 16:44:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.692953"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Roomba maker iRobot swept into bankruptcy",
-      "summary": "Shenzhen-based Picea Robotics, its lender and primary supplier, will acquire all of iRobot’s shares.",
-      "link": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/",
-      "published": "Mon, 15 Dec 2025 15:24:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.692995"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Verizon refused to unlock man’s iPhone, so he sued the carrier and won",
-      "summary": "Verizon changed policy after he bought the phone, wouldn't unlock it despite FCC rule.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/verizon-refused-to-unlock-mans-iphone-so-he-sued-the-carrier-and-won/",
-      "published": "Mon, 15 Dec 2025 12:30:44 +0000",
-      "keywords": [
+        "Apple",
         "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-15T18:18:06.693028"
+      "crawled_at": "2025-12-16T00:56:01.095794"
     },
     {
-      "source": "arstechnica",
-      "title": "Sharks and rays gain landmark protections as nations move to curb international trade",
-      "summary": "Gov'ts agree to ban or restrict international trade in shark meat, fins, and other products.",
-      "link": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/",
-      "published": "Sat, 13 Dec 2025 12:00:06 +0000",
+      "source": "theverge",
+      "title": "The best AirPods to buy",
+      "summary": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with",
+      "link": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "published": "2025-12-15T18:47:05-05:00",
       "keywords": [
         "AI",
-        "Go",
-        "REST",
+        "Apple",
+        "iPhone",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.693053"
+      "crawled_at": "2025-12-16T00:56:01.095855"
+    },
+    {
+      "source": "theverge",
+      "title": "21 states and DC join the FTC’s lawsuit against Uber",
+      "summary": "On Monday, nearly two dozen states, plus the District of Columbia, filed an amended complaint in the FTC's lawsuit against Uber. According to the lawsuit, Uber charged consumers for the Uber One subscription without their consent, billed them before the end of a free trial, and shared misleading cla",
+      "link": "https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint",
+      "published": "2025-12-15T18:17:29-05:00",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.095897"
+    },
+    {
+      "source": "theverge",
+      "title": "How Roomba invented the home robot — and lost the future",
+      "summary": "For many, iRobot's Roomba robot vacuum was their first experience with a home robot. When I got my Roomba in 2005, I felt like I was a step closer to my dream of living in a Jetsons-style home where a robot did my chores for me. It was expensive, around $300 for a small black [&#8230;]",
+      "link": "https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics",
+      "published": "2025-12-15T17:46:09-05:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.095944"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple TV adds Google Cast streaming, but only on Android",
+      "summary": "Now it will be easier for Android users to watch Apple TV content on their TV with the addition of Google Cast support. However, even after this update, Google Cast is only an option on the Android version of Apple TV, not the iOS version. Likewise, the Android version still doesn't support AirPlay.",
+      "link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android",
+      "published": "2025-12-15T17:11:46-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "Google",
+        "Android"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.095976"
+    },
+    {
+      "source": "hackernews",
+      "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+      "summary": "Article URL: https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/\nComments URL: https://news.ycombinator.com/item?id=46281944\nPoints: 67\n# Comments: 11",
+      "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+      "published": "Mon, 15 Dec 2025 22:48:56 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.472630"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford kills the All-Electric F-150",
+      "summary": "Article URL: https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/\nComments URL: https://news.ycombinator.com/item?id=46281182\nPoints: 107\n# Comments: 126",
+      "link": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+      "published": "Mon, 15 Dec 2025 21:46:53 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.472674"
+    },
+    {
+      "source": "hackernews",
+      "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+      "summary": "Article URL: https://johnlian.net/posts/hdmi-cec/\nComments URL: https://news.ycombinator.com/item?id=46281060\nPoints: 144\n# Comments: 66",
+      "link": "https://johnlian.net/posts/hdmi-cec/",
+      "published": "Mon, 15 Dec 2025 21:37:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.472709"
+    },
+    {
+      "source": "hackernews",
+      "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+      "summary": "Article URL: https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart\nComments URL: https://news.ycombinator.com/item?id=46280887\nPoints: 119\n# Comments: 30",
+      "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+      "published": "Mon, 15 Dec 2025 21:24:06 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.472739"
+    },
+    {
+      "source": "hackernews",
+      "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
+      "summary": "Article URL: https://questdb.com/blog/async-profiler-kernel-bug/\nComments URL: https://news.ycombinator.com/item?id=46280465\nPoints: 41\n# Comments: 10",
+      "link": "https://questdb.com/blog/async-profiler-kernel-bug/",
+      "published": "Mon, 15 Dec 2025 20:52:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.472772"
     },
     {
       "source": "arstechnica",
-      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-      "summary": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent.",
-      "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
-      "published": "Fri, 12 Dec 2025 22:16:42 +0000",
+      "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
+      "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
+      "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+      "published": "Mon, 15 Dec 2025 22:41:43 +0000",
       "keywords": [
         "AI",
-        "OpenAI"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.693074"
+      "crawled_at": "2025-12-16T00:56:01.629795"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Stranger Things S5 trailer teases Vol. 2",
+      "summary": "\"Everything we've ever assumed about the Upside Down has been dead wrong.\"",
+      "link": "https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/",
+      "published": "Mon, 15 Dec 2025 22:14:28 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.629837"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
+      "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
+      "link": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
+      "published": "Mon, 15 Dec 2025 21:15:55 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Microsoft"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.629862"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Ford ends F-150 Lightning production, starts battery storage business",
+      "summary": "It looks like battery electric vehicles are out of fashion at the Blue Oval.",
+      "link": "https://arstechnica.com/cars/2025/12/ford-ends-f-150-lightning-production-starts-battery-storage-business/",
+      "published": "Mon, 15 Dec 2025 21:05:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.629890"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2",
+      "summary": "Project Misriah creator vows to use new experience \"to cook up something else.\"",
+      "link": "https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/",
+      "published": "Mon, 15 Dec 2025 20:20:05 +0000",
+      "keywords": [
+        "Microsoft"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.629918"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI’s Chief Communications Officer Is Leaving the Company",
+      "summary": "Hannah Wong told staff she is moving on to her “next chapter.” The company will be running an executive search to find a replacement, according to a memo.",
+      "link": "https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/",
+      "published": "Tue, 16 Dec 2025 00:10:24 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-16T00:56:01.732781"
+    },
+    {
+      "source": "wired",
+      "title": "Ford Kills the All-Electric F-150 as It Rethinks Its EV Ambitions",
+      "summary": "The move comes as a response to the Trump administration's waning support for electrification and a weakening consumer market.",
+      "link": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+      "published": "Mon, 15 Dec 2025 21:13:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.732835"
+    },
+    {
+      "source": "wired",
+      "title": "Cozy Earth Is Offering 40 Percent Off Pajamas Right Now",
+      "summary": "Rarely are deals better than what you see on Black Friday, but Cozy Earth is upping the ante for this pajama sale.",
+      "link": "https://www.wired.com/story/cozy-earth-pajamas-flash-deal-december-2025/",
+      "published": "Mon, 15 Dec 2025 18:27:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-16T00:56:01.732867"
     },
     {
       "source": "wired",
@@ -275,7 +316,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-15T18:18:06.789097"
+      "crawled_at": "2025-12-16T00:56:01.732909"
     },
     {
       "source": "wired",
@@ -287,47 +328,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.789147"
-    },
-    {
-      "source": "wired",
-      "title": "This Startup Wants to Build Self-Driving Car Software—Super Fast",
-      "summary": "The autonomous vehicle industry is heating up thanks to advances in AI. But can those same innovations help startups like HyprLabs build safe tech?",
-      "link": "https://www.wired.com/story/hyprlabs-wants-to-build-a-self-driving-robot-super-fast/",
-      "published": "Mon, 15 Dec 2025 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-15T18:18:06.789177"
-    },
-    {
-      "source": "wired",
-      "title": "7 Best Desktop Computers (2025): Gaming, Macs, Compact, and More",
-      "summary": "Despite advancements in laptops, desktop computers still have a place. These are the WIRED-tested options you should consider.",
-      "link": "https://www.wired.com/gallery/best-desktop-computers/",
-      "published": "Mon, 15 Dec 2025 12:00:00 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-15T18:18:06.789211"
-    },
-    {
-      "source": "wired",
-      "title": "Interstellar Arc Serves Up Alien Foxes, Exoplanets, and VR Carl Sagan",
-      "summary": "Interstellar Arc is an immersive sci-fi experience that uses recent advances in headset tech to break new ground in virtual reality. And it all happens inside an empty-looking room in Las Vegas.",
-      "link": "https://www.wired.com/story/interstellar-arc-las-vegas/",
-      "published": "Mon, 15 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "VR",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-15T18:18:06.789244"
+      "crawled_at": "2025-12-16T00:56:01.732937"
     }
   ]
 }
