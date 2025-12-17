@@ -1,7 +1,36 @@
 {
-  "last_updated": "2025-12-17T06:19:06.543885",
+  "last_updated": "2025-12-17T12:23:05.252558",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
+      "summary": "Amazon is in early discussions to invest as much as $10 billion in OpenAI in a deal that would see the AI lab using the e-commerce giant's AI chips.",
+      "link": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
+      "published": "Wed, 17 Dec 2025 12:03:36 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-17T12:23:04.326922"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google deepens consumer credit push in India with UPI-linked card",
+      "summary": "Google has entered India's growing co-branded credit card market by partnering with Axis Bank.",
+      "link": "https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/",
+      "published": "Wed, 17 Dec 2025 10:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-17T12:23:04.326963"
+    },
     {
       "source": "techcrunch",
       "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
@@ -14,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:05.348939"
+      "crawled_at": "2025-12-17T12:23:04.326988"
     },
     {
       "source": "techcrunch",
@@ -27,7 +56,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-17T06:19:05.348975"
+      "crawled_at": "2025-12-17T12:23:04.327013"
     },
     {
       "source": "techcrunch",
@@ -40,33 +69,21 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:05.349011"
+      "crawled_at": "2025-12-17T12:23:04.327048"
     },
     {
-      "source": "techcrunch",
-      "title": "How Luminar’s doomed Volvo deal helped drag the company into bankruptcy",
-      "summary": "Luminar says trouble with Volvo started as early as 2022, and that the Swedish automaker made -- but then backed away from -- large orders of its lidar sensors.",
-      "link": "https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/",
-      "published": "Tue, 16 Dec 2025 22:43:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:05.349070"
-    },
-    {
-      "source": "techcrunch",
-      "title": "WikiFlix shows us what Netflix would have been like 100 years ago",
-      "summary": "On WikiFlix, a Netflix-inspired archive of public domain films, you can watch movies like \"It's a Wonderful Life\" and \"Nosferatu\" for free.",
-      "link": "https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/",
-      "published": "Tue, 16 Dec 2025 21:58:32 +0000",
+      "source": "theverge",
+      "title": "Tesla misled customers about self-driving features, judge rules",
+      "summary": "Tesla could be temporarily locked out of its biggest US market if it doesn't change deceptive marketing that exaggerates the self-driving capabilities of its cars, the California Department of Motor Vehicles warned on Tuesday, adopting the ruling of an administrative law judge. The DMV said Tesla's ",
+      "link": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv",
+      "published": "2025-12-17T06:48:33-05:00",
       "keywords": [
         "AI",
-        "Go",
+        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:05.349098"
+      "crawled_at": "2025-12-17T12:23:04.513094"
     },
     {
       "source": "theverge",
@@ -80,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:05.505979"
+      "crawled_at": "2025-12-17T12:23:04.513154"
     },
     {
       "source": "theverge",
@@ -92,7 +109,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:05.506034"
+      "crawled_at": "2025-12-17T12:23:04.513197"
     },
     {
       "source": "theverge",
@@ -104,7 +121,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-17T06:19:05.506074"
+      "crawled_at": "2025-12-17T12:23:04.513235"
     },
     {
       "source": "theverge",
@@ -117,83 +134,72 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-17T06:19:05.506125"
+      "crawled_at": "2025-12-17T12:23:04.513285"
     },
     {
-      "source": "theverge",
-      "title": "Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room",
-      "summary": "Following the release of the 115-inch Micro RGB TV back in August, Samsung has revealed today that its Micro RGB technology will extend into smaller sizes ranging from that 115-inch behemoth all the way down to 55 inches. While we all enjoy dreaming big, it's far more reasonable for most of us to co",
-      "link": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
-      "published": "2025-12-16T18:00:00-05:00",
+      "source": "hackernews",
+      "title": "Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React",
+      "summary": "Hi HN,I built Mephisto because I was frustrated with the current state of disposable email services—most are riddled with intrusive ads, trackers, and captchas.I wanted a tool that felt like a proper developer utility rather than a spam farm.The stack is React, Vite, and Tailwind. Key architectural ",
+      "link": "https://mephistomail.site",
+      "published": "Wed, 17 Dec 2025 09:54:48 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "React",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-17T12:23:04.937344"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is Mozilla trying hard to kill itself?",
+      "summary": "Article URL: https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself\nComments URL: https://news.ycombinator.com/item?id=46299934\nPoints: 356\n# Comments: 302",
+      "link": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
+      "published": "Wed, 17 Dec 2025 09:37:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:05.506177"
+      "crawled_at": "2025-12-17T12:23:04.937391"
     },
     {
       "source": "hackernews",
-      "title": "A Guide to Magnetizing N48 Magnets in Ansys Maxwell",
-      "summary": "Article URL: https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell\nComments URL: https://news.ycombinator.com/item?id=46298055\nPoints: 8\n# Comments: 0",
-      "link": "https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell",
-      "published": "Wed, 17 Dec 2025 03:55:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.112801"
-    },
-    {
-      "source": "hackernews",
-      "title": "Introduction to Software Development Tooling (2024)",
-      "summary": "Article URL: https://bernsteinbear.com/isdt/\nComments URL: https://news.ycombinator.com/item?id=46297127\nPoints: 50\n# Comments: 4",
-      "link": "https://bernsteinbear.com/isdt/",
-      "published": "Wed, 17 Dec 2025 01:26:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.112842"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sei AI (YC W22) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior\nComments URL: https://news.ycombinator.com/item?id=46296926\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior",
-      "published": "Wed, 17 Dec 2025 01:00:21 +0000",
+      "title": "AI's real superpower: consuming, not creating",
+      "summary": "Article URL: https://msanroman.io/blog/ai-consumption-paradigm\nComments URL: https://news.ycombinator.com/item?id=46299552\nPoints: 42\n# Comments: 31",
+      "link": "https://msanroman.io/blog/ai-consumption-paradigm",
+      "published": "Wed, 17 Dec 2025 08:34:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:06.112870"
+      "crawled_at": "2025-12-17T12:23:04.937419"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Learn Japanese contextually while browsing",
-      "summary": "Hi HN,Just wanted to share a tool i've been working on to help with my own study routine. It’s a browser extension called Lingoku.The idea is simple: we spend hours browsing the web in English every day. This tool replaces some of the english words with Japanese vocabulary based on your japanese lev",
-      "link": "https://lingoku.ai/learn-japanese",
-      "published": "Wed, 17 Dec 2025 00:50:40 +0000",
+      "title": "TLA+ Modeling Tips",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html\nComments URL: https://news.ycombinator.com/item?id=46299389\nPoints: 49\n# Comments: 7",
+      "link": "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html",
+      "published": "Wed, 17 Dec 2025 08:05:30 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "API",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:06.112975"
+      "category": "Tech News",
+      "crawled_at": "2025-12-17T12:23:04.937452"
     },
     {
       "source": "hackernews",
-      "title": "Dafny: Verification-Aware Programming Language",
-      "summary": "Article URL: https://dafny.org/\nComments URL: https://news.ycombinator.com/item?id=46295792\nPoints: 51\n# Comments: 23",
-      "link": "https://dafny.org/",
-      "published": "Tue, 16 Dec 2025 22:50:59 +0000",
+      "title": "US threatens EU digital services market access",
+      "summary": "Article URL: https://twitter.com/ustraderep/status/2000990028835508258\nComments URL: https://news.ycombinator.com/item?id=46299377\nPoints: 65\n# Comments: 61",
+      "link": "https://twitter.com/ustraderep/status/2000990028835508258",
+      "published": "Wed, 17 Dec 2025 08:04:02 +0000",
       "keywords": [
+        "Git",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-17T06:19:06.113002"
+      "category": "Tech News",
+      "crawled_at": "2025-12-17T12:23:04.937503"
     },
     {
       "source": "arstechnica",
@@ -206,7 +212,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-17T06:19:06.392217"
+      "crawled_at": "2025-12-17T12:23:05.124539"
     },
     {
       "source": "arstechnica",
@@ -218,7 +224,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.392253"
+      "crawled_at": "2025-12-17T12:23:05.124575"
     },
     {
       "source": "arstechnica",
@@ -228,7 +234,7 @@
       "published": "Tue, 16 Dec 2025 20:25:57 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.392283"
+      "crawled_at": "2025-12-17T12:23:05.124605"
     },
     {
       "source": "arstechnica",
@@ -241,7 +247,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-17T06:19:06.392320"
+      "crawled_at": "2025-12-17T12:23:05.124642"
     },
     {
       "source": "arstechnica",
@@ -253,70 +259,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.392349"
+      "crawled_at": "2025-12-17T12:23:05.124671"
     },
     {
       "source": "wired",
-      "title": "Therabody Promo Codes: 50% Off | December 2025",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 50% off other great deals.",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "published": "Wed, 17 Dec 2025 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-17T06:19:06.543659"
-    },
-    {
-      "source": "wired",
-      "title": "Jaguar Type 00 EV First Ride: It Still Looks Odd, but It’s Seriously Quick",
-      "summary": "We took a hair-raising trip around a track in the final four-door GT version of Jaguar's polarizing relaunch concept car. Is just might be good enough to end the British brand's abysmal run of luck.",
-      "link": "https://www.wired.com/story/jaguar-type-00-ev-first-ride-it-still-looks-odd-but-it-is-seriously-quick/",
-      "published": "Wed, 17 Dec 2025 00:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:06.543701"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Streaming Bundles and Streaming Deals of December 2025",
-      "summary": "The best streaming deals right now are ad-free. Maybe the best streaming deals are always ad-free.",
-      "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
-      "published": "Tue, 16 Dec 2025 20:19:31 +0000",
+      "title": "How to Watch the Final Meteor Shower of 2025",
+      "summary": "Conditions in the US should be perfect for the final meteor shower of 2025, with no moonlight present to interfere with spotting shooting stars.",
+      "link": "https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/",
+      "published": "Wed, 17 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-17T06:19:06.543732"
+      "crawled_at": "2025-12-17T12:23:05.252317"
     },
     {
       "source": "wired",
-      "title": "The 40 Best Shows on Apple TV, WIRED’s Picks (December 2025)",
-      "summary": "Down Cemetery Road, Pluribus, and The Morning Show are among the best shows on Apple TV this month.",
-      "link": "https://www.wired.com/story/best-apple-tv-plus-shows/",
-      "published": "Tue, 16 Dec 2025 20:00:00 +0000",
+      "title": "People Are Paying to Get Their Chatbots High on ‘Drugs’",
+      "summary": "An online marketplace is selling code modules that simulate the effects of cannabis, ketamine, cocaine, ayahuasca, and alcohol when they are uploaded to ChatGPT.",
+      "link": "https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/",
+      "published": "Wed, 17 Dec 2025 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-17T12:23:05.252361"
+    },
+    {
+      "source": "wired",
+      "title": "Apple Engineers Are Inspecting Bacon Packaging to Help Level Up US Manufacturers",
+      "summary": "Initial participants in the new Apple Manufacturing Academy tell WIRED that the tech giant’s surprising frankness and hands-on support are already benefiting their bottom lines.",
+      "link": "https://www.wired.com/story/apple-manufacturing-academy-michigan/",
+      "published": "Wed, 17 Dec 2025 11:30:00 +0000",
       "keywords": [
         "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-17T06:19:06.543766"
+      "crawled_at": "2025-12-17T12:23:05.252405"
     },
     {
       "source": "wired",
-      "title": "Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’",
-      "summary": "After controlling shareholders failed to take Grindr private and controversies over data and the banning of the phrase “No Zionists,” Grindr’s CEO opens up about AI, privacy, and big expansion plans.",
-      "link": "https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/",
-      "published": "Tue, 16 Dec 2025 19:33:39 +0000",
+      "title": "Former Neuralink Exec Launches Organ Preservation Effort",
+      "summary": "Science Corporation, founded by Neuralink’s first president, Max Hodak, has unveiled a prototype machine to extend the life of organs for longer periods.",
+      "link": "https://www.wired.com/story/a-brain-computer-interface-company-is-getting-into-organ-preservation/",
+      "published": "Wed, 17 Dec 2025 11:15:00 +0000",
+      "keywords": [],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-17T12:23:05.252437"
+    },
+    {
+      "source": "wired",
+      "title": "DEI Died This Year. Maybe It Was Supposed To",
+      "summary": "I’m a Black staffer at WIRED. My position feels more precarious than ever. There’s a reason for that.",
+      "link": "https://www.wired.com/story/dei-died-this-year-maybe-it-was-supposed-to/",
+      "published": "Wed, 17 Dec 2025 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-17T06:19:06.543800"
+      "category": "Tech News",
+      "crawled_at": "2025-12-17T12:23:05.252484"
     }
   ]
 }
