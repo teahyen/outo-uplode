@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T06:18:56.492724",
+  "last_updated": "2025-12-18T12:22:52.237788",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:55.542429"
+      "crawled_at": "2025-12-18T12:22:51.524099"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:55.542469"
+      "crawled_at": "2025-12-18T12:22:51.524139"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:55.542504"
+      "crawled_at": "2025-12-18T12:22:51.524174"
     },
     {
       "source": "techcrunch",
@@ -51,7 +51,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:55.542542"
+      "crawled_at": "2025-12-18T12:22:51.524213"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,48 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:55.542581"
+      "crawled_at": "2025-12-18T12:22:51.524251"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple opens iOS to third-party app stores in Japan",
+      "summary": "Apple has announced the changes it's making to the iOS App Store in Japan in order to comply with recent legislation in the country. It will allow third-party app stores and payment processing options, though is introducing new commission fees for those transactions. Developers in Japan will now be ",
+      "link": "https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan",
+      "published": "2025-12-18T06:55:17-05:00",
+      "keywords": [
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-18T12:22:51.582095"
+    },
+    {
+      "source": "theverge",
+      "title": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+      "summary": "Kuxiu is back with a new S3 portable battery that addresses most of the issues I had during my review of the S2, aka the \"world's first\" semi-solid state power bank. It also introduces a few new ones, while adding useful features like a kickstand and integrated USB-C cable. As a reminder, these are ",
+      "link": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
+      "published": "2025-12-18T02:30:14-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-18T12:22:51.582160"
+    },
+    {
+      "source": "theverge",
+      "title": "Cowboy saddles up with a new owner",
+      "summary": "The Brussels-based electric bike company has officially closed its deal to be acquired by ReBirth Group Holding, which also owns cycling brands Peugeot, Gitane, and Solex. The transaction includes new, undisclosed funding from ReBirth as well as &#8364;15 million ($17.6 million) from existing shareh",
+      "link": "https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy",
+      "published": "2025-12-18T02:02:10-05:00",
+      "keywords": [
+        "REST",
+        "Funding",
+        "Git",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-18T12:22:51.582206"
     },
     {
       "source": "theverge",
@@ -79,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:55.656414"
+      "crawled_at": "2025-12-18T12:22:51.582238"
     },
     {
       "source": "theverge",
@@ -92,107 +133,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:55.656468"
+      "crawled_at": "2025-12-18T12:22:51.582279"
     },
     {
-      "source": "theverge",
-      "title": "LG and Dolby partner to release the first FlexConnect soundbar",
-      "summary": "Dolby Atmos FlexConnect technology debuted this year with the TCL Z100 speakers, and now we're getting our first FlexConnect soundbar thanks to LG. The new H7 soundbar - which runs on the same Alpha 11 Gen 3 chip as LG's OLEDs and new Micro RGB LED - is a part of the LG Sound Suite, [&#8230;]",
-      "link": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
-      "published": "2025-12-17T20:00:00-05:00",
+      "source": "hackernews",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "summary": "Article URL: https://hightouch.com/careers\nComments URL: https://news.ycombinator.com/item?id=46311637\nPoints: 0\n# Comments: 0",
+      "link": "https://hightouch.com/careers",
+      "published": "Thu, 18 Dec 2025 12:01:01 +0000",
       "keywords": [
         "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2025-12-18T06:18:55.656509"
-    },
-    {
-      "source": "theverge",
-      "title": "Snapchat’s new Quick Cut stitches a video together for you",
-      "summary": "Snap just launched a new Quick Cut video editing tool right inside Snapchat that \"helps Snapchatters turn their favorite Memories into beat-synced, ready-to-share videos in seconds.\" With Quick Cut, you can select multiple photos or clips and then \"instantly preview a rendered video,\" and the featur",
-      "link": "https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor",
-      "published": "2025-12-17T18:55:55-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-18T06:18:55.656563"
-    },
-    {
-      "source": "theverge",
-      "title": "The 44 best gift ideas for mom this holiday season",
-      "summary": "Your mom deserves the best, and we're going to help you get them something special. The right gift can make family or friend time more valuable, after all, or it can greatly enrich time spent alone. If your mom says that she has all that she needs, don't take her word for it and show [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
-      "published": "2025-12-17T18:54:00-05:00",
-      "keywords": [
-        "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:55.656602"
+      "crawled_at": "2025-12-18T12:22:52.056858"
     },
     {
       "source": "hackernews",
-      "title": "More than half of researchers now use AI for peer review, often against guidance",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-04066-5\nComments URL: https://news.ycombinator.com/item?id=46309124\nPoints: 16\n# Comments: 2",
-      "link": "https://www.nature.com/articles/d41586-025-04066-5",
-      "published": "Thu, 18 Dec 2025 05:20:41 +0000",
+      "title": "Creating apps like Signal could be 'hostile activity' claims UK watchdog",
+      "summary": "Article URL: https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog\nComments URL: https://news.ycombinator.com/item?id=46311355\nPoints: 21\n# Comments: 12",
+      "link": "https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog",
+      "published": "Thu, 18 Dec 2025 11:21:15 +0000",
       "keywords": [
         "AI",
+        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.275621"
+      "crawled_at": "2025-12-18T12:22:52.056899"
     },
     {
       "source": "hackernews",
-      "title": "Mozilla's New CEO Confirms Firefox Will Become an \"AI Browser\"",
-      "summary": "Article URL: https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy\nComments URL: https://news.ycombinator.com/item?id=46309039\nPoints: 17\n# Comments: 16",
-      "link": "https://www.omgubuntu.co.uk/2025/12/mozilla-new-ceo-firefox-ai-browser-strategy",
-      "published": "Thu, 18 Dec 2025 05:01:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.275659"
-    },
-    {
-      "source": "hackernews",
-      "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
-      "summary": "Article URL: https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/\nComments URL: https://news.ycombinator.com/item?id=46308893\nPoints: 15\n# Comments: 1",
-      "link": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/",
-      "published": "Thu, 18 Dec 2025 04:27:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-18T06:18:56.275691"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask HN: Those making $500/month on side projects in 2025 – Show and tell",
-      "summary": "It's the time of the year again, so I'd be interested hear what new (and old) ideas have come up.\nPreviously asked on:2024 → https://news.ycombinator.com/item?id=423733432023 → https://news.ycombinator.com/item?id=384676912022 → https://news.ycombinator.com/item?id=341904212021 → https://news.ycombi",
-      "link": "https://news.ycombinator.com/item?id=46307973",
-      "published": "Thu, 18 Dec 2025 01:36:54 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.275753"
-    },
-    {
-      "source": "hackernews",
-      "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
-      "summary": "Article URL: https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps\nComments URL: https://news.ycombinator.com/item?id=46307500\nPoints: 149\n# Comments: 73",
-      "link": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps",
-      "published": "Thu, 18 Dec 2025 00:25:43 +0000",
+      "title": "America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision",
+      "summary": "Article URL: https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924\nComments URL: https://news.ycombinator.com/item?id=46311220\nPoints: 18\n# Comments: 3",
+      "link": "https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924",
+      "published": "Thu, 18 Dec 2025 11:01:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-18T06:18:56.275791"
+      "crawled_at": "2025-12-18T12:22:52.056938"
+    },
+    {
+      "source": "hackernews",
+      "title": "We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34\nComments URL: https://news.ycombinator.com/item?id=46311144\nPoints: 15\n# Comments: 7",
+      "link": "https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34",
+      "published": "Thu, 18 Dec 2025 10:51:24 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-18T12:22:52.056967"
+    },
+    {
+      "source": "hackernews",
+      "title": "Slowness Is a Virtue",
+      "summary": "Article URL: https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue\nComments URL: https://news.ycombinator.com/item?id=46311092\nPoints: 29\n# Comments: 7",
+      "link": "https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue",
+      "published": "Thu, 18 Dec 2025 10:44:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-18T12:22:52.056999"
     },
     {
       "source": "arstechnica",
@@ -204,7 +210,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:56.388400"
+      "crawled_at": "2025-12-18T12:22:52.143920"
     },
     {
       "source": "arstechnica",
@@ -214,7 +220,7 @@
       "published": "Wed, 17 Dec 2025 22:46:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:56.388440"
+      "crawled_at": "2025-12-18T12:22:52.143960"
     },
     {
       "source": "arstechnica",
@@ -229,7 +235,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.388467"
+      "crawled_at": "2025-12-18T12:22:52.143987"
     },
     {
       "source": "arstechnica",
@@ -242,7 +248,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.388489"
+      "crawled_at": "2025-12-18T12:22:52.144009"
     },
     {
       "source": "arstechnica",
@@ -256,67 +262,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.388515"
+      "crawled_at": "2025-12-18T12:22:52.144035"
     },
     {
       "source": "wired",
-      "title": "HBO Max Promo Code: 50% Off | This Month",
-      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-      "link": "https://www.wired.com/story/max-promo-code/",
-      "published": "Thu, 18 Dec 2025 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-18T06:18:56.492503"
-    },
-    {
-      "source": "wired",
-      "title": "T-Mobile Business Promo Codes and Deals for November 2025",
-      "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
-      "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
-      "published": "Thu, 18 Dec 2025 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-18T06:18:56.492537"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Plant and Gardening Gifts From LetPot (2025)",
-      "summary": "The brand best known for its Aerogarden dupes actually has a wide range of indoor garden supplies. These are the products I’ve tested and would buy myself.",
-      "link": "https://www.wired.com/story/letpot-plant-and-gardening-gifts-2025/",
-      "published": "Wed, 17 Dec 2025 23:02:09 +0000",
+      "title": "10 Best Protein Powders, According to 2 Years of Testing (2026)",
+      "summary": "We found the best protein powders that won’t make your shake taste like drywall.",
+      "link": "https://www.wired.com/gallery/best-protein-powders/",
+      "published": "Thu, 18 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:56.492581"
+      "crawled_at": "2025-12-18T12:22:52.237578"
     },
     {
       "source": "wired",
-      "title": "‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era",
-      "summary": "In this episode of Uncanny Valley, we bring you our conversation with Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of directing Wicked: For Good.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/",
-      "published": "Wed, 17 Dec 2025 22:07:59 +0000",
+      "title": "A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached",
+      "summary": "The director of Deepfaking Sam Altman created a “Sam Bot” when he couldn’t get an interview with the OpenAI CEO. Watch an exclusive trailer for the documentary, which comes out in January.",
+      "link": "https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/",
+      "published": "Thu, 18 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T06:18:56.492613"
+      "crawled_at": "2025-12-18T12:22:52.237619"
     },
     {
       "source": "wired",
-      "title": "The Very Best Gifts for Dads of Christmas 2025",
-      "summary": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
-      "link": "https://www.wired.com/story/the-very-best-gifts-for-dads-2025/",
-      "published": "Wed, 17 Dec 2025 19:03:58 +0000",
+      "title": "15 Best Greens Powders (2025) Researched, Taste-Tested & Reviewed",
+      "summary": "We did the research (and taste-testing) to find the best greens powders worth your money. The Bloom Nutrition Superfood Greens Powder is our tried-and-true pick.",
+      "link": "https://www.wired.com/gallery/best-greens-powders/",
+      "published": "Thu, 18 Dec 2025 11:34:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T06:18:56.492647"
+      "crawled_at": "2025-12-18T12:22:52.237656"
+    },
+    {
+      "source": "wired",
+      "title": "new Apple iOS update is wrecking my iPhone",
+      "summary": "Is the latest iPhone operating system aesthetically appealing? No. But is it useful? Also no. At least I have company among the disgruntled.",
+      "link": "https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/",
+      "published": "Thu, 18 Dec 2025 11:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "iOS"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-18T12:22:52.237684"
+    },
+    {
+      "source": "wired",
+      "title": "Pumped Hydro Energy Storage Is Having a Renaissance",
+      "summary": "As the world looks to incorporate more renewables into energy grids, centuries-old systems that can balance supply and demand are being reappraised and innovated upon.",
+      "link": "https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/",
+      "published": "Thu, 18 Dec 2025 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-18T12:22:52.237710"
     }
   ]
 }
