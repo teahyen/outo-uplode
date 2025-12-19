@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T06:18:37.776775",
+  "last_updated": "2025-12-19T12:21:57.140003",
   "news_count": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "published": "Fri, 19 Dec 2025 00:56:44 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:32.487357"
+      "crawled_at": "2025-12-19T12:21:56.223454"
     },
     {
       "source": "techcrunch",
@@ -22,7 +22,7 @@
         "Apple"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-19T06:18:32.487393"
+      "crawled_at": "2025-12-19T12:21:56.223503"
     },
     {
       "source": "techcrunch",
@@ -35,7 +35,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-19T06:18:32.487420"
+      "crawled_at": "2025-12-19T12:21:56.223531"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-19T06:18:32.487451"
+      "crawled_at": "2025-12-19T12:21:56.223561"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,19 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-19T06:18:32.487483"
+      "crawled_at": "2025-12-19T12:21:56.223593"
+    },
+    {
+      "source": "theverge",
+      "title": "A Starlink satellite seems to have exploded",
+      "summary": "SpaceX says it has lost control of a Starlink satellite that's now falling back to Earth after suffering an anomaly. The sudden loss of communications, drop in altitude, \"venting of the propulsion tank,\" and \"release of a small number of trackable low relative velocity objects,\" suggests the anomaly",
+      "link": "https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded",
+      "published": "2025-12-19T03:15:30-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T12:21:56.365084"
     },
     {
       "source": "theverge",
@@ -78,7 +90,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-19T06:18:37.064730"
+      "crawled_at": "2025-12-19T12:21:56.365151"
     },
     {
       "source": "theverge",
@@ -91,7 +103,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-19T06:18:37.064781"
+      "crawled_at": "2025-12-19T12:21:56.365193"
     },
     {
       "source": "theverge",
@@ -107,7 +119,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-19T06:18:37.064823"
+      "crawled_at": "2025-12-19T12:21:56.365234"
     },
     {
       "source": "theverge",
@@ -119,82 +131,80 @@
         "iPhone"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-19T06:18:37.064862"
-    },
-    {
-      "source": "theverge",
-      "title": "Steam’s annual winter sale is here — these are the best games to get",
-      "summary": "If you’re lucky enough to have a bit of time off around the holidays, we have great news: Steam’s annual winter sale kicked off today, and will run through Monday, January 5th at 1PM ET. Now’s a great time to stock up on some of the best games of 2025 at a solid discount, or [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals",
-      "published": "2025-12-18T17:15:00-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.064909"
+      "crawled_at": "2025-12-19T12:21:56.365271"
     },
     {
       "source": "hackernews",
-      "title": "2026 Apple introducing more ads to increase opportunity in search results",
-      "summary": "Article URL: https://ads.apple.com/app-store/help/ad-placements/0082-search-results\nComments URL: https://news.ycombinator.com/item?id=46322556\nPoints: 12\n# Comments: 7",
-      "link": "https://ads.apple.com/app-store/help/ad-placements/0082-search-results",
-      "published": "Fri, 19 Dec 2025 05:38:25 +0000",
+      "title": "Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",
+      "summary": "Hi HN, I'm Mohammed, a technical founder who loves shipping and giving back to the community. I'm open-sourcing the full-stack engine that powers my B2B product, apflow.co.What it is: A production B2B starter with a Go backend and Next.js frontend. Both are fully Dockerized with separate containers.",
+      "link": "https://github.com/moasq/production-saas-starter",
+      "published": "Fri, 19 Dec 2025 11:34:11 +0000",
       "keywords": [
-        "Apple",
-        "AR"
+        "AI",
+        "OpenAI",
+        "Claude",
+        "Go",
+        "React"
       ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-19T06:18:37.396618"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T12:21:56.740994"
     },
     {
       "source": "hackernews",
-      "title": "Getting bitten by Intel's poor naming scenes",
-      "summary": "Article URL: https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/\nComments URL: https://news.ycombinator.com/item?id=46322540\nPoints: 14\n# Comments: 3",
-      "link": "https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/",
-      "published": "Fri, 19 Dec 2025 05:35:34 +0000",
+      "title": "Show HN: Hacker News, but every headline is hysterical clickbait",
+      "summary": "Article URL: https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html\nComments URL: https://news.ycombinator.com/item?id=46324579\nPoints: 35\n# Comments: 9",
+      "link": "https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html",
+      "published": "Fri, 19 Dec 2025 11:21:45 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "Go",
+        "Hack",
+        "Git",
+        "GitHub"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.396660"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T12:21:56.741034"
     },
     {
       "source": "hackernews",
-      "title": "Reconstructed Commander Keen 1-3 Source Code",
-      "summary": "Article URL: https://pckf.com/viewtopic.php?t=18248\nComments URL: https://news.ycombinator.com/item?id=46321982\nPoints: 13\n# Comments: 0",
-      "link": "https://pckf.com/viewtopic.php?t=18248",
-      "published": "Fri, 19 Dec 2025 03:26:52 +0000",
+      "title": "GotaTun -- Mullvad's WireGuard Implementation in Rust",
+      "summary": "Article URL: https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn\nComments URL: https://news.ycombinator.com/item?id=46324543\nPoints: 71\n# Comments: 12",
+      "link": "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn",
+      "published": "Fri, 19 Dec 2025 11:16:23 +0000",
       "keywords": [
+        "Rust",
+        "Go",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-19T06:18:37.396688"
+      "crawled_at": "2025-12-19T12:21:56.741067"
     },
     {
       "source": "hackernews",
-      "title": "Noclip.website – A digital museum of video game levels",
-      "summary": "Article URL: https://noclip.website/\nComments URL: https://news.ycombinator.com/item?id=46321619\nPoints: 100\n# Comments: 12",
-      "link": "https://noclip.website/",
-      "published": "Fri, 19 Dec 2025 02:20:08 +0000",
+      "title": "Amazon will allow ePub and PDF downloads for DRM-free eBooks",
+      "summary": "Article URL: https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US\nComments URL: https://news.ycombinator.com/item?id=46324078\nPoints: 78\n# Comments: 26",
+      "link": "https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US",
+      "published": "Fri, 19 Dec 2025 10:03:38 +0000",
       "keywords": [
-        "Git",
+        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.396731"
+      "crawled_at": "2025-12-19T12:21:56.741105"
     },
     {
       "source": "hackernews",
-      "title": "SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation",
-      "summary": "Article URL: https://docs.kernel.org/filesystems/smb/smbdirect.html\nComments URL: https://news.ycombinator.com/item?id=46321350\nPoints: 9\n# Comments: 0",
-      "link": "https://docs.kernel.org/filesystems/smb/smbdirect.html",
-      "published": "Fri, 19 Dec 2025 01:42:02 +0000",
+      "title": "Making Google Sans Flex",
+      "summary": "Article URL: https://design.google/library/google-sans-flex-font\nComments URL: https://news.ycombinator.com/item?id=46322732\nPoints: 65\n# Comments: 41",
+      "link": "https://design.google/library/google-sans-flex-font",
+      "published": "Fri, 19 Dec 2025 06:10:02 +0000",
       "keywords": [
-        "Linux",
+        "Go",
+        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.396773"
+      "crawled_at": "2025-12-19T12:21:56.741135"
     },
     {
       "source": "arstechnica",
@@ -207,7 +217,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.605900"
+      "crawled_at": "2025-12-19T12:21:56.980429"
     },
     {
       "source": "arstechnica",
@@ -219,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.605941"
+      "crawled_at": "2025-12-19T12:21:56.980495"
     },
     {
       "source": "arstechnica",
@@ -232,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.605973"
+      "crawled_at": "2025-12-19T12:21:56.980538"
     },
     {
       "source": "arstechnica",
@@ -247,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-19T06:18:37.605995"
+      "crawled_at": "2025-12-19T12:21:56.980561"
     },
     {
       "source": "arstechnica",
@@ -259,71 +269,65 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.606022"
+      "crawled_at": "2025-12-19T12:21:56.980597"
     },
     {
       "source": "wired",
-      "title": "Terrifying New Photos Emerge From the Jeffrey Epstein Estate",
-      "summary": "The latest photo dump from Democrats in the House Oversight Committee includes more famous men and upsetting Lolita quotes written on a woman's body.",
-      "link": "https://www.wired.com/story/house-oversight-jeffrey-epstein-photos-december-18-2025/",
-      "published": "Thu, 18 Dec 2025 22:23:31 +0000",
+      "title": "The 8 Best WIRED-Tested Handheld Vacuums (2025)",
+      "summary": "Lightweight, powerful, and generally inexpensive, the handheld vacuum is the perfect household helper.",
+      "link": "https://www.wired.com/gallery/the-best-handheld-vacuums/",
+      "published": "Fri, 19 Dec 2025 12:06:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.776546"
+      "crawled_at": "2025-12-19T12:21:57.139785"
     },
     {
       "source": "wired",
-      "title": "The 28 Best Movies on Apple TV, WIRED’s Picks (December 2025)",
-      "summary": "Come See Me in the Good Light, Highest 2 Lowest, and F1: The Movie are just a few of the movies you should be watching on Apple TV this month.",
-      "link": "https://www.wired.com/story/best-apple-tv-plus-movies/",
-      "published": "Thu, 18 Dec 2025 20:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-19T06:18:37.776591"
-    },
-    {
-      "source": "wired",
-      "title": "Don't Miss This Kindle Sale: Paperwhite, Colorsoft, and Accessories",
-      "summary": "If your favorite reader is the one left on your Christmas list, good news: Several Kindles and Kindle accessories are on sale right now for your last-minute shopping.",
-      "link": "https://www.wired.com/story/last-minute-christmas-kindle-sales/",
-      "published": "Thu, 18 Dec 2025 19:40:33 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
+      "title": "How to Quickly Find Out What's Streaming on Multiple Services at Once",
+      "summary": "Build a watchlist of all the movies and shows you want to watch, no matter where they’re streaming.",
+      "link": "https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/",
+      "published": "Fri, 19 Dec 2025 12:00:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-19T06:18:37.776628"
+      "crawled_at": "2025-12-19T12:21:57.139831"
     },
     {
       "source": "wired",
-      "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
-      "summary": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
-      "link": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
-      "published": "Thu, 18 Dec 2025 19:14:50 +0000",
-      "keywords": [
-        "Go",
-        "Security",
-        "Cybersecurity"
-      ],
-      "category": "Security",
-      "crawled_at": "2025-12-19T06:18:37.776662"
-    },
-    {
-      "source": "wired",
-      "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-      "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-      "link": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-      "published": "Thu, 18 Dec 2025 17:45:46 +0000",
+      "title": "What Paralympic Athlete Monster Mike Schultz Packs for His Races",
+      "summary": "The world champion adaptive snowboard cross athlete repairs his own prostheses before a competition.",
+      "link": "https://www.wired.com/story/mike-schultz-paralympian-snowboardcross-starter-pack/",
+      "published": "Fri, 19 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-19T06:18:37.776695"
+      "crawled_at": "2025-12-19T12:21:57.139855"
+    },
+    {
+      "source": "wired",
+      "title": "The Avatar Game Is So Good, They Don’t Need to Make the Movies Anymore",
+      "summary": "See the new movie Avatar: Fire and Ash if you’d like. But if you really want to experience the big blue world of Pandora, the video game is where it’s at.",
+      "link": "https://www.wired.com/story/the-avatar-video-game-is-so-good-they-dont-need-to-make-the-movies/",
+      "published": "Fri, 19 Dec 2025 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T12:21:57.139894"
+    },
+    {
+      "source": "wired",
+      "title": "From Queer-Baiting to Neurodivergence: ‘Heated Rivalry’s Author Tackles Fan Theories and Controversy",
+      "summary": "“I didn't expect this book to be analyzed like The Great Gatsby,” hockey smut author Rachel Reid tells WIRED.",
+      "link": "https://www.wired.com/story/heated-rivalry-author-rachel-reid-interview/",
+      "published": "Fri, 19 Dec 2025 11:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T12:21:57.139923"
     }
   ]
 }
