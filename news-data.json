@@ -1,271 +1,330 @@
 {
-  "last_updated": "2025-12-18T18:18:08.476746",
+  "last_updated": "2025-12-19T00:55:32.113202",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "These 21-year-old dropouts raised $2M to build Givefront, a fintech for nonprofits",
-      "summary": "YC-backed Givefront is building a fintech designed specifically for nonprofits, including food banks, churches, and homeowner associations.",
-      "link": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/",
-      "published": "Thu, 18 Dec 2025 18:04:42 +0000",
+      "title": "Apple becomes a debt collector with its new developer agreement",
+      "summary": "Apple says it can now collect any money a developer owes the tech giant at any time.",
+      "link": "https://techcrunch.com/2025/12/18/apple-becomes-a-debt-collector-with-its-new-developer-agreement/",
+      "published": "Thu, 18 Dec 2025 23:56:19 +0000",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-19T00:55:31.371374"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Instacart to pay $60M to settle FTC claims it deceived consumers",
+      "summary": "The federal agency alleged Instacart misled consumers with unlawful tactics, causing them to pay higher fees while also denying refunds.",
+      "link": "https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/",
+      "published": "Thu, 18 Dec 2025 21:07:25 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.441827"
+      "crawled_at": "2025-12-19T00:55:31.371410"
     },
     {
       "source": "techcrunch",
-      "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
-      "summary": "The merger would broaden Trump Media’s holdings into the nascent fusion power space while data centers clamor for more electricity amid the ongoing AI boom.",
-      "link": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
-      "published": "Thu, 18 Dec 2025 17:05:00 +0000",
+      "title": "ChatGPT launches an app store, lets developers know it’s open for business",
+      "summary": "OpenAI is looking to populate its flagship chatbot with a host of new user experiences.",
+      "link": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+      "published": "Thu, 18 Dec 2025 20:22:50 +0000",
       "keywords": [
         "AI",
-        "Go"
+        "ChatGPT",
+        "GPT",
+        "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.441874"
+      "crawled_at": "2025-12-19T00:55:31.371443"
     },
     {
       "source": "techcrunch",
-      "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: sources",
-      "summary": "EtherealX aims to take on SpaceX's Falcon 9 with its fully reusable rocket.",
-      "link": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
-      "published": "Thu, 18 Dec 2025 16:30:00 +0000",
+      "title": "Pickle Robot adds Tesla veteran as first CFO",
+      "summary": "Jeff Evanson recently joined Pickle Robot as the company's first CFO as the startup has allegedly expanded its partnership with UPS.",
+      "link": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
+      "published": "Thu, 18 Dec 2025 20:01:46 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.441905"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Tech provider for NHS England confirms data breach",
-      "summary": "U.K.-based healthcare tech provider DXS International said it discovered and contained a data breach on Sunday. A ransomware gang took credit for the breach.",
-      "link": "https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/",
-      "published": "Thu, 18 Dec 2025 16:09:34 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.441930"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
-      "summary": "The startup has raised a $3.6 million seed round led by Khosla Ventures.",
-      "link": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
-      "published": "Thu, 18 Dec 2025 16:00:00 +0000",
-      "keywords": [
-        "AI",
         "Startup",
+        "Tesla",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-19T00:55:31.371476"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why British politicians are flocking to American tech giants",
+      "summary": "Former British Chancellor of the Exchequer George Osborne has joined OpenAI as managing director and head of OpenAI for Countries. He also will run Coinbase's internal advisory council.",
+      "link": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
+      "published": "Thu, 18 Dec 2025 19:50:23 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.441953"
+      "crawled_at": "2025-12-19T00:55:31.371505"
     },
     {
       "source": "theverge",
-      "title": "Riot Games found a motherboard security flaw that helps PC cheaters",
-      "summary": "Riot Games says a security flaw in many recent motherboards could be exploited by cheaters undetected, and now companies including Asrock, Asus, Gigabyte, and MSI have released BIOS updates to address the issue. According to Riot, \"had this issue gone unnoticed, it would have completely nullified al",
-      "link": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
-      "published": "2025-12-18T13:01:51-05:00",
+      "title": "The TikTok US sale is finally happening",
+      "summary": "TikTok has finalized the deal to sell its US business, according to reports from Axios, The Hollywood Reporter, and CNBC. They report that a memo from TikTok CEO Shou Zi Chew to employees on Thursday said the deal will close on January 22nd, with Oracle, Silver Lake, and Abu Dhabi's MGX owning 45 pe",
+      "link": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
+      "published": "2025-12-18T18:18:34-05:00",
       "keywords": [
-        "Go",
-        "Security",
+        "AI",
         "iOS",
-        "IoT",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2025-12-18T18:18:07.667827"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.608372"
     },
     {
       "source": "theverge",
-      "title": "26 practical smart home gifts that make everyday life a little easier",
-      "summary": "Smart home products are all about making everyday life a little easier, which is why they're some of the best and most thoughtful gifts you can give. Some people go all out building a multi-gadget IoT kingdom (like our resident smart home expert, Jen Pattison Tuohy), but a smart home is whatever you",
-      "link": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
-      "published": "2025-12-18T12:00:00-05:00",
+      "title": "Threads wants to be the app you can’t wait to open in the morning",
+      "summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. By all measures, Meta's Threads app had a very good year. The app was Apple's second-most-downloaded iOS app of the year, trailing only ChatGPT. Threads no",
+      "link": "https://www.theverge.com/column/847806/head-of-threads-interview",
+      "published": "2025-12-18T17:30:00-05:00",
       "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
         "Go",
-        "IoT",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.608427"
+    },
+    {
+      "source": "theverge",
+      "title": "Oh snap, I have a new favorite phone grip",
+      "summary": "In 2022, we called a simple magnetic ring from Anker the best MagSafe phone grip, but things have evolved dramatically since then! You can buy two or even three magnetic rings joined at the hip these days to wield your iPhone, recent Pixel, or really any phone if you stick a magnetic case or include",
+      "link": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
+      "published": "2025-12-18T17:29:23-05:00",
+      "keywords": [
+        "iPhone"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-19T00:55:31.608469"
+    },
+    {
+      "source": "theverge",
+      "title": "Steam’s annual winter sale is here — these are the best games to get",
+      "summary": "If you’re lucky enough to have a bit of time off around the holidays, we have great news: Steam’s annual winter sale kicked off today, and will run through Monday, January 5th at 1PM ET. Now’s a great time to stock up on some of the best games of 2025 at a solid discount, or [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals",
+      "published": "2025-12-18T17:15:00-05:00",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:07.667886"
+      "crawled_at": "2025-12-19T00:55:31.608519"
     },
     {
       "source": "theverge",
-      "title": "Netflix snags Elle Duncan from ESPN to host live events",
-      "summary": "Netflix is bringing ESPN host Elle Duncan onboard to become the voice of its growing roster of live events. Duncan, who has appeared on SportsCenter, College GameDay, and WNBA Countdown, will make her debut on Netflix with next year's Skyscraper Live broadcast. During the livestream, free solo climb",
-      "link": "https://www.theverge.com/news/847394/netflix-espn-elle-duncan-live-tv-ambitions",
-      "published": "2025-12-18T12:00:00-05:00",
+      "title": "OpenAI and Anthropic will start predicting when users are underage",
+      "summary": "OpenAI and Anthropic are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how ChatGPT should interact with users between the ages of 13 and 17, Anthropic is working on a new way to identify and boot users who are under 18. On Thursday, OpenAI announced that Chat",
+      "link": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude",
+      "published": "2025-12-18T16:55:59-05:00",
       "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.608550"
+    },
+    {
+      "source": "hackernews",
+      "title": "Great ideas in theoretical computer science",
+      "summary": "Article URL: https://www.cs251.com/\nComments URL: https://news.ycombinator.com/item?id=46319946\nPoints: 24\n# Comments: 1",
+      "link": "https://www.cs251.com/",
+      "published": "Thu, 18 Dec 2025 22:52:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.848966"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trained LLMs exclusively on pre-1913 texts",
+      "summary": "Article URL: https://github.com/DGoettlich/history-llms\nComments URL: https://news.ycombinator.com/item?id=46319826\nPoints: 115\n# Comments: 37",
+      "link": "https://github.com/DGoettlich/history-llms",
+      "published": "Thu, 18 Dec 2025 22:39:47 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.849017"
+    },
+    {
+      "source": "hackernews",
+      "title": "1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5\nComments URL: https://news.ycombinator.com/item?id=46319657\nPoints: 124\n# Comments: 39",
+      "link": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5",
+      "published": "Thu, 18 Dec 2025 22:23:09 +0000",
+      "keywords": [
+        "VR",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.849066"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI vending machine was tricked into giving away everything",
+      "summary": "Article URL: https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything\nComments URL: https://news.ycombinator.com/item?id=46319324\nPoints: 55\n# Comments: 2",
+      "link": "https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything",
+      "published": "Thu, 18 Dec 2025 21:52:39 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.849097"
+    },
+    {
+      "source": "hackernews",
+      "title": "Delty (YC X25) Is Hiring an ML Engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=46318676\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer",
+      "published": "Thu, 18 Dec 2025 21:02:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.849132"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump commits to Moon landing by 2028, followed by a lunar outpost two years later",
+      "summary": "Also, the Trump administration wants to put some nuclear power reactors there, too.",
+      "link": "https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/",
+      "published": "Thu, 18 Dec 2025 23:05:42 +0000",
+      "keywords": [
+        "React",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.977066"
+    },
+    {
+      "source": "arstechnica",
+      "title": "YouTube bans two popular channels that created fake AI movie trailers",
+      "summary": "Google loves AI content, except when it doesn't.",
+      "link": "https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/",
+      "published": "Thu, 18 Dec 2025 22:39:54 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-19T00:55:31.977094"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Peacock showing ads upon launch opens the door for more disruptive streaming ads",
+      "summary": "Subscribers will start seeing ads when selecting a user next year.",
+      "link": "https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/",
+      "published": "Thu, 18 Dec 2025 22:18:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.977124"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
+      "summary": "Help increase our charity haul of nearly $18,000 in just over a week.",
+      "link": "https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/",
+      "published": "Thu, 18 Dec 2025 21:35:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.977151"
+    },
+    {
+      "source": "arstechnica",
+      "title": "RAM and SSD prices are still climbing—here’s our best advice for PC builders",
+      "summary": "I would avoid building a PC right now, but if you can't, here's our best advice.",
+      "link": "https://arstechnica.com/gadgets/2025/12/for-just-a-couple-of-months-in-the-middle-of-2025-it-was-an-ok-time-to-build-a-pc/",
+      "published": "Thu, 18 Dec 2025 21:31:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:31.977188"
+    },
+    {
+      "source": "wired",
+      "title": "Terrifying New Photos Emerge From the Jeffrey Epstein Estate",
+      "summary": "The latest photo dump from Democrats in the House Oversight Committee includes more famous men and upsetting Lolita quotes written on a woman's body.",
+      "link": "https://www.wired.com/story/house-oversight-jeffrey-epstein-photos-december-18-2025/",
+      "published": "Thu, 18 Dec 2025 22:23:31 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2025-12-19T00:55:32.112949"
+    },
+    {
+      "source": "wired",
+      "title": "The 28 Best Movies on Apple TV, WIRED’s Picks (December 2025)",
+      "summary": "Come See Me in the Good Light, Highest 2 Lowest, and F1: The Movie are just a few of the movies you should be watching on Apple TV this month.",
+      "link": "https://www.wired.com/story/best-apple-tv-plus-movies/",
+      "published": "Thu, 18 Dec 2025 20:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-18T18:18:07.667932"
+      "crawled_at": "2025-12-19T00:55:32.113013"
     },
     {
-      "source": "theverge",
-      "title": "Kia and Hyundai will spend millions fixing old cars to stop &#8216;Kia Boyz&#8217; thefts",
-      "summary": "Kia and Hyundai will offer free repairs for millions of cars that lack anti-theft technology as part of a settlement with dozens of US states. The automakers agreed to outfit the roughly nine million eligible cars sold between 2011 and 2022 with a zinc sleeve installed around the ignition cylinder t",
-      "link": "https://www.theverge.com/news/847454/kia-boyz-settlement-kia-hyundai-fix-ignition-cylinder",
-      "published": "2025-12-18T11:44:03-05:00",
+      "source": "wired",
+      "title": "Don't Miss This Kindle Sale: Paperwhite, Colorsoft, and Accessories",
+      "summary": "If your favorite reader is the one left on your Christmas list, good news: Several Kindles and Kindle accessories are on sale right now for your last-minute shopping.",
+      "link": "https://www.wired.com/story/last-minute-christmas-kindle-sales/",
+      "published": "Thu, 18 Dec 2025 19:40:33 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:07.667965"
-    },
-    {
-      "source": "theverge",
-      "title": "iRobot’s bankruptcy isn’t the end — it’s a reboot, says CEO",
-      "summary": "The news that the maker of the Roomba robot vacuum, iRobot, filed for bankruptcy this week came as no surprise. Its CEO, Gary Cohen, had been warning investors all year that the company could run out of cash unless a buyer was found. When its last potential deal fell through, bankruptcy became inevi",
-      "link": "https://www.theverge.com/report/847340/irobot-bankruptcy-reset-interview-ceo-gary-cohen",
-      "published": "2025-12-18T11:30:30-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:07.668021"
-    },
-    {
-      "source": "hackernews",
-      "title": "Military Standard on Software Control Levels",
-      "summary": "Article URL: https://entropicthoughts.com/mil-std-882e-software-control\nComments URL: https://news.ycombinator.com/item?id=46315547\nPoints: 20\n# Comments: 4",
-      "link": "https://entropicthoughts.com/mil-std-882e-software-control",
-      "published": "Thu, 18 Dec 2025 17:12:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.094016"
-    },
-    {
-      "source": "hackernews",
-      "title": "Agent Skills is now an open standard",
-      "summary": "Article URL: https://claude.com/blog/organization-skills-and-directory\nComments URL: https://news.ycombinator.com/item?id=46315414\nPoints: 56\n# Comments: 33",
-      "link": "https://claude.com/blog/organization-skills-and-directory",
-      "published": "Thu, 18 Dec 2025 17:04:32 +0000",
-      "keywords": [
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.094054"
-    },
-    {
-      "source": "hackernews",
-      "title": "Beginning January 2026, all ACM publications will be made open access",
-      "summary": "Article URL: https://dl.acm.org/openaccess\nComments URL: https://news.ycombinator.com/item?id=46313991\nPoints: 574\n# Comments: 63",
-      "link": "https://dl.acm.org/openaccess",
-      "published": "Thu, 18 Dec 2025 15:39:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.094089"
-    },
-    {
-      "source": "hackernews",
-      "title": "Launch HN: Pulse (YC S24) – Production-grade unstructured document extraction",
-      "summary": "Hi HN, we’re Sid and Ritvik, co-founders of Pulse (https://www.runpulse.com/). Pulse is a document extraction system to create LLM-ready text using hybrid VLM + OCR models.Here’s a demo video: https://video.runpulse.com/video/pulse-platform-walkthrough-....Later in this post, you’ll find links to be",
-      "link": "https://news.ycombinator.com/item?id=46313930",
-      "published": "Thu, 18 Dec 2025 15:35:52 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.094412"
-    },
-    {
-      "source": "hackernews",
-      "title": "Heart and Kidney Diseases and Type 2 Diabetes May Be One Ailment",
-      "summary": "Article URL: https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/\nComments URL: https://news.ycombinator.com/item?id=46313693\nPoints: 42\n# Comments: 18",
-      "link": "https://www.scientificamerican.com/article/heart-and-kidney-diseases-plus-type-2-diabetes-may-be-one-illness-treatable/",
-      "published": "Thu, 18 Dec 2025 15:23:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.094447"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Does swearing make you stronger? Science says yes.",
-      "summary": "\"A calorie-neutral, drug-free, low-cost, readily available tool for when we need a boost in performance.”",
-      "link": "https://arstechnica.com/science/2025/12/does-swearing-make-you-stronger-science-says-yes/",
-      "published": "Thu, 18 Dec 2025 14:46:33 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.219515"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Formula 1 is deploying new jargon for 2026",
-      "summary": "Forget DRS, now it's all about corner mode, straight mode, and overtake mode.",
-      "link": "https://arstechnica.com/cars/2025/12/formula-1-is-deploying-new-jargon-for-2026/",
-      "published": "Thu, 18 Dec 2025 13:52:45 +0000",
-      "keywords": [
-        "AI",
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.219545"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The inside story of SpaceX’s historic rocket landing that changed launch forever",
-      "summary": "\"It's hard to describe how epic this comeback was after our first Falcon 9 launch failure.\"",
-      "link": "https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/",
-      "published": "Thu, 18 Dec 2025 12:00:22 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.219576"
-    },
-    {
-      "source": "arstechnica",
-      "title": "NASA finally—and we really do mean it this time—has a full-time leader",
-      "summary": "A long and winding road to reach NASA's headquarters in Washington, DC.",
-      "link": "https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/",
-      "published": "Thu, 18 Dec 2025 00:19:11 +0000",
-      "keywords": [
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.219610"
+      "crawled_at": "2025-12-19T00:55:32.113053"
     },
     {
-      "source": "arstechnica",
-      "title": "Physicists 3D-printed a Christmas tree of ice",
-      "summary": "New method uses no freezing technology or refrigeration equipment—just water and a vacuum.",
-      "link": "https://arstechnica.com/science/2025/12/physicists-3d-printed-a-christmas-tree-of-ice/",
-      "published": "Wed, 17 Dec 2025 22:46:21 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.219648"
+      "source": "wired",
+      "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
+      "summary": "The agency plans to renew a sweeping cybersecurity contract that includes expanded employee monitoring as the government escalates leak investigations and casts internal dissent as a threat.",
+      "link": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
+      "published": "Thu, 18 Dec 2025 19:14:50 +0000",
+      "keywords": [
+        "Go",
+        "Security",
+        "Cybersecurity"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-19T00:55:32.113086"
     },
     {
       "source": "wired",
       "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-      "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Hoatian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
+      "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
       "link": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
       "published": "Thu, 18 Dec 2025 17:45:46 +0000",
       "keywords": [
@@ -273,56 +332,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.476451"
-    },
-    {
-      "source": "wired",
-      "title": "7 Best Cheap Phones (2025), Tested and Reviewed",
-      "summary": "There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $600—stood up to WIRED’s testing.",
-      "link": "https://www.wired.com/story/best-cheap-phones/",
-      "published": "Thu, 18 Dec 2025 16:42:56 +0000",
-      "keywords": [
-        "iPhone",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-18T18:18:08.476503"
-    },
-    {
-      "source": "wired",
-      "title": "Thuma Classic Bed Frame Review: Functional Meets Fabulous",
-      "summary": "This fashionable favorite bed frame eliminates the need for tools during setup, instead using a Tetris-like stacking process",
-      "link": "https://www.wired.com/review/thuma-classic-bed-frame/",
-      "published": "Thu, 18 Dec 2025 16:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.476538"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Linen Sheets for Cool and Comfy Sleeping (2025)",
-      "summary": "Linen might not be your first choice for bedsheets, but it’s got enough benefits that it's worth a try. Here’s the linen we love sleeping on.",
-      "link": "https://www.wired.com/gallery/best-linen-sheets/",
-      "published": "Thu, 18 Dec 2025 15:03:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-18T18:18:08.476578"
-    },
-    {
-      "source": "wired",
-      "title": "T-Mobile Says You Can Switch in Just 15 Minutes. I Tested That Claim",
-      "summary": "T-Mobile recently announced a new way to switch to the carrier in 15 minutes, and even get a new phone delivered on the same day. Here's what it's like.",
-      "link": "https://www.wired.com/story/i-tested-t-mobile-15-minute-switch-carriers/",
-      "published": "Thu, 18 Dec 2025 14:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-18T18:18:08.476605"
+      "crawled_at": "2025-12-19T00:55:32.113119"
     }
   ]
 }
