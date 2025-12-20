@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T06:18:05.773953",
+  "last_updated": "2025-12-20T12:19:47.608822",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.819082"
+      "crawled_at": "2025-12-20T12:19:46.815872"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.819121"
+      "crawled_at": "2025-12-20T12:19:46.815913"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:04.819160"
+      "crawled_at": "2025-12-20T12:19:46.815974"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-20T06:18:04.819216"
+      "crawled_at": "2025-12-20T12:19:46.816018"
     },
     {
       "source": "techcrunch",
@@ -66,7 +66,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.819249"
+      "crawled_at": "2025-12-20T12:19:46.816051"
+    },
+    {
+      "source": "theverge",
+      "title": "Rivian’s AI pivot is about more than chasing Tesla",
+      "summary": "RJ Scaringe is sitting in Rivian's Palo Alto offices, explaining why the adventure-themed EV company suddenly decided to build its own self-driving cars, when an unexpected guest glides by the window outside: Waymo. A robotaxi from the Alphabet-owned company pulls up outside the office. The passenge",
+      "link": "https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla",
+      "published": "2025-12-20T07:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Tesla",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-20T12:19:46.954542"
+    },
+    {
+      "source": "theverge",
+      "title": "The sold-out Nex Playground made my kids laugh and cry",
+      "summary": "If you told me last year the Nex Playground would outsell Microsoft's Xbox, even for two weeks, I would have laughed my way out of the room. It's a three-inch cube of a game console that's likely less powerful than your phone, one which uses a single camera to track your body. It only plays [&#8230;",
+      "link": "https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera",
+      "published": "2025-12-20T06:00:00-05:00",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-20T12:19:46.954595"
     },
     {
       "source": "theverge",
@@ -81,7 +109,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-20T06:18:04.925123"
+      "crawled_at": "2025-12-20T12:19:46.954642"
     },
     {
       "source": "theverge",
@@ -96,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.925164"
+      "crawled_at": "2025-12-20T12:19:46.954673"
     },
     {
       "source": "theverge",
@@ -109,101 +137,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:04.925244"
+      "crawled_at": "2025-12-20T12:19:46.954726"
     },
     {
-      "source": "theverge",
-      "title": "Gemini isn’t replacing Google Assistant on Android just yet",
-      "summary": "Google isn't quite ready to replace Assistant with Gemini on Android devices. The company said on Friday that it will \"continue our work to upgrade Assistant users to Gemini on mobile devices into 2026,\" instead of its original plans to make the switch by the end of 2025. \"We're adjusting our previo",
-      "link": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
-      "published": "2025-12-19T17:39:14-05:00",
+      "source": "hackernews",
+      "title": "Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46335552\nPoints: 0\n# Comments: 0",
+      "link": "https://news.ycombinator.com/item?id=46335552",
+      "published": "Sat, 20 Dec 2025 12:00:31 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-20T12:19:47.382794"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Does a Database for SSDs Look Like?",
+      "summary": "Article URL: https://brooker.co.za/blog/2025/12/15/database-for-ssd.html\nComments URL: https://news.ycombinator.com/item?id=46334990\nPoints: 19\n# Comments: 10",
+      "link": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "published": "Sat, 20 Dec 2025 10:13:33 +0000",
+      "keywords": [
+        "Database",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-20T12:19:47.382836"
+    },
+    {
+      "source": "hackernews",
+      "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
+      "summary": "Article URL: https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/\nComments URL: https://news.ycombinator.com/item?id=46334533\nPoints: 171\n# Comments: 74",
+      "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
+      "published": "Sat, 20 Dec 2025 08:36:52 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
-        "Android"
+        "Cloud",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.925287"
+      "crawled_at": "2025-12-20T12:19:47.382865"
     },
     {
-      "source": "theverge",
-      "title": "Next-generation nuclear reactors could get a boost from the National Defense Authorization Act",
-      "summary": "President Trump signed the National Defense Authorization Act (NDAA) for Fiscal Year 2026 Thursday with measures that further the bipartisan push for next-generation nuclear power plants. The Trump administration has embraced the technology as a new energy source for data centers demanding greater a",
-      "link": "https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill",
-      "published": "2025-12-19T17:04:48-05:00",
+      "source": "hackernews",
+      "title": "Skills Officially Comes to Codex",
+      "summary": "Article URL: https://developers.openai.com/codex/skills/\nComments URL: https://news.ycombinator.com/item?id=46334424\nPoints: 43\n# Comments: 10",
+      "link": "https://developers.openai.com/codex/skills/",
+      "published": "Sat, 20 Dec 2025 08:09:17 +0000",
       "keywords": [
         "AI",
-        "React",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:04.925326"
+      "crawled_at": "2025-12-20T12:19:47.382890"
     },
     {
       "source": "hackernews",
-      "title": "Android introduces $2-4 install fee and 10–20% cut for US external content links",
-      "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/16470497?hl=en\nComments URL: https://news.ycombinator.com/item?id=46333734\nPoints: 40\n# Comments: 13",
-      "link": "https://support.google.com/googleplay/android-developer/answer/16470497?hl=en",
-      "published": "Sat, 20 Dec 2025 05:00:55 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-20T06:18:05.516284"
-    },
-    {
-      "source": "hackernews",
-      "title": "Build Your Own React",
-      "summary": "Article URL: https://pomb.us/build-your-own-react/\nComments URL: https://news.ycombinator.com/item?id=46332526\nPoints: 47\n# Comments: 4",
-      "link": "https://pomb.us/build-your-own-react/",
-      "published": "Sat, 20 Dec 2025 00:16:13 +0000",
-      "keywords": [
-        "React",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.516327"
-    },
-    {
-      "source": "hackernews",
-      "title": "CSS Grid Lanes",
-      "summary": "Article URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/\nComments URL: https://news.ycombinator.com/item?id=46331586\nPoints: 412\n# Comments: 117",
-      "link": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-      "published": "Fri, 19 Dec 2025 22:13:06 +0000",
+      "title": "NTP at NIST Boulder Has Lost Power",
+      "summary": "Article URL: https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/\nComments URL: https://news.ycombinator.com/item?id=46334299\nPoints: 125\n# Comments: 55",
+      "link": "https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/",
+      "published": "Sat, 20 Dec 2025 07:39:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.516360"
-    },
-    {
-      "source": "hackernews",
-      "title": "Buteyko Method",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Buteyko_method\nComments URL: https://news.ycombinator.com/item?id=46331379\nPoints: 51\n# Comments: 32",
-      "link": "https://en.wikipedia.org/wiki/Buteyko_method",
-      "published": "Fri, 19 Dec 2025 21:52:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.516390"
-    },
-    {
-      "source": "hackernews",
-      "title": "A better zip bomb (2019)",
-      "summary": "Article URL: https://www.bamsoftware.com/hacks/zipbomb/\nComments URL: https://news.ycombinator.com/item?id=46331216\nPoints: 114\n# Comments: 40",
-      "link": "https://www.bamsoftware.com/hacks/zipbomb/",
-      "published": "Fri, 19 Dec 2025 21:34:10 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2025-12-20T06:18:05.516417"
+      "crawled_at": "2025-12-20T12:19:47.382926"
     },
     {
       "source": "arstechnica",
@@ -219,7 +218,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-20T06:18:05.619540"
+      "crawled_at": "2025-12-20T12:19:47.495971"
     },
     {
       "source": "arstechnica",
@@ -231,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.619573"
+      "crawled_at": "2025-12-20T12:19:47.496008"
     },
     {
       "source": "arstechnica",
@@ -243,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.619604"
+      "crawled_at": "2025-12-20T12:19:47.496041"
     },
     {
       "source": "arstechnica",
@@ -257,7 +256,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:05.619633"
+      "crawled_at": "2025-12-20T12:19:47.496072"
     },
     {
       "source": "arstechnica",
@@ -270,66 +269,70 @@
         "IoT"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-20T06:18:05.619660"
+      "crawled_at": "2025-12-20T12:19:47.496101"
     },
     {
       "source": "wired",
-      "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-      "link": "https://www.wired.com/story/logitech-promo-code/",
-      "published": "Sat, 20 Dec 2025 06:00:00 +0000",
+      "title": "Trump’s Agriculture Bailout Is Alienating His MAHA Base",
+      "summary": "The administration’s pro-industry tilt—across three executive agencies—is feeding the MAHA movement’s growing discontent.",
+      "link": "https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/",
+      "published": "Sat, 20 Dec 2025 12:00:00 +0000",
       "keywords": [
-        "Git"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-20T06:18:05.773720"
-    },
-    {
-      "source": "wired",
-      "title": "Here’s What’s in the DOJ’s Epstein File Release—and What’s Missing",
-      "summary": "From photos of former president Bill Clinton to images of strange scrapbooks, the Justice Department’s release is curious but far from revelatory.",
-      "link": "https://www.wired.com/story/epstein-files-whats-in-doj-release-december-19/",
-      "published": "Sat, 20 Dec 2025 00:34:28 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.773769"
-    },
-    {
-      "source": "wired",
-      "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
-      "summary": "In today’s episode of Uncanny Valley, we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
-      "published": "Fri, 19 Dec 2025 22:58:41 +0000",
-      "keywords": [
-        "AI",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-20T06:18:05.773800"
+      "crawled_at": "2025-12-20T12:19:47.608516"
     },
     {
       "source": "wired",
-      "title": "Introducing a New Chapter for ‘Uncanny Valley’",
-      "summary": "In this episode, we look back at 2025 and look ahead to what's happening in 2026—including what’s in store for Uncanny Valley.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-new-chapter-for-uncanny-valley/",
-      "published": "Fri, 19 Dec 2025 21:47:28 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2025-12-20T06:18:05.773833"
+      "title": "The 23 Best Movies on Amazon Prime, WIRED's Picks (December 2025)",
+      "summary": "Wicked, Merry Little Batman, and Die Hard are just a few of the movies you should be watching on Amazon Prime Video this week.",
+      "link": "https://www.wired.com/story/best-amazon-prime-movies/",
+      "published": "Sat, 20 Dec 2025 12:00:00 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-20T12:19:47.608561"
     },
     {
       "source": "wired",
-      "title": "The DOJ’s Jeffrey Epstein Files Are Here",
-      "summary": "Forced by an act of Congress, the Justice Department has released “hundreds of thousands” of pages of documents related to Epstein—but not everything, as is required by law.",
-      "link": "https://www.wired.com/story/the-dojs-jeffrey-epstein-files-are-here/",
-      "published": "Fri, 19 Dec 2025 21:21:54 +0000",
+      "title": "The 48 Best Movies on Netflix, WIRED’s Picks (December 2025)",
+      "summary": "Wake Up Dead Man: A Knives Out Mystery, Frankenstein, and Klaus are just a few of the movies you should watch on Netflix this month.",
+      "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
+      "published": "Sat, 20 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-20T06:18:05.773870"
+      "crawled_at": "2025-12-20T12:19:47.608603"
+    },
+    {
+      "source": "wired",
+      "title": "Hackers Stole Millions of PornHub Users’ Data for Extortion",
+      "summary": "Plus: Cisco discloses a zero-day with no available patch, Venezuela accuses the US of a cyberattack, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/",
+      "published": "Sat, 20 Dec 2025 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-20T12:19:47.608632"
+    },
+    {
+      "source": "wired",
+      "title": "25 Amazon Super Saturday Deals on Last-Minute Gifts We've Tested (2025)",
+      "summary": "Procrastinators, rejoice. Super Saturday is here with last-minute deals on WIRED-tested gear.",
+      "link": "https://www.wired.com/story/amazon-super-saturday-deals-2025/",
+      "published": "Sat, 20 Dec 2025 11:30:00 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-20T12:19:47.608662"
     }
   ]
 }
