@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21T00:59:30.356750",
+  "last_updated": "2025-12-21T06:17:12.698184",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-21T00:59:29.457705"
+      "crawled_at": "2025-12-21T06:17:11.490835"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:29.457758"
+      "crawled_at": "2025-12-21T06:17:11.490892"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.457787"
+      "crawled_at": "2025-12-21T06:17:11.490922"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.457813"
+      "crawled_at": "2025-12-21T06:17:11.490948"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.457842"
+      "crawled_at": "2025-12-21T06:17:11.490977"
     },
     {
       "source": "theverge",
@@ -82,7 +82,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.649098"
+      "crawled_at": "2025-12-21T06:17:11.675561"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-21T00:59:29.649153"
+      "crawled_at": "2025-12-21T06:17:11.675621"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-21T00:59:29.649197"
+      "crawled_at": "2025-12-21T06:17:11.675667"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.649240"
+      "crawled_at": "2025-12-21T06:17:11.675698"
     },
     {
       "source": "theverge",
@@ -132,37 +132,49 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:29.649285"
+      "crawled_at": "2025-12-21T06:17:11.675742"
     },
     {
       "source": "hackernews",
-      "title": "Anatomy of US inequality",
-      "summary": "Article URL: https://www.nber.org/papers/w34558\nComments URL: https://news.ycombinator.com/item?id=46340794\nPoints: 10\n# Comments: 2",
-      "link": "https://www.nber.org/papers/w34558",
-      "published": "Sat, 20 Dec 2025 23:43:04 +0000",
+      "title": "Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M",
+      "summary": "Article URL: https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\nComments URL: https://news.ycombinator.com/item?id=46342166\nPoints: 75\n# Comments: 47",
+      "link": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+      "published": "Sun, 21 Dec 2025 04:06:36 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-21T06:17:12.208518"
+    },
+    {
+      "source": "hackernews",
+      "title": "PG&E outages in S.F. leave 130k without electricity",
+      "summary": "Article URL: https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php\nComments URL: https://news.ycombinator.com/item?id=46342022\nPoints: 37\n# Comments: 19",
+      "link": "https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php",
+      "published": "Sun, 21 Dec 2025 03:35:28 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:29.983109"
+      "crawled_at": "2025-12-21T06:17:12.208566"
     },
     {
       "source": "hackernews",
-      "title": "More databases should be single-threaded",
-      "summary": "Article URL: https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/\nComments URL: https://news.ycombinator.com/item?id=46340117\nPoints: 19\n# Comments: 5",
-      "link": "https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/",
-      "published": "Sat, 20 Dec 2025 22:12:22 +0000",
+      "title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
+      "summary": "Article URL: https://haveibeenflocked.com/news/cyble-downtime\nComments URL: https://news.ycombinator.com/item?id=46341305\nPoints: 280\n# Comments: 53",
+      "link": "https://haveibeenflocked.com/news/cyble-downtime",
+      "published": "Sun, 21 Dec 2025 01:12:31 +0000",
       "keywords": [
-        "Database",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:29.983151"
+      "category": "Security",
+      "crawled_at": "2025-12-21T06:17:12.208600"
     },
     {
       "source": "hackernews",
       "title": "Claude in Chrome",
-      "summary": "Article URL: https://claude.com/chrome\nComments URL: https://news.ycombinator.com/item?id=46339777\nPoints: 66\n# Comments: 30",
+      "summary": "Article URL: https://claude.com/chrome\nComments URL: https://news.ycombinator.com/item?id=46339777\nPoints: 159\n# Comments: 78",
       "link": "https://claude.com/chrome",
       "published": "Sat, 20 Dec 2025 21:26:14 +0000",
       "keywords": [
@@ -170,12 +182,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.983177"
+      "crawled_at": "2025-12-21T06:17:12.208625"
     },
     {
       "source": "hackernews",
       "title": "Show HN: Jmail – Google Suite for Epstein files",
-      "summary": "Hi everyone! My name's Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ's \"Epstein files\" release.Please AMA!\n\nComments URL: https://news.ycombinator.com/item?id=46339600\nPoints: 177\n# C",
+      "summary": "Hi everyone! My name's Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ's \"Epstein files\" release.Please AMA!\n\nComments URL: https://news.ycombinator.com/item?id=46339600\nPoints: 533\n# C",
       "link": "https://www.jmail.world",
       "published": "Sat, 20 Dec 2025 21:00:05 +0000",
       "keywords": [
@@ -184,22 +196,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.983235"
-    },
-    {
-      "source": "hackernews",
-      "title": "MIRA – An open-source persistent AI entity with memory",
-      "summary": "Article URL: https://github.com/taylorsatula/mira-OSS\nComments URL: https://news.ycombinator.com/item?id=46339537\nPoints: 49\n# Comments: 24",
-      "link": "https://github.com/taylorsatula/mira-OSS",
-      "published": "Sat, 20 Dec 2025 20:50:43 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:29.983269"
+      "crawled_at": "2025-12-21T06:17:12.208667"
     },
     {
       "source": "arstechnica",
@@ -212,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.167737"
+      "crawled_at": "2025-12-21T06:17:12.526822"
     },
     {
       "source": "arstechnica",
@@ -228,7 +225,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-21T00:59:30.167769"
+      "crawled_at": "2025-12-21T06:17:12.526854"
     },
     {
       "source": "arstechnica",
@@ -240,7 +237,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.167799"
+      "crawled_at": "2025-12-21T06:17:12.526883"
     },
     {
       "source": "arstechnica",
@@ -252,7 +249,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.167829"
+      "crawled_at": "2025-12-21T06:17:12.526913"
     },
     {
       "source": "arstechnica",
@@ -266,7 +263,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:30.167855"
+      "crawled_at": "2025-12-21T06:17:12.526941"
     },
     {
       "source": "wired",
@@ -278,7 +275,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.356495"
+      "crawled_at": "2025-12-21T06:17:12.697931"
     },
     {
       "source": "wired",
@@ -290,7 +287,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.356539"
+      "crawled_at": "2025-12-21T06:17:12.697976"
     },
     {
       "source": "wired",
@@ -302,7 +299,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-21T00:59:30.356569"
+      "crawled_at": "2025-12-21T06:17:12.698007"
     },
     {
       "source": "wired",
@@ -315,7 +312,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.356600"
+      "crawled_at": "2025-12-21T06:17:12.698038"
     },
     {
       "source": "wired",
@@ -327,7 +324,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-21T00:59:30.356635"
+      "crawled_at": "2025-12-21T06:17:12.698073"
     }
   ]
 }
