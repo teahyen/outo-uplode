@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T06:19:17.787855",
+  "last_updated": "2025-12-23T12:22:57.056626",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "Cybersecurity"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:16.907387"
+      "crawled_at": "2025-12-23T12:22:56.229561"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
       "published": "Mon, 22 Dec 2025 21:10:54 +0000",
       "keywords": [],
       "category": "Programming",
-      "crawled_at": "2025-12-23T06:19:16.907437"
+      "crawled_at": "2025-12-23T12:22:56.229596"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:16.907466"
+      "crawled_at": "2025-12-23T12:22:56.229624"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:16.907494"
+      "crawled_at": "2025-12-23T12:22:56.229654"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:16.907516"
+      "crawled_at": "2025-12-23T12:22:56.229676"
+    },
+    {
+      "source": "theverge",
+      "title": "Dometic makes a better portable water faucet",
+      "summary": "As a reluctant doomsday prepper and eager vanlifer, Dometic's battery-powered Go Faucet has, for the last few years, played a central role in my bougie bug-out kit and my camping rig's water system. So it took me all of two minutes with Dometic's new Recon 360 Faucet to realize it's an upgrade in ev",
+      "link": "https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review",
+      "published": "2025-12-23T05:44:07-05:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T12:22:56.336215"
     },
     {
       "source": "theverge",
@@ -77,7 +90,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-23T06:19:17.062920"
+      "crawled_at": "2025-12-23T12:22:56.336279"
     },
     {
       "source": "theverge",
@@ -89,7 +102,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.062985"
+      "crawled_at": "2025-12-23T12:22:56.336328"
     },
     {
       "source": "theverge",
@@ -104,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:17.063025"
+      "crawled_at": "2025-12-23T12:22:56.336366"
     },
     {
       "source": "theverge",
@@ -116,85 +129,73 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-23T06:19:17.063062"
-    },
-    {
-      "source": "theverge",
-      "title": "Bitcoin does cultural diplomacy in a dive bar",
-      "summary": "Bitcoin culture, by nature, is anarchical and chaotic. It has to be, given the nature of Bitcoin itself and the people who adopted it: free-market libertarians who've gone all in on turning computer code into a form of money divorced from central banks, government intervention, and traceability. In ",
-      "link": "https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar",
-      "published": "2025-12-22T14:43:43-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-23T06:19:17.063097"
+      "crawled_at": "2025-12-23T12:22:56.336401"
     },
     {
       "source": "hackernews",
-      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
-      "summary": "Article URL: https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf\nComments URL: https://news.ycombinator.com/item?id=46362275\nPoints: 38\n# Comments: 14",
-      "link": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
-      "published": "Tue, 23 Dec 2025 03:57:02 +0000",
+      "title": "What Is (AI) Glaze?",
+      "summary": "Article URL: https://glaze.cs.uchicago.edu/what-is-glaze.html\nComments URL: https://news.ycombinator.com/item?id=46364338\nPoints: 3\n# Comments: 1",
+      "link": "https://glaze.cs.uchicago.edu/what-is-glaze.html",
+      "published": "Tue, 23 Dec 2025 11:07:42 +0000",
       "keywords": [
+        "AI",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.453558"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-23T12:22:56.773884"
     },
     {
       "source": "hackernews",
-      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
-      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0160412025002181\nComments URL: https://news.ycombinator.com/item?id=46361917\nPoints: 21\n# Comments: 6",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
-      "published": "Tue, 23 Dec 2025 02:56:50 +0000",
+      "title": "Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs",
+      "summary": "Article URL: https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota\nComments URL: https://news.ycombinator.com/item?id=46364272\nPoints: 26\n# Comments: 22",
+      "link": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
+      "published": "Tue, 23 Dec 2025 10:53:07 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:17.453596"
+      "crawled_at": "2025-12-23T12:22:56.773933"
     },
     {
       "source": "hackernews",
-      "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
-      "summary": "Article URL: https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf\nComments URL: https://news.ycombinator.com/item?id=46361510\nPoints: 11\n# Comments: 0",
-      "link": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
-      "published": "Tue, 23 Dec 2025 01:49:56 +0000",
+      "title": "Font with Built-In Syntax Highlighting (2024)",
+      "summary": "Article URL: https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/\nComments URL: https://news.ycombinator.com/item?id=46364131\nPoints: 8\n# Comments: 1",
+      "link": "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/",
+      "published": "Tue, 23 Dec 2025 10:28:09 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.453634"
+      "crawled_at": "2025-12-23T12:22:56.773972"
     },
     {
       "source": "hackernews",
-      "title": "Snitch – A friendlier ss/netstat",
-      "summary": "Article URL: https://github.com/karol-broda/snitch\nComments URL: https://news.ycombinator.com/item?id=46361229\nPoints: 92\n# Comments: 13",
-      "link": "https://github.com/karol-broda/snitch",
-      "published": "Tue, 23 Dec 2025 01:03:57 +0000",
+      "title": "What are the best engineering blogs with real-world depth (no fluff)?",
+      "summary": "I’m looking for examples of high-quality engineering blog posts—especially from tech company blogs, that go beyond surface-level explanations.Specifically interested in posts that:\n1. Explain technical concepts clearly and concisely\n2. Show real implementation details, trade-offs, and failures\n3. Ar",
+      "link": "https://news.ycombinator.com/item?id=46363921",
+      "published": "Tue, 23 Dec 2025 09:50:31 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "AI",
+        "Go",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-23T12:22:56.774036"
+    },
+    {
+      "source": "hackernews",
+      "title": "Carnap – A formal logic framework for Haskell",
+      "summary": "Article URL: https://carnap.io/\nComments URL: https://news.ycombinator.com/item?id=46363751\nPoints: 32\n# Comments: 6",
+      "link": "https://carnap.io/",
+      "published": "Tue, 23 Dec 2025 09:17:42 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.453674"
-    },
-    {
-      "source": "hackernews",
-      "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
-      "summary": "Article URL: https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center\nComments URL: https://news.ycombinator.com/item?id=46360465\nPoints: 104\n# Comments: 85",
-      "link": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
-      "published": "Mon, 22 Dec 2025 23:23:12 +0000",
-      "keywords": [
-        "Crypto",
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2025-12-23T06:19:17.453715"
+      "crawled_at": "2025-12-23T12:22:56.774074"
     },
     {
       "source": "arstechnica",
@@ -204,7 +205,7 @@
       "published": "Mon, 22 Dec 2025 23:51:44 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.611481"
+      "crawled_at": "2025-12-23T12:22:56.947436"
     },
     {
       "source": "arstechnica",
@@ -216,7 +217,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.611517"
+      "crawled_at": "2025-12-23T12:22:56.947470"
     },
     {
       "source": "arstechnica",
@@ -228,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.611547"
+      "crawled_at": "2025-12-23T12:22:56.947515"
     },
     {
       "source": "arstechnica",
@@ -240,7 +241,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.611584"
+      "crawled_at": "2025-12-23T12:22:56.947554"
     },
     {
       "source": "arstechnica",
@@ -252,66 +253,74 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2025-12-23T06:19:17.611611"
+      "crawled_at": "2025-12-23T12:22:56.947581"
     },
     {
       "source": "wired",
-      "title": "30% Off Tempur-Pedic Promo Codes | December 2025",
-      "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
-      "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
-      "published": "Tue, 23 Dec 2025 06:10:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-23T06:19:17.787553"
+      "title": "iBuyPower RDY Slate 9MP R01 Gaming PC Review: Great Value",
+      "summary": "iBuyPower’s prebuilt gaming desktop tries some new tricks but comes with a few flaws.",
+      "link": "https://www.wired.com/review/ibuypower-rdy-slate-9mp-r01/",
+      "published": "Tue, 23 Dec 2025 12:00:00 +0000",
+      "keywords": [
+        "AWS",
+        "Gaming"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2025-12-23T12:22:57.056349"
     },
     {
       "source": "wired",
-      "title": "Naturepedic Promo Codes and Deals: 20% Off",
-      "summary": "Save on Naturepedic’s line of organic, thoughtfully crafted mattresses and bedding with our coupon codes for this month.",
-      "link": "https://www.wired.com/story/naturepedic-promo-code/",
-      "published": "Tue, 23 Dec 2025 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-23T06:19:17.787590"
-    },
-    {
-      "source": "wired",
-      "title": "FDA Approves Pill Version of Wegovy",
-      "summary": "Novo Nordisk’s semaglutide will soon be available in a daily pill Americans can take for weight loss.",
-      "link": "https://www.wired.com/story/fda-approves-pill-version-of-wegovy/",
-      "published": "Mon, 22 Dec 2025 23:59:33 +0000",
+      "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis",
+      "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+      "link": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
+      "published": "Tue, 23 Dec 2025 11:30:00 +0000",
       "keywords": [
         "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:17.787618"
-    },
-    {
-      "source": "wired",
-      "title": "The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems",
-      "summary": "Here’s how a fake clip from 2019 wound up in the latest Justice Department Epstein files dump.",
-      "link": "https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/",
-      "published": "Mon, 22 Dec 2025 23:34:45 +0000",
-      "keywords": [
+        "OpenAI",
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-23T06:19:17.787663"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-23T12:22:57.056390"
     },
     {
       "source": "wired",
-      "title": "6 Best Dehumidifiers to Keep Your Home Mold-Free (2026)",
-      "summary": "If you care about good air, it’s time for a dehumidifier. These are the best ones we’ve tested for everything from basements to drying laundry.",
-      "link": "https://www.wired.com/gallery/best-dehumidifier/",
-      "published": "Mon, 22 Dec 2025 22:15:42 +0000",
+      "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
+      "summary": "Online black markets once lurked in the shadows of the dark web. Today, they’ve moved onto public platforms like Telegram—and are racking up historic illicit fortunes.",
+      "link": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
+      "published": "Tue, 23 Dec 2025 11:00:00 +0000",
       "keywords": [
-        "AI",
+        "Crypto",
+        "AR"
+      ],
+      "category": "Blockchain",
+      "crawled_at": "2025-12-23T12:22:57.056430"
+    },
+    {
+      "source": "wired",
+      "title": "Big Balls Was Just the Beginning",
+      "summary": "DOGE dominated the news this year as Elon Musk’s operatives shook up several US government agencies. It’s far from over.",
+      "link": "https://www.wired.com/story/expired-tired-wired-doge/",
+      "published": "Tue, 23 Dec 2025 11:00:00 +0000",
+      "keywords": [
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T06:19:17.787695"
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T12:22:57.056465"
+    },
+    {
+      "source": "wired",
+      "title": "Best Indoor Garden Systems: We've Been Testing All Year (2026)",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "published": "Tue, 23 Dec 2025 10:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-23T12:22:57.056518"
     }
   ]
 }
