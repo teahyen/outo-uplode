@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T00:55:38.094907",
+  "last_updated": "2025-12-23T06:19:17.787855",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "Cybersecurity"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.236155"
+      "crawled_at": "2025-12-23T06:19:16.907387"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
       "published": "Mon, 22 Dec 2025 21:10:54 +0000",
       "keywords": [],
       "category": "Programming",
-      "crawled_at": "2025-12-23T00:55:37.236190"
+      "crawled_at": "2025-12-23T06:19:16.907437"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.236218"
+      "crawled_at": "2025-12-23T06:19:16.907466"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:37.236245"
+      "crawled_at": "2025-12-23T06:19:16.907494"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.236267"
+      "crawled_at": "2025-12-23T06:19:16.907516"
+    },
+    {
+      "source": "theverge",
+      "title": "The FCC’s foreign drone ban is here",
+      "summary": "The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and dr",
+      "link": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+      "published": "2025-12-22T20:13:51-05:00",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-23T06:19:17.062920"
     },
     {
       "source": "theverge",
@@ -76,7 +89,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:37.312696"
+      "crawled_at": "2025-12-23T06:19:17.062985"
     },
     {
       "source": "theverge",
@@ -91,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.312746"
+      "crawled_at": "2025-12-23T06:19:17.063025"
     },
     {
       "source": "theverge",
@@ -103,7 +116,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-23T00:55:37.312804"
+      "crawled_at": "2025-12-23T06:19:17.063062"
     },
     {
       "source": "theverge",
@@ -116,38 +129,64 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-23T00:55:37.312843"
-    },
-    {
-      "source": "theverge",
-      "title": "Pirate library rips 86 million of the most popular songs on Spotify",
-      "summary": "Spotify says it has launched new protections against \"anti-copyright attacks\" after the open-source library / pirate activist group Anna's Archive announced it's ripped 86 million songs from the platform that it plans to make available in torrents, as reported earlier by Billboard. According to the ",
-      "link": "https://www.theverge.com/news/849141/spotify-scrape-attack-breach-annas-archive-music-300tb-download",
-      "published": "2025-12-22T14:23:28-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.312877"
+      "crawled_at": "2025-12-23T06:19:17.063097"
     },
     {
       "source": "hackernews",
-      "title": "Cecot – 60 Minutes",
-      "summary": "Article URL: https://archive.org/details/insidececot\nComments URL: https://news.ycombinator.com/item?id=46361024\nPoints: 23\n# Comments: 1",
-      "link": "https://archive.org/details/insidececot",
-      "published": "Tue, 23 Dec 2025 00:36:27 +0000",
+      "title": "FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]",
+      "summary": "Article URL: https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf\nComments URL: https://news.ycombinator.com/item?id=46362275\nPoints: 38\n# Comments: 14",
+      "link": "https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf",
+      "published": "Tue, 23 Dec 2025 03:57:02 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T06:19:17.453558"
+    },
+    {
+      "source": "hackernews",
+      "title": "Diesel pollution particles impair lysosomal functions of iPSC-derived microglia",
+      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0160412025002181\nComments URL: https://news.ycombinator.com/item?id=46361917\nPoints: 21\n# Comments: 6",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160412025002181",
+      "published": "Tue, 23 Dec 2025 02:56:50 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.911566"
+      "crawled_at": "2025-12-23T06:19:17.453596"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",
+      "summary": "Article URL: https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf\nComments URL: https://news.ycombinator.com/item?id=46361510\nPoints: 11\n# Comments: 0",
+      "link": "https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf",
+      "published": "Tue, 23 Dec 2025 01:49:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T06:19:17.453634"
+    },
+    {
+      "source": "hackernews",
+      "title": "Snitch – A friendlier ss/netstat",
+      "summary": "Article URL: https://github.com/karol-broda/snitch\nComments URL: https://news.ycombinator.com/item?id=46361229\nPoints: 92\n# Comments: 13",
+      "link": "https://github.com/karol-broda/snitch",
+      "published": "Tue, 23 Dec 2025 01:03:57 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T06:19:17.453674"
     },
     {
       "source": "hackernews",
       "title": "Satellites reveal heat leaking from largest US cryptocurrency mining center",
-      "summary": "Article URL: https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center\nComments URL: https://news.ycombinator.com/item?id=46360465\nPoints: 20\n# Comments: 9",
+      "summary": "Article URL: https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center\nComments URL: https://news.ycombinator.com/item?id=46360465\nPoints: 104\n# Comments: 85",
       "link": "https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center",
       "published": "Mon, 22 Dec 2025 23:23:12 +0000",
       "keywords": [
@@ -155,114 +194,85 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2025-12-23T00:55:37.911634"
+      "crawled_at": "2025-12-23T06:19:17.453715"
     },
     {
-      "source": "hackernews",
-      "title": "There Is No Future for Online Safety Without Privacy and Security",
-      "summary": "Article URL: https://itsfoss.com/news/alexander-linton-interview/\nComments URL: https://news.ycombinator.com/item?id=46360067\nPoints: 30\n# Comments: 17",
-      "link": "https://itsfoss.com/news/alexander-linton-interview/",
-      "published": "Mon, 22 Dec 2025 22:43:22 +0000",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2025-12-23T00:55:37.911669"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lotusbail npm package found to be harvesting WhatsApp messages and contacts",
-      "summary": "Article URL: https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages\nComments URL: https://news.ycombinator.com/item?id=46359996\nPoints: 192\n# Comments: 119",
-      "link": "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages",
-      "published": "Mon, 22 Dec 2025 22:35:45 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:37.911699"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tc – Theodore Calvin's language-agnostic testing framework",
-      "summary": "Article URL: https://github.com/ahoward/tc\nComments URL: https://news.ycombinator.com/item?id=46359683\nPoints: 10\n# Comments: 4",
-      "link": "https://github.com/ahoward/tc",
-      "published": "Mon, 22 Dec 2025 22:03:07 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
+      "source": "arstechnica",
+      "title": "In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance",
+      "summary": "\"It has been a great privilege to lead ULA through its transformation and to bring Vulcan into service.\"",
+      "link": "https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/",
+      "published": "Mon, 22 Dec 2025 23:51:44 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:37.911739"
+      "crawled_at": "2025-12-23T06:19:17.611481"
     },
     {
       "source": "arstechnica",
-      "title": "How Europe’s new carbon tax on imported goods will change global trade",
-      "summary": "The new regulation arrives on New Year's Day.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/",
-      "published": "Sat, 20 Dec 2025 12:15:03 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:38.007833"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google lobs lawsuit at search result scraping firm SerpApi",
-      "summary": "Google says the lawsuit is its last resort.",
-      "link": "https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/",
-      "published": "Fri, 19 Dec 2025 22:21:56 +0000",
-      "keywords": [
-        "Go",
-        "AWS",
-        "API",
-        "Google",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-23T00:55:38.007863"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The evolution of expendability: Why some ants traded armor for numbers",
-      "summary": "Ants with lots of workers tend to put less energy into making them armored.",
-      "link": "https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/",
-      "published": "Fri, 19 Dec 2025 22:05:52 +0000",
+      "title": "Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash",
+      "summary": "He had worked on Medal of Honor, Call of Duty, Titanfall, and Battlefield.",
+      "link": "https://arstechnica.com/gaming/2025/12/vince-zampella-developer-of-call-of-duty-and-battlefield-games-dies-at-55/",
+      "published": "Mon, 22 Dec 2025 21:35:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:38.007893"
+      "crawled_at": "2025-12-23T06:19:17.611517"
     },
     {
       "source": "arstechnica",
-      "title": "Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options",
-      "summary": "Inin suggests new low-cost options allowed it to \"recalculate production\" for full cartridge.",
-      "link": "https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/",
-      "published": "Fri, 19 Dec 2025 21:30:08 +0000",
+      "title": "Safety panel says NASA should have taken Starliner incident more seriously",
+      "summary": "\"This particular anomaly deserves to be right up front and center for quite some time.\"",
+      "link": "https://arstechnica.com/space/2025/12/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously/",
+      "published": "Mon, 22 Dec 2025 21:11:11 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:38.007923"
+      "crawled_at": "2025-12-23T06:19:17.611547"
     },
     {
       "source": "arstechnica",
-      "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
-      "summary": "LG says it'll let people delete the Copilot icon. But TV chatbots aren't going away.",
-      "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-      "published": "Fri, 19 Dec 2025 21:18:07 +0000",
+      "title": "World’s largest shadow library made a 300TB copy of Spotify’s most streamed songs",
+      "summary": "Spotify is reportedly investigating how much music Anna’s Archive scraped.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/",
+      "published": "Mon, 22 Dec 2025 19:34:22 +0000",
       "keywords": [
-        "AI",
-        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:38.007950"
+      "category": "Tech News",
+      "crawled_at": "2025-12-23T06:19:17.611584"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US blocks all offshore wind construction, says reason is classified",
+      "summary": "Projects with hardware in the water stopped due to Department of Defense fears.",
+      "link": "https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/",
+      "published": "Mon, 22 Dec 2025 18:29:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2025-12-23T06:19:17.611611"
+    },
+    {
+      "source": "wired",
+      "title": "30% Off Tempur-Pedic Promo Codes | December 2025",
+      "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
+      "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "published": "Tue, 23 Dec 2025 06:10:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2025-12-23T06:19:17.787553"
+    },
+    {
+      "source": "wired",
+      "title": "Naturepedic Promo Codes and Deals: 20% Off",
+      "summary": "Save on Naturepedic’s line of organic, thoughtfully crafted mattresses and bedding with our coupon codes for this month.",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "published": "Tue, 23 Dec 2025 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2025-12-23T06:19:17.787590"
     },
     {
       "source": "wired",
@@ -275,7 +285,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:38.094677"
+      "crawled_at": "2025-12-23T06:19:17.787618"
     },
     {
       "source": "wired",
@@ -287,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:38.094719"
+      "crawled_at": "2025-12-23T06:19:17.787663"
     },
     {
       "source": "wired",
@@ -301,31 +311,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T00:55:38.094749"
-    },
-    {
-      "source": "wired",
-      "title": "HelloFresh Meal Kit’s Discount Code for December 2025 Unlocks a Free Zwilling Knife",
-      "summary": "The Zwilling Four-Star chef’s knife is the carbon steel blade WIRED recommends for most casual home chefs. It’s free with HelloFresh meal kits, using this promo code.",
-      "link": "https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/",
-      "published": "Mon, 22 Dec 2025 21:47:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-23T00:55:38.094783"
-    },
-    {
-      "source": "wired",
-      "title": "The Justice Department Released More Epstein Files—but Not the Ones Survivors Want",
-      "summary": "The DOJ says it still has “hundreds of thousands” of pages to review, as the latest Epstein files release spurred more pushback from Democratic lawmakers and other critics of the administration.",
-      "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
-      "published": "Mon, 22 Dec 2025 19:43:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-23T00:55:38.094827"
+      "crawled_at": "2025-12-23T06:19:17.787695"
     }
   ]
 }
