@@ -1,208 +1,251 @@
 {
-  "last_updated": "2025-12-23T18:17:30.274522",
+  "last_updated": "2025-12-24T00:55:18.114216",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "US insurance giant Aflac says hackers stole personal and health data of 22.6 million",
-      "summary": "Aflac, one of the largest insurance companies in the U.S., confirmed hackers stole reams of personal data, including Social Security numbers, identity documents, and health information.",
-      "link": "https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/",
-      "published": "Tue, 23 Dec 2025 17:14:04 +0000",
+      "title": "Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models",
+      "summary": "It's the latest development in an evolving war between Chinese and American consumer tech products.",
+      "link": "https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/",
+      "published": "Tue, 23 Dec 2025 21:16:04 +0000",
       "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-24T00:55:16.784435"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ServiceNow to acquire cybersecurity startup Armis for $7.75B",
+      "summary": "The deal is expected to yield significant returns for Armis investors, including Sequoia, CapitalG, and Insight Partners.",
+      "link": "https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/",
+      "published": "Tue, 23 Dec 2025 20:40:10 +0000",
+      "keywords": [
+        "API",
         "Security",
+        "Cybersecurity",
+        "Startup",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-24T00:55:16.784476"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Zoox issues software recall over lane crossings",
+      "summary": "The company has issued a software update to its autonomous driving system to fix its lane-crossing behavior.",
+      "link": "https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/",
+      "published": "Tue, 23 Dec 2025 19:50:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-24T00:55:16.784508"
+    },
+    {
+      "source": "techcrunch",
+      "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
+      "summary": "These authors rejected Anthropic's class action settlement, arguing that \"LLM companies should not be able to so easily extinguish thousands upon thousands of high-value claims at bargain-basement rates.\"",
+      "link": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
+      "published": "Tue, 23 Dec 2025 19:02:47 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-24T00:55:16.784538"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hackers stole over $2.7B in crypto in 2025, data shows",
+      "summary": "This was another banner year for crypto hacks and heists — 2025 was the third year in a row that a new crypto theft record was set.",
+      "link": "https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/",
+      "published": "Tue, 23 Dec 2025 19:00:00 +0000",
+      "keywords": [
+        "Crypto",
         "Hack",
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-23T18:17:29.450156"
-    },
-    {
-      "source": "techcrunch",
-      "title": "This founder just landed funding for a second go at the same problem: Affordable custom home design",
-      "summary": "Drafted is now nearly five months old, and it's everything Atmos wasn't.",
-      "link": "https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/",
-      "published": "Tue, 23 Dec 2025 17:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2025-12-23T18:17:29.450195"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green",
-      "summary": "Mayer launched Dazzle after shuttering her photo and contact management startup Sunshine. Green’s investment suggests Dazzle is poised for the coming wave of new AI-infused consumer businesses.",
-      "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
-      "published": "Tue, 23 Dec 2025 16:48:45 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.450235"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp",
-      "summary": "The new integrations join other services like Yelp, Uber, OpenTable and others.",
-      "link": "https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/",
-      "published": "Tue, 23 Dec 2025 16:04:57 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.450263"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech",
-      "summary": "Digital avatar generation company Lemon Slice is working to add a video layer to AI chatbots with a new diffusion model that can create digital avatars from a single image.",
-      "link": "https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/",
-      "published": "Tue, 23 Dec 2025 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.450290"
+      "crawled_at": "2025-12-24T00:55:16.784573"
     },
     {
       "source": "theverge",
-      "title": "Judge blocks Texas app store age verification law",
-      "summary": "A federal judge blocked a Texas law requiring mobile app stores to verify users' ages from taking effect on January 1st. In an order granting a preliminary injunction on the Texas App Store Accountability Act (SB 2420), Judge Robert Pitman wrote that the statute \"is akin to a law that would require ",
-      "link": "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction",
-      "published": "2025-12-23T13:15:49-05:00",
+      "title": "Trump administration bars former EU official and anti-disinformation and hate researchers from US",
+      "summary": "On Tuesday, the Trump Administration followed through on a threat of retaliation targeting foreigners who are involved in content moderation. The State Department announced sanctions barring US access for former EU commissioner Thierry Breton, as well as four researchers, while issuing an intentiona",
+      "link": "https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship",
+      "published": "2025-12-23T19:11:40-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-24T00:55:17.030461"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple is going to allow third-party app stores in Brazil, too",
+      "summary": "Apple is set to allow third-party app stores on iOS in Brazil next year after settling with the country's competition watchdog in a legal battle dating back to 2022, as reported by 9to5Mac. According to a machine translation of a press release from the Brazilian regulator CADE, it has approved a Ter",
+      "link": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
+      "published": "2025-12-23T18:00:51-05:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-24T00:55:17.030518"
+    },
+    {
+      "source": "theverge",
+      "title": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now",
+      "summary": "If you’re in the market for a new Android smartphone — or on the hunt for a solid last-minute gift — Google’s Pixel 10 is a great place to look. We consider it the best Android phone you can buy, and right now, you can grab it at Amazon starting at $449 ($350 off) when [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025",
+      "published": "2025-12-23T16:00:00-05:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "Amazon",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-24T00:55:17.030571"
+    },
+    {
+      "source": "theverge",
+      "title": "We found 30 great gifts that are on sale and will arrive in time for Christmas",
+      "summary": "You don’t need to deal with long mall lines or crowded parking lots just to wrap up your holiday shopping, but you probably already knew this. Some of the best deals are online, and even though Christmas is now a day or two away, a lot of Verge-approved gifts should still arrive on time if [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale",
+      "published": "2025-12-23T14:15:21-05:00",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-23T18:17:29.589963"
+      "crawled_at": "2025-12-24T00:55:17.030620"
     },
     {
       "source": "theverge",
-      "title": "These great digital gifts will arrive just in time for Christmas",
-      "summary": "And just like that, Christmas is less than two days away, which is too soon for most items bought online to arrive in time. That said, you aren’t alone if you waited too long to start buying gifts this year, and you definitely aren’t alone in feeling guilty for considering digital gifts instead of s",
-      "link": "https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025",
-      "published": "2025-12-23T13:00:00-05:00",
+      "title": "Samsung&#8217;s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz",
+      "summary": "Samsung is breaking new ground with its 2026 lineup of gaming monitors, with the Odyssey 3D G90XH becoming the first to feature a 6K display with \"glasses-free 3D.\" The new monitor comes with a 32-inch IPS panel, offering real-time eye-tracking that \"adjusts depth and perspective\" based on your posi",
+      "link": "https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026",
+      "published": "2025-12-23T14:13:50-05:00",
       "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.590018"
-    },
-    {
-      "source": "theverge",
-      "title": "DOJ appears to bungle Epstein Files redactions",
-      "summary": "The Justice Department has blamed its delayed release of some so-called Epstein files on needing more time to redact sensitive information, like details identifying the victims of convicted sex offender Jeffrey Epstein. But at least some of the redactions so far released appear to mistakenly disclos",
-      "link": "https://www.theverge.com/news/849639/epstein-files-doj-redactions-links",
-      "published": "2025-12-23T11:33:23-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.590054"
-    },
-    {
-      "source": "theverge",
-      "title": "Watch lists are broken. Federation could fix them.",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Lowpass is taking a winter break and will be back on January 8, 2026. All I want for Christmas is to find that darn movie I've been mea",
-      "link": "https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data",
-      "published": "2025-12-23T11:30:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.590085"
-    },
-    {
-      "source": "theverge",
-      "title": "New York’s landmark AI safety bill was defanged — and universities were part of the push against it",
-      "summary": "A group of tech companies and academic institutions spent tens of thousands of dollars in the past month - likely between $17,000 and $25,000 - on an ad campaign against New York's landmark AI safety bill, which may have reached more than two million people, according to Meta's Ad Library. The landm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act",
-      "published": "2025-12-23T11:18:49-05:00",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:29.590125"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fabrice Bellard Releases MicroQuickJS",
-      "summary": "Article URL: https://github.com/bellard/mquickjs/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=46367224\nPoints: 131\n# Comments: 10",
-      "link": "https://github.com/bellard/mquickjs/blob/main/README.md",
-      "published": "Tue, 23 Dec 2025 17:33:42 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:30.013132"
-    },
-    {
-      "source": "hackernews",
-      "title": "How Did Doge Disrupt So Much While Saving So Little?",
-      "summary": "Article URL: https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html\nComments URL: https://news.ycombinator.com/item?id=46367223\nPoints: 25\n# Comments: 4",
-      "link": "https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html",
-      "published": "Tue, 23 Dec 2025 17:33:40 +0000",
-      "keywords": [
-        "AR"
+        "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.013176"
+      "crawled_at": "2025-12-24T00:55:17.030665"
     },
     {
       "source": "hackernews",
-      "title": "Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers",
-      "summary": "Article URL: https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server\nComments URL: https://news.ycombinator.com/item?id=46366998\nPoints: 90\n# Comments: 31",
-      "link": "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server",
-      "published": "Tue, 23 Dec 2025 17:08:34 +0000",
+      "title": "Stronk.app – open-source gym lifts journal",
+      "summary": "Hey all, didn't want to pay for Strong or Heavy so I started building my own lifts journal app.It's free and always will be.https://stronk.appSource Code (open to contributions). If you find bugs, add it to the issues. If you don't use it now but plan to after I build out the features, please star t",
+      "link": "https://news.ycombinator.com/item?id=46371139",
+      "published": "Wed, 24 Dec 2025 00:30:42 +0000",
       "keywords": [
-        "Meta",
-        "Linux",
+        "Go",
+        "Apple",
+        "Google",
+        "Git",
+        "GitHub"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-24T00:55:17.643992"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is Northern Virginia Still the Least Reliable AWS Region?",
+      "summary": "Article URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/\nComments URL: https://news.ycombinator.com/item?id=46370592\nPoints: 28\n# Comments: 6",
+      "link": "https://statusgator.com/blog/aws-least-reliable-region-in-2025/",
+      "published": "Tue, 23 Dec 2025 23:12:03 +0000",
+      "keywords": [
+        "AWS",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.013213"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2025-12-24T00:55:17.644037"
     },
     {
       "source": "hackernews",
-      "title": "When irate product support customers demand to speak to Bill Gates",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896\nComments URL: https://news.ycombinator.com/item?id=46366761\nPoints: 14\n# Comments: 4",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896",
-      "published": "Tue, 23 Dec 2025 16:43:03 +0000",
+      "title": "Microspeak: North Star – The Old New Thing (2015)",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861\nComments URL: https://news.ycombinator.com/item?id=46370180\nPoints: 15\n# Comments: 4",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861",
+      "published": "Tue, 23 Dec 2025 22:23:49 +0000",
       "keywords": [
         "Microsoft",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.013250"
+      "crawled_at": "2025-12-24T00:55:17.644079"
     },
     {
       "source": "hackernews",
-      "title": "Test, don't (just) verify",
-      "summary": "Article URL: https://alperenkeles.com/posts/test-dont-verify/\nComments URL: https://news.ycombinator.com/item?id=46364973\nPoints: 137\n# Comments: 77",
-      "link": "https://alperenkeles.com/posts/test-dont-verify/",
-      "published": "Tue, 23 Dec 2025 12:56:50 +0000",
+      "title": "Texas app store age verification law blocked by federal judge",
+      "summary": "Article URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/\nComments URL: https://news.ycombinator.com/item?id=46370012\nPoints: 93\n# Comments: 59",
+      "link": "https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/",
+      "published": "Tue, 23 Dec 2025 22:03:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-24T00:55:17.644115"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Claude Wrapped in the terminal, with a WASM raymarcher",
+      "summary": "Claude Code added a /stats command. The stats are cached in $HOME/.claude, so I made a fun program with Bun + WASM that pulls the stats (nonsensitive, nonidentifiable), posts them to a database, and lets you see where your usage lies.The code is here[^1] if anyone's interested in the rendering code ",
+      "link": "https://spader.zone/wrapped/",
+      "published": "Tue, 23 Dec 2025 21:59:28 +0000",
+      "keywords": [
+        "Claude",
+        "REST",
+        "Database",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-24T00:55:17.644161"
+    },
+    {
+      "source": "arstechnica",
+      "title": "China just carried out its second reusable launch attempt in three weeks",
+      "summary": "The launch laid \"an important foundation for subsequent launches and reliable recovery.\"",
+      "link": "https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/",
+      "published": "Tue, 23 Dec 2025 21:22:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-24T00:55:17.871278"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Leaked Avengers: Doomsday teaser is now public",
+      "summary": "It's purportedly the first of four planned teasers, one per week, showing before Avatar: Fire and Ash.",
+      "link": "https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/",
+      "published": "Tue, 23 Dec 2025 19:45:32 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.013282"
+      "crawled_at": "2025-12-24T00:55:17.871316"
+    },
+    {
+      "source": "arstechnica",
+      "title": "FCC’s import ban on the best new drones starts today",
+      "summary": "US drone makers are happy—US drone hobbyists, not so much.",
+      "link": "https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/",
+      "published": "Tue, 23 Dec 2025 17:29:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-24T00:55:17.871351"
     },
     {
       "source": "arstechnica",
@@ -216,7 +259,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:30.143163"
+      "crawled_at": "2025-12-24T00:55:17.871377"
     },
     {
       "source": "arstechnica",
@@ -229,42 +272,41 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:30.143196"
+      "crawled_at": "2025-12-24T00:55:17.871403"
     },
     {
-      "source": "arstechnica",
-      "title": "F1’s new engines are causing consternation over compression ratios",
-      "summary": "A loophole in the rules might have given Mercedes and Red Bull a big advantage.",
-      "link": "https://arstechnica.com/cars/2025/12/f1s-new-engines-are-causing-consternation-over-compression-ratios/",
-      "published": "Tue, 23 Dec 2025 15:25:38 +0000",
+      "source": "wired",
+      "title": "The Best Unlimited Phone Plan: T-Mobile, AT&T, Verizon Compared",
+      "summary": "We sifted through the fine print to figure out how to score the best deal on all the major carriers.",
+      "link": "https://www.wired.com/story/best-unlimited-phone-plans/",
+      "published": "Tue, 23 Dec 2025 20:09:13 +0000",
       "keywords": [
-        "iOS",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-23T18:17:30.143229"
+      "crawled_at": "2025-12-24T00:55:18.113922"
     },
     {
-      "source": "arstechnica",
-      "title": "The Splay is a subpar monitor but an exciting portable projector",
-      "summary": "Splay can be a monitor and takes a lot of the stress out of projectors, too.",
-      "link": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/",
-      "published": "Tue, 23 Dec 2025 12:30:06 +0000",
+      "source": "wired",
+      "title": "The 50 Best Shows on HBO Max, WIRED’s Picks (January 2026)",
+      "summary": "Heated Rivalry, Mad Men, and The Pitt are just a few of the shows you need to be watching on HBO Max this month.",
+      "link": "https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/",
+      "published": "Tue, 23 Dec 2025 20:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.143258"
+      "crawled_at": "2025-12-24T00:55:18.113972"
     },
     {
-      "source": "arstechnica",
-      "title": "In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance",
-      "summary": "\"It has been a great privilege to lead ULA through its transformation and to bring Vulcan into service.\"",
-      "link": "https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/",
-      "published": "Mon, 22 Dec 2025 23:51:44 +0000",
+      "source": "wired",
+      "title": "Data Holds the Key in Slowing Age-Related Illnesses",
+      "summary": "More accurate and individualized health predictions will allow for preventative factors to be implemented well in advance.",
+      "link": "https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/",
+      "published": "Tue, 23 Dec 2025 18:11:52 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.143288"
+      "crawled_at": "2025-12-24T00:55:18.114005"
     },
     {
       "source": "wired",
@@ -277,7 +319,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:30.274282"
+      "crawled_at": "2025-12-24T00:55:18.114039"
     },
     {
       "source": "wired",
@@ -287,49 +329,7 @@
       "published": "Tue, 23 Dec 2025 13:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-23T18:17:30.274329"
-    },
-    {
-      "source": "wired",
-      "title": "iBuyPower RDY Slate 9MP R01 Gaming PC Review: Great Value",
-      "summary": "iBuyPower’s prebuilt gaming desktop tries some new tricks but comes with a few flaws.",
-      "link": "https://www.wired.com/review/ibuypower-rdy-slate-9mp-r01/",
-      "published": "Tue, 23 Dec 2025 12:00:00 +0000",
-      "keywords": [
-        "AWS",
-        "Gaming"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-23T18:17:30.274358"
-    },
-    {
-      "source": "wired",
-      "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis",
-      "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-      "link": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-      "published": "Tue, 23 Dec 2025 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-23T18:17:30.274390"
-    },
-    {
-      "source": "wired",
-      "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
-      "summary": "Online black markets once lurked in the shadows of the dark web. Today, they’ve moved onto public platforms like Telegram—and are racking up historic illicit fortunes.",
-      "link": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
-      "published": "Tue, 23 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "Crypto",
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2025-12-23T18:17:30.274427"
+      "crawled_at": "2025-12-24T00:55:18.114078"
     }
   ]
 }
