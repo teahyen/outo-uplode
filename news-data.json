@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T06:18:56.073723",
+  "last_updated": "2025-12-25T12:22:00.127290",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.252829"
+      "crawled_at": "2025-12-25T12:21:59.250592"
     },
     {
       "source": "techcrunch",
@@ -24,7 +24,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.252867"
+      "crawled_at": "2025-12-25T12:21:59.250634"
     },
     {
       "source": "techcrunch",
@@ -37,7 +37,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-25T06:18:55.252906"
+      "crawled_at": "2025-12-25T12:21:59.250673"
     },
     {
       "source": "techcrunch",
@@ -51,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.252930"
+      "crawled_at": "2025-12-25T12:21:59.250698"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.252958"
+      "crawled_at": "2025-12-25T12:21:59.250726"
     },
     {
       "source": "theverge",
@@ -78,7 +78,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.378543"
+      "crawled_at": "2025-12-25T12:21:59.470574"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.378613"
+      "crawled_at": "2025-12-25T12:21:59.470642"
     },
     {
       "source": "theverge",
@@ -105,7 +105,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-25T06:18:55.378653"
+      "crawled_at": "2025-12-25T12:21:59.470681"
     },
     {
       "source": "theverge",
@@ -119,7 +119,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.378687"
+      "crawled_at": "2025-12-25T12:21:59.470714"
     },
     {
       "source": "theverge",
@@ -133,65 +133,71 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-25T06:18:55.378726"
+      "crawled_at": "2025-12-25T12:21:59.470754"
     },
     {
       "source": "hackernews",
-      "title": "Ruby 4.0.0 Released",
-      "summary": "Article URL: https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/\nComments URL: https://news.ycombinator.com/item?id=46382011\nPoints: 64\n# Comments: 3",
-      "link": "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/",
-      "published": "Thu, 25 Dec 2025 04:13:00 +0000",
+      "title": "Mattermost restricted access to old messages after 10000 limit is reached",
+      "summary": "Article URL: https://github.com/mattermost/mattermost/issues/34271\nComments URL: https://news.ycombinator.com/item?id=46383675\nPoints: 52\n# Comments: 25",
+      "link": "https://github.com/mattermost/mattermost/issues/34271",
+      "published": "Thu, 25 Dec 2025 11:03:59 +0000",
+      "keywords": [
+        "REST",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-25T12:21:59.831009"
+    },
+    {
+      "source": "hackernews",
+      "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cdxwllqz1l0o\nComments URL: https://news.ycombinator.com/item?id=46383552\nPoints: 182\n# Comments: 16",
+      "link": "https://www.bbc.co.uk/news/articles/cdxwllqz1l0o",
+      "published": "Thu, 25 Dec 2025 10:35:34 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.826605"
+      "crawled_at": "2025-12-25T12:21:59.831068"
     },
     {
       "source": "hackernews",
-      "title": "The subtle Red of HN and so minimalist and beautiful",
-      "summary": "Merry Xmas everyone.\n\nComments URL: https://news.ycombinator.com/item?id=46381896\nPoints: 10\n# Comments: 2",
-      "link": "https://news.ycombinator.com/item?id=46381896",
-      "published": "Thu, 25 Dec 2025 03:48:20 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.826643"
-    },
-    {
-      "source": "hackernews",
-      "title": "Python Applied Mathematics Labs",
-      "summary": "Article URL: https://labs.acme.byu.edu/Pages/intro.html\nComments URL: https://news.ycombinator.com/item?id=46381839\nPoints: 53\n# Comments: 2",
-      "link": "https://labs.acme.byu.edu/Pages/intro.html",
-      "published": "Thu, 25 Dec 2025 03:33:52 +0000",
+      "title": "Quantum Error Correction Goes FOOM",
+      "summary": "Article URL: https://algassert.com/post/2503\nComments URL: https://news.ycombinator.com/item?id=46383233\nPoints: 12\n# Comments: 2",
+      "link": "https://algassert.com/post/2503",
+      "published": "Thu, 25 Dec 2025 09:18:15 +0000",
       "keywords": [
-        "Python",
+        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-25T06:18:55.826671"
+      "category": "Tech News",
+      "crawled_at": "2025-12-25T12:21:59.831103"
     },
     {
       "source": "hackernews",
-      "title": "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind",
-      "summary": "Article URL: https://mirari.vitasys.nl/our-story/\nComments URL: https://news.ycombinator.com/item?id=46380953\nPoints: 13\n# Comments: 2",
-      "link": "https://mirari.vitasys.nl/our-story/",
-      "published": "Thu, 25 Dec 2025 00:38:09 +0000",
+      "title": "Self-referencing Page Tables for the x86-Architecture",
+      "summary": "Article URL: https://0l.de/blog/2015/01/bachelor-thesis-abstract/\nComments URL: https://news.ycombinator.com/item?id=46383139\nPoints: 26\n# Comments: 4",
+      "link": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+      "published": "Thu, 25 Dec 2025 08:58:23 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.826698"
+      "category": "Tech News",
+      "crawled_at": "2025-12-25T12:21:59.831138"
     },
     {
       "source": "hackernews",
-      "title": "Who Watches the Waymos? I do [video]",
-      "summary": "https://x.com/fulligin/status/2003925653113184498https://xcancel.com/fulligin/status/2003925653113184498\n\nComments URL: https://news.ycombinator.com/item?id=46380758\nPoints: 101\n# Comments: 33",
-      "link": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
-      "published": "Thu, 25 Dec 2025 00:10:12 +0000",
-      "keywords": [],
+      "title": "Free Software Foundation receives historic private donations",
+      "summary": "Article URL: https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations\nComments URL: https://news.ycombinator.com/item?id=46382134\nPoints: 110\n# Comments: 16",
+      "link": "https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations",
+      "published": "Thu, 25 Dec 2025 04:47:38 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.826735"
+      "crawled_at": "2025-12-25T12:21:59.831176"
     },
     {
       "source": "arstechnica",
@@ -203,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:55.983490"
+      "crawled_at": "2025-12-25T12:22:00.021986"
     },
     {
       "source": "arstechnica",
@@ -215,7 +221,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.983520"
+      "crawled_at": "2025-12-25T12:22:00.022019"
     },
     {
       "source": "arstechnica",
@@ -228,7 +234,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-25T06:18:55.983547"
+      "crawled_at": "2025-12-25T12:22:00.022073"
     },
     {
       "source": "arstechnica",
@@ -240,7 +246,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.983574"
+      "crawled_at": "2025-12-25T12:22:00.022109"
     },
     {
       "source": "arstechnica",
@@ -253,65 +259,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:55.983596"
+      "crawled_at": "2025-12-25T12:22:00.022132"
     },
     {
       "source": "wired",
-      "title": "Sealy Promo Code: Save $200 on Mattresses This Month",
-      "summary": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
-      "link": "https://www.wired.com/story/sealy-promo-code/",
-      "published": "Thu, 25 Dec 2025 06:10:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-25T06:18:56.073504"
-    },
-    {
-      "source": "wired",
-      "title": "JBL Bar 500MK2 Review: A Fantastic Soundbar System",
-      "summary": "This compact 2.1 soundbar system offers realistic Dolby Atmos surround sound.",
-      "link": "https://www.wired.com/review/jbl-bar-500-mk2/",
-      "published": "Wed, 24 Dec 2025 15:05:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:56.073537"
-    },
-    {
-      "source": "wired",
-      "title": "How to Choose a Computer Monitor (2025): Everything You Need to Know",
-      "summary": "Monitors are cheaper, faster, and more beautiful than ever. Here’s how to choose one that will suit your needs and budget.",
-      "link": "https://www.wired.com/story/how-to-choose-a-computer-monitor/",
-      "published": "Wed, 24 Dec 2025 13:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:56.073575"
-    },
-    {
-      "source": "wired",
-      "title": "25 Work From Home Gift Ideas",
-      "summary": "Upgrade your loved one’s home office with these picks that make every day a little easier—and a little more fun.",
-      "link": "https://www.wired.com/gallery/work-from-home-gift-ideas/",
-      "published": "Wed, 24 Dec 2025 12:30:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-25T06:18:56.073608"
-    },
-    {
-      "source": "wired",
-      "title": "Apple’s App Course Runs $20,000 a Student. Is It Really Worth It?",
-      "summary": "Apple, Michigan taxpayers, and one of Detroit’s wealthiest families spent roughly $30 million training hundreds of people to build iPhone apps. Not everyone lands coding jobs right away.",
-      "link": "https://www.wired.com/story/apple-app-making-course-michigan-state-university/",
-      "published": "Wed, 24 Dec 2025 12:00:00 +0000",
+      "title": "The Gloves Are Off in the Fight for Your Right to Repair",
+      "summary": "This year, the right-to-repair movement got a boost from—surprisingly—big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren’t giving up that power willingly.",
+      "link": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
+      "published": "Thu, 25 Dec 2025 11:00:00 +0000",
       "keywords": [
         "AI",
-        "Apple",
-        "iPhone"
+        "Go",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-25T06:18:56.073640"
+      "crawled_at": "2025-12-25T12:22:00.126981"
+    },
+    {
+      "source": "wired",
+      "title": "2025’s Best Phones Were Also Its Wackiest",
+      "summary": "If anything, iPhones and Pixels are practically vanilla. The next generation is thinner, more transparent, and folds in half. That’s a good thing.",
+      "link": "https://www.wired.com/story/expired-tired-wired-wacky-phones/",
+      "published": "Thu, 25 Dec 2025 11:00:00 +0000",
+      "keywords": [
+        "Go",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-25T12:22:00.127031"
+    },
+    {
+      "source": "wired",
+      "title": "How a $200 Fake Fireplace From Home Depot Soothed My Soul",
+      "summary": "Research shows that watching a simulated fire may have real psychological benefits.",
+      "link": "https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/",
+      "published": "Thu, 25 Dec 2025 10:33:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-25T12:22:00.127076"
+    },
+    {
+      "source": "wired",
+      "title": "‘Wolf DNA’ Lurks in Many Modern Dog Breeds",
+      "summary": "Although wolf-canine interbreeding has been considered extremely rare, the latest research shows that many present-day canines carry a small amount of wolf genes.",
+      "link": "https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/",
+      "published": "Thu, 25 Dec 2025 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-25T12:22:00.127118"
+    },
+    {
+      "source": "wired",
+      "title": "Tuft & Needle Promo Codes: 20% Off | December 2025",
+      "summary": "Save 20% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "published": "Thu, 25 Dec 2025 07:10:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2025-12-25T12:22:00.127141"
     }
   ]
 }
