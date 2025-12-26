@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T06:18:46.989454",
+  "last_updated": "2025-12-26T12:21:50.763663",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-26T06:18:46.234429"
+      "crawled_at": "2025-12-26T12:21:50.132563"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.234472"
+      "crawled_at": "2025-12-26T12:21:50.132606"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.234503"
+      "crawled_at": "2025-12-26T12:21:50.132637"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.234531"
+      "crawled_at": "2025-12-26T12:21:50.132664"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-26T06:18:46.234568"
+      "crawled_at": "2025-12-26T12:21:50.132700"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.400323"
+      "crawled_at": "2025-12-26T12:21:50.293061"
     },
     {
       "source": "theverge",
@@ -94,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.400367"
+      "crawled_at": "2025-12-26T12:21:50.293103"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.400413"
+      "crawled_at": "2025-12-26T12:21:50.293148"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.400467"
+      "crawled_at": "2025-12-26T12:21:50.293201"
     },
     {
       "source": "theverge",
@@ -135,26 +135,50 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-26T06:18:46.400502"
+      "crawled_at": "2025-12-26T12:21:50.293237"
     },
     {
       "source": "hackernews",
-      "title": "Rob Pike Goes Nuclear over GenAI",
-      "summary": "Article URL: https://imgur.com/nUJCI3o\nComments URL: https://news.ycombinator.com/item?id=46389444\nPoints: 80\n# Comments: 27",
-      "link": "https://imgur.com/nUJCI3o",
-      "published": "Fri, 26 Dec 2025 05:27:05 +0000",
+      "title": "Questions Engineers Must Ask Future Employers in Interviews (and Why)",
+      "summary": "Article URL: https://dollardhingra.substack.com/p/questions-software-engineers-should\nComments URL: https://news.ycombinator.com/item?id=46391064\nPoints: 5\n# Comments: 0",
+      "link": "https://dollardhingra.substack.com/p/questions-software-engineers-should",
+      "published": "Fri, 26 Dec 2025 11:09:55 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-26T12:21:50.522659"
+    },
+    {
+      "source": "hackernews",
+      "title": "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]",
+      "summary": "Article URL: https://douira.dev/assets/document/douira-master-thesis.pdf\nComments URL: https://news.ycombinator.com/item?id=46390667\nPoints: 23\n# Comments: 12",
+      "link": "https://douira.dev/assets/document/douira-master-thesis.pdf",
+      "published": "Fri, 26 Dec 2025 09:43:23 +0000",
+      "keywords": [
         "Go",
         "AR"
       ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-26T12:21:50.522702"
+    },
+    {
+      "source": "hackernews",
+      "title": "Building an AI agent inside a 7-year-old Rails monolith",
+      "summary": "Article URL: https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/\nComments URL: https://news.ycombinator.com/item?id=46390055\nPoints: 56\n# Comments: 16",
+      "link": "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/",
+      "published": "Fri, 26 Dec 2025 07:35:15 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.656947"
+      "crawled_at": "2025-12-26T12:21:50.522730"
     },
     {
       "source": "hackernews",
       "title": "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models",
-      "summary": "Article URL: https://github.com/thu-ml/TurboDiffusion\nComments URL: https://news.ycombinator.com/item?id=46388907\nPoints: 13\n# Comments: 3",
+      "summary": "Article URL: https://github.com/thu-ml/TurboDiffusion\nComments URL: https://news.ycombinator.com/item?id=46388907\nPoints: 111\n# Comments: 18",
       "link": "https://github.com/thu-ml/TurboDiffusion",
       "published": "Fri, 26 Dec 2025 03:19:49 +0000",
       "keywords": [
@@ -163,12 +187,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.657012"
+      "crawled_at": "2025-12-26T12:21:50.522774"
     },
     {
       "source": "hackernews",
       "title": "Ultimate-Linux: Userspace for Linux in Pure JavaScript",
-      "summary": "Article URL: https://github.com/popovicu/ultimate-linux\nComments URL: https://news.ycombinator.com/item?id=46388700\nPoints: 29\n# Comments: 7",
+      "summary": "Article URL: https://github.com/popovicu/ultimate-linux\nComments URL: https://news.ycombinator.com/item?id=46388700\nPoints: 75\n# Comments: 18",
       "link": "https://github.com/popovicu/ultimate-linux",
       "published": "Fri, 26 Dec 2025 02:32:29 +0000",
       "keywords": [
@@ -179,31 +203,7 @@
         "GitHub"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-26T06:18:46.657044"
-    },
-    {
-      "source": "hackernews",
-      "title": "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming",
-      "summary": "Article URL: https://www.minimaxi.com/news/minimax-m21\nComments URL: https://news.ycombinator.com/item?id=46388213\nPoints: 84\n# Comments: 31",
-      "link": "https://www.minimaxi.com/news/minimax-m21",
-      "published": "Fri, 26 Dec 2025 01:02:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2025-12-26T06:18:46.657074"
-    },
-    {
-      "source": "hackernews",
-      "title": "When a driver challenges the kernel's assumptions",
-      "summary": "Article URL: http://miod.online.fr/software/openbsd/stories/udl.html\nComments URL: https://news.ycombinator.com/item?id=46388059\nPoints: 43\n# Comments: 8",
-      "link": "http://miod.online.fr/software/openbsd/stories/udl.html",
-      "published": "Fri, 26 Dec 2025 00:32:15 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.657108"
+      "crawled_at": "2025-12-26T12:21:50.522803"
     },
     {
       "source": "arstechnica",
@@ -215,7 +215,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.842028"
+      "crawled_at": "2025-12-26T12:21:50.644307"
     },
     {
       "source": "arstechnica",
@@ -227,7 +227,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.842058"
+      "crawled_at": "2025-12-26T12:21:50.644337"
     },
     {
       "source": "arstechnica",
@@ -240,7 +240,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-26T06:18:46.842085"
+      "crawled_at": "2025-12-26T12:21:50.644364"
     },
     {
       "source": "arstechnica",
@@ -252,7 +252,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.842114"
+      "crawled_at": "2025-12-26T12:21:50.644391"
     },
     {
       "source": "arstechnica",
@@ -265,73 +265,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.842136"
+      "crawled_at": "2025-12-26T12:21:50.644413"
     },
     {
       "source": "wired",
-      "title": "The 40 Best Movies on HBO Max Right Now (January 2026)",
-      "summary": "One Battle After Another, Spinal Tap II: The End Continues, and It's Never Over, Jeff Buckley are just a few of the movies you should be watching on HBO Max this month.",
-      "link": "https://www.wired.com/story/best-movies-hbo-max-right-now/",
-      "published": "Thu, 25 Dec 2025 20:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "title": "Ricoh GR IV Review: Everyone's Favorite Pocket Camera Gets Better",
+      "summary": "Ricoh’s cult-inspiring pocketable camera gets a small update, with important improvements in autofocus and image quality.",
+      "link": "https://www.wired.com/review/ricoh-gr-iv-camera/",
+      "published": "Fri, 26 Dec 2025 12:00:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.989245"
+      "crawled_at": "2025-12-26T12:21:50.763456"
     },
     {
       "source": "wired",
-      "title": "How to Set Up a Smartphone for Elderly Loved Ones",
-      "summary": "Here's how to make iPhone and Android devices a little easier to use.",
-      "link": "https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/",
-      "published": "Thu, 25 Dec 2025 12:30:00 +0000",
-      "keywords": [
-        "iPhone",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-26T06:18:46.989276"
-    },
-    {
-      "source": "wired",
-      "title": "The Gloves Are Off in the Fight for Your Right to Repair",
-      "summary": "This year, the right-to-repair movement got a boost from—surprisingly—big tech, tariffs, and economic downturn. But the companies controlling who fixes their stuff aren’t giving up that power willingly.",
-      "link": "https://www.wired.com/story/expired-tired-wired-right-to-repair/",
-      "published": "Thu, 25 Dec 2025 11:00:00 +0000",
+      "title": "Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?",
+      "summary": "In Pirates of the Caribbean, Jack and Will use an overturned dinghy to hold air underwater. Madness or brilliance?",
+      "link": "https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/",
+      "published": "Fri, 26 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-26T06:18:46.989314"
+      "crawled_at": "2025-12-26T12:21:50.763486"
     },
     {
       "source": "wired",
-      "title": "2025’s Best Phones Were Also Its Wackiest",
-      "summary": "If anything, iPhones and Pixels are practically vanilla. The next generation is thinner, more transparent, and folds in half. That’s a good thing.",
-      "link": "https://www.wired.com/story/expired-tired-wired-wacky-phones/",
-      "published": "Thu, 25 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-26T06:18:46.989354"
-    },
-    {
-      "source": "wired",
-      "title": "How a $200 Fake Fireplace From Home Depot Soothed My Soul",
-      "summary": "Research shows that watching a simulated fire may have real psychological benefits.",
-      "link": "https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/",
-      "published": "Thu, 25 Dec 2025 10:33:00 +0000",
+      "title": "Sleep Number P6 Smart Bed Review: Advanced and Adaptive",
+      "summary": "This legacy brand brings its beds into the modern era with 100 firmness levels and in-depth sleep tracking.",
+      "link": "https://www.wired.com/review/sleep-number-p6-smart-bed/",
+      "published": "Fri, 26 Dec 2025 11:32:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-26T06:18:46.989382"
+      "crawled_at": "2025-12-26T12:21:50.763516"
+    },
+    {
+      "source": "wired",
+      "title": "US Trade Dominance Will Soon Begin to Crack",
+      "summary": "Savvy countries will discover there’s a way to mitigate the harm incurred by Trump’s tariffs—and it’ll boost their own economies while making goods cheaper too.",
+      "link": "https://www.wired.com/story/us-trade-dominance-will-begin-to-crack/",
+      "published": "Fri, 26 Dec 2025 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-26T12:21:50.763554"
+    },
+    {
+      "source": "wired",
+      "title": "‘We Ain’t Seen Nothing Yet’—Trump’s Mass Deportations Will Only Grow From Here",
+      "summary": "Militias and far-right extremists believed they would be central to Trump’s mass deportation plans. Instead he militarized law enforcement agencies.",
+      "link": "https://www.wired.com/story/expired-tired-wired-constitutional-sheriffs/",
+      "published": "Fri, 26 Dec 2025 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-26T12:21:50.763586"
     }
   ]
 }
