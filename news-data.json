@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-27T06:17:50.111595",
+  "last_updated": "2025-12-27T12:20:02.448434",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.250025"
+      "crawled_at": "2025-12-27T12:20:01.448375"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-27T06:17:49.250071"
+      "crawled_at": "2025-12-27T12:20:01.448417"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-27T06:17:49.250107"
+      "crawled_at": "2025-12-27T12:20:01.448452"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-27T06:17:49.250146"
+      "crawled_at": "2025-12-27T12:20:01.448492"
     },
     {
       "source": "techcrunch",
@@ -66,7 +66,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.250179"
+      "crawled_at": "2025-12-27T12:20:01.448524"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.343739"
+      "crawled_at": "2025-12-27T12:20:01.535125"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.343782"
+      "crawled_at": "2025-12-27T12:20:01.535171"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.343823"
+      "crawled_at": "2025-12-27T12:20:01.535212"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-27T06:17:49.343861"
+      "crawled_at": "2025-12-27T12:20:01.535251"
     },
     {
       "source": "theverge",
@@ -133,68 +133,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:49.343896"
+      "crawled_at": "2025-12-27T12:20:01.535286"
     },
     {
       "source": "hackernews",
-      "title": "CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy",
-      "summary": "Article URL: https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy\nComments URL: https://news.ycombinator.com/item?id=46398752\nPoints: 40\n# Comments: 23",
-      "link": "https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy",
-      "published": "Sat, 27 Dec 2025 03:14:56 +0000",
+      "title": "Splice a Fibre",
+      "summary": "It's interactive, try and splice one!Written in react, it's moderately heavy and not entirely mobile optimised.\n\nComments URL: https://news.ycombinator.com/item?id=46401190\nPoints: 4\n# Comments: 0",
+      "link": "https://react-networks-lib.rackout.net/fibre",
+      "published": "Sat, 27 Dec 2025 11:57:17 +0000",
+      "keywords": [
+        "React"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-27T12:20:02.255317"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cursed Bundler: Using go get to install Ruby Gems",
+      "summary": "Article URL: https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html\nComments URL: https://news.ycombinator.com/item?id=46400927\nPoints: 17\n# Comments: 3",
+      "link": "https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html",
+      "published": "Sat, 27 Dec 2025 11:05:46 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:49.792337"
+      "crawled_at": "2025-12-27T12:20:02.255364"
     },
     {
       "source": "hackernews",
-      "title": "Former ULA President and CEO Tory Bruno Joins Blue Origin",
-      "summary": "Article URL: https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/\nComments URL: https://news.ycombinator.com/item?id=46398644\nPoints: 26\n# Comments: 6",
-      "link": "https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/",
-      "published": "Sat, 27 Dec 2025 02:56:43 +0000",
+      "title": "Show HN: Ez FFmpeg – Video editing in plain English",
+      "summary": "I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.Instead of:\nffmpeg -i video.mp4 -vf \"fps=15,scale=480:-1:flags=lanczos\" -loop 0 output.gifYou write:\n  ff convert video.mp4 to gifMore examples:\n  ff compress video.mp4 to 10mb\n  ff trim video.mp4 fro",
+      "link": "http://npmjs.com/package/ezff",
+      "published": "Sat, 27 Dec 2025 08:45:46 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-27T12:20:02.255453"
+    },
+    {
+      "source": "hackernews",
+      "title": "More dynamic cronjobs",
+      "summary": "Article URL: https://george.mand.is/2025/09/more-dynamic-cronjobs/\nComments URL: https://news.ycombinator.com/item?id=46399576\nPoints: 54\n# Comments: 10",
+      "link": "https://george.mand.is/2025/09/more-dynamic-cronjobs/",
+      "published": "Sat, 27 Dec 2025 06:10:42 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:49.792383"
+      "crawled_at": "2025-12-27T12:20:02.255487"
     },
     {
       "source": "hackernews",
-      "title": "QNX Self-Hosted Developer Desktop",
-      "summary": "Article URL: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/\nComments URL: https://news.ycombinator.com/item?id=46398201\nPoints: 93\n# Comments: 40",
-      "link": "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/",
-      "published": "Sat, 27 Dec 2025 01:16:53 +0000",
+      "title": "Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)",
+      "summary": "Article URL: https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/\nComments URL: https://news.ycombinator.com/item?id=46398666\nPoints: 63\n# Comments: 12",
+      "link": "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/",
+      "published": "Sat, 27 Dec 2025 03:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-27T06:17:49.792414"
-    },
-    {
-      "source": "hackernews",
-      "title": "Publishing your work increases your luck",
-      "summary": "Article URL: https://github.com/readme/guides/publishing-your-work\nComments URL: https://news.ycombinator.com/item?id=46397991\nPoints: 62\n# Comments: 12",
-      "link": "https://github.com/readme/guides/publishing-your-work",
-      "published": "Sat, 27 Dec 2025 00:43:04 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:49.792447"
-    },
-    {
-      "source": "hackernews",
-      "title": "Exe.dev",
-      "summary": "https://blog.exe.dev/meet-exe.devhttps://exe.dev/docs/how-exedev-workshttps://exe.dev/docs/pricing\n\nComments URL: https://news.ycombinator.com/item?id=46397609\nPoints: 87\n# Comments: 53",
-      "link": "https://exe.dev/",
-      "published": "Fri, 26 Dec 2025 23:42:46 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:49.792482"
+      "crawled_at": "2025-12-27T12:20:02.255535"
     },
     {
       "source": "arstechnica",
@@ -206,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.020071"
+      "crawled_at": "2025-12-27T12:20:02.356253"
     },
     {
       "source": "arstechnica",
@@ -216,7 +218,7 @@
       "published": "Fri, 26 Dec 2025 13:35:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.020117"
+      "crawled_at": "2025-12-27T12:20:02.356298"
     },
     {
       "source": "arstechnica",
@@ -228,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.020149"
+      "crawled_at": "2025-12-27T12:20:02.356330"
     },
     {
       "source": "arstechnica",
@@ -240,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.020176"
+      "crawled_at": "2025-12-27T12:20:02.356358"
     },
     {
       "source": "arstechnica",
@@ -252,65 +254,73 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:50.020200"
+      "crawled_at": "2025-12-27T12:20:02.356381"
     },
     {
       "source": "wired",
-      "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
-      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
-      "link": "https://www.wired.com/story/hellofresh-coupon/",
-      "published": "Sat, 27 Dec 2025 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2025-12-27T06:17:50.111378"
+      "title": "The Environmental and Human Rights Costs of China’s Clean Energy Investments Abroad",
+      "summary": "Chinese companies have pledged hundreds of billions of dollars in clean energy manufacturing investments overseas, but the projects are having significant social, environmental, and human rights impacts.",
+      "link": "https://www.wired.com/story/chinas-clean-energy-investments-abroad-are-a-boon-for-climate-but-human-rights-and-the-environment-are-a-different-story/",
+      "published": "Sat, 27 Dec 2025 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2025-12-27T12:20:02.448233"
     },
     {
       "source": "wired",
-      "title": "Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?",
-      "summary": "In Pirates of the Caribbean, Jack and Will use an overturned dinghy to hold air underwater. Madness or brilliance?",
-      "link": "https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/",
-      "published": "Fri, 26 Dec 2025 12:00:00 +0000",
+      "title": "The 48 Best Shows on Netflix, WIRED's Picks (December 2025)",
+      "summary": "Stranger Things, City of Shadows, and Tomb Raider: The Legend of Lara Croft are just a few of the shows you need to watch on Netflix this month.",
+      "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
+      "published": "Sat, 27 Dec 2025 12:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-27T06:17:50.111406"
+      "crawled_at": "2025-12-27T12:20:02.448266"
     },
     {
       "source": "wired",
-      "title": "Ricoh GR IV Review: Everyone's Favorite Pocket Camera Gets Better",
-      "summary": "Ricoh’s cult-inspiring pocketable camera gets a small update, with important improvements in autofocus and image quality.",
-      "link": "https://www.wired.com/review/ricoh-gr-iv-camera/",
-      "published": "Fri, 26 Dec 2025 12:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.111448"
-    },
-    {
-      "source": "wired",
-      "title": "Sleep Number P6 Smart Bed Review: Advanced and Adaptive",
-      "summary": "This legacy brand brings its beds into the modern era with 100 firmness levels and in-depth sleep tracking.",
-      "link": "https://www.wired.com/review/sleep-number-p6-smart-bed/",
-      "published": "Fri, 26 Dec 2025 11:32:00 +0000",
+      "title": "Tuft & Needle Original Hybrid Mattress Review: A Soft Landing",
+      "summary": "Choosing a mattress for your guest room, Airbnb, or VRBO rental is challenging. This hybrid is up for it.",
+      "link": "https://www.wired.com/review/tuft-and-needle-original-hybrid/",
+      "published": "Sat, 27 Dec 2025 11:32:00 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "VR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.111477"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-27T12:20:02.448290"
     },
     {
       "source": "wired",
-      "title": "US Trade Dominance Will Soon Begin to Crack",
-      "summary": "Savvy countries will discover there’s a way to mitigate the harm incurred by Trump’s tariffs—and it’ll boost their own economies while making goods cheaper too.",
-      "link": "https://www.wired.com/story/us-trade-dominance-will-begin-to-crack/",
-      "published": "Fri, 26 Dec 2025 11:30:00 +0000",
+      "title": "So Long, GPT-5. Hello, Qwen",
+      "summary": "In the AI boom, chatbots and GPTs come and go quickly. (Remember Llama?) GPT-5 had a big year, but 2026 will be all about Qwen.",
+      "link": "https://www.wired.com/story/expired-tired-wired-gpt-5/",
+      "published": "Sat, 27 Dec 2025 11:00:00 +0000",
       "keywords": [
+        "AI",
+        "GPT",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-27T06:17:50.111515"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-27T12:20:02.448310"
+    },
+    {
+      "source": "wired",
+      "title": "In Cryptoland, Memecoin Fever Gives Way to a Stablecoin Boom",
+      "summary": "In a year that began with a memecoin trading frenzy, stablecoins have emerged as the respectable face of the crypto industry.",
+      "link": "https://www.wired.com/story/expired-tired-wired-memecoins/",
+      "published": "Sat, 27 Dec 2025 11:00:00 +0000",
+      "keywords": [
+        "Crypto",
+        "AR"
+      ],
+      "category": "Blockchain",
+      "crawled_at": "2025-12-27T12:20:02.448336"
     }
   ]
 }
