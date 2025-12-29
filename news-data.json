@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-12-29T01:00:44.371136",
+  "last_updated": "2025-12-29T06:21:05.441476",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos",
+      "summary": "Sauron is appearing on the scene as concerns rise about crime among the most wealthy.",
+      "link": "https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/",
+      "published": "Mon, 29 Dec 2025 02:20:00 +0000",
+      "keywords": [
+        "Security",
+        "Startup",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-29T06:21:04.434202"
+    },
     {
       "source": "techcrunch",
       "title": "Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok",
@@ -13,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:43.574985"
+      "crawled_at": "2025-12-29T06:21:04.434238"
     },
     {
       "source": "techcrunch",
@@ -27,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:43.575016"
+      "crawled_at": "2025-12-29T06:21:04.434262"
     },
     {
       "source": "techcrunch",
@@ -40,7 +54,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2025-12-29T01:00:43.575043"
+      "crawled_at": "2025-12-29T06:21:04.434288"
     },
     {
       "source": "techcrunch",
@@ -50,17 +64,7 @@
       "published": "Sun, 28 Dec 2025 18:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:43.575098"
-    },
-    {
-      "source": "techcrunch",
-      "title": "MayimFlow wants to stop data center leaks before they happen",
-      "summary": "Leaks cause damage, down time, and cost money. MayimFlow's founder John Khazraee wants to change that.",
-      "link": "https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/",
-      "published": "Sun, 28 Dec 2025 16:30:00 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2025-12-29T01:00:43.575129"
+      "crawled_at": "2025-12-29T06:21:04.434324"
     },
     {
       "source": "theverge",
@@ -74,7 +78,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:43.676331"
+      "crawled_at": "2025-12-29T06:21:04.601656"
     },
     {
       "source": "theverge",
@@ -87,7 +91,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:43.676389"
+      "crawled_at": "2025-12-29T06:21:04.601717"
     },
     {
       "source": "theverge",
@@ -101,7 +105,7 @@
         "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:43.676422"
+      "crawled_at": "2025-12-29T06:21:04.601750"
     },
     {
       "source": "theverge",
@@ -115,7 +119,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:43.676465"
+      "crawled_at": "2025-12-29T06:21:04.601792"
     },
     {
       "source": "theverge",
@@ -128,71 +132,67 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:43.676518"
+      "crawled_at": "2025-12-29T06:21:04.601845"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: My app just won best iOS Japanese learning tool of 2025 award",
-      "summary": "Article URL: https://skerritt.blog/best-japanese-learning-tools-2025-award-show/\nComments URL: https://news.ycombinator.com/item?id=46415819\nPoints: 18\n# Comments: 1",
-      "link": "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/",
-      "published": "Mon, 29 Dec 2025 00:01:26 +0000",
-      "keywords": [
-        "iOS",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-29T01:00:44.051567"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fast Cvvdp Implementation in C",
-      "summary": "Article URL: https://github.com/halidecx/fcvvdp\nComments URL: https://news.ycombinator.com/item?id=46415570\nPoints: 3\n# Comments: 0",
-      "link": "https://github.com/halidecx/fcvvdp",
-      "published": "Sun, 28 Dec 2025 23:30:10 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.051605"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to Complain",
-      "summary": "Article URL: https://outerproduct.net/trivial/2024-03-25_complain.html\nComments URL: https://news.ycombinator.com/item?id=46415522\nPoints: 4\n# Comments: 1",
-      "link": "https://outerproduct.net/trivial/2024-03-25_complain.html",
-      "published": "Sun, 28 Dec 2025 23:23:21 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:44.051632"
-    },
-    {
-      "source": "hackernews",
-      "title": "CEOs are hugely expensive. Why not automate them?",
-      "summary": "Article URL: https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots\nComments URL: https://news.ycombinator.com/item?id=46415488\nPoints: 143\n# Comments: 113",
-      "link": "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots",
-      "published": "Sun, 28 Dec 2025 23:17:07 +0000",
+      "title": "Staying ahead of censors in 2025",
+      "summary": "Article URL: https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898\nComments URL: https://news.ycombinator.com/item?id=46417844\nPoints: 12\n# Comments: 0",
+      "link": "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898",
+      "published": "Mon, 29 Dec 2025 05:47:40 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.051670"
+      "crawled_at": "2025-12-29T06:21:05.062641"
     },
     {
       "source": "hackernews",
-      "title": "Spherical Cow",
-      "summary": "Article URL: https://lib.rs/crates/spherical-cow\nComments URL: https://news.ycombinator.com/item?id=46415458\nPoints: 21\n# Comments: 1",
-      "link": "https://lib.rs/crates/spherical-cow",
-      "published": "Sun, 28 Dec 2025 23:11:50 +0000",
+      "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj4qp17e1lqo\nComments URL: https://news.ycombinator.com/item?id=46417724\nPoints: 25\n# Comments: 2",
+      "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo",
+      "published": "Mon, 29 Dec 2025 05:21:06 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.051699"
+      "crawled_at": "2025-12-29T06:21:05.062685"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why I think Valve’s retiring the Steam Deck LCD",
+      "summary": "Article URL: https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/\nComments URL: https://news.ycombinator.com/item?id=46417252\nPoints: 27\n# Comments: 28",
+      "link": "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/",
+      "published": "Mon, 29 Dec 2025 03:44:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-29T06:21:05.062734"
+    },
+    {
+      "source": "hackernews",
+      "title": "Fast GPU Interconnect over Radio",
+      "summary": "Article URL: https://spectrum.ieee.org/rf-over-fiber\nComments URL: https://news.ycombinator.com/item?id=46417227\nPoints: 9\n# Comments: 0",
+      "link": "https://spectrum.ieee.org/rf-over-fiber",
+      "published": "Mon, 29 Dec 2025 03:39:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2025-12-29T06:21:05.062768"
+    },
+    {
+      "source": "hackernews",
+      "title": "You can make up HTML tags",
+      "summary": "Article URL: https://maurycyz.com/misc/make-up-tags/\nComments URL: https://news.ycombinator.com/item?id=46416945\nPoints: 133\n# Comments: 57",
+      "link": "https://maurycyz.com/misc/make-up-tags/",
+      "published": "Mon, 29 Dec 2025 02:47:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-29T06:21:05.062799"
     },
     {
       "source": "arstechnica",
@@ -204,7 +204,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.174446"
+      "crawled_at": "2025-12-29T06:21:05.257289"
     },
     {
       "source": "arstechnica",
@@ -214,7 +214,7 @@
       "published": "Fri, 26 Dec 2025 13:35:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.174492"
+      "crawled_at": "2025-12-29T06:21:05.257334"
     },
     {
       "source": "arstechnica",
@@ -226,7 +226,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.174524"
+      "crawled_at": "2025-12-29T06:21:05.257366"
     },
     {
       "source": "arstechnica",
@@ -238,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.174552"
+      "crawled_at": "2025-12-29T06:21:05.257393"
     },
     {
       "source": "arstechnica",
@@ -250,7 +250,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:44.174575"
+      "crawled_at": "2025-12-29T06:21:05.257416"
     },
     {
       "source": "wired",
@@ -263,7 +263,7 @@
         "REST"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:44.370881"
+      "crawled_at": "2025-12-29T06:21:05.441251"
     },
     {
       "source": "wired",
@@ -276,7 +276,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.370922"
+      "crawled_at": "2025-12-29T06:21:05.441290"
     },
     {
       "source": "wired",
@@ -288,7 +288,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-29T01:00:44.370968"
+      "crawled_at": "2025-12-29T06:21:05.441336"
     },
     {
       "source": "wired",
@@ -301,7 +301,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:44.371005"
+      "crawled_at": "2025-12-29T06:21:05.441372"
     },
     {
       "source": "wired",
@@ -314,7 +314,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-29T01:00:44.371031"
+      "crawled_at": "2025-12-29T06:21:05.441398"
     }
   ]
 }
