@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-30T18:17:56.345457",
+  "last_updated": "2025-12-31T00:57:24.774573",
   "news_count": 25,
   "news": [
     {
@@ -10,19 +10,19 @@
       "published": "Tue, 30 Dec 2025 18:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:55.439789"
+      "crawled_at": "2025-12-31T00:57:23.880883"
     },
     {
       "source": "techcrunch",
       "title": "12 investors dish on what 2026 will bring for climate tech",
-      "summary": "After a tumultuous year, venture investors are still optimistic about climate tech's long term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materials.",
+      "summary": "After a tumultuous year, venture investors are still optimistic about climate tech's long-term prospects, especially as data centers continue to drive demand for electricity, manufacturing, and materials.",
       "link": "https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/",
       "published": "Tue, 30 Dec 2025 17:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:55.439839"
+      "crawled_at": "2025-12-31T00:57:23.880930"
     },
     {
       "source": "techcrunch",
@@ -35,7 +35,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:55.439865"
+      "crawled_at": "2025-12-31T00:57:23.880954"
     },
     {
       "source": "techcrunch",
@@ -49,7 +49,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:55.439897"
+      "crawled_at": "2025-12-31T00:57:23.880984"
     },
     {
       "source": "techcrunch",
@@ -62,7 +62,22 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-30T18:17:55.439931"
+      "crawled_at": "2025-12-31T00:57:23.881017"
+    },
+    {
+      "source": "theverge",
+      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+      "summary": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted ",
+      "link": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+      "published": "2025-12-30T13:32:27-05:00",
+      "keywords": [
+        "Go",
+        "Security",
+        "Cybersecurity",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2025-12-31T00:57:23.989360"
     },
     {
       "source": "theverge",
@@ -75,7 +90,7 @@
         "Gaming"
       ],
       "category": "Hardware",
-      "crawled_at": "2025-12-30T18:17:55.554952"
+      "crawled_at": "2025-12-31T00:57:23.989416"
     },
     {
       "source": "theverge",
@@ -87,7 +102,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:55.555014"
+      "crawled_at": "2025-12-31T00:57:23.989465"
     },
     {
       "source": "theverge",
@@ -102,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:55.555062"
+      "crawled_at": "2025-12-31T00:57:23.989509"
     },
     {
       "source": "theverge",
@@ -116,143 +131,130 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-30T18:17:55.555099"
-    },
-    {
-      "source": "theverge",
-      "title": "This smart garden turned my black thumb green",
-      "summary": "I can't grow anything. Multiple attempts to create a cottage garden, first in Idaho and now in South Carolina, have brought disappointment. Both are challenging climates, but where others have succeeded, I've been left with little more than a pile of cherry tomatoes for my vast efforts (those things",
-      "link": "https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden",
-      "published": "2025-12-30T10:00:00-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-30T18:17:55.555140"
+      "crawled_at": "2025-12-31T00:57:23.989544"
     },
     {
       "source": "hackernews",
-      "title": "Toro: Deploy Applications as Unikernels",
-      "summary": "Article URL: https://github.com/torokernel/torokernel\nComments URL: https://news.ycombinator.com/item?id=46435418\nPoints: 32\n# Comments: 11",
-      "link": "https://github.com/torokernel/torokernel",
-      "published": "Tue, 30 Dec 2025 17:09:57 +0000",
+      "title": "Honey's Dieselgate: Detecting and Tricking Testers",
+      "summary": "Article URL: https://www.benedelman.org/honey-detecting-testers/\nComments URL: https://news.ycombinator.com/item?id=46439369\nPoints: 6\n# Comments: 1",
+      "link": "https://www.benedelman.org/honey-detecting-testers/",
+      "published": "Tue, 30 Dec 2025 23:21:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-31T00:57:24.431406"
+    },
+    {
+      "source": "hackernews",
+      "title": "Project ideas to appreciate the art of programming",
+      "summary": "Article URL: https://codecrafters.io/blog/programming-project-ideas\nComments URL: https://news.ycombinator.com/item?id=46439027\nPoints: 65\n# Comments: 17",
+      "link": "https://codecrafters.io/blog/programming-project-ideas",
+      "published": "Tue, 30 Dec 2025 22:47:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-31T00:57:24.431443"
+    },
+    {
+      "source": "hackernews",
+      "title": "NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives",
+      "summary": "Article URL: https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/\nComments URL: https://news.ycombinator.com/item?id=46438828\nPoints: 176\n# Comments: 128",
+      "link": "https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/",
+      "published": "Tue, 30 Dec 2025 22:28:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-31T00:57:24.431493"
+    },
+    {
+      "source": "hackernews",
+      "title": "Honey's Dieselgate: Detecting and tricking testers",
+      "summary": "Article URL: https://vptdigital.com/blog/honey-detecting-testers/\nComments URL: https://news.ycombinator.com/item?id=46438522\nPoints: 77\n# Comments: 17",
+      "link": "https://vptdigital.com/blog/honey-detecting-testers/",
+      "published": "Tue, 30 Dec 2025 21:59:35 +0000",
       "keywords": [
         "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-30T18:17:55.933434"
+      "category": "Tech News",
+      "crawled_at": "2025-12-31T00:57:24.431529"
     },
     {
       "source": "hackernews",
-      "title": "Ask HN: Any example of successful vibe-coded product?",
-      "summary": "Many people talk about vibe-coding and about the different ways to use this development \"methodology\" successfully. I wonder though if anyone really managed to push to production anything that has been fully or almost fully created through LLM assisted coding. Do you have anything to share, whether ",
-      "link": "https://news.ycombinator.com/item?id=46434821",
-      "published": "Tue, 30 Dec 2025 16:18:23 +0000",
+      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+      "summary": "Article URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026\nComments URL: https://news.ycombinator.com/item?id=46438390\nPoints: 120\n# Comments: 147",
+      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+      "published": "Tue, 30 Dec 2025 21:44:07 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:55.933488"
+      "crawled_at": "2025-12-31T00:57:24.431559"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Tidy Baby is a SET game but with words",
-      "summary": "Hi HN —Tidy Baby is a new game made by me and Wyna Liu (of NYT Connections!) that is inspired by the legendary card-based game SET that we assume many of you love (we too love SET).In SET, you’ve got four dimensions: shape, number, color, and shading, each with three variants.In Tidy Baby you only h",
-      "link": "https://tidy.baby",
-      "published": "Tue, 30 Dec 2025 15:57:01 +0000",
+      "source": "arstechnica",
+      "title": "The science of how (and when) we decide to speak out—or self-censor",
+      "summary": "The study's main takeaway: \"Be bold. It is the thing that slows down authoritarian creep.\"",
+      "link": "https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/",
+      "published": "Tue, 30 Dec 2025 21:30:04 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:55.933624"
-    },
-    {
-      "source": "hackernews",
-      "title": "What Happened to Abit Motherboards",
-      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-abit-motherboards/\nComments URL: https://news.ycombinator.com/item?id=46433915\nPoints: 24\n# Comments: 22",
-      "link": "https://dfarq.homeip.net/what-happened-to-abit-motherboards/",
-      "published": "Tue, 30 Dec 2025 14:58:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-30T18:17:55.933659"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)",
-      "summary": "Article URL: https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497\nComments URL: https://news.ycombinator.com/item?id=46433661\nPoints: 0\n# Comments: 0",
-      "link": "https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497",
-      "published": "Tue, 30 Dec 2025 14:31:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:55.933696"
+      "crawled_at": "2025-12-31T00:57:24.629033"
     },
     {
       "source": "arstechnica",
-      "title": "Looking for friends, lobsters may stumble into an ecological trap",
-      "summary": "Gathering for mutual defense puts young spiny lobsters at risk of predators.",
-      "link": "https://arstechnica.com/science/2025/12/looking-for-friends-lobsters-may-stumble-into-an-ecological-trap/",
-      "published": "Tue, 30 Dec 2025 15:00:56 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.135134"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The top 5 most horrifying and fascinating medical cases of 2025",
-      "summary": "Florida man makes two appearances on the list.",
-      "link": "https://arstechnica.com/health/2025/12/the-top-5-most-horrifying-and-fascinating-medical-cases-of-2025/",
-      "published": "Tue, 30 Dec 2025 14:00:27 +0000",
+      "title": "Lawsuit over Trump rejecting medical research grants is settled",
+      "summary": "Settlement forces NIH to review grants previously rejected on ideological grounds.",
+      "link": "https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/",
+      "published": "Tue, 30 Dec 2025 20:45:34 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2025-12-30T18:17:56.135193"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The 10 best vehicles Ars Technica drove in 2025",
-      "summary": "Of all the cars we've driven and reviewed this year, these are our picks.",
-      "link": "https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/",
-      "published": "Tue, 30 Dec 2025 13:30:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.135221"
-    },
-    {
-      "source": "arstechnica",
-      "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
-      "summary": "On Monday, US officials must explain what steps they took to enforce shocking visa bans.",
-      "link": "https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/",
-      "published": "Mon, 29 Dec 2025 21:30:29 +0000",
-      "keywords": [
-        "AI",
         "AWS",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-30T18:17:56.135255"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2025-12-31T00:57:24.629065"
     },
     {
       "source": "arstechnica",
-      "title": "Leonardo’s wood charring method predates Japanese practice",
-      "summary": "Yakisugi, a Japanese technique of burning wood surfaces, creates a protective carbonized layer",
-      "link": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
-      "published": "Mon, 29 Dec 2025 19:30:47 +0000",
+      "title": "DOGE did not find $2T in fraud, but that doesn’t matter, Musk allies say",
+      "summary": "Musk allies spin DOGE as having a \"higher purpose\" beyond federal budget cuts.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/",
+      "published": "Tue, 30 Dec 2025 20:30:01 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2025-12-31T00:57:24.629100"
+    },
+    {
+      "source": "arstechnica",
+      "title": "NJ’s answer to flooding: it has bought out and demolished 1,200 properties",
+      "summary": "The state deals with flooding and sea level rise by buying homes in flood prone areas.",
+      "link": "https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/",
+      "published": "Tue, 30 Dec 2025 20:00:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.135291"
+      "crawled_at": "2025-12-31T00:57:24.629136"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Stranger Things series finale trailer is here",
+      "summary": "Netflix's finale will also have a two-day theatrical release to more than 600 locations.",
+      "link": "https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/",
+      "published": "Tue, 30 Dec 2025 19:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2025-12-31T00:57:24.629157"
     },
     {
       "source": "wired",
@@ -264,7 +266,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.345132"
+      "crawled_at": "2025-12-31T00:57:24.774363"
     },
     {
       "source": "wired",
@@ -276,7 +278,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.345198"
+      "crawled_at": "2025-12-31T00:57:24.774409"
     },
     {
       "source": "wired",
@@ -289,7 +291,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.345231"
+      "crawled_at": "2025-12-31T00:57:24.774440"
     },
     {
       "source": "wired",
@@ -302,7 +304,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.345258"
+      "crawled_at": "2025-12-31T00:57:24.774466"
     },
     {
       "source": "wired",
@@ -314,7 +316,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-30T18:17:56.345292"
+      "crawled_at": "2025-12-31T00:57:24.774499"
     }
   ]
 }
