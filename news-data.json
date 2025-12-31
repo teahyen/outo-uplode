@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-12-31T00:57:24.774573",
+  "last_updated": "2025-12-31T06:19:23.044499",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The phone is dead. Long live . . . what exactly?",
+      "summary": "\"We're not going to be using iPhones in 10 years,\" Callaghan says flatly. \"I kind of don't think we'll be using them in five years.\"",
+      "link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
+      "published": "Wed, 31 Dec 2025 05:37:03 +0000",
+      "keywords": [
+        "Go",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2025-12-31T06:19:21.939539"
+    },
     {
       "source": "techcrunch",
       "title": "Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025",
@@ -10,7 +24,7 @@
       "published": "Tue, 30 Dec 2025 18:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:23.880883"
+      "crawled_at": "2025-12-31T06:19:21.939599"
     },
     {
       "source": "techcrunch",
@@ -22,7 +36,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:23.880930"
+      "crawled_at": "2025-12-31T06:19:21.939640"
     },
     {
       "source": "techcrunch",
@@ -35,7 +49,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:23.880954"
+      "crawled_at": "2025-12-31T06:19:21.939663"
     },
     {
       "source": "techcrunch",
@@ -49,20 +63,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:23.880984"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The top 26 consumer/edtech companies from Disrupt Startup Battlefield",
-      "summary": "Here is the full list of the consumer/edtech Startup Battlefield 200 selectees, along with a note on what made us select them for the competition.",
-      "link": "https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/",
-      "published": "Tue, 30 Dec 2025 15:00:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2025-12-31T00:57:23.881017"
+      "crawled_at": "2025-12-31T06:19:21.939694"
     },
     {
       "source": "theverge",
@@ -77,7 +78,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-31T00:57:23.989360"
+      "crawled_at": "2025-12-31T06:19:22.134882"
     },
     {
       "source": "theverge",
@@ -90,7 +91,7 @@
         "Gaming"
       ],
       "category": "Hardware",
-      "crawled_at": "2025-12-31T00:57:23.989416"
+      "crawled_at": "2025-12-31T06:19:22.134938"
     },
     {
       "source": "theverge",
@@ -102,7 +103,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:23.989465"
+      "crawled_at": "2025-12-31T06:19:22.134987"
     },
     {
       "source": "theverge",
@@ -117,7 +118,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:23.989509"
+      "crawled_at": "2025-12-31T06:19:22.135030"
     },
     {
       "source": "theverge",
@@ -131,48 +132,66 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2025-12-31T00:57:23.989544"
+      "crawled_at": "2025-12-31T06:19:22.135065"
     },
     {
       "source": "hackernews",
-      "title": "Honey's Dieselgate: Detecting and Tricking Testers",
-      "summary": "Article URL: https://www.benedelman.org/honey-detecting-testers/\nComments URL: https://news.ycombinator.com/item?id=46439369\nPoints: 6\n# Comments: 1",
-      "link": "https://www.benedelman.org/honey-detecting-testers/",
-      "published": "Tue, 30 Dec 2025 23:21:50 +0000",
+      "title": "Google Opal",
+      "summary": "Article URL: https://opal.google/landing/\nComments URL: https://news.ycombinator.com/item?id=46441068\nPoints: 51\n# Comments: 27",
+      "link": "https://opal.google/landing/",
+      "published": "Wed, 31 Dec 2025 03:49:58 +0000",
       "keywords": [
+        "Go",
+        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.431406"
+      "crawled_at": "2025-12-31T06:19:22.674200"
     },
     {
       "source": "hackernews",
-      "title": "Project ideas to appreciate the art of programming",
-      "summary": "Article URL: https://codecrafters.io/blog/programming-project-ideas\nComments URL: https://news.ycombinator.com/item?id=46439027\nPoints: 65\n# Comments: 17",
-      "link": "https://codecrafters.io/blog/programming-project-ideas",
-      "published": "Tue, 30 Dec 2025 22:47:36 +0000",
+      "title": "LLVM AI tool policy: human in the loop",
+      "summary": "Article URL: https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159\nComments URL: https://news.ycombinator.com/item?id=46440833\nPoints: 155\n# Comments: 73",
+      "link": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+      "published": "Wed, 31 Dec 2025 03:06:07 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2025-12-31T00:57:24.431443"
+      "category": "AI/ML",
+      "crawled_at": "2025-12-31T06:19:22.674251"
     },
     {
       "source": "hackernews",
-      "title": "NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives",
-      "summary": "Article URL: https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/\nComments URL: https://news.ycombinator.com/item?id=46438828\nPoints: 176\n# Comments: 128",
-      "link": "https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/",
-      "published": "Tue, 30 Dec 2025 22:28:16 +0000",
+      "title": "L1TF Reloaded",
+      "summary": "Article URL: https://github.com/ThijsRay/l1tf_reloaded\nComments URL: https://news.ycombinator.com/item?id=46440695\nPoints: 17\n# Comments: 0",
+      "link": "https://github.com/ThijsRay/l1tf_reloaded",
+      "published": "Wed, 31 Dec 2025 02:33:50 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.431493"
+      "crawled_at": "2025-12-31T06:19:22.674286"
+    },
+    {
+      "source": "hackernews",
+      "title": "Readings in Database Systems (5th Edition)",
+      "summary": "Article URL: http://www.redbook.io/\nComments URL: https://news.ycombinator.com/item?id=46440510\nPoints: 48\n# Comments: 2",
+      "link": "http://www.redbook.io/",
+      "published": "Wed, 31 Dec 2025 02:01:53 +0000",
+      "keywords": [
+        "Database",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2025-12-31T06:19:22.674317"
     },
     {
       "source": "hackernews",
       "title": "Honey's Dieselgate: Detecting and tricking testers",
-      "summary": "Article URL: https://vptdigital.com/blog/honey-detecting-testers/\nComments URL: https://news.ycombinator.com/item?id=46438522\nPoints: 77\n# Comments: 17",
+      "summary": "Article URL: https://vptdigital.com/blog/honey-detecting-testers/\nComments URL: https://news.ycombinator.com/item?id=46438522\nPoints: 171\n# Comments: 48",
       "link": "https://vptdigital.com/blog/honey-detecting-testers/",
       "published": "Tue, 30 Dec 2025 21:59:35 +0000",
       "keywords": [
@@ -180,21 +199,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.431529"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-      "summary": "Article URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026\nComments URL: https://news.ycombinator.com/item?id=46438390\nPoints: 120\n# Comments: 147",
-      "link": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-      "published": "Tue, 30 Dec 2025 21:44:07 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:24.431559"
+      "crawled_at": "2025-12-31T06:19:22.674352"
     },
     {
       "source": "arstechnica",
@@ -207,7 +212,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:24.629033"
+      "crawled_at": "2025-12-31T06:19:22.865039"
     },
     {
       "source": "arstechnica",
@@ -220,7 +225,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-31T00:57:24.629065"
+      "crawled_at": "2025-12-31T06:19:22.865071"
     },
     {
       "source": "arstechnica",
@@ -230,7 +235,7 @@
       "published": "Tue, 30 Dec 2025 20:30:01 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.629100"
+      "crawled_at": "2025-12-31T06:19:22.865106"
     },
     {
       "source": "arstechnica",
@@ -242,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.629136"
+      "crawled_at": "2025-12-31T06:19:22.865142"
     },
     {
       "source": "arstechnica",
@@ -254,7 +259,33 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T00:57:24.629157"
+      "crawled_at": "2025-12-31T06:19:22.865163"
+    },
+    {
+      "source": "wired",
+      "title": "Walmart Promo Codes and Coupons: Up to 65% Off",
+      "summary": "Score $10 off with our Walmart coupon and shop flash deals up to 65% off today.",
+      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "published": "Wed, 31 Dec 2025 06:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-31T06:19:23.044286"
+    },
+    {
+      "source": "wired",
+      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "Wed, 31 Dec 2025 06:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2025-12-31T06:19:23.044319"
     },
     {
       "source": "wired",
@@ -266,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.774363"
+      "crawled_at": "2025-12-31T06:19:23.044360"
     },
     {
       "source": "wired",
@@ -278,7 +309,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.774409"
+      "crawled_at": "2025-12-31T06:19:23.044401"
     },
     {
       "source": "wired",
@@ -291,32 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.774440"
-    },
-    {
-      "source": "wired",
-      "title": "Tips for Keeping a Digital Diary and Why You Should",
-      "summary": "After 10 years of journaling, my only regret is not starting sooner.",
-      "link": "https://www.wired.com/story/tips-for-keeping-a-digital-diary/",
-      "published": "Tue, 30 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.774466"
-    },
-    {
-      "source": "wired",
-      "title": "The Great Big Power Play",
-      "summary": "US support for nuclear energy is soaring. Meanwhile, coal plants are on their way out and electricity-sucking data centers are meeting huge pushback. Welcome to the next front in the energy battle.",
-      "link": "https://www.wired.com/story/expired-tired-wired-nuclear-plants/",
-      "published": "Tue, 30 Dec 2025 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T00:57:24.774499"
+      "crawled_at": "2025-12-31T06:19:23.044428"
     }
   ]
 }
