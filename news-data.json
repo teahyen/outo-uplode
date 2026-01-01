@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31T18:16:53.900512",
+  "last_updated": "2026-01-01T01:02:21.076744",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:52.964236"
+      "crawled_at": "2026-01-01T01:02:20.429645"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:52.964269"
+      "crawled_at": "2026-01-01T01:02:20.429679"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:52.964307"
+      "crawled_at": "2026-01-01T01:02:20.429718"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:52.964331"
+      "crawled_at": "2026-01-01T01:02:20.429741"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,20 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2025-12-31T18:16:52.964364"
+      "crawled_at": "2026-01-01T01:02:20.429789"
+    },
+    {
+      "source": "theverge",
+      "title": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+      "summary": "Instagram boss Adam Mosseri is closing out 2025 with a 20-images-deep dive into what a new era of \"infinite synthetic content\" means as it all becomes harder and harder to distinguish from reality, and the old, more personal Instagram feed that he says has been \"dead\" for years. Last year, The Verge",
+      "link": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
+      "published": "2025-12-31T17:54:10-05:00",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-01T01:02:20.590883"
     },
     {
       "source": "theverge",
@@ -80,7 +93,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.048507"
+      "crawled_at": "2026-01-01T01:02:20.590946"
     },
     {
       "source": "theverge",
@@ -96,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.048557"
+      "crawled_at": "2026-01-01T01:02:20.590988"
     },
     {
       "source": "theverge",
@@ -110,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.048594"
+      "crawled_at": "2026-01-01T01:02:20.591025"
     },
     {
       "source": "theverge",
@@ -123,83 +136,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.048658"
-    },
-    {
-      "source": "theverge",
-      "title": "The 11 best Nintendo Switch 2 games we played in 2025",
-      "summary": "2025 was a big year for gaming, and that includes gaming hardware. Nintendo launched its Switch 2 console in June, and since then, numerous Switch 2 titles and noteworthy updates for original Switch games have launched. These include brand-new Nintendo experiences like Mario Kart World and Donkey Ko",
-      "link": "https://www.theverge.com/games/845401/nintendo-switch-2-best-games",
-      "published": "2025-12-31T08:00:00-05:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2025-12-31T18:16:53.048704"
+      "crawled_at": "2026-01-01T01:02:20.591074"
     },
     {
       "source": "hackernews",
-      "title": "The Economics of Duke University",
-      "summary": "Article URL: https://dontaylor13.substack.com/p/duke-university\nComments URL: https://news.ycombinator.com/item?id=46446017\nPoints: 20\n# Comments: 2",
-      "link": "https://dontaylor13.substack.com/p/duke-university",
-      "published": "Wed, 31 Dec 2025 17:11:56 +0000",
+      "title": "The Delete Act",
+      "summary": "Article URL: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/\nComments URL: https://news.ycombinator.com/item?id=46449694\nPoints: 48\n# Comments: 16",
+      "link": "https://privacy.ca.gov/drop/about-drop-and-the-delete-act/",
+      "published": "Thu, 01 Jan 2026 00:02:14 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-01T01:02:20.836771"
+    },
+    {
+      "source": "hackernews",
+      "title": "2025: The Year in LLMs",
+      "summary": "Article URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/\nComments URL: https://news.ycombinator.com/item?id=46449643\nPoints: 7\n# Comments: 1",
+      "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+      "published": "Wed, 31 Dec 2025 23:54:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-01T01:02:20.836823"
+    },
+    {
+      "source": "hackernews",
+      "title": "Resistance training load does not determine hypertrophy",
+      "summary": "Article URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684\nComments URL: https://news.ycombinator.com/item?id=46448998\nPoints: 38\n# Comments: 26",
+      "link": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+      "published": "Wed, 31 Dec 2025 22:25:58 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-01T01:02:20.836853"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+      "summary": "Article URL: https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases\nComments URL: https://news.ycombinator.com/item?id=46448894\nPoints: 34\n# Comments: 1",
+      "link": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+      "published": "Wed, 31 Dec 2025 22:11:33 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-01T01:02:20.836889"
+    },
+    {
+      "source": "hackernews",
+      "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+      "summary": "Article URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades\nComments URL: https://news.ycombinator.com/item?id=46448705\nPoints: 297\n# Comments: 151",
+      "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+      "published": "Wed, 31 Dec 2025 21:44:42 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.665037"
-    },
-    {
-      "source": "hackernews",
-      "title": "SigNoz (YC W21, open source observability platform) Is Hiring across roles",
-      "summary": "Article URL: https://signoz.io/careers\nComments URL: https://news.ycombinator.com/item?id=46445905\nPoints: 0\n# Comments: 0",
-      "link": "https://signoz.io/careers",
-      "published": "Wed, 31 Dec 2025 17:00:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.665080"
-    },
-    {
-      "source": "hackernews",
-      "title": "2026: The Year of Java in the Terminal?",
-      "summary": "Article URL: https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/\nComments URL: https://news.ycombinator.com/item?id=46445229\nPoints: 51\n# Comments: 69",
-      "link": "https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/",
-      "published": "Wed, 31 Dec 2025 15:55:14 +0000",
-      "keywords": [
-        "Java",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.665116"
-    },
-    {
-      "source": "hackernews",
-      "title": "Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris",
-      "summary": "Article URL: https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/\nComments URL: https://news.ycombinator.com/item?id=46445195\nPoints: 64\n# Comments: 10",
-      "link": "https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/",
-      "published": "Wed, 31 Dec 2025 15:52:51 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.665153"
-    },
-    {
-      "source": "hackernews",
-      "title": "The compiler is your best friend",
-      "summary": "Article URL: https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it\nComments URL: https://news.ycombinator.com/item?id=46445131\nPoints: 42\n# Comments: 20",
-      "link": "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it",
-      "published": "Wed, 31 Dec 2025 15:46:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2025-12-31T18:16:53.665189"
+      "crawled_at": "2026-01-01T01:02:20.836934"
     },
     {
       "source": "arstechnica",
@@ -212,7 +212,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.815186"
+      "crawled_at": "2026-01-01T01:02:20.960956"
     },
     {
       "source": "arstechnica",
@@ -227,7 +227,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.815216"
+      "crawled_at": "2026-01-01T01:02:20.960985"
     },
     {
       "source": "arstechnica",
@@ -240,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.815239"
+      "crawled_at": "2026-01-01T01:02:20.961008"
     },
     {
       "source": "arstechnica",
@@ -253,7 +253,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.815268"
+      "crawled_at": "2026-01-01T01:02:20.961038"
     },
     {
       "source": "arstechnica",
@@ -266,7 +266,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2025-12-31T18:16:53.815292"
+      "crawled_at": "2026-01-01T01:02:20.961062"
     },
     {
       "source": "wired",
@@ -278,7 +278,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.900311"
+      "crawled_at": "2026-01-01T01:02:21.076512"
     },
     {
       "source": "wired",
@@ -291,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.900342"
+      "crawled_at": "2026-01-01T01:02:21.076549"
     },
     {
       "source": "wired",
@@ -304,7 +304,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.900367"
+      "crawled_at": "2026-01-01T01:02:21.076574"
     },
     {
       "source": "wired",
@@ -320,7 +320,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2025-12-31T18:16:53.900408"
+      "crawled_at": "2026-01-01T01:02:21.076614"
     },
     {
       "source": "wired",
@@ -333,7 +333,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2025-12-31T18:16:53.900432"
+      "crawled_at": "2026-01-01T01:02:21.076655"
     }
   ]
 }
