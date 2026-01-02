@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02T00:57:00.964433",
+  "last_updated": "2026-01-02T06:19:26.339374",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-02T00:57:00.085131"
+      "crawled_at": "2026-01-02T06:19:25.613984"
     },
     {
       "source": "techcrunch",
@@ -23,7 +23,7 @@
       "published": "Thu, 01 Jan 2026 21:02:13 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.085201"
+      "crawled_at": "2026-01-02T06:19:25.614056"
     },
     {
       "source": "techcrunch",
@@ -36,7 +36,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.085227"
+      "crawled_at": "2026-01-02T06:19:25.614082"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.085253"
+      "crawled_at": "2026-01-02T06:19:25.614108"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.085279"
+      "crawled_at": "2026-01-02T06:19:25.614151"
     },
     {
       "source": "theverge",
@@ -77,7 +77,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.255609"
+      "crawled_at": "2026-01-02T06:19:25.767603"
     },
     {
       "source": "theverge",
@@ -91,7 +91,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.255649"
+      "crawled_at": "2026-01-02T06:19:25.767643"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.255681"
+      "crawled_at": "2026-01-02T06:19:25.767675"
     },
     {
       "source": "theverge",
@@ -119,7 +119,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-02T00:57:00.255727"
+      "crawled_at": "2026-01-02T06:19:25.767720"
     },
     {
       "source": "theverge",
@@ -131,70 +131,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.255795"
+      "crawled_at": "2026-01-02T06:19:25.767776"
     },
     {
       "source": "hackernews",
-      "title": "Why Prefer Textfiles? (2010)",
-      "summary": "Article URL: http://textfiles.com/uploads/textfiles.txt\nComments URL: https://news.ycombinator.com/item?id=46459425\nPoints: 4\n# Comments: 1",
-      "link": "http://textfiles.com/uploads/textfiles.txt",
-      "published": "Thu, 01 Jan 2026 23:33:09 +0000",
+      "title": "A confession from a mainstream food delivery app engineer",
+      "summary": "Article URL: https://www.reddit.com/r/confession/s/gbrh2zxeou\nComments URL: https://news.ycombinator.com/item?id=46461578\nPoints: 83\n# Comments: 20",
+      "link": "https://www.reddit.com/r/confession/s/gbrh2zxeou",
+      "published": "Fri, 02 Jan 2026 05:00:25 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.662878"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-02T06:19:26.093741"
     },
     {
       "source": "hackernews",
-      "title": "WebAssembly as a Python Extension Platform",
-      "summary": "Article URL: https://nullprogram.com/blog/2026/01/01/\nComments URL: https://news.ycombinator.com/item?id=46458624\nPoints: 20\n# Comments: 0",
-      "link": "https://nullprogram.com/blog/2026/01/01/",
-      "published": "Thu, 01 Jan 2026 22:09:16 +0000",
+      "title": "I'm a developer for a major food delivery app",
+      "summary": "Article URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/\nComments URL: https://news.ycombinator.com/item?id=46461563\nPoints: 114\n# Comments: 45",
+      "link": "https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/",
+      "published": "Fri, 02 Jan 2026 04:57:25 +0000",
       "keywords": [
-        "Python",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-02T00:57:00.662913"
+      "crawled_at": "2026-01-02T06:19:26.093781"
     },
     {
       "source": "hackernews",
-      "title": "Can Bundler be as fast as uv?",
-      "summary": "Article URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/\nComments URL: https://news.ycombinator.com/item?id=46458302\nPoints: 105\n# Comments: 45",
-      "link": "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/",
-      "published": "Thu, 01 Jan 2026 21:37:10 +0000",
+      "title": "Marmot – A distributed SQLite server with MySQL wire compatible interface",
+      "summary": "Article URL: https://github.com/maxpert/marmot\nComments URL: https://news.ycombinator.com/item?id=46460676\nPoints: 56\n# Comments: 7",
+      "link": "https://github.com/maxpert/marmot",
+      "published": "Fri, 02 Jan 2026 02:21:57 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.662947"
-    },
-    {
-      "source": "hackernews",
-      "title": "A silly diffuse shading model",
-      "summary": "Article URL: https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html\nComments URL: https://news.ycombinator.com/item?id=46458194\nPoints: 19\n# Comments: 2",
-      "link": "https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html",
-      "published": "Thu, 01 Jan 2026 21:26:49 +0000",
-      "keywords": [
+        "SQL",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.662981"
+      "crawled_at": "2026-01-02T06:19:26.093827"
     },
     {
       "source": "hackernews",
-      "title": "Straussian Memes",
-      "summary": "Article URL: https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion\nComments URL: https://news.ycombinator.com/item?id=46458165\nPoints: 15\n# Comments: 21",
-      "link": "https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion",
-      "published": "Thu, 01 Jan 2026 21:24:39 +0000",
+      "title": "Happy Public Domain Day 2026",
+      "summary": "Article URL: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/\nComments URL: https://news.ycombinator.com/item?id=46460440\nPoints: 176\n# Comments: 32",
+      "link": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "published": "Fri, 02 Jan 2026 01:42:16 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-02T06:19:26.093853"
+    },
+    {
+      "source": "hackernews",
+      "title": "Extensibility: The \"100% Lisp\" Fallacy",
+      "summary": "Article URL: https://kyo.iroiro.party/en/posts/100-percent-lisp/\nComments URL: https://news.ycombinator.com/item?id=46460394\nPoints: 36\n# Comments: 5",
+      "link": "https://kyo.iroiro.party/en/posts/100-percent-lisp/",
+      "published": "Fri, 02 Jan 2026 01:36:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.663017"
+      "crawled_at": "2026-01-02T06:19:26.093885"
     },
     {
       "source": "arstechnica",
@@ -207,7 +209,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.790889"
+      "crawled_at": "2026-01-02T06:19:26.216939"
     },
     {
       "source": "arstechnica",
@@ -219,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.790925"
+      "crawled_at": "2026-01-02T06:19:26.216976"
     },
     {
       "source": "arstechnica",
@@ -229,7 +231,7 @@
       "published": "Thu, 01 Jan 2026 13:00:18 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.790962"
+      "crawled_at": "2026-01-02T06:19:26.217014"
     },
     {
       "source": "arstechnica",
@@ -241,7 +243,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.790992"
+      "crawled_at": "2026-01-02T06:19:26.217043"
     },
     {
       "source": "arstechnica",
@@ -254,7 +256,29 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.791013"
+      "crawled_at": "2026-01-02T06:19:26.217064"
+    },
+    {
+      "source": "wired",
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "link": "https://www.wired.com/story/legalzoom-promo-code/",
+      "published": "Fri, 02 Jan 2026 06:10:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-01-02T06:19:26.339166"
+    },
+    {
+      "source": "wired",
+      "title": "60% HP Discount Codes & Coupons January 2026",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "published": "Fri, 02 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-02T06:19:26.339195"
     },
     {
       "source": "wired",
@@ -266,7 +290,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.964220"
+      "crawled_at": "2026-01-02T06:19:26.339238"
     },
     {
       "source": "wired",
@@ -278,7 +302,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.964261"
+      "crawled_at": "2026-01-02T06:19:26.339273"
     },
     {
       "source": "wired",
@@ -290,32 +314,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.964296"
-    },
-    {
-      "source": "wired",
-      "title": "AI Labor Is Boring. AI Lust Is Big Business",
-      "summary": "After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI’s narrative.",
-      "link": "https://www.wired.com/story/expired-tired-wired-sexy-chatbots/",
-      "published": "Thu, 01 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-02T00:57:00.964324"
-    },
-    {
-      "source": "wired",
-      "title": "I Tested Popular Functional Coffee Add-Ins for a Week Each (2026)",
-      "summary": "Our reviewer optimized his morning cup of coffee with creamer substitutes that promise health benefits and mental clarity.",
-      "link": "https://www.wired.com/gallery/best-functional-coffee-add-ins/",
-      "published": "Thu, 01 Jan 2026 10:34:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-02T00:57:00.964356"
+      "crawled_at": "2026-01-02T06:19:26.339305"
     }
   ]
 }
