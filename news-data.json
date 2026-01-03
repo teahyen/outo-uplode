@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T06:17:54.141410",
+  "last_updated": "2026-01-03T12:20:36.261535",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.210376"
+      "crawled_at": "2026-01-03T12:20:35.270659"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-03T06:17:53.210417"
+      "crawled_at": "2026-01-03T12:20:35.270701"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.210465"
+      "crawled_at": "2026-01-03T12:20:35.270746"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.210497"
+      "crawled_at": "2026-01-03T12:20:35.270778"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-01-03T06:17:53.210534"
+      "crawled_at": "2026-01-03T12:20:35.270814"
     },
     {
       "source": "theverge",
@@ -78,7 +78,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.325035"
+      "crawled_at": "2026-01-03T12:20:35.379531"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.325083"
+      "crawled_at": "2026-01-03T12:20:35.379578"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.325124"
+      "crawled_at": "2026-01-03T12:20:35.379618"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-03T06:17:53.325159"
+      "crawled_at": "2026-01-03T12:20:35.379653"
     },
     {
       "source": "theverge",
@@ -130,12 +130,50 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.325217"
+      "crawled_at": "2026-01-03T12:20:35.379710"
+    },
+    {
+      "source": "hackernews",
+      "title": "Not for Human Consumption",
+      "summary": "Article URL: https://vectorculture.substack.com/p/not-for-human-consumption\nComments URL: https://news.ycombinator.com/item?id=46475376\nPoints: 21\n# Comments: 4",
+      "link": "https://vectorculture.substack.com/p/not-for-human-consumption",
+      "published": "Sat, 03 Jan 2026 11:26:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-03T12:20:35.929148"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tally – A tool to help agents classify your bank transactions",
+      "summary": "Article URL: https://tallyai.money/\nComments URL: https://news.ycombinator.com/item?id=46475218\nPoints: 15\n# Comments: 10",
+      "link": "https://tallyai.money/",
+      "published": "Sat, 03 Jan 2026 11:02:33 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-03T12:20:35.929189"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: uvx ptn, scan a QR, get a terminal in your phone",
+      "summary": "Scan QR → web terminal → vibe coding in bed.\nMobile-first terminal via Cloudflare Quick Tunnel. No port forwarding. Feedback welcome.\n\nComments URL: https://news.ycombinator.com/item?id=46472772\nPoints: 29\n# Comments: 6",
+      "link": "https://github.com/lyehe/porterminal",
+      "published": "Sat, 03 Jan 2026 04:22:29 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-03T12:20:35.929231"
     },
     {
       "source": "hackernews",
       "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
-      "summary": "Article URL: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf\nComments URL: https://news.ycombinator.com/item?id=46472667\nPoints: 16\n# Comments: 6",
+      "summary": "Article URL: https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf\nComments URL: https://news.ycombinator.com/item?id=46472667\nPoints: 95\n# Comments: 29",
       "link": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
       "published": "Sat, 03 Jan 2026 04:01:03 +0000",
       "keywords": [
@@ -146,55 +184,19 @@
         "GitHub"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.876498"
+      "crawled_at": "2026-01-03T12:20:35.929264"
     },
     {
       "source": "hackernews",
       "title": "Adventure 751 (1980)",
-      "summary": "Article URL: https://bluerenga.blog/2026/01/01/adventure-751-1980/\nComments URL: https://news.ycombinator.com/item?id=46472230\nPoints: 23\n# Comments: 2",
+      "summary": "Article URL: https://bluerenga.blog/2026/01/01/adventure-751-1980/\nComments URL: https://news.ycombinator.com/item?id=46472230\nPoints: 34\n# Comments: 3",
       "link": "https://bluerenga.blog/2026/01/01/adventure-751-1980/",
       "published": "Sat, 03 Jan 2026 02:38:06 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.876539"
-    },
-    {
-      "source": "hackernews",
-      "title": "Einstein Probe detects an X-ray flare from nearby star",
-      "summary": "Article URL: https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html\nComments URL: https://news.ycombinator.com/item?id=46471784\nPoints: 23\n# Comments: 3",
-      "link": "https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html",
-      "published": "Sat, 03 Jan 2026 01:29:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.876577"
-    },
-    {
-      "source": "hackernews",
-      "title": "A Basic Just-In-Time Compiler (2015)",
-      "summary": "Article URL: https://nullprogram.com/blog/2015/03/19/\nComments URL: https://news.ycombinator.com/item?id=46471712\nPoints: 45\n# Comments: 8",
-      "link": "https://nullprogram.com/blog/2015/03/19/",
-      "published": "Sat, 03 Jan 2026 01:18:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.876608"
-    },
-    {
-      "source": "hackernews",
-      "title": "Proving Liveness with TLA",
-      "summary": "Article URL: https://roscidus.com/blog/blog/2026/01/01/tla-liveness/\nComments URL: https://news.ycombinator.com/item?id=46471699\nPoints: 28\n# Comments: 1",
-      "link": "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/",
-      "published": "Sat, 03 Jan 2026 01:15:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.876659"
+      "crawled_at": "2026-01-03T12:20:35.929295"
     },
     {
       "source": "arstechnica",
@@ -206,7 +208,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.999621"
+      "crawled_at": "2026-01-03T12:20:36.169588"
     },
     {
       "source": "arstechnica",
@@ -218,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.999673"
+      "crawled_at": "2026-01-03T12:20:36.169629"
     },
     {
       "source": "arstechnica",
@@ -232,7 +234,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-03T06:17:53.999697"
+      "crawled_at": "2026-01-03T12:20:36.169653"
     },
     {
       "source": "arstechnica",
@@ -244,7 +246,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-03T06:17:53.999730"
+      "crawled_at": "2026-01-03T12:20:36.169685"
     },
     {
       "source": "arstechnica",
@@ -256,68 +258,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:53.999767"
+      "crawled_at": "2026-01-03T12:20:36.169721"
     },
     {
       "source": "wired",
-      "title": "OnePlus Promo Code: $70 Off | January 2026",
-      "summary": "Save 30% with a OnePlus coupon this month, plus save up to 10% on earbuds, phones, and more.",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "published": "Sat, 03 Jan 2026 06:10:00 +0000",
+      "title": "Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App",
+      "summary": "It’s called Handy, and it uses AI models to accurately convert your speaking voice into text—all for free.",
+      "link": "https://www.wired.com/story/handy-free-speech-to-text-app/",
+      "published": "Sat, 03 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-03T12:20:36.261331"
+    },
+    {
+      "source": "wired",
+      "title": "Blood Feud: Oura’s Health Panels Versus Whoop’s Advanced Labs",
+      "summary": "It’s easier than ever to order your own blood draws, but direct-access testing won’t replace a doctor.",
+      "link": "https://www.wired.com/story/oura-whoop-blood-labs/",
+      "published": "Sat, 03 Jan 2026 11:09:00 +0000",
+      "keywords": [
+        "AWS"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-03T12:20:36.261368"
+    },
+    {
+      "source": "wired",
+      "title": "How to Manage Files on iOS and Android",
+      "summary": "You have more access to your phone’s file system than you may think.",
+      "link": "https://www.wired.com/story/how-to-manage-files-on-ios-and-android/",
+      "published": "Sat, 03 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "Android",
+        "iOS"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-03T12:20:36.261397"
+    },
+    {
+      "source": "wired",
+      "title": "13 Best Fitness and Workout Apps for 2026, Tested & Reviewed",
+      "summary": "These fitness apps will help you turn New Year's resolutions into real results.",
+      "link": "https://www.wired.com/gallery/best-fitness-workout-apps/",
+      "published": "Sat, 03 Jan 2026 10:30:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-01-03T06:17:54.141181"
+      "category": "Mobile",
+      "crawled_at": "2026-01-03T12:20:36.261425"
     },
     {
       "source": "wired",
-      "title": "Surfshark Promo Codes: 87% Off | January 2026",
-      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more January 2026 discounts from WIRED.",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
-      "published": "Sat, 03 Jan 2026 06:00:00 +0000",
+      "title": "How to Protect Your iPhone or Android Device From Spyware",
+      "summary": "Being targeted by sophisticated spyware is relatively rare, but experts say that everyone needs to stay vigilant as this dangerous malware continues to proliferate worldwide.",
+      "link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
+      "published": "Sat, 03 Jan 2026 10:00:00 +0000",
       "keywords": [
+        "iPhone",
+        "Android",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-01-03T06:17:54.141212"
-    },
-    {
-      "source": "wired",
-      "title": "Tesla Loses Its EV Crown to BYD as Sales Keep Dropping",
-      "summary": "Full-year electric vehicle sales figures have dropped for 2025, revealing China’s BYD is now officially global top dog.",
-      "link": "https://www.wired.com/story/byd-trounces-tesla-in-ev-sales-for-the-first-time/",
-      "published": "Fri, 02 Jan 2026 14:54:34 +0000",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:54.141260"
-    },
-    {
-      "source": "wired",
-      "title": "Welcome to the Future of Noise Canceling",
-      "summary": "The next generation of noise reduction is currently being developed in R&amp;D labs around the world. Take a look at what's to come.",
-      "link": "https://www.wired.com/story/welcome-to-the-future-of-noise-canceling/",
-      "published": "Fri, 02 Jan 2026 12:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:54.141290"
-    },
-    {
-      "source": "wired",
-      "title": "Best Running Shoes, Tested and Reviewed (2026): Saucony, Nike, Hoka",
-      "summary": "We clocked thousands of test miles to bring you the best running shoes for every pace, ability, and running goal.",
-      "link": "https://www.wired.com/gallery/best-running-shoes/",
-      "published": "Fri, 02 Jan 2026 12:00:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-03T06:17:54.141321"
+      "category": "Mobile",
+      "crawled_at": "2026-01-03T12:20:36.261456"
     }
   ]
 }
