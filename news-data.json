@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-06T06:19:32.022129",
+  "last_updated": "2026-01-06T12:23:40.995634",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry",
+      "summary": "Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.",
+      "link": "https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/",
+      "published": "Tue, 06 Jan 2026 07:18:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T12:23:40.155562"
+    },
     {
       "source": "techcrunch",
       "title": "AMD unveils new AI PC processors for general use and gaming at CES",
@@ -14,7 +27,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.308457"
+      "crawled_at": "2026-01-06T12:23:40.155611"
     },
     {
       "source": "techcrunch",
@@ -26,7 +39,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.308494"
+      "crawled_at": "2026-01-06T12:23:40.155642"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.308528"
+      "crawled_at": "2026-01-06T12:23:40.155674"
     },
     {
       "source": "techcrunch",
@@ -51,101 +64,124 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.308567"
+      "crawled_at": "2026-01-06T12:23:40.155714"
     },
     {
-      "source": "techcrunch",
-      "title": "Nvidia wants to be the Android of generalist robotics",
-      "summary": "Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.",
-      "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
-      "published": "Mon, 05 Jan 2026 23:00:00 +0000",
+      "source": "theverge",
+      "title": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot",
+      "summary": "Microsoft has got the internet confused, again. Over the past couple of days posts on Reddit, Hacker News, and X have claimed Microsoft has rebranded Microsoft Office to Microsoft 365 Copilot. As much as Microsoft loves to shove its Copilot branding everywhere, Office hasn't been renamed to \"Microso",
+      "link": "https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot",
+      "published": "2026-01-06T05:48:29-05:00",
       "keywords": [
-        "Android",
+        "AI",
+        "Go",
+        "Hack",
+        "Microsoft"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T12:23:40.291695"
+    },
+    {
+      "source": "theverge",
+      "title": "Is this the folding iPhone&#8217;s creaseless display?",
+      "summary": "Samsung Display showcased a new foldable OLED panel at CES that doesn't have a visible crease - something that currently blights every foldable phone on the market. This could be our first look at the panel used in the next generation of Samsung's Galaxy foldables and even the folding iPhone, given ",
+      "link": "https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces",
+      "published": "2026-01-06T04:25:15-05:00",
+      "keywords": [
+        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-06T06:19:31.308614"
+      "crawled_at": "2026-01-06T12:23:40.291747"
     },
     {
       "source": "theverge",
-      "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
-      "summary": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV devices, alongside flight control support ",
-      "link": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
-      "published": "2026-01-06T00:22:13-05:00",
+      "title": "This free feature helps make stolen Bosch e-bikes unsellable",
+      "summary": "Stolen electric bikes built around Bosch motors will be harder to sell, service, and ride at the end of January. That's when Bosch is rolling a new digital theft feature that lets owners mark the bike as stolen in the Bosch Flow app - no subscription required. Bosch rolled out a similar feature for ",
+      "link": "https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable",
+      "published": "2026-01-06T03:57:59-05:00",
       "keywords": [
-        "Amazon",
-        "Linux",
-        "Cloud",
-        "Gaming"
+        "Git",
+        "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-06T06:19:31.414281"
+      "category": "Mobile",
+      "crawled_at": "2026-01-06T12:23:40.291789"
     },
     {
       "source": "theverge",
-      "title": "Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop",
-      "summary": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measures the brightness and color temperature of",
-      "link": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
-      "published": "2026-01-06T00:12:18-05:00",
+      "title": "These open-ear buds actually have decent noise reduction",
+      "summary": "My biggest gripe about open-ear buds is that they're rotten for loud city commutes. Cue a pedantic audiophile pointing out that the whole premise of open-ear buds is to not block out sound. Yes, yes. But the unfortunate truth is that often means if you want open-ear buds for one situation, you'll ha",
+      "link": "https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables",
+      "published": "2026-01-06T03:00:00-05:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.414352"
+      "crawled_at": "2026-01-06T12:23:40.291831"
     },
     {
       "source": "theverge",
-      "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
-      "summary": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that uses AI to generate up to five additional f",
-      "link": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
-      "published": "2026-01-06T00:04:55-05:00",
+      "title": "This desktop charger turns your iPhone into a robotic AI assistant",
+      "summary": "CES is packed with AI companions and assistant robots this year, but the DeskMate from Loona is a clever take on the idea: it's a desktop charging hub, with three USB-C ports, one USB-A, and a MagSafe pad, that automatically activates an AI companion app when you attach your iPhone to the wireless c",
+      "link": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
+      "published": "2026-01-06T02:59:19-05:00",
       "keywords": [
         "AI",
-        "Deep Learning",
+        "iPhone",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.414389"
-    },
-    {
-      "source": "theverge",
-      "title": "Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
-      "summary": "A new line of small appliances and devices from IAI Smart, billed as Emerson Smart products, are now available that will let you operate fans, heaters, smart plugs, and air fryers with your voice - with no apps, Wi-Fi, or smart home connection at all. Using the company's SmartVoice technology, the d",
-      "link": "https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces",
-      "published": "2026-01-06T00:01:00-05:00",
-      "keywords": [
-        "AI",
-        "React",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.414430"
-    },
-    {
-      "source": "theverge",
-      "title": "Alienware is working on new slim and cheaper gaming laptops",
-      "summary": "Dell-owned Alienware is looking to reach a wider swath of gamers, announcing at CES 2026 that it's working on two new laptops: one with a lower, entry-level price and one with an ultra-slim chassis. There aren't many details right now, as Alienware is only sharing some basic renders, and the behind-",
-      "link": "https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops",
-      "published": "2026-01-05T22:30:00-05:00",
-      "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.414461"
+      "crawled_at": "2026-01-06T12:23:40.291862"
     },
     {
       "source": "hackernews",
-      "title": "A prediction market user made $436k betting on Maduro's downfall",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cx2gn93292do\nComments URL: https://news.ycombinator.com/item?id=46508582\nPoints: 54\n# Comments: 75",
-      "link": "https://www.bbc.com/news/articles/cx2gn93292do",
-      "published": "Tue, 06 Jan 2026 03:59:19 +0000",
+      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+      "summary": "Article URL: https://www.theregister.com/2026/01/05/aws_price_increase/\nComments URL: https://news.ycombinator.com/item?id=46511153\nPoints: 50\n# Comments: 2",
+      "link": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+      "published": "Tue, 06 Jan 2026 11:42:35 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T12:23:40.691583"
+    },
+    {
+      "source": "hackernews",
+      "title": "SCiZE's Classic Warez Collection",
+      "summary": "Article URL: https://scenelist.org/\nComments URL: https://news.ycombinator.com/item?id=46510625\nPoints: 47\n# Comments: 11",
+      "link": "https://scenelist.org/",
+      "published": "Tue, 06 Jan 2026 10:13:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.750534"
+      "crawled_at": "2026-01-06T12:23:40.691643"
+    },
+    {
+      "source": "hackernews",
+      "title": "enclose.horse",
+      "summary": "Article URL: https://enclose.horse/\nComments URL: https://news.ycombinator.com/item?id=46509211\nPoints: 455\n# Comments: 69",
+      "link": "https://enclose.horse/",
+      "published": "Tue, 06 Jan 2026 06:01:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-06T12:23:40.691674"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Post-American Internet",
+      "summary": "Article URL: https://pluralistic.net/2026/01/01/39c3/\nComments URL: https://news.ycombinator.com/item?id=46509019\nPoints: 332\n# Comments: 182",
+      "link": "https://pluralistic.net/2026/01/01/39c3/",
+      "published": "Tue, 06 Jan 2026 05:20:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-06T12:23:40.691706"
     },
     {
       "source": "hackernews",
@@ -158,43 +194,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.750593"
-    },
-    {
-      "source": "hackernews",
-      "title": "GBC Boot Animation 88×31 Web Button",
-      "summary": "Article URL: https://zakhary.dev/blog/gbc-web-button\nComments URL: https://news.ycombinator.com/item?id=46507963\nPoints: 54\n# Comments: 3",
-      "link": "https://zakhary.dev/blog/gbc-web-button",
-      "published": "Tue, 06 Jan 2026 02:20:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.750630"
-    },
-    {
-      "source": "hackernews",
-      "title": "I/O is no longer the bottleneck? (2022)",
-      "summary": "Article URL: https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html\nComments URL: https://news.ycombinator.com/item?id=46506994\nPoints: 116\n# Comments: 63",
-      "link": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
-      "published": "Tue, 06 Jan 2026 00:02:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.750666"
-    },
-    {
-      "source": "hackernews",
-      "title": "Strange.website",
-      "summary": "Article URL: https://strange.website/\nComments URL: https://news.ycombinator.com/item?id=46506596\nPoints: 92\n# Comments: 28",
-      "link": "https://strange.website/",
-      "published": "Mon, 05 Jan 2026 23:19:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.750694"
+      "crawled_at": "2026-01-06T12:23:40.691746"
     },
     {
       "source": "arstechnica",
@@ -207,7 +207,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.917683"
+      "crawled_at": "2026-01-06T12:23:40.856389"
     },
     {
       "source": "arstechnica",
@@ -220,7 +220,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.917719"
+      "crawled_at": "2026-01-06T12:23:40.856424"
     },
     {
       "source": "arstechnica",
@@ -232,7 +232,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:31.917743"
+      "crawled_at": "2026-01-06T12:23:40.856449"
     },
     {
       "source": "arstechnica",
@@ -244,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.917770"
+      "crawled_at": "2026-01-06T12:23:40.856477"
     },
     {
       "source": "arstechnica",
@@ -254,73 +254,68 @@
       "published": "Mon, 05 Jan 2026 21:42:14 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:31.917805"
+      "crawled_at": "2026-01-06T12:23:40.856511"
     },
     {
       "source": "wired",
-      "title": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’",
-      "summary": "The chip giant says Vera Rubin will sharply cut the cost of training and running AI models, strengthening the appeal of its integrated computing platform.",
-      "link": "https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/",
-      "published": "Mon, 05 Jan 2026 23:05:32 +0000",
+      "title": "Winter Bird Feeding Tips for the Peak of Bird Watching Season (2026)",
+      "summary": "Winter is often the best time for bird-watching at bird feeders—here’s what ornithologists recommend to get the most out of the season.",
+      "link": "https://www.wired.com/story/our-best-tips-for-winter-bird-feeding/",
+      "published": "Tue, 06 Jan 2026 12:07:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-06T12:23:40.995420"
+    },
+    {
+      "source": "wired",
+      "title": "The Newest Health Trend Is Tracking Your Pee",
+      "summary": "Ready, aim, fire—the latest health trackers use sensors to check your urine for proper hydration, ketone levels, and possible kidney stones.",
+      "link": "https://www.wired.com/story/smart-pee-trackers-trend-vivoo-kohler-withings/",
+      "published": "Tue, 06 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T12:23:40.995456"
+    },
+    {
+      "source": "wired",
+      "title": "Margaret Atwood on Doomscrolling: ‘I Want to Keep Up With the Latest Doom’",
+      "summary": "On this week’s episode of The Big Interview, the author of The Handmaid’s Tale talks about Elon Musk, political resistance, and why she still has hope for America’s future.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-margaret-atwood/",
+      "published": "Tue, 06 Jan 2026 11:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:32.021904"
+      "crawled_at": "2026-01-06T12:23:40.995488"
     },
     {
       "source": "wired",
-      "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors",
-      "summary": "Google DeepMind and Boston Dynamics are teaming up to integrate Gemini into a humanoid robot called Atlas.",
-      "link": "https://www.wired.com/story/google-boston-dynamics-gemini-powered-robot-atlas/",
-      "published": "Mon, 05 Jan 2026 21:00:00 +0000",
+      "title": "13 Best Tablets (2026), Tested and Reviewed",
+      "summary": "We’ve tested all the top slates, from Apple’s iPads to Android and Windows devices, and rounded up our favorites.",
+      "link": "https://www.wired.com/gallery/the-best-tablets/",
+      "published": "Tue, 06 Jan 2026 11:00:00 +0000",
       "keywords": [
-        "Go",
-        "Google",
-        "AR"
+        "Apple",
+        "Android",
+        "Windows"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:32.021943"
+      "category": "Mobile",
+      "crawled_at": "2026-01-06T12:23:40.995519"
     },
     {
       "source": "wired",
-      "title": "These On-Ear Beats Headphones Are Marked Down by $70",
-      "summary": "What these headphones lack in active noise canceling, they make up for with big, bold sound.",
-      "link": "https://www.wired.com/story/beats-solo-4-deal-126/",
-      "published": "Mon, 05 Jan 2026 19:10:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:32.021972"
-    },
-    {
-      "source": "wired",
-      "title": "Lego’s Smart Brick Gives the Iconic Analog Toy a New Digital Brain",
-      "summary": "The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience—including the minifigs.",
-      "link": "https://www.wired.com/story/lego-smart-brick-new-digital-brain/",
-      "published": "Mon, 05 Jan 2026 19:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-06T06:19:32.022005"
-    },
-    {
-      "source": "wired",
-      "title": "Samsung Galaxy Z Trifold Hands-On: This Is the Phone-Tablet Hybrid You’re Looking For",
-      "summary": "At CES 2026, we went hands-on with the three-panel Samsung tablet that folds up to the size of a (large) phone.",
-      "link": "https://www.wired.com/story/samsung-galaxy-z-trifold-hands-on/",
-      "published": "Mon, 05 Jan 2026 14:58:11 +0000",
+      "title": "6 Best Gym Bags for Every Workout and Commute (2026)",
+      "summary": "New year, new gym bag. I put over 20 models to the test in 2025 so you can start 2026 with the best.",
+      "link": "https://www.wired.com/story/best-gym-bags/",
+      "published": "Tue, 06 Jan 2026 10:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T06:19:32.022046"
+      "crawled_at": "2026-01-06T12:23:40.995547"
     }
   ]
 }
