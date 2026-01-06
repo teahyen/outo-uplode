@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-01-06T00:57:03.796463",
+  "last_updated": "2026-01-06T06:19:32.022129",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+      "summary": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
+      "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+      "published": "Tue, 06 Jan 2026 03:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T06:19:31.308457"
+    },
     {
       "source": "techcrunch",
       "title": "Insight Partners sued by former vice president Kate Lowry",
@@ -12,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:02.692427"
+      "crawled_at": "2026-01-06T06:19:31.308494"
     },
     {
       "source": "techcrunch",
@@ -25,7 +39,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:02.692470"
+      "crawled_at": "2026-01-06T06:19:31.308528"
     },
     {
       "source": "techcrunch",
@@ -37,7 +51,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:02.692511"
+      "crawled_at": "2026-01-06T06:19:31.308567"
     },
     {
       "source": "techcrunch",
@@ -50,146 +64,163 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-06T00:57:02.692544"
+      "crawled_at": "2026-01-06T06:19:31.308614"
     },
     {
-      "source": "techcrunch",
-      "title": "Nvidia launches powerful new Rubin chip architecture",
-      "summary": "Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI computing.",
-      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
-      "published": "Mon, 05 Jan 2026 22:16:58 +0000",
+      "source": "theverge",
+      "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
+      "summary": "Nvidia's RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it's ready to announce some additional features for subscribers. In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon's Fire TV devices, alongside flight control support ",
+      "link": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+      "published": "2026-01-06T00:22:13-05:00",
+      "keywords": [
+        "Amazon",
+        "Linux",
+        "Cloud",
+        "Gaming"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-06T06:19:31.414281"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop",
+      "summary": "Nvidia is bringing a new set of G-Sync Pulsar monitors to the market this week that will automatically adjust brightness and color based on the ambient lighting in a room. Much like a modern laptop, these new monitors have a built-in light sensor that measures the brightness and color temperature of",
+      "link": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+      "published": "2026-01-06T00:12:18-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-06T06:19:31.414352"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+      "summary": "Nvidia is announcing its next major update to its Deep Learning Super Sampling (DLSS) feature at CES today. DLSS 4.5 includes Nvidia's second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that uses AI to generate up to five additional f",
+      "link": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+      "published": "2026-01-06T00:04:55-05:00",
       "keywords": [
         "AI",
+        "Deep Learning",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:02.692575"
+      "crawled_at": "2026-01-06T06:19:31.414389"
     },
     {
       "source": "theverge",
-      "title": "Garmin now offers nutrition tracking",
-      "summary": "Garmin announced that it's adding nutrition tracking to the Garmin Connect app as a perk for users with a Garmin Connect Plus subscription. The feature lets users \"track their calories and macros (proteins, fats and carbs) and receive Active Intelligence insights to help them achieve their nutrition",
-      "link": "https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking",
-      "published": "2026-01-05T19:39:21-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-06T00:57:02.881911"
-    },
-    {
-      "source": "theverge",
-      "title": "Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026",
-      "summary": "Xreal is having a big CES. It announced its new 1S AR glasses and the Switch 2-ready Neo dock that's also a battery - both of which are already available to buy. It's not done with the announcements yet, as it delivered a peek at an upcoming partnership with Asus that will yield a new [&#8230;]",
-      "link": "https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date",
-      "published": "2026-01-05T19:00:00-05:00",
+      "title": "Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub",
+      "summary": "A new line of small appliances and devices from IAI Smart, billed as Emerson Smart products, are now available that will let you operate fans, heaters, smart plugs, and air fryers with your voice - with no apps, Wi-Fi, or smart home connection at all. Using the company's SmartVoice technology, the d",
+      "link": "https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces",
+      "published": "2026-01-06T00:01:00-05:00",
       "keywords": [
         "AI",
+        "React",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:02.881978"
+      "crawled_at": "2026-01-06T06:19:31.414430"
     },
     {
       "source": "theverge",
-      "title": "Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves",
-      "summary": "The Asus ROG Zephyrus Duo is back, but for CES 2026 both its screens are going full edge-to-edge - like a Zenbook Duo built for gaming. The original Zephyrus Duo was a quirky keyboard-in-the-front-club member, with a 15.6-inch main display and a 14.1-inch-wide, skinny touchscreen crammed between the",
-      "link": "https://www.theverge.com/news/851827/asus-rog-zephyrus-duo-dual-screen-gaming-laptop-ces-2026",
-      "published": "2026-01-05T19:00:00-05:00",
+      "title": "Alienware is working on new slim and cheaper gaming laptops",
+      "summary": "Dell-owned Alienware is looking to reach a wider swath of gamers, announcing at CES 2026 that it's working on two new laptops: one with a lower, entry-level price and one with an ultra-slim chassis. There aren't many details right now, as Alienware is only sharing some basic renders, and the behind-",
+      "link": "https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops",
+      "published": "2026-01-05T22:30:00-05:00",
       "keywords": [
         "AI",
-        "Go",
         "AR",
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:02.882014"
+      "crawled_at": "2026-01-06T06:19:31.414461"
     },
     {
-      "source": "theverge",
-      "title": "This limited-edition tablet is the closest you can get to using Hideo Kojima’s computer",
-      "summary": "Asus is no stranger to odd yet badass limited editions of its one-of-a-kind gaming tablet, and for CES 2026 it's collaborating with Kojima Productions on the best-looking one yet. The Asus ROG Flow Z13 x Kojima Productions edition takes last year's excellent AMD Strix Halo-equipped gaming tablet and",
-      "link": "https://www.theverge.com/news/851853/this-limited-edition-tablet-is-the-closest-you-can-get-to-using-hideo-kojimas-computer",
-      "published": "2026-01-05T19:00:00-05:00",
+      "source": "hackernews",
+      "title": "A prediction market user made $436k betting on Maduro's downfall",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cx2gn93292do\nComments URL: https://news.ycombinator.com/item?id=46508582\nPoints: 54\n# Comments: 75",
+      "link": "https://www.bbc.com/news/articles/cx2gn93292do",
+      "published": "Tue, 06 Jan 2026 03:59:19 +0000",
       "keywords": [
-        "AR",
-        "Gaming"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:02.882072"
+      "crawled_at": "2026-01-06T06:19:31.750534"
     },
     {
-      "source": "theverge",
-      "title": "Ecovacs adds a mop cover to its flagship robot vacuum",
-      "summary": "Ecovacs launched the second generation of its top-of-the-line robot vacuum and mop at CES 2026 this week. The Deebot X12 OmniCyclone is the follow-up to the $1,500 X11, which launched at IFA in September 2025. Yes, just three months ago. The X12 keeps the same overall design of the X11, including th",
-      "link": "https://www.theverge.com/tech/853777/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-cover",
-      "published": "2026-01-05T19:00:00-05:00",
+      "source": "hackernews",
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers\nComments URL: https://news.ycombinator.com/item?id=46508441\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers",
+      "published": "Tue, 06 Jan 2026 03:32:41 +0000",
       "keywords": [
-        "Go"
+        "Go",
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:02.882114"
+      "crawled_at": "2026-01-06T06:19:31.750593"
+    },
+    {
+      "source": "hackernews",
+      "title": "GBC Boot Animation 88×31 Web Button",
+      "summary": "Article URL: https://zakhary.dev/blog/gbc-web-button\nComments URL: https://news.ycombinator.com/item?id=46507963\nPoints: 54\n# Comments: 3",
+      "link": "https://zakhary.dev/blog/gbc-web-button",
+      "published": "Tue, 06 Jan 2026 02:20:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-06T06:19:31.750630"
     },
     {
       "source": "hackernews",
       "title": "I/O is no longer the bottleneck? (2022)",
-      "summary": "Article URL: https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html\nComments URL: https://news.ycombinator.com/item?id=46506994\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html\nComments URL: https://news.ycombinator.com/item?id=46506994\nPoints: 116\n# Comments: 63",
       "link": "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html",
       "published": "Tue, 06 Jan 2026 00:02:18 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.401216"
-    },
-    {
-      "source": "hackernews",
-      "title": "LocalFirst: You Keep Using That Word",
-      "summary": "Article URL: https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/\nComments URL: https://news.ycombinator.com/item?id=46506957\nPoints: 4\n# Comments: 1",
-      "link": "https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/",
-      "published": "Mon, 05 Jan 2026 23:57:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.401259"
+      "crawled_at": "2026-01-06T06:19:31.750666"
     },
     {
       "source": "hackernews",
       "title": "Strange.website",
-      "summary": "Article URL: https://strange.website/\nComments URL: https://news.ycombinator.com/item?id=46506596\nPoints: 13\n# Comments: 0",
+      "summary": "Article URL: https://strange.website/\nComments URL: https://news.ycombinator.com/item?id=46506596\nPoints: 92\n# Comments: 28",
       "link": "https://strange.website/",
       "published": "Mon, 05 Jan 2026 23:19:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.401289"
+      "crawled_at": "2026-01-06T06:19:31.750694"
     },
     {
-      "source": "hackernews",
-      "title": "Worlds's first all-solid-state battery ready to power up production vehicles now",
-      "summary": "Article URL: https://www.donutlab.com/ces-battery-announcement/\nComments URL: https://news.ycombinator.com/item?id=46505975\nPoints: 76\n# Comments: 42",
-      "link": "https://www.donutlab.com/ces-battery-announcement/",
-      "published": "Mon, 05 Jan 2026 22:28:46 +0000",
+      "source": "arstechnica",
+      "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process",
+      "summary": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
+      "link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
+      "published": "Tue, 06 Jan 2026 03:45:49 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.401326"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T06:19:31.917683"
     },
     {
-      "source": "hackernews",
-      "title": "Migrating cells and the new science of microchimerism",
-      "summary": "https://archive.ph/pYnmy\n\nComments URL: https://news.ycombinator.com/item?id=46505661\nPoints: 18\n# Comments: 0",
-      "link": "https://www.nature.com/articles/d41586-025-04102-4",
-      "published": "Mon, 05 Jan 2026 22:03:52 +0000",
+      "source": "arstechnica",
+      "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+      "summary": "But it may become slightly cheaper to buy AMD's fastest integrated Radeon GPUs.",
+      "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
+      "published": "Tue, 06 Jan 2026 03:30:30 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.401356"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-06T06:19:31.917719"
     },
     {
       "source": "arstechnica",
@@ -201,7 +232,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:03.603498"
+      "crawled_at": "2026-01-06T06:19:31.917743"
     },
     {
       "source": "arstechnica",
@@ -213,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.603534"
+      "crawled_at": "2026-01-06T06:19:31.917770"
     },
     {
       "source": "arstechnica",
@@ -223,32 +254,7 @@
       "published": "Mon, 05 Jan 2026 21:42:14 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.603572"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy",
-      "summary": "\"We don't believe this has to do with our Spotify backup,\" Anna's Archive says.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/",
-      "published": "Mon, 05 Jan 2026 20:38:48 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:03.603599"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
-      "summary": "Cheifet produced more than 400 episodes of TV tracing the rise of personal computing.",
-      "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
-      "published": "Mon, 05 Jan 2026 20:28:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.603626"
+      "crawled_at": "2026-01-06T06:19:31.917805"
     },
     {
       "source": "wired",
@@ -261,7 +267,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:03.796239"
+      "crawled_at": "2026-01-06T06:19:32.021904"
     },
     {
       "source": "wired",
@@ -275,7 +281,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.796279"
+      "crawled_at": "2026-01-06T06:19:32.021943"
     },
     {
       "source": "wired",
@@ -287,7 +293,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.796306"
+      "crawled_at": "2026-01-06T06:19:32.021972"
     },
     {
       "source": "wired",
@@ -302,7 +308,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-06T00:57:03.796340"
+      "crawled_at": "2026-01-06T06:19:32.022005"
     },
     {
       "source": "wired",
@@ -314,7 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-06T00:57:03.796382"
+      "crawled_at": "2026-01-06T06:19:32.022046"
     }
   ]
 }
