@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-07T06:19:28.001879",
+  "last_updated": "2026-01-07T12:24:16.681522",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Roblox now requires all users globally to complete age checks to access chat",
+      "summary": "Once users complete an age check, they can access age-based chat, which means they can only communicate with others in a similar age group.",
+      "link": "https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/",
+      "published": "Wed, 07 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T12:24:15.848596"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Intel spinout Articul8 raises more than half of $70M round at $500M valuation",
+      "summary": "Articul8's valuation for its current funding round marks a roughly fivefold increase since its Series A.",
+      "link": "https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/",
+      "published": "Wed, 07 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T12:24:15.848631"
+    },
     {
       "source": "techcrunch",
       "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
@@ -14,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.195768"
+      "crawled_at": "2026-01-07T12:24:15.848667"
     },
     {
       "source": "techcrunch",
@@ -27,7 +53,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.195827"
+      "crawled_at": "2026-01-07T12:24:15.848714"
     },
     {
       "source": "techcrunch",
@@ -40,37 +66,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.195873"
+      "crawled_at": "2026-01-07T12:24:15.848758"
     },
     {
-      "source": "techcrunch",
-      "title": "Wearable health devices could generate a million tons of e-waste by 2050",
-      "summary": "The most surprising part is that the plastic isn't the biggest problem.",
-      "link": "https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/",
-      "published": "Tue, 06 Jan 2026 22:34:40 +0000",
+      "source": "theverge",
+      "title": "Logitech caused its mice to freak out by not renewing a certificate",
+      "summary": "If you're among the macOS users experiencing some weird issues with your Logitech mouse, then good news: Logitech has now released a fix. This comes after multiple Reddit users reported yesterday that Logi Options Plus - the app required to manage and configure the controls on Logitech accessories -",
+      "link": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
+      "published": "2026-01-07T07:10:34-05:00",
+      "keywords": [
+        "Go",
+        "Git"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-07T12:24:15.944973"
+    },
+    {
+      "source": "theverge",
+      "title": "I played with the Lego Smart Brick",
+      "summary": "When The Lego Group announced that its biggest innovation since 1978 would be a tiny proprietary computer brick, the reactions were divided. I heard from people concerned this was the death of imagination from a company that's all about imagination - and from people who thought it sounded pretty coo",
+      "link": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
+      "published": "2026-01-07T07:00:00-05:00",
+      "keywords": [
+        "Go",
+        "React",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T12:24:15.945031"
+    },
+    {
+      "source": "theverge",
+      "title": "Roblox now requires an age check if you want to chat",
+      "summary": "Roblox is rolling out its previously announced requirement for all users to go through an age estimation process to be able to use the platform's chat features. The policy was announced in November 2025 and was rolled out to Australia, New Zealand, and the Netherlands in December, but now users will",
+      "link": "https://www.theverge.com/news/856696/roblox-age-check-estimation-chat",
+      "published": "2026-01-07T07:00:00-05:00",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T12:24:15.945077"
+    },
+    {
+      "source": "theverge",
+      "title": "It turns out I’ve been using my Hue lights all wrong",
+      "summary": "Color-changing lights are a lot of fun, but it can be hard to figure out how to best use them in your home. Most smart lighting companies offer pre-designed scenes to help you light your space, but the lights don't know where they are physically in your home, and the effect can get diluted. Philips ",
+      "link": "https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature",
+      "published": "2026-01-07T03:30:00-05:00",
       "keywords": [
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-07T06:19:27.195904"
-    },
-    {
-      "source": "techcrunch",
-      "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
-      "summary": "When fake content goes viral, the damage has already been done, even if the post is debunked.",
-      "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
-      "published": "Tue, 06 Jan 2026 22:23:39 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.195928"
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T12:24:15.945132"
     },
     {
       "source": "theverge",
       "title": "Intel is planning a custom Panther Lake CPU for handheld PCs",
-      "summary": "Intel announced yesterday that it's developing an entire \"handheld gaming platform\" powered by its new Panther Lake chips, and joining an increasingly competitive field. Qualcomm is hinting about potential Windows gaming handhelds showing up at the Game Developers Conference in March, and AMD's new ",
+      "summary": "Intel announced yesterday that it's developing an entire \"handheld gaming platform\" powered by its new Panther Lake chips and joining an increasingly competitive field. Qualcomm is hinting about potential Windows gaming handhelds showing up at the Game Developers Conference in March, and AMD's new S",
       "link": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
       "published": "2026-01-06T22:16:58-05:00",
       "keywords": [
@@ -79,78 +131,47 @@
         "Gaming"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:27.325067"
+      "crawled_at": "2026-01-07T12:24:15.945170"
     },
     {
-      "source": "theverge",
-      "title": "Lenovo is building an AI assistant that ‘can act on your behalf’",
-      "summary": "While most attention in the AI race is focused on model builders and cloud platforms, Lenovo sits closer to millions of users than most companies. As the world's top PC maker by volume, Lenovo ships tens of millions of devices every year. What it decides to ship, bundle, and integrate can directly s",
-      "link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
-      "published": "2026-01-06T21:30:00-05:00",
+      "source": "hackernews",
+      "title": "Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)",
+      "summary": "Article URL: https://www.optery.com/careers/\nComments URL: https://news.ycombinator.com/item?id=46525394\nPoints: 0\n# Comments: 0",
+      "link": "https://www.optery.com/careers/",
+      "published": "Wed, 07 Jan 2026 12:00:20 +0000",
       "keywords": [
-        "AI",
-        "Cloud",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.325125"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
-      "summary": "Samsung Display and Intel have teamed up on laptop technology called SmartPower HDR that they claim can minimize power usage while you're watching HDR content on an OLED screen. Intel showed off this technology last year, but Samsung Display is sharing details about how it works and the power saving",
-      "link": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
-      "published": "2026-01-06T20:06:12-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.325160"
-    },
-    {
-      "source": "theverge",
-      "title": "Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking",
-      "summary": "At CES, Motorola announced its latest smartwatch, the Moto Watch. According to Motorola, the Android watch offers up to 13 days of battery life, alongside Polar-powered health tracking, open-source software, and dual-frequency GPS - a combination that helps set it apart from Apple's and Google's fla",
-      "link": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
-      "published": "2026-01-06T20:00:00-05:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-07T06:19:27.325223"
-    },
-    {
-      "source": "theverge",
-      "title": "Lenovo’s Auto Twist laptop is going from concept to real product",
-      "summary": "At CES 2026, Lenovo is announcing a new ThinkBook Plus Gen 7 Auto Twist laptop. Once a concept, the 14-inch thin-and-light sports a motorized pivoting hinge, allowing it to twist and angle its screen toward you. It can be manually controlled, but the real trick is tracking your head and automaticall",
-      "link": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
-      "published": "2026-01-06T20:00:00-05:00",
-      "keywords": [
-        "Go",
+        "API",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.325307"
+      "crawled_at": "2026-01-07T12:24:16.378789"
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox extension to redirect x.com to xcancel.com",
+      "summary": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/toxcancel/\nComments URL: https://news.ycombinator.com/item?id=46524873\nPoints: 85\n# Comments: 32",
+      "link": "https://addons.mozilla.org/en-US/firefox/addon/toxcancel/",
+      "published": "Wed, 07 Jan 2026 10:53:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T12:24:16.378853"
     },
     {
       "source": "hackernews",
       "title": "On the slow death of scaling",
-      "summary": "pdf: https://download.ssrn.com/2026/1/6/5877662.pdf?response-cont...\n\nComments URL: https://news.ycombinator.com/item?id=46522308\nPoints: 39\n# Comments: 5",
+      "summary": "pdf: https://download.ssrn.com/2026/1/6/5877662.pdf?response-cont...\n\nComments URL: https://news.ycombinator.com/item?id=46522308\nPoints: 78\n# Comments: 12",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
       "published": "Wed, 07 Jan 2026 03:48:05 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.763089"
+      "crawled_at": "2026-01-07T12:24:16.378909"
     },
     {
       "source": "hackernews",
       "title": "Microsoft probably killed my Snapdragon Dev Kit",
-      "summary": "Article URL: https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/\nComments URL: https://news.ycombinator.com/item?id=46521860\nPoints: 115\n# Comments: 66",
+      "summary": "Article URL: https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/\nComments URL: https://news.ycombinator.com/item?id=46521860\nPoints: 172\n# Comments: 94",
       "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
       "published": "Wed, 07 Jan 2026 02:37:09 +0000",
       "keywords": [
@@ -161,44 +182,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.763159"
-    },
-    {
-      "source": "hackernews",
-      "title": "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
-      "summary": "Article URL: https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/\nComments URL: https://news.ycombinator.com/item?id=46521084\nPoints: 38\n# Comments: 31",
-      "link": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
-      "published": "Wed, 07 Jan 2026 00:50:58 +0000",
-      "keywords": [
-        "Crypto",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:27.763209"
+      "crawled_at": "2026-01-07T12:24:16.378946"
     },
     {
       "source": "hackernews",
       "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
-      "summary": "Article URL: https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/\nComments URL: https://news.ycombinator.com/item?id=46521029\nPoints: 41\n# Comments: 8",
+      "summary": "Article URL: https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/\nComments URL: https://news.ycombinator.com/item?id=46521029\nPoints: 71\n# Comments: 30",
       "link": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
       "published": "Wed, 07 Jan 2026 00:44:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.763271"
-    },
-    {
-      "source": "hackernews",
-      "title": "Electronic nose for indoor mold detection and identification",
-      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124\nComments URL: https://news.ycombinator.com/item?id=46520935\nPoints: 69\n# Comments: 38",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
-      "published": "Wed, 07 Jan 2026 00:31:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.763323"
+      "crawled_at": "2026-01-07T12:24:16.378986"
     },
     {
       "source": "arstechnica",
@@ -210,7 +206,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.885100"
+      "crawled_at": "2026-01-07T12:24:16.561180"
     },
     {
       "source": "arstechnica",
@@ -223,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.885147"
+      "crawled_at": "2026-01-07T12:24:16.561228"
     },
     {
       "source": "arstechnica",
@@ -235,7 +231,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-07T06:19:27.885178"
+      "crawled_at": "2026-01-07T12:24:16.561259"
     },
     {
       "source": "arstechnica",
@@ -245,7 +241,7 @@
       "published": "Tue, 06 Jan 2026 21:11:54 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:27.885207"
+      "crawled_at": "2026-01-07T12:24:16.561289"
     },
     {
       "source": "arstechnica",
@@ -257,65 +253,65 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T06:19:27.885233"
+      "crawled_at": "2026-01-07T12:24:16.561315"
     },
     {
       "source": "wired",
-      "title": "20% Off Sephora Promo Code | January 2026",
-      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "link": "https://www.wired.com/story/sephora-promo-code/",
-      "published": "Wed, 07 Jan 2026 06:10:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:28.001591"
-    },
-    {
-      "source": "wired",
-      "title": "20% Off LG Promo Code & Coupons | January 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Wed, 07 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:28.001624"
-    },
-    {
-      "source": "wired",
-      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-      "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
-      "link": "https://www.wired.com/story/vitamix-promo-code/",
-      "published": "Wed, 07 Jan 2026 06:00:00 +0000",
+      "title": "Home Pilates Equipment for Studio-Quality Workouts (2026)",
+      "summary": "Here’s everything that you should buy, skip, or splurge on for your at-home Pilates workout.",
+      "link": "https://www.wired.com/story/the-best-pilates-at-home-equipment/",
+      "published": "Wed, 07 Jan 2026 12:00:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:28.001650"
-    },
-    {
-      "source": "wired",
-      "title": "Home Chef Promo Code: 50% Off",
-      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "link": "https://www.wired.com/story/home-chef-promo-code/",
-      "published": "Wed, 07 Jan 2026 05:50:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T06:19:28.001671"
-    },
-    {
-      "source": "wired",
-      "title": "Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key",
-      "summary": "Lenovo brought a Legion gaming laptop to CES this year with a rollable OLED display that expands horizontally by six inches.",
-      "link": "https://www.wired.com/story/lenovo-legion-pro-gaming-laptop-ultrawide-rollable-screen/",
-      "published": "Wed, 07 Jan 2026 01:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR",
-        "Gaming"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T06:19:28.001717"
+      "crawled_at": "2026-01-07T12:24:16.681216"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Cat Toys for Your Furry Friend (2026)",
+      "summary": "Based on years of testing with our cats, these are our favorite WIRED-approved, techy cat toys and furniture.",
+      "link": "https://www.wired.com/story/best-cat-toys/",
+      "published": "Wed, 07 Jan 2026 11:38:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-07T12:24:16.681253"
+    },
+    {
+      "source": "wired",
+      "title": "CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen",
+      "summary": "Read our live updates from CES 2026 in Las Vegas to see the latest consumer gadgetry in all of its chatbot-enabled, sensor-packed, AI-infused glory.",
+      "link": "https://www.wired.com/live/ces-2026-live-blog/",
+      "published": "Wed, 07 Jan 2026 08:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T12:24:16.681287"
+    },
+    {
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | January 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this January.",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "published": "Wed, 07 Jan 2026 07:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T12:24:16.681311"
+    },
+    {
+      "source": "wired",
+      "title": "Therabody Promo Codes: 15% Off January 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Wed, 07 Jan 2026 07:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T12:24:16.681341"
     }
   ]
 }
