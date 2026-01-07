@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-01-07T00:57:36.095008",
+  "last_updated": "2026-01-07T06:19:28.001879",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
+      "summary": "Calacanis, General Catalyst's Taneja, and McKinsey's Sternfels discussed how AI is reshaping technology and the labor force.",
+      "link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
+      "published": "Wed, 07 Jan 2026 03:09:04 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T06:19:27.195768"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta’s Manus news is getting different receptions in Washington and Beijing",
+      "summary": "Chinese officials are reportedly reviewing whether the Meta deal violates technology export controls, potentially giving Beijing leverage it wasn't initially perceived as having.",
+      "link": "https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/",
+      "published": "Wed, 07 Jan 2026 02:52:57 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T06:19:27.195827"
+    },
     {
       "source": "techcrunch",
       "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
@@ -13,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.122553"
+      "crawled_at": "2026-01-07T06:19:27.195873"
     },
     {
       "source": "techcrunch",
@@ -25,7 +52,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-07T00:57:35.122596"
+      "crawled_at": "2026-01-07T06:19:27.195904"
     },
     {
       "source": "techcrunch",
@@ -38,164 +65,152 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.122623"
+      "crawled_at": "2026-01-07T06:19:27.195928"
     },
     {
-      "source": "techcrunch",
-      "title": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M",
-      "summary": "Mentee Robotics was co-founded by Mobileye president Amnon Shashua.",
-      "link": "https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/",
-      "published": "Tue, 06 Jan 2026 21:10:00 +0000",
+      "source": "theverge",
+      "title": "Intel is planning a custom Panther Lake CPU for handheld PCs",
+      "summary": "Intel announced yesterday that it's developing an entire \"handheld gaming platform\" powered by its new Panther Lake chips, and joining an increasingly competitive field. Qualcomm is hinting about potential Windows gaming handhelds showing up at the Game Developers Conference in March, and AMD's new ",
+      "link": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
+      "published": "2026-01-06T22:16:58-05:00",
       "keywords": [
-        "Startup",
+        "Windows",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:27.325067"
+    },
+    {
+      "source": "theverge",
+      "title": "Lenovo is building an AI assistant that ‘can act on your behalf’",
+      "summary": "While most attention in the AI race is focused on model builders and cloud platforms, Lenovo sits closer to millions of users than most companies. As the world's top PC maker by volume, Lenovo ships tens of millions of devices every year. What it decides to ship, bundle, and integrate can directly s",
+      "link": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "published": "2026-01-06T21:30:00-05:00",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T06:19:27.325125"
+    },
+    {
+      "source": "theverge",
+      "title": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
+      "summary": "Samsung Display and Intel have teamed up on laptop technology called SmartPower HDR that they claim can minimize power usage while you're watching HDR content on an OLED screen. Intel showed off this technology last year, but Samsung Display is sharing details about how it works and the power saving",
+      "link": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
+      "published": "2026-01-06T20:06:12-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T06:19:27.325160"
+    },
+    {
+      "source": "theverge",
+      "title": "Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking",
+      "summary": "At CES, Motorola announced its latest smartwatch, the Moto Watch. According to Motorola, the Android watch offers up to 13 days of battery life, alongside Polar-powered health tracking, open-source software, and dual-frequency GPS - a combination that helps set it apart from Apple's and Google's fla",
+      "link": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
+      "published": "2026-01-06T20:00:00-05:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Google",
+        "Android",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-07T00:57:35.122650"
-    },
-    {
-      "source": "techcrunch",
-      "title": "xAI says it raised $20B in Series E funding",
-      "summary": "Nvidia is among the many investors, but xAI has not disclosed if these investments come in the form of equity or debt.",
-      "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
-      "published": "Tue, 06 Jan 2026 20:57:16 +0000",
-      "keywords": [
-        "AI",
-        "Funding"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.122674"
+      "crawled_at": "2026-01-07T06:19:27.325223"
     },
     {
       "source": "theverge",
-      "title": "Here are the best Apple Watch deals available right now",
-      "summary": "In September, Apple launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features), and we’re already starting to see big price drops. Additionally, we’re s",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "published": "2026-01-06T19:43:37-05:00",
+      "title": "Lenovo’s Auto Twist laptop is going from concept to real product",
+      "summary": "At CES 2026, Lenovo is announcing a new ThinkBook Plus Gen 7 Auto Twist laptop. Once a concept, the 14-inch thin-and-light sports a motorized pivoting hinge, allowing it to twist and angle its screen toward you. It can be manually controlled, but the real trick is tracking your head and automaticall",
+      "link": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
+      "published": "2026-01-06T20:00:00-05:00",
       "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.213317"
-    },
-    {
-      "source": "theverge",
-      "title": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech, Big Government, and the big paradigm shifts that result from their collision. Not a subscriber yet? It's a new year, so why not treat yourself? In 2022, Jake Sullivan, then national security adviser under President Jo",
-      "link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
-      "published": "2026-01-06T17:46:00-05:00",
-      "keywords": [
-        "AI",
         "Go",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.213364"
-    },
-    {
-      "source": "theverge",
-      "title": "Here are the best Kindle deals right now",
-      "summary": "When it comes to finding a device to read ebooks, you have a few options to choose from. You can always buy a tablet or use your phone, but those devices are multipurpose and can be used for a ton of things, like surfing the web or doomscrolling on X or Bluesky. If you are [&#8230;]",
-      "link": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
-      "published": "2026-01-06T16:26:41-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-07T00:57:35.213405"
-    },
-    {
-      "source": "theverge",
-      "title": "Influencer content is fuel for an internet-obsessed administration",
-      "summary": "Just a day after publishing a 40-minute video alleging fraud at Minnesota daycare centers, Nick Shirley had the vice president's attention. In Shirley's video, he and another man identified only as \"David\" roam Minneapolis with cameras and microphones, demanding entrance to daycare centers they say ",
-      "link": "https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle",
-      "published": "2026-01-06T16:24:59-05:00",
-      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:35.213454"
-    },
-    {
-      "source": "theverge",
-      "title": "At CES, EVs take a backseat to robotaxis and AI",
-      "summary": "It says a lot about the current moment when one of the world's largest EV sellers shows up at the world's biggest electronics show to announce not a new, more affordable model or a cool futuristic concept car, but a humanoid robot. And one we've seen already. Hyundai's decision to use its CES keynot",
-      "link": "https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts",
-      "published": "2026-01-06T15:30:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.213484"
+      "crawled_at": "2026-01-07T06:19:27.325307"
     },
     {
       "source": "hackernews",
-      "title": "Why the trans flag emoji is the 5-codepoint sequence it is",
-      "summary": "Article URL: https://hecate.pink/blog/2026/trans-flag-emoji/\nComments URL: https://news.ycombinator.com/item?id=46520879\nPoints: 23\n# Comments: 0",
-      "link": "https://hecate.pink/blog/2026/trans-flag-emoji/",
-      "published": "Wed, 07 Jan 2026 00:22:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-07T00:57:35.834558"
-    },
-    {
-      "source": "hackernews",
-      "title": "Space Forge plans to manufacture semiconductors from space",
-      "summary": "Article URL: https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/\nComments URL: https://news.ycombinator.com/item?id=46520754\nPoints: 7\n# Comments: 1",
-      "link": "https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/",
-      "published": "Wed, 07 Jan 2026 00:06:34 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "title": "On the slow death of scaling",
+      "summary": "pdf: https://download.ssrn.com/2026/1/6/5877662.pdf?response-cont...\n\nComments URL: https://news.ycombinator.com/item?id=46522308\nPoints: 39\n# Comments: 5",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "published": "Wed, 07 Jan 2026 03:48:05 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:35.834609"
+      "crawled_at": "2026-01-07T06:19:27.763089"
     },
     {
       "source": "hackernews",
-      "title": "Vulnerability in Ruby that has existed since 2002",
-      "summary": "Article URL: https://nastystereo.com/security/ruby-pack.html\nComments URL: https://news.ycombinator.com/item?id=46520566\nPoints: 8\n# Comments: 0",
-      "link": "https://nastystereo.com/security/ruby-pack.html",
-      "published": "Tue, 06 Jan 2026 23:46:24 +0000",
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "summary": "Article URL: https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/\nComments URL: https://news.ycombinator.com/item?id=46521860\nPoints: 115\n# Comments: 66",
+      "link": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "published": "Wed, 07 Jan 2026 02:37:09 +0000",
       "keywords": [
-        "Security",
-        "Vulnerability",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-01-07T00:57:35.834640"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=9e0SQn9uUlw\nComments URL: https://news.ycombinator.com/item?id=46520508\nPoints: 8\n# Comments: 2",
-      "link": "https://www.youtube.com/watch?v=9e0SQn9uUlw",
-      "published": "Tue, 06 Jan 2026 23:40:03 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.834667"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion",
-      "summary": "Article URL: https://github.com/tdortman/cuckoo-filter\nComments URL: https://news.ycombinator.com/item?id=46519771\nPoints: 14\n# Comments: 1",
-      "link": "https://github.com/tdortman/cuckoo-filter",
-      "published": "Tue, 06 Jan 2026 22:33:21 +0000",
-      "keywords": [
+        "Go",
+        "Microsoft",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-07T00:57:35.834728"
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T06:19:27.763159"
+    },
+    {
+      "source": "hackernews",
+      "title": "PassSeeds – hijacking Passkeys to unlock new cryptographic use cases",
+      "summary": "Article URL: https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/\nComments URL: https://news.ycombinator.com/item?id=46521084\nPoints: 38\n# Comments: 31",
+      "link": "https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/",
+      "published": "Wed, 07 Jan 2026 00:50:58 +0000",
+      "keywords": [
+        "Crypto",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:27.763209"
+    },
+    {
+      "source": "hackernews",
+      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
+      "summary": "Article URL: https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/\nComments URL: https://news.ycombinator.com/item?id=46521029\nPoints: 41\n# Comments: 8",
+      "link": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
+      "published": "Wed, 07 Jan 2026 00:44:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T06:19:27.763271"
+    },
+    {
+      "source": "hackernews",
+      "title": "Electronic nose for indoor mold detection and identification",
+      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124\nComments URL: https://news.ycombinator.com/item?id=46520935\nPoints: 69\n# Comments: 38",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
+      "published": "Wed, 07 Jan 2026 00:31:01 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-07T06:19:27.763323"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
+      "summary": "Motorola is light on details but heavy on hype for its first book-style foldable.",
+      "link": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
+      "published": "Wed, 07 Jan 2026 01:00:06 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-07T06:19:27.885100"
     },
     {
       "source": "arstechnica",
@@ -208,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:35.938333"
+      "crawled_at": "2026-01-07T06:19:27.885147"
     },
     {
       "source": "arstechnica",
@@ -220,7 +235,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-07T00:57:35.938372"
+      "crawled_at": "2026-01-07T06:19:27.885178"
     },
     {
       "source": "arstechnica",
@@ -230,7 +245,7 @@
       "published": "Tue, 06 Jan 2026 21:11:54 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:35.938403"
+      "crawled_at": "2026-01-07T06:19:27.885207"
     },
     {
       "source": "arstechnica",
@@ -242,86 +257,65 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.938430"
-    },
-    {
-      "source": "arstechnica",
-      "title": "News orgs win fight to access 20M ChatGPT logs. Now they want more.",
-      "summary": "OpenAI's loss in privacy fight could lead to sharing even more deleted chats.",
-      "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
-      "published": "Tue, 06 Jan 2026 18:59:21 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:35.938453"
+      "crawled_at": "2026-01-07T06:19:27.885233"
     },
     {
       "source": "wired",
-      "title": "Grok Is Pushing AI ‘Undressing’ Mainstream",
-      "summary": "Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.",
-      "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
-      "published": "Tue, 06 Jan 2026 22:20:08 +0000",
+      "title": "20% Off Sephora Promo Code | January 2026",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "link": "https://www.wired.com/story/sephora-promo-code/",
+      "published": "Wed, 07 Jan 2026 06:10:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:36.094739"
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:28.001591"
     },
     {
       "source": "wired",
-      "title": "The Inevitable Rise of the Art TV",
-      "summary": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like a painting when they’re switched off. It’s all thanks to smaller living spaces and new screen tech.",
-      "link": "https://www.wired.com/story/art-frame-tv-trends/",
-      "published": "Tue, 06 Jan 2026 20:41:46 +0000",
+      "title": "20% Off LG Promo Code & Coupons | January 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 07 Jan 2026 06:00:00 +0000",
       "keywords": [
-        "AI",
-        "Amazon",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-07T00:57:36.094780"
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:28.001624"
     },
     {
       "source": "wired",
-      "title": "The 57 Best Shows on Disney+, WIRED’s Picks (January 2026)",
-      "summary": "The End of an Era, Percy Jackson and the Olympians, and The Beatles Anthology are just a few of the shows you should be watching on Disney+ this month.",
-      "link": "https://www.wired.com/story/best-shows-disney-plus/",
-      "published": "Tue, 06 Jan 2026 20:00:00 +0000",
+      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
+      "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
+      "link": "https://www.wired.com/story/vitamix-promo-code/",
+      "published": "Wed, 07 Jan 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:28.001650"
+    },
+    {
+      "source": "wired",
+      "title": "Home Chef Promo Code: 50% Off",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+      "link": "https://www.wired.com/story/home-chef-promo-code/",
+      "published": "Wed, 07 Jan 2026 05:50:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-01-07T06:19:28.001671"
+    },
+    {
+      "source": "wired",
+      "title": "Lenovo’s Legion Pro Rollable Gaming Laptop Goes Ultrawide at the Press of a Key",
+      "summary": "Lenovo brought a Legion gaming laptop to CES this year with a rollable OLED display that expands horizontally by six inches.",
+      "link": "https://www.wired.com/story/lenovo-legion-pro-gaming-laptop-ultrawide-rollable-screen/",
+      "published": "Wed, 07 Jan 2026 01:00:00 +0000",
       "keywords": [
-        "AR"
+        "Go",
+        "AR",
+        "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:36.094821"
-    },
-    {
-      "source": "wired",
-      "title": "These Luxurious Headphones Are Almost Half Off",
-      "summary": "The Bowers & Wilkins Px8 feature premium materials and luxurious sound.",
-      "link": "https://www.wired.com/story/bowers-wilkins-px8-deal-126/",
-      "published": "Tue, 06 Jan 2026 19:33:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:36.094849"
-    },
-    {
-      "source": "wired",
-      "title": "‘Industry’ Takes on the Age Verification Wars",
-      "summary": "In the HBO show’s fourth season, Industry proves to be more prescient than it’s ever been.",
-      "link": "https://www.wired.com/story/hbo-industry-season-4-age-verification/",
-      "published": "Tue, 06 Jan 2026 15:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-07T00:57:36.094882"
+      "crawled_at": "2026-01-07T06:19:28.001717"
     }
   ]
 }
