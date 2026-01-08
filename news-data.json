@@ -1,200 +1,253 @@
 {
-  "last_updated": "2026-01-08T12:24:40.145862",
+  "last_updated": "2026-01-08T18:16:23.033073",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "JPMorgan Chase becomes the new issuer of the Apple Card",
-      "summary": "Apple expects the transition to take 24 months",
-      "link": "https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/",
-      "published": "Thu, 08 Jan 2026 06:31:55 +0000",
+      "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+      "summary": "OpenAI is acquiring the team behind executive coaching AI tool Convogo in an all-stock deal, adding to the firm's M&#038;A spree.",
+      "link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+      "published": "Thu, 08 Jan 2026 18:11:14 +0000",
       "keywords": [
-        "Apple",
+        "AI",
+        "OpenAI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.404564"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anduril’s Palmer Luckey thinks the future of tech is in the past",
+      "summary": "Luckey, who initially made his fortune in VR and now runs the defense contractor Anduril, and Ohanian both seemed to agree: Stuff was better in the old days.",
+      "link": "https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/",
+      "published": "Thu, 08 Jan 2026 18:05:00 +0000",
+      "keywords": [
+        "VR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:22.404617"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Disney+ is launching short-form videos this year",
+      "summary": "The move comes as Disney launched a personalized vertical video feed in the ESPN app last year.",
+      "link": "https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/",
+      "published": "Thu, 08 Jan 2026 17:59:45 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-08T12:24:39.257702"
+      "crawled_at": "2026-01-08T18:16:22.404647"
     },
     {
       "source": "techcrunch",
-      "title": "Waymo is rebranding its Zeekr robotaxi",
-      "summary": "It sounds like \"Oh hi.\"",
-      "link": "https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/",
-      "published": "Thu, 08 Jan 2026 02:43:12 +0000",
-      "keywords": [],
+      "title": "The most bizarre tech announced so far at CES 2026",
+      "summary": "From an AI panda pet to an anime girl hologram for your desk, here are the wildest products at CES 2026.",
+      "link": "https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
+      "published": "Thu, 08 Jan 2026 17:46:19 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.404670"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Illinois health department exposed over 700,000 residents’ personal data for years",
+      "summary": "The security lapse exposed personal information belonging to residents who received state benefits.",
+      "link": "https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/",
+      "published": "Thu, 08 Jan 2026 17:30:11 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-01-08T18:16:22.404704"
+    },
+    {
+      "source": "theverge",
+      "title": "Most dubious uses of AI at CES 2026",
+      "summary": "You can't shake a stick without hitting an AI gadget at CES this year, with artificial smarts now embedded in just about every wearable, screen, and appliance across the show floor, not to mention the armies of AI companions, toys, and robots. But those are just the beginning. We've seen AI pop up i",
+      "link": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
+      "published": "2026-01-08T13:14:34-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.590273"
+    },
+    {
+      "source": "theverge",
+      "title": "The MAGA-approved video of an ICE killing",
+      "summary": "The clips are filmed from different angles. Some are zoomed in, making them indecipherably grainy, and others are slowed down. Some are 20 seconds while others are longer, sandwiched by commentary from users on social media platforms like X, Bluesky, Reddit, and TikTok. Each video - depicting the mo",
+      "link": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
+      "published": "2026-01-08T12:59:38-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.590316"
+    },
+    {
+      "source": "theverge",
+      "title": "The first privately funded space-based telescope is in the works",
+      "summary": "Former Google CEO Eric Schmidt and his wife, Wendy, could help make history with a new project unveiled on Wednesday, the Lazuli Space Observatory. As reported by Science, the telescope was announced at a meeting of the American Astronomical Society this week and could be the largest privately funde",
+      "link": "https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope",
+      "published": "2026-01-08T12:21:32-05:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.257735"
+      "crawled_at": "2026-01-08T18:16:22.590363"
     },
     {
-      "source": "techcrunch",
-      "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
-      "summary": "The settlements are among the first tied to lawsuits accusing AI companies of harming users.",
-      "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
-      "published": "Thu, 08 Jan 2026 01:32:00 +0000",
+      "source": "theverge",
+      "title": "Microsoft will put buy buttons directly in Copilot",
+      "summary": "Microsoft is launching a new feature in Copilot that will allow you to make purchases during conversations with the AI chatbot. Now, when you're asking for suggestions about what kind of sneakers you should buy, Copilot can surface a checkout option for the product you choose directly inside the app",
+      "link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
+      "published": "2026-01-08T12:04:19-05:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.590394"
+    },
+    {
+      "source": "theverge",
+      "title": "Satechi’s new Slim EX keyboards have a replaceable battery",
+      "summary": "Satechi is launching a new pair of wireless keyboards with a rechargeable battery designed for easy replacement. Despite their ultrathin profiles, the compact Slim EX1 and full-size Slim EX3 both stow the removable battery in a compartment on their undersides. A wireless keyboard with an easily repl",
+      "link": "https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026",
+      "published": "2026-01-08T12:00:00-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.590436"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chinese AI models have lagged the US frontier by 7 months on average since 2023",
+      "summary": "Article URL: https://epoch.ai/data-insights/us-vs-china-eci\nComments URL: https://news.ycombinator.com/item?id=46543933\nPoints: 10\n# Comments: 5",
+      "link": "https://epoch.ai/data-insights/us-vs-china-eci",
+      "published": "Thu, 08 Jan 2026 17:40:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.812724"
+    },
+    {
+      "source": "hackernews",
+      "title": "ICE's Tool to Monitor Phones in Neighborhoods",
+      "summary": "Article URL: https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/\nComments URL: https://news.ycombinator.com/item?id=46543420\nPoints: 129\n# Comments: 75",
+      "link": "https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/",
+      "published": "Thu, 08 Jan 2026 17:01:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:22.812770"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer\nComments URL: https://news.ycombinator.com/item?id=46543403\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer",
+      "published": "Thu, 08 Jan 2026 17:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:22.812810"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Waymo Ojai Will Soon Offer Autonomous Rides Around the U.S.",
+      "summary": "Article URL: https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/\nComments URL: https://news.ycombinator.com/item?id=46543200\nPoints: 39\n# Comments: 38",
+      "link": "https://www.caranddriver.com/news/a69938250/waymo-ojai-autonomous-robotaxi-details/",
+      "published": "Thu, 08 Jan 2026 16:46:45 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.812853"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space",
+      "summary": "Article URL: https://arxiv.org/abs/2512.24617\nComments URL: https://news.ycombinator.com/item?id=46542982\nPoints: 10\n# Comments: 1",
+      "link": "https://arxiv.org/abs/2512.24617",
+      "published": "Thu, 08 Jan 2026 16:31:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:22.812889"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump withdraws US from world’s most important climate treaty",
+      "summary": "US also pulling out of pacts promoting development, democracy, and human rights.",
+      "link": "https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/",
+      "published": "Thu, 08 Jan 2026 14:51:44 +0000",
+      "keywords": [
+        "AWS"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-08T18:16:22.932593"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Former Google CEO plans to singlehandedly fund a Hubble telescope replacement",
+      "summary": "“This is a very significant contribution to the astronomical community.\"",
+      "link": "https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/",
+      "published": "Thu, 08 Jan 2026 14:05:52 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:22.932636"
+    },
+    {
+      "source": "arstechnica",
+      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "summary": "Will LLMs ever be able to stamp out the root cause of these attacks? Possibly not.",
+      "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+      "published": "Thu, 08 Jan 2026 14:00:07 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:22.932660"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google announces AI Overviews in Gmail search, experimental AI-organized inbox",
+      "summary": "Last year's premium Gmail AI features are also rolling out to free users.",
+      "link": "https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/",
+      "published": "Thu, 08 Jan 2026 13:00:26 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AWS",
         "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.257761"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
-      "summary": "Ford says the new generation of BlueCruise will be 30% cheaper to build than the current technology.",
-      "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
-      "published": "Thu, 08 Jan 2026 00:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.257808"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm",
-      "summary": "Bonatsos spent 15 years at GC, and until last year led the firm's seed investing strategy.",
-      "link": "https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/",
-      "published": "Wed, 07 Jan 2026 23:31:29 +0000",
-      "keywords": [
-        "VC",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-01-08T12:24:39.257851"
-    },
-    {
-      "source": "theverge",
-      "title": "The gap between premium and budget TV brands is quickly closing",
-      "summary": "For all the time that I've been covering technology, there's been a hierarchy when it comes to TV brands. The big three - Sony, Samsung, and LG - have been on top for a while. Pioneer and Panasonic were up there with plasma TVs, and Panasonic is getting back in the game in the States. [&#8230;]",
-      "link": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
-      "published": "2026-01-08T07:00:00-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.333920"
-    },
-    {
-      "source": "theverge",
-      "title": "America’s new era of energy imperialism is about more than oil",
-      "summary": "President Donald Trump has no shame in admitting what he wants to get out of attacking Venezuela and threatening other energy resource-rich nations. \"We're gonna get the oil flowing the way it should be,\" he said January 3rd, soon after his administration stunned the world with what many policy expe",
-      "link": "https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism",
-      "published": "2026-01-08T07:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.333975"
-    },
-    {
-      "source": "theverge",
-      "title": "Volvo touts EX60’s range and charging speed ahead of official debut",
-      "summary": "Volvo is starting to trickle out some details about its upcoming midsize electric SUV, the EX60, before its official debut January 21st. The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe). That's significantly more range than any previous Volv",
-      "link": "https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery",
-      "published": "2026-01-08T03:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.334016"
-    },
-    {
-      "source": "theverge",
-      "title": "Disney Plus is getting vertical video",
-      "summary": "Disney Plus will be getting a vertical video feed later this year, Disney announced as part of its Global Tech &#38; Data Showcase for advertisers at CES. Based on an interview with Erin Teague, Disney's EVP of product management for Disney Entertainment and ESPN, Deadline reports that vertical vide",
-      "link": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
-      "published": "2026-01-07T19:51:26-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.334049"
-    },
-    {
-      "source": "theverge",
-      "title": "The best iPad deals you can get right now",
-      "summary": "While the best iPad deals usually land during major sale events like Black Friday,&#160;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad, the iP",
-      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "published": "2026-01-07T19:01:00-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.334087"
-    },
-    {
-      "source": "hackernews",
-      "title": "Mothers (YC X26) Is Hiring",
-      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers\nComments URL: https://news.ycombinator.com/item?id=46540078\nPoints: 0\n# Comments: 0",
-      "link": "https://jobs.ashbyhq.com/9-mothers",
-      "published": "Thu, 08 Jan 2026 12:00:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.710055"
-    },
-    {
-      "source": "hackernews",
-      "title": "A closer look at a BGP anomaly in Venezuela",
-      "summary": "Article URL: https://blog.cloudflare.com/bgp-route-leak-venezuela/\nComments URL: https://news.ycombinator.com/item?id=46538001\nPoints: 169\n# Comments: 61",
-      "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-      "published": "Thu, 08 Jan 2026 06:46:26 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-08T12:24:39.710093"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI misses nearly one-third of breast cancers, study finds",
-      "summary": "Article URL: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/\nComments URL: https://news.ycombinator.com/item?id=46537983\nPoints: 116\n# Comments: 60",
-      "link": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
-      "published": "Thu, 08 Jan 2026 06:43:07 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.710125"
-    },
-    {
-      "source": "hackernews",
-      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "summary": "Article URL: https://patchouli.readthedocs.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=46537489\nPoints: 256\n# Comments: 26",
-      "link": "https://patchouli.readthedocs.io/en/latest/",
-      "published": "Thu, 08 Jan 2026 05:20:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-08T12:24:39.710161"
-    },
-    {
-      "source": "hackernews",
-      "title": "Go.sum is not a lockfile",
-      "summary": "Article URL: https://words.filippo.io/gosum/\nComments URL: https://news.ycombinator.com/item?id=46537095\nPoints: 93\n# Comments: 34",
-      "link": "https://words.filippo.io/gosum/",
-      "published": "Thu, 08 Jan 2026 04:10:34 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.710192"
+      "crawled_at": "2026-01-08T18:16:22.932682"
     },
     {
       "source": "arstechnica",
@@ -206,57 +259,58 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.964332"
+      "crawled_at": "2026-01-08T18:16:22.932706"
     },
     {
-      "source": "arstechnica",
-      "title": "NASA considers evacuating ailing crew member from International Space Station",
-      "summary": "\"The matter involved a single crew member who is stable,\" NASA said in a statement.",
-      "link": "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/",
-      "published": "Thu, 08 Jan 2026 01:58:33 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.964372"
+      "source": "wired",
+      "title": "How to Protest Safely in the Age of Surveillance",
+      "summary": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
+      "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
+      "published": "Thu, 08 Jan 2026 17:34:04 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T18:16:23.032871"
     },
     {
-      "source": "arstechnica",
-      "title": "Ford is getting ready to put AI assistants in its cars",
-      "summary": "The Blue Oval is also working on new hands-free driver assists.",
-      "link": "https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/",
-      "published": "Thu, 08 Jan 2026 00:00:33 +0000",
+      "source": "wired",
+      "title": "People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good",
+      "summary": "Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.",
+      "link": "https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/",
+      "published": "Thu, 08 Jan 2026 16:33:56 +0000",
       "keywords": [
         "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.964403"
+      "crawled_at": "2026-01-08T18:16:23.032907"
     },
     {
-      "source": "arstechnica",
-      "title": "Samsung’s Ballie home robot, once promised for summer 2025, gets grim update",
-      "summary": "Six years after its CES debut, Samsung has demoted Ballie to internal use.",
-      "link": "https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/",
-      "published": "Wed, 07 Jan 2026 22:50:10 +0000",
+      "source": "wired",
+      "title": "Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails",
+      "summary": "New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.",
+      "link": "https://www.wired.com/story/google-ai-inbox-gmail/",
+      "published": "Thu, 08 Jan 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T18:16:23.032939"
+    },
+    {
+      "source": "wired",
+      "title": "Creatine Supplements Are Everywhere. Do I Need Them? (2026)",
+      "summary": "It's the most studied supplement in sports medicine, but it's not just for athletes anymore.",
+      "link": "https://www.wired.com/story/should-you-be-taking-creatine-supplements/",
+      "published": "Thu, 08 Jan 2026 12:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:39.964454"
-    },
-    {
-      "source": "arstechnica",
-      "title": "AI starts autonomously writing prescription refills in Utah",
-      "summary": "The program allows patients in the state to get prescription refills for 190 common meds.",
-      "link": "https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/",
-      "published": "Wed, 07 Jan 2026 22:20:08 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:39.964485"
+      "crawled_at": "2026-01-08T18:16:23.032969"
     },
     {
       "source": "wired",
@@ -268,60 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:40.145630"
-    },
-    {
-      "source": "wired",
-      "title": "The Daring Attempt to End the Memory Shortage Crisis",
-      "summary": "The supply shortage of the RAM needed to build phones and PCs isn’t going away. But a few companies have a plan to solve it.",
-      "link": "https://www.wired.com/story/solving-the-pc-memory-crisis/",
-      "published": "Thu, 08 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-08T12:24:40.145682"
-    },
-    {
-      "source": "wired",
-      "title": "How Mormons Helped Make America’s Prepping Industry Into Big Business",
-      "summary": "How two big names in mainstream disaster preparedness helped sell Americans on fear, anxiety and a new generator.",
-      "link": "https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/",
-      "published": "Thu, 08 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:40.145717"
-    },
-    {
-      "source": "wired",
-      "title": "This Is the Blood Glucose Monitor We’ve Been Waiting For",
-      "summary": "Makers of smartwatches and other wearables have spent years trying to measure blood sugar without pricking your skin. The PreEvnt Issac does just that, and you wear it like a necklace.",
-      "link": "https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/",
-      "published": "Thu, 08 Jan 2026 10:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:40.145748"
-    },
-    {
-      "source": "wired",
-      "title": "Is Craigslist the Last Real Place on the Internet?",
-      "summary": "Millennials are still using Craigslist to find jobs, find love, and even to cast creative projects—eschewing other AI- and algorithm-dominated online spaces. “There’s a purity to it.”",
-      "link": "https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/",
-      "published": "Thu, 08 Jan 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T12:24:40.145779"
+      "crawled_at": "2026-01-08T18:16:23.032999"
     }
   ]
 }
