@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-08T06:19:19.029403",
+  "last_updated": "2026-01-08T12:24:40.145862",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "JPMorgan Chase becomes the new issuer of the Apple Card",
+      "summary": "Apple expects the transition to take 24 months",
+      "link": "https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/",
+      "published": "Thu, 08 Jan 2026 06:31:55 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-08T12:24:39.257702"
+    },
     {
       "source": "techcrunch",
       "title": "Waymo is rebranding its Zeekr robotaxi",
@@ -10,7 +23,7 @@
       "published": "Thu, 08 Jan 2026 02:43:12 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T06:19:18.085443"
+      "crawled_at": "2026-01-08T12:24:39.257735"
     },
     {
       "source": "techcrunch",
@@ -26,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.085477"
+      "crawled_at": "2026-01-08T12:24:39.257761"
     },
     {
       "source": "techcrunch",
@@ -38,7 +51,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.085501"
+      "crawled_at": "2026-01-08T12:24:39.257808"
     },
     {
       "source": "techcrunch",
@@ -51,20 +64,46 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-01-08T06:19:18.085530"
+      "crawled_at": "2026-01-08T12:24:39.257851"
     },
     {
-      "source": "techcrunch",
-      "title": "Larry Page loosens business ties to CA amid state’s proposed wealth tax, report",
-      "summary": "Larry Page is reportedly moving assets out of California over concern the state will vote in a tax on billionaires.",
-      "link": "https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/",
-      "published": "Wed, 07 Jan 2026 23:23:45 +0000",
+      "source": "theverge",
+      "title": "The gap between premium and budget TV brands is quickly closing",
+      "summary": "For all the time that I've been covering technology, there's been a hierarchy when it comes to TV brands. The big three - Sony, Samsung, and LG - have been on top for a while. Pioneer and Panasonic were up there with plasma TVs, and Panasonic is getting back in the game in the States. [&#8230;]",
+      "link": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
+      "published": "2026-01-08T07:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T12:24:39.333920"
+    },
+    {
+      "source": "theverge",
+      "title": "America’s new era of energy imperialism is about more than oil",
+      "summary": "President Donald Trump has no shame in admitting what he wants to get out of attacking Venezuela and threatening other energy resource-rich nations. \"We're gonna get the oil flowing the way it should be,\" he said January 3rd, soon after his administration stunned the world with what many policy expe",
+      "link": "https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism",
+      "published": "2026-01-08T07:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-08T12:24:39.333975"
+    },
+    {
+      "source": "theverge",
+      "title": "Volvo touts EX60’s range and charging speed ahead of official debut",
+      "summary": "Volvo is starting to trickle out some details about its upcoming midsize electric SUV, the EX60, before its official debut January 21st. The EX60 will have an estimated range of 400 miles (or 810km based on the generous WLTP standard in Europe). That's significantly more range than any previous Volv",
+      "link": "https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery",
+      "published": "2026-01-08T03:00:00-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.085562"
+      "crawled_at": "2026-01-08T12:24:39.334016"
     },
     {
       "source": "theverge",
@@ -77,7 +116,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.304686"
+      "crawled_at": "2026-01-08T12:24:39.334049"
     },
     {
       "source": "theverge",
@@ -92,89 +131,62 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.304736"
-    },
-    {
-      "source": "theverge",
-      "title": "Ford’s AI voice assistant is coming later this year, L3 driving in 2028",
-      "summary": "Ford's new AI-powered voice assistant will be rolling out to customers later this year, the company's top software executive said at CES today. And in 2028, the automaker will introduce a hands-free, eyes-off Level 3 autonomous driving feature as part of its more affordable (and hopefully more profi",
-      "link": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
-      "published": "2026-01-07T19:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.304780"
-    },
-    {
-      "source": "theverge",
-      "title": "Chase is taking over Apple&#8217;s credit card",
-      "summary": "On Wednesday evening, Apple announced that JPMorgan Chase will become the new issuer of Apple Card, replacing Goldman Sachs, which has backed the company's credit cards since their launch in 2019. This ends speculation about a new partner for Apple Card stretching back a few years, as Goldman Sachs ",
-      "link": "https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs",
-      "published": "2026-01-07T18:57:54-05:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-08T06:19:18.304835"
-    },
-    {
-      "source": "theverge",
-      "title": "Blood for stonks",
-      "summary": "On December 31st, a brand-new account on Polymarket placed a bet: Nicol&#225;s Maduro, the leader of Venezuela, would be out of office by the end of January. It was the first in a series of increasing bets. On January 3rd, the US bombed the Venezuelan capital, kidnapped Maduro and his wife, and kill",
-      "link": "https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle",
-      "published": "2026-01-07T18:38:18-05:00",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-08T06:19:18.304873"
+      "crawled_at": "2026-01-08T12:24:39.334087"
     },
     {
       "source": "hackernews",
-      "title": "Covid-19 leaves a lasting mark on the human brain",
-      "summary": "Article URL: https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/\nComments URL: https://news.ycombinator.com/item?id=46537597\nPoints: 6\n# Comments: 0",
-      "link": "https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/",
-      "published": "Thu, 08 Jan 2026 05:37:34 +0000",
+      "title": "Mothers (YC X26) Is Hiring",
+      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers\nComments URL: https://news.ycombinator.com/item?id=46540078\nPoints: 0\n# Comments: 0",
+      "link": "https://jobs.ashbyhq.com/9-mothers",
+      "published": "Thu, 08 Jan 2026 12:00:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T12:24:39.710055"
+    },
+    {
+      "source": "hackernews",
+      "title": "A closer look at a BGP anomaly in Venezuela",
+      "summary": "Article URL: https://blog.cloudflare.com/bgp-route-leak-venezuela/\nComments URL: https://news.ycombinator.com/item?id=46538001\nPoints: 169\n# Comments: 61",
+      "link": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+      "published": "Thu, 08 Jan 2026 06:46:26 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-08T12:24:39.710093"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI misses nearly one-third of breast cancers, study finds",
+      "summary": "Article URL: https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/\nComments URL: https://news.ycombinator.com/item?id=46537983\nPoints: 116\n# Comments: 60",
+      "link": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+      "published": "Thu, 08 Jan 2026 06:43:07 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.738308"
+      "crawled_at": "2026-01-08T12:24:39.710125"
     },
     {
       "source": "hackernews",
       "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "summary": "Article URL: https://patchouli.readthedocs.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=46537489\nPoints: 27\n# Comments: 1",
+      "summary": "Article URL: https://patchouli.readthedocs.io/en/latest/\nComments URL: https://news.ycombinator.com/item?id=46537489\nPoints: 256\n# Comments: 26",
       "link": "https://patchouli.readthedocs.io/en/latest/",
       "published": "Thu, 08 Jan 2026 05:20:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-08T06:19:18.738350"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection",
-      "summary": "I formalized the Single Source of Truth (SSOT) principle in Lean 4 (~2.1k LOC, zero sorry) and proved two core results:Structural SSOT is achievable only when a language provides definition-time hooks and runtime introspection. Macros/codegen (before definition) and reflection (after definition) are",
-      "link": "https://zenodo.org/records/18177320",
-      "published": "Thu, 08 Jan 2026 05:15:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-08T06:19:18.738411"
+      "crawled_at": "2026-01-08T12:24:39.710161"
     },
     {
       "source": "hackernews",
       "title": "Go.sum is not a lockfile",
-      "summary": "Article URL: https://words.filippo.io/gosum/\nComments URL: https://news.ycombinator.com/item?id=46537095\nPoints: 20\n# Comments: 5",
+      "summary": "Article URL: https://words.filippo.io/gosum/\nComments URL: https://news.ycombinator.com/item?id=46537095\nPoints: 93\n# Comments: 34",
       "link": "https://words.filippo.io/gosum/",
       "published": "Thu, 08 Jan 2026 04:10:34 +0000",
       "keywords": [
@@ -182,31 +194,31 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T06:19:18.738443"
+      "crawled_at": "2026-01-08T12:24:39.710192"
     },
     {
-      "source": "hackernews",
-      "title": "Intricuit: A touchscreen add-on for Mac laptops",
-      "summary": "Article URL: https://intricuit.com\nComments URL: https://news.ycombinator.com/item?id=46536897\nPoints: 10\n# Comments: 2",
-      "link": "https://intricuit.com",
-      "published": "Thu, 08 Jan 2026 03:36:32 +0000",
+      "source": "arstechnica",
+      "title": "Volvo says new EX60 has 400-mile range, charges up to 400 kW",
+      "summary": "The new EX60 will be unveiled later this month; here's what we know.",
+      "link": "https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/",
+      "published": "Thu, 08 Jan 2026 08:00:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T06:19:18.738473"
+      "crawled_at": "2026-01-08T12:24:39.964332"
     },
     {
       "source": "arstechnica",
-      "title": "A crew member’s “medical concern” foils a planned spacewalk outside the ISS",
-      "summary": "\"The situation is stable,\" NASA said in a statement Wednesday.",
+      "title": "NASA considers evacuating ailing crew member from International Space Station",
+      "summary": "\"The matter involved a single crew member who is stable,\" NASA said in a statement.",
       "link": "https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/",
       "published": "Thu, 08 Jan 2026 01:58:33 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.928810"
+      "crawled_at": "2026-01-08T12:24:39.964372"
     },
     {
       "source": "arstechnica",
@@ -219,7 +231,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.928839"
+      "crawled_at": "2026-01-08T12:24:39.964403"
     },
     {
       "source": "arstechnica",
@@ -231,7 +243,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-08T06:19:18.928876"
+      "crawled_at": "2026-01-08T12:24:39.964454"
     },
     {
       "source": "arstechnica",
@@ -244,82 +256,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.928899"
+      "crawled_at": "2026-01-08T12:24:39.964485"
     },
     {
-      "source": "arstechnica",
-      "title": "Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”",
-      "summary": "Larry Ellison pledged $40B, but \"he didn’t raise the price,\" Warner chair says.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/",
-      "published": "Wed, 07 Jan 2026 20:12:25 +0000",
+      "source": "wired",
+      "title": "2026 Is the Year of the RGB LED TV",
+      "summary": "The crop of next-generation TVs arriving this year has more accurate colors than ever, thanks to a fancy new kind of backlighting.",
+      "link": "https://www.wired.com/story/rgb-led-televisions-2026/",
+      "published": "Thu, 08 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T12:24:40.145630"
+    },
+    {
+      "source": "wired",
+      "title": "The Daring Attempt to End the Memory Shortage Crisis",
+      "summary": "The supply shortage of the RAM needed to build phones and PCs isn’t going away. But a few companies have a plan to solve it.",
+      "link": "https://www.wired.com/story/solving-the-pc-memory-crisis/",
+      "published": "Thu, 08 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-08T12:24:40.145682"
+    },
+    {
+      "source": "wired",
+      "title": "How Mormons Helped Make America’s Prepping Industry Into Big Business",
+      "summary": "How two big names in mainstream disaster preparedness helped sell Americans on fear, anxiety and a new generator.",
+      "link": "https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/",
+      "published": "Thu, 08 Jan 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:18.928925"
+      "crawled_at": "2026-01-08T12:24:40.145717"
     },
     {
       "source": "wired",
-      "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
-      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "link": "https://www.wired.com/story/litter-robot-promo-code/",
-      "published": "Thu, 08 Jan 2026 06:10:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-01-08T06:19:19.029187"
-    },
-    {
-      "source": "wired",
-      "title": "Newegg Promo Code: 10% Off in January 2026",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg discount code and save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "published": "Thu, 08 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-08T06:19:19.029231"
-    },
-    {
-      "source": "wired",
-      "title": "Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called ‘Holy Child’",
-      "summary": "Researchers suggest that they have recovered sequences from ancient works and from letters that may belong to the Renaissance genius.",
-      "link": "https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/",
-      "published": "Wed, 07 Jan 2026 23:23:29 +0000",
+      "title": "This Is the Blood Glucose Monitor We’ve Been Waiting For",
+      "summary": "Makers of smartwatches and other wearables have spent years trying to measure blood sugar without pricking your skin. The PreEvnt Issac does just that, and you wear it like a necklace.",
+      "link": "https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/",
+      "published": "Thu, 08 Jan 2026 10:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:19.029265"
+      "crawled_at": "2026-01-08T12:24:40.145748"
     },
     {
       "source": "wired",
-      "title": "The Apple AirPods Pro 3 Are $50 Off",
-      "summary": "Snag a relatively rare discount on Apple’s finest earbuds at Best Buy.",
-      "link": "https://www.wired.com/story/apple-airpods-pro-3-deal-126/",
-      "published": "Wed, 07 Jan 2026 22:16:44 +0000",
+      "title": "Is Craigslist the Last Real Place on the Internet?",
+      "summary": "Millennials are still using Craigslist to find jobs, find love, and even to cast creative projects—eschewing other AI- and algorithm-dominated online spaces. “There’s a purity to it.”",
+      "link": "https://www.wired.com/story/is-craigslist-the-last-real-place-on-the-internet/",
+      "published": "Thu, 08 Jan 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Apple",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-08T06:19:19.029288"
-    },
-    {
-      "source": "wired",
-      "title": "Grok Is Generating Sexual Content Far More Graphic Than What's on X",
-      "summary": "A WIRED review of outputs hosted on Grok’s official website shows it’s being used to create violent sexual images and videos, as well as content that includes apparent minors.",
-      "link": "https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/",
-      "published": "Wed, 07 Jan 2026 21:47:56 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-08T06:19:19.029327"
+      "crawled_at": "2026-01-08T12:24:40.145779"
     }
   ]
 }
