@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T00:57:29.779457",
+  "last_updated": "2026-01-09T06:19:24.771617",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.799666"
+      "crawled_at": "2026-01-09T06:19:23.850267"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.799700"
+      "crawled_at": "2026-01-09T06:19:23.850301"
     },
     {
       "source": "techcrunch",
@@ -42,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.799735"
+      "crawled_at": "2026-01-09T06:19:23.850336"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.799777"
+      "crawled_at": "2026-01-09T06:19:23.850377"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,22 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.799813"
+      "crawled_at": "2026-01-09T06:19:23.850412"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox’s Towerborne is switching from a free-to-play game to a paid one",
+      "summary": "Towerborne, a side-scrolling action RPG published by Xbox Game Studios that has been available in early access, will officially launch on February 26th. But instead of launching as a free-to-play, always-on online game as originally planned, Towerborne is instead going to be a paid game that you can",
+      "link": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline",
+      "published": "2026-01-08T20:05:26-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T06:19:23.962182"
     },
     {
       "source": "theverge",
@@ -85,7 +100,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-09T00:57:28.982046"
+      "crawled_at": "2026-01-09T06:19:23.962242"
     },
     {
       "source": "theverge",
@@ -97,7 +112,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:28.982109"
+      "crawled_at": "2026-01-09T06:19:23.962292"
     },
     {
       "source": "theverge",
@@ -110,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.982146"
+      "crawled_at": "2026-01-09T06:19:23.962326"
     },
     {
       "source": "theverge",
@@ -124,86 +139,89 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:28.982181"
-    },
-    {
-      "source": "theverge",
-      "title": "The coolest laptops we saw at CES 2026",
-      "summary": "CES is always jam-packed with new laptop announcements, acting as a barometer for the year's upcoming releases. The proofs of concept at the show display what could potentially come further in the future. 2026 will soon bring us new chip options from Intel, AMD, and Qualcomm. While I'm excited to se",
-      "link": "https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts",
-      "published": "2026-01-08T15:20:05-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-09T00:57:28.982221"
+      "crawled_at": "2026-01-09T06:19:23.962360"
     },
     {
       "source": "hackernews",
-      "title": "Expired certificate breaks macOS Logitech apps",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/\nComments URL: https://news.ycombinator.com/item?id=46548201\nPoints: 8\n# Comments: 0",
-      "link": "https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/",
-      "published": "Thu, 08 Jan 2026 23:51:15 +0000",
+      "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/\nComments URL: https://news.ycombinator.com/item?id=46550231\nPoints: 58\n# Comments: 6",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
+      "published": "Fri, 09 Jan 2026 05:01:24 +0000",
       "keywords": [
-        "Git",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-09T00:57:29.403643"
+      "category": "Tech News",
+      "crawled_at": "2026-01-09T06:19:24.589080"
     },
     {
       "source": "hackernews",
-      "title": "Embassy: Modern embedded framework, using Rust and async",
-      "summary": "Article URL: https://github.com/embassy-rs/embassy\nComments URL: https://news.ycombinator.com/item?id=46547740\nPoints: 58\n# Comments: 14",
-      "link": "https://github.com/embassy-rs/embassy",
-      "published": "Thu, 08 Jan 2026 23:00:45 +0000",
+      "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+      "summary": "Article URL: https://github.com/anomalyco/opencode/issues/7410\nComments URL: https://news.ycombinator.com/item?id=46549823\nPoints: 207\n# Comments: 135",
+      "link": "https://github.com/anomalyco/opencode/issues/7410",
+      "published": "Fri, 09 Jan 2026 03:44:35 +0000",
       "keywords": [
-        "Rust",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-09T00:57:29.403680"
-    },
-    {
-      "source": "hackernews",
-      "title": "Iran Protest Map",
-      "summary": "Article URL: https://pouyaii.github.io/Iran/\nComments URL: https://news.ycombinator.com/item?id=46547303\nPoints: 137\n# Comments: 93",
-      "link": "https://pouyaii.github.io/Iran/",
-      "published": "Thu, 08 Jan 2026 22:20:34 +0000",
-      "keywords": [
-        "AI",
+        "Anthropic",
+        "Claude",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:29.403705"
+      "crawled_at": "2026-01-09T06:19:24.589119"
     },
     {
       "source": "hackernews",
-      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi",
-      "summary": "Article URL: https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/\nComments URL: https://news.ycombinator.com/item?id=46546614\nPoints: 49\n# Comments: 13",
-      "link": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
-      "published": "Thu, 08 Jan 2026 21:17:26 +0000",
+      "title": "Show HN: Executable Markdown files with Unix pipes",
+      "summary": "I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support.task.md:    #!/usr/bin/env claude-run\n\n    Analyze this codebase and summarize the architecture.\n\nThen:    chmod +x task.md\n\n ",
+      "link": "https://news.ycombinator.com/item?id=46549444",
+      "published": "Fri, 09 Jan 2026 02:29:12 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Python",
+        "AWS",
+        "API"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T06:19:24.589246"
+    },
+    {
+      "source": "hackernews",
+      "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
+      "summary": "Article URL: https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/\nComments URL: https://news.ycombinator.com/item?id=46549105\nPoints: 29\n# Comments: 14",
+      "link": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
+      "published": "Fri, 09 Jan 2026 01:39:52 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T06:19:24.589283"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why I left iNaturalist",
+      "summary": "Article URL: https://kueda.net/blog/2026/01/06/why-i-left-inat/\nComments URL: https://news.ycombinator.com/item?id=46548940\nPoints: 135\n# Comments: 54",
+      "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
+      "published": "Fri, 09 Jan 2026 01:17:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:29.403744"
+      "crawled_at": "2026-01-09T06:19:24.589316"
     },
     {
-      "source": "hackernews",
-      "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
-      "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=46546413\nPoints: 0\n# Comments: 0",
-      "link": "https://www.mux.com/jobs",
-      "published": "Thu, 08 Jan 2026 21:01:36 +0000",
+      "source": "arstechnica",
+      "title": "NASA orders “controlled medical evacuation” from the International Space Station",
+      "summary": "\"The crew is highly trained, and they came to the aid of their colleague right away.\"",
+      "link": "https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/",
+      "published": "Fri, 09 Jan 2026 04:26:28 +0000",
       "keywords": [
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:29.403777"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T06:19:24.689107"
     },
     {
       "source": "arstechnica",
@@ -215,7 +233,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-09T00:57:29.635757"
+      "crawled_at": "2026-01-09T06:19:24.689146"
     },
     {
       "source": "arstechnica",
@@ -227,7 +245,7 @@
         "Go"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-09T00:57:29.635795"
+      "crawled_at": "2026-01-09T06:19:24.689176"
     },
     {
       "source": "arstechnica",
@@ -240,7 +258,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:29.635818"
+      "crawled_at": "2026-01-09T06:19:24.689199"
     },
     {
       "source": "arstechnica",
@@ -252,19 +270,57 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:29.635850"
+      "crawled_at": "2026-01-09T06:19:24.689230"
     },
     {
-      "source": "arstechnica",
-      "title": "These dogs eavesdrop on their owners to learn new words",
-      "summary": "“Under the right conditions, some dogs present behaviors strikingly similar to those of young children.”",
-      "link": "https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/",
-      "published": "Thu, 08 Jan 2026 19:00:07 +0000",
+      "source": "wired",
+      "title": "NordVPN Coupons and Deals: 77% Off in January 2026",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "published": "Fri, 09 Jan 2026 06:10:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:29.635884"
+      "category": "Programming",
+      "crawled_at": "2026-01-09T06:19:24.771414"
+    },
+    {
+      "source": "wired",
+      "title": "$20 Chewy Promo Code | January 2026",
+      "summary": "Explore Chewy coupon codes for $20 off $49 orders, 50% off pet food, and more winter 2026 discounts.",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published": "Fri, 09 Jan 2026 06:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-09T06:19:24.771442"
+    },
+    {
+      "source": "wired",
+      "title": "20% Squarespace Promo Codes | January 2026",
+      "summary": "Get 10% off your next website with exclusive Squarespace discount code for 2026, 50% off plans, and more top coupons.",
+      "link": "https://www.wired.com/story/squarespace-promo-code/",
+      "published": "Fri, 09 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-09T06:19:24.771466"
+    },
+    {
+      "source": "wired",
+      "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony",
+      "summary": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
+      "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
+      "published": "Fri, 09 Jan 2026 03:19:26 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T06:19:24.771506"
     },
     {
       "source": "wired",
@@ -276,61 +332,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-09T00:57:29.779225"
-    },
-    {
-      "source": "wired",
-      "title": "Why Are Grok and X Still Available in App Stores?",
-      "summary": "Elon Musk’s chatbot has been used to generate thousands of sexualized images of adults and apparent minors. Apple and Google have removed other “nudify” apps—but continue to host X and Grok.",
-      "link": "https://www.wired.com/story/x-grok-app-store-nudify-csam-apple-google-content-moderation/",
-      "published": "Thu, 08 Jan 2026 20:25:32 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:29.779264"
-    },
-    {
-      "source": "wired",
-      "title": "MAGA Is Already Rewriting the ICE Shooting in Minneapolis",
-      "summary": "The federal government’s narrative of the Minneapolis shooting conflicts wildly with video footage of the incident shared online.",
-      "link": "https://www.wired.com/story/maga-trump-rewriting-ice-shooting-minneapolis/",
-      "published": "Thu, 08 Jan 2026 20:17:12 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-09T00:57:29.779302"
-    },
-    {
-      "source": "wired",
-      "title": "The 70 Best Movies on Disney+, WIRED’s Picks (January 2026)",
-      "summary": "Tron: Ares, Indiana Jones and the Raiders of the Lost Ark, and Taylor Swift: The Eras Tour—The Final Show are just a few of the movies you should be watching on Disney+ this month.",
-      "link": "https://www.wired.com/story/best-movies-disney-plus/",
-      "published": "Thu, 08 Jan 2026 20:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T00:57:29.779333"
-    },
-    {
-      "source": "wired",
-      "title": "Best Bird Feeders With Cameras, Tested and Reviewed (2026)",
-      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "published": "Thu, 08 Jan 2026 19:33:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-09T00:57:29.779378"
+      "crawled_at": "2026-01-09T06:19:24.771544"
     }
   ]
 }
