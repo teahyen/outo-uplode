@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-09T06:19:24.771617",
+  "last_updated": "2026-01-09T12:23:07.388668",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Anthropic adds Allianz to growing list of enterprise wins",
+      "summary": "Anthropic announces its first enterprise deal of 2026 which includes building agents and for, and giving Claude code, to Allianz.",
+      "link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
+      "published": "Fri, 09 Jan 2026 09:00:00 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T12:23:06.475740"
+    },
     {
       "source": "techcrunch",
       "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
@@ -12,7 +25,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.850267"
+      "crawled_at": "2026-01-09T12:23:06.475797"
     },
     {
       "source": "techcrunch",
@@ -27,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.850301"
+      "crawled_at": "2026-01-09T12:23:06.475823"
     },
     {
       "source": "techcrunch",
@@ -42,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.850336"
+      "crawled_at": "2026-01-09T12:23:06.475857"
     },
     {
       "source": "techcrunch",
@@ -57,20 +70,33 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.850377"
+      "crawled_at": "2026-01-09T12:23:06.475898"
     },
     {
-      "source": "techcrunch",
-      "title": "Critics pan spyware maker NSO’s transparency claims amid its push to enter US market",
-      "summary": "The infamous spyware maker released a new transparency report claiming to be a responsible spyware maker, without providing insight into how the company dealt with problematic customers in the past.",
-      "link": "https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/",
-      "published": "Thu, 08 Jan 2026 19:15:32 +0000",
+      "source": "theverge",
+      "title": "The Verge Awards at CES 2026",
+      "summary": "Every January, the world of consumer electronics heads to Las Vegas to spend the first full week of the year in the desert presenting, prodding, and gawking at all the new gadgets and gear debuting at CES. The show has once again delivered an avalanche of products, both innovative and vaporous, that",
+      "link": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
+      "published": "2026-01-09T07:00:00-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.850412"
+      "crawled_at": "2026-01-09T12:23:06.573316"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft is making it much easier to add hyperlinks in Word docs",
+      "summary": "Microsoft is making it a lot faster and easier to add links to text inside Word documents. Instead of having to open a menu item to insert a link or use the CTRL + K keyboard shortcut, you can now simply paste a link on top of the text you want to hyperlink. This new [&#8230;]",
+      "link": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
+      "published": "2026-01-09T05:58:11-05:00",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-09T12:23:06.573377"
     },
     {
       "source": "theverge",
@@ -85,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.962182"
+      "crawled_at": "2026-01-09T12:23:06.573423"
     },
     {
       "source": "theverge",
@@ -100,7 +126,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-09T06:19:23.962242"
+      "crawled_at": "2026-01-09T12:23:06.573470"
     },
     {
       "source": "theverge",
@@ -112,104 +138,68 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T06:19:23.962292"
-    },
-    {
-      "source": "theverge",
-      "title": "UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes",
-      "summary": "UK Prime Minister Keir Starmer says the country will take action against X following reports that the platform's Grok AI chatbot is generating sexualized deepfakes of adults and minors, as reported earlier by The Telegraph and Sky News. \"It's disgusting,\" Starmer says during an interview with Greate",
-      "link": "https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes",
-      "published": "2026-01-08T18:23:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.962326"
-    },
-    {
-      "source": "theverge",
-      "title": "The best earbuds we’ve tested for 2026",
-      "summary": "It’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds, when we had [&#8230;]",
-      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
-      "published": "2026-01-08T17:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:23.962360"
+      "crawled_at": "2026-01-09T12:23:06.573513"
     },
     {
       "source": "hackernews",
-      "title": "The No Fakes Act Has a \"Fingerprinting\" Trap That Kills Open Source",
-      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/\nComments URL: https://news.ycombinator.com/item?id=46550231\nPoints: 58\n# Comments: 6",
+      "title": "MCP is a fad",
+      "summary": "Article URL: https://tombedor.dev/mcp-is-a-fad/\nComments URL: https://news.ycombinator.com/item?id=46552254\nPoints: 92\n# Comments: 64",
+      "link": "https://tombedor.dev/mcp-is-a-fad/",
+      "published": "Fri, 09 Jan 2026 10:27:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-09T12:23:07.220651"
+    },
+    {
+      "source": "hackernews",
+      "title": "What happened to WebAssembly",
+      "summary": "Article URL: https://emnudge.dev/blog/what-happened-to-webassembly/\nComments URL: https://news.ycombinator.com/item?id=46551044\nPoints: 164\n# Comments: 150",
+      "link": "https://emnudge.dev/blog/what-happened-to-webassembly/",
+      "published": "Fri, 09 Jan 2026 07:38:30 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-09T12:23:07.220693"
+    },
+    {
+      "source": "hackernews",
+      "title": "European Commission issues call for evidence on open source",
+      "summary": "Article URL: https://lwn.net/Articles/1053107/\nComments URL: https://news.ycombinator.com/item?id=46550912\nPoints: 194\n# Comments: 105",
+      "link": "https://lwn.net/Articles/1053107/",
+      "published": "Fri, 09 Jan 2026 07:09:39 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-09T12:23:07.220748"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mathematics for Computer Science (2018) [pdf]",
+      "summary": "Article URL: https://courses.csail.mit.edu/6.042/spring18/mcs.pdf\nComments URL: https://news.ycombinator.com/item?id=46550895\nPoints: 139\n# Comments: 20",
+      "link": "https://courses.csail.mit.edu/6.042/spring18/mcs.pdf",
+      "published": "Fri, 09 Jan 2026 07:06:41 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T12:23:07.220778"
+    },
+    {
+      "source": "hackernews",
+      "title": "The No Fakes Act has a “fingerprinting” trap that kills open source?",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/\nComments URL: https://news.ycombinator.com/item?id=46550231\nPoints: 143\n# Comments: 58",
       "link": "https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/",
       "published": "Fri, 09 Jan 2026 05:01:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T06:19:24.589080"
-    },
-    {
-      "source": "hackernews",
-      "title": "Anthropic blocks third-party use of Claude Code subscriptions",
-      "summary": "Article URL: https://github.com/anomalyco/opencode/issues/7410\nComments URL: https://news.ycombinator.com/item?id=46549823\nPoints: 207\n# Comments: 135",
-      "link": "https://github.com/anomalyco/opencode/issues/7410",
-      "published": "Fri, 09 Jan 2026 03:44:35 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.589119"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Executable Markdown files with Unix pipes",
-      "summary": "I wanted to run markdown files like shell scripts. So I built an open source tool that lets you use a shebang to pipe them through Claude Code with full stdin/stdout support.task.md:    #!/usr/bin/env claude-run\n\n    Analyze this codebase and summarize the architecture.\n\nThen:    chmod +x task.md\n\n ",
-      "link": "https://news.ycombinator.com/item?id=46549444",
-      "published": "Fri, 09 Jan 2026 02:29:12 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Python",
-        "AWS",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.589246"
-    },
-    {
-      "source": "hackernews",
-      "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
-      "summary": "Article URL: https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/\nComments URL: https://news.ycombinator.com/item?id=46549105\nPoints: 29\n# Comments: 14",
-      "link": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
-      "published": "Fri, 09 Jan 2026 01:39:52 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.589283"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why I left iNaturalist",
-      "summary": "Article URL: https://kueda.net/blog/2026/01/06/why-i-left-inat/\nComments URL: https://news.ycombinator.com/item?id=46548940\nPoints: 135\n# Comments: 54",
-      "link": "https://kueda.net/blog/2026/01/06/why-i-left-inat/",
-      "published": "Fri, 09 Jan 2026 01:17:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-09T06:19:24.589316"
+      "crawled_at": "2026-01-09T12:23:07.220830"
     },
     {
       "source": "arstechnica",
@@ -221,7 +211,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.689107"
+      "crawled_at": "2026-01-09T12:23:07.313151"
     },
     {
       "source": "arstechnica",
@@ -233,7 +223,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-09T06:19:24.689146"
+      "crawled_at": "2026-01-09T12:23:07.313192"
     },
     {
       "source": "arstechnica",
@@ -245,7 +235,7 @@
         "Go"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-09T06:19:24.689176"
+      "crawled_at": "2026-01-09T12:23:07.313223"
     },
     {
       "source": "arstechnica",
@@ -258,7 +248,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.689199"
+      "crawled_at": "2026-01-09T12:23:07.313246"
     },
     {
       "source": "arstechnica",
@@ -270,69 +260,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-09T06:19:24.689230"
+      "crawled_at": "2026-01-09T12:23:07.313278"
     },
     {
       "source": "wired",
-      "title": "NordVPN Coupons and Deals: 77% Off in January 2026",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "published": "Fri, 09 Jan 2026 06:10:00 +0000",
+      "title": "Conservative Lawmakers Want Porn Taxes. Critics Say They’re Unconstitutional",
+      "summary": "Alabama passed a 10 percent porn tax last year, as Utah and Pennsylvania eye similar bills. Half the country has enacted age-verification laws to prevent minors from viewing porn.",
+      "link": "https://www.wired.com/story/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/",
+      "published": "Fri, 09 Jan 2026 12:00:00 +0000",
       "keywords": [
+        "AWS",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-01-09T06:19:24.771414"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-09T12:23:07.388345"
     },
     {
       "source": "wired",
-      "title": "$20 Chewy Promo Code | January 2026",
-      "summary": "Explore Chewy coupon codes for $20 off $49 orders, 50% off pet food, and more winter 2026 discounts.",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "published": "Fri, 09 Jan 2026 06:10:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-09T06:19:24.771442"
-    },
-    {
-      "source": "wired",
-      "title": "20% Squarespace Promo Codes | January 2026",
-      "summary": "Get 10% off your next website with exclusive Squarespace discount code for 2026, 50% off plans, and more top coupons.",
-      "link": "https://www.wired.com/story/squarespace-promo-code/",
-      "published": "Fri, 09 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-09T06:19:24.771466"
-    },
-    {
-      "source": "wired",
-      "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony",
-      "summary": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement actions, according to testimony obtained by WIRED.",
-      "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
-      "published": "Fri, 09 Jan 2026 03:19:26 +0000",
+      "title": "‘Physical AI’ Is Coming for Your Car",
+      "summary": "What the latest tech-marketing buzzword has to say about the future of automotive.",
+      "link": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
+      "published": "Fri, 09 Jan 2026 11:30:00 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-09T06:19:24.771506"
+      "crawled_at": "2026-01-09T12:23:07.388380"
     },
     {
       "source": "wired",
-      "title": "Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands",
-      "summary": "The pivot doesn’t look out of place at CES, where Chinese electronics companies are increasingly applying their manufacturing prowess to new industries.",
-      "link": "https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/",
-      "published": "Thu, 08 Jan 2026 21:25:40 +0000",
+      "title": "Burtran Nano-Oxy Smart Air Purifier: Safe Sleep?",
+      "summary": "This negative-oxygen-ion-generating purifier claims to create a “forestlike atmosphere” in your bedroom.",
+      "link": "https://www.wired.com/review/burtran-nano-oxy-hepa-14-air-purifier/",
+      "published": "Fri, 09 Jan 2026 11:02:00 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T12:23:07.388408"
+    },
+    {
+      "source": "wired",
+      "title": "Crispr Pioneer Launches Startup to Make Tailored Gene-Editing Treatments",
+      "summary": "Aurora Therapeutics, cofounded by Nobel Prize–winning scientist Jennifer Doudna, plans to use gene editing and a new FDA regulatory pathway to commercialize treatments for rare diseases.",
+      "link": "https://www.wired.com/story/crispr-pioneer-launches-startup-to-make-tailored-gene-editing-treatments/",
+      "published": "Fri, 09 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-09T12:23:07.388442"
+    },
+    {
+      "source": "wired",
+      "title": "The Oceans Just Keep Getting Hotter",
+      "summary": "For the eighth year in a row, the world’s oceans absorbed a record-breaking amount of heat in 2025. It was equivalent to the energy it would take to boil 2 billion Olympic swimming pools.",
+      "link": "https://www.wired.com/story/the-oceans-just-keep-getting-hotter/",
+      "published": "Fri, 09 Jan 2026 08:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-09T06:19:24.771544"
+      "category": "Tech News",
+      "crawled_at": "2026-01-09T12:23:07.388482"
     }
   ]
 }
