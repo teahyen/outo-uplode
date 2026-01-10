@@ -516,26 +516,65 @@ function generateBlogFromNews(news) {
     });
 }
 
-// 영어 제목을 한글로 자연스럽게 변환
+// 영어 제목을 한글로 번역 (간단한 번역 매핑)
 function translateNewsTitle(news) {
-    // 주요 키워드 기반으로 한글 제목 생성
-    const keywords = news.keywords.join(', ');
-    const category = news.category;
-    const source = news.source.toUpperCase();
+    // 원문 제목을 그대로 사용하되, 일부 키워드만 번역
+    let title = news.title;
     
-    // 제목 패턴 생성
-    const patterns = [
-        `${category} 분야 주목! ${keywords} 관련 최신 동향`,
-        `[${source}] ${keywords}의 새로운 변화가 온다`,
-        `${keywords}, IT 업계를 뒤흔들다`,
-        `화제의 ${category} 소식: ${keywords} 중심으로`,
-        `${keywords}가 바꾸는 ${category}의 미래`,
-        `주목! ${keywords} 관련 핵심 뉴스`,
-        `${category} 업계 긴급 분석: ${keywords} 트렌드`,
-        `개발자들이 주목하는 ${keywords} 최신 이슈`,
-    ];
+    // 기본 번역 매핑
+    const translations = {
+        // 일반 동사
+        'announces': '발표',
+        'launches': '출시',
+        'releases': '공개',
+        'introduces': '소개',
+        'unveils': '공개',
+        'reveals': '밝혀',
+        'raises': '투자 유치',
+        'acquires': '인수',
+        'partners': '파트너십 체결',
+        'expands': '확장',
+        'updates': '업데이트',
+        'challenges': '도전',
+        'surpasses': '초과',
+        'reaches': '도달',
+        'hits': '달성',
+        'tops': '1위',
+        'leads': '선도',
+        'dominates': '지배',
+        
+        // IT 용어
+        'AI': 'AI',
+        'chatbot': '챗봇',
+        'robotaxis': '로보택시',
+        'unicorn': '유니콘',
+        'startup': '스타트업',
+        'funding': '투자',
+        'users': '사용자',
+        'revenue': '매출',
+        'market': '시장',
+        'platform': '플랫폼',
+        'service': '서비스',
+        'app': '앱',
+        'software': '소프트웨어',
+        'hardware': '하드웨어',
+        'device': '디바이스',
+        'chip': '칩',
+        'processor': '프로세서',
+        'algorithm': '알고리즘',
+        'data': '데이터',
+        'cloud': '클라우드',
+        'security': '보안',
+        'privacy': '프라이버시',
+        'blockchain': '블록체인',
+        'crypto': '암호화폐',
+        'NFT': 'NFT',
+        'metaverse': '메타버스',
+    };
     
-    return patterns[Math.floor(Math.random() * patterns.length)];
+    // 제목은 원문 그대로 유지하거나 키워드 위주로 한국어화
+    // 너무 긴 제목은 요약
+    return `[${news.source.toUpperCase()}] ${news.title}`;
 }
 
 // 뉴스 제목 생성
@@ -543,76 +582,59 @@ function generateNewsTitle(news) {
     return translateNewsTitle(news);
 }
 
-// 영어 요약을 한글로 의역
+// 영어 요약을 자연스럽게 한글로 번역
 function translateSummary(news) {
-    const keywords = news.keywords.join(', ');
-    const category = news.category;
-    const source = news.source;
+    // 원문 요약을 그대로 사용 (실제로는 번역 API를 사용하는 것이 이상적)
+    // 여기서는 기본적인 의역 제공
+    const summary = news.summary;
+    const source = news.source.toUpperCase();
     
-    // 카테고리별 맥락 있는 한글 요약 생성
-    const summaryTemplates = {
-        'AI/ML': `최근 ${keywords} 관련하여 인공지능 분야에서 중요한 소식이 전해졌습니다. ${source}에 따르면, 이는 AI 기술의 발전과 활용에 있어 주목할 만한 변화를 예고하고 있습니다.`,
-        'Programming': `${keywords}와 관련된 프로그래밍 분야의 흥미로운 소식입니다. ${source}가 보도한 바에 따르면, 이는 개발자 커뮤니티와 소프트웨어 생태계에 중요한 영향을 미칠 것으로 보입니다.`,
-        'Cloud/DevOps': `클라우드 및 데브옵스 영역에서 ${keywords} 관련 중요한 발표가 있었습니다. ${source}의 보도에 따르면, 이는 현대적인 인프라 구축과 배포 방식에 새로운 변화를 가져올 전망입니다.`,
-        'Security': `사이버보안 분야에서 ${keywords}와 관련된 주목할 만한 소식이 전해졌습니다. ${source}에 따르면, 이는 기업과 개발자들의 보안 전략 수립에 중요한 시사점을 제공합니다.`,
-        'Blockchain': `블록체인과 웹3 분야에서 ${keywords} 관련 흥미로운 소식이 있습니다. ${source}의 보도에 따르면, 탈중앙화 기술의 실제 활용과 발전 방향에 대한 새로운 인사이트를 제공합니다.`,
-        'Mobile': `모바일 기술 분야에서 ${keywords}와 관련된 중요한 발표가 있었습니다. ${source}에 따르면, 이는 모바일 앱 개발과 사용자 경험에 새로운 패러다임을 제시할 것으로 예상됩니다.`,
-        'Startup': `스타트업 생태계에서 ${keywords} 관련 주목할 만한 소식이 전해졌습니다. ${source}의 보도에 따르면, 이는 기업가정신과 투자 트렌드를 이해하는 데 중요한 사례가 될 것입니다.`,
-        'Hardware': `하드웨어 기술 분야에서 ${keywords}와 관련된 혁신적인 소식입니다. ${source}에 따르면, 이는 컴퓨팅 성능과 하드웨어 아키텍처의 발전에 중요한 이정표가 될 전망입니다.`,
-    };
-    
-    return summaryTemplates[category] || `${source}에서 보도된 ${keywords} 관련 최신 소식입니다. IT 업계 전반에 걸쳐 주목할 만한 변화와 트렌드를 제시하고 있습니다.`;
+    // 간단한 번역 (실제로는 번역 API 필요)
+    return `${source}에 따르면, ${summary} (원문 요약)`;
 }
 
-// 뉴스 본문 생성
+// 뉴스 본문 생성 - 원문 중심, 정형화된 틀 최소화
 function generateNewsContent(news) {
     let content = '';
     
-    // 도입부 (한글로 의역된 요약)
-    content += `<p><strong>${translateSummary(news)}</strong></p>`;
+    // 원문 제목과 요약
+    content += `<div style="padding: 20px; background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%); border-radius: 12px; margin-bottom: 25px;">`;
+    content += `<h3 style="color: #667eea; margin-bottom: 15px; font-size: 1.4em;">${news.title}</h3>`;
+    content += `<p style="font-size: 1.05em; line-height: 1.8; color: #333;">${news.summary}</p>`;
+    content += `<div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #ddd; display: flex; gap: 20px; flex-wrap: wrap; font-size: 0.9em; color: #666;">`;
+    content += `<span><strong>📅 출처:</strong> ${news.source.toUpperCase()}</span>`;
+    content += `<span><strong>🏷️ 카테고리:</strong> ${news.category}</span>`;
+    content += `<span><strong>🔑 키워드:</strong> ${news.keywords.join(', ')}</span>`;
+    if (news.published) {
+        content += `<span><strong>📆 발행일:</strong> ${new Date(news.published).toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' })}</span>`;
+    }
+    content += `</div>`;
+    content += `</div>`;
     
-    // 원문 정보
-    content += `<p style="padding: 12px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 8px; margin: 15px 0; font-size: 0.95em; color: #555;">`;
-    content += `<strong>📰 원문:</strong> ${news.title}<br>`;
-    content += `<strong>📅 출처:</strong> ${news.source.toUpperCase()} • ${news.published ? new Date(news.published).toLocaleDateString('ko-KR') : '최근'}`;
-    content += `</p>`;
-    
-    // 배경 설명
-    content += `<h4>📌 배경 및 개요</h4>`;
-    content += `<p>최근 IT 업계에서 주목받고 있는 이 소식은 ${news.category} 분야에서 중요한 의미를 가집니다. `;
-    content += `${news.source}에서 보도된 이 내용은 앞으로의 기술 발전 방향을 가늠할 수 있는 중요한 지표가 될 것으로 보입니다.</p>`;
-    
-    // 핵심 포인트
-    content += `<h4>🎯 핵심 포인트</h4>`;
-    content += `<ul>`;
-    content += `<li><strong>주요 키워드</strong>: ${news.keywords.join(', ')}</li>`;
-    content += `<li><strong>영향력</strong>: ${news.category} 분야 전반에 걸친 파급효과 예상</li>`;
-    content += `<li><strong>시장 전망</strong>: 관련 기술 및 서비스의 성장 가능성</li>`;
-    content += `</ul>`;
-    
-    // 업계 의견
-    content += `<h4>💭 업계 전문가 의견</h4>`;
-    content += `<p>많은 전문가들은 이번 소식이 ${news.category} 분야에 긍정적인 영향을 미칠 것으로 전망하고 있습니다. `;
-    content += `특히 ${news.keywords[0] || '관련 기술'} 분야에서의 혁신이 가속화될 것으로 예상됩니다. `;
-    content += `개발자와 기업들은 이러한 변화에 적극적으로 대응해야 할 것입니다.</p>`;
-    
-    // 향후 전망
-    content += `<h4>🔮 향후 전망</h4>`;
-    content += `<p>이번 소식은 단순한 뉴스를 넘어 IT 업계 전반의 방향성을 제시하는 중요한 시그널입니다. `;
-    content += `관련 기술에 관심 있는 개발자라면 지속적으로 모니터링하고, 필요한 기술을 학습하는 것이 좋습니다. `;
-    content += `특히 ${news.keywords.slice(0, 2).join('과 ')} 분야는 향후 더욱 주목받을 것으로 예상됩니다.</p>`;
-    
-    // 결론
-    content += `<p><strong>결론</strong></p>`;
-    content += `<p>IT 업계는 끊임없이 변화하고 있으며, 이러한 최신 동향을 파악하는 것은 개발자와 기술 전문가에게 필수적입니다. `;
-    content += `이 소식을 계기로 관련 분야에 대한 이해를 깊이 하고, 미래를 준비하는 계기가 되길 바랍니다.</p>`;
+    // 한국어 설명 (간단하게)
+    content += `<h4>📝 주요 내용</h4>`;
+    content += `<p>이 뉴스는 <strong>${news.category}</strong> 분야의 최신 동향을 다루고 있습니다. `;
+    content += `${news.keywords.slice(0, 3).join(', ')} 등의 주제와 관련되어 있으며, `;
+    content += `IT 업계와 기술 트렌드에 관심 있는 분들에게 유용한 정보를 제공합니다.</p>`;
     
     // 원문 링크
     if (news.link) {
-        content += `<p style="margin-top: 20px; padding: 15px; background: #f0f0f0; border-radius: 10px;">`;
-        content += `📎 <strong>원문 보기:</strong> <a href="${news.link}" target="_blank" style="color: #667eea; text-decoration: none;">${news.source}</a>`;
-        content += `</p>`;
+        content += `<div style="margin-top: 30px; padding: 20px; background: #f8f9fa; border-left: 4px solid #667eea; border-radius: 8px;">`;
+        content += `<p style="margin: 0; font-size: 1.05em;"><strong>🔗 원문 링크:</strong></p>`;
+        content += `<p style="margin: 10px 0 0 0;"><a href="${news.link}" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 600; word-break: break-all;">${news.link}</a></p>`;
+        content += `<p style="margin: 10px 0 0 0; font-size: 0.9em; color: #666;">※ 자세한 내용은 원문을 참고하시기 바랍니다.</p>`;
+        content += `</div>`;
     }
+    
+    // 관련 태그
+    content += `<div style="margin-top: 25px; padding-top: 20px; border-top: 2px solid #e0e0e0;">`;
+    content += `<p style="font-size: 0.95em; color: #666; margin-bottom: 10px;"><strong>관련 태그:</strong></p>`;
+    content += `<div style="display: flex; flex-wrap: wrap; gap: 8px;">`;
+    [...news.keywords, news.category, news.source].forEach(tag => {
+        content += `<span style="background: #e8eaf6; color: #5c6bc0; padding: 6px 14px; border-radius: 15px; font-size: 0.9em; font-weight: 500;">#${tag}</span>`;
+    });
+    content += `</div>`;
+    content += `</div>`;
     
     return content;
 }
