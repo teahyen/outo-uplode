@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-01-10T18:16:24.362436",
+  "last_updated": "2026-01-11T01:02:39.310475",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "SpaceX gets FCC approval to launch 7,500 more Starlink satellites",
+      "summary": "The Federal Communications Commission has given SpaceX approval to launch another 7,500 of its second generation Starlink satellites.",
+      "link": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+      "published": "Sat, 10 Jan 2026 22:11:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-11T01:02:38.531695"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+      "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+      "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+      "published": "Sat, 10 Jan 2026 21:18:29 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-11T01:02:38.531730"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+      "summary": "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+      "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+      "published": "Sat, 10 Jan 2026 19:37:54 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-11T01:02:38.531763"
+    },
     {
       "source": "techcrunch",
       "title": "I met a lot of weird robots at CES — here are the most memorable",
@@ -12,7 +50,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:23.412907"
+      "crawled_at": "2026-01-11T01:02:38.531807"
     },
     {
       "source": "techcrunch",
@@ -28,46 +66,49 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:23.412947"
+      "crawled_at": "2026-01-11T01:02:38.531837"
     },
     {
-      "source": "techcrunch",
-      "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-      "summary": "CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.",
-      "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-      "published": "Fri, 09 Jan 2026 22:36:27 +0000",
+      "source": "theverge",
+      "title": "Musk says he&#8217;s going to open-source the new X algorithm next week",
+      "summary": "In 2023, what was then still called Twitter, open-sourced at least portions of the code that decided what it served up in your feed. But that GitHub repository is hopelessly out of date, with the vast majority of the files appearing to be from the initial upload three years ago. Elon Musk says that ",
+      "link": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+      "published": "2026-01-10T16:57:35-05:00",
       "keywords": [
-        "AI"
+        "Go",
+        "Git",
+        "GitHub",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:23.412987"
+      "category": "Programming",
+      "crawled_at": "2026-01-11T01:02:38.687422"
     },
     {
-      "source": "techcrunch",
-      "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
-      "summary": "Ozlo Sleepbuds are going to have a big year, with new products, AI features, and more.",
-      "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
-      "published": "Fri, 09 Jan 2026 19:36:04 +0000",
+      "source": "theverge",
+      "title": "These are the smart home gadgets that impressed me at CES 2026",
+      "summary": "I picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. It was a banner year for smart home products, but the big trends I saw weren't about new product categori",
+      "link": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
+      "published": "2026-01-10T16:30:17-05:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-11T01:02:38.687482"
+    },
+    {
+      "source": "theverge",
+      "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
+      "summary": "The FCC approved SpaceX's plan to launch an additional 7,500 Gen2 Starlink satellites on Friday. That brings the total number of satellites the company will have in orbit to around 15,000 worldwide. As part of the approval, the government is also waiving previous requirements that prevented overlapp",
+      "link": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
+      "published": "2026-01-10T16:06:30-05:00",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:23.413011"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
-      "summary": "Two smaller companies, Oklo and TerraPower, along with Vistra, a large energy company, just signed agreements with Meta.",
-      "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
-      "published": "Fri, 09 Jan 2026 17:51:15 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:23.413042"
+      "crawled_at": "2026-01-11T01:02:38.687520"
     },
     {
       "source": "theverge",
@@ -79,7 +120,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:23.488053"
+      "crawled_at": "2026-01-11T01:02:38.687576"
     },
     {
       "source": "theverge",
@@ -91,111 +132,76 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:23.488119"
+      "crawled_at": "2026-01-11T01:02:38.687630"
     },
     {
-      "source": "theverge",
-      "title": "I replaced Windows with Linux and everything’s going great",
-      "summary": "Greetings from the year of Linux on my desktop. In November, I got fed up and said screw it, I'm installing Linux. Since that article was published, I have dealt with one minor catastrophe after another. None of that has anything to do with Linux, mind you. It just meant I didn't install it on [&#82",
-      "link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
-      "published": "2026-01-10T10:00:00-05:00",
+      "source": "hackernews",
+      "title": "Show HN: GlyphLang – An AI-first programming language",
+      "summary": "While working on a proof of concept project, I kept hitting Claude's token limit 30-60 minutes into their 5-hour sessions. The accumulating context from the codebase was eating through tokens fast. So I built a language designed to be generated by AI rather than written by humans.GlyphLangGlyphLang ",
+      "link": "https://news.ycombinator.com/item?id=46571166",
+      "published": "Sat, 10 Jan 2026 23:46:58 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Python",
+        "Java",
+        "SQL"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-11T01:02:39.060918"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "summary": "TLDR: Librario is a book metadata API that aggregates data from Google Books, ISBNDB, and Hardcover into a single response, solving the problem of no single source having complete book information. It's currently pre-alpha, AGPL-licensed, and available to try now[0].My wife and I have a personal lib",
+      "link": "https://news.ycombinator.com/item?id=46571149",
+      "published": "Sat, 10 Jan 2026 23:45:25 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Windows",
-        "Linux",
-        "AR"
+        "API",
+        "Google",
+        "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:23.488158"
-    },
-    {
-      "source": "theverge",
-      "title": "We tried to get humanoid robots to do the laundry",
-      "summary": "At CES this year, humanoid robots appeared to be closer than ever to moving into our homes. LG introduced CLOiD, a household robot it says can handle chores like preparing food and loading the washing machine. SwitchBot showed off the Onero H1, another home helper built to tackle everyday tasks, and",
-      "link": "https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry",
-      "published": "2026-01-10T10:00:00-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-10T18:16:23.488201"
-    },
-    {
-      "source": "theverge",
-      "title": "What&#8217;s on your desk, Stevie Bonifield?",
-      "summary": "Stevie Bonifield is a news writer here at The Verge and, they say, “I cover a little bit of just about everything, from the FCC to AI shopping tools to Linux.” Before joining our news team, they wrote weekend news for PC Gamer and did reviews, news, features, and guides for Laptop Mag, along with [&",
-      "link": "https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo",
-      "published": "2026-01-10T09:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Linux"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:23.488237"
+      "crawled_at": "2026-01-11T01:02:39.061181"
     },
     {
       "source": "hackernews",
-      "title": "Circumcision classed as possible child abuse in draft CPS document",
-      "summary": "Article URL: https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document\nComments URL: https://news.ycombinator.com/item?id=46567696\nPoints: 39\n# Comments: 16",
-      "link": "https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document",
-      "published": "Sat, 10 Jan 2026 17:21:16 +0000",
+      "title": "Private equity firms acquired more than 500 autism centers in past decade: study",
+      "summary": "Article URL: https://www.brown.edu/news/2026-01-07/private-equity-autism-centers\nComments URL: https://news.ycombinator.com/item?id=46571095\nPoints: 102\n# Comments: 45",
+      "link": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
+      "published": "Sat, 10 Jan 2026 23:36:16 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.079137"
+      "crawled_at": "2026-01-11T01:02:39.061224"
     },
     {
       "source": "hackernews",
-      "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
-      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=46567458\nPoints: 0\n# Comments: 0",
-      "link": "https://up.codes/careers?utm_source=HN",
-      "published": "Sat, 10 Jan 2026 17:01:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-10T18:16:24.079175"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI is a business model stress test",
-      "summary": "Article URL: https://dri.es/ai-is-a-business-model-stress-test\nComments URL: https://news.ycombinator.com/item?id=46567392\nPoints: 26\n# Comments: 18",
-      "link": "https://dri.es/ai-is-a-business-model-stress-test",
-      "published": "Sat, 10 Jan 2026 16:56:34 +0000",
+      "title": "UK Orders Ofcom to Explore Encryption Backdoors",
+      "summary": "Article URL: https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors\nComments URL: https://news.ycombinator.com/item?id=46570158\nPoints: 68\n# Comments: 22",
+      "link": "https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors",
+      "published": "Sat, 10 Jan 2026 21:36:26 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:24.079203"
+      "crawled_at": "2026-01-11T01:02:39.061253"
     },
     {
       "source": "hackernews",
-      "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
-      "summary": "Article URL: https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/\nComments URL: https://news.ycombinator.com/item?id=46567138\nPoints: 146\n# Comments: 147",
-      "link": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
-      "published": "Sat, 10 Jan 2026 16:36:56 +0000",
-      "keywords": [
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.079243"
-    },
-    {
-      "source": "hackernews",
-      "title": "Open Chaos: A self-evolving open-source project",
-      "summary": "Article URL: https://www.openchaos.dev/\nComments URL: https://news.ycombinator.com/item?id=46566812\nPoints: 62\n# Comments: 6",
-      "link": "https://www.openchaos.dev/",
-      "published": "Sat, 10 Jan 2026 16:03:55 +0000",
+      "title": "Extracting books from production language models (2026)",
+      "summary": "Article URL: https://arxiv.org/abs/2601.02671\nComments URL: https://news.ycombinator.com/item?id=46569799\nPoints: 22\n# Comments: 1",
+      "link": "https://arxiv.org/abs/2601.02671",
+      "published": "Sat, 10 Jan 2026 20:50:29 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.079274"
+      "crawled_at": "2026-01-11T01:02:39.061285"
     },
     {
       "source": "arstechnica",
@@ -207,7 +213,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-10T18:16:24.222389"
+      "crawled_at": "2026-01-11T01:02:39.217874"
     },
     {
       "source": "arstechnica",
@@ -219,7 +225,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-10T18:16:24.222425"
+      "crawled_at": "2026-01-11T01:02:39.217910"
     },
     {
       "source": "arstechnica",
@@ -232,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.222459"
+      "crawled_at": "2026-01-11T01:02:39.217942"
     },
     {
       "source": "arstechnica",
@@ -244,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.222487"
+      "crawled_at": "2026-01-11T01:02:39.217971"
     },
     {
       "source": "arstechnica",
@@ -258,7 +264,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-10T18:16:24.222515"
+      "crawled_at": "2026-01-11T01:02:39.217999"
     },
     {
       "source": "wired",
@@ -270,7 +276,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-10T18:16:24.362215"
+      "crawled_at": "2026-01-11T01:02:39.310261"
     },
     {
       "source": "wired",
@@ -283,7 +289,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.362263"
+      "crawled_at": "2026-01-11T01:02:39.310307"
     },
     {
       "source": "wired",
@@ -295,7 +301,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.362295"
+      "crawled_at": "2026-01-11T01:02:39.310338"
     },
     {
       "source": "wired",
@@ -307,7 +313,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.362323"
+      "crawled_at": "2026-01-11T01:02:39.310366"
     },
     {
       "source": "wired",
@@ -317,7 +323,7 @@
       "published": "Sat, 10 Jan 2026 11:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-10T18:16:24.362351"
+      "crawled_at": "2026-01-11T01:02:39.310394"
     }
   ]
 }
