@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-12T06:22:11.656790",
+  "last_updated": "2026-01-12T12:25:41.528960",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans",
+      "summary": "African defense company Terra comes out of stealth with a $11.75M round led by Joe Lonsdale's 8VC.",
+      "link": "https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/",
+      "published": "Mon, 12 Jan 2026 08:00:00 +0000",
+      "keywords": [
+        "AI",
+        "VC"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-12T12:25:40.684744"
+    },
     {
       "source": "techcrunch",
       "title": "inDrive turns to ads and groceries to diversify revenue",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:10.807341"
+      "crawled_at": "2026-01-12T12:25:40.684785"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:10.807374"
+      "crawled_at": "2026-01-12T12:25:40.684811"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T06:22:10.807403"
+      "crawled_at": "2026-01-12T12:25:40.684838"
     },
     {
       "source": "techcrunch",
@@ -49,22 +62,21 @@
       "published": "Sun, 11 Jan 2026 22:26:03 +0000",
       "keywords": [],
       "category": "Security",
-      "crawled_at": "2026-01-12T06:22:10.807443"
+      "crawled_at": "2026-01-12T12:25:40.684874"
     },
     {
-      "source": "techcrunch",
-      "title": "Google removes AI Overviews for certain medical queries",
-      "summary": "This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.",
-      "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
-      "published": "Sun, 11 Jan 2026 17:56:41 +0000",
+      "source": "theverge",
+      "title": "Trump’s fundraisers asked Microsoft for its White House ballroom donation",
+      "summary": "The Trump administration approached Microsoft for its donation to fund the White House's $300 million ballroom, documents released by Sen. Elizabeth Warren's (D-MA) office reveal. In response to a Democrat-led letter questioning Big Tech's involvement in the ballroom's construction, Microsoft counse",
+      "link": "https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations",
+      "published": "2026-01-12T05:00:00-05:00",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:10.807468"
+      "crawled_at": "2026-01-12T12:25:40.760440"
     },
     {
       "source": "theverge",
@@ -77,7 +89,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:11.014829"
+      "crawled_at": "2026-01-12T12:25:40.760492"
     },
     {
       "source": "theverge",
@@ -92,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:11.014877"
+      "crawled_at": "2026-01-12T12:25:40.760528"
     },
     {
       "source": "theverge",
@@ -104,7 +116,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T06:22:11.014932"
+      "crawled_at": "2026-01-12T12:25:40.760578"
     },
     {
       "source": "theverge",
@@ -118,82 +130,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:11.014965"
+      "crawled_at": "2026-01-12T12:25:40.760614"
     },
     {
-      "source": "theverge",
-      "title": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
-      "summary": "GameStop CEO Ryan Cohen is in line to potentially earn $35 billion in stock options, so long as the company hits a $100 billion market cap. One way to hit that target is by cutting costs, and one way of cutting costs is to close down a bunch of stores. The company closed 590 stores [&#8230;]",
-      "link": "https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states",
-      "published": "2026-01-11T11:57:50-05:00",
+      "source": "hackernews",
+      "title": "Fossil versus Git",
+      "summary": "Article URL: https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki\nComments URL: https://news.ycombinator.com/item?id=46586385\nPoints: 36\n# Comments: 21",
+      "link": "https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki",
+      "published": "Mon, 12 Jan 2026 10:10:05 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T12:25:41.306639"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lightpanda migrate DOM implementation to Zig",
+      "summary": "Article URL: https://lightpanda.io/blog/posts/migrating-our-dom-to-zig\nComments URL: https://news.ycombinator.com/item?id=46586179\nPoints: 68\n# Comments: 15",
+      "link": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
+      "published": "Mon, 12 Jan 2026 09:42:49 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.015008"
+      "crawled_at": "2026-01-12T12:25:41.306682"
     },
     {
       "source": "hackernews",
-      "title": "XFCE Is Great",
-      "summary": "Article URL: https://rubenerd.com/xfce-is-great/\nComments URL: https://news.ycombinator.com/item?id=46584173\nPoints: 59\n# Comments: 30",
+      "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj9r3zl2ywyo\nComments URL: https://news.ycombinator.com/item?id=46585947\nPoints: 33\n# Comments: 16",
+      "link": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
+      "published": "Mon, 12 Jan 2026 09:10:45 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-12T12:25:41.306710"
+    },
+    {
+      "source": "hackernews",
+      "title": "Xfce is great",
+      "summary": "Article URL: https://rubenerd.com/xfce-is-great/\nComments URL: https://news.ycombinator.com/item?id=46584173\nPoints: 239\n# Comments: 165",
       "link": "https://rubenerd.com/xfce-is-great/",
       "published": "Mon, 12 Jan 2026 04:39:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.357679"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: An LLM-optimized programming language",
-      "summary": "Article URL: https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md\nComments URL: https://news.ycombinator.com/item?id=46583581\nPoints: 19\n# Comments: 6",
-      "link": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
-      "published": "Mon, 12 Jan 2026 03:11:49 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:11.357716"
+      "crawled_at": "2026-01-12T12:25:41.306739"
     },
     {
       "source": "hackernews",
       "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
-      "summary": "Article URL: https://www.bbc.com/news/articles/clyndv7zd20o\nComments URL: https://news.ycombinator.com/item?id=46583464\nPoints: 36\n# Comments: 7",
+      "summary": "Article URL: https://www.bbc.com/news/articles/clyndv7zd20o\nComments URL: https://news.ycombinator.com/item?id=46583464\nPoints: 130\n# Comments: 105",
       "link": "https://www.bbc.com/news/articles/clyndv7zd20o",
       "published": "Mon, 12 Jan 2026 02:58:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.357752"
-    },
-    {
-      "source": "hackernews",
-      "title": "Uncrossy",
-      "summary": "Article URL: https://uncrossy.com/\nComments URL: https://news.ycombinator.com/item?id=46582762\nPoints: 28\n# Comments: 11",
-      "link": "https://uncrossy.com/",
-      "published": "Mon, 12 Jan 2026 01:39:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.357780"
-    },
-    {
-      "source": "hackernews",
-      "title": "Which programming languages are most token-efficient?",
-      "summary": "Article URL: https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/\nComments URL: https://news.ycombinator.com/item?id=46582728\nPoints: 65\n# Comments: 34",
-      "link": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
-      "published": "Mon, 12 Jan 2026 01:36:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-12T06:22:11.357811"
+      "crawled_at": "2026-01-12T12:25:41.306773"
     },
     {
       "source": "arstechnica",
@@ -205,7 +204,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T06:22:11.534824"
+      "crawled_at": "2026-01-12T12:25:41.443400"
     },
     {
       "source": "arstechnica",
@@ -217,7 +216,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.534864"
+      "crawled_at": "2026-01-12T12:25:41.443443"
     },
     {
       "source": "arstechnica",
@@ -229,7 +228,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-12T06:22:11.534897"
+      "crawled_at": "2026-01-12T12:25:41.443476"
     },
     {
       "source": "arstechnica",
@@ -241,7 +240,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T06:22:11.534925"
+      "crawled_at": "2026-01-12T12:25:41.443505"
     },
     {
       "source": "arstechnica",
@@ -254,7 +253,39 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.534955"
+      "crawled_at": "2026-01-12T12:25:41.443536"
+    },
+    {
+      "source": "wired",
+      "title": "Best Travel Cameras (2026), Tested and Reviewed",
+      "summary": "We’ve found the best travel cameras—from point-and-shoot to full-frame—to help you bring home the perfect vacation photos.",
+      "link": "https://www.wired.com/gallery/best-travel-cameras/",
+      "published": "Mon, 12 Jan 2026 12:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T12:25:41.528744"
+    },
+    {
+      "source": "wired",
+      "title": "10 Best Pet Cameras (2026), Tested With Our Pets",
+      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "link": "https://www.wired.com/gallery/best-pet-cameras/",
+      "published": "Mon, 12 Jan 2026 11:34:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T12:25:41.528783"
+    },
+    {
+      "source": "wired",
+      "title": "Hyte X50 PC Case Review: Computers Should Be Cute",
+      "summary": "Hyte’s rounded glass case brings a fun, bubbly aesthetic to your desk.",
+      "link": "https://www.wired.com/review/hyte-x50/",
+      "published": "Mon, 12 Jan 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T12:25:41.528814"
     },
     {
       "source": "wired",
@@ -267,7 +298,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T06:22:11.656574"
+      "crawled_at": "2026-01-12T12:25:41.528845"
     },
     {
       "source": "wired",
@@ -279,39 +310,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.656610"
-    },
-    {
-      "source": "wired",
-      "title": "Sony A7V Review: The Best Overall Mirrorless Camera",
-      "summary": "Sony’s latest full frame mirrorless is a hybrid powerhouse with features to impress both video and still photographers.",
-      "link": "https://www.wired.com/review/sony-a7v-mirrorless-camera/",
-      "published": "Sun, 11 Jan 2026 11:30:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.656648"
-    },
-    {
-      "source": "wired",
-      "title": "Want to Stop Doomscrolling? You Might Need a Sleep Coach",
-      "summary": "Traditionally sleep coaches treat babies. But now more and more anxious, screen-attached grownups are the ones who need nursing.",
-      "link": "https://www.wired.com/story/your-next-job-sleep-coach/",
-      "published": "Sun, 11 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.656679"
-    },
-    {
-      "source": "wired",
-      "title": "Best Side-Sleeper Mattresses 2026: Picked by a Sleep Science Coach",
-      "summary": "We’ve tested hundreds of the top hybrid, memory foam, and cooling mattresses to find the best combination of support and pressure relief.",
-      "link": "https://www.wired.com/gallery/best-mattress-for-side-sleeper/",
-      "published": "Sun, 11 Jan 2026 10:36:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-12T06:22:11.656719"
+      "crawled_at": "2026-01-12T12:25:41.528875"
     }
   ]
 }
