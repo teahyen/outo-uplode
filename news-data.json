@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-01-12T01:00:11.122225",
+  "last_updated": "2026-01-12T06:22:11.656790",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "inDrive turns to ads and groceries to diversify revenue",
+      "summary": "Advertising on inDrive is being rolled out across its top 20 markets following mid-2025 tests.",
+      "link": "https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/",
+      "published": "Mon, 12 Jan 2026 05:30:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T06:22:10.807341"
+    },
     {
       "source": "techcrunch",
       "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
@@ -13,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:08.966041"
+      "crawled_at": "2026-01-12T06:22:10.807374"
     },
     {
       "source": "techcrunch",
@@ -27,7 +39,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T01:00:08.966077"
+      "crawled_at": "2026-01-12T06:22:10.807403"
     },
     {
       "source": "techcrunch",
@@ -37,7 +49,7 @@
       "published": "Sun, 11 Jan 2026 22:26:03 +0000",
       "keywords": [],
       "category": "Security",
-      "crawled_at": "2026-01-12T01:00:08.966118"
+      "crawled_at": "2026-01-12T06:22:10.807443"
     },
     {
       "source": "techcrunch",
@@ -52,22 +64,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:08.966143"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nuclear startups are back in vogue with small reactors, and big challenges",
-      "summary": "Small modular reactor startups are betting that mass manufacturing will help them bring costs down. But are they underestimating the challenge?",
-      "link": "https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/",
-      "published": "Sun, 11 Jan 2026 16:15:00 +0000",
-      "keywords": [
-        "React",
-        "REST",
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-01-12T01:00:08.966175"
+      "crawled_at": "2026-01-12T06:22:10.807468"
     },
     {
       "source": "theverge",
@@ -80,7 +77,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:09.050530"
+      "crawled_at": "2026-01-12T06:22:11.014829"
     },
     {
       "source": "theverge",
@@ -95,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:09.050573"
+      "crawled_at": "2026-01-12T06:22:11.014877"
     },
     {
       "source": "theverge",
@@ -107,7 +104,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T01:00:09.050627"
+      "crawled_at": "2026-01-12T06:22:11.014932"
     },
     {
       "source": "theverge",
@@ -121,7 +118,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:09.050659"
+      "crawled_at": "2026-01-12T06:22:11.014965"
     },
     {
       "source": "theverge",
@@ -133,71 +130,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:09.050702"
+      "crawled_at": "2026-01-12T06:22:11.015008"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: What if AI agents had Zodiac personalities?",
-      "summary": "A fun game for playing moral dilemmas with friends. I gave 12 AI agents zodiac personalities (not that I believe in them) using the same LLM with different personality prompts.\n\nComments URL: https://news.ycombinator.com/item?id=46581832\nPoints: 6\n# Comments: 1",
-      "link": "https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities",
-      "published": "Sun, 11 Jan 2026 23:49:15 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:10.845239"
-    },
-    {
-      "source": "hackernews",
-      "title": "I'd tell you a UDP joke…",
-      "summary": "Article URL: https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get\nComments URL: https://news.ycombinator.com/item?id=46580946\nPoints: 71\n# Comments: 23",
-      "link": "https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get",
-      "published": "Sun, 11 Jan 2026 22:20:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-12T01:00:10.845287"
-    },
-    {
-      "source": "hackernews",
-      "title": "This game is a single 13 KiB file that runs on Windows, Linux and in the Browser",
-      "summary": "Article URL: https://iczelia.net/posts/snake-polyglot/\nComments URL: https://news.ycombinator.com/item?id=46580864\nPoints: 65\n# Comments: 23",
-      "link": "https://iczelia.net/posts/snake-polyglot/",
-      "published": "Sun, 11 Jan 2026 22:14:35 +0000",
-      "keywords": [
-        "Windows",
-        "Linux",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:10.845324"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Next Two Years of Software Engineering",
-      "summary": "Article URL: https://addyosmani.com/blog/next-two-years/\nComments URL: https://news.ycombinator.com/item?id=46580703\nPoints: 40\n# Comments: 16",
-      "link": "https://addyosmani.com/blog/next-two-years/",
-      "published": "Sun, 11 Jan 2026 22:00:24 +0000",
+      "title": "XFCE Is Great",
+      "summary": "Article URL: https://rubenerd.com/xfce-is-great/\nComments URL: https://news.ycombinator.com/item?id=46584173\nPoints: 59\n# Comments: 30",
+      "link": "https://rubenerd.com/xfce-is-great/",
+      "published": "Mon, 12 Jan 2026 04:39:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:10.845357"
+      "crawled_at": "2026-01-12T06:22:11.357679"
     },
     {
       "source": "hackernews",
-      "title": "iMessage-kit is an iMessage SDK for macOS",
-      "summary": "Article URL: https://github.com/photon-hq/imessage-kit\nComments URL: https://news.ycombinator.com/item?id=46580694\nPoints: 20\n# Comments: 5",
-      "link": "https://github.com/photon-hq/imessage-kit",
-      "published": "Sun, 11 Jan 2026 21:59:26 +0000",
+      "title": "Show HN: An LLM-optimized programming language",
+      "summary": "Article URL: https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md\nComments URL: https://news.ycombinator.com/item?id=46583581\nPoints: 19\n# Comments: 6",
+      "link": "https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md",
+      "published": "Mon, 12 Jan 2026 03:11:49 +0000",
       "keywords": [
+        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-12T06:22:11.357716"
+    },
+    {
+      "source": "hackernews",
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "summary": "Article URL: https://www.bbc.com/news/articles/clyndv7zd20o\nComments URL: https://news.ycombinator.com/item?id=46583464\nPoints: 36\n# Comments: 7",
+      "link": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "published": "Mon, 12 Jan 2026 02:58:01 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:10.845388"
+      "crawled_at": "2026-01-12T06:22:11.357752"
+    },
+    {
+      "source": "hackernews",
+      "title": "Uncrossy",
+      "summary": "Article URL: https://uncrossy.com/\nComments URL: https://news.ycombinator.com/item?id=46582762\nPoints: 28\n# Comments: 11",
+      "link": "https://uncrossy.com/",
+      "published": "Mon, 12 Jan 2026 01:39:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-12T06:22:11.357780"
+    },
+    {
+      "source": "hackernews",
+      "title": "Which programming languages are most token-efficient?",
+      "summary": "Article URL: https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/\nComments URL: https://news.ycombinator.com/item?id=46582728\nPoints: 65\n# Comments: 34",
+      "link": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+      "published": "Mon, 12 Jan 2026 01:36:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-12T06:22:11.357811"
     },
     {
       "source": "arstechnica",
@@ -209,7 +205,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T01:00:10.994896"
+      "crawled_at": "2026-01-12T06:22:11.534824"
     },
     {
       "source": "arstechnica",
@@ -221,7 +217,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:10.994936"
+      "crawled_at": "2026-01-12T06:22:11.534864"
     },
     {
       "source": "arstechnica",
@@ -233,7 +229,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-12T01:00:10.994974"
+      "crawled_at": "2026-01-12T06:22:11.534897"
     },
     {
       "source": "arstechnica",
@@ -245,7 +241,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-12T01:00:10.995003"
+      "crawled_at": "2026-01-12T06:22:11.534925"
     },
     {
       "source": "arstechnica",
@@ -258,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:10.995033"
+      "crawled_at": "2026-01-12T06:22:11.534955"
     },
     {
       "source": "wired",
@@ -271,7 +267,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-12T01:00:11.122006"
+      "crawled_at": "2026-01-12T06:22:11.656574"
     },
     {
       "source": "wired",
@@ -283,7 +279,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:11.122042"
+      "crawled_at": "2026-01-12T06:22:11.656610"
     },
     {
       "source": "wired",
@@ -293,7 +289,7 @@
       "published": "Sun, 11 Jan 2026 11:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:11.122080"
+      "crawled_at": "2026-01-12T06:22:11.656648"
     },
     {
       "source": "wired",
@@ -305,7 +301,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:11.122111"
+      "crawled_at": "2026-01-12T06:22:11.656679"
     },
     {
       "source": "wired",
@@ -315,7 +311,7 @@
       "published": "Sun, 11 Jan 2026 10:36:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-12T01:00:11.122151"
+      "crawled_at": "2026-01-12T06:22:11.656719"
     }
   ]
 }
