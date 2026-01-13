@@ -1,143 +1,130 @@
 {
-  "last_updated": "2026-01-13T12:25:00.953942",
+  "last_updated": "2026-01-13T18:20:10.920065",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
-      "summary": "Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an investigation against the company to determine if the policy is anti-competitive.",
-      "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
-      "published": "Tue, 13 Jan 2026 12:21:47 +0000",
+      "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+      "summary": "1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.",
+      "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+      "published": "Tue, 13 Jan 2026 17:14:08 +0000",
       "keywords": [
-        "AI",
-        "API",
-        "Meta",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.213043"
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T18:20:10.166356"
     },
     {
       "source": "techcrunch",
-      "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
-      "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
-      "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
-      "published": "Tue, 13 Jan 2026 11:30:00 +0000",
+      "title": "Google’s update for Veo 3.1 lets users create vertical videos through reference images",
+      "summary": "Google is now allowing users to create vertical videos using references image.",
+      "link": "https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/",
+      "published": "Tue, 13 Jan 2026 17:00:00 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Startup",
-        "Meta",
-        "AR"
+        "Go",
+        "Google"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.213100"
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T18:20:10.166403"
     },
     {
       "source": "techcrunch",
-      "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
-      "summary": "Hupo, backed by Meta, pivoted from mental wellness to AI sales coaching for banks and insurers, and secured a $10M Series A led by DST Global",
-      "link": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
-      "published": "Tue, 13 Jan 2026 04:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.213130"
+      "title": "India reportedly tells quick-commerce firms to drop 10-minute delivery promise",
+      "summary": "India's labor ministry is pushing the country's booming quick-commerce sector to prioritize the wellness and safety of its gig workers.",
+      "link": "https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/",
+      "published": "Tue, 13 Jan 2026 16:27:46 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T18:20:10.166439"
     },
     {
       "source": "techcrunch",
-      "title": "More than 100 new tech unicorns were minted in 2025 — here they are",
-      "summary": "Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year.",
-      "link": "https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/",
-      "published": "Tue, 13 Jan 2026 01:00:00 +0000",
-      "keywords": [
-        "Startup",
-        "VC",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-01-13T12:25:00.213171"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI buys tiny health records startup Torch for, reportedly, $100M",
-      "summary": "AI health records startup Torch will be using its tech for OpenAI's new ChatGPT Health, according to co-founder Ilya Abyzov.",
-      "link": "https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/",
-      "published": "Tue, 13 Jan 2026 00:04:19 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Startup"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.213196"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft is retiring its Office Lens app on iOS and Android",
-      "summary": "Microsoft is removing its Lens scanner app from iOS and Android in the coming months. Microsoft Lens, or Office Lens as it's known to most, will no longer be supported on February 9th, and the app won't be functional after March 9th. The portable scanner features of Lens are available in OneDrive in",
-      "link": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
-      "published": "2026-01-13T05:18:59-05:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "Android",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.346179"
-    },
-    {
-      "source": "theverge",
-      "title": "The best robot vacuums we’ve tested for 2026",
-      "summary": "Robot vacuums are impressive devices that will clean your floors well and — thanks to bigger batteries and better robot brains — rarely get tired of doing their job. Over the last few years, these floor-sweeping bots have gone from utilitarian devices to full-fledged home robots that vacuum and mop ",
-      "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
-      "published": "2026-01-12T19:04:56-05:00",
+      "title": "ElevenLabs CEO says the voice AI startup crossed $330M ARR last year",
+      "summary": "The company said it took only five months to go from $200 million to $330 million in annual recurring revenue.",
+      "link": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
+      "published": "Tue, 13 Jan 2026 16:15:22 +0000",
       "keywords": [
         "AI",
         "Go",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.346230"
+      "crawled_at": "2026-01-13T18:20:10.166463"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
+      "summary": "The bundle includes access to Final Cut Pro, Logic Pro, and Pixelmator Pro on Mac and iPad, as well as Motion, Compressor, and MainStage on Mac.",
+      "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+      "published": "Tue, 13 Jan 2026 14:40:19 +0000",
+      "keywords": [
+        "AI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.166494"
     },
     {
       "source": "theverge",
-      "title": "Fired Rockstar employees’ plea for interim pay denied",
-      "summary": "A UK employment tribunal rejected a request from fired Rockstar Games employees to receive interim pay while waiting for a full hearing about their dismissal, according to Bloomberg and IGN. After Rockstar fired 34 employees last year - 31 from the UK and three from Canada - the Independent Workers'",
-      "link": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
-      "published": "2026-01-12T17:25:39-05:00",
+      "title": "Verizon gets FCC permission to end 60-day phone unlocking rule",
+      "summary": "Verizon can keep phones locked to its network for longer after the Federal Communications Commission agreed to waive the carrier's 60-day unlocking requirement, as reported by Ars Technica. Following this decision, Verizon must follow a looser set of guidelines set by the CTIA wireless trade group, ",
+      "link": "https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived",
+      "published": "2026-01-13T12:48:03-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.346272"
+      "crawled_at": "2026-01-13T18:20:10.274488"
     },
     {
       "source": "theverge",
-      "title": "Framework hikes desktop PC prices as RAM shortage drags on",
-      "summary": "Just weeks after raising the price of its RAM modules, Framework has announced that it's also increasing the price of its desktop PC in response to the global memory shortage. The Framework Desktop with 32GB of RAM and an AMD Ryzen AI Max 385 chip now starts at $1,139, instead of $1,099. \"We held of",
-      "link": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
-      "published": "2026-01-12T17:25:08-05:00",
+      "title": "Nissan is one of the first carmakers to offer magnetic phone chargers in the US",
+      "summary": "Wireless phone chargers are now common in vehicles, but they're typically missing one very useful feature. Nissan announced last month that it will be the first automaker in the US to offer wireless chargers with a magnetic mount, ensuring charging coils remain aligned for faster charging of mobile ",
+      "link": "https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic",
+      "published": "2026-01-13T12:39:20-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.346303"
+      "crawled_at": "2026-01-13T18:20:10.274531"
     },
     {
       "source": "theverge",
-      "title": "Meta plans to lay off hundreds of metaverse employees this week",
-      "summary": "Meta's Reality Labs team is expected to lose around 10 percent of its staff, with layoffs concentrated on the division's metaverse employees, as reported by The New York Times. The layoffs are apparently a side effect of Meta's AI ambitions, which are pulling focus away from its virtual reality divi",
-      "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
-      "published": "2026-01-12T17:14:58-05:00",
+      "title": "Mercedes temporarily scraps its Level 3 ‘eyes-off’ driving feature",
+      "summary": "Mercedes-Benz is pausing the roll-out of Drive Pilot, an \"eyes off\" conditionally automated driving feature that was available in Europe and the US. As first reported by German publication Handelsblatt, the revised S-Class will not have the Level 3 system when it arrives at the end of this month. Me",
+      "link": "https://www.theverge.com/transportation/860935/mercedes-drive-pilot-level-3-scrapped",
+      "published": "2026-01-13T12:31:14-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.274576"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s Veo now turns portrait images into vertical AI videos",
+      "summary": "Google is making its Veo 3.1 AI video model pay closer attention to the reference images you want generated clips to be based on. The company is releasing new visual improvements for the \"Ingredients to Video\" tool that was introduced last year, alongside expanding native vertical video support and ",
+      "link": "https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update",
+      "published": "2026-01-13T12:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.274616"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta confirms Reality Labs layoffs and shifts to invest more in wearables",
+      "summary": "Around 10 percent of Meta's Reality Labs division, which develops its XR products and services, will be laid off beginning on Tuesday, as reported by Bloomberg. Meta spokesperson Tracy Clayton confirmed the layoffs in a statement to The Verge: \"We said last month that we were shifting some of our in",
+      "link": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables",
+      "published": "2026-01-13T11:56:55-05:00",
       "keywords": [
         "AI",
         "Meta",
@@ -145,73 +132,123 @@
         "Metaverse"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.346334"
+      "crawled_at": "2026-01-13T18:20:10.274648"
     },
     {
       "source": "hackernews",
-      "title": "Network of Scottish X accounts go dark amid Iran blackout",
-      "summary": "Article URL: https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/\nComments URL: https://news.ycombinator.com/item?id=46599574\nPoints: 62\n# Comments: 5",
-      "link": "https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/",
-      "published": "Tue, 13 Jan 2026 11:19:01 +0000",
+      "title": "The Tulip Creative Computer",
+      "summary": "Article URL: https://github.com/shorepine/tulipcc\nComments URL: https://news.ycombinator.com/item?id=46603995\nPoints: 49\n# Comments: 12",
+      "link": "https://github.com/shorepine/tulipcc",
+      "published": "Tue, 13 Jan 2026 17:10:42 +0000",
       "keywords": [
-        "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.618883"
+      "crawled_at": "2026-01-13T18:20:10.686576"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: An iOS budget app I've been maintaining since 2011",
-      "summary": "I’ve been building and selling software since the early 2000s, starting with classic shareware. In 2011, I moved into the App Store world and built an iOS budget app because I needed a simple way to track my own expenses.At the time, my plan was to replace a few larger shareware projects with severa",
-      "link": "https://primoco.me/en/",
-      "published": "Tue, 13 Jan 2026 10:44:39 +0000",
+      "title": "90M people. 118 hours of silence. One nation erased from the internet",
+      "summary": "Article URL: https://state-of-iranblackout.whisper.security/\nComments URL: https://news.ycombinator.com/item?id=46603910\nPoints: 42\n# Comments: 12",
+      "link": "https://state-of-iranblackout.whisper.security/",
+      "published": "Tue, 13 Jan 2026 17:05:43 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "iOS",
+        "Security",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.619049"
+      "category": "Security",
+      "crawled_at": "2026-01-13T18:20:10.686616"
     },
     {
       "source": "hackernews",
-      "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
-      "summary": "Article URL: https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html\nComments URL: https://news.ycombinator.com/item?id=46599079\nPoints: 83\n# Comments: 76",
-      "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
-      "published": "Tue, 13 Jan 2026 10:03:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.619114"
-    },
-    {
-      "source": "hackernews",
-      "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
-      "summary": "Article URL: https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/\nComments URL: https://news.ycombinator.com/item?id=46598991\nPoints: 35\n# Comments: 22",
-      "link": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
-      "published": "Tue, 13 Jan 2026 09:47:59 +0000",
+      "title": "Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops",
+      "summary": "Article URL: https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424\nComments URL: https://news.ycombinator.com/item?id=46603829\nPoints: 0\n# Comments: 0",
+      "link": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
+      "published": "Tue, 13 Jan 2026 17:01:55 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.619150"
+      "crawled_at": "2026-01-13T18:20:10.686644"
     },
     {
       "source": "hackernews",
-      "title": "The Homepage of Ron Goodwin",
-      "summary": "Article URL: http://rongoodwin.co.uk/\nComments URL: https://news.ycombinator.com/item?id=46598890\nPoints: 4\n# Comments: 1",
-      "link": "http://rongoodwin.co.uk/",
-      "published": "Tue, 13 Jan 2026 09:31:44 +0000",
+      "title": "Influencers and OnlyFans models are dominating U.S. O-1 visa requests",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa\nComments URL: https://news.ycombinator.com/item?id=46603535\nPoints: 104\n# Comments: 59",
+      "link": "https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa",
+      "published": "Tue, 13 Jan 2026 16:47:39 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T18:20:10.686682"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scott Adams has died",
+      "summary": "Article URL: https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/\nComments URL: https://news.ycombinator.com/item?id=46603431\nPoints: 349\n# Comments: 259",
+      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/",
+      "published": "Tue, 13 Jan 2026 16:41:40 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.686713"
+    },
+    {
+      "source": "arstechnica",
+      "title": "This one could use less power: The Jeep Wagoneer S EV",
+      "summary": "Poorly calibrated pedal mapping marred the Wagoneer S experience.",
+      "link": "https://arstechnica.com/cars/2026/01/this-one-could-use-less-power-the-jeep-wagoneer-s-ev/",
+      "published": "Tue, 13 Jan 2026 17:11:51 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-13T18:20:10.813463"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A new Titan emerges in Monarch: Legacy of Monsters S2 teaser",
+      "summary": "Apple TV's sci-fi series is part of Legendary Entertainment’s MonsterVerse and is set after 2014's Godzilla.",
+      "link": "https://arstechnica.com/culture/2026/01/a-new-titan-emerges-in-monarch-legacy-of-monsters-s2-teaser/",
+      "published": "Tue, 13 Jan 2026 16:35:52 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.813501"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Wild mushrooms keep killing people in California; 3 dead, 35 poisoned",
+      "summary": "Officials have linked the poisonings to the death cap mushroom (Amanita phalloides).",
+      "link": "https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/",
+      "published": "Tue, 13 Jan 2026 12:15:19 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.619182"
+      "crawled_at": "2026-01-13T18:20:10.813532"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+      "summary": "Introducing Confer, an end-to-end AI assistant that just works.",
+      "link": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+      "published": "Tue, 13 Jan 2026 12:00:36 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T18:20:10.813554"
     },
     {
       "source": "arstechnica",
@@ -224,54 +261,43 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.852664"
+      "crawled_at": "2026-01-13T18:20:10.813574"
     },
     {
-      "source": "arstechnica",
-      "title": "You can now reserve a hotel room on the Moon for $250,000",
-      "summary": "\"We can't keep everyone living on that first ship that sailed to North America.\"",
-      "link": "https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/",
-      "published": "Mon, 12 Jan 2026 23:04:33 +0000",
+      "source": "wired",
+      "title": "Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens",
+      "summary": "A contract justification published in a federal register on Tuesday says that 31 ICE vehicles operating in the Twin Cities area “lack the necessary emergency lights and sirens” to be “compliant.”",
+      "link": "https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/",
+      "published": "Tue, 13 Jan 2026 16:45:19 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.852691"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Paramount sues WBD over Netflix deal. WBD says Paramount’s price is still inadequate.",
-      "summary": "WBD calls Paramount's lawsuit \"meritless\" and its offer deficient.",
-      "link": "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/",
-      "published": "Mon, 12 Jan 2026 22:49:31 +0000",
-      "keywords": [
-        "AWS",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-13T12:25:00.852723"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Even Linus Torvalds is trying his hand at vibe coding (but just a little)",
-      "summary": "\"But then I cut out the middle man—me.\"",
-      "link": "https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/",
-      "published": "Mon, 12 Jan 2026 22:27:50 +0000",
-      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.852754"
+      "crawled_at": "2026-01-13T18:20:10.919856"
     },
     {
-      "source": "arstechnica",
-      "title": "Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule",
-      "summary": "FCC waives rule that forced Verizon to unlock phones 60 days after activation.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/",
-      "published": "Mon, 12 Jan 2026 22:07:23 +0000",
+      "source": "wired",
+      "title": "Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill",
+      "summary": "In response to a growing backlash, Microsoft said it would take steps to ensure that data centers don’t raise utility bills in surrounding areas and address other public concerns.",
+      "link": "https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/",
+      "published": "Tue, 13 Jan 2026 14:48:07 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "Microsoft",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.852775"
+      "crawled_at": "2026-01-13T18:20:10.919895"
+    },
+    {
+      "source": "wired",
+      "title": "Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable",
+      "summary": "Urevo’s affordable new walking pad is cheaper than a round-trip ticket to hike in Iceland.",
+      "link": "https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/",
+      "published": "Tue, 13 Jan 2026 13:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T18:20:10.919933"
     },
     {
       "source": "wired",
@@ -284,20 +310,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.953729"
-    },
-    {
-      "source": "wired",
-      "title": "Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration",
-      "summary": "The LinkedIn cofounder and frequent Trump target has a simple message for his peers: “Just speak up about the things that you think are true.”",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/",
-      "published": "Tue, 13 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.953766"
+      "crawled_at": "2026-01-13T18:20:10.919966"
     },
     {
       "source": "wired",
@@ -309,31 +322,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T12:25:00.953790"
-    },
-    {
-      "source": "wired",
-      "title": "Trump Declared a Space Race With China. The US Is Losing",
-      "summary": "If you want to put people back on the moon, don’t gut the agency in charge of getting them there.",
-      "link": "https://www.wired.com/story/china-us-moon-race-trump-losing/",
-      "published": "Tue, 13 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-13T12:25:00.953824"
-    },
-    {
-      "source": "wired",
-      "title": "What to Do If ICE Invades Your Neighborhood",
-      "summary": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
-      "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
-      "published": "Tue, 13 Jan 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-13T12:25:00.953863"
+      "crawled_at": "2026-01-13T18:20:10.919988"
     }
   ]
 }
