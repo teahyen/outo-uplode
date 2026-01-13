@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-01-13T06:19:29.017055",
+  "last_updated": "2026-01-13T12:25:00.953942",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+      "summary": "Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an investigation against the company to determine if the policy is anti-competitive.",
+      "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+      "published": "Tue, 13 Jan 2026 12:21:47 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T12:25:00.213043"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+      "summary": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz.",
+      "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+      "published": "Tue, 13 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Startup",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T12:25:00.213100"
+    },
     {
       "source": "techcrunch",
       "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
@@ -13,7 +44,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.383891"
+      "crawled_at": "2026-01-13T12:25:00.213130"
     },
     {
       "source": "techcrunch",
@@ -27,7 +58,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-01-13T06:19:24.383943"
+      "crawled_at": "2026-01-13T12:25:00.213171"
     },
     {
       "source": "techcrunch",
@@ -43,35 +74,23 @@
         "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.383971"
+      "crawled_at": "2026-01-13T12:25:00.213196"
     },
     {
-      "source": "techcrunch",
-      "title": "Hands-on with Bee, Amazon’s latest AI wearable",
-      "summary": "We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.",
-      "link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
-      "published": "Tue, 13 Jan 2026 00:00:00 +0000",
+      "source": "theverge",
+      "title": "Microsoft is retiring its Office Lens app on iOS and Android",
+      "summary": "Microsoft is removing its Lens scanner app from iOS and Android in the coming months. Microsoft Lens, or Office Lens as it's known to most, will no longer be supported on February 9th, and the app won't be functional after March 9th. The portable scanner features of Lens are available in OneDrive in",
+      "link": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
+      "published": "2026-01-13T05:18:59-05:00",
       "keywords": [
         "AI",
-        "Amazon",
+        "Microsoft",
+        "Android",
+        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.384000"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Why Amazon bought Bee, an AI wearable",
-      "summary": "Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.",
-      "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
-      "published": "Mon, 12 Jan 2026 21:55:44 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.384022"
+      "crawled_at": "2026-01-13T12:25:00.346179"
     },
     {
       "source": "theverge",
@@ -85,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.580889"
+      "crawled_at": "2026-01-13T12:25:00.346230"
     },
     {
       "source": "theverge",
@@ -98,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.580943"
+      "crawled_at": "2026-01-13T12:25:00.346272"
     },
     {
       "source": "theverge",
@@ -111,7 +130,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.580978"
+      "crawled_at": "2026-01-13T12:25:00.346303"
     },
     {
       "source": "theverge",
@@ -126,85 +145,73 @@
         "Metaverse"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.581009"
-    },
-    {
-      "source": "theverge",
-      "title": "Baseus’ retractable travel adapter is on sale for more than 50 percent off today",
-      "summary": "If you’re planning on traveling at all this year, the Baseus EnerCore CG11 Universal Travel Adapter is worth a look. The adapter can power up to six devices at once, and now through the end of today, January 12th, it’s on sale for just $34.19 (about $36 off) at Amazon, matching the all-time low pric",
-      "link": "https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale",
-      "published": "2026-01-12T15:04:09-05:00",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-01-13T06:19:24.581060"
+      "crawled_at": "2026-01-13T12:25:00.346334"
     },
     {
       "source": "hackernews",
-      "title": "Text-Based Web Browsers",
-      "summary": "Article URL: https://cssence.com/2026/text-based-web-browsers/\nComments URL: https://news.ycombinator.com/item?id=46597518\nPoints: 3\n# Comments: 1",
-      "link": "https://cssence.com/2026/text-based-web-browsers/",
-      "published": "Tue, 13 Jan 2026 05:16:10 +0000",
+      "title": "Network of Scottish X accounts go dark amid Iran blackout",
+      "summary": "Article URL: https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/\nComments URL: https://news.ycombinator.com/item?id=46599574\nPoints: 62\n# Comments: 5",
+      "link": "https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/",
+      "published": "Tue, 13 Jan 2026 11:19:01 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:24.866361"
+      "crawled_at": "2026-01-13T12:25:00.618883"
     },
     {
       "source": "hackernews",
-      "title": "Provenance Is the New Version Control",
-      "summary": "Article URL: https://aicoding.leaflet.pub/3mcbiyal7jc2y\nComments URL: https://news.ycombinator.com/item?id=46597023\nPoints: 12\n# Comments: 12",
-      "link": "https://aicoding.leaflet.pub/3mcbiyal7jc2y",
-      "published": "Tue, 13 Jan 2026 03:26:23 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.866397"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google removes AI health summaries after investigation finds dangerous flaws",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/\nComments URL: https://news.ycombinator.com/item?id=46595419\nPoints: 134\n# Comments: 79",
-      "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
-      "published": "Mon, 12 Jan 2026 23:05:04 +0000",
+      "title": "Show HN: An iOS budget app I've been maintaining since 2011",
+      "summary": "I’ve been building and selling software since the early 2000s, starting with classic shareware. In 2011, I moved into the App Store world and built an iOS budget app because I needed a simple way to track my own expenses.At the time, my plan was to replace a few larger shareware projects with severa",
+      "link": "https://primoco.me/en/",
+      "published": "Tue, 13 Jan 2026 10:44:39 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AWS",
-        "Google",
+        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:24.866430"
+      "crawled_at": "2026-01-13T12:25:00.619049"
     },
     {
       "source": "hackernews",
-      "title": "A deep dive on agent sandboxes",
-      "summary": "Article URL: https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes\nComments URL: https://news.ycombinator.com/item?id=46595393\nPoints: 19\n# Comments: 3",
-      "link": "https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes",
-      "published": "Mon, 12 Jan 2026 23:02:27 +0000",
+      "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
+      "summary": "Article URL: https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html\nComments URL: https://news.ycombinator.com/item?id=46599079\nPoints: 83\n# Comments: 76",
+      "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
+      "published": "Tue, 13 Jan 2026 10:03:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:24.866464"
+      "crawled_at": "2026-01-13T12:25:00.619114"
     },
     {
       "source": "hackernews",
-      "title": "F2 (YC S25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer\nComments URL: https://news.ycombinator.com/item?id=46595130\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer",
-      "published": "Mon, 12 Jan 2026 22:30:33 +0000",
+      "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
+      "summary": "Article URL: https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/\nComments URL: https://news.ycombinator.com/item?id=46598991\nPoints: 35\n# Comments: 22",
+      "link": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
+      "published": "Tue, 13 Jan 2026 09:47:59 +0000",
       "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-13T12:25:00.619150"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Homepage of Ron Goodwin",
+      "summary": "Article URL: http://rongoodwin.co.uk/\nComments URL: https://news.ycombinator.com/item?id=46598890\nPoints: 4\n# Comments: 1",
+      "link": "http://rongoodwin.co.uk/",
+      "published": "Tue, 13 Jan 2026 09:31:44 +0000",
+      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:24.866495"
+      "crawled_at": "2026-01-13T12:25:00.619182"
     },
     {
       "source": "arstechnica",
@@ -217,7 +224,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:25.243662"
+      "crawled_at": "2026-01-13T12:25:00.852664"
     },
     {
       "source": "arstechnica",
@@ -229,7 +236,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:25.243692"
+      "crawled_at": "2026-01-13T12:25:00.852691"
     },
     {
       "source": "arstechnica",
@@ -242,7 +249,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-13T06:19:25.243727"
+      "crawled_at": "2026-01-13T12:25:00.852723"
     },
     {
       "source": "arstechnica",
@@ -252,7 +259,7 @@
       "published": "Mon, 12 Jan 2026 22:27:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:25.243759"
+      "crawled_at": "2026-01-13T12:25:00.852754"
     },
     {
       "source": "arstechnica",
@@ -264,72 +271,69 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:25.243781"
+      "crawled_at": "2026-01-13T12:25:00.852775"
     },
     {
       "source": "wired",
-      "title": "AirDoctor Coupon Codes: 40% Off | January 2026",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for January 2026.",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "published": "Tue, 13 Jan 2026 06:10:00 +0000",
+      "title": "Board Review: Tabletop Video Games With Physical Pieces",
+      "summary": "I loved Board’s unique blend of tabletop gaming, but my family gave it mixed reviews.",
+      "link": "https://www.wired.com/review/board-tabletop-game-console/",
+      "published": "Tue, 13 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T12:25:00.953729"
+    },
+    {
+      "source": "wired",
+      "title": "Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration",
+      "summary": "The LinkedIn cofounder and frequent Trump target has a simple message for his peers: “Just speak up about the things that you think are true.”",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/",
+      "published": "Tue, 13 Jan 2026 11:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:29.016797"
+      "crawled_at": "2026-01-13T12:25:00.953766"
     },
     {
       "source": "wired",
-      "title": "Nomad Goods Promo Codes: 25% Off | January 2026",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this January.",
-      "link": "https://www.wired.com/story/nomad-discount-code/",
-      "published": "Tue, 13 Jan 2026 06:00:00 +0000",
+      "title": "Atonemo Streamplayer Review: Make Old Speakers New Again",
+      "summary": "Can this discrete audio puck really drag any old speakers into the streaming age?",
+      "link": "https://www.wired.com/review/atonemo-streamplayer/",
+      "published": "Tue, 13 Jan 2026 11:30:00 +0000",
       "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-13T06:19:29.016829"
-    },
-    {
-      "source": "wired",
-      "title": "New Proposed Legislation Would Let Self-Driving Cars Operate in New York State",
-      "summary": "New York governor Kathy Hochul says she will propose a new law allowing limited autonomous vehicle pilots in smaller cities. Full-blown services could be next.",
-      "link": "https://www.wired.com/story/proposed-legislation-self-driving-cars-in-new-york-state/",
-      "published": "Tue, 13 Jan 2026 00:06:38 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:29.016865"
-    },
-    {
-      "source": "wired",
-      "title": "Minnesota Sues to Stop ICE ‘Invasion’",
-      "summary": "The state of Minnesota, along with the Twin Cities, have sued the US government and several officials to halt the flood of agents carrying out an Immigration and Customs Enforcement operation.",
-      "link": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
-      "published": "Mon, 12 Jan 2026 22:42:45 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-13T06:19:29.016915"
-    },
-    {
-      "source": "wired",
-      "title": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
-      "summary": "The testimony also calls into question whether Ross failed to follow his training during the incident in which he reportedly shot and killed Minnesota citizen Renee Good.",
-      "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
-      "published": "Mon, 12 Jan 2026 22:11:11 +0000",
-      "keywords": [
-        "AI",
-        "Go"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-13T06:19:29.016949"
+      "crawled_at": "2026-01-13T12:25:00.953790"
+    },
+    {
+      "source": "wired",
+      "title": "Trump Declared a Space Race With China. The US Is Losing",
+      "summary": "If you want to put people back on the moon, don’t gut the agency in charge of getting them there.",
+      "link": "https://www.wired.com/story/china-us-moon-race-trump-losing/",
+      "published": "Tue, 13 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-13T12:25:00.953824"
+    },
+    {
+      "source": "wired",
+      "title": "What to Do If ICE Invades Your Neighborhood",
+      "summary": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps you can take to stay safe—and have an impact.",
+      "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
+      "published": "Tue, 13 Jan 2026 10:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-13T12:25:00.953863"
     }
   ]
 }
