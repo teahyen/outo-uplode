@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-01-15T00:55:39.840414",
+  "last_updated": "2026-01-15T06:19:18.336289",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
+      "summary": "The abrupt change in personnel was in the works for several weeks, according to an OpenAI executive.",
+      "link": "https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/",
+      "published": "Thu, 15 Jan 2026 02:16:37 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T06:19:17.228394"
+    },
     {
       "source": "techcrunch",
       "title": "The FTC’s data-sharing order against GM is finally settled",
@@ -14,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.141122"
+      "crawled_at": "2026-01-15T06:19:17.228435"
     },
     {
       "source": "techcrunch",
@@ -26,7 +41,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.141159"
+      "crawled_at": "2026-01-15T06:19:17.228479"
     },
     {
       "source": "techcrunch",
@@ -39,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.141191"
+      "crawled_at": "2026-01-15T06:19:17.228511"
     },
     {
       "source": "techcrunch",
@@ -52,17 +67,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.141215"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin",
-      "summary": "As Netflix tries to take down YouTube’s dominance in the podcast space, it's getting new originals with Pete Davidson and Michael Irvin.",
-      "link": "https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/",
-      "published": "Wed, 14 Jan 2026 20:57:40 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.141256"
+      "crawled_at": "2026-01-15T06:19:17.228536"
     },
     {
       "source": "theverge",
@@ -75,7 +80,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.285357"
+      "crawled_at": "2026-01-15T06:19:17.354622"
     },
     {
       "source": "theverge",
@@ -87,7 +92,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.285416"
+      "crawled_at": "2026-01-15T06:19:17.354675"
     },
     {
       "source": "theverge",
@@ -100,7 +105,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.285469"
+      "crawled_at": "2026-01-15T06:19:17.354728"
     },
     {
       "source": "theverge",
@@ -113,7 +118,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.285509"
+      "crawled_at": "2026-01-15T06:19:17.354769"
     },
     {
       "source": "theverge",
@@ -126,73 +131,71 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-15T00:55:39.285549"
+      "crawled_at": "2026-01-15T06:19:17.354807"
     },
     {
       "source": "hackernews",
-      "title": "Anthropic Explicitly Blocking OpenCode",
-      "summary": "Article URL: https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e\nComments URL: https://news.ycombinator.com/item?id=46625918\nPoints: 43\n# Comments: 18",
-      "link": "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e",
-      "published": "Thu, 15 Jan 2026 00:04:24 +0000",
+      "title": "The URL shortener that makes your links look as suspicious as possible",
+      "summary": "Article URL: https://creepylink.com/\nComments URL: https://news.ycombinator.com/item?id=46627652\nPoints: 144\n# Comments: 31",
+      "link": "https://creepylink.com/",
+      "published": "Thu, 15 Jan 2026 03:28:20 +0000",
       "keywords": [
-        "Anthropic",
-        "VC",
-        "Git",
-        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T06:19:17.966196"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
+      "summary": "Article URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/\nComments URL: https://news.ycombinator.com/item?id=46626836\nPoints: 56\n# Comments: 46",
+      "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+      "published": "Thu, 15 Jan 2026 01:45:22 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T06:19:17.966238"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What is the best way to provide continuous context to models?",
+      "summary": "With research done till date, what according to you is the best way to provide context to a model. Are there any articles that go into depth of how Cursor  does it?How do context collation companies work?\n\nComments URL: https://news.ycombinator.com/item?id=46626639\nPoints: 32\n# Comments: 14",
+      "link": "https://news.ycombinator.com/item?id=46626639",
+      "published": "Thu, 15 Jan 2026 01:20:22 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T06:19:17.966285"
+    },
+    {
+      "source": "hackernews",
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "summary": "Article URL: https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale\nComments URL: https://news.ycombinator.com/item?id=46626410\nPoints: 125\n# Comments: 64",
+      "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "published": "Thu, 15 Jan 2026 00:53:21 +0000",
+      "keywords": [
+        "AI",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T06:19:17.966314"
+    },
+    {
+      "source": "hackernews",
+      "title": "New Safari developer tools provide insight into CSS Grid Lanes",
+      "summary": "Article URL: https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/\nComments URL: https://news.ycombinator.com/item?id=46626210\nPoints: 16\n# Comments: 1",
+      "link": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
+      "published": "Thu, 15 Jan 2026 00:34:59 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-15T00:55:39.561074"
-    },
-    {
-      "source": "hackernews",
-      "title": "ChromaDB Explorer",
-      "summary": "https://github.com/stepandel/chroma-explorer\n\nComments URL: https://news.ycombinator.com/item?id=46624731\nPoints: 20\n# Comments: 1",
-      "link": "https://www.chroma-explorer.com/",
-      "published": "Wed, 14 Jan 2026 22:30:16 +0000",
-      "keywords": [
-        "Git",
-        "GitHub"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.561112"
-    },
-    {
-      "source": "hackernews",
-      "title": "Scaling long-running autonomous coding",
-      "summary": "Article URL: https://cursor.com/blog/scaling-agents\nComments URL: https://news.ycombinator.com/item?id=46624541\nPoints: 86\n# Comments: 54",
-      "link": "https://cursor.com/blog/scaling-agents",
-      "published": "Wed, 14 Jan 2026 22:18:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.561145"
-    },
-    {
-      "source": "hackernews",
-      "title": "The State of OpenSSL for pyca/cryptography",
-      "summary": "Article URL: https://cryptography.io/en/latest/statements/state-of-openssl/\nComments URL: https://news.ycombinator.com/item?id=46624352\nPoints: 56\n# Comments: 9",
-      "link": "https://cryptography.io/en/latest/statements/state-of-openssl/",
-      "published": "Wed, 14 Jan 2026 22:04:10 +0000",
-      "keywords": [
-        "Crypto",
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2026-01-15T00:55:39.561177"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sun Position Calculator",
-      "summary": "Article URL: https://drajmarsh.bitbucket.io/earthsun.html\nComments URL: https://news.ycombinator.com/item?id=46623761\nPoints: 52\n# Comments: 12",
-      "link": "https://drajmarsh.bitbucket.io/earthsun.html",
-      "published": "Wed, 14 Jan 2026 21:26:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.561208"
+      "crawled_at": "2026-01-15T06:19:17.966345"
     },
     {
       "source": "arstechnica",
@@ -204,7 +207,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.650201"
+      "crawled_at": "2026-01-15T06:19:18.246813"
     },
     {
       "source": "arstechnica",
@@ -217,7 +220,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.650233"
+      "crawled_at": "2026-01-15T06:19:18.246847"
     },
     {
       "source": "arstechnica",
@@ -230,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.650265"
+      "crawled_at": "2026-01-15T06:19:18.246879"
     },
     {
       "source": "arstechnica",
@@ -243,7 +246,7 @@
         "Windows"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.650288"
+      "crawled_at": "2026-01-15T06:19:18.246902"
     },
     {
       "source": "arstechnica",
@@ -253,12 +256,12 @@
       "published": "Wed, 14 Jan 2026 21:42:39 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.650321"
+      "crawled_at": "2026-01-15T06:19:18.246935"
     },
     {
       "source": "wired",
       "title": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
-      "summary": "The news is a blow for Thinking Machines Lab. Two narratives are already emerging about what happened.",
+      "summary": "The departures are a blow for Thinking Machines Lab. Two narratives are already emerging about why they happened.",
       "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
       "published": "Thu, 15 Jan 2026 00:40:28 +0000",
       "keywords": [
@@ -267,7 +270,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.840198"
+      "crawled_at": "2026-01-15T06:19:18.336066"
     },
     {
       "source": "wired",
@@ -280,7 +283,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.840231"
+      "crawled_at": "2026-01-15T06:19:18.336101"
     },
     {
       "source": "wired",
@@ -293,7 +296,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.840258"
+      "crawled_at": "2026-01-15T06:19:18.336129"
     },
     {
       "source": "wired",
@@ -305,7 +308,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T00:55:39.840286"
+      "crawled_at": "2026-01-15T06:19:18.336156"
     },
     {
       "source": "wired",
@@ -320,7 +323,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T00:55:39.840318"
+      "crawled_at": "2026-01-15T06:19:18.336192"
     }
   ]
 }
