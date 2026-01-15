@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-01-15T06:19:18.336289",
+  "last_updated": "2026-01-15T12:24:11.504641",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
+      "summary": "WhatsApp is allowing AI providers to continue offering their chatbots to users in Brazil, days after the country's competition agency ordered the company to suspend its new policy that bars third-party, general-purpose chatbots from the app.",
+      "link": "https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/",
+      "published": "Thu, 15 Jan 2026 12:23:07 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T12:24:10.477599"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests",
+      "summary": "EtherealX is ramping engine tests and building a 150-acre rocket campus in India as it targets a 2027 launch mission.",
+      "link": "https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/",
+      "published": "Thu, 15 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:10.477640"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft taps India’s Varaha for durable carbon removal offtake",
+      "summary": "Microsoft is buying over 100,000 tons of carbon dioxide removal credits from India's Varaha over the next three years.",
+      "link": "https://techcrunch.com/2026/01/15/microsoft-taps-indias-varaha-for-asia-first-durable-carbon-removal-offtake/",
+      "published": "Thu, 15 Jan 2026 09:30:00 +0000",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:10.477683"
+    },
     {
       "source": "techcrunch",
       "title": "Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI",
@@ -15,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.228394"
+      "crawled_at": "2026-01-15T12:24:10.477713"
     },
     {
       "source": "techcrunch",
@@ -29,45 +67,64 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.228435"
+      "crawled_at": "2026-01-15T12:24:10.477744"
     },
     {
-      "source": "techcrunch",
-      "title": "India’s Emversity doubles valuation as it scales workers AI can’t replace",
-      "summary": "Emversity has raised $30 million in a new round as it scales job-ready training in India.",
-      "link": "https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/",
-      "published": "Thu, 15 Jan 2026 00:04:46 +0000",
+      "source": "theverge",
+      "title": "All the news that’s fit to WhatsApp",
+      "summary": "The WeChat channel &#32445;&#32422;&#31227;&#27665;&#35760;&#20107;&#32593;Documented (or the New York Immigrant Chronicle) is part newsfeed and part public service. The channel, run by the nonprofit newsroom Documented NYC, is filled with local news for Chinese speakers in New York: stories about h",
+      "link": "https://www.theverge.com/news/862076/documented-immigration-reporting-whatsapp-wechat-nextdoor",
+      "published": "2026-01-15T07:00:00-05:00",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.228479"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
-      "summary": "The California attorney general has opened a formal investigation into Elon Musk's xAI after its chatbot Grok began generating nonconsensual sexual images of real women and even children.",
-      "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
-      "published": "Wed, 14 Jan 2026 22:42:51 +0000",
-      "keywords": [
-        "AI",
+        "REST",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.228511"
+      "category": "Mobile",
+      "crawled_at": "2026-01-15T12:24:10.632913"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI signs deal, worth $10B, for compute from Cerebras",
-      "summary": "The collaboration will help OpenAI's models deliver faster response times for more difficult or time-consuming tasks, the companies said.",
-      "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-      "published": "Wed, 14 Jan 2026 22:25:32 +0000",
+      "source": "theverge",
+      "title": "OpenAI’s ChatGPT translator challenges Google Translate",
+      "summary": "OpenAI has launched ChatGPT Translate, a standalone web translation tool that supports over 50 languages and is positioned as a direct competitor to Google Translate. The two services look visually similar: both feature two text boxes - one for typing or pasting the source text and another that disp",
+      "link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
+      "published": "2026-01-15T06:13:45-05:00",
       "keywords": [
         "AI",
-        "OpenAI"
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.228536"
+      "crawled_at": "2026-01-15T12:24:10.632965"
+    },
+    {
+      "source": "theverge",
+      "title": "Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors",
+      "summary": "It's been 25 years since the launch of Wikipedia on January 15th, 2001, and it's come a long way from housing just 100 pages to becoming a behemoth of online knowledge with more than 65 million articles that get almost 15 billion views each month. To celebrate, the Wikimedia Foundation - the nonprof",
+      "link": "https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026",
+      "published": "2026-01-15T03:30:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:10.633014"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft, Meta, and Amazon are paying up for &#8216;enterprise&#8217; access to Wikipedia",
+      "summary": "Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to its projects, including Wikipedia's vast collection of articles. The Wikimedia Foundation announced the news as part of Wikipedia's 25th anniversary on Thursday. The partnerships a",
+      "link": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation",
+      "published": "2026-01-15T03:30:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T12:24:10.633065"
     },
     {
       "source": "theverge",
@@ -80,122 +137,82 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.354622"
+      "crawled_at": "2026-01-15T12:24:10.633107"
     },
     {
-      "source": "theverge",
-      "title": "X claims it has stopped Grok from undressing people, but of course it hasn’t",
-      "summary": "Following the proliferation of the nonconsensual sexual deepfakes on X, the platform has detailed changes to the Grok account's ability to edit images of real people. They match the changes reported on Tuesday by The Telegraph, as Grok's responses to prompts like \"put her in a bikini\" became censore",
-      "link": "https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses",
-      "published": "2026-01-14T19:46:54-05:00",
+      "source": "hackernews",
+      "title": "Jiga (YC W21) Is Hiring Full Stack Engineers",
+      "summary": "Article URL: https://jiga.io/about-us\nComments URL: https://news.ycombinator.com/item?id=46631276\nPoints: 0\n# Comments: 0",
+      "link": "https://jiga.io/about-us",
+      "published": "Thu, 15 Jan 2026 12:00:37 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.354675"
-    },
-    {
-      "source": "theverge",
-      "title": "The Stream Deck Plus is back to its lowest price",
-      "summary": "If you’re looking for a simple way to streamline your workflow, the Elgato Stream Deck Plus is a handy productivity tool for automating everyday tasks. Right now, it’s on sale for $159.99 ($40 off) at Amazon, Best Buy, and B&#38;H Photo, which is its best price to date. Like the standard Stream Deck",
-      "link": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale",
-      "published": "2026-01-14T18:04:09-05:00",
-      "keywords": [
-        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:17.354728"
+      "crawled_at": "2026-01-15T12:24:11.168894"
     },
     {
-      "source": "theverge",
-      "title": "Verizon’s wireless network is down for many people nationwide",
-      "summary": "The first big outage of 2026 is here, as Verizon customers across the US, including several of our phones, complain that service has been spotty or nonexistent starting at around noon ET, with phones switching to SOS Mode and being unable to connect. This cell service outage follows a \"software issu",
-      "link": "https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode",
-      "published": "2026-01-14T16:40:10-05:00",
+      "source": "hackernews",
+      "title": "Photos Capture the Breathtaking Scale of China's Wind and Solar Buildout",
+      "summary": "Article URL: https://e360.yale.edu/digest/china-renewable-photo-essay\nComments URL: https://news.ycombinator.com/item?id=46630369\nPoints: 104\n# Comments: 50",
+      "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+      "published": "Thu, 15 Jan 2026 09:54:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:11.168938"
+    },
+    {
+      "source": "hackernews",
+      "title": "Python: Tprof, a Targeting Profiler",
+      "summary": "Article URL: https://adamj.eu/tech/2026/01/14/python-introducing-tprof/\nComments URL: https://news.ycombinator.com/item?id=46629964\nPoints: 4\n# Comments: 0",
+      "link": "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/",
+      "published": "Thu, 15 Jan 2026 09:00:47 +0000",
+      "keywords": [
+        "Python",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-15T12:24:11.168966"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer\nComments URL: https://news.ycombinator.com/item?id=46629957\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer",
+      "published": "Thu, 15 Jan 2026 08:59:27 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:11.169003"
+    },
+    {
+      "source": "hackernews",
+      "title": "Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/\nComments URL: https://news.ycombinator.com/item?id=46629682\nPoints: 110\n# Comments: 74",
+      "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+      "published": "Thu, 15 Jan 2026 08:23:02 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.354769"
+      "crawled_at": "2026-01-15T12:24:11.169030"
     },
     {
-      "source": "theverge",
-      "title": "Naya Connect is a modular mechanical keyboard system for the indecisive",
-      "summary": "Naya has already shipped one successful Kickstarter for a weird keyboard. The Naya Create was an ergonomic split deck with four swappable controller addons: a touchpad, a trackball, a rotary encoder, or a 6DoF spatial mouse. The Connect takes that modular concept, applies it to a more traditional fl",
-      "link": "https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter",
-      "published": "2026-01-14T16:38:30-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-15T06:19:17.354807"
-    },
-    {
-      "source": "hackernews",
-      "title": "The URL shortener that makes your links look as suspicious as possible",
-      "summary": "Article URL: https://creepylink.com/\nComments URL: https://news.ycombinator.com/item?id=46627652\nPoints: 144\n# Comments: 31",
-      "link": "https://creepylink.com/",
-      "published": "Thu, 15 Jan 2026 03:28:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:17.966196"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bubblewrap: A nimble way to prevent agents from accessing your .env files",
-      "summary": "Article URL: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/\nComments URL: https://news.ycombinator.com/item?id=46626836\nPoints: 56\n# Comments: 46",
-      "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
-      "published": "Thu, 15 Jan 2026 01:45:22 +0000",
-      "keywords": [
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.966238"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask HN: What is the best way to provide continuous context to models?",
-      "summary": "With research done till date, what according to you is the best way to provide context to a model. Are there any articles that go into depth of how Cursor  does it?How do context collation companies work?\n\nComments URL: https://news.ycombinator.com/item?id=46626639\nPoints: 32\n# Comments: 14",
-      "link": "https://news.ycombinator.com/item?id=46626639",
-      "published": "Thu, 15 Jan 2026 01:20:22 +0000",
+      "source": "arstechnica",
+      "title": "Exclusive: Volvo tells us why having Gemini in your next car is a good thing",
+      "summary": "In-car personal assistants are about to get useful, it looks like.",
+      "link": "https://arstechnica.com/cars/2026/01/exclusive-volvo-tells-us-why-having-gemini-in-your-next-car-is-a-good-thing/",
+      "published": "Thu, 15 Jan 2026 08:00:15 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:17.966285"
-    },
-    {
-      "source": "hackernews",
-      "title": "Furiosa: 3.5x efficiency over H100s",
-      "summary": "Article URL: https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale\nComments URL: https://news.ycombinator.com/item?id=46626410\nPoints: 125\n# Comments: 64",
-      "link": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
-      "published": "Thu, 15 Jan 2026 00:53:21 +0000",
-      "keywords": [
-        "AI",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:17.966314"
-    },
-    {
-      "source": "hackernews",
-      "title": "New Safari developer tools provide insight into CSS Grid Lanes",
-      "summary": "Article URL: https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/\nComments URL: https://news.ycombinator.com/item?id=46626210\nPoints: 16\n# Comments: 1",
-      "link": "https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/",
-      "published": "Thu, 15 Jan 2026 00:34:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-15T06:19:17.966345"
+      "crawled_at": "2026-01-15T12:24:11.297830"
     },
     {
       "source": "arstechnica",
@@ -207,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:18.246813"
+      "crawled_at": "2026-01-15T12:24:11.297872"
     },
     {
       "source": "arstechnica",
@@ -220,7 +237,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.246847"
+      "crawled_at": "2026-01-15T12:24:11.297898"
     },
     {
       "source": "arstechnica",
@@ -233,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:18.246879"
+      "crawled_at": "2026-01-15T12:24:11.297926"
     },
     {
       "source": "arstechnica",
@@ -246,84 +263,74 @@
         "Windows"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.246902"
+      "crawled_at": "2026-01-15T12:24:11.297949"
     },
     {
-      "source": "arstechnica",
-      "title": "I can’t stop shooting Oddcore’s endless waves of weird little guys",
-      "summary": "Zippy action, fun upgrade system make for a great pick-up-and-play shooter.",
-      "link": "https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/",
-      "published": "Wed, 14 Jan 2026 21:42:39 +0000",
+      "source": "wired",
+      "title": "Livestream: Welcome to the Chinese Century",
+      "summary": "Join our livestream — and pose a question to WIRED’s panel of experts — on China’s dominance, influence, and how it is rewriting the future.",
+      "link": "https://www.wired.com/story/livestream-welcome-to-the-chinese-century/",
+      "published": "Thu, 15 Jan 2026 12:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:18.246935"
+      "crawled_at": "2026-01-15T12:24:11.504429"
     },
     {
       "source": "wired",
-      "title": "Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI",
-      "summary": "The departures are a blow for Thinking Machines Lab. Two narratives are already emerging about why they happened.",
-      "link": "https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/",
-      "published": "Thu, 15 Jan 2026 00:40:28 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.336066"
-    },
-    {
-      "source": "wired",
-      "title": "Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet",
-      "summary": "The killing of George Floyd in 2020 prompted a wave of statements from tech companies and CEOs. Today, pushback against ICE is largely coming from employees, not executives.",
-      "link": "https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/",
-      "published": "Wed, 14 Jan 2026 22:48:32 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.336101"
-    },
-    {
-      "source": "wired",
-      "title": "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later",
-      "summary": "New research has discovered that a neural circuit may explain procrastination. Scientists were able to disrupt this connection using a drug.",
-      "link": "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
-      "published": "Wed, 14 Jan 2026 20:09:21 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.336129"
-    },
-    {
-      "source": "wired",
-      "title": "Save Big on One of Our Favorite Desk Lamps from Lume Cube",
-      "summary": "Lume Cube has a variety of marked-down lighting products to help revamp your home office.",
-      "link": "https://www.wired.com/story/lume-edge-light-deal-126/",
-      "published": "Wed, 14 Jan 2026 19:48:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-15T06:19:18.336156"
-    },
-    {
-      "source": "wired",
-      "title": "AI’s Hacking Skills Are Approaching an ‘Inflection Point’",
-      "summary": "AI models are getting so good at finding vulnerabilities that some experts say the tech industry might need to rethink how software is built.",
-      "link": "https://www.wired.com/story/ai-models-hacking-inflection-point/",
-      "published": "Wed, 14 Jan 2026 19:00:00 +0000",
+      "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
+      "summary": "Flaws in how 17 models of headphones and speakers use Google’s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
+      "link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/",
+      "published": "Thu, 15 Jan 2026 12:00:00 +0000",
       "keywords": [
         "AI",
         "Go",
+        "AWS",
         "Hack",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T12:24:11.504469"
+    },
+    {
+      "source": "wired",
+      "title": "The Tea App Is Back With a New Website",
+      "summary": "Months after major data leaks, the app where women leave Yelp-style reviews about men is relaunching with a new website. It’s not back on iOS, but the Android app has new AI features.",
+      "link": "https://www.wired.com/story/the-tea-app-is-back-with-a-new-website/",
+      "published": "Thu, 15 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Android",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-15T12:24:11.504500"
+    },
+    {
+      "source": "wired",
+      "title": "The Real AI Talent War Is for Plumbers and Electricians",
+      "summary": "The AI boom is driving an unprecedented wave of data center construction, but there aren’t enough skilled tradespeople in the US to keep up.",
+      "link": "https://www.wired.com/story/why-there-arent-enough-electricians-and-plumbers-to-build-ai-data-centers/",
+      "published": "Thu, 15 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-15T06:19:18.336192"
+      "crawled_at": "2026-01-15T12:24:11.504529"
+    },
+    {
+      "source": "wired",
+      "title": "Asus ROG Falcata Review: A Split Gaming Keyboard",
+      "summary": "With the looks and speed of a gaming keyboard and the comfort of an ergonomic keyboard, the Falcata is a unique and expensive hybrid for a niche audience.",
+      "link": "https://www.wired.com/review/asus-rog-falcata/",
+      "published": "Thu, 15 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-15T12:24:11.504562"
     }
   ]
 }
