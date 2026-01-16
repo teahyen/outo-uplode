@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-01-16T06:19:43.925354",
+  "last_updated": "2026-01-16T12:22:45.013361",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+      "summary": "Irina Ghose joins Anthropic as India managing director after 24 years at Microsoft.",
+      "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+      "published": "Fri, 16 Jan 2026 07:28:25 +0000",
+      "keywords": [
+        "Anthropic",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-16T12:22:43.887494"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Silicon Valley’s messiest breakup is definitely headed to court",
+      "summary": "OpenAI and Microsoft tried to dodge a courtroom showdown with Elon Musk, but a federal judge on Thursday rejected their requests to dismiss the case.",
+      "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+      "published": "Fri, 16 Jan 2026 06:45:15 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Microsoft"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-16T12:22:43.887536"
+    },
     {
       "source": "techcrunch",
       "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
@@ -14,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.338030"
+      "crawled_at": "2026-01-16T12:22:43.887566"
     },
     {
       "source": "techcrunch",
@@ -27,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.338077"
+      "crawled_at": "2026-01-16T12:22:43.887598"
     },
     {
       "source": "techcrunch",
@@ -39,33 +67,32 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.338106"
+      "crawled_at": "2026-01-16T12:22:43.887640"
     },
     {
-      "source": "techcrunch",
-      "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
-      "summary": "Higgsfield says it's on a $200 million annual revenue run rate. So it opened its previous Series A round back up and sold another $80 million in shares.",
-      "link": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
-      "published": "Thu, 15 Jan 2026 19:28:45 +0000",
+      "source": "theverge",
+      "title": "Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages",
+      "summary": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR representatives. \"The GeForce RTX 5070 Ti and Ge",
+      "link": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+      "published": "2026-01-16T07:05:26-05:00",
       "keywords": [
         "AI",
-        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.338133"
+      "crawled_at": "2026-01-16T12:22:44.094606"
     },
     {
-      "source": "techcrunch",
-      "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
-      "summary": "Iran’s government-imposed internet shutdown enters its second week as authorities continue their violent crackdown on protesters.",
-      "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
-      "published": "Thu, 15 Jan 2026 18:47:52 +0000",
+      "source": "theverge",
+      "title": "How to fireproof a city",
+      "summary": "Down the street from the Los Angeles Angels' stadium in Anaheim, a crowd gathers to watch two homes burn. In less than 30 minutes, one structure is reduced to its smoldering, blackened wood frame, while the other, thanks to simple changes to its design, is remarkably unscathed. Of course, this was t",
+      "link": "https://www.theverge.com/features/861950/fire-resilient-home-neighborhood",
+      "published": "2026-01-16T07:00:00-05:00",
       "keywords": [
-        "Go"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.338176"
+      "crawled_at": "2026-01-16T12:22:44.094673"
     },
     {
       "source": "theverge",
@@ -78,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.457974"
+      "crawled_at": "2026-01-16T12:22:44.094708"
     },
     {
       "source": "theverge",
@@ -92,7 +119,7 @@
         "Metaverse"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-16T06:19:43.458033"
+      "crawled_at": "2026-01-16T12:22:44.094751"
     },
     {
       "source": "theverge",
@@ -104,95 +131,68 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-16T06:19:43.458090"
-    },
-    {
-      "source": "theverge",
-      "title": "Here are the best Apple Watch deals available right now",
-      "summary": "In September, Apple launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features), and we’re already starting to see big price drops. Additionally, we’re s",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "published": "2026-01-15T19:17:02-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.458133"
-    },
-    {
-      "source": "theverge",
-      "title": "Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing",
-      "summary": "Ashley St. Clair, the mother of one of X owner Elon Musk's children, is suing his company for enabling its AI to virtually strip her down into a bikini without her consent. St. Clair is one of the many people over the past couple weeks who have found themselves undressed without permission by X's AI",
-      "link": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit",
-      "published": "2026-01-15T18:33:29-05:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.458170"
+      "crawled_at": "2026-01-16T12:22:44.094805"
     },
     {
       "source": "hackernews",
-      "title": "San Francisco to offer free childcare to people making up to $230000",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families\nComments URL: https://news.ycombinator.com/item?id=46643099\nPoints: 13\n# Comments: 1",
-      "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
-      "published": "Fri, 16 Jan 2026 04:51:57 +0000",
+      "title": "On Being a Human Being in the Time of Collapse (2022) [pdf]",
+      "summary": "Article URL: https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf\nComments URL: https://news.ycombinator.com/item?id=46644962\nPoints: 104\n# Comments: 76",
+      "link": "https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf",
+      "published": "Fri, 16 Jan 2026 10:19:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.695696"
+      "crawled_at": "2026-01-16T12:22:44.636067"
     },
     {
       "source": "hackernews",
-      "title": "Boeing knew of flaw in part linked to UPS plane crash, NTSB report says",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cly56w0p9e1o\nComments URL: https://news.ycombinator.com/item?id=46642920\nPoints: 69\n# Comments: 30",
-      "link": "https://www.bbc.com/news/articles/cly56w0p9e1o",
-      "published": "Fri, 16 Jan 2026 04:11:17 +0000",
+      "title": "The spectrum of isolation: From bare metal to WebAssembly",
+      "summary": "Article URL: https://buildsoftwaresystems.com/post/guide-to-execution-environments/\nComments URL: https://news.ycombinator.com/item?id=46644661\nPoints: 32\n# Comments: 14",
+      "link": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
+      "published": "Fri, 16 Jan 2026 09:27:03 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-16T12:22:44.636110"
+    },
+    {
+      "source": "hackernews",
+      "title": "pf: Make af-to less magical",
+      "summary": "Article URL: https://undeadly.org/cgi?action=article;sid=20260116085115\nComments URL: https://news.ycombinator.com/item?id=46644541\nPoints: 17\n# Comments: 1",
+      "link": "https://undeadly.org/cgi?action=article;sid=20260116085115",
+      "published": "Fri, 16 Jan 2026 09:06:45 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.695740"
+      "crawled_at": "2026-01-16T12:22:44.636143"
     },
     {
       "source": "hackernews",
-      "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-      "summary": "Article URL: https://www.undeadly.org/cgi?action=article;sid=20260115203619\nComments URL: https://news.ycombinator.com/item?id=46642560\nPoints: 132\n# Comments: 7",
-      "link": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
-      "published": "Fri, 16 Jan 2026 03:10:36 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-16T06:19:43.695775"
-    },
-    {
-      "source": "hackernews",
-      "title": "SETI Home Flags 100 Signals After Sorting 12B Others",
-      "summary": "Article URL: https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/\nComments URL: https://news.ycombinator.com/item?id=46642414\nPoints: 68\n# Comments: 27",
-      "link": "https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/",
-      "published": "Fri, 16 Jan 2026 02:45:15 +0000",
+      "title": "Interactive eBPF",
+      "summary": "Article URL: https://ebpf.party/\nComments URL: https://news.ycombinator.com/item?id=46644181\nPoints: 44\n# Comments: 3",
+      "link": "https://ebpf.party/",
+      "published": "Fri, 16 Jan 2026 08:01:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.695817"
+      "crawled_at": "2026-01-16T12:22:44.636171"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Reversing YouTube’s “Most Replayed” Graph",
-      "summary": "Hi HN,I recently noticed a recurring visual artifact in the \"Most Replayed\" heatmap on the YouTube player. The highest peaks were always surrounded by two dips. I got curious about why they were there, so I decided to reverse engineer the feature to find out.This post documents the deep dive. It sta",
-      "link": "https://priyavr.at/blog/reversing-most-replayed/",
-      "published": "Fri, 16 Jan 2026 02:06:11 +0000",
+      "title": "Building a better Bugbot",
+      "summary": "Article URL: https://cursor.com/blog/building-bugbot\nComments URL: https://news.ycombinator.com/item?id=46643737\nPoints: 31\n# Comments: 9",
+      "link": "https://cursor.com/blog/building-bugbot",
+      "published": "Fri, 16 Jan 2026 06:52:03 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-01-16T06:19:43.695890"
+      "category": "Tech News",
+      "crawled_at": "2026-01-16T12:22:44.636200"
     },
     {
       "source": "arstechnica",
@@ -204,7 +204,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.822137"
+      "crawled_at": "2026-01-16T12:22:44.825114"
     },
     {
       "source": "arstechnica",
@@ -217,7 +217,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.822197"
+      "crawled_at": "2026-01-16T12:22:44.825146"
     },
     {
       "source": "arstechnica",
@@ -230,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.822256"
+      "crawled_at": "2026-01-16T12:22:44.825181"
     },
     {
       "source": "arstechnica",
@@ -242,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.822317"
+      "crawled_at": "2026-01-16T12:22:44.825216"
     },
     {
       "source": "arstechnica",
@@ -255,69 +255,66 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.822370"
+      "crawled_at": "2026-01-16T12:22:44.825240"
     },
     {
       "source": "wired",
-      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Fri, 16 Jan 2026 06:10:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-16T06:19:43.925111"
+      "title": "How Does the Hive Mind Work in ‘Pluribus?",
+      "summary": "The “Joining” seems to connect people via radio waves. Let’s dig into the physics at play.",
+      "link": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
+      "published": "Fri, 16 Jan 2026 12:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-16T12:22:45.013159"
     },
     {
       "source": "wired",
-      "title": "15% Off Adidas Promo Code | January 2026",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore January deals for 40% off trendy sneakers.",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "published": "Fri, 16 Jan 2026 06:00:00 +0000",
+      "title": "DJI Action 6 Review: The Best Action Camera Is Now Better",
+      "summary": "DJI's new action camera brings a larger sensor, a variable aperture lens, 8K video, interchangeable lenses, and more.",
+      "link": "https://www.wired.com/review/dji-action-6/",
+      "published": "Fri, 16 Jan 2026 12:00:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-16T06:19:43.925141"
-    },
-    {
-      "source": "wired",
-      "title": "Meta’s Layoffs Leave Supernatural Fitness Users in Mourning",
-      "summary": "Users of the VR fitness service are distraught that Supernatural has had its staff cut and won’t receive any more content updates. They’re also pissed at Meta.",
-      "link": "https://www.wired.com/story/metas-layoffs-supernatural-fitness-users/",
-      "published": "Thu, 15 Jan 2026 22:44:25 +0000",
-      "keywords": [
-        "Meta",
-        "VR",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-16T06:19:43.925191"
+      "crawled_at": "2026-01-16T12:22:45.013197"
     },
     {
       "source": "wired",
-      "title": "Take an Extra $50 Off My Favorite Mattress With This Code",
-      "summary": "Nolah's Evolution is the mattress I personally sleep on as a certified sleep coach, and it's on sale pre-Presidents' Day.",
-      "link": "https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/",
-      "published": "Thu, 15 Jan 2026 21:43:57 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-01-16T06:19:43.925217"
-    },
-    {
-      "source": "wired",
-      "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
-      "summary": "OpenAI is planning to bring over more researchers from Thinking Machines Lab after nabbing two cofounders, a source familiar with the situation says. Plus, the latest efforts to automate jobs with AI.",
-      "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
-      "published": "Thu, 15 Jan 2026 21:14:23 +0000",
+      "title": "RFK Jr. Says He’s Ending the War on Protein. It Doesn’t Exist",
+      "summary": "There is no war on protein. But pretending there is goes hand-in-hand with the Trump administration’s appeal to traditional masculinity.",
+      "link": "https://www.wired.com/story/rfk-jr-says-hes-ending-the-war-on-protein-it-doesnt-exist/",
+      "published": "Fri, 16 Jan 2026 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-16T06:19:43.925251"
+      "category": "Mobile",
+      "crawled_at": "2026-01-16T12:22:45.013240"
+    },
+    {
+      "source": "wired",
+      "title": "20% Off Brooks Promo Code & Deals for January 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "link": "https://www.wired.com/story/brooks-promo-code/",
+      "published": "Fri, 16 Jan 2026 07:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-16T12:22:45.013264"
+    },
+    {
+      "source": "wired",
+      "title": "30% VistaPrint Coupon & Promo Codes | January 2026",
+      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+      "link": "https://www.wired.com/story/vistaprint-coupon-code/",
+      "published": "Fri, 16 Jan 2026 06:50:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-16T12:22:45.013288"
     }
   ]
 }
