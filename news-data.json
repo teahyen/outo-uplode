@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-01-17T18:15:56.068727",
+  "last_updated": "2026-01-18T01:01:35.280523",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Who gets to inherit the stars? A space ethicist on what we’re not talking about",
+      "summary": "While it's easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it’s worth remembering there are no oceans or mountains or chirpy birds in space. It's “not nice up there,” said Rubenstein. “It is not nice at all.\"",
+      "link": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/",
+      "published": "Sat, 17 Jan 2026 22:45:09 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-18T01:01:34.345090"
+    },
     {
       "source": "techcrunch",
       "title": "Trump administration’s legal setbacks are good news for offshore wind — and the grid",
@@ -13,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.016950"
+      "crawled_at": "2026-01-18T01:01:34.345144"
     },
     {
       "source": "techcrunch",
@@ -26,7 +39,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.016995"
+      "crawled_at": "2026-01-18T01:01:34.345184"
     },
     {
       "source": "techcrunch",
@@ -42,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.017024"
+      "crawled_at": "2026-01-18T01:01:34.345211"
     },
     {
       "source": "techcrunch",
@@ -57,19 +70,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.017054"
+      "crawled_at": "2026-01-18T01:01:34.345241"
     },
     {
-      "source": "techcrunch",
-      "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-      "summary": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
-      "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-      "published": "Fri, 16 Jan 2026 23:21:24 +0000",
+      "source": "theverge",
+      "title": "Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies",
+      "summary": "\"Share a Disney quote that sums up how you're feeling right now!\" That's what Disney posted on Threads the other day, and people immediately replied with lines from Star Wars, The Hunchback of Notre Dame, and even Mary Poppins. The throughline between all the quotes: they were pretty pointedly anti-",
+      "link": "https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread",
+      "published": "2026-01-17T13:38:13-05:00",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.017083"
+      "crawled_at": "2026-01-18T01:01:34.532104"
     },
     {
       "source": "theverge",
@@ -85,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.265068"
+      "crawled_at": "2026-01-18T01:01:34.532150"
     },
     {
       "source": "theverge",
@@ -100,7 +114,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-17T18:15:55.265132"
+      "crawled_at": "2026-01-18T01:01:34.532210"
     },
     {
       "source": "theverge",
@@ -113,7 +127,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.265180"
+      "crawled_at": "2026-01-18T01:01:34.532256"
     },
     {
       "source": "theverge",
@@ -125,86 +139,75 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.265219"
-    },
-    {
-      "source": "theverge",
-      "title": "Minnesota wants to win a war of attrition",
-      "summary": "As masked and armed men in combat armor swarmed throughout the Twin Cities, Gov. Tim Walz took to primetime television to ask Minnesotans to film ICE. The videos, he said, would \"create a database of the atrocities against Minnesotans - not just to establish a record for posterity, but to bank evide",
-      "link": "https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice",
-      "published": "2026-01-17T09:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Database",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.265250"
+      "crawled_at": "2026-01-18T01:01:34.532296"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: What if your menu bar was a keyboard-controlled command center?",
-      "summary": "Hey Hacker News \nThe ones that know me here know that I am a productivity geek.After DockFlow to manage my Dock and ExtraDock, which gives me more space to manage my apps and files, I decided to tackle the macOS big boss: the menu bar.I spend ~40% of my day context-switching between apps — Zoom meet",
-      "link": "https://extrabar.app/",
-      "published": "Sat, 17 Jan 2026 17:31:21 +0000",
+      "title": "IRISC: An ARMv7 assembly interpreter and computer architecture simulator",
+      "summary": "Article URL: https://polysoftit.co.uk/irisc-web/\nComments URL: https://news.ycombinator.com/item?id=46663467\nPoints: 3\n# Comments: 1",
+      "link": "https://polysoftit.co.uk/irisc-web/",
+      "published": "Sun, 18 Jan 2026 00:05:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-18T01:01:34.963573"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI could reportedly run out of cash by mid-2027",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances\nComments URL: https://news.ycombinator.com/item?id=46663341\nPoints: 35\n# Comments: 19",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances",
+      "published": "Sat, 17 Jan 2026 23:47:45 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-18T01:01:34.963631"
+    },
+    {
+      "source": "hackernews",
+      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+      "summary": "Article URL: https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1\nComments URL: https://news.ycombinator.com/item?id=46663338\nPoints: 14\n# Comments: 2",
+      "link": "https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1",
+      "published": "Sat, 17 Jan 2026 23:47:16 +0000",
+      "keywords": [
         "Go",
-        "Hack",
         "Apple",
-        "Cloud"
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-18T01:01:34.963671"
+    },
+    {
+      "source": "hackernews",
+      "title": "Light Mode InFFFFFFlation",
+      "summary": "Article URL: https://willhbr.net/2025/10/20/light-mode-infffffflation/\nComments URL: https://news.ycombinator.com/item?id=46662662\nPoints: 130\n# Comments: 80",
+      "link": "https://willhbr.net/2025/10/20/light-mode-infffffflation/",
+      "published": "Sat, 17 Jan 2026 22:19:25 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-18T01:01:34.963704"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
+      "summary": "ChunkHound’s goal is simple: local-first codebase intelligence that helps you pull deep, core-dev-level insights on demand, generate always-up-to-date docs, and scale from small repos to enterprise monorepos — while staying free + open source and provider-agnostic (VoyageAI / OpenAI / Qwen3, Anthrop",
+      "link": "https://github.com/chunkhound/chunkhound",
+      "published": "Sat, 17 Jan 2026 21:03:52 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.606691"
-    },
-    {
-      "source": "hackernews",
-      "title": "2025 was the third hottest year on record",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record\nComments URL: https://news.ycombinator.com/item?id=46659913\nPoints: 20\n# Comments: 5",
-      "link": "https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record",
-      "published": "Sat, 17 Jan 2026 17:29:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.606740"
-    },
-    {
-      "source": "hackernews",
-      "title": "An Elizabethan mansion's secrets for staying warm",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm\nComments URL: https://news.ycombinator.com/item?id=46659550\nPoints: 15\n# Comments: 19",
-      "link": "https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm",
-      "published": "Sat, 17 Jan 2026 16:53:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.606778"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Resonant Computing Manifesto",
-      "summary": "Article URL: https://resonantcomputing.org/\nComments URL: https://news.ycombinator.com/item?id=46659456\nPoints: 18\n# Comments: 3",
-      "link": "https://resonantcomputing.org/",
-      "published": "Sat, 17 Jan 2026 16:43:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.606810"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why There's No Single Best Way to Store Information",
-      "summary": "Article URL: https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/\nComments URL: https://news.ycombinator.com/item?id=46659219\nPoints: 15\n# Comments: 2",
-      "link": "https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/",
-      "published": "Sat, 17 Jan 2026 16:17:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.606847"
+      "crawled_at": "2026-01-18T01:01:34.963763"
     },
     {
       "source": "arstechnica",
@@ -216,7 +219,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.831809"
+      "crawled_at": "2026-01-18T01:01:35.159262"
     },
     {
       "source": "arstechnica",
@@ -228,7 +231,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.831854"
+      "crawled_at": "2026-01-18T01:01:35.159307"
     },
     {
       "source": "arstechnica",
@@ -242,7 +245,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:55.831881"
+      "crawled_at": "2026-01-18T01:01:35.159334"
     },
     {
       "source": "arstechnica",
@@ -254,7 +257,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.831909"
+      "crawled_at": "2026-01-18T01:01:35.159362"
     },
     {
       "source": "arstechnica",
@@ -266,7 +269,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:55.831943"
+      "crawled_at": "2026-01-18T01:01:35.159397"
     },
     {
       "source": "wired",
@@ -279,7 +282,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:56.068519"
+      "crawled_at": "2026-01-18T01:01:35.280283"
     },
     {
       "source": "wired",
@@ -291,7 +294,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:56.068554"
+      "crawled_at": "2026-01-18T01:01:35.280320"
     },
     {
       "source": "wired",
@@ -304,7 +307,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:56.068591"
+      "crawled_at": "2026-01-18T01:01:35.280357"
     },
     {
       "source": "wired",
@@ -314,7 +317,7 @@
       "published": "Sat, 17 Jan 2026 11:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-17T18:15:56.068623"
+      "crawled_at": "2026-01-18T01:01:35.280390"
     },
     {
       "source": "wired",
@@ -328,7 +331,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-17T18:15:56.068653"
+      "crawled_at": "2026-01-18T01:01:35.280420"
     }
   ]
 }
