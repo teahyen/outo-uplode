@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-01-18T18:15:28.419752",
+  "last_updated": "2026-01-19T01:01:26.470109",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT",
+      "summary": "Sequoia Capital is reportedly joining a blockbuster funding round for Anthropic, the AI startup behind Claude, according to the Financial Times. It&#8217;s a move sure to turn heads in Silicon Valley. Why? Because venture capital firms have historically avoided backing competing companies in the sam",
+      "link": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+      "published": "Sun, 18 Jan 2026 22:15:17 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "API",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T01:01:25.507547"
+    },
     {
       "source": "techcrunch",
       "title": "TechCrunch Mobility: ‘Physical AI’ enters the hype machine",
@@ -12,7 +28,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.494772"
+      "crawled_at": "2026-01-19T01:01:25.507585"
     },
     {
       "source": "techcrunch",
@@ -25,7 +41,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.494815"
+      "crawled_at": "2026-01-19T01:01:25.507619"
     },
     {
       "source": "techcrunch",
@@ -39,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.494843"
+      "crawled_at": "2026-01-19T01:01:25.507644"
     },
     {
       "source": "techcrunch",
@@ -55,19 +71,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.494869"
+      "crawled_at": "2026-01-19T01:01:25.507669"
     },
     {
-      "source": "techcrunch",
-      "title": "Why Silicon Valley is really talking about fleeing California (it’s not the 5%)",
-      "summary": "As highlighted Friday in the New York Post, the proposed wealth tax would hit founders on their voting shares rather than the actual equity they own.",
-      "link": "https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/",
-      "published": "Sun, 18 Jan 2026 01:17:11 +0000",
+      "source": "theverge",
+      "title": "You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale",
+      "summary": "It's relatively rare for a podcast to last 14 years, especially a fiction one. In fact, as far as I can tell, Welcome to Night Vale is the longest continually running fiction podcast out there. (Some will argue it's actually We're Alive, but that has taken a few significant breaks between seasons.) ",
+      "link": "https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale",
+      "published": "2026-01-18T15:30:00-05:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:27.494912"
+      "crawled_at": "2026-01-19T01:01:25.619611"
     },
     {
       "source": "theverge",
@@ -82,7 +98,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-18T18:15:27.667209"
+      "crawled_at": "2026-01-19T01:01:25.619672"
     },
     {
       "source": "theverge",
@@ -95,7 +111,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:27.667274"
+      "crawled_at": "2026-01-19T01:01:25.619729"
     },
     {
       "source": "theverge",
@@ -108,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.667316"
+      "crawled_at": "2026-01-19T01:01:25.619768"
     },
     {
       "source": "theverge",
@@ -124,81 +140,77 @@
         "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.667356"
+      "crawled_at": "2026-01-19T01:01:25.619806"
     },
     {
-      "source": "theverge",
-      "title": "Under Musk, the Grok disaster was inevitable",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on dystopian developments in AI, follow Hayden Field. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started You could say it all started with E",
-      "link": "https://www.theverge.com/column/863502/grok-deepfake-musk",
-      "published": "2026-01-18T08:00:00-05:00",
+      "source": "hackernews",
+      "title": "Show HN: I quit coding years ago. AI brought me back",
+      "summary": "Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. So I pivoted, ended up as an investment associate at an early-stage angel fund, and haven't written real",
+      "link": "https://calquio.com",
+      "published": "Mon, 19 Jan 2026 00:50:20 +0000",
       "keywords": [
         "AI",
+        "Claude",
+        "Go",
+        "React",
+        "Next.js"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T01:01:26.153515"
+    },
+    {
+      "source": "hackernews",
+      "title": "Simple GIS on Potato",
+      "summary": "Article URL: https://github.com/blue-monads/potato-apps/tree/master/cimple-gis\nComments URL: https://news.ycombinator.com/item?id=46672701\nPoints: 13\n# Comments: 4",
+      "link": "https://github.com/blue-monads/potato-apps/tree/master/cimple-gis",
+      "published": "Sun, 18 Jan 2026 22:15:01 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-19T01:01:26.153559"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Beats, a web-based drum machine",
+      "summary": "Hello all!I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love.A couple of months ago, Reddit user andiam03 shared a Google Sheet with some drum patterns [1]. I thought it was a very cool way to share and unde",
+      "link": "https://beats.lasagna.pizza",
+      "published": "Sun, 18 Jan 2026 21:10:08 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:27.667388"
+      "crawled_at": "2026-01-19T01:01:26.153651"
     },
     {
       "source": "hackernews",
-      "title": "Gaussian Splatting – A$AP Rocky Helicopter Music Video",
-      "summary": "Article URL: https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting\nComments URL: https://news.ycombinator.com/item?id=46670024\nPoints: 19\n# Comments: 1",
-      "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
-      "published": "Sun, 18 Jan 2026 17:40:55 +0000",
+      "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
+      "summary": "Article URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/\nComments URL: https://news.ycombinator.com/item?id=46672150\nPoints: 193\n# Comments: 45",
+      "link": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+      "published": "Sun, 18 Jan 2026 21:05:14 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.147456"
+      "crawled_at": "2026-01-19T01:01:26.153693"
     },
     {
       "source": "hackernews",
-      "title": "How the Lobsters front page works",
-      "summary": "Article URL: https://atharvaraykar.com/lobsters/\nComments URL: https://news.ycombinator.com/item?id=46669996\nPoints: 11\n# Comments: 1",
-      "link": "https://atharvaraykar.com/lobsters/",
-      "published": "Sun, 18 Jan 2026 17:38:22 +0000",
+      "title": "Stirling Cycle Machine Analysis",
+      "summary": "Article URL: https://ohioopen.library.ohio.edu/opentextbooks/9/\nComments URL: https://news.ycombinator.com/item?id=46671982\nPoints: 22\n# Comments: 9",
+      "link": "https://ohioopen.library.ohio.edu/opentextbooks/9/",
+      "published": "Sun, 18 Jan 2026 20:45:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.147496"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Nobel Prize and the Laureate Are Inseparable",
-      "summary": "Article URL: https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable\nComments URL: https://news.ycombinator.com/item?id=46669404\nPoints: 212\n# Comments: 125",
-      "link": "https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable",
-      "published": "Sun, 18 Jan 2026 16:50:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.147550"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stop using MySQL in 2026, it is not true open source",
-      "summary": "Article URL: https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/\nComments URL: https://news.ycombinator.com/item?id=46669289\nPoints: 17\n# Comments: 1",
-      "link": "https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/",
-      "published": "Sun, 18 Jan 2026 16:43:44 +0000",
-      "keywords": [
-        "SQL",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.147586"
-    },
-    {
-      "source": "hackernews",
-      "title": "Purdue blocks admission of many Chinese grad students in unwritten policy",
-      "summary": "Article URL: https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy\nComments URL: https://news.ycombinator.com/item?id=46668801\nPoints: 31\n# Comments: 20",
-      "link": "https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy",
-      "published": "Sun, 18 Jan 2026 15:55:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.147625"
+      "crawled_at": "2026-01-19T01:01:26.153727"
     },
     {
       "source": "arstechnica",
@@ -210,7 +222,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.293314"
+      "crawled_at": "2026-01-19T01:01:26.319864"
     },
     {
       "source": "arstechnica",
@@ -222,7 +234,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.293357"
+      "crawled_at": "2026-01-19T01:01:26.319906"
     },
     {
       "source": "arstechnica",
@@ -234,7 +246,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.293393"
+      "crawled_at": "2026-01-19T01:01:26.319943"
     },
     {
       "source": "arstechnica",
@@ -248,7 +260,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:28.293418"
+      "crawled_at": "2026-01-19T01:01:26.319968"
     },
     {
       "source": "arstechnica",
@@ -260,7 +272,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.293445"
+      "crawled_at": "2026-01-19T01:01:26.319995"
     },
     {
       "source": "wired",
@@ -273,7 +285,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:28.419517"
+      "crawled_at": "2026-01-19T01:01:26.469887"
     },
     {
       "source": "wired",
@@ -285,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.419580"
+      "crawled_at": "2026-01-19T01:01:26.469936"
     },
     {
       "source": "wired",
@@ -298,7 +310,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.419624"
+      "crawled_at": "2026-01-19T01:01:26.469979"
     },
     {
       "source": "wired",
@@ -311,7 +323,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-18T18:15:28.419650"
+      "crawled_at": "2026-01-19T01:01:26.470006"
     },
     {
       "source": "wired",
@@ -321,7 +333,7 @@
       "published": "Sun, 18 Jan 2026 10:31:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-18T18:15:28.419678"
+      "crawled_at": "2026-01-19T01:01:26.470035"
     }
   ]
 }
