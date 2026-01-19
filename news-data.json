@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T01:01:26.470109",
+  "last_updated": "2026-01-19T06:23:59.343612",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.507547"
+      "crawled_at": "2026-01-19T06:23:58.704121"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.507585"
+      "crawled_at": "2026-01-19T06:23:58.704160"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.507619"
+      "crawled_at": "2026-01-19T06:23:58.704194"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.507644"
+      "crawled_at": "2026-01-19T06:23:58.704219"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.507669"
+      "crawled_at": "2026-01-19T06:23:58.704243"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:25.619611"
+      "crawled_at": "2026-01-19T06:23:58.801754"
     },
     {
       "source": "theverge",
@@ -98,7 +98,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-19T01:01:25.619672"
+      "crawled_at": "2026-01-19T06:23:58.801818"
     },
     {
       "source": "theverge",
@@ -111,7 +111,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:25.619729"
+      "crawled_at": "2026-01-19T06:23:58.801875"
     },
     {
       "source": "theverge",
@@ -124,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.619768"
+      "crawled_at": "2026-01-19T06:23:58.801928"
     },
     {
       "source": "theverge",
@@ -140,13 +140,55 @@
         "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:25.619806"
+      "crawled_at": "2026-01-19T06:23:58.801968"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
+      "summary": "Article URL: https://github.com/elC0mpa/aws-doctor\nComments URL: https://news.ycombinator.com/item?id=46675092\nPoints: 3\n# Comments: 1",
+      "link": "https://github.com/elC0mpa/aws-doctor",
+      "published": "Mon, 19 Jan 2026 04:35:05 +0000",
+      "keywords": [
+        "Go",
+        "AWS",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-19T06:23:59.051126"
+    },
+    {
+      "source": "hackernews",
+      "title": "CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod",
+      "summary": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771\nComments URL: https://news.ycombinator.com/item?id=46674505\nPoints: 41\n# Comments: 16",
+      "link": "https://www.patreon.com/posts/another-one-dust-148437771",
+      "published": "Mon, 19 Jan 2026 02:42:08 +0000",
+      "keywords": [
+        "AI",
+        "VR",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T06:23:59.051170"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Code-Only Agent",
+      "summary": "Article URL: https://rijnard.com/blog/the-code-only-agent\nComments URL: https://news.ycombinator.com/item?id=46674416\nPoints: 35\n# Comments: 12",
+      "link": "https://rijnard.com/blog/the-code-only-agent",
+      "published": "Mon, 19 Jan 2026 02:27:07 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-19T06:23:59.051198"
     },
     {
       "source": "hackernews",
       "title": "Show HN: I quit coding years ago. AI brought me back",
       "summary": "Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. So I pivoted, ended up as an investment associate at an early-stage angel fund, and haven't written real",
-      "link": "https://calquio.com",
+      "link": "https://calquio.com/finance/compound-interest",
       "published": "Mon, 19 Jan 2026 00:50:20 +0000",
       "keywords": [
         "AI",
@@ -156,61 +198,20 @@
         "Next.js"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:26.153515"
+      "crawled_at": "2026-01-19T06:23:59.051368"
     },
     {
       "source": "hackernews",
-      "title": "Simple GIS on Potato",
-      "summary": "Article URL: https://github.com/blue-monads/potato-apps/tree/master/cimple-gis\nComments URL: https://news.ycombinator.com/item?id=46672701\nPoints: 13\n# Comments: 4",
-      "link": "https://github.com/blue-monads/potato-apps/tree/master/cimple-gis",
-      "published": "Sun, 18 Jan 2026 22:15:01 +0000",
+      "title": "High-speed train collision in Spain kills at least 21",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cedw6ylpynyo\nComments URL: https://news.ycombinator.com/item?id=46673453\nPoints: 64\n# Comments: 40",
+      "link": "https://www.bbc.com/news/articles/cedw6ylpynyo",
+      "published": "Sun, 18 Jan 2026 23:54:43 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-19T01:01:26.153559"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Beats, a web-based drum machine",
-      "summary": "Hello all!I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love.A couple of months ago, Reddit user andiam03 shared a Google Sheet with some drum patterns [1]. I thought it was a very cool way to share and unde",
-      "link": "https://beats.lasagna.pizza",
-      "published": "Sun, 18 Jan 2026 21:10:08 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Git",
-        "GitHub",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:26.153651"
-    },
-    {
-      "source": "hackernews",
-      "title": "Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used",
-      "summary": "Article URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/\nComments URL: https://news.ycombinator.com/item?id=46672150\nPoints: 193\n# Comments: 45",
-      "link": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
-      "published": "Sun, 18 Jan 2026 21:05:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.153693"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stirling Cycle Machine Analysis",
-      "summary": "Article URL: https://ohioopen.library.ohio.edu/opentextbooks/9/\nComments URL: https://news.ycombinator.com/item?id=46671982\nPoints: 22\n# Comments: 9",
-      "link": "https://ohioopen.library.ohio.edu/opentextbooks/9/",
-      "published": "Sun, 18 Jan 2026 20:45:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.153727"
+      "crawled_at": "2026-01-19T06:23:59.051397"
     },
     {
       "source": "arstechnica",
@@ -222,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.319864"
+      "crawled_at": "2026-01-19T06:23:59.218351"
     },
     {
       "source": "arstechnica",
@@ -234,7 +235,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.319906"
+      "crawled_at": "2026-01-19T06:23:59.218394"
     },
     {
       "source": "arstechnica",
@@ -246,7 +247,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.319943"
+      "crawled_at": "2026-01-19T06:23:59.218431"
     },
     {
       "source": "arstechnica",
@@ -260,7 +261,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:26.319968"
+      "crawled_at": "2026-01-19T06:23:59.218457"
     },
     {
       "source": "arstechnica",
@@ -272,7 +273,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.319995"
+      "crawled_at": "2026-01-19T06:23:59.218484"
     },
     {
       "source": "wired",
@@ -285,7 +286,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:26.469887"
+      "crawled_at": "2026-01-19T06:23:59.343384"
     },
     {
       "source": "wired",
@@ -297,7 +298,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.469936"
+      "crawled_at": "2026-01-19T06:23:59.343434"
     },
     {
       "source": "wired",
@@ -310,7 +311,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.469979"
+      "crawled_at": "2026-01-19T06:23:59.343475"
     },
     {
       "source": "wired",
@@ -323,7 +324,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T01:01:26.470006"
+      "crawled_at": "2026-01-19T06:23:59.343501"
     },
     {
       "source": "wired",
@@ -333,7 +334,7 @@
       "published": "Sun, 18 Jan 2026 10:31:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T01:01:26.470035"
+      "crawled_at": "2026-01-19T06:23:59.343530"
     }
   ]
 }
