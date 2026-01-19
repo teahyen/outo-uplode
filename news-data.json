@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T06:23:59.343612",
+  "last_updated": "2026-01-19T12:26:30.856930",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.704121"
+      "crawled_at": "2026-01-19T12:26:29.987937"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.704160"
+      "crawled_at": "2026-01-19T12:26:29.987976"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.704194"
+      "crawled_at": "2026-01-19T12:26:29.988013"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.704219"
+      "crawled_at": "2026-01-19T12:26:29.988072"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,23 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.704243"
+      "crawled_at": "2026-01-19T12:26:29.988105"
+    },
+    {
+      "source": "theverge",
+      "title": "Threads overtakes X on mobile, but still lags far behind",
+      "summary": "After launching almost three years ago, Meta's Threads is now reportedly attracting more daily mobile users than rival platform X. According to Similarweb data shared by TechCrunch, Threads has 141.5 million daily active iOS and Android global app users as of January 7th, compared to 125 million use",
+      "link": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
+      "published": "2026-01-19T06:53:33-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Meta",
+        "Android",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T12:26:30.105931"
     },
     {
       "source": "theverge",
@@ -83,7 +99,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:58.801754"
+      "crawled_at": "2026-01-19T12:26:30.105991"
     },
     {
       "source": "theverge",
@@ -98,7 +114,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-19T06:23:58.801818"
+      "crawled_at": "2026-01-19T12:26:30.106062"
     },
     {
       "source": "theverge",
@@ -111,7 +127,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:58.801875"
+      "crawled_at": "2026-01-19T12:26:30.106120"
     },
     {
       "source": "theverge",
@@ -124,94 +140,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.801928"
+      "crawled_at": "2026-01-19T12:26:30.106159"
     },
     {
-      "source": "theverge",
-      "title": "Why Coinbase derailed the crypto industry’s political future",
-      "summary": "January was going to be a landmark month for the crypto industry. The Senate would start negotiating the finer details of the CLARITY Act, a major law that would finally enshrine the fundamental structure of how the crypto market could legally operate in the United States: what digital assets counte",
-      "link": "https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market",
-      "published": "2026-01-18T08:10:00-05:00",
+      "source": "hackernews",
+      "title": "Show HN: Kacet – a freelancer marketplace with crypto-native payments",
+      "summary": "Hi HN,I’m a co-founder building kacet, a new freelancing platform that connects freelancers and employers, with crypto as the core payment rail.The problem I’m trying to solve is pretty familiar: existing platforms take high fees, are slow to pay out, and don’t work well for international teams. kac",
+      "link": "https://kacet.com/",
+      "published": "Mon, 19 Jan 2026 11:00:31 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Crypto",
-        "Security",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:58.801968"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go",
-      "summary": "Article URL: https://github.com/elC0mpa/aws-doctor\nComments URL: https://news.ycombinator.com/item?id=46675092\nPoints: 3\n# Comments: 1",
-      "link": "https://github.com/elC0mpa/aws-doctor",
-      "published": "Mon, 19 Jan 2026 04:35:05 +0000",
-      "keywords": [
-        "Go",
-        "AWS",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-19T06:23:59.051126"
-    },
-    {
-      "source": "hackernews",
-      "title": "CD Projekt issue DMCA takedown notice against popular Cyberpunk VR mod",
-      "summary": "Article URL: https://www.patreon.com/posts/another-one-dust-148437771\nComments URL: https://news.ycombinator.com/item?id=46674505\nPoints: 41\n# Comments: 16",
-      "link": "https://www.patreon.com/posts/another-one-dust-148437771",
-      "published": "Mon, 19 Jan 2026 02:42:08 +0000",
-      "keywords": [
-        "AI",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.051170"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Code-Only Agent",
-      "summary": "Article URL: https://rijnard.com/blog/the-code-only-agent\nComments URL: https://news.ycombinator.com/item?id=46674416\nPoints: 35\n# Comments: 12",
-      "link": "https://rijnard.com/blog/the-code-only-agent",
-      "published": "Mon, 19 Jan 2026 02:27:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-19T06:23:59.051198"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: I quit coding years ago. AI brought me back",
-      "summary": "Quick background: I used to code. Studied it in school, wrote some projects, but eventually convinced myself I wasn't cut out for it. Too slow, too many bugs, imposter syndrome — the usual story. So I pivoted, ended up as an investment associate at an early-stage angel fund, and haven't written real",
-      "link": "https://calquio.com/finance/compound-interest",
-      "published": "Mon, 19 Jan 2026 00:50:20 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
+        "Rust",
         "Go",
         "React",
-        "Next.js"
+        "Crypto"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.051368"
+      "crawled_at": "2026-01-19T12:26:30.503389"
     },
     {
       "source": "hackernews",
-      "title": "High-speed train collision in Spain kills at least 21",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cedw6ylpynyo\nComments URL: https://news.ycombinator.com/item?id=46673453\nPoints: 64\n# Comments: 40",
-      "link": "https://www.bbc.com/news/articles/cedw6ylpynyo",
-      "published": "Sun, 18 Jan 2026 23:54:43 +0000",
+      "title": "RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box\nComments URL: https://news.ycombinator.com/item?id=46677212\nPoints: 18\n# Comm",
+      "link": "https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box",
+      "published": "Mon, 19 Jan 2026 10:20:39 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-01-19T12:26:30.503450"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wikipedia: WikiProject AI Cleanup",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup\nComments URL: https://news.ycombinator.com/item?id=46677106\nPoints: 81\n# Comments: 24",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup",
+      "published": "Mon, 19 Jan 2026 10:09:38 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.051397"
+      "crawled_at": "2026-01-19T12:26:30.503480"
+    },
+    {
+      "source": "hackernews",
+      "title": "Greenpeace pilot brings heat pumps and solar to Ukrainian community",
+      "summary": "Article URL: https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community\nComments URL: https://news.ycombinator.com/item?id=46676824\nPoints: 21\n# Comments: 15",
+      "link": "https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community",
+      "published": "Mon, 19 Jan 2026 09:33:50 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T12:26:30.503512"
+    },
+    {
+      "source": "hackernews",
+      "title": "Radboud University selects Fairphone as standard smartphone for employees",
+      "summary": "Article URL: https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees\nComments URL: https://news.ycombinator.com/item?id=46676276\nPoints: 184\n# Comments: 96",
+      "link": "https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees",
+      "published": "Mon, 19 Jan 2026 08:23:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-19T12:26:30.503543"
     },
     {
       "source": "arstechnica",
@@ -223,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.218351"
+      "crawled_at": "2026-01-19T12:26:30.718163"
     },
     {
       "source": "arstechnica",
@@ -235,7 +231,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.218394"
+      "crawled_at": "2026-01-19T12:26:30.718207"
     },
     {
       "source": "arstechnica",
@@ -247,7 +243,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.218431"
+      "crawled_at": "2026-01-19T12:26:30.718244"
     },
     {
       "source": "arstechnica",
@@ -261,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.218457"
+      "crawled_at": "2026-01-19T12:26:30.718270"
     },
     {
       "source": "arstechnica",
@@ -273,68 +269,65 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.218484"
+      "crawled_at": "2026-01-19T12:26:30.718297"
     },
     {
       "source": "wired",
-      "title": "15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking",
-      "summary": "We tested the best electric bikes in every category, from commuters and mountain bikes to foldables and cruisers.",
-      "link": "https://www.wired.com/gallery/best-electric-bikes/",
-      "published": "Sun, 18 Jan 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.343384"
-    },
-    {
-      "source": "wired",
-      "title": "5 Best Water Leak Detectors (2026), Tested and Reviewed",
-      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These WIRED-tested smart water sensors can help you catch problems quicker.",
-      "link": "https://www.wired.com/gallery/best-water-leak-detectors/",
-      "published": "Sun, 18 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.343434"
-    },
-    {
-      "source": "wired",
-      "title": "People Still Aren’t Into Buying Cars Online",
-      "summary": "A new report shows that only 7 percent of new-car buyers in the US completed their purchase online, despite a major push by automakers, Amazon, and others to move past the dealership.",
-      "link": "https://www.wired.com/story/people-still-arent-into-buying-cars-online/",
-      "published": "Sun, 18 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.343475"
-    },
-    {
-      "source": "wired",
-      "title": "Jones Hovercraft 2.0 Snowboard Review: For Big Powder Days",
-      "summary": "Jeremy Jones’ sustainable snowboard is unbelievably fun in deep powder, steeps, and trees.",
-      "link": "https://www.wired.com/review/jones-hovercraft-20-snowboard/",
-      "published": "Sun, 18 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-19T06:23:59.343501"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best Juicers (2026): Fast Juicers and Slow Juicers",
-      "summary": "Stay hydrated with tried-and-tested juicers for refreshing daytime beverages and eye-brightening evening drinks.",
-      "link": "https://www.wired.com/gallery/the-best-juicer/",
-      "published": "Sun, 18 Jan 2026 10:31:00 +0000",
+      "title": "How to Clean Your Keurig (and When)",
+      "summary": "Your pod coffee maker can get gross over time. Here’s how to clean it up.",
+      "link": "https://www.wired.com/story/how-to-clean-keurig/",
+      "published": "Mon, 19 Jan 2026 11:33:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-19T06:23:59.343530"
+      "crawled_at": "2026-01-19T12:26:30.856652"
+    },
+    {
+      "source": "wired",
+      "title": "Dumbphone Owners Have Lost Their Minds",
+      "summary": "All my Gen Z friends want to ditch their smartphones. It’s cool. They’re cool. But there’s more at stake than they think.",
+      "link": "https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/",
+      "published": "Mon, 19 Jan 2026 11:30:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-19T12:26:30.856698"
+    },
+    {
+      "source": "wired",
+      "title": "The Search for Alien Artifacts Is Coming Into Focus",
+      "summary": "From surveys of the pre-Sputnik skies to analysis of interstellar visitors, scientists are rethinking how and where to look for physical traces of alien technology.",
+      "link": "https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/",
+      "published": "Mon, 19 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-19T12:26:30.856736"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Streaming Bundles and Streaming Deals of January 2026",
+      "summary": "Here are the current best bundles from the most popular services.",
+      "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
+      "published": "Mon, 19 Jan 2026 10:32:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-19T12:26:30.856763"
+    },
+    {
+      "source": "wired",
+      "title": "Capturing the Moment a White Dwarf Exploded",
+      "summary": "A research team has successfully imaged a nova in high resolution—and the images suggest that the nova was not a single, impulsive explosion.",
+      "link": "https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/",
+      "published": "Mon, 19 Jan 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-19T12:26:30.856799"
     }
   ]
 }
