@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-01-21T00:58:45.402572",
+  "last_updated": "2026-01-21T06:21:16.456588",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+      "summary": "Bolna said that 75% of its revenue is coming from self-serve customers.",
+      "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+      "published": "Wed, 21 Jan 2026 02:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-21T06:21:15.558957"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+      "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
+      "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+      "published": "Wed, 21 Jan 2026 01:39:58 +0000",
+      "keywords": [
+        "Anthropic",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-01-21T06:21:15.559021"
+    },
     {
       "source": "techcrunch",
       "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
@@ -12,7 +37,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.588675"
+      "crawled_at": "2026-01-21T06:21:15.559051"
     },
     {
       "source": "techcrunch",
@@ -26,7 +51,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-01-21T00:58:44.588733"
+      "crawled_at": "2026-01-21T06:21:15.559080"
     },
     {
       "source": "techcrunch",
@@ -40,37 +65,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.588763"
+      "crawled_at": "2026-01-21T06:21:15.559105"
     },
     {
-      "source": "techcrunch",
-      "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
-      "summary": "Tesla aims to restart work on Dojo3, its previously abandoned third-generation AI chip. Only this time, Dojo3 won’t be aimed at training self-driving models on Earth. Instead, Musk says it will be dedicated to “space-based AI compute.”",
-      "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
-      "published": "Tue, 20 Jan 2026 22:10:41 +0000",
+      "source": "theverge",
+      "title": "One year in, Big Tech has out-maneuvered MAGA populists",
+      "summary": "Welcome to Regulator, a newsletter for Verge subscribers about the technology and the tech bros upending American politics and the Trump administration. If you're not a subscriber yet, and you're interested in Silicon Valley's adventures in sausage-making, you should do so here! It's Q1! Surely the ",
+      "link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "published": "2026-01-20T22:33:00-05:00",
       "keywords": [
-        "AI",
         "REST",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.588804"
-    },
-    {
-      "source": "techcrunch",
-      "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
-      "summary": "In a post to GitHub on Tuesday, the social media giant purported to share its secret sauce.",
-      "link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
-      "published": "Tue, 20 Jan 2026 21:37:09 +0000",
-      "keywords": [
-        "Go",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:44.588836"
+      "crawled_at": "2026-01-21T06:21:15.632479"
     },
     {
       "source": "theverge",
@@ -85,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.685927"
+      "crawled_at": "2026-01-21T06:21:15.632532"
     },
     {
       "source": "theverge",
@@ -98,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.685975"
+      "crawled_at": "2026-01-21T06:21:15.632568"
     },
     {
       "source": "theverge",
@@ -112,7 +120,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-21T00:58:44.686021"
+      "crawled_at": "2026-01-21T06:21:15.632612"
     },
     {
       "source": "theverge",
@@ -125,90 +133,75 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.686052"
-    },
-    {
-      "source": "theverge",
-      "title": "FTC says it will appeal Meta antitrust loss",
-      "summary": "The Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta, the agency announced Tuesday. US District Court Judge James Boasberg ruled in November that the government failed to prove that Meta had an illegal monopoly over a subset of social networking services meant ",
-      "link": "https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal",
-      "published": "2026-01-20T17:21:31-05:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:44.686085"
+      "crawled_at": "2026-01-21T06:21:15.632641"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: macOS native DAW with Git branching model",
-      "summary": "I am working on building (and have made my first prerelease) for a Digital Audio Workstation with git like branching version control.It's free for local use and paid for cloud syncing or collaboration.\n\nComments URL: https://news.ycombinator.com/item?id=46699441\nPoints: 4\n# Comments: 0",
-      "link": "https://www.scratchtrackaudio.com",
-      "published": "Wed, 21 Jan 2026 00:05:10 +0000",
+      "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+      "summary": "Article URL: https://github.com/ef1500/libbbf\nComments URL: https://news.ycombinator.com/item?id=46701114\nPoints: 16\n# Comments: 1",
+      "link": "https://github.com/ef1500/libbbf",
+      "published": "Wed, 21 Jan 2026 04:27:08 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:45.121882"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude Chill: Fix Claude Code's Flickering in Terminal",
-      "summary": "Article URL: https://github.com/davidbeesley/claude-chill\nComments URL: https://news.ycombinator.com/item?id=46699072\nPoints: 10\n# Comments: 0",
-      "link": "https://github.com/davidbeesley/claude-chill",
-      "published": "Tue, 20 Jan 2026 23:26:06 +0000",
-      "keywords": [
-        "Claude",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:45.121919"
+      "crawled_at": "2026-01-21T06:21:16.269809"
     },
     {
       "source": "hackernews",
-      "title": "DOGE employees may have improperly accessed social security data, DOJ says",
-      "summary": "Article URL: https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing\nComments URL: https://news.ycombinator.com/item?id=46698723\nPoints: 63\n# Comments: 2",
-      "link": "https://www.axios.com/2026/01/20/doge-employees-social-security-information-court-filing",
-      "published": "Tue, 20 Jan 2026 22:48:21 +0000",
-      "keywords": [
-        "Security",
-        "iOS",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-01-21T00:58:45.121955"
-    },
-    {
-      "source": "hackernews",
-      "title": "California is free of drought for the first time in 25 years",
-      "summary": "Article URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years\nComments URL: https://news.ycombinator.com/item?id=46698660\nPoints: 198\n# Comments: 85",
-      "link": "https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years",
-      "published": "Tue, 20 Jan 2026 22:39:26 +0000",
+      "title": "Disaster planning for regular folks (2015)",
+      "summary": "Article URL: https://lcamtuf.coredump.cx/prep/index-old.shtml\nComments URL: https://news.ycombinator.com/item?id=46700809\nPoints: 75\n# Comments: 43",
+      "link": "https://lcamtuf.coredump.cx/prep/index-old.shtml",
+      "published": "Wed, 21 Jan 2026 03:38:57 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.121995"
+      "crawled_at": "2026-01-21T06:21:16.269852"
     },
     {
       "source": "hackernews",
-      "title": "Lunar Radio Telescope to Unlock Cosmic Mysteries",
-      "summary": "Article URL: https://spectrum.ieee.org/lunar-radio-telescope\nComments URL: https://news.ycombinator.com/item?id=46698623\nPoints: 7\n# Comments: 0",
-      "link": "https://spectrum.ieee.org/lunar-radio-telescope",
-      "published": "Tue, 20 Jan 2026 22:36:23 +0000",
+      "title": "Anthropic's original take home assignment open sourced",
+      "summary": "Article URL: https://github.com/anthropics/original_performance_takehome\nComments URL: https://news.ycombinator.com/item?id=46700594\nPoints: 127\n# Comments: 37",
+      "link": "https://github.com/anthropics/original_performance_takehome",
+      "published": "Wed, 21 Jan 2026 02:54:32 +0000",
+      "keywords": [
+        "Anthropic",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-21T06:21:16.269888"
+    },
+    {
+      "source": "hackernews",
+      "title": "Who owns Rudolph's nose?",
+      "summary": "Article URL: https://creativelawcenter.com/copyright-rudolph-reindeer/\nComments URL: https://news.ycombinator.com/item?id=46699597\nPoints: 27\n# Comments: 14",
+      "link": "https://creativelawcenter.com/copyright-rudolph-reindeer/",
+      "published": "Wed, 21 Jan 2026 00:21:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.122030"
+      "crawled_at": "2026-01-21T06:21:16.269921"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Parallel Agentic Search on the Twitter Algorithm",
+      "summary": "Article URL: https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm\nComments URL: https://news.ycombinator.com/item?id=46698684\nPoints: 8\n# Comments: 0",
+      "link": "https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm",
+      "published": "Tue, 20 Jan 2026 22:42:55 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-21T06:21:16.269949"
     },
     {
       "source": "arstechnica",
@@ -220,7 +213,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.259854"
+      "crawled_at": "2026-01-21T06:21:16.360645"
     },
     {
       "source": "arstechnica",
@@ -232,7 +225,7 @@
         "Meta"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-21T00:58:45.259897"
+      "crawled_at": "2026-01-21T06:21:16.360687"
     },
     {
       "source": "arstechnica",
@@ -245,12 +238,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:45.259922"
+      "crawled_at": "2026-01-21T06:21:16.360726"
     },
     {
       "source": "arstechnica",
       "title": "Google temporarily disabled YouTube's advanced captions without warning",
-      "summary": "Google says SRV3 was causing playback errors, so it has \"temporarily\" disabled them.",
+      "summary": "Google says SRV3 captions were causing playback errors, so it has \"temporarily\" disabled them.",
       "link": "https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/",
       "published": "Tue, 20 Jan 2026 22:17:02 +0000",
       "keywords": [
@@ -259,7 +252,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.259949"
+      "crawled_at": "2026-01-21T06:21:16.360758"
     },
     {
       "source": "arstechnica",
@@ -271,7 +264,29 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.259977"
+      "crawled_at": "2026-01-21T06:21:16.360786"
+    },
+    {
+      "source": "wired",
+      "title": "Naturepedic Promo Codes and Deals: 20% Off",
+      "summary": "Save on Naturepedic’s line of organic, thoughtfully crafted mattresses and bedding with our coupon codes for this month.",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "published": "Wed, 21 Jan 2026 06:10:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-01-21T06:21:16.456351"
+    },
+    {
+      "source": "wired",
+      "title": "Tuft & Needle Promo Codes: 20% Off | January 2026",
+      "summary": "Save 20% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "published": "Wed, 21 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-21T06:21:16.456382"
     },
     {
       "source": "wired",
@@ -283,7 +298,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:45.402220"
+      "crawled_at": "2026-01-21T06:21:16.456405"
     },
     {
       "source": "wired",
@@ -295,7 +310,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.402256"
+      "crawled_at": "2026-01-21T06:21:16.456431"
     },
     {
       "source": "wired",
@@ -308,29 +323,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-21T00:58:45.402298"
-    },
-    {
-      "source": "wired",
-      "title": "‘Veronika’ Is the First Cow Known to Use a Tool",
-      "summary": "This is the first recorded instance of a bovine using tools from her environment to relieve an itch—leaving scientists astonished.",
-      "link": "https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/",
-      "published": "Tue, 20 Jan 2026 19:51:45 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-21T00:58:45.402336"
-    },
-    {
-      "source": "wired",
-      "title": "ICE Details a New Minnesota-Based Detention Network That Spans 5 States",
-      "summary": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of miles across the Upper Midwest.",
-      "link": "https://www.wired.com/story/ice-detention-network-minnesota-5-states/",
-      "published": "Tue, 20 Jan 2026 19:12:15 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-21T00:58:45.402364"
+      "crawled_at": "2026-01-21T06:21:16.456463"
     }
   ]
 }
