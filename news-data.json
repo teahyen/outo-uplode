@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T00:58:26.447663",
+  "last_updated": "2026-01-22T06:20:13.915193",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.546328"
+      "crawled_at": "2026-01-22T06:20:13.076996"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.546381"
+      "crawled_at": "2026-01-22T06:20:13.077039"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-22T00:58:25.546414"
+      "crawled_at": "2026-01-22T06:20:13.077071"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:25.546452"
+      "crawled_at": "2026-01-22T06:20:13.077108"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,20 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.546480"
+      "crawled_at": "2026-01-22T06:20:13.077137"
+    },
+    {
+      "source": "theverge",
+      "title": "Hundreds of creatives warn against an AI slop future",
+      "summary": "Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call \"theft at a grand scale\" by AI companies. The signatories of the campaign - called \"Stealing Isn't Innovation\" - include authors George Saunders and Jodi Picoult, actors Cate Blanchett and Scarlett ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+      "published": "2026-01-22T00:01:00-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-22T06:20:13.241927"
     },
     {
       "source": "theverge",
@@ -78,7 +91,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.701305"
+      "crawled_at": "2026-01-22T06:20:13.241988"
     },
     {
       "source": "theverge",
@@ -91,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.701363"
+      "crawled_at": "2026-01-22T06:20:13.242025"
     },
     {
       "source": "theverge",
@@ -103,7 +116,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-22T00:58:25.701415"
+      "crawled_at": "2026-01-22T06:20:13.242062"
     },
     {
       "source": "theverge",
@@ -117,86 +130,75 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.701448"
-    },
-    {
-      "source": "theverge",
-      "title": "Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity",
-      "summary": "Anthropic is overhauling Claude's so-called \"soul doc.\" The new missive is a 57-page document titled \"Claude's Constitution,\" which details \"Anthropic's intentions for the model's values and behavior,\" aimed not at outside readers but the model itself. The document is designed to spell out Claude's ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
-      "published": "2026-01-21T15:36:18-05:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:25.701493"
+      "crawled_at": "2026-01-22T06:20:13.242094"
     },
     {
       "source": "hackernews",
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "summary": "Article URL: https://github.com/freedomofpress/dangerzone\nComments URL: https://news.ycombinator.com/item?id=46712815\nPoints: 46\n# Comments: 15",
-      "link": "https://github.com/freedomofpress/dangerzone",
-      "published": "Wed, 21 Jan 2026 22:54:04 +0000",
+      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
+      "summary": "Article URL: https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims\nComments URL: https://news.ycombinator.com/item?id=46715600\nPoints: 17\n# Comments: 1",
+      "link": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
+      "published": "Thu, 22 Jan 2026 05:15:46 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-22T06:20:13.693511"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: High speed graphics rendering research with tinygrad/tinyJIT",
+      "summary": "I saw a tweet that tinygrad is so good that you could make a graphics library that wraps tg. So I’ve been hacking on a gtinygrad, and honestly it convinced me it could be used for legit research.The JIT + tensor model ends up being a really nice way to express light transport all in simple python, s",
+      "link": "https://github.com/quantbagel/gtinygrad",
+      "published": "Thu, 22 Jan 2026 03:26:38 +0000",
+      "keywords": [
+        "Python",
+        "Go",
+        "REST",
+        "Hack",
+        "Git"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-22T06:20:13.693585"
+    },
+    {
+      "source": "hackernews",
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "summary": "Article URL: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/\nComments URL: https://news.ycombinator.com/item?id=46713526\nPoints: 115\n# Comments: 63",
+      "link": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "published": "Thu, 22 Jan 2026 00:12:00 +0000",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-22T06:20:13.693619"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env",
+      "summary": "Hi HN,I built this because I often work in coworking spaces or do screen sharing, and I've always had this fear of accidentally flashing my .env file with production secrets to the whole room (or recording).It’s a simple VS Code extension that opens .env files in a custom grid editor. It automatical",
+      "link": "https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor",
+      "published": "Thu, 22 Jan 2026 00:04:47 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.201016"
+      "category": "Programming",
+      "crawled_at": "2026-01-22T06:20:13.693711"
     },
     {
       "source": "hackernews",
-      "title": "Jerry (YC S17) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace\nComments URL: https://news.ycombinator.com/item?id=46711792\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace",
-      "published": "Wed, 21 Jan 2026 21:26:18 +0000",
+      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
+      "summary": "Article URL: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/\nComments URL: https://news.ycombinator.com/item?id=46713444\nPoints: 47\n# Comments: 5",
+      "link": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
+      "published": "Thu, 22 Jan 2026 00:00:36 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.201061"
-    },
-    {
-      "source": "hackernews",
-      "title": "Setting Up a Cluster of Tiny PCs for Parallel Computing",
-      "summary": "Article URL: https://www.kenkoonwong.com/blog/parallel-computing/\nComments URL: https://news.ycombinator.com/item?id=46710042\nPoints: 25\n# Comments: 13",
-      "link": "https://www.kenkoonwong.com/blog/parallel-computing/",
-      "published": "Wed, 21 Jan 2026 19:08:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.201098"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Rails UI",
-      "summary": "Article URL: https://railsui.com/\nComments URL: https://news.ycombinator.com/item?id=46709543\nPoints: 99\n# Comments: 63",
-      "link": "https://railsui.com/",
-      "published": "Wed, 21 Jan 2026 18:31:19 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.201120"
-    },
-    {
-      "source": "hackernews",
-      "title": "Scientists find a way to regrow cartilage in mice and human tissue samples",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/01/260120000333.htm\nComments URL: https://news.ycombinator.com/item?id=46709179\nPoints: 245\n# Comments: 66",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
-      "published": "Wed, 21 Jan 2026 18:05:36 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.201148"
+      "crawled_at": "2026-01-22T06:20:13.693750"
     },
     {
       "source": "arstechnica",
@@ -209,7 +211,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-01-22T00:58:26.337583"
+      "crawled_at": "2026-01-22T06:20:13.812086"
     },
     {
       "source": "arstechnica",
@@ -221,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.337617"
+      "crawled_at": "2026-01-22T06:20:13.812122"
     },
     {
       "source": "arstechnica",
@@ -234,7 +236,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.337641"
+      "crawled_at": "2026-01-22T06:20:13.812146"
     },
     {
       "source": "arstechnica",
@@ -246,7 +248,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.337668"
+      "crawled_at": "2026-01-22T06:20:13.812175"
     },
     {
       "source": "arstechnica",
@@ -259,7 +261,53 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.337688"
+      "crawled_at": "2026-01-22T06:20:13.812195"
+    },
+    {
+      "source": "wired",
+      "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
+      "summary": "Save up to 20% and get up to $4,000 with a Refund Advance Loan at H&amp;R Block this tax season.",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Thu, 22 Jan 2026 06:15:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-22T06:20:13.914974"
+    },
+    {
+      "source": "wired",
+      "title": "HBO Max Promo Code: 50% Off | January",
+      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+      "link": "https://www.wired.com/story/max-promo-code/",
+      "published": "Thu, 22 Jan 2026 06:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-22T06:20:13.915004"
+    },
+    {
+      "source": "wired",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "link": "https://www.wired.com/story/govee-discount-code/",
+      "published": "Thu, 22 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-22T06:20:13.915026"
+    },
+    {
+      "source": "wired",
+      "title": "KitchenAid Promo Code: $200 Off This Month",
+      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to $200 off select countertop appliances.",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "published": "Thu, 22 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-22T06:20:13.915048"
     },
     {
       "source": "wired",
@@ -271,58 +319,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.447448"
-    },
-    {
-      "source": "wired",
-      "title": "$100 Off Shark Promo Code | This January",
-      "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-      "link": "https://www.wired.com/story/shark-promo-code/",
-      "published": "Wed, 21 Jan 2026 19:03:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-22T00:58:26.447486"
-    },
-    {
-      "source": "wired",
-      "title": "What We Know About the Winter Storm About to Hit the US—and What We Don’t",
-      "summary": "A huge portion of the United States is going to be hit with snow or freezing rain this weekend. Exactly where, what, and how much remains uncertain.",
-      "link": "https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/",
-      "published": "Wed, 21 Jan 2026 19:03:03 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.447519"
-    },
-    {
-      "source": "wired",
-      "title": "The US and China Are Collaborating More Closely on AI Than You Think",
-      "summary": "WIRED analyzed more than 5,000 papers from NeurIPS using OpenAI’s Codex to understand the areas where the US and China actually work together on AI research.",
-      "link": "https://www.wired.com/story/us-china-collaboration-neurips-papers/",
-      "published": "Wed, 21 Jan 2026 19:00:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T00:58:26.447550"
-    },
-    {
-      "source": "wired",
-      "title": "TCL Knocks $1,000 Off One of Our Favorite Midrange TVs",
-      "summary": "The 65-inch QM8K sees a massive discount, with equally generous markdowns on larger models.",
-      "link": "https://www.wired.com/story/tcl-qm8k-deal-126/",
-      "published": "Wed, 21 Jan 2026 18:18:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T00:58:26.447577"
+      "crawled_at": "2026-01-22T06:20:13.915081"
     }
   ]
 }
