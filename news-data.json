@@ -1,331 +1,341 @@
 {
-  "last_updated": "2026-01-22T18:18:11.961550",
+  "last_updated": "2026-01-23T00:58:29.486553",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies",
-      "summary": "Jenny Liu, is a solo first time GP looking to back underrepresented wellness founders.",
-      "link": "https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/",
-      "published": "Thu, 22 Jan 2026 18:00:00 +0000",
-      "keywords": [],
+      "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+      "summary": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
+      "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+      "published": "Fri, 23 Jan 2026 00:52:33 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:28.748879"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
+      "summary": "Vimeo is in the process of laying off some of its global staff after being acquired last year by Bending Spoons for $1.38B.",
+      "link": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
+      "published": "Fri, 23 Jan 2026 00:27:28 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:10.915271"
+      "crawled_at": "2026-01-23T00:58:28.748920"
     },
     {
       "source": "techcrunch",
-      "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
-      "summary": "General Fusion's merger with an acquisition company will net the company over $300 million. Just last year, the company ran into trouble raising money from other investors.",
-      "link": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
-      "published": "Thu, 22 Jan 2026 17:00:25 +0000",
+      "title": "GM to end Chevy Bolt EV production next year, move China-made Buick to US factory",
+      "summary": "The factory musical chairs reflect an economic and political environment, shaped by the Trump administration's tariff policy and its decision to end the federal EV tax credit.",
+      "link": "https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/",
+      "published": "Thu, 22 Jan 2026 23:55:44 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:10.915332"
+      "crawled_at": "2026-01-23T00:58:28.748949"
     },
     {
       "source": "techcrunch",
-      "title": "Waymo continues robotaxi ramp up with Miami service now open to public",
-      "summary": "Waymo is opening its driverless robotaxis to the public in Miami, starting with a 60-square-mile service area and plans to reach the airport \"soon.\"",
-      "link": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/",
-      "published": "Thu, 22 Jan 2026 16:59:02 +0000",
+      "title": "Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank",
+      "summary": "Before everyone sharpens their knives, consider that for the VCs who backed Brex at its outset, the sale is a triumph.",
+      "link": "https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/",
+      "published": "Thu, 22 Jan 2026 23:46:19 +0000",
       "keywords": [
-        "AI",
+        "API",
+        "VC",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:10.915382"
+      "category": "Startup",
+      "crawled_at": "2026-01-23T00:58:28.748983"
     },
     {
       "source": "techcrunch",
-      "title": "Ireland proposes new law allowing police to use spyware",
-      "summary": "The Irish government announced that it wants to pass a law that would grant police more surveillance powers, such as using spyware to fight serious crime, while aiming to protect the privacy rights of its citizens.",
-      "link": "https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/",
-      "published": "Thu, 22 Jan 2026 16:49:28 +0000",
+      "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+      "summary": "The five-year-old-startup powers OpenAI’s ChatGPT voice mode and raised a $100 million round led by Index Ventures.",
+      "link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+      "published": "Thu, 22 Jan 2026 22:44:29 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR"
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:10.915432"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
-      "summary": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.",
-      "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-      "published": "Thu, 22 Jan 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:10.915494"
+      "crawled_at": "2026-01-23T00:58:28.749014"
     },
     {
       "source": "theverge",
-      "title": "Xbox Developer Direct 2026: the biggest games and announcements",
-      "summary": "In a now-annual tradition, Microsoft is kicking off the year with a showcase of some of its biggest upcoming games. Last year&#8217;s edition of the Xbox Developer Direct had some big names, like Doom: The Dark Ages and a little game called Clair Obscur: Expedition 33. And we already know the three ",
-      "link": "https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements",
-      "published": "2026-01-22T12:50:00-05:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.144047"
-    },
-    {
-      "source": "theverge",
-      "title": "Sony announces its first turntables in years",
-      "summary": "Sony is releasing a new turntable for the first time since 2019. Two, in fact. The entry-level PS-LX3BT ($399.99) and step-up PS-LX5BT ($499.99) are designed for easy operation with both wired and Bluetooth hi-res audio. Both turntables include one-button automatic playback - which starts the turnta",
-      "link": "https://www.theverge.com/news/865333/sony-new-turntables-2026",
-      "published": "2026-01-22T12:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.144105"
-    },
-    {
-      "source": "theverge",
-      "title": "Free TV startup Telly only had 35,000 units in people’s homes last fall",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When free TV startup Telly came out of stealth in 2023, it did so with big promises: Company executives told the media at the time that",
-      "link": "https://www.theverge.com/column/865645/telly-units",
-      "published": "2026-01-22T12:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.144151"
-    },
-    {
-      "source": "theverge",
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "summary": "Developers have been comparing the strengths and weaknesses of Anthropic's Claude Code, Anysphere's Cursor, and Microsoft's GitHub Copilot for months now, looking for a winner. While no individual AI coding tool manages to be the best at every task that software developers do each day, Claude Code i",
-      "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "published": "2026-01-22T12:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Microsoft",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.144183"
-    },
-    {
-      "source": "theverge",
-      "title": "Why nobody&#8217;s stopping Grok",
-      "summary": "Today’s episode of Decoder is about X, Grok, and Elon Musk. By now we’re several weeks into one of the worst, most upsetting, and most stupidly irresponsible AI controversies in the short history of generative AI. Grok, the chatbot made by Elon Musk’s xAI, is able to make all manner of AI-generated ",
-      "link": "https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation",
-      "published": "2026-01-22T11:45:00-05:00",
+      "title": "Ring can verify videos now, but that might not help you with most AI fakes",
+      "summary": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in any way, it probably won't be able to verify those videos you see on TikTok that look like they're fro",
+      "link": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "published": "2026-01-22T19:57:41-05:00",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.144223"
+      "crawled_at": "2026-01-23T00:58:28.818467"
     },
     {
-      "source": "hackernews",
-      "title": "Macron says €300B in EU savings sent to the US every year will be invested in EU",
-      "summary": "Article URL: https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/\nComments URL: https://news.ycombinator.com/item?id=46722594\nPoints: 18\n# Comments: 3",
-      "link": "https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/",
-      "published": "Thu, 22 Jan 2026 17:42:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.586538"
-    },
-    {
-      "source": "hackernews",
-      "title": "CSS Optical Illusions",
-      "summary": "Article URL: https://alvaromontoro.com/blog/68091/css-optical-illusions\nComments URL: https://news.ycombinator.com/item?id=46722570\nPoints: 8\n# Comments: 1",
-      "link": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
-      "published": "Thu, 22 Jan 2026 17:41:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.586580"
-    },
-    {
-      "source": "hackernews",
-      "title": "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
-      "summary": "Hi HN! We're Kamran, Raaid, Laith, and Omeed from Constellation Space. We built an AI system that predicts satellite link failures before they happen (https://youtu.be/069V9fADAtM).\nBetween us, we've spent years working on satellite operations at SpaceX, Blue Origin, and NASA. At SpaceX, we managed ",
-      "link": "https://constellation-io.com/",
-      "published": "Thu, 22 Jan 2026 17:03:21 +0000",
+      "source": "theverge",
+      "title": "Beyond Good and Evil 2 somehow survived the purge at Ubisoft",
+      "summary": "In what world does Prince of Persia: The Sands of Time Remake get canceled amid corporate restructuring and yet BG&#38;E2 does not? \"Beyond Good &#38; Evil 2 remains a priority for us in the context of our strategy centered around Open World Adventures,\" an unnamed Ubisoft spokesperson told Kotaku a",
+      "link": "https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft",
+      "published": "2026-01-22T19:53:25-05:00",
       "keywords": [
         "AI",
         "Go",
-        "React",
-        "Docker",
-        "Kubernetes"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.586804"
-    },
-    {
-      "source": "hackernews",
-      "title": "AnswerThis (YC F25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration\nComments URL: https://news.ycombinator.com/item?id=46721897\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration",
-      "published": "Thu, 22 Jan 2026 17:00:40 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.586834"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "summary": "Article URL: https://cannoneyed.com/isometric-nyc/\nComments URL: https://news.ycombinator.com/item?id=46721802\nPoints: 67\n# Comments: 21",
-      "link": "https://cannoneyed.com/isometric-nyc/",
-      "published": "Thu, 22 Jan 2026 16:52:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.586873"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\"",
-      "summary": "Personal Intelligence is optional and rolling out first to AI Pro and AI Ultra subscribers.",
-      "link": "https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/",
-      "published": "Thu, 22 Jan 2026 16:35:41 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.815008"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Finally, a new controller that solves the Switch 2's \"flat Joy-Con\" problem",
-      "summary": "But Nyxi's Hyperion 3 upgrade comes with a pretty high asking price.",
-      "link": "https://arstechnica.com/gaming/2026/01/finally-a-new-controller-that-solves-the-switch-2s-flat-joy-con-problem/",
-      "published": "Thu, 22 Jan 2026 16:15:08 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.815041"
-    },
-    {
-      "source": "arstechnica",
-      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-      "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform.",
-      "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-      "published": "Thu, 22 Jan 2026 15:56:33 +0000",
-      "keywords": [
-        "AI",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.815066"
-    },
-    {
-      "source": "arstechnica",
-      "title": "All sorts of interesting flags and artifacts will fly to the Moon on Artemis II",
-      "summary": "More than 2,300 commemorative items fill the duffel bag-size pouch.",
-      "link": "https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/",
-      "published": "Thu, 22 Jan 2026 14:41:38 +0000",
-      "keywords": [
         "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.815107"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Meta wants to block data about social media use, mental health in child safety trial",
-      "summary": "Company is pulling out all the stops to protect itself in advance of New Mexico trial.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/meta-wants-to-block-data-about-social-media-use-mental-health-in-child-safety-trial/",
-      "published": "Thu, 22 Jan 2026 14:25:35 +0000",
-      "keywords": [
-        "Meta"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.815137"
-    },
-    {
-      "source": "wired",
-      "title": "ICE Agents Are ‘Doxing’ Themselves",
-      "summary": "The alleged risks of being publicly identified have not stopped DHS  and ICE employees from creating profiles on LinkedIn, even as Kristi Noem threatens to treat revealing agents' identities as a crime.",
-      "link": "https://www.wired.com/story/ice-agents-are-doxing-themselves/",
-      "published": "Thu, 22 Jan 2026 17:42:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.961331"
-    },
-    {
-      "source": "wired",
-      "title": "Best Nintendo Switch 2 Accessories (2026): Controllers, Cases, and More",
-      "summary": "Looking to jazz up your portable gaming experience? Here are the best accessories we’ve tested for the Nintendo Switch 2.",
-      "link": "https://www.wired.com/gallery/best-switch-2-accessories/",
-      "published": "Thu, 22 Jan 2026 14:00:00 +0000",
-      "keywords": [
         "AR",
         "Gaming"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.961376"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:28.818509"
     },
     {
-      "source": "wired",
-      "title": "The Best Motorola Phones (2026), Tested and Reviewed",
-      "summary": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
-      "link": "https://www.wired.com/story/best-motorola-phones/",
-      "published": "Thu, 22 Jan 2026 13:30:00 +0000",
+      "source": "theverge",
+      "title": "Samsung’s smallest Frame TVs have fallen to their lowest prices to date",
+      "summary": "Unless you&#8217;re dead set on picking up a larger panel, Samsung’s forthcoming 2026 Frame lineup represents a fairly minor upgrade. That makes last year’s model an easy rec for those on the hunt for an art-inspired 4K TV, especially given the 43- and 50-inch models are down to the lowest prices we",
+      "link": "https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale",
+      "published": "2026-01-22T18:51:39-05:00",
       "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:28.818553"
+    },
+    {
+      "source": "theverge",
+      "title": "Nintendo is following up Alarmo with a weird Talking Flower in March",
+      "summary": "After sharing a brief look at its new Talking Flower during a Nintendo Direct showcase last September that generated more questions than answers, Nintendo has finally revealed more details about what the interactive toy actually does and how much it costs. It shares some functionality with Nintendo'",
+      "link": "https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder",
+      "published": "2026-01-22T17:17:23-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:28.818587"
+    },
+    {
+      "source": "theverge",
+      "title": "Vimeo lays off ‘large portion’ of staff after Bending Spoons buyout",
+      "summary": "Vimeo is laying off employees around the globe just months after the Italian software company Bending Spoons acquired the platform for $1.38 billion, as reported earlier by Business Insider. Even though it's not clear how many people were laid off, Dave Brown, Vimeo's former brand VP, says in a post",
+      "link": "https://www.theverge.com/news/866238/vimeo-layoffs-bending-spoons-acquisition",
+      "published": "2026-01-22T17:02:50-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:28.818626"
+    },
+    {
+      "source": "hackernews",
+      "title": "Vibe a Guitar Pedal",
+      "summary": "Article URL: https://polyend.com/endless/\nComments URL: https://news.ycombinator.com/item?id=46726907\nPoints: 3\n# Comments: 0",
+      "link": "https://polyend.com/endless/",
+      "published": "Fri, 23 Jan 2026 00:29:07 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.163446"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why medieval city-builder video games are historically inaccurate (2020)",
+      "summary": "Article URL: https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate\nComments URL: https://news.ycombinator.com/item?id=46726857\nPoints: 17\n# Comments: 2",
+      "link": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
+      "published": "Fri, 23 Jan 2026 00:22:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.163497"
+    },
+    {
+      "source": "hackernews",
+      "title": "Metastable Failures and Interactions Between Systems",
+      "summary": "Article URL: https://charap.co/on-metastable-failures-and-interactions-between-systems/\nComments URL: https://news.ycombinator.com/item?id=46726808\nPoints: 3\n# Comments: 0",
+      "link": "https://charap.co/on-metastable-failures-and-interactions-between-systems/",
+      "published": "Fri, 23 Jan 2026 00:16:22 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:29.163532"
+    },
+    {
+      "source": "hackernews",
+      "title": "Improving the usability of C libraries in Swift",
+      "summary": "Article URL: https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/\nComments URL: https://news.ycombinator.com/item?id=46726526\nPoints: 23\n# Comments: 0",
+      "link": "https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/",
+      "published": "Thu, 22 Jan 2026 23:34:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.163568"
+    },
+    {
+      "source": "hackernews",
+      "title": "FIPS dependencies and prebuilt binaries",
+      "summary": "Author here. This came out of debugging a real Rails app running in a FIPS enabled container.Everything looked correct. OpenSSL 3 with the FIPS provider enabled. Ruby built against it. A simple pg connection worked.The app failed once ActiveRecord was involved. The error came from libpq. It turned o",
+      "link": "https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/",
+      "published": "Thu, 22 Jan 2026 23:04:25 +0000",
+      "keywords": [
+        "AI",
+        "Python",
         "Go",
-        "Android",
+        "Crypto",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-22T18:18:11.961409"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:29.163628"
     },
     {
-      "source": "wired",
-      "title": "7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages",
-      "summary": "Upgrade your locks with fingerprint-scanning or a keypad, whether it’s at the front door or a sliding glass entryway.",
-      "link": "https://www.wired.com/story/best-smart-locks/",
-      "published": "Thu, 22 Jan 2026 12:34:00 +0000",
+      "source": "arstechnica",
+      "title": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
+      "summary": "US did not pay $278 million in 2024–2025 dues and millions more in promised funds.",
+      "link": "https://arstechnica.com/health/2026/01/us-stiffs-who-hundreds-of-millions-as-it-officially-withdrawals/",
+      "published": "Thu, 22 Jan 2026 23:07:45 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-22T18:18:11.961446"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:29.317116"
     },
     {
-      "source": "wired",
-      "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
-      "summary": "The web’s best resource for spotting AI writing has ironically become a manual for AI models to hide it.",
-      "link": "https://www.wired.com/story/wikipedia-group-made-guide-to-detect-ai-writing-now-a-plug-in-uses-it-to-humanize-chatbots/",
-      "published": "Thu, 22 Jan 2026 12:00:00 +0000",
+      "source": "arstechnica",
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
+      "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+      "published": "Thu, 22 Jan 2026 22:46:30 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-22T18:18:11.961475"
+      "crawled_at": "2026-01-23T00:58:29.317147"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Hacker who stole 120,000 bitcoins wants a second chance—and a security job",
+      "summary": "Crypto theft was \"the worst thing I had ever done.\"",
+      "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
+      "published": "Thu, 22 Jan 2026 22:23:15 +0000",
+      "keywords": [
+        "Crypto",
+        "Security",
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-01-23T00:58:29.317176"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
+      "summary": "Apple, OpenAI, Meta, and more are all racing toward AI hardware products.",
+      "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+      "published": "Thu, 22 Jan 2026 21:32:28 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:29.317198"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
+      "summary": "Millions likely harmed by Grok-edited sex images as X advertisers shrugged.",
+      "link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
+      "published": "Thu, 22 Jan 2026 21:16:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.317226"
+    },
+    {
+      "source": "wired",
+      "title": "Sorry MAGA, Turns Out People Still Like ‘Woke’ Art",
+      "summary": "From Black vampires gobbling up Oscar nominations to gay pro hockey players dominating the culture, diverse stories broke through in an environment that’s increasingly hostile to them.",
+      "link": "https://www.wired.com/story/sorry-maga-turns-out-people-still-like-woke-art/",
+      "published": "Fri, 23 Jan 2026 00:09:06 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.486325"
+    },
+    {
+      "source": "wired",
+      "title": "Legislators Push to Make Companies Tell Customers When Their Products Will Die",
+      "summary": "A pair of bills in Massachusetts would require manufacturers to tell consumers when their connected gadgets are going dark. It should be a boon for cybersecurity as connected devices grow obsolete.",
+      "link": "https://www.wired.com/story/legislators-push-to-make-companies-tell-customers-when-their-products-will-die/",
+      "published": "Thu, 22 Jan 2026 22:04:18 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "Cybersecurity",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-23T00:58:29.486362"
+    },
+    {
+      "source": "wired",
+      "title": "Elon Musk Sure Made Lots of Predictions at Davos",
+      "summary": "Humanoid robots, space travel, the science of aging—Musk weighed in on all of it at this week’s World Economic Forum. But his predictions rarely work out the way he says they will.",
+      "link": "https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/",
+      "published": "Thu, 22 Jan 2026 20:57:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-23T00:58:29.486403"
+    },
+    {
+      "source": "wired",
+      "title": "What Happens When a Chinese Battery Factory Comes to Town",
+      "summary": "Chinese firms are building battery plants from Europe to North America, promising jobs while prompting local concerns about the environment, politics, and who really benefits.",
+      "link": "https://www.wired.com/story/chinese-battery-makers-are-building-factories-across-the-world/",
+      "published": "Thu, 22 Jan 2026 20:15:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-23T00:58:29.486436"
+    },
+    {
+      "source": "wired",
+      "title": "The 28 Best Movies on Apple TV, WIRED’s Picks (January 2026)",
+      "summary": "F1: The Movie, CODA, and Highest 2 Lowest are just a few of the movies you should be watching on Apple TV this month.",
+      "link": "https://www.wired.com/story/best-apple-tv-plus-movies/",
+      "published": "Thu, 22 Jan 2026 20:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-23T00:58:29.486469"
     }
   ]
 }
