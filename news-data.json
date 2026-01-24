@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-24T06:17:48.905878",
+  "last_updated": "2026-01-24T12:20:53.544523",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:47.761996"
+      "crawled_at": "2026-01-24T12:20:50.594204"
     },
     {
       "source": "techcrunch",
@@ -31,7 +31,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:47.762031"
+      "crawled_at": "2026-01-24T12:20:50.594236"
     },
     {
       "source": "techcrunch",
@@ -45,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:47.762069"
+      "crawled_at": "2026-01-24T12:20:50.594274"
     },
     {
       "source": "techcrunch",
@@ -60,7 +60,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:47.762098"
+      "crawled_at": "2026-01-24T12:20:50.594303"
     },
     {
       "source": "techcrunch",
@@ -72,7 +72,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:47.762134"
+      "crawled_at": "2026-01-24T12:20:50.594339"
+    },
+    {
+      "source": "theverge",
+      "title": "The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets",
+      "summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one. And now that the kids are grown, it's the appliance I thought I'd miss most in my nomadic vanlife pursuits. Loch sent me its $459.99 / [&#8230;]",
+      "link": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+      "published": "2026-01-24T03:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-24T12:20:50.680057"
     },
     {
       "source": "theverge",
@@ -88,7 +100,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.032399"
+      "crawled_at": "2026-01-24T12:20:50.680105"
     },
     {
       "source": "theverge",
@@ -103,7 +115,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-24T06:17:48.032473"
+      "crawled_at": "2026-01-24T12:20:50.680160"
     },
     {
       "source": "theverge",
@@ -116,7 +128,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.032531"
+      "crawled_at": "2026-01-24T12:20:50.680212"
     },
     {
       "source": "theverge",
@@ -130,83 +142,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.032564"
-    },
-    {
-      "source": "theverge",
-      "title": "What TikTok’s new owners mean for your feed",
-      "summary": "TikTok is officially under new ownership in the US, and that could spell big changes for the video-sharing app. On January 22nd, ByteDance - TikTok's Chinese parent company - and a group of investors closed a $14 billion deal to spin off the platform's US operations, introducing a new slate of Ameri",
-      "link": "https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained",
-      "published": "2026-01-23T14:10:51-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-24T06:17:48.032617"
+      "crawled_at": "2026-01-24T12:20:50.680243"
     },
     {
       "source": "hackernews",
-      "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
-      "summary": "Article URL: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450\nComments URL: https://news.ycombinator.com/item?id=46740644\nPoints: 80\n# Comments: 52",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
-      "published": "Sat, 24 Jan 2026 02:59:42 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.493749"
-    },
-    {
-      "source": "hackernews",
-      "title": "Comma openpilot – Open source driver-assistance",
-      "summary": "Article URL: https://comma.ai\nComments URL: https://news.ycombinator.com/item?id=46740029\nPoints: 216\n# Comments: 118",
-      "link": "https://comma.ai",
-      "published": "Sat, 24 Jan 2026 01:00:50 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.493789"
-    },
-    {
-      "source": "hackernews",
-      "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=46740028\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
-      "published": "Sat, 24 Jan 2026 01:00:48 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.493817"
-    },
-    {
-      "source": "hackernews",
-      "title": "Wilson Lin on FastRender: a browser built by parallel agents",
-      "summary": "Article URL: https://simonwillison.net/2026/Jan/23/fastrender/\nComments URL: https://news.ycombinator.com/item?id=46738853\nPoints: 38\n# Comments: 9",
-      "link": "https://simonwillison.net/2026/Jan/23/fastrender/",
-      "published": "Fri, 23 Jan 2026 22:28:01 +0000",
+      "title": "Doing gigabit Ethernet over my British phone wires",
+      "summary": "Article URL: https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/\nComments URL: https://news.ycombinator.com/item?id=46742362\nPoints: 110\n# Comments: 55",
+      "link": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+      "published": "Sat, 24 Jan 2026 10:14:31 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.493853"
+      "crawled_at": "2026-01-24T12:20:53.313528"
     },
     {
       "source": "hackernews",
-      "title": "Mental Models (2018)",
-      "summary": "Article URL: https://fs.blog/mental-models/\nComments URL: https://news.ycombinator.com/item?id=46737957\nPoints: 69\n# Comments: 11",
-      "link": "https://fs.blog/mental-models/",
-      "published": "Fri, 23 Jan 2026 21:08:55 +0000",
+      "title": "Show HN: I built a space travel calculator using Vanilla JavaScript",
+      "summary": "Article URL: https://cosmic-odometer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=46742285\nPoints: 25\n# Comments: 18",
+      "link": "https://cosmic-odometer.vercel.app/",
+      "published": "Sat, 24 Jan 2026 09:55:44 +0000",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-24T12:20:53.313566"
+    },
+    {
+      "source": "hackernews",
+      "title": "Modetc: Move your dotfiles from kernel space",
+      "summary": "Article URL: https://maxwell.eurofusion.eu/git/rnhmjoj/modetc\nComments URL: https://news.ycombinator.com/item?id=46741929\nPoints: 19\n# Comments: 6",
+      "link": "https://maxwell.eurofusion.eu/git/rnhmjoj/modetc",
+      "published": "Sat, 24 Jan 2026 08:16:25 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-24T12:20:53.313600"
+    },
+    {
+      "source": "hackernews",
+      "title": "Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]",
+      "summary": "Article URL: https://careers.telli.com/\nComments URL: https://news.ycombinator.com/item?id=46741643\nPoints: 0\n# Comments: 0",
+      "link": "https://careers.telli.com/",
+      "published": "Sat, 24 Jan 2026 07:01:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.493882"
+      "crawled_at": "2026-01-24T12:20:53.313633"
+    },
+    {
+      "source": "hackernews",
+      "title": "80386 Multiplication and Division",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/\nComments URL: https://news.ycombinator.com/item?id=46741482\nPoints: 53\n# Comments: 9",
+      "link": "https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/",
+      "published": "Sat, 24 Jan 2026 06:11:42 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-24T12:20:53.313666"
     },
     {
       "source": "arstechnica",
@@ -218,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.758173"
+      "crawled_at": "2026-01-24T12:20:53.457025"
     },
     {
       "source": "arstechnica",
@@ -230,7 +231,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-24T06:17:48.758208"
+      "crawled_at": "2026-01-24T12:20:53.457059"
     },
     {
       "source": "arstechnica",
@@ -242,7 +243,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.758231"
+      "crawled_at": "2026-01-24T12:20:53.457083"
     },
     {
       "source": "arstechnica",
@@ -255,7 +256,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.758260"
+      "crawled_at": "2026-01-24T12:20:53.457111"
     },
     {
       "source": "arstechnica",
@@ -269,68 +270,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.758310"
+      "crawled_at": "2026-01-24T12:20:53.457139"
     },
     {
       "source": "wired",
-      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Sat, 24 Jan 2026 06:10:00 +0000",
+      "title": "3 Best Cheap Gaming Laptops (2026): WIRED-Tested and Approved",
+      "summary": "Most gaming laptops under $1,000 aren’t great, but these three machines stand out above the rest.",
+      "link": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+      "published": "Sat, 24 Jan 2026 12:00:00 +0000",
       "keywords": [
-        "AR"
+        "REST",
+        "AR",
+        "Gaming"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-01-24T06:17:48.905658"
+      "category": "Mobile",
+      "crawled_at": "2026-01-24T12:20:53.544292"
     },
     {
       "source": "wired",
-      "title": "$100 Off Home Depot Promo Code | January 2026",
-      "summary": "Save an extra $100 or up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this January.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Sat, 24 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-24T06:17:48.905693"
-    },
-    {
-      "source": "wired",
-      "title": "60% HP Discount Codes & Coupons January 2026",
-      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "published": "Sat, 24 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-24T06:17:48.905716"
-    },
-    {
-      "source": "wired",
-      "title": "This Mega Snowstorm Will Be a Test for the US Supply Chain",
-      "summary": "Shipping experts say the big winter storm across a wide swath of the country should be business as usual—if their safeguards hold.",
-      "link": "https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/",
-      "published": "Sat, 24 Jan 2026 01:19:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T06:17:48.905751"
-    },
-    {
-      "source": "wired",
-      "title": "Clearly Filtered Discount: Pitcher, Water Bottle, Under-Sink",
-      "summary": "Clearly Filtered water pitchers, bottles, and under-sink filters are 10 to 19 percent off. I tested three filters to see how they performed.",
-      "link": "https://www.wired.com/story/clearly-filtered-sale-january-2026/",
-      "published": "Sat, 24 Jan 2026 01:16:51 +0000",
+      "title": "The 52 Best Movies on Netflix, WIRED’s Picks (January 2026)",
+      "summary": "The Rip, Frankenstein, and Wake Up Dead Man: A Knives Out Mystery are just a few of the movies you should watch on Netflix this month.",
+      "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
+      "published": "Sat, 24 Jan 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T06:17:48.905784"
+      "crawled_at": "2026-01-24T12:20:53.544334"
+    },
+    {
+      "source": "wired",
+      "title": "The 52 Best Shows on Netflix, WIRED's Picks (January 2026)",
+      "summary": "Agatha Christie’s Seven Dials, Stranger Things, and His & Hers are just a few of the shows you need to watch on Netflix this month.",
+      "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
+      "published": "Sat, 24 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-24T12:20:53.544371"
+    },
+    {
+      "source": "wired",
+      "title": "Best Portable Blenders of 2026: Ninja, Nutribullet, Beast",
+      "summary": "Cordless portable blenders have come a long way since their introduction a decade back. Here's why the Ninja Blast Max smokes them all.",
+      "link": "https://www.wired.com/story/best-portable-blenders/",
+      "published": "Sat, 24 Jan 2026 11:37:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-24T12:20:53.544403"
+    },
+    {
+      "source": "wired",
+      "title": "DOGE May Have Misused Social Security Data, DOJ Admits",
+      "summary": "Plus: The FAA blocks drones over DHS operations, Microsoft admits it hands over Bitlocker encryption keys to the cops, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/",
+      "published": "Sat, 24 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "Security",
+        "Microsoft"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-01-24T12:20:53.544430"
     }
   ]
 }
