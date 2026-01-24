@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-01-24T00:55:51.327637",
+  "last_updated": "2026-01-24T06:17:48.905878",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+      "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.",
+      "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+      "published": "Sat, 24 Jan 2026 05:27:22 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-24T06:17:47.761996"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple iPhone just had its best year in India as the smartphone market stays broadly flat",
+      "summary": "Apple shipped a record 14 million iPhones in India in 2025 and gained market share.",
+      "link": "https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/",
+      "published": "Sat, 24 Jan 2026 05:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-24T06:17:47.762031"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means",
+      "summary": "TikTok users are freaking out over a mention of \"immigration status\" data collection, but lawyers explain the disclosure is related to state privacy laws.",
+      "link": "https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/",
+      "published": "Sat, 24 Jan 2026 04:34:02 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-24T06:17:47.762069"
+    },
     {
       "source": "techcrunch",
       "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
@@ -15,7 +60,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:50.566097"
+      "crawled_at": "2026-01-24T06:17:47.762098"
     },
     {
       "source": "techcrunch",
@@ -27,48 +72,38 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:50.566144"
+      "crawled_at": "2026-01-24T06:17:47.762134"
     },
     {
-      "source": "techcrunch",
-      "title": "The Rippling/Deel corporate spying scandal may have taken another wild turn",
-      "summary": "The Department of Justice may be conducting a criminal investigation. This is arguably the biggest drama between two HR startups ever.",
-      "link": "https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/",
-      "published": "Fri, 23 Jan 2026 21:13:28 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-01-24T00:55:50.566179"
-    },
-    {
-      "source": "techcrunch",
-      "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
-      "summary": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
-      "link": "https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
-      "published": "Fri, 23 Jan 2026 20:31:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:50.566219"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
-      "summary": "Security researchers have attributed the attempted use of destructive \"wiper\" malware across Poland's energy infrastructure in late December to a Russian-backed hacking group known for causing power outages in neighboring Ukraine.",
-      "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
-      "published": "Fri, 23 Jan 2026 20:17:24 +0000",
+      "source": "theverge",
+      "title": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
+      "summary": "Internal documents revealed as part of a child safety lawsuit hint at Google's plan to \"onboard kids\" into its ecosystem by investing in schools. In this November 2020 presentation, Google writes that getting kids into its ecosystem \"leads to brand trust and loyalty over their lifetime,\" as reported",
+      "link": "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings",
+      "published": "2026-01-23T20:21:41-05:00",
       "keywords": [
         "AI",
+        "Rust",
         "Go",
-        "Security",
-        "Hack",
-        "AR"
+        "AWS",
+        "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:50.566251"
+      "crawled_at": "2026-01-24T06:17:48.032399"
+    },
+    {
+      "source": "theverge",
+      "title": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops",
+      "summary": "Intel and AMD have split the Windows laptop market for years, but the x86 players may be getting outnumbered. It's not just Apple MacBooks and MediaTek-based Chromebooks using Arm chips anymore. There are finally competent Qualcomm Snapdragon laptops running Windows, and - as soon as this spring - N",
+      "link": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
+      "published": "2026-01-23T20:09:10-05:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Windows",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-24T06:17:48.032473"
     },
     {
       "source": "theverge",
@@ -81,7 +116,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:50.705161"
+      "crawled_at": "2026-01-24T06:17:48.032531"
     },
     {
       "source": "theverge",
@@ -95,7 +130,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:50.705207"
+      "crawled_at": "2026-01-24T06:17:48.032564"
     },
     {
       "source": "theverge",
@@ -107,95 +142,71 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-24T00:55:50.705259"
-    },
-    {
-      "source": "theverge",
-      "title": "Casio teased a retro gaming-inspired sampler",
-      "summary": "Casio showed up to NAMM (CES for music gear nerds) this year with a prototype sampler called the SX-C1 that looks every bit the lovechild of a Game Boy and an SP-404. The top has a directional pad and four buttons just like you'd find on a game controller, flanking a 1.3-inch OLED screen. But [&#823",
-      "link": "https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm",
-      "published": "2026-01-23T13:10:28-05:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:50.705300"
-    },
-    {
-      "source": "theverge",
-      "title": "The best instant cameras you can buy right now",
-      "summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
-      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "published": "2026-01-23T13:01:09-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:50.705355"
+      "crawled_at": "2026-01-24T06:17:48.032617"
     },
     {
       "source": "hackernews",
-      "title": "OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes",
-      "summary": "Article URL: https://news.aibase.com/news/24859\nComments URL: https://news.ycombinator.com/item?id=46739278\nPoints: 5\n# Comments: 2",
-      "link": "https://news.aibase.com/news/24859",
-      "published": "Fri, 23 Jan 2026 23:15:12 +0000",
+      "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
+      "summary": "Article URL: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450\nComments URL: https://news.ycombinator.com/item?id=46740644\nPoints: 80\n# Comments: 52",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+      "published": "Sat, 24 Jan 2026 02:59:42 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.042068"
+      "crawled_at": "2026-01-24T06:17:48.493749"
     },
     {
       "source": "hackernews",
-      "title": "TikTok Is Now Collecting More Data About Its Users",
-      "summary": "Article URL: https://www.wired.com/story/tiktok-new-privacy-policy/\nComments URL: https://news.ycombinator.com/item?id=46739078\nPoints: 56\n# Comments: 13",
-      "link": "https://www.wired.com/story/tiktok-new-privacy-policy/",
-      "published": "Fri, 23 Jan 2026 22:51:41 +0000",
+      "title": "Comma openpilot – Open source driver-assistance",
+      "summary": "Article URL: https://comma.ai\nComments URL: https://news.ycombinator.com/item?id=46740029\nPoints: 216\n# Comments: 118",
+      "link": "https://comma.ai",
+      "published": "Sat, 24 Jan 2026 01:00:50 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-24T06:17:48.493789"
+    },
+    {
+      "source": "hackernews",
+      "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=46740028\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
+      "published": "Sat, 24 Jan 2026 01:00:48 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-24T06:17:48.493817"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wilson Lin on FastRender: a browser built by parallel agents",
+      "summary": "Article URL: https://simonwillison.net/2026/Jan/23/fastrender/\nComments URL: https://news.ycombinator.com/item?id=46738853\nPoints: 38\n# Comments: 9",
+      "link": "https://simonwillison.net/2026/Jan/23/fastrender/",
+      "published": "Fri, 23 Jan 2026 22:28:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.042111"
+      "crawled_at": "2026-01-24T06:17:48.493853"
     },
     {
       "source": "hackernews",
       "title": "Mental Models (2018)",
-      "summary": "Article URL: https://fs.blog/mental-models/\nComments URL: https://news.ycombinator.com/item?id=46737957\nPoints: 34\n# Comments: 9",
+      "summary": "Article URL: https://fs.blog/mental-models/\nComments URL: https://news.ycombinator.com/item?id=46737957\nPoints: 69\n# Comments: 11",
       "link": "https://fs.blog/mental-models/",
       "published": "Fri, 23 Jan 2026 21:08:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.042143"
-    },
-    {
-      "source": "hackernews",
-      "title": "TrueVault (YC W14) is hiring a Growth Lead to test different growth channels",
-      "summary": "Article URL: https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead\nComments URL: https://news.ycombinator.com/item?id=46737870\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead",
-      "published": "Fri, 23 Jan 2026 21:01:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.042181"
-    },
-    {
-      "source": "hackernews",
-      "title": "Neko: History of a Software Pet (2022)",
-      "summary": "Article URL: https://eliotakira.com/neko/\nComments URL: https://news.ycombinator.com/item?id=46737865\nPoints: 37\n# Comments: 8",
-      "link": "https://eliotakira.com/neko/",
-      "published": "Fri, 23 Jan 2026 21:01:25 +0000",
-      "keywords": [
-        "IoT",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.042216"
+      "crawled_at": "2026-01-24T06:17:48.493882"
     },
     {
       "source": "arstechnica",
@@ -207,7 +218,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.191345"
+      "crawled_at": "2026-01-24T06:17:48.758173"
     },
     {
       "source": "arstechnica",
@@ -219,7 +230,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-24T00:55:51.191395"
+      "crawled_at": "2026-01-24T06:17:48.758208"
     },
     {
       "source": "arstechnica",
@@ -231,7 +242,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.191421"
+      "crawled_at": "2026-01-24T06:17:48.758231"
     },
     {
       "source": "arstechnica",
@@ -244,7 +255,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.191450"
+      "crawled_at": "2026-01-24T06:17:48.758260"
     },
     {
       "source": "arstechnica",
@@ -258,73 +269,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.191478"
+      "crawled_at": "2026-01-24T06:17:48.758310"
     },
     {
       "source": "wired",
-      "title": "‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort",
-      "summary": "On this episode of Uncanny Valley, our hosts unpack the news from Davos, where Trump and major AI companies shared the stage at the World Economic Forum.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/",
-      "published": "Fri, 23 Jan 2026 22:26:01 +0000",
+      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "published": "Sat, 24 Jan 2026 06:10:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-24T06:17:48.905658"
+    },
+    {
+      "source": "wired",
+      "title": "$100 Off Home Depot Promo Code | January 2026",
+      "summary": "Save an extra $100 or up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this January.",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published": "Sat, 24 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-24T06:17:48.905693"
+    },
+    {
+      "source": "wired",
+      "title": "60% HP Discount Codes & Coupons January 2026",
+      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "published": "Sat, 24 Jan 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-01-24T06:17:48.905716"
+    },
+    {
+      "source": "wired",
+      "title": "This Mega Snowstorm Will Be a Test for the US Supply Chain",
+      "summary": "Shipping experts say the big winter storm across a wide swath of the country should be business as usual—if their safeguards hold.",
+      "link": "https://www.wired.com/story/here-comes-a-mega-snowstorm-shipping-logistics/",
+      "published": "Sat, 24 Jan 2026 01:19:38 +0000",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.327420"
+      "crawled_at": "2026-01-24T06:17:48.905751"
     },
     {
       "source": "wired",
-      "title": "US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo",
-      "summary": "The ruling in federal court in Minnesota lands as Immigration and Customs Enforcement faces scrutiny over an internal memo claiming judge-signed warrants aren’t needed to enter homes without consent.",
-      "link": "https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/",
-      "published": "Fri, 23 Jan 2026 22:24:07 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.327466"
-    },
-    {
-      "source": "wired",
-      "title": "TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes",
-      "summary": "According to its new privacy policy, TikTok now collects more data on its users, including their precise location, after majority ownership officially switched to a group based in the US.",
-      "link": "https://www.wired.com/story/tiktok-new-privacy-policy/",
-      "published": "Fri, 23 Jan 2026 21:26:28 +0000",
+      "title": "Clearly Filtered Discount: Pitcher, Water Bottle, Under-Sink",
+      "summary": "Clearly Filtered water pitchers, bottles, and under-sink filters are 10 to 19 percent off. I tested three filters to see how they performed.",
+      "link": "https://www.wired.com/story/clearly-filtered-sale-january-2026/",
+      "published": "Sat, 24 Jan 2026 01:16:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.327507"
-    },
-    {
-      "source": "wired",
-      "title": "How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear",
-      "summary": "Bitter cold, power outages, and impassible roads are a terrible cocktail. Here’s how to prep and bunker in for an extreme winter storm.",
-      "link": "https://www.wired.com/story/how-to-prep-for-a-winter-storm/",
-      "published": "Fri, 23 Jan 2026 20:34:19 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-24T00:55:51.327537"
-    },
-    {
-      "source": "wired",
-      "title": "Our Favorite Earbuds for Most People Are Over 25 Percent Off",
-      "summary": "These excellent earbuds were already a good deal before the discount.",
-      "link": "https://www.wired.com/story/nothing-ear-a-deal-126/",
-      "published": "Fri, 23 Jan 2026 19:12:43 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-24T00:55:51.327563"
+      "crawled_at": "2026-01-24T06:17:48.905784"
     }
   ]
 }
