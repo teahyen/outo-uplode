@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-01-26T06:23:05.890750",
+  "last_updated": "2026-01-26T12:25:58.719204",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Synthesia hits $4B valuation, lets employees cash out",
+      "summary": "British startup Synthesia, whose AI platform helps companies create interactive training videos, has raised a $200 million Series E round of funding that brings its valuation to $4 billion — up from $2.1 billion just a year ago.",
+      "link": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
+      "published": "Mon, 26 Jan 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-26T12:25:57.378234"
+    },
     {
       "source": "techcrunch",
       "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
@@ -13,7 +29,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:04.804047"
+      "crawled_at": "2026-01-26T12:25:57.378273"
     },
     {
       "source": "techcrunch",
@@ -28,7 +44,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:04.804111"
+      "crawled_at": "2026-01-26T12:25:57.378306"
     },
     {
       "source": "techcrunch",
@@ -44,7 +60,7 @@
         "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:04.804151"
+      "crawled_at": "2026-01-26T12:25:57.378342"
     },
     {
       "source": "techcrunch",
@@ -58,24 +74,38 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:04.804176"
+      "crawled_at": "2026-01-26T12:25:57.378367"
     },
     {
-      "source": "techcrunch",
-      "title": "TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "link": "https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/",
-      "published": "Sun, 25 Jan 2026 17:06:00 +0000",
+      "source": "theverge",
+      "title": "Microsoft’s first Windows 11 update of 2026 has been a mess",
+      "summary": "Microsoft's first update for Windows 11 in 2026 has been a buggy mess, to say the least. After reports of shutdown issues on some machines, Microsoft issued an emergency update to fix its January 2026 Windows 11 update last weekend. Now, exactly a week later, the software maker has been forced to is",
+      "link": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues",
+      "published": "2026-01-26T07:04:08-05:00",
       "keywords": [
-        "Tesla"
+        "Microsoft",
+        "Windows",
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:04.804217"
+      "crawled_at": "2026-01-26T12:25:57.540528"
+    },
+    {
+      "source": "theverge",
+      "title": "TikTok broke in its first weekend with US ownership",
+      "summary": "TikTok has suffered from extensive problems on its first weekend after completing the sale of its US arm, though some issues appear to have spread globally. TikTok has yet to confirm any issues a day after troubles began, making it difficult to surmise the extent of the problems. Nevertheless, Tikto",
+      "link": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+      "published": "2026-01-26T05:10:13-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-26T12:25:57.540584"
     },
     {
       "source": "theverge",
       "title": "Creators and communities everywhere take a stand against ICE",
-      "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire towards ICE. But something different has been happening over the week or so, following the most recent shootings of civilians by federal agents - even acc",
+      "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire toward ICE. But something different has been happening over the week or so, following the most recent shootings of civilians by federal agents - even acco",
       "link": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
       "published": "2026-01-25T12:21:43-05:00",
       "keywords": [
@@ -84,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.055186"
+      "crawled_at": "2026-01-26T12:25:57.540618"
     },
     {
       "source": "theverge",
@@ -98,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.055241"
+      "crawled_at": "2026-01-26T12:25:57.540656"
     },
     {
       "source": "theverge",
@@ -114,97 +144,72 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.055282"
-    },
-    {
-      "source": "theverge",
-      "title": "Why won’t anyone stop ICE from masking?",
-      "summary": "Americans do not like masked secret police. There is really no other way to put it. The reasons why are manifold: accountability, trust in law enforcement, and just plain overall vibes. More concretely, not being able to tell who's a cop and who's not is dangerous. An assassin masquerading as law en",
-      "link": "https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california",
-      "published": "2026-01-25T10:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.055322"
-    },
-    {
-      "source": "theverge",
-      "title": "Sony’s first clip earbuds don’t quite hit the mark",
-      "summary": "The Sony LinkBuds Clip are the company's first clip earbuds. They follow the innovative donut-hole LinkBuds and LinkBuds Open and, like their predecessors, allow you to listen to music or podcasts, make phone calls, or be active outdoors while still maintaining awareness of your surroundings. The cl",
-      "link": "https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review",
-      "published": "2026-01-25T09:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.055365"
+      "crawled_at": "2026-01-26T12:25:57.540694"
     },
     {
       "source": "hackernews",
-      "title": "The Browser Is the Sandbox",
-      "summary": "Article URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/\nComments URL: https://news.ycombinator.com/item?id=46762150\nPoints: 6\n# Comments: 2",
+      "title": "Show HN posts p/month more than doubled in the last year",
+      "summary": "Article URL: https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/\nComments URL: https://news.ycombinator.com/item?id=46764284\nPoints: 24\n# Comments: 36",
+      "link": "https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/",
+      "published": "Mon, 26 Jan 2026 11:16:17 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-26T12:25:58.094615"
+    },
+    {
+      "source": "hackernews",
+      "title": "MapLibre Tile: a modern and efficient vector tile format",
+      "summary": "Article URL: https://maplibre.org/news/2026-01-23-mlt-release/\nComments URL: https://news.ycombinator.com/item?id=46763864\nPoints: 82\n# Comments: 8",
+      "link": "https://maplibre.org/news/2026-01-23-mlt-release/",
+      "published": "Mon, 26 Jan 2026 10:19:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-26T12:25:58.094660"
+    },
+    {
+      "source": "hackernews",
+      "title": "San Francisco Graffiti",
+      "summary": "Article URL: https://walzr.com/sf-graffiti\nComments URL: https://news.ycombinator.com/item?id=46763721\nPoints: 20\n# Comments: 19",
+      "link": "https://walzr.com/sf-graffiti",
+      "published": "Mon, 26 Jan 2026 10:02:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-26T12:25:58.094691"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
+      "summary": "Article URL: https://github.com/quaadgras/graphics.gd/discussions/242\nComments URL: https://news.ycombinator.com/item?id=46762882\nPoints: 83\n# Comments: 56",
+      "link": "https://github.com/quaadgras/graphics.gd/discussions/242",
+      "published": "Mon, 26 Jan 2026 07:41:52 +0000",
+      "keywords": [
+        "AI",
+        "Linux",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-26T12:25:58.094718"
+    },
+    {
+      "source": "hackernews",
+      "title": "The browser is the sandbox",
+      "summary": "Article URL: https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/\nComments URL: https://news.ycombinator.com/item?id=46762150\nPoints: 181\n# Comments: 109",
       "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
       "published": "Mon, 26 Jan 2026 05:23:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.445459"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia is about to challenge 'Intel Inside' with as many as eight Arm laptops",
-      "summary": "Article URL: https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell\nComments URL: https://news.ycombinator.com/item?id=46762127\nPoints: 7\n# Comments: 2",
-      "link": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
-      "published": "Mon, 26 Jan 2026 05:18:03 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.445506"
-    },
-    {
-      "source": "hackernews",
-      "title": "Iran's internet blackout may become permanent, with access for elites only",
-      "summary": "Article URL: https://restofworld.org/2026/iran-blackout-tiered-internet/\nComments URL: https://news.ycombinator.com/item?id=46761822\nPoints: 107\n# Comments: 45",
-      "link": "https://restofworld.org/2026/iran-blackout-tiered-internet/",
-      "published": "Mon, 26 Jan 2026 04:18:19 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.445546"
-    },
-    {
-      "source": "hackernews",
-      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
-      "summary": "Article URL: https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php\nComments URL: https://news.ycombinator.com/item?id=46761614\nPoints: 49\n# Comments: 0",
-      "link": "https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php",
-      "published": "Mon, 26 Jan 2026 03:40:06 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.445585"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: WhyThere – Compare cities side-by-side to decide where to move",
-      "summary": "Article URL: https://whythere.life\nComments URL: https://news.ycombinator.com/item?id=46761547\nPoints: 5\n# Comments: 1",
-      "link": "https://whythere.life",
-      "published": "Mon, 26 Jan 2026 03:31:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.445629"
+      "crawled_at": "2026-01-26T12:25:58.094750"
     },
     {
       "source": "arstechnica",
@@ -216,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.672693"
+      "crawled_at": "2026-01-26T12:25:58.398510"
     },
     {
       "source": "arstechnica",
@@ -229,7 +234,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.672724"
+      "crawled_at": "2026-01-26T12:25:58.398542"
     },
     {
       "source": "arstechnica",
@@ -239,7 +244,7 @@
       "published": "Sat, 24 Jan 2026 18:36:11 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.672756"
+      "crawled_at": "2026-01-26T12:25:58.398572"
     },
     {
       "source": "arstechnica",
@@ -252,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.672786"
+      "crawled_at": "2026-01-26T12:25:58.398602"
     },
     {
       "source": "arstechnica",
@@ -264,7 +269,46 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.672815"
+      "crawled_at": "2026-01-26T12:25:58.398631"
+    },
+    {
+      "source": "wired",
+      "title": "We Strapped on Exoskeletons and Raced. There’s One Clear Winner",
+      "summary": "WIRED put the latest consumer exoskeletons from Dnsys and Hypershell in a head-to-head test on a pro athletic track. On your marks …",
+      "link": "https://www.wired.com/story/story/we-raced-exoskeletons-and-theres-one-clear-winner/",
+      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-26T12:25:58.718954"
+    },
+    {
+      "source": "wired",
+      "title": "People Are Protesting Data Centers—but Embracing the Factories That Supply Them",
+      "summary": "As the data center backlash grows, support is growing for server factories and the hundreds of jobs they’re expected to bring.",
+      "link": "https://www.wired.com/story/data-center-criticism-factories-supply-us/",
+      "published": "Mon, 26 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-26T12:25:58.719002"
+    },
+    {
+      "source": "wired",
+      "title": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+      "summary": "I’ve tested two laptops powered by Panther Lake—pitting them head-to-head against laptops with Apple Silicon—and Intel has finally scored a much-needed win with the Core Ultra Series 3.",
+      "link": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
+      "published": "Mon, 26 Jan 2026 08:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-26T12:25:58.719036"
     },
     {
       "source": "wired",
@@ -276,7 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.890508"
+      "crawled_at": "2026-01-26T12:25:58.719069"
     },
     {
       "source": "wired",
@@ -289,44 +333,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T06:23:05.890541"
-    },
-    {
-      "source": "wired",
-      "title": "No One Is Quite Sure Why Ice Is Slippery",
-      "summary": "A thin, watery layer coating the surface of ice is what makes it slick. Despite a great deal of theorizing over the centuries, though, it isn't entirely clear why that layer forms.",
-      "link": "https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/",
-      "published": "Sun, 25 Jan 2026 12:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.890578"
-    },
-    {
-      "source": "wired",
-      "title": "How Long Should You Cold Plunge? We Asked Experts (2026)",
-      "summary": "You don't need to Ernest Shackleton yourself to reap the benefits of cold plunging. A calm, controlled ice bath is key.",
-      "link": "https://www.wired.com/story/how-long-do-you-cold-plunge/",
-      "published": "Sun, 25 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "Hack"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-01-26T06:23:05.890604"
-    },
-    {
-      "source": "wired",
-      "title": "The Lego Pokémon Line Shows Toys Are Only for Rich Adults Now",
-      "summary": "Who cares about kids when adult collectors are willing to pay top dollar?",
-      "link": "https://www.wired.com/story/legos-pokemon-partnership-shows-toys-are-only-for-rich-adults-now/",
-      "published": "Sun, 25 Jan 2026 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T06:23:05.890634"
+      "crawled_at": "2026-01-26T12:25:58.719092"
     }
   ]
 }
