@@ -1,280 +1,250 @@
 {
-  "last_updated": "2026-01-26T18:21:02.205408",
+  "last_updated": "2026-01-27T01:00:41.965849",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized",
-      "summary": "Skylight, a TikTok alternative built on open protocols, has had a busy weekend.",
-      "link": "https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/",
-      "published": "Mon, 26 Jan 2026 18:20:48 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:00.919783"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-      "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
-      "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "published": "Mon, 26 Jan 2026 18:00:00 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:00.919854"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-      "summary": "The 12-year-old firm raised $360,360,360 for its fifth fund. And there's a reason for that number.",
-      "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-      "published": "Mon, 26 Jan 2026 18:00:00 +0000",
+      "title": "Google pays $68M to settle claims its voice assistant spied on users",
+      "summary": "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of \"unlawful and intentional interception and recording of individuals’ confidential communications without their consent and subsequent unauthorized disclosure of those communications to third parties",
+      "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+      "published": "Tue, 27 Jan 2026 00:43:35 +0000",
       "keywords": [
         "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:00.919884"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TikTok attributes recent glitches to a power outage at a U.S. data center",
-      "summary": "The timing of these outages lines up with the long-awaited creation of a separate U.S. TikTok entity last week.",
-      "link": "https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/",
-      "published": "Mon, 26 Jan 2026 17:48:50 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:00.919909"
-    },
-    {
-      "source": "techcrunch",
-      "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
-      "summary": "Europe-based venture fund 2150 raised the money to invest in climate tech startups that help solve cities' carbon footprint.",
-      "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
-      "published": "Mon, 26 Jan 2026 17:29:35 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:00.919942"
-    },
-    {
-      "source": "theverge",
-      "title": "Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’",
-      "summary": "Most vertical video microdrama apps have been focused on putting out newly-produced series meant to be watched on your phone. But Tattle TV thinks that people might also be interested in checking out bite-sized pieces of cinematic history. Though Tattle TV - a UK-based streaming platform created by ",
-      "link": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
-      "published": "2026-01-26T13:00:29-05:00",
-      "keywords": [
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-26T18:21:01.158267"
-    },
-    {
-      "source": "theverge",
-      "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
-      "summary": "Anthropic's Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet. Users will now be able to interact with apps directly inside the Claude chatbot, letting you draft and format Slack messag",
-      "link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
-      "published": "2026-01-26T13:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.158311"
-    },
-    {
-      "source": "theverge",
-      "title": "TikTokers are heading to UpScrolled following US takeover",
-      "summary": "TikTok's takeover in the US has prompted users to join an alternative social platform called UpScrolled. The app, which is available on Android and iOS, currently holds the 12th spot in Apple's App Store, and it's struggling to keep up with an influx of new traffic. \"You showed up so fast our server",
-      "link": "https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover",
-      "published": "2026-01-26T12:47:31-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Android",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.158345"
-    },
-    {
-      "source": "theverge",
-      "title": "Internal chats show how social media companies discussed teen engagement",
-      "summary": "Recently released documents show the big business opportunity that social media companies saw in recruiting teens to their platforms and how they discussed risks that heavy digital engagement could pose. The documents were released last week as part of a major set of trials brought by school distric",
-      "link": "https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents",
-      "published": "2026-01-26T11:46:05-05:00",
-      "keywords": [
-        "AI",
-        "Meta",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.158381"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI is working out how much to charge for ChatGPT ads",
-      "summary": "OpenAI is reportedly asking a high price to advertise on ChatGPT, around $60 per 1,000 views, or triple what ads on Meta's platform usually cost, according to The Information. Despite the higher price, OpenAI won't be offering advertisers the same level of detailed information that Google and Meta d",
-      "link": "https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing",
-      "published": "2026-01-26T11:33:11-05:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.158411"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google Books has been effectively killed by the last algorithm update",
-      "summary": "Article URL: https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/\nComments URL: https://news.ycombinator.com/item?id=46769201\nPoints: 3\n# Comments: 0",
-      "link": "https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/",
-      "published": "Mon, 26 Jan 2026 18:05:15 +0000",
-      "keywords": [
         "Go",
         "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.662895"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.181080"
     },
     {
-      "source": "hackernews",
-      "title": "House of Lords Votes to Ban UK Children from Using Internet VPNs",
-      "summary": "Article URL: https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html\nComments URL: https://news.ycombinator.com/item?id=46769131\nPoints: 5\n# Comments: 1",
-      "link": "https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html",
-      "published": "Mon, 26 Jan 2026 18:00:32 +0000",
+      "source": "techcrunch",
+      "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+      "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate.",
+      "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+      "published": "Tue, 27 Jan 2026 00:13:15 +0000",
       "keywords": [
+        "AI",
+        "Startup",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.662942"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.181113"
     },
     {
-      "source": "hackernews",
-      "title": "Fedora Asahi Remix is now working on Apple M3",
-      "summary": "Article URL: https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o\nComments URL: https://news.ycombinator.com/item?id=46769051\nPoints: 23\n# Comments: 1",
-      "link": "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o",
-      "published": "Mon, 26 Jan 2026 17:54:20 +0000",
+      "source": "techcrunch",
+      "title": "Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp",
+      "summary": "In the coming months, Meta is going to explore a premium experience on Instagram, Facebook, and WhatsApp that gives users access to special features and more control over how they share and connect, while keeping the core experiences free.",
+      "link": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+      "published": "Mon, 26 Jan 2026 23:12:33 +0000",
       "keywords": [
-        "Apple",
+        "Go",
+        "Meta",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-26T18:21:01.662975"
+      "crawled_at": "2026-01-27T01:00:41.181155"
     },
     {
-      "source": "hackernews",
-      "title": "The Adolescence of Technology",
-      "summary": "Article URL: https://www.darioamodei.com/essay/the-adolescence-of-technology\nComments URL: https://news.ycombinator.com/item?id=46768257\nPoints: 14\n# Comments: 1",
-      "link": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
-      "published": "Mon, 26 Jan 2026 17:07:24 +0000",
+      "source": "techcrunch",
+      "title": "Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence",
+      "summary": "Many members of the international games industry are skipping the 2026 Game Developers Conference because of the growing ICE presence and other concerns.",
+      "link": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/",
+      "published": "Mon, 26 Jan 2026 22:47:49 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.663008"
+      "category": "Programming",
+      "crawled_at": "2026-01-27T01:00:41.181187"
     },
     {
-      "source": "hackernews",
-      "title": "The mountain that weighed the Earth",
-      "summary": "Article URL: https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/\nComments URL: https://news.ycombinator.com/item?id=46767875\nPoints: 21\n# Comments: 1",
-      "link": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
-      "published": "Mon, 26 Jan 2026 16:43:30 +0000",
+      "source": "techcrunch",
+      "title": "Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting",
+      "summary": "Unwavering Trump loyalist and VC Keith Rabois caused his colleague  and his firm's founder to distance themselves from his comments on ICE.",
+      "link": "https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/",
+      "published": "Mon, 26 Jan 2026 21:49:12 +0000",
+      "keywords": [
+        "VC"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-01-27T01:00:41.181225"
+    },
+    {
+      "source": "theverge",
+      "title": "X faces EU investigation over Grok’s sexualized deepfakes",
+      "summary": "X is facing an investigation from the European Commission over the sexualized deepfakes generated by its Grok AI chatbot. In its announcement, the Commission says it will evaluate whether X \"properly assessed and mitigated risks\" associated with Grok's image-generating capabilities in the EU, as rep",
+      "link": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
+      "published": "2026-01-26T17:47:34-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.663035"
+      "crawled_at": "2026-01-27T01:00:41.274369"
     },
     {
-      "source": "arstechnica",
-      "title": "Data center power outage took out TikTok first weekend under US ownership",
-      "summary": "US TikTok users experienced a wide range of errors, sparking conspiracies.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/",
-      "published": "Mon, 26 Jan 2026 16:23:48 +0000",
+      "source": "theverge",
+      "title": "The best Bluetooth trackers for Apple and Android phones",
+      "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there [",
+      "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "published": "2026-01-26T15:01:17-05:00",
       "keywords": [
+        "Go",
+        "REST",
+        "Apple",
+        "Android",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.948757"
+      "category": "Mobile",
+      "crawled_at": "2026-01-27T01:00:41.274424"
     },
     {
-      "source": "arstechnica",
-      "title": "How to get Doom running on a pair of earbuds",
-      "summary": "No display? No problem for the UART-to-web-server \"Doombuds\" project.",
-      "link": "https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/",
-      "published": "Mon, 26 Jan 2026 16:13:22 +0000",
+      "source": "theverge",
+      "title": "OpenAI’s president is a Trump mega-donor",
+      "summary": "OpenAI's co-founder and longtime president, Greg Brockman, didn't just make a run-of-the-mill donation to the main pro-Trump super PAC - together, he and his wife Anna's September 2025 donations equaled the largest of them all, totaling $25 million to \"MAGA Inc.,\" per a recent filing. The Brockmans'",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac",
+      "published": "2026-01-26T14:57:08-05:00",
       "keywords": [
         "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.948783"
+      "crawled_at": "2026-01-27T01:00:41.274465"
     },
     {
-      "source": "arstechnica",
-      "title": "EU launches formal investigation of xAI over Grok's sexualized deepfakes",
-      "summary": "Elon Musk's company faces fines of up to 6 percent of its daily turnover.",
-      "link": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
-      "published": "Mon, 26 Jan 2026 14:17:46 +0000",
+      "source": "theverge",
+      "title": "Google will settle its Assistant spying lawsuit for $68 million",
+      "summary": "Google could owe you some money, now that it's moving to settle a class-action lawsuit over how it handled recordings captured when its devices were activated by something other than Google Assistant's actual trigger word, \"Ok Google.\" German outlet VRT NWS's 2019 report exposed the issue, and court",
+      "link": "https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement",
+      "published": "2026-01-26T14:45:53-05:00",
       "keywords": [
-        "AI"
+        "Go",
+        "AWS",
+        "Google",
+        "VR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-27T01:00:41.274503"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple’s luxe AirPods Max have dropped to one of their lowest prices ever",
+      "summary": "If you prefer over-ear headphones to earbuds and own an iPhone or another Apple device, the AirPods Max with USB-C are worth a look, especially now that you can buy them at Best Buy as part of a flash deal for $429.99 ($120 off) through tomorrow, January 27th. That’s $30 shy of their lowest price [&",
+      "link": "https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale",
+      "published": "2026-01-26T14:38:39-05:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:01.948819"
+      "crawled_at": "2026-01-27T01:00:41.274539"
     },
     {
-      "source": "arstechnica",
-      "title": "Former astronaut on lunar spacesuits: \"I don't think they're great right now\"",
-      "summary": "\"These are just the difficulties of designing a spacesuit for the lunar environment.\"",
-      "link": "https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/",
-      "published": "Mon, 26 Jan 2026 12:00:57 +0000",
+      "source": "hackernews",
+      "title": "Y Combinator website no longer lists Canada as a country it invests in",
+      "summary": "Article URL: https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/\nComments URL: https://news.ycombinator.com/item?id=46773242\nPoints: 38\n# Comments: 5",
+      "link": "https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/",
+      "published": "Mon, 26 Jan 2026 23:32:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.948850"
+      "crawled_at": "2026-01-27T01:00:41.669997"
     },
     {
-      "source": "arstechnica",
-      "title": "A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10",
-      "summary": "How two podcasters turned a Star Trek side project into a full-time career.",
-      "link": "https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/",
-      "published": "Sun, 25 Jan 2026 12:00:25 +0000",
+      "source": "hackernews",
+      "title": "You have to know how tech companies work",
+      "summary": "Article URL: https://www.seangoedecke.com/knowing-how-to-drive-the-car/\nComments URL: https://news.ycombinator.com/item?id=46772966\nPoints: 8\n# Comments: 0",
+      "link": "https://www.seangoedecke.com/knowing-how-to-drive-the-car/",
+      "published": "Mon, 26 Jan 2026 23:05:43 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T01:00:41.670039"
+    },
+    {
+      "source": "hackernews",
+      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
+      "summary": "Article URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip\nComments URL: https://news.ycombinator.com/item?id=46772495\nPoints: 25\n# Comments: 20",
+      "link": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+      "published": "Mon, 26 Jan 2026 22:29:54 +0000",
+      "keywords": [
+        "ChatGPT",
+        "GPT",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.670073"
+    },
+    {
+      "source": "hackernews",
+      "title": "People who know the formula for WD-40",
+      "summary": "Gift link: https://www.wsj.com/business/the-secret-society-of-people-wh...\n\nComments URL: https://news.ycombinator.com/item?id=46771599\nPoints: 68\n# Comments: 127",
+      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
+      "published": "Mon, 26 Jan 2026 21:11:53 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T01:00:41.670108"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dithering – Part 2: The Ordered Dithering",
+      "summary": "Article URL: https://visualrambling.space/dithering-part-2/\nComments URL: https://news.ycombinator.com/item?id=46770274\nPoints: 105\n# Comments: 14",
+      "link": "https://visualrambling.space/dithering-part-2/",
+      "published": "Mon, 26 Jan 2026 19:23:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:01.948880"
+      "crawled_at": "2026-01-27T01:00:41.670150"
     },
     {
-      "source": "wired",
-      "title": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
-      "summary": "I’ve tested a laptop powered by Panther Lake—pitting them head-to-head against laptops with Apple Silicon—and Intel has finally scored a much-needed win with the Core Ultra Series 3.",
-      "link": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
-      "published": "Mon, 26 Jan 2026 17:45:20 +0000",
+      "source": "arstechnica",
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "published": "Mon, 26 Jan 2026 23:05:17 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.849438"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot",
+      "summary": "Kirk Milhoan's comments come as federal vaccine policy slides to insignificance.",
+      "link": "https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/",
+      "published": "Mon, 26 Jan 2026 21:31:13 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T01:00:41.849482"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+      "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
+      "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
+      "published": "Mon, 26 Jan 2026 21:02:26 +0000",
+      "keywords": [
+        "Microsoft"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T01:00:41.849512"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple's AirTag 2 is easier to find thanks to new chip",
+      "summary": "This is the first major upgrade since Apple introduced AirTags five years ago.",
+      "link": "https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/",
+      "published": "Mon, 26 Jan 2026 20:18:02 +0000",
       "keywords": [
         "AI",
         "Go",
@@ -282,57 +252,81 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:02.205163"
+      "crawled_at": "2026-01-27T01:00:41.849534"
     },
     {
-      "source": "wired",
-      "title": "After 5 Years, Apple Finally Upgrades the AirTag",
-      "summary": "The second-generation AirTag features Apple’s newer Ultra Wideband chip and has a louder speaker and better range.",
-      "link": "https://www.wired.com/story/apple-second-generation-airtag-2026/",
-      "published": "Mon, 26 Jan 2026 14:50:32 +0000",
+      "source": "arstechnica",
+      "title": "“Wildly irresponsible”: DOT's use of AI to draft safety rules sparks concerns",
+      "summary": "Staffers warn DOT's use of Gemini to draft rules could cause injuries and deaths.",
+      "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
+      "published": "Mon, 26 Jan 2026 20:13:47 +0000",
       "keywords": [
         "AI",
-        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-26T18:21:02.205196"
+      "crawled_at": "2026-01-27T01:00:41.849559"
     },
     {
       "source": "wired",
-      "title": "We Strapped on Exoskeletons and Raced. There’s One Clear Winner",
-      "summary": "WIRED put the latest consumer exoskeletons from Dnsys and Hypershell in a head-to-head test on a pro athletic track. On your marks …",
-      "link": "https://www.wired.com/story/story/we-raced-exoskeletons-and-theres-one-clear-winner/",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
+      "title": "Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished",
+      "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
+      "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
+      "published": "Mon, 26 Jan 2026 22:39:30 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-26T18:21:02.205238"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.965626"
     },
     {
       "source": "wired",
-      "title": "Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous",
-      "summary": "Sexual deepfakes continue to get more sophisticated, capable, easy to access, and perilous for millions of women who are abused with the technology.",
-      "link": "https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/",
-      "published": "Mon, 26 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:02.205277"
-    },
-    {
-      "source": "wired",
-      "title": "People Are Protesting Data Centers—but Embracing the Factories That Supply Them",
-      "summary": "As the data center backlash grows, support is growing for server factories and the hundreds of jobs they’re expected to bring.",
-      "link": "https://www.wired.com/story/data-center-criticism-factories-supply-us/",
-      "published": "Mon, 26 Jan 2026 11:00:00 +0000",
+      "title": "Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti",
+      "summary": "“In my opinion ICE are the bad guys. I am not proud that the company I enjoy so much working for is part of this,” one worker wrote on Slack.",
+      "link": "https://www.wired.com/story/palantir-ice-dhs-alex-pretti-killing-workers-slack-minneapolis/",
+      "published": "Mon, 26 Jan 2026 22:09:16 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-26T18:21:02.205315"
+      "crawled_at": "2026-01-27T01:00:41.965676"
+    },
+    {
+      "source": "wired",
+      "title": "TikTok Data Center Outage Triggers Trust Crisis for New US Owners",
+      "summary": "The technical failure coincided with TikTok’s ownership transition, leading users to question whether videos criticizing ICE raids in Minnesota were being intentionally censored.",
+      "link": "https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/",
+      "published": "Mon, 26 Jan 2026 21:49:21 +0000",
+      "keywords": [
+        "AI",
+        "Rust"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.965711"
+    },
+    {
+      "source": "wired",
+      "title": "Redditors Are Mounting a Resistance Against ICE",
+      "summary": "A user from r/Minneapolis was among the first to share footage of federal agents shooting Alex Pretti. Following his death, subreddits about football, cats, and embroidery have all rallied against ICE.",
+      "link": "https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/",
+      "published": "Mon, 26 Jan 2026 19:46:39 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T01:00:41.965738"
+    },
+    {
+      "source": "wired",
+      "title": "The 10 Best Sleep Masks We’ve Tested While Snoozing (2026)",
+      "summary": "Get some solid shut-eye with the help of these sleep masks. Our top pick is from Blissy.",
+      "link": "https://www.wired.com/gallery/best-sleep-masks/",
+      "published": "Mon, 26 Jan 2026 19:19:12 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T01:00:41.965771"
     }
   ]
 }
