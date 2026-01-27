@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-27T06:20:52.193274",
+  "last_updated": "2026-01-27T12:25:51.723530",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Northwood Space secures a $100M Series B and a $50M Space Force contract",
+      "summary": "This is the El Segundo, California-based startup's second raise in less than a year.",
+      "link": "https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/",
+      "published": "Tue, 27 Jan 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T12:25:50.769028"
+    },
+    {
+      "source": "techcrunch",
+      "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+      "summary": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "published": "Tue, 27 Jan 2026 10:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T12:25:50.769072"
+    },
     {
       "source": "techcrunch",
       "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
@@ -13,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.612467"
+      "crawled_at": "2026-01-27T12:25:50.769104"
     },
     {
       "source": "techcrunch",
@@ -26,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.612503"
+      "crawled_at": "2026-01-27T12:25:50.769130"
     },
     {
       "source": "techcrunch",
@@ -41,168 +67,134 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.612547"
+      "crawled_at": "2026-01-27T12:25:50.769171"
     },
     {
-      "source": "techcrunch",
-      "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
-      "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate.",
-      "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
-      "published": "Tue, 27 Jan 2026 00:13:15 +0000",
+      "source": "theverge",
+      "title": "Roland’s TR-1000 is the ultimate drum machine",
+      "summary": "It took way too long, but Roland finally caved and gave the people what they want: a proper analog successor to the iconic TR-808 drum machine. The 808's sound, especially the kick drum, is embedded so deeply in the DNA of modern music that it would be a gross disservice to try and boil its [&#8230;",
+      "link": "https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review",
+      "published": "2026-01-27T07:00:00-05:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T12:25:51.038733"
+    },
+    {
+      "source": "theverge",
+      "title": "All rise for JudgeGPT",
+      "summary": "Bridget McCormack is used to correcting judges' work. As the former chief justice on the Michigan Supreme Court, it was her job to review complaints about how judges at the lower courts failed to consider key evidence or rule on certain aspects of a case. In her current job, McCormack is working on ",
+      "link": "https://www.theverge.com/policy/868151/ai-judges-arbitration",
+      "published": "2026-01-27T06:30:00-05:00",
       "keywords": [
         "AI",
-        "Startup",
-        "AR"
+        "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.612572"
+      "crawled_at": "2026-01-27T12:25:51.038777"
     },
     {
-      "source": "techcrunch",
-      "title": "Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp",
-      "summary": "In the coming months, Meta is going to explore a premium experience on Instagram, Facebook, and WhatsApp that gives users access to special features and more control over how they share and connect, while keeping the core experiences free.",
-      "link": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
-      "published": "Mon, 26 Jan 2026 23:12:33 +0000",
+      "source": "theverge",
+      "title": "Xbox Cloud Gaming’s new design teases the future of Xbox console UI",
+      "summary": "Microsoft has started testing a refreshed web experience for Xbox Cloud Gaming that looks even more console-like. Xbox Insiders can now try out the preview UI, which includes updated navigation features, plenty of new animations, and a refreshed design. It all feels like a teaser of what's to come f",
+      "link": "https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design",
+      "published": "2026-01-27T06:05:29-05:00",
       "keywords": [
-        "Go",
+        "Microsoft",
+        "Cloud",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-01-27T12:25:51.038824"
+    },
+    {
+      "source": "theverge",
+      "title": "Instagram, Facebook, and WhatsApp will test premium subscriptions",
+      "summary": "Meta is gearing up to trial new premium subscriptions for Instagram, Facebook, and WhatsApp in the coming months that will allow users to access expanded AI capabilities and additional features. TechCrunch reports that the upcoming subscription plans aim to \"unlock more productivity and creativity\" ",
+      "link": "https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp",
+      "published": "2026-01-27T05:44:23-05:00",
+      "keywords": [
+        "AI",
         "Meta",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-27T06:20:51.612611"
-    },
-    {
-      "source": "theverge",
-      "title": "TikTok is still down, here are all the latest updates",
-      "summary": "More than a day after TikTok’s issues began, TikTok USDS says the problems are the result of a power outage at a data center and subsequent cascading systems failure. Starting early Sunday morning, TikTok’s now under new ownership US arm started breaking down just a couple of days after Oracle &#38;",
-      "link": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
-      "published": "2026-01-26T21:10:25-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.732925"
+      "crawled_at": "2026-01-27T12:25:51.038859"
     },
     {
       "source": "theverge",
-      "title": "X faces EU investigation over Grok’s sexualized deepfakes",
-      "summary": "X is facing an investigation from the European Commission over the sexualized deepfakes generated by its Grok AI chatbot. In its announcement, the Commission says it will evaluate whether X \"properly assessed and mitigated risks\" associated with Grok's image-generating capabilities in the EU, as rep",
-      "link": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
-      "published": "2026-01-26T17:47:34-05:00",
+      "title": "Strava and Komoot finally bring offline maps to Apple Watch",
+      "summary": "Strava and Komoot - two of the most popular apps for cyclists, hikers, and runners - are each bringing offline maps to the Apple Watch, ending a major source of frustration for many. Now you can easily see routes and record your workouts all in your preferred app, without having to bring along a rel",
+      "link": "https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch",
+      "published": "2026-01-27T05:25:57-05:00",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.732979"
-    },
-    {
-      "source": "theverge",
-      "title": "The best Bluetooth trackers for Apple and Android phones",
-      "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there [",
-      "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
-      "published": "2026-01-26T15:01:17-05:00",
-      "keywords": [
-        "Go",
-        "REST",
-        "Apple",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-27T06:20:51.733027"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI’s president is a Trump mega-donor",
-      "summary": "OpenAI's co-founder and longtime president, Greg Brockman, didn't just make a run-of-the-mill donation to the main pro-Trump super PAC - together, he and his wife Anna's September 2025 donations equaled the largest of them all, totaling $25 million to \"MAGA Inc.,\" per a recent filing. The Brockmans'",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac",
-      "published": "2026-01-26T14:57:08-05:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.733067"
-    },
-    {
-      "source": "theverge",
-      "title": "Google will settle its Assistant spying lawsuit for $68 million",
-      "summary": "Google could owe you some money, now that it's moving to settle a class-action lawsuit over how it handled recordings captured when its devices were activated by something other than Google Assistant's actual trigger word, \"Ok Google.\" German outlet VRT NWS's 2019 report exposed the issue, and court",
-      "link": "https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement",
-      "published": "2026-01-26T14:45:53-05:00",
-      "keywords": [
-        "Go",
-        "AWS",
-        "Google",
-        "VR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-27T06:20:51.733106"
-    },
-    {
-      "source": "hackernews",
-      "title": "A list of fun destinations for telnet",
-      "summary": "Article URL: https://telnet.org/htm/places.htm\nComments URL: https://news.ycombinator.com/item?id=46775135\nPoints: 8\n# Comments: 4",
-      "link": "https://telnet.org/htm/places.htm",
-      "published": "Tue, 27 Jan 2026 03:24:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:51.955253"
-    },
-    {
-      "source": "hackernews",
-      "title": "iPhone 5s Gets New Software Update 13 Years After Launch",
-      "summary": "Article URL: https://www.macrumors.com/2026/01/26/iphone-5s-software-update/\nComments URL: https://news.ycombinator.com/item?id=46774108\nPoints: 96\n# Comments: 30",
-      "link": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/",
-      "published": "Tue, 27 Jan 2026 01:04:54 +0000",
-      "keywords": [
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-27T06:20:51.955296"
-    },
-    {
-      "source": "hackernews",
-      "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
-      "summary": "Article URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip\nComments URL: https://news.ycombinator.com/item?id=46772495\nPoints: 52\n# Comments: 71",
-      "link": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
-      "published": "Mon, 26 Jan 2026 22:29:54 +0000",
-      "keywords": [
-        "ChatGPT",
-        "GPT",
+        "Rust",
         "Apple",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:51.955331"
+      "category": "Programming",
+      "crawled_at": "2026-01-27T12:25:51.038892"
     },
     {
       "source": "hackernews",
-      "title": "People who know the formula for WD-40",
-      "summary": "Gift link: https://www.wsj.com/business/the-secret-society-of-people-wh...\n\nComments URL: https://news.ycombinator.com/item?id=46771599\nPoints: 120\n# Comments: 200",
-      "link": "https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54",
-      "published": "Mon, 26 Jan 2026 21:11:53 +0000",
+      "title": "Trayd (YC S23) is hiring senior engineers in NYC – scaling after major growth",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=46778846\nPoints: 0\n# Comments: 0",
+      "link": "https://news.ycombinator.com/item?id=46778846",
+      "published": "Tue, 27 Jan 2026 12:00:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:51.955366"
+      "crawled_at": "2026-01-27T12:25:51.434025"
     },
     {
       "source": "hackernews",
-      "title": "Dithering – Part 2: The Ordered Dithering",
-      "summary": "Article URL: https://visualrambling.space/dithering-part-2/\nComments URL: https://news.ycombinator.com/item?id=46770274\nPoints: 157\n# Comments: 19",
-      "link": "https://visualrambling.space/dithering-part-2/",
-      "published": "Mon, 26 Jan 2026 19:23:54 +0000",
+      "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
+      "summary": "I want to learn Assembly to make games on the Apple II. What are the old books to learn 6502 Assembly and the Apple II itself (memory, screen management) ? And is it absolutely necessary to learn BASIC before Assembly ?\n\nComments URL: https://news.ycombinator.com/item?id=46778461\nPoints: 28\n# Commen",
+      "link": "https://news.ycombinator.com/item?id=46778461",
+      "published": "Tue, 27 Jan 2026 11:12:30 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-27T12:25:51.434077"
+    },
+    {
+      "source": "hackernews",
+      "title": "I made my own Git",
+      "summary": "Article URL: https://tonystr.net/blog/git_immitation\nComments URL: https://news.ycombinator.com/item?id=46778341\nPoints: 22\n# Comments: 5",
+      "link": "https://tonystr.net/blog/git_immitation",
+      "published": "Tue, 27 Jan 2026 10:55:37 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T12:25:51.434110"
+    },
+    {
+      "source": "hackernews",
+      "title": "We Do Not Support Opt-Out Forms (2025)",
+      "summary": "Article URL: https://consciousdigital.org/why-we-do-not-support-opt-out-forms/\nComments URL: https://news.ycombinator.com/item?id=46777641\nPoints: 7\n# Comments: 2",
+      "link": "https://consciousdigital.org/why-we-do-not-support-opt-out-forms/",
+      "published": "Tue, 27 Jan 2026 09:35:42 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-27T12:25:51.434145"
+    },
+    {
+      "source": "hackernews",
+      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c20gg729y1yo\nComments URL: https://news.ycombinator.com/item?id=46776454\nPoints: 113\n# Comments: 45",
+      "link": "https://www.bbc.com/news/articles/c20gg729y1yo",
+      "published": "Tue, 27 Jan 2026 07:06:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:51.955409"
+      "crawled_at": "2026-01-27T12:25:51.434180"
     },
     {
       "source": "arstechnica",
@@ -215,7 +207,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:52.059523"
+      "crawled_at": "2026-01-27T12:25:51.570838"
     },
     {
       "source": "arstechnica",
@@ -225,7 +217,7 @@
       "published": "Mon, 26 Jan 2026 21:31:13 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:52.059569"
+      "crawled_at": "2026-01-27T12:25:51.570883"
     },
     {
       "source": "arstechnica",
@@ -237,7 +229,7 @@
         "Microsoft"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:52.059600"
+      "crawled_at": "2026-01-27T12:25:51.570914"
     },
     {
       "source": "arstechnica",
@@ -252,7 +244,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:52.059622"
+      "crawled_at": "2026-01-27T12:25:51.570935"
     },
     {
       "source": "arstechnica",
@@ -265,70 +257,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:52.059649"
+      "crawled_at": "2026-01-27T12:25:51.570961"
     },
     {
       "source": "wired",
-      "title": "20% Off TurboTax Service Codes | January 2026",
-      "summary": "Tax season doesn’t have to be stressful. Save up to 20% on federal tax filings, 10% off Full Service, and more with exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Tue, 27 Jan 2026 06:10:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-27T06:20:52.193034"
-    },
-    {
-      "source": "wired",
-      "title": "Newegg Promo Code: 10% Off in January 2026",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg discount code and save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "published": "Tue, 27 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-27T06:20:52.193071"
-    },
-    {
-      "source": "wired",
-      "title": "Judge Delays Minnesota ICE Decision While Weighing Whether State Is Being Illegally Punished",
-      "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies, leaving ICE operations in place for now.",
-      "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
-      "published": "Mon, 26 Jan 2026 22:39:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:52.193103"
-    },
-    {
-      "source": "wired",
-      "title": "Palantir Defends Work With ICE to Staff Following Killing of Alex Pretti",
-      "summary": "“In my opinion ICE are the bad guys. I am not proud that the company I enjoy so much working for is part of this,” one worker wrote on Slack.",
-      "link": "https://www.wired.com/story/palantir-ice-dhs-alex-pretti-killing-workers-slack-minneapolis/",
-      "published": "Mon, 26 Jan 2026 22:09:16 +0000",
+      "title": "The Smart Light Bulbs Worth Buying in 2026: Cync, Meross, Tapo",
+      "summary": "If you’re new to smart home tech, light bulbs are an affordable, low-commitment place to start.",
+      "link": "https://www.wired.com/story/best-smart-light-bulbs/",
+      "published": "Tue, 27 Jan 2026 12:01:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-27T06:20:52.193141"
+      "crawled_at": "2026-01-27T12:25:51.723284"
     },
     {
       "source": "wired",
-      "title": "TikTok Data Center Outage Triggers Trust Crisis for New US Owners",
-      "summary": "The technical failure coincided with TikTok’s ownership transition, leading users to question whether videos criticizing ICE raids in Minnesota were being intentionally censored.",
-      "link": "https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/",
-      "published": "Mon, 26 Jan 2026 21:49:21 +0000",
+      "title": "8 Best Laptops (2026), WIRED-Tested and Approved",
+      "summary": "Our expert team of laptop testers stand behind these Windows laptops, MacBooks, Chromebooks, and Linux portables.",
+      "link": "https://www.wired.com/gallery/best-laptops/",
+      "published": "Tue, 27 Jan 2026 11:30:00 +0000",
       "keywords": [
-        "AI",
-        "Rust"
+        "Windows",
+        "Linux"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-27T12:25:51.723322"
+    },
+    {
+      "source": "wired",
+      "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
+      "summary": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
+      "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
+      "published": "Tue, 27 Jan 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-01-27T12:25:51.723364"
+    },
+    {
+      "source": "wired",
+      "title": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce",
+      "summary": "A whistleblower trapped inside a “pig butchering” scam compound gave WIRED a vast trove of its internal materials—including 4,200 pages of messages that lay out its operations in unprecedented detail.",
+      "link": "https://www.wired.com/story/the-red-bull-leaks/",
+      "published": "Tue, 27 Jan 2026 11:00:00 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-27T06:20:52.193174"
+      "crawled_at": "2026-01-27T12:25:51.723401"
+    },
+    {
+      "source": "wired",
+      "title": "Where Tech Leaders and Students Really Think AI Is Going",
+      "summary": "We asked tech CEOs, journalists, entertainers, students, and more about the promise and peril of artificial intelligence. Here’s what they said.",
+      "link": "https://www.wired.com/story/for-future-reference-ai-technology/",
+      "published": "Tue, 27 Jan 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-27T12:25:51.723430"
     }
   ]
 }
