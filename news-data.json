@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-01-29T06:33:34.897675",
+  "last_updated": "2026-01-29T12:31:55.565081",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Apple hires iPhone camera app Halide’s co-founder for its design team",
+      "summary": "Halide also released a public preview of its up coming app Halide Mark III.",
+      "link": "https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/",
+      "published": "Thu, 29 Jan 2026 12:30:27 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-29T12:31:49.669536"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Deezer makes it easier for rival platforms to take a stance against AI-generated music",
+      "summary": "Last year, Deezer introduced an AI detection tool that automatically tags fully AI-generated music for listeners and removes it from algorithmic and editorial recommendations. The company announced on Thursday that it&#8217;s now making the tool available to other streaming platforms in an effort to",
+      "link": "https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/",
+      "published": "Thu, 29 Jan 2026 08:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-29T12:31:49.669588"
+    },
     {
       "source": "techcrunch",
       "title": "Meta burned $19 billion on VR last year, and 2026 won’t be any better",
@@ -14,7 +42,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:33.797563"
+      "crawled_at": "2026-01-29T12:31:49.669624"
     },
     {
       "source": "techcrunch",
@@ -27,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.797596"
+      "crawled_at": "2026-01-29T12:31:49.669647"
     },
     {
       "source": "techcrunch",
@@ -41,35 +69,36 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-29T06:33:33.797629"
+      "crawled_at": "2026-01-29T12:31:49.669680"
     },
     {
-      "source": "techcrunch",
-      "title": "Microsoft gained $7.6B from OpenAI last quarter",
-      "summary": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
-      "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
-      "published": "Wed, 28 Jan 2026 22:47:24 +0000",
+      "source": "theverge",
+      "title": "There won’t be a Nothing Phone 4 this year",
+      "summary": "Nothing CEO Carl Pei confirmed the Phone 4 won't launch in 2026 in a new video on the brand's YouTube channel. \"There's no new flagship this year,\" Pei said when asked about phone plans for 2026, instead emphasizing that last year's Phone 3 remains the Nothing flagship. \"We're not just going to chur",
+      "link": "https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship",
+      "published": "2026-01-29T07:16:21-05:00",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Microsoft",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.797651"
+      "crawled_at": "2026-01-29T12:31:49.848756"
     },
     {
-      "source": "techcrunch",
-      "title": "Tesla is killing off the Model S and Model X",
-      "summary": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
-      "link": "https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/",
-      "published": "Wed, 28 Jan 2026 22:40:53 +0000",
+      "source": "theverge",
+      "title": "Google disables Take a Message on older Pixel phones amid audio leak bug",
+      "summary": "Google is disabling some Phone app features on older Pixel devices after acknowledging a bug that inadvertently leaked audio to callers. The issue has specifically been linked to the Take a Message feature released last year, which automatically answers and transcribes voicemails when you miss a cal",
+      "link": "https://www.theverge.com/news/869965/google-pixel-4-5-take-a-message-disabled-audio-leak",
+      "published": "2026-01-29T05:51:52-05:00",
       "keywords": [
-        "Tesla",
+        "AI",
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:33.797679"
+      "category": "AI/ML",
+      "crawled_at": "2026-01-29T12:31:49.848809"
     },
     {
       "source": "theverge",
@@ -81,7 +110,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-29T06:33:33.942572"
+      "crawled_at": "2026-01-29T12:31:49.848853"
     },
     {
       "source": "theverge",
@@ -96,12 +125,12 @@
         "Metaverse"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.942615"
+      "crawled_at": "2026-01-29T12:31:49.848885"
     },
     {
       "source": "theverge",
       "title": "Windows 11 has reached 1 billion users faster than Windows 10",
-      "summary": "Windows 11 now has 1 billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach 1 billion users faster than Windows 10 did nearly six years ago. \"Windows reached a big milestone, 1 billion Windows 11 users,\" said Microsoft CEO Satya Nadella ",
+      "summary": "Windows 11 now has one billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach one billion users faster than Windows 10 did nearly six years ago. \"Windows reached a big milestone, 1 billion Windows 11 users,\" said Microsoft CEO Satya Nade",
       "link": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
       "published": "2026-01-28T18:17:14-05:00",
       "keywords": [
@@ -112,102 +141,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.942647"
+      "crawled_at": "2026-01-29T12:31:49.848941"
     },
     {
-      "source": "theverge",
-      "title": "Tesla discontinuing Model S and Model X to make room for robots",
-      "summary": "Tesla will discontinue the Model S and Model X in the second quarter of 2026, Elon Musk said in an earnings call with investors today. No advance word was given about the cancellations, making it an abrupt ending for Tesla's two original flagship EVs. Musk said the reasons for cancelling the vehicle",
-      "link": "https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory",
-      "published": "2026-01-28T17:49:50-05:00",
+      "source": "hackernews",
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "summary": "Article URL: https://bayramovanar.substack.com/p/tech-market-is-fucked-up\nComments URL: https://news.ycombinator.com/item?id=46809069\nPoints: 12\n# Comments: 0",
+      "link": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "published": "Thu, 29 Jan 2026 12:03:13 +0000",
       "keywords": [
         "AI",
-        "Tesla",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.942678"
-    },
-    {
-      "source": "theverge",
-      "title": "The best iPhones",
-      "summary": "If you’ve been holding off on getting a new iPhone, now’s the perfect time to size up your options. Apple’s 2025 iPhone lineup is now widely available, which includes the iPhone 17, 17 Pro, 17 Pro Max, and a brand-new model, the ultra-thin iPhone Air. These new phones offer a number of new features ",
-      "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
-      "published": "2026-01-28T17:45:37-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:33.942715"
+      "crawled_at": "2026-01-29T12:31:55.293504"
     },
     {
       "source": "hackernews",
-      "title": "Microsoft's Azure Linux",
-      "summary": "Article URL: https://github.com/microsoft/azurelinux\nComments URL: https://news.ycombinator.com/item?id=46805841\nPoints: 41\n# Comments: 30",
-      "link": "https://github.com/microsoft/azurelinux",
-      "published": "Thu, 29 Jan 2026 04:33:10 +0000",
-      "keywords": [
-        "Azure",
-        "Microsoft",
-        "Linux",
-        "Git",
-        "GitHub"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-01-29T06:33:34.510781"
-    },
-    {
-      "source": "hackernews",
-      "title": "We can't send mail farther than 500 miles (2002)",
-      "summary": "See also https://ibiblio.org/harris/500milemail-faq.html\n\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 158\n# Comments: 18",
-      "link": "https://web.mit.edu/jemorris/humor/500-miles",
-      "published": "Thu, 29 Jan 2026 03:58:33 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:34.510816"
-    },
-    {
-      "source": "hackernews",
-      "title": "Questom (YC F25) is hiring an engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer\nComments URL: https://news.ycombinator.com/item?id=46805439\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
-      "published": "Thu, 29 Jan 2026 03:29:53 +0000",
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "summary": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 218\n# Comments: 149",
+      "link": "https://blog.ncase.me/on-depression/",
+      "published": "Thu, 29 Jan 2026 10:35:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.510853"
+      "crawled_at": "2026-01-29T12:31:55.293550"
     },
     {
       "source": "hackernews",
-      "title": "DECwindows Motif",
-      "summary": "Article URL: https://products.vmssoftware.com/decwindowsmotif\nComments URL: https://news.ycombinator.com/item?id=46805243\nPoints: 15\n# Comments: 2",
-      "link": "https://products.vmssoftware.com/decwindowsmotif",
-      "published": "Thu, 29 Jan 2026 03:04:40 +0000",
-      "keywords": [
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.510885"
-    },
-    {
-      "source": "hackernews",
-      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105\nComments URL: https://news.ycombinator.com/item?id=46804854\nPoints: 95\n# Comments: 6",
-      "link": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "published": "Thu, 29 Jan 2026 02:11:42 +0000",
+      "title": "OpenAI’s unit economics",
+      "summary": "Article URL: https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview\nComments URL: https://news.ycombinator.com/item?id=46807201\nPoints: 31\n# Comments: 35",
+      "link": "https://www.exponentialview.co/p/inside-openais-unit-economics-epoch-exponentialview",
+      "published": "Thu, 29 Jan 2026 08:11:51 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:34.510922"
+      "crawled_at": "2026-01-29T12:31:55.293589"
+    },
+    {
+      "source": "hackernews",
+      "title": "The only moat left is knowing things",
+      "summary": "Article URL: https://growtika.com/blog/authenticity-edge\nComments URL: https://news.ycombinator.com/item?id=46806959\nPoints: 43\n# Comments: 27",
+      "link": "https://growtika.com/blog/authenticity-edge",
+      "published": "Thu, 29 Jan 2026 07:32:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-29T12:31:55.293623"
+    },
+    {
+      "source": "hackernews",
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "summary": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 297\n# Comments: 43",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "published": "Thu, 29 Jan 2026 07:07:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-01-29T12:31:55.293679"
     },
     {
       "source": "arstechnica",
@@ -219,7 +217,7 @@
         "Tesla"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.759150"
+      "crawled_at": "2026-01-29T12:31:55.471377"
     },
     {
       "source": "arstechnica",
@@ -231,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.759184"
+      "crawled_at": "2026-01-29T12:31:55.471413"
     },
     {
       "source": "arstechnica",
@@ -244,7 +242,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-29T06:33:34.759212"
+      "crawled_at": "2026-01-29T12:31:55.471442"
     },
     {
       "source": "arstechnica",
@@ -257,7 +255,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:34.759241"
+      "crawled_at": "2026-01-29T12:31:55.471472"
     },
     {
       "source": "arstechnica",
@@ -269,7 +267,45 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.759270"
+      "crawled_at": "2026-01-29T12:31:55.471501"
+    },
+    {
+      "source": "wired",
+      "title": "Best Open Earbuds (2026): Bose, Soundcore, and More",
+      "summary": "These wireless earbuds with an “open” design let you zone out to your music while also keeping aware of your surroundings.",
+      "link": "https://www.wired.com/gallery/best-open-ear-buds/",
+      "published": "Thu, 29 Jan 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-29T12:31:55.564828"
+    },
+    {
+      "source": "wired",
+      "title": "6 Best Coffee Makers (2026): Drip Is Drippin’",
+      "summary": "The old-fashioned drip coffee maker has come a long way. Our favorite machines here can turn your barista into a stranger.",
+      "link": "https://www.wired.com/gallery/best-coffee-makers/",
+      "published": "Thu, 29 Jan 2026 11:31:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-01-29T12:31:55.564870"
+    },
+    {
+      "source": "wired",
+      "title": "This Chinese Startup Wants to Build a New Brain-Computer Interface—No Implant Required",
+      "summary": "Gestala is the latest company to emerge from China’s burgeoning brain-computer interface industry. It plans to access the brain with noninvasive ultrasound technology.",
+      "link": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
+      "published": "Thu, 29 Jan 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-01-29T12:31:55.564906"
     },
     {
       "source": "wired",
@@ -281,7 +317,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-29T06:33:34.897477"
+      "crawled_at": "2026-01-29T12:31:55.564948"
     },
     {
       "source": "wired",
@@ -293,44 +329,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-01-29T06:33:34.897517"
-    },
-    {
-      "source": "wired",
-      "title": "15% Off Dyson Promo Code | February 2026",
-      "summary": "Get 15% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "published": "Thu, 29 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-29T06:33:34.897540"
-    },
-    {
-      "source": "wired",
-      "title": "30% Off Samsung Promo Code | February 2026",
-      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "link": "https://www.wired.com/story/samsung-promo-codes/",
-      "published": "Thu, 29 Jan 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-01-29T06:33:34.897563"
-    },
-    {
-      "source": "wired",
-      "title": "Data Centers Are Driving a US Gas Boom",
-      "summary": "Gas projects in the US pipeline explicitly linked to data centers increased by almost 25 times over the past two years, according to new research from Global Energy Monitor.",
-      "link": "https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/",
-      "published": "Thu, 29 Jan 2026 00:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-29T06:33:34.897596"
+      "crawled_at": "2026-01-29T12:31:55.564976"
     }
   ]
 }
