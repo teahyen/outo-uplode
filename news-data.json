@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-01-31T18:18:00.529490",
+  "last_updated": "2026-02-01T01:17:49.440859",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Waymo reportedly raising a $16B funding round",
+      "summary": "Waymo is reportedly finalizing a new funding round that will value the robotaxi company at $110 billion.",
+      "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+      "published": "Sat, 31 Jan 2026 21:56:22 +0000",
+      "keywords": [
+        "AI",
+        "Funding"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T01:17:48.582658"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",
+      "summary": "SpaceX's filing claims these satellites will be “a first step towards becoming a Kardashev II-level civilization — one that can harness the Sun’s full power.\"",
+      "link": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
+      "published": "Sat, 31 Jan 2026 21:27:25 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T01:17:48.582704"
+    },
     {
       "source": "techcrunch",
       "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
@@ -13,7 +39,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:17:59.704289"
+      "crawled_at": "2026-02-01T01:17:48.582736"
     },
     {
       "source": "techcrunch",
@@ -26,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-01-31T18:17:59.704335"
+      "crawled_at": "2026-02-01T01:17:48.582774"
     },
     {
       "source": "techcrunch",
@@ -39,34 +65,50 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-01-31T18:17:59.704375"
+      "crawled_at": "2026-02-01T01:17:48.582812"
     },
     {
-      "source": "techcrunch",
-      "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
-      "summary": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he needs to know.",
-      "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
-      "published": "Sat, 31 Jan 2026 00:09:54 +0000",
+      "source": "theverge",
+      "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
+      "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might ",
+      "link": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "published": "2026-01-31T18:37:56-05:00",
       "keywords": [
         "AI",
-        "Startup",
+        "ChatGPT",
+        "GPT",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T01:17:48.668473"
+    },
+    {
+      "source": "theverge",
+      "title": "“No more Minnesota nice, Minneapolis will strike”",
+      "summary": "It was too cold to take off my mittens and check Google Maps so I put my faith in the trickle of bundled-up people ahead of me. All of them were carrying signs and wearing whistles around their necks on top of layers and layers of winter clothing. At first there were dozens of us [&#8230;]",
+      "link": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
+      "published": "2026-01-31T15:30:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:17:59.704412"
+      "crawled_at": "2026-02-01T01:17:48.668517"
     },
     {
-      "source": "techcrunch",
-      "title": "OnlyFans considering selling majority stake to Architect Capital",
-      "summary": "This isn't the first time in recent memory that OnlyFans has been in talks to sell off its business.",
-      "link": "https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/",
-      "published": "Fri, 30 Jan 2026 23:54:09 +0000",
+      "source": "theverge",
+      "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+      "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, SpaceX's strategy has been to request approval for unrealistically large numbers of satellites as a sta",
+      "link": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+      "published": "2026-01-31T14:38:36-05:00",
       "keywords": [
-        "API",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-31T18:17:59.704443"
+      "category": "Mobile",
+      "crawled_at": "2026-02-01T01:17:48.668567"
     },
     {
       "source": "theverge",
@@ -81,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:17:59.885020"
+      "crawled_at": "2026-02-01T01:17:48.668605"
     },
     {
       "source": "theverge",
@@ -91,110 +133,94 @@
       "published": "2026-01-31T09:00:00-05:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:17:59.885067"
+      "crawled_at": "2026-02-01T01:17:48.668646"
     },
     {
-      "source": "theverge",
-      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
-      "summary": "ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mode, and Gemini, too. Data suggests that's on the rise, heightening concerns about accuracy and misinf",
-      "link": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
-      "published": "2026-01-31T08:00:00-05:00",
+      "source": "hackernews",
+      "title": "Swift is a more convenient Rust",
+      "summary": "Article URL: https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust\nComments URL: https://news.ycombinator.com/item?id=46841374\nPoints: 171\n# Comments: 145",
+      "link": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
+      "published": "Sat, 31 Jan 2026 22:05:03 +0000",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-01T01:17:49.266521"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/\nComments URL: https://news.ycombinator.com/item?id=46841219\nPoints: 6\n# Comments: 0",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "published": "Sat, 31 Jan 2026 21:47:04 +0000",
+      "keywords": [
         "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:17:59.885106"
-    },
-    {
-      "source": "theverge",
-      "title": "A nice upgrade for Apple’s simplest gadget",
-      "summary": "Hi, friends! Welcome to Installer No. 114, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send Arc Raiders tips, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about wind turbines and phishing scams and obo",
-      "link": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
-      "published": "2026-01-31T08:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:17:59.885140"
-    },
-    {
-      "source": "theverge",
-      "title": "The latest Instax printer is a pricey but worthy upgrade",
-      "summary": "FujiFilm's Instax Mini Link 3 printer is a much-loved $100 accessory in my travel journal kit. I often tape a printed image next to my handwritten thoughts to preserve a moment in time. The prints produced by the instant film can, however, be soft and muddy - something the new $169.95 Instax Mini Li",
-      "link": "https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos",
-      "published": "2026-01-31T03:00:00-05:00",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-01-31T18:17:59.885178"
-    },
-    {
-      "source": "hackernews",
-      "title": "A lot of the Moltbook stuff is fake",
-      "summary": "Article URL: https://twitter.com/HumanHarlan/status/2017424292548673830\nComments URL: https://news.ycombinator.com/item?id=46838834\nPoints: 7\n# Comments: 2",
-      "link": "https://twitter.com/HumanHarlan/status/2017424292548673830",
-      "published": "Sat, 31 Jan 2026 17:47:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.309269"
-    },
-    {
-      "source": "hackernews",
-      "title": "Mobile carriers can get your GPS location",
-      "summary": "Article URL: https://an.dywa.ng/carrier-gnss.html\nComments URL: https://news.ycombinator.com/item?id=46838597\nPoints: 31\n# Comments: 13",
-      "link": "https://an.dywa.ng/carrier-gnss.html",
-      "published": "Sat, 31 Jan 2026 17:21:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-01-31T18:18:00.309303"
-    },
-    {
-      "source": "hackernews",
-      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
-      "summary": "Article URL: https://yle.fi/a/74-20207494\nComments URL: https://news.ycombinator.com/item?id=46838417\nPoints: 16\n# Comments: 5",
-      "link": "https://yle.fi/a/74-20207494",
-      "published": "Sat, 31 Jan 2026 17:06:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.309334"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple Platform Security (Jan 2026) [pdf]",
-      "summary": "Article URL: https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf\nComments URL: https://news.ycombinator.com/item?id=46837814\nPoints: 56\n# Comments: 25",
-      "link": "https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf",
-      "published": "Sat, 31 Jan 2026 16:04:03 +0000",
-      "keywords": [
         "Security",
-        "Apple",
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-01-31T18:18:00.309362"
+      "crawled_at": "2026-02-01T01:17:49.266562"
     },
     {
       "source": "hackernews",
-      "title": "Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer\nComments URL: https://news.ycombinator.com/item?id=46835834\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer",
-      "published": "Sat, 31 Jan 2026 12:00:22 +0000",
+      "title": "This Year in LLVM (2025)",
+      "summary": "Article URL: https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html\nComments URL: https://news.ycombinator.com/item?id=46841187\nPoints: 26\n# Comments: 0",
+      "link": "https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html",
+      "published": "Sat, 31 Jan 2026 21:44:23 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.309396"
+      "crawled_at": "2026-02-01T01:17:49.266596"
+    },
+    {
+      "source": "hackernews",
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "summary": "Article URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/\nComments URL: https://news.ycombinator.com/item?id=46840924\nPoints: 58\n# Comments: 27",
+      "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "published": "Sat, 31 Jan 2026 21:14:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T01:17:49.266625"
+    },
+    {
+      "source": "hackernews",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer\nComments URL: https://news.ycombinator.com/item?id=46840801\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer",
+      "published": "Sat, 31 Jan 2026 21:00:56 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T01:17:49.266651"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Research roundup: 6 cool stories we almost missed",
+      "summary": "A lip-syncing robot, Leonardo's DNA, and new evidence that humans, not glaciers, moved stones to Stonehenge",
+      "link": "https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/",
+      "published": "Sat, 31 Jan 2026 23:13:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T01:17:49.356625"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A cup of coffee for depression treatment has better results than microdosing",
+      "summary": "The effect of microdosing have been overstated, at least when it comes to depression.",
+      "link": "https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/",
+      "published": "Sat, 31 Jan 2026 12:19:01 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T01:17:49.356663"
     },
     {
       "source": "arstechnica",
@@ -204,7 +230,7 @@
       "published": "Fri, 30 Jan 2026 23:09:03 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.422384"
+      "crawled_at": "2026-02-01T01:17:49.356691"
     },
     {
       "source": "arstechnica",
@@ -214,7 +240,7 @@
       "published": "Fri, 30 Jan 2026 22:36:46 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.422415"
+      "crawled_at": "2026-02-01T01:17:49.356724"
     },
     {
       "source": "arstechnica",
@@ -226,31 +252,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.422442"
+      "crawled_at": "2026-02-01T01:17:49.356753"
     },
     {
-      "source": "arstechnica",
-      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-      "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
-      "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
-      "published": "Fri, 30 Jan 2026 22:12:26 +0000",
+      "source": "wired",
+      "title": "Onnit's Instant Melatonin Spray Keeps Bedtime Uncomplicated",
+      "summary": "Just spritz and sleep—no melatonin tablets or pills necessary.",
+      "link": "https://www.wired.com/story/onnit-instant-melatonin-spray-rave/",
+      "published": "Sat, 31 Jan 2026 19:56:12 +0000",
       "keywords": [
-        "AI"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:18:00.422463"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Here's why Blue Origin just ended its suborbital space tourism program",
-      "summary": "\"This program has laid the groundwork for our company's future success.\"",
-      "link": "https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/",
-      "published": "Fri, 30 Jan 2026 21:50:42 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:18:00.422482"
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T01:17:49.440654"
     },
     {
       "source": "wired",
@@ -262,7 +276,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.529307"
+      "crawled_at": "2026-02-01T01:17:49.440700"
     },
     {
       "source": "wired",
@@ -272,7 +286,7 @@
       "published": "Sat, 31 Jan 2026 12:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.529338"
+      "crawled_at": "2026-02-01T01:17:49.440728"
     },
     {
       "source": "wired",
@@ -285,7 +299,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.529365"
+      "crawled_at": "2026-02-01T01:17:49.440757"
     },
     {
       "source": "wired",
@@ -297,23 +311,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-01-31T18:18:00.529391"
-    },
-    {
-      "source": "wired",
-      "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
-      "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
-      "published": "Sat, 31 Jan 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Crypto",
-        "Security",
-        "Cybersecurity",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-01-31T18:18:00.529421"
+      "crawled_at": "2026-02-01T01:17:49.440785"
     }
   ]
 }
