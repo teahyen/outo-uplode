@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-01T06:36:48.041467",
+  "last_updated": "2026-02-01T12:25:37.170194",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Meet the new European unicorns of 2026",
+      "summary": "From Belgium to Ukraine, five fresh European unicorns were minted this January.",
+      "link": "https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/",
+      "published": "Sun, 01 Feb 2026 07:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T12:25:36.241044"
+    },
     {
       "source": "techcrunch",
       "title": "Waymo reportedly raising a $16B funding round",
@@ -13,7 +26,7 @@
         "Funding"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.201128"
+      "crawled_at": "2026-02-01T12:25:36.241088"
     },
     {
       "source": "techcrunch",
@@ -26,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.201173"
+      "crawled_at": "2026-02-01T12:25:36.241147"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.201205"
+      "crawled_at": "2026-02-01T12:25:36.241200"
     },
     {
       "source": "techcrunch",
@@ -52,20 +65,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-01T06:36:47.201242"
-    },
-    {
-      "source": "techcrunch",
-      "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
-      "summary": "Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a donor-advised fund.",
-      "link": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
-      "published": "Sat, 31 Jan 2026 01:23:12 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-02-01T06:36:47.201279"
+      "crawled_at": "2026-02-01T12:25:36.241261"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.324314"
+      "crawled_at": "2026-02-01T12:25:36.396283"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.324359"
+      "crawled_at": "2026-02-01T12:25:36.396333"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-01T06:36:47.324409"
+      "crawled_at": "2026-02-01T12:25:36.396383"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.324446"
+      "crawled_at": "2026-02-01T12:25:36.396443"
     },
     {
       "source": "theverge",
@@ -133,72 +133,69 @@
       "published": "2026-01-31T09:00:00-05:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.324487"
+      "crawled_at": "2026-02-01T12:25:36.396485"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
-      "summary": "We built tooling that connects LLMs directly to case law databases with citation verification to address hallucination in legal AI. Think of it as giving the model access to actual legal sources instead of relying on training data.\n\nComments URL: https://news.ycombinator.com/item?id=46843162\nPoints:",
-      "link": "https://openjuris.org/",
-      "published": "Sun, 01 Feb 2026 02:48:34 +0000",
+      "title": "How to Scale a System from 0 to 10M+ Users",
+      "summary": "Article URL: https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users\nComments URL: https://news.ycombinator.com/item?id=46845470\nPoints: 13\n# Comments: 2",
+      "link": "https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users",
+      "published": "Sun, 01 Feb 2026 11:35:32 +0000",
       "keywords": [
-        "AI",
-        "Database",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.720337"
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:36.986283"
     },
     {
       "source": "hackernews",
-      "title": "Apple-1 Computer Prototype Board #0 sold for $2.75M",
-      "summary": "Article URL: https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/\nComments URL: https://news.ycombinator.com/item?id=46843037\nPoints: 44\n# Comments: 21",
-      "link": "https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/",
-      "published": "Sun, 01 Feb 2026 02:25:26 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.720380"
-    },
-    {
-      "source": "hackernews",
-      "title": "List animals until failure",
-      "summary": "Article URL: https://rose.systems/animalist/\nComments URL: https://news.ycombinator.com/item?id=46842603\nPoints: 82\n# Comments: 50",
-      "link": "https://rose.systems/animalist/",
-      "published": "Sun, 01 Feb 2026 01:03:23 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-01T06:36:47.720406"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sparse File LRU Cache",
-      "summary": "Article URL: http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html\nComments URL: https://news.ycombinator.com/item?id=46842586\nPoints: 14\n# Comments: 1",
-      "link": "http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html",
-      "published": "Sun, 01 Feb 2026 01:00:07 +0000",
+      "title": "Amiga Unix (Amix)",
+      "summary": "Article URL: https://www.amigaunix.com/doku.php/home\nComments URL: https://news.ycombinator.com/item?id=46845244\nPoints: 5\n# Comments: 0",
+      "link": "https://www.amigaunix.com/doku.php/home",
+      "published": "Sun, 01 Feb 2026 10:57:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.720438"
+      "crawled_at": "2026-02-01T12:25:36.986321"
     },
     {
       "source": "hackernews",
-      "title": "Cells use 'bioelectricity' to coordinate and make group decisions",
-      "summary": "Article URL: https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/\nComments URL: https://news.ycombinator.com/item?id=46842178\nPoints: 32\n# Comments: 7",
-      "link": "https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/",
-      "published": "Sun, 01 Feb 2026 00:00:11 +0000",
+      "title": "FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap",
+      "summary": "Article URL: https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/\nComments URL: https://news.ycombinator.com/item?id=46845103\nPoints: 4\n# Comments: 2",
+      "link": "https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/",
+      "published": "Sun, 01 Feb 2026 10:30:41 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.720476"
+      "crawled_at": "2026-02-01T12:25:36.986373"
+    },
+    {
+      "source": "hackernews",
+      "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
+      "summary": "Article URL: https://netbird.io/\nComments URL: https://news.ycombinator.com/item?id=46844870\nPoints: 227\n# Comments: 63",
+      "link": "https://netbird.io/",
+      "published": "Sun, 01 Feb 2026 09:44:01 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T12:25:36.986400"
+    },
+    {
+      "source": "hackernews",
+      "title": "What I learned building an opinionated and minimal coding agent",
+      "summary": "Article URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/\nComments URL: https://news.ycombinator.com/item?id=46844822\nPoints: 79\n# Comments: 24",
+      "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+      "published": "Sun, 01 Feb 2026 09:33:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:36.986472"
     },
     {
       "source": "arstechnica",
@@ -210,7 +207,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.916438"
+      "crawled_at": "2026-02-01T12:25:37.079276"
     },
     {
       "source": "arstechnica",
@@ -220,7 +217,7 @@
       "published": "Sat, 31 Jan 2026 12:19:01 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.916474"
+      "crawled_at": "2026-02-01T12:25:37.079312"
     },
     {
       "source": "arstechnica",
@@ -230,7 +227,7 @@
       "published": "Fri, 30 Jan 2026 23:09:03 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.916502"
+      "crawled_at": "2026-02-01T12:25:37.079340"
     },
     {
       "source": "arstechnica",
@@ -240,7 +237,7 @@
       "published": "Fri, 30 Jan 2026 22:36:46 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.916530"
+      "crawled_at": "2026-02-01T12:25:37.079368"
     },
     {
       "source": "arstechnica",
@@ -252,62 +249,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-01T06:36:47.916558"
+      "crawled_at": "2026-02-01T12:25:37.079395"
     },
     {
       "source": "wired",
-      "title": "50% Off Home Depot Promo Codes | February 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this February.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Sun, 01 Feb 2026 06:29:00 +0000",
+      "title": "The Best Date-Night Boxes of 2026, Tested With My Hinge Dates",
+      "summary": "I tested 10 popular date-night boxes with people I met on Hinge. From writing love notes to trying out sex swings, these kits fulfilled their promise to keep dates interesting.",
+      "link": "https://www.wired.com/gallery/best-date-night-boxes/",
+      "published": "Sun, 01 Feb 2026 12:07:00 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:37.169983"
+    },
+    {
+      "source": "wired",
+      "title": "How to Use Physics to Escape an Ice Bowl",
+      "summary": "Here are three smart tricks, based on an understanding of frictional forces, to beat a slippery slope.",
+      "link": "https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/",
+      "published": "Sun, 01 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-01T06:36:48.041280"
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:37.170016"
     },
     {
       "source": "wired",
-      "title": "Home Chef Promo Code: 50% Off",
-      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "link": "https://www.wired.com/story/home-chef-promo-code/",
-      "published": "Sun, 01 Feb 2026 06:20:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-01T06:36:48.041307"
-    },
-    {
-      "source": "wired",
-      "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-      "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
-      "link": "https://www.wired.com/story/vitamix-promo-code/",
-      "published": "Sun, 01 Feb 2026 06:14:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-01T06:36:48.041332"
-    },
-    {
-      "source": "wired",
-      "title": "Vimeo Promo Codes and Deals: Save Up to 40%",
-      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-      "link": "https://www.wired.com/story/vimeo-promo-code/",
-      "published": "Sun, 01 Feb 2026 06:13:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-01T06:36:48.041354"
-    },
-    {
-      "source": "wired",
-      "title": "Newegg Promo Code: 10% Off in February 2026",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg discount code and save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "published": "Sun, 01 Feb 2026 06:10:00 +0000",
+      "title": "Best Valentine’s Day Gifts (2026): Legos, Karaoke, Digital Frames, and More",
+      "summary": "The holiday of romance is just around the corner. Don’t give something boring.",
+      "link": "https://www.wired.com/story/best-valentines-day-gifts-2026/",
+      "published": "Sun, 01 Feb 2026 11:38:00 +0000",
       "keywords": [
-        "AR",
-        "Gaming"
+        "Go",
+        "Git",
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-01T06:36:48.041388"
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:37.170057"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Chocolate Boxes of 2026 for Valentine’s Delivery",
+      "summary": "We tasted dozens of chocolates to find the best-tasting delivery boxes for your true love, self-love, or your lovely mother.",
+      "link": "https://www.wired.com/story/best-chocolate-boxes-delivery-2026/",
+      "published": "Sun, 01 Feb 2026 11:02:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-01T12:25:37.170097"
+    },
+    {
+      "source": "wired",
+      "title": "The Information Networks That Connect Venezuelans in Uncertain Times",
+      "summary": "The people of Venezuela have spent years learning resilience in the face of censorship, disinformation, and repression. They now rely on those tools more than ever.",
+      "link": "https://www.wired.com/story/venezuela-information-networks-maduro-censorship/",
+      "published": "Sun, 01 Feb 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-01T12:25:37.170124"
     }
   ]
 }
