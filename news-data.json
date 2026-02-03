@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T01:10:33.802732",
+  "last_updated": "2026-02-03T06:36:58.436370",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-02-03T01:10:31.980193"
+      "crawled_at": "2026-02-03T06:36:57.720806"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:31.980230"
+      "crawled_at": "2026-02-03T06:36:57.720840"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:31.980267"
+      "crawled_at": "2026-02-03T06:36:57.720877"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:31.980312"
+      "crawled_at": "2026-02-03T06:36:57.720922"
     },
     {
       "source": "techcrunch",
@@ -66,7 +66,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:31.980335"
+      "crawled_at": "2026-02-03T06:36:57.720945"
     },
     {
       "source": "theverge",
@@ -78,7 +78,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:32.108131"
+      "crawled_at": "2026-02-03T06:36:57.842750"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:32.108187"
+      "crawled_at": "2026-02-03T06:36:57.842804"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:32.108232"
+      "crawled_at": "2026-02-03T06:36:57.842847"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:32.108266"
+      "crawled_at": "2026-02-03T06:36:57.842881"
     },
     {
       "source": "theverge",
@@ -134,25 +134,64 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:32.108305"
+      "crawled_at": "2026-02-03T06:36:57.842920"
     },
     {
       "source": "hackernews",
-      "title": "Al is killing programming and the Python community",
-      "summary": "Article URL: https://www.reddit.com/r/Python/s/bIYkLZu9Se\nComments URL: https://news.ycombinator.com/item?id=46864602\nPoints: 7\n# Comments: 0",
-      "link": "https://www.reddit.com/r/Python/s/bIYkLZu9Se",
-      "published": "Tue, 03 Feb 2026 00:39:48 +0000",
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "summary": "Article URL: https://krzysztofjankowski.com/floppinux/floppinux-2025.html\nComments URL: https://news.ycombinator.com/item?id=46866544\nPoints: 49\n# Comments: 22",
+      "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "published": "Tue, 03 Feb 2026 04:33:25 +0000",
       "keywords": [
-        "Python",
+        "Linux",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-03T01:10:33.569928"
+      "category": "Tech News",
+      "crawled_at": "2026-02-03T06:36:58.077948"
     },
     {
       "source": "hackernews",
-      "title": "The Hot Mess of AI",
-      "summary": "Article URL: https://alignment.anthropic.com/2026/hot-mess-of-ai/\nComments URL: https://news.ycombinator.com/item?id=46864498\nPoints: 16\n# Comments: 4",
+      "title": "Coding assistants are solving the wrong problem",
+      "summary": "Article URL: https://www.bicameral-ai.com/blog/introducing-bicameral\nComments URL: https://news.ycombinator.com/item?id=46866481\nPoints: 32\n# Comments: 5",
+      "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+      "published": "Tue, 03 Feb 2026 04:25:35 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-03T06:36:58.077984"
+    },
+    {
+      "source": "hackernews",
+      "title": "Frog 'saunas' could help endangered species beat a deadly fungus (2024)",
+      "summary": "Article URL: https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus\nComments URL: https://news.ycombinator.com/item?id=46866385\nPoints: 5\n# Comments: 1",
+      "link": "https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus",
+      "published": "Tue, 03 Feb 2026 04:12:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-03T06:36:58.078026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Anyone else struggle with how to learn coding in the AI era?",
+      "summary": "I'm someone who got into building/programming in early 2025, when vibe coding tools became more usable. Since then, I'd like to think that I have developed a lot as a programmer, but I still have this deep sense of imposter syndrome / worry that AI is too much of a crutch and I'm not really learning",
+      "link": "https://news.ycombinator.com/item?id=46866165",
+      "published": "Tue, 03 Feb 2026 03:39:12 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-03T06:36:58.078100"
+    },
+    {
+      "source": "hackernews",
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "summary": "Article URL: https://alignment.anthropic.com/2026/hot-mess-of-ai/\nComments URL: https://news.ycombinator.com/item?id=46864498\nPoints: 156\n# Comments: 41",
       "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
       "published": "Tue, 03 Feb 2026 00:28:06 +0000",
       "keywords": [
@@ -161,45 +200,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.569962"
-    },
-    {
-      "source": "hackernews",
-      "title": "Firefox Getting New Controls to Turn Off AI Features",
-      "summary": "Article URL: https://www.macrumors.com/2026/02/02/firefox-ai-toggle/\nComments URL: https://news.ycombinator.com/item?id=46864120\nPoints: 41\n# Comments: 5",
-      "link": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
-      "published": "Mon, 02 Feb 2026 23:54:02 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.569991"
-    },
-    {
-      "source": "hackernews",
-      "title": "Julia",
-      "summary": "Article URL: https://borretti.me/fiction/julia\nComments URL: https://news.ycombinator.com/item?id=46863357\nPoints: 13\n# Comments: 0",
-      "link": "https://borretti.me/fiction/julia",
-      "published": "Mon, 02 Feb 2026 22:57:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:33.570036"
-    },
-    {
-      "source": "hackernews",
-      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
-      "summary": "Article URL: https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/\nComments URL: https://news.ycombinator.com/item?id=46863162\nPoints: 162\n# Comments: 139",
-      "link": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
-      "published": "Mon, 02 Feb 2026 22:48:10 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.570067"
+      "crawled_at": "2026-02-03T06:36:58.078129"
     },
     {
       "source": "arstechnica",
@@ -213,7 +214,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:33.697550"
+      "crawled_at": "2026-02-03T06:36:58.236626"
     },
     {
       "source": "arstechnica",
@@ -225,7 +226,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.697579"
+      "crawled_at": "2026-02-03T06:36:58.236655"
     },
     {
       "source": "arstechnica",
@@ -238,7 +239,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.697603"
+      "crawled_at": "2026-02-03T06:36:58.236678"
     },
     {
       "source": "arstechnica",
@@ -251,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.697625"
+      "crawled_at": "2026-02-03T06:36:58.236700"
     },
     {
       "source": "arstechnica",
@@ -264,11 +265,11 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:33.697651"
+      "crawled_at": "2026-02-03T06:36:58.236726"
     },
     {
       "source": "wired",
-      "title": "Epstein Files Reveal Peter Thiel's Elaborate Dietary Restrictions",
+      "title": "Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions",
       "summary": "The latest batch of Jeffrey Epstein files shed light on the convicted sex offender’s ties to Silicon Valley—and Peter Thiel’s exacting approach to food.",
       "link": "https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/",
       "published": "Tue, 03 Feb 2026 00:24:22 +0000",
@@ -277,7 +278,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-03T01:10:33.802501"
+      "crawled_at": "2026-02-03T06:36:58.436126"
     },
     {
       "source": "wired",
@@ -291,7 +292,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.802542"
+      "crawled_at": "2026-02-03T06:36:58.436167"
     },
     {
       "source": "wired",
@@ -305,7 +306,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-03T01:10:33.802576"
+      "crawled_at": "2026-02-03T06:36:58.436216"
     },
     {
       "source": "wired",
@@ -317,7 +318,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:33.802616"
+      "crawled_at": "2026-02-03T06:36:58.436257"
     },
     {
       "source": "wired",
@@ -329,7 +330,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-03T01:10:33.802650"
+      "crawled_at": "2026-02-03T06:36:58.436291"
     }
   ]
 }
