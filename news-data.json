@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T01:05:34.346796",
+  "last_updated": "2026-02-04T06:37:22.396026",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-02-04T01:05:33.654801"
+      "crawled_at": "2026-02-04T06:37:21.776372"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-02-04T01:05:33.654849"
+      "crawled_at": "2026-02-04T06:37:21.776414"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
       "published": "Tue, 03 Feb 2026 22:17:45 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:33.654892"
+      "crawled_at": "2026-02-04T06:37:21.776456"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-02-04T01:05:33.654924"
+      "crawled_at": "2026-02-04T06:37:21.776486"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,22 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-02-04T01:05:33.654954"
+      "crawled_at": "2026-02-04T06:37:21.776516"
+    },
+    {
+      "source": "theverge",
+      "title": "Adobe actually won’t discontinue Animate",
+      "summary": "Adobe is no longer planning to discontinue Adobe Animate on March 1st. In an FAQ, the company now says that Animate will now be in maintenance mode and that it has \"no plans to&#8239;discontinue or remove access\" to the app. Animate will still receive \"ongoing security and bug fixes\" and will still ",
+      "link": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
+      "published": "2026-02-03T20:28:47-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-04T06:37:21.868633"
     },
     {
       "source": "theverge",
@@ -76,7 +91,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-04T01:05:33.773158"
+      "crawled_at": "2026-02-04T06:37:21.868691"
     },
     {
       "source": "theverge",
@@ -89,7 +104,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-02-04T01:05:33.773215"
+      "crawled_at": "2026-02-04T06:37:21.868739"
     },
     {
       "source": "theverge",
@@ -105,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:33.773252"
+      "crawled_at": "2026-02-04T06:37:21.868773"
     },
     {
       "source": "theverge",
@@ -120,66 +135,36 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:33.773286"
-    },
-    {
-      "source": "theverge",
-      "title": "Borderlands 4 for Switch 2 is on ‘pause’",
-      "summary": "Development on the Nintendo Switch 2 version of Borderlands 4 is on \"pause,\" according to a statement from a Take-Two spokesperson given to Variety. \"We made the difficult decision to pause development on that SKU,\" Take-Two spokesperson Alan Lewis said in the statement published by Variety. \"Our fo",
-      "link": "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause",
-      "published": "2026-02-03T16:56:13-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:33.773328"
+      "crawled_at": "2026-02-04T06:37:21.868806"
     },
     {
       "source": "hackernews",
-      "title": "Illinois joins WHO global outbreak network after U.S. withdraws",
-      "summary": "Article URL: https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/\nComments URL: https://news.ycombinator.com/item?id=46879447\nPoints: 54\n# Comments: 12",
-      "link": "https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/",
-      "published": "Wed, 04 Feb 2026 00:15:52 +0000",
-      "keywords": [
-        "AWS",
-        "API",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-04T01:05:34.176102"
-    },
-    {
-      "source": "hackernews",
-      "title": "GPT-5.2 and GPT-5.2-Codex are now 40% faster",
-      "summary": "Article URL: https://twitter.com/OpenAIDevs/status/2018838297221726482\nComments URL: https://news.ycombinator.com/item?id=46879372\nPoints: 15\n# Comments: 3",
-      "link": "https://twitter.com/OpenAIDevs/status/2018838297221726482",
-      "published": "Wed, 04 Feb 2026 00:07:00 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.176141"
-    },
-    {
-      "source": "hackernews",
-      "title": "TikTok System Design:(Step-by-Step Guide)",
-      "summary": "Article URL: https://grokkingthesystemdesign.com/guides/tiktok-system-design/\nComments URL: https://news.ycombinator.com/item?id=46878979\nPoints: 7\n# Comments: 2",
-      "link": "https://grokkingthesystemdesign.com/guides/tiktok-system-design/",
-      "published": "Tue, 03 Feb 2026 23:33:53 +0000",
+      "title": "Petition for Recognition of Work on Open-Source as Volunteering in Germany",
+      "summary": "Article URL: https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany\nComments URL: https://news.ycombinator.com/item?id=46881568\nPoints: 53\n# Comments: 4",
+      "link": "https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany",
+      "published": "Wed, 04 Feb 2026 04:46:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.176176"
+      "crawled_at": "2026-02-04T06:37:22.082408"
+    },
+    {
+      "source": "hackernews",
+      "title": "I miss thinking hard",
+      "summary": "Article URL: https://www.jernesto.com/articles/thinking_hard\nComments URL: https://news.ycombinator.com/item?id=46881264\nPoints: 220\n# Comments: 122",
+      "link": "https://www.jernesto.com/articles/thinking_hard",
+      "published": "Wed, 04 Feb 2026 03:54:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-04T06:37:22.082472"
     },
     {
       "source": "hackernews",
       "title": "Notepad++ supply chain attack breakdown",
-      "summary": "Article URL: https://securelist.com/notepad-supply-chain-attack/118708/\nComments URL: https://news.ycombinator.com/item?id=46878338\nPoints: 144\n# Comments: 65",
+      "summary": "Article URL: https://securelist.com/notepad-supply-chain-attack/118708/\nComments URL: https://news.ycombinator.com/item?id=46878338\nPoints: 244\n# Comments: 110",
       "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
       "published": "Tue, 03 Feb 2026 22:35:27 +0000",
       "keywords": [
@@ -187,19 +172,32 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.176203"
+      "crawled_at": "2026-02-04T06:37:22.082519"
     },
     {
       "source": "hackernews",
       "title": "FlashAttention-T: Towards Tensorized Attention",
-      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3774934.3786425\nComments URL: https://news.ycombinator.com/item?id=46877403\nPoints: 64\n# Comments: 32",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3774934.3786425\nComments URL: https://news.ycombinator.com/item?id=46877403\nPoints: 88\n# Comments: 48",
       "link": "https://dl.acm.org/doi/10.1145/3774934.3786425",
       "published": "Tue, 03 Feb 2026 21:15:48 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.176237"
+      "crawled_at": "2026-02-04T06:37:22.082574"
+    },
+    {
+      "source": "hackernews",
+      "title": "Data centers in space makes no sense",
+      "summary": "Article URL: https://civai.org/blog/space-data-centers\nComments URL: https://news.ycombinator.com/item?id=46876105\nPoints: 438\n# Comments: 549",
+      "link": "https://civai.org/blog/space-data-centers",
+      "published": "Tue, 03 Feb 2026 19:37:30 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-04T06:37:22.082616"
     },
     {
       "source": "arstechnica",
@@ -211,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.260964"
+      "crawled_at": "2026-02-04T06:37:22.226261"
     },
     {
       "source": "arstechnica",
@@ -225,7 +223,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.260996"
+      "crawled_at": "2026-02-04T06:37:22.226290"
     },
     {
       "source": "arstechnica",
@@ -239,7 +237,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.261020"
+      "crawled_at": "2026-02-04T06:37:22.226313"
     },
     {
       "source": "arstechnica",
@@ -251,7 +249,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.261046"
+      "crawled_at": "2026-02-04T06:37:22.226340"
     },
     {
       "source": "arstechnica",
@@ -264,7 +262,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.261069"
+      "crawled_at": "2026-02-04T06:37:22.226361"
     },
     {
       "source": "wired",
@@ -276,7 +274,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.346494"
+      "crawled_at": "2026-02-04T06:37:22.395778"
     },
     {
       "source": "wired",
@@ -289,7 +287,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-04T01:05:34.346536"
+      "crawled_at": "2026-02-04T06:37:22.395817"
     },
     {
       "source": "wired",
@@ -301,7 +299,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.346576"
+      "crawled_at": "2026-02-04T06:37:22.395873"
     },
     {
       "source": "wired",
@@ -311,7 +309,7 @@
       "published": "Tue, 03 Feb 2026 19:05:05 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-02-04T01:05:34.346610"
+      "crawled_at": "2026-02-04T06:37:22.395907"
     },
     {
       "source": "wired",
@@ -324,7 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-04T01:05:34.346652"
+      "crawled_at": "2026-02-04T06:37:22.395950"
     }
   ]
 }
