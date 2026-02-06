@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T06:39:43.880543",
+  "last_updated": "2026-02-06T12:34:53.106771",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.323894"
+      "crawled_at": "2026-02-06T12:34:52.378658"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.323938"
+      "crawled_at": "2026-02-06T12:34:52.378699"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.323964"
+      "crawled_at": "2026-02-06T12:34:52.378725"
     },
     {
       "source": "techcrunch",
@@ -59,7 +59,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.323997"
+      "crawled_at": "2026-02-06T12:34:52.378757"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,23 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.324044"
+      "crawled_at": "2026-02-06T12:34:52.378800"
+    },
+    {
+      "source": "theverge",
+      "title": "Google is expanding AirDrop support to more Android devices ‘very soon’",
+      "summary": "After introducing AirDrop support to Pixel 10 devices last year, Google is now set to expand it to phones made by other Android partners. Eric Kay, vice president of engineering for Android, confirmed in a press briefing attended by Android Authority that \"a lot more\" Android devices will be able to",
+      "link": "https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion",
+      "published": "2026-02-06T05:57:08-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-06T12:34:52.460604"
     },
     {
       "source": "theverge",
@@ -86,7 +102,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.423367"
+      "crawled_at": "2026-02-06T12:34:52.460668"
     },
     {
       "source": "theverge",
@@ -99,7 +115,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.423411"
+      "crawled_at": "2026-02-06T12:34:52.460706"
     },
     {
       "source": "theverge",
@@ -113,7 +129,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-06T06:39:43.423462"
+      "crawled_at": "2026-02-06T12:34:52.460750"
     },
     {
       "source": "theverge",
@@ -125,86 +141,83 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.423522"
+      "crawled_at": "2026-02-06T12:34:52.460804"
     },
     {
-      "source": "theverge",
-      "title": "The price of Bitcoin drops below $65,000",
-      "summary": "On Thursday, Bitcoin's value fell over 10 percent in a single day, dropping to around $64,000, the lowest it has been since the 2024 Presidential election, as CNBC reports. After crossing $100,000 in November 2024 and peaking at over $122,000 in October 2025, the cryptocurrency has been in a steady ",
-      "link": "https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency",
-      "published": "2026-02-05T15:38:01-05:00",
+      "source": "hackernews",
+      "title": "US Immigration on the Easiest Setting",
+      "summary": "Article URL: https://pluralistic.net/2026/02/06/doge-ball/#n-600\nComments URL: https://news.ycombinator.com/item?id=46911417\nPoints: 43\n# Comments: 22",
+      "link": "https://pluralistic.net/2026/02/06/doge-ball/#n-600",
+      "published": "Fri, 06 Feb 2026 11:03:33 +0000",
       "keywords": [
-        "Crypto",
         "AR"
       ],
-      "category": "Blockchain",
-      "crawled_at": "2026-02-06T06:39:43.423562"
+      "category": "Tech News",
+      "crawled_at": "2026-02-06T12:34:52.902425"
+    },
+    {
+      "source": "hackernews",
+      "title": "Invention of DNA \"Page Numbers\" Opens Up Possibilities for the Bioeconomy",
+      "summary": "Article URL: https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang\nComments URL: https://news.ycombinator.com/item?id=46911170\nPoints: 28\n# Comments: 13",
+      "link": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
+      "published": "Fri, 06 Feb 2026 10:26:16 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-06T12:34:52.902464"
+    },
+    {
+      "source": "hackernews",
+      "title": "A new bill in New York would require disclaimers on AI-generated news content",
+      "summary": "Article URL: https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/\nComments URL: https://news.ycombinator.com/item?id=46910963\nPoints: 140\n# Comments: 59",
+      "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+      "published": "Fri, 06 Feb 2026 09:56:55 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-06T12:34:52.902497"
     },
     {
       "source": "hackernews",
       "title": "Things Unix can do atomically (2010)",
-      "summary": "Article URL: https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html\nComments URL: https://news.ycombinator.com/item?id=46909468\nPoints: 31\n# Comments: 2",
+      "summary": "Article URL: https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html\nComments URL: https://news.ycombinator.com/item?id=46909468\nPoints: 141\n# Comments: 49",
       "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
       "published": "Fri, 06 Feb 2026 05:29:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.636797"
+      "crawled_at": "2026-02-06T12:34:52.902531"
     },
     {
       "source": "hackernews",
       "title": "Systems Thinking",
-      "summary": "Article URL: http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html\nComments URL: https://news.ycombinator.com/item?id=46909439\nPoints: 27\n# Comments: 12",
+      "summary": "Article URL: http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html\nComments URL: https://news.ycombinator.com/item?id=46909439\nPoints: 130\n# Comments: 59",
       "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
       "published": "Fri, 06 Feb 2026 05:24:36 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.636841"
+      "crawled_at": "2026-02-06T12:34:52.902564"
     },
     {
-      "source": "hackernews",
-      "title": "Generative Pen-Trained Transformer",
-      "summary": "Article URL: https://theodore.net/projects/Polargraph/\nComments URL: https://news.ycombinator.com/item?id=46909122\nPoints: 5\n# Comments: 0",
-      "link": "https://theodore.net/projects/Polargraph/",
-      "published": "Fri, 06 Feb 2026 04:28:08 +0000",
+      "source": "arstechnica",
+      "title": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
+      "summary": "Production source says it takes \"weeks\" to produce just minutes of usable video.",
+      "link": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
+      "published": "Fri, 06 Feb 2026 11:30:17 +0000",
       "keywords": [
         "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.636868"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-      "summary": "I'm a software engineer who keeps getting pulled into DevOps no matter how hard I try to escape it. I recently moved into a Lead DevOps Engineer role writing tooling to automate a lot of the pain away. On my own time outside of work, I built Artifact Keeper — a self-hosted artifact registry that sup",
-      "link": "https://github.com/artifact-keeper",
-      "published": "Fri, 06 Feb 2026 04:12:59 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "TypeScript",
-        "Rust",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.637139"
-    },
-    {
-      "source": "hackernews",
-      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=QLb3nhIy2Lc\nComments URL: https://news.ycombinator.com/item?id=46908700\nPoints: 11\n# Comments: 0",
-      "link": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-      "published": "Fri, 06 Feb 2026 03:25:51 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.637169"
+      "crawled_at": "2026-02-06T12:34:53.012152"
     },
     {
       "source": "arstechnica",
@@ -219,7 +232,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.732083"
+      "crawled_at": "2026-02-06T12:34:53.012183"
     },
     {
       "source": "arstechnica",
@@ -231,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.732118"
+      "crawled_at": "2026-02-06T12:34:53.012210"
     },
     {
       "source": "arstechnica",
@@ -245,7 +258,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.732142"
+      "crawled_at": "2026-02-06T12:34:53.012232"
     },
     {
       "source": "arstechnica",
@@ -257,77 +270,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.732170"
+      "crawled_at": "2026-02-06T12:34:53.012259"
     },
     {
-      "source": "arstechnica",
-      "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
-      "summary": "Microsoft won’t explain why Bing blocked 1.5 million Neocities websites.",
-      "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
-      "published": "Thu, 05 Feb 2026 19:32:28 +0000",
+      "source": "wired",
+      "title": "Waymo Hits a Rough Patch In Washington, DC",
+      "summary": "The company’s robotaxi service is supposed to launch in the US capital this year. But while service rollouts have been relatively smooth in other cities, DC’s rules have made things tricky.",
+      "link": "https://www.wired.com/story/waymo-hits-a-rough-patch-in-washington-dc/",
+      "published": "Fri, 06 Feb 2026 12:00:00 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-06T12:34:53.106529"
+    },
+    {
+      "source": "wired",
+      "title": "Why the Artemis II Crew Stays in Quarantine Before Their Journey to Moon",
+      "summary": "For two weeks, medical experts monitor the astronauts as they remain indoors, live in isolation, and avoid physical touch, all to prevent harmful microbes from traveling to space.",
+      "link": "https://www.wired.com/story/why-the-artemis-ii-crew-stays-in-quarantine-before-their-journey-to-moon/",
+      "published": "Fri, 06 Feb 2026 11:30:00 +0000",
       "keywords": [
         "AI",
-        "Microsoft"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-06T06:39:43.732199"
+      "crawled_at": "2026-02-06T12:34:53.106563"
     },
     {
       "source": "wired",
-      "title": "Two Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years",
-      "summary": "A team of geologists found for the first time evidence linking regions of low seismic velocity and the shape of the Earth’s magnetic field.",
-      "link": "https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/",
-      "published": "Thu, 05 Feb 2026 23:58:25 +0000",
+      "title": "Why a Dehumidifier Is One of My Favorite Gadgets",
+      "summary": "A good dehumidifier can banish damp and mold, and help you keep a comfortable temperature in your home.",
+      "link": "https://www.wired.com/story/you-should-buy-a-dehumidifier/",
+      "published": "Fri, 06 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-06T12:34:53.106592"
+    },
+    {
+      "source": "wired",
+      "title": "Figure Skaters at the 2026 Winter Olympics Are Pushing the Limits of What’s Possible",
+      "summary": "For years, quad axel jumps seemed impossible. Then Ilia Malinin landed one in 2022. As he heads to the Milano Cortina Games, everyone wants to know what’s next.",
+      "link": "https://www.wired.com/story/figure-skating-2026-winter-olympics-pushing-the-limits/",
+      "published": "Fri, 06 Feb 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.880262"
+      "crawled_at": "2026-02-06T12:34:53.106633"
     },
     {
       "source": "wired",
-      "title": "Loyalty Is Dead in Silicon Valley",
-      "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
-      "link": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
-      "published": "Thu, 05 Feb 2026 21:33:11 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.880298"
-    },
-    {
-      "source": "wired",
-      "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
-      "summary": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
-      "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
-      "published": "Thu, 05 Feb 2026 20:28:34 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-06T06:39:43.880345"
-    },
-    {
-      "source": "wired",
-      "title": "9 Great Deals on WIRED-Approved Valentine’s Day Gifts (2026)",
-      "summary": "These swoon-worthy deals on WIRED-tested date-night boxes, sex toys, and other gadgets will make your Valentine’s Day extra sweet.",
-      "link": "https://www.wired.com/story/valentines-day-deals-2026/",
-      "published": "Thu, 05 Feb 2026 19:00:52 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-02-06T06:39:43.880384"
-    },
-    {
-      "source": "wired",
-      "title": "The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow",
-      "summary": "A recent report found that carbon emissions caused by the Milano Cortina Olympics could lead to the loss of 5.5 square kilometers of snowpack and millions of metric tons of glacial ice.",
-      "link": "https://www.wired.com/story/winter-olympics-2026-impacts-snow/",
-      "published": "Thu, 05 Feb 2026 18:43:15 +0000",
+      "title": "Public Health Workers Are Quitting Over Assignments to Guantánamo",
+      "summary": "Doctors, nurses, and other officers are increasingly being deployed to ICE detention centers. Some have resigned in protest, while others offer a rare look into bleak conditions.",
+      "link": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
+      "published": "Fri, 06 Feb 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-06T06:39:43.880428"
+      "crawled_at": "2026-02-06T12:34:53.106690"
     }
   ]
 }
