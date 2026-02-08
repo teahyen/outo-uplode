@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-02-07T18:19:57.883246",
+  "last_updated": "2026-02-08T01:27:12.304135",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
+      "summary": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
+      "link": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
+      "published": "Sun, 08 Feb 2026 01:26:49 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-08T01:27:11.615391"
+    },
+    {
+      "source": "techcrunch",
+      "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
+      "summary": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
+      "link": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
+      "published": "Sat, 07 Feb 2026 21:30:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-08T01:27:11.615429"
+    },
+    {
+      "source": "techcrunch",
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "published": "Sat, 07 Feb 2026 18:23:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-08T01:27:11.615463"
+    },
     {
       "source": "techcrunch",
       "title": "Benchmark raises $225M in special funds to double down on Cerebras",
@@ -14,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.234522"
+      "crawled_at": "2026-02-08T01:27:11.615485"
     },
     {
       "source": "techcrunch",
@@ -28,50 +66,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.234560"
+      "crawled_at": "2026-02-08T01:27:11.615512"
     },
     {
-      "source": "techcrunch",
-      "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
-      "summary": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron.",
-      "link": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
-      "published": "Sat, 07 Feb 2026 00:06:23 +0000",
+      "source": "theverge",
+      "title": "Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post",
+      "summary": "After what can generously be called a contentious tenure as the CEO of The Washington Post, Will Lewis is stepping down following mass layoffs this week. Jeff D'Onofrio, former CEO of Tumblr from 2017 to 2022, will step in as acting CEO and publisher. D'Onofrio has been CFO at the Post since June of",
+      "link": "https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs",
+      "published": "2026-02-07T18:41:23-05:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-08T01:27:11.704362"
+    },
+    {
+      "source": "theverge",
+      "title": "Super Bowl LX ads: all AI everything",
+      "summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled [&#8",
+      "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+      "published": "2026-02-07T18:10:44-05:00",
       "keywords": [
+        "AI",
+        "Go",
+        "Crypto",
+        "Google",
+        "IoT"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-08T01:27:11.704412"
+    },
+    {
+      "source": "theverge",
+      "title": "GOG is already working on native Linux support",
+      "summary": "GOG recently posted a job listing for a senior software engineer focused on porting its Galaxy desktop client to Linux. Now, in reply to a Reddit AMA, the GOG team has revealed that work on native Linux support is already underway. It's still too early to give an ETA, according to the Reddit thread.",
+      "link": "https://www.theverge.com/tech/875425/gog-native-linux-support",
+      "published": "2026-02-07T15:23:46-05:00",
+      "keywords": [
+        "Go",
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.234601"
+      "crawled_at": "2026-02-08T01:27:11.704458"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
-      "summary": "Apple engineers are working to support AI chatbot apps over the next few months.",
-      "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
-      "published": "Fri, 06 Feb 2026 23:53:43 +0000",
+      "source": "theverge",
+      "title": "I went back to Linux and it was a mistake",
+      "summary": "It's a complete coincidence that I installed Linux around the same time as my colleagues Nathan Edwards and Stevie Bonifield. A few months ago, I decided to breathe new life into a 2019 Dell XPS 15 that had been collecting dust for a couple of years. Despite its (at the time) high-end Core i7 CPU [&",
+      "link": "https://www.theverge.com/report/875077/linux-was-a-mistake",
+      "published": "2026-02-07T14:30:00-05:00",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Apple",
+        "Go",
+        "Linux",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.234653"
-    },
-    {
-      "source": "techcrunch",
-      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-      "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-      "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-      "published": "Fri, 06 Feb 2026 22:43:22 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.234692"
+      "category": "Tech News",
+      "crawled_at": "2026-02-08T01:27:11.704500"
     },
     {
       "source": "theverge",
@@ -84,123 +133,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.335814"
+      "crawled_at": "2026-02-08T01:27:11.704536"
     },
     {
-      "source": "theverge",
-      "title": "The second-gen AirTags are a scatterbrain’s best friend",
-      "summary": "In a somewhat controversial Vergecast episode, I declared that AirTags are a superior product to iPads. The iPad lovers roasted me across social media. I have heard and respect their opinions. But, I'm sorry - the second-gen AirTag has only deepened my conviction that the humble, $29 item tracker is",
-      "link": "https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker",
-      "published": "2026-02-07T10:30:00-05:00",
+      "source": "hackernews",
+      "title": "The silent death of Good Code",
+      "summary": "Article URL: https://amit.prasad.me/blog/rip-good-code\nComments URL: https://news.ycombinator.com/item?id=46929391\nPoints: 54\n# Comments: 60",
+      "link": "https://amit.prasad.me/blog/rip-good-code",
+      "published": "Sat, 07 Feb 2026 23:23:01 +0000",
       "keywords": [
-        "AI",
-        "Apple",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.335863"
+      "category": "Programming",
+      "crawled_at": "2026-02-08T01:27:12.118586"
     },
     {
-      "source": "theverge",
-      "title": "Anker’s new charger with a screen would feel less gimmicky if it did more",
-      "summary": "The latest Anker 45-watt Nano charger, announced in January, which remains one of the smallest 45-watt chargers on the market, adds a full color screen displaying an animated character and a smattering of details about the device you're charging. The display is occasionally useful if you like to kee",
-      "link": "https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs",
-      "published": "2026-02-07T10:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.335905"
-    },
-    {
-      "source": "theverge",
-      "title": "Cairn is a climbing journey about perseverance and obsession",
-      "summary": "I'm an awful rock climber. Being scared of heights probably doesn't help. But when I've tried it, I've loved the slow, methodical work of moving from one ledge to the next. It reminds me a lot of why I love running; in both sports, you achieve goals that seem insurmountable by taking them one step [",
-      "link": "https://www.theverge.com/games/874914/cairn-review-pc-playstation-5",
-      "published": "2026-02-07T09:00:00-05:00",
+      "source": "hackernews",
+      "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+      "summary": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs\nComments URL: https://news.ycombinator.com/item?id=46928810\nPoints: 60\n# Comments: 92",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+      "published": "Sat, 07 Feb 2026 22:25:03 +0000",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.335935"
-    },
-    {
-      "source": "theverge",
-      "title": "The best way to watch the Olympics",
-      "summary": "Hi, friends! Welcome to Installer No. 115, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, go Seahawks I guess, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about The Washington Post and the Murdochs and P",
-      "link": "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer",
-      "published": "2026-02-07T08:00:00-05:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.335976"
+      "crawled_at": "2026-02-08T01:27:12.118627"
     },
     {
       "source": "hackernews",
-      "title": "What Is Stoicism?",
-      "summary": "Article URL: https://stoacentral.com/guides/what-is-stoicism\nComments URL: https://news.ycombinator.com/item?id=46924891\nPoints: 10\n# Comments: 5",
-      "link": "https://stoacentral.com/guides/what-is-stoicism",
-      "published": "Sat, 07 Feb 2026 16:06:07 +0000",
+      "title": "Tiny C Compiler",
+      "summary": "Article URL: https://bellard.org/tcc/\nComments URL: https://news.ycombinator.com/item?id=46928435\nPoints: 106\n# Comments: 46",
+      "link": "https://bellard.org/tcc/",
+      "published": "Sat, 07 Feb 2026 21:45:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.541313"
+      "crawled_at": "2026-02-08T01:27:12.118659"
     },
     {
       "source": "hackernews",
-      "title": "British drivers over 70 to face eye tests every three years",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c205nxy0p31o\nComments URL: https://news.ycombinator.com/item?id=46924813\nPoints: 165\n# Comments: 150",
-      "link": "https://www.bbc.com/news/articles/c205nxy0p31o",
-      "published": "Sat, 07 Feb 2026 15:55:54 +0000",
+      "title": "Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?",
+      "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs\nComments URL: https://news.ycombinator.com/item?id=46927098\nPoints: 83\n# Comments: 108",
+      "link": "https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs",
+      "published": "Sat, 07 Feb 2026 19:51:56 +0000",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-08T01:27:12.118713"
+    },
+    {
+      "source": "hackernews",
+      "title": "Brookhaven Lab's RHIC concludes 25-year run with final collisions",
+      "summary": "Article URL: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/\nComments URL: https://news.ycombinator.com/item?id=46926576\nPoints: 44\n# Comments: 45",
+      "link": "https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/",
+      "published": "Sat, 07 Feb 2026 19:07:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.541355"
-    },
-    {
-      "source": "hackernews",
-      "title": "Al Lowe on model trains, funny deaths and working with Disney",
-      "summary": "Article URL: https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/\nComments URL: https://news.ycombinator.com/item?id=46924790\nPoints: 36\n# Comments: 3",
-      "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-      "published": "Sat, 07 Feb 2026 15:52:42 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.541386"
-    },
-    {
-      "source": "hackernews",
-      "title": "StrongDM's AI team build serious software without even looking at the code",
-      "summary": "Article URL: https://simonwillison.net/2026/Feb/7/software-factory/\nComments URL: https://news.ycombinator.com/item?id=46924711\nPoints: 30\n# Comments: 39",
-      "link": "https://simonwillison.net/2026/Feb/7/software-factory/",
-      "published": "Sat, 07 Feb 2026 15:41:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.541414"
-    },
-    {
-      "source": "hackernews",
-      "title": "First Proof",
-      "summary": "Article URL: https://arxiv.org/abs/2602.05192\nComments URL: https://news.ycombinator.com/item?id=46924591\nPoints: 47\n# Comments: 35",
-      "link": "https://arxiv.org/abs/2602.05192",
-      "published": "Sat, 07 Feb 2026 15:25:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.541442"
+      "crawled_at": "2026-02-08T01:27:12.118752"
     },
     {
       "source": "arstechnica",
@@ -212,7 +210,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-07T18:19:57.709546"
+      "crawled_at": "2026-02-08T01:27:12.223685"
     },
     {
       "source": "arstechnica",
@@ -226,7 +224,7 @@
         "Linux"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.709575"
+      "crawled_at": "2026-02-08T01:27:12.223715"
     },
     {
       "source": "arstechnica",
@@ -238,7 +236,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.709598"
+      "crawled_at": "2026-02-08T01:27:12.223738"
     },
     {
       "source": "arstechnica",
@@ -251,7 +249,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.709618"
+      "crawled_at": "2026-02-08T01:27:12.223758"
     },
     {
       "source": "arstechnica",
@@ -264,7 +262,7 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-02-07T18:19:57.709658"
+      "crawled_at": "2026-02-08T01:27:12.223783"
     },
     {
       "source": "wired",
@@ -276,7 +274,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.883045"
+      "crawled_at": "2026-02-08T01:27:12.303928"
     },
     {
       "source": "wired",
@@ -288,7 +286,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.883080"
+      "crawled_at": "2026-02-08T01:27:12.303964"
     },
     {
       "source": "wired",
@@ -298,7 +296,7 @@
       "published": "Sat, 07 Feb 2026 12:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.883106"
+      "crawled_at": "2026-02-08T01:27:12.303990"
     },
     {
       "source": "wired",
@@ -310,7 +308,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-07T18:19:57.883140"
+      "crawled_at": "2026-02-08T01:27:12.304023"
     },
     {
       "source": "wired",
@@ -323,7 +321,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-07T18:19:57.883169"
+      "crawled_at": "2026-02-08T01:27:12.304052"
     }
   ]
 }
