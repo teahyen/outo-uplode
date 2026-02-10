@@ -1,273 +1,294 @@
 {
-  "last_updated": "2026-02-09T18:42:34.895022",
+  "last_updated": "2026-02-10T01:20:49.026278",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
-      "summary": "After announcing $190 million in ARR in December, Harvey may be raising again a big leap in valuation.",
-      "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
-      "published": "Mon, 09 Feb 2026 18:21:02 +0000",
+      "title": "Waymo is testing driverless robotaxis in Nashville",
+      "summary": "This is the typical next step before it launches a commercial service.",
+      "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+      "published": "Mon, 09 Feb 2026 22:59:55 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:44.346564"
+    },
+    {
+      "source": "techcrunch",
+      "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
+      "summary": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
+      "link": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+      "published": "Mon, 09 Feb 2026 21:26:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-10T01:20:44.346612"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Bluesky finally adds drafts",
+      "summary": "The move comes as Bluesky’s competitors, X and Threads, have long supported drafts.",
+      "link": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
+      "published": "Mon, 09 Feb 2026 21:22:08 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:44.346645"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+      "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+      "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+      "published": "Mon, 09 Feb 2026 21:14:50 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.261900"
+      "crawled_at": "2026-02-10T01:20:44.346677"
     },
     {
       "source": "techcrunch",
-      "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
-      "summary": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
-      "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
-      "published": "Mon, 09 Feb 2026 18:15:08 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.261937"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Lyft opens its ride-hailing app to teens",
-      "summary": "Rival Uber started allowing teens to use the app two years ago.",
-      "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
-      "published": "Mon, 09 Feb 2026 18:05:32 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.261959"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-      "summary": "According to TechCrunch’s ongoing tally, including the most recent data spill involving uMobix, there have been at least 27 stalkerware companies since 2017 that are known to have been hacked, or leaked customer and victims’ data online.",
-      "link": "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
-      "published": "Mon, 09 Feb 2026 18:05:00 +0000",
-      "keywords": [
-        "Go",
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-02-09T18:42:34.262006"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic closes in on $20B round",
-      "summary": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
-      "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
-      "published": "Mon, 09 Feb 2026 17:37:23 +0000",
+      "title": "Anthropic’s India expansion collides with a local company that already had the name",
+      "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+      "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+      "published": "Mon, 09 Feb 2026 21:01:41 +0000",
       "keywords": [
         "AI",
         "Anthropic",
-        "Go",
-        "Funding"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.262033"
-    },
-    {
-      "source": "theverge",
-      "title": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
-      "summary": "It feels like everyone who produced ad spots for this year's Super Bowl with generative AI failed in terms of making gen AI seem useful or like something worth getting excited about. Though we've seen plenty of AI-generated commercials before (at previous Super Bowls, no less), this year's event was",
-      "link": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
-      "published": "2026-02-09T12:59:07-05:00",
-      "keywords": [
-        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.412288"
+      "crawled_at": "2026-02-10T01:20:44.346705"
     },
     {
       "source": "theverge",
-      "title": "Ferrari’s first EV will have an interior designed by Jony Ive",
-      "summary": "Ferrari released the first interior images of the company's first all-electric supercar, called the Ferrari Luce (\"light\" in Italian). This is the second time the Italian automaker has teased the Luce (formerly Elettrica) without showing us the actual car, or even a silhouette. But the interior imag",
-      "link": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
-      "published": "2026-02-09T12:45:42-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.412369"
-    },
-    {
-      "source": "theverge",
-      "title": "Google’s Pixel 9A is back down to $349, its cheapest price so far",
-      "summary": "The Pixel 9A is an incredible phone that’s worth hopping on while it’s $349 for the 128GB version in blue, black, or pink at Amazon and Best Buy. It’s discounted ahead of the new Pixel 10A, for which Google will open pre-orders on February 18. That’s also when the company will share more details reg",
-      "link": "https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale",
-      "published": "2026-02-09T11:24:56-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.412410"
-    },
-    {
-      "source": "theverge",
-      "title": "Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades",
-      "summary": "Following images of Sony's new WF-1000XM6 earbuds shared by a retailer last week ahead of an official announcement, reliable leaker billbil-kun has revealed what they're claiming are the full specs and new features of the company's next flagship buds. The WF-1000XM6 will be powered by a new QN3e pro",
-      "link": "https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak",
-      "published": "2026-02-09T11:05:03-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.412451"
-    },
-    {
-      "source": "theverge",
-      "title": "Linux 6.19 arrives with a teaser for Linux 7.0",
-      "summary": "On Sunday, Linux developer Linus Torvalds announced the release of Linux 6.19, which will be the last update in this kernel cycle, as previously reported by Phoronix. It adds support for the modern AMDGPU driver for older AMD GCN 1.0 and 1.1 graphics cards, like Radeon HD 7000 series GPUs, along wit",
-      "link": "https://www.theverge.com/tech/875784/linux-kernel-7-0-announced",
-      "published": "2026-02-09T10:58:43-05:00",
-      "keywords": [
-        "Linux",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-09T18:42:34.412484"
-    },
-    {
-      "source": "hackernews",
-      "title": "From watchdogs to mouthpieces: Washington Post and the wreckage of legacy media",
-      "summary": "Article URL: https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/\nComments URL: https://news.ycombinator.com/item?id=46948340\nPoints: 18\n# Comments: 5",
-      "link": "https://www.thejournal.ie/readme/bezos-washington-post-trump-6950317-Feb2026/",
-      "published": "Mon, 09 Feb 2026 17:48:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.618261"
-    },
-    {
-      "source": "hackernews",
-      "title": "Game Boy Advance Audio Interpolation",
-      "summary": "Article URL: https://jsgroth.dev/blog/posts/gba-audio-interpolation/\nComments URL: https://news.ycombinator.com/item?id=46948273\nPoints: 5\n# Comments: 0",
-      "link": "https://jsgroth.dev/blog/posts/gba-audio-interpolation/",
-      "published": "Mon, 09 Feb 2026 17:44:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.618304"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hard-braking events as indicators of road segment crash risk",
-      "summary": "Article URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/\nComments URL: https://news.ycombinator.com/item?id=46947777\nPoints: 63\n# Comments: 53",
-      "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
-      "published": "Mon, 09 Feb 2026 17:09:37 +0000",
+      "title": "New Mexico goes to trial to accuse Meta of facilitating child predators",
+      "summary": "At the center of a consequential case about social media liability is a key question: did Meta lie or mislead the public about the safety of its platform, while knowing something very different? The state of New Mexico opened its case Monday arguing that public statements by Meta's top executives re",
+      "link": "https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial",
+      "published": "2026-02-09T20:03:49-05:00",
       "keywords": [
         "Go",
-        "Google",
+        "Meta",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.618343"
+      "crawled_at": "2026-02-10T01:20:44.424408"
     },
     {
-      "source": "hackernews",
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "summary": "Article URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock\nComments URL: https://news.ycombinator.com/item?id=46947096\nPoints: 162\n# Comments: 56",
-      "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-      "published": "Mon, 09 Feb 2026 16:26:31 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.618378"
-    },
-    {
-      "source": "hackernews",
-      "title": "GitHub is down again",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/54hndjxft5bx\nComments URL: https://news.ycombinator.com/item?id=46946827\nPoints: 257\n# Comments: 299",
-      "link": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-      "published": "Mon, 09 Feb 2026 16:12:19 +0000",
+      "source": "theverge",
+      "title": "MrBeast just bought a banking app",
+      "summary": "Beast Industries, owned by YouTuber Jimmy \"MrBeast\" Donaldson, announced on Monday that it has acquired Step, a banking app designed for teens and young adults. The move comes a couple of months after Donaldson announced plans to start a new YouTube channel centered on personal finance and investing",
+      "link": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+      "published": "2026-02-09T17:14:13-05:00",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.618403"
+      "crawled_at": "2026-02-10T01:20:44.424452"
+    },
+    {
+      "source": "theverge",
+      "title": "ChatGPT&#8217;s cheapest options now show you ads",
+      "summary": "ChatGPT users may soon start seeing ads in their chats, as OpenAI announced on Monday that it's officially beginning to test ads on its AI platform. They'll appear as labeled \"sponsored\" links at the bottom of ChatGPT answers, but OpenAI says the ads \"do not influence the answers ChatGPT gives you.\"",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
+      "published": "2026-02-09T16:23:07-05:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T01:20:44.424484"
+    },
+    {
+      "source": "theverge",
+      "title": "FCC accused of withholding DOGE information ‘in bad faith’",
+      "summary": "One year and nearly 2,000 pages of documents later, a group suing to uncover what the Department of Government Efficiency (DOGE) was doing at the Federal Communications Commission (FCC) says the agency has withheld relevant documents \"in bad faith\" and is asking a court to allow discovery and deposi",
+      "link": "https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery",
+      "published": "2026-02-09T16:16:22-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T01:20:44.424526"
+    },
+    {
+      "source": "theverge",
+      "title": "Riot is already cutting staff on its new fighting game",
+      "summary": "Riot Games is already \"reducing the size\" of the team working on its recently-released free-to-play fighting game 2XKO, according to a post from executive producer Tom Cannon. The game, set in the League of Legends universe, launched in early access on PC in October and hit consoles just a few weeks",
+      "link": "https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends",
+      "published": "2026-02-09T16:14:25-05:00",
+      "keywords": [
+        "Go",
+        "IoT",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:44.424568"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Functional Programmers Get Wrong About Systems",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/\nComments URL: https://news.ycombinator.com/item?id=46953491\nPoints: 11\n# Comments: 1",
+      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
+      "published": "Tue, 10 Feb 2026 00:07:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.634915"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is particle physics dead, dying, or just hard?",
+      "summary": "Article URL: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/\nComments URL: https://news.ycombinator.com/item?id=46953136\nPoints: 41\n# Comments: 50",
+      "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+      "published": "Mon, 09 Feb 2026 23:31:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.634959"
+    },
+    {
+      "source": "hackernews",
+      "title": "The shadowy world of abandoned oil tankers",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cddg885344do\nComments URL: https://news.ycombinator.com/item?id=46952987\nPoints: 38\n# Comments: 7",
+      "link": "https://www.bbc.com/news/articles/cddg885344do",
+      "published": "Mon, 09 Feb 2026 23:17:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.634993"
+    },
+    {
+      "source": "hackernews",
+      "title": "LiftKit – UI where \"everything derives from the golden ratio\"",
+      "summary": "Article URL: https://www.chainlift.io/liftkit\nComments URL: https://news.ycombinator.com/item?id=46952118\nPoints: 41\n# Comments: 13",
+      "link": "https://www.chainlift.io/liftkit",
+      "published": "Mon, 09 Feb 2026 22:01:34 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T01:20:48.635041"
+    },
+    {
+      "source": "hackernews",
+      "title": "America has a tungsten problem",
+      "summary": "Article URL: https://www.noleary.com/blog/posts/1\nComments URL: https://news.ycombinator.com/item?id=46951057\nPoints: 117\n# Comments: 118",
+      "link": "https://www.noleary.com/blog/posts/1",
+      "published": "Mon, 09 Feb 2026 20:49:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.635074"
     },
     {
       "source": "arstechnica",
-      "title": "Disclosure Day Super Bowl trailer: Could it be... aliens?",
-      "summary": "Bonus: Mandalorian and Grogu 30-second spot shows duo being pulled through the snow by Tauntauns.",
-      "link": "https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/",
-      "published": "Mon, 09 Feb 2026 17:41:50 +0000",
+      "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
+      "summary": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
+      "link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
+      "published": "Mon, 09 Feb 2026 22:51:16 +0000",
+      "keywords": [
+        "Windows",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.851682"
+    },
+    {
+      "source": "arstechnica",
+      "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+      "summary": "SpaceMolt envisions a world where AI plays with itself and the humans just watch.",
+      "link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+      "published": "Mon, 09 Feb 2026 21:09:42 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.786710"
+      "crawled_at": "2026-02-10T01:20:48.851713"
     },
     {
       "source": "arstechnica",
-      "title": "Ive and Newson bring old-school charm to Ferrari's first EV interior",
-      "summary": "Analogue dials, aluminum switches, and plenty of buttons for the Ferrari Luce.",
-      "link": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
-      "published": "Mon, 09 Feb 2026 15:44:33 +0000",
+      "title": "Google experiments with locking YouTube Music lyrics behind paywall",
+      "summary": "After a lengthy test, YouTube Music is making lyrics a premium feature.",
+      "link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
+      "published": "Mon, 09 Feb 2026 20:40:13 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:48.851742"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
+      "summary": "FCC recently issued equal-time warning to late-night and daytime talk shows.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
+      "published": "Mon, 09 Feb 2026 20:27:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.786748"
+      "crawled_at": "2026-02-10T01:20:48.851770"
     },
     {
       "source": "arstechnica",
-      "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
-      "summary": "High-end Macs and less-expensive iPhones and iPads are all on the docket.",
-      "link": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
-      "published": "Mon, 09 Feb 2026 15:28:40 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-09T18:42:34.786777"
+      "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
+      "summary": "Discord to block adult content unless users verify ages with selfies or IDs.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+      "published": "Mon, 09 Feb 2026 19:39:22 +0000",
+      "keywords": [],
+      "category": "Security",
+      "crawled_at": "2026-02-10T01:20:48.851795"
     },
     {
-      "source": "arstechnica",
-      "title": "Why would Elon Musk pivot from Mars to the Moon all of a sudden?",
-      "summary": "\"SpaceX has already shifted focus to building a self-growing city on the Moon.\"",
-      "link": "https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/",
-      "published": "Mon, 09 Feb 2026 14:38:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.786806"
-    },
-    {
-      "source": "arstechnica",
-      "title": "A Project Hail Mary final trailer? Yes please.",
-      "summary": "\"There are infinite possibilities for this to go wrong.\"",
-      "link": "https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/",
-      "published": "Sun, 08 Feb 2026 23:26:37 +0000",
+      "source": "wired",
+      "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake",
+      "summary": "Attorney general Raúl Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
+      "link": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
+      "published": "Mon, 09 Feb 2026 23:54:47 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AR"
+        "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.786826"
+      "crawled_at": "2026-02-10T01:20:49.026055"
+    },
+    {
+      "source": "wired",
+      "title": "Need a Splashy Last Minute Valentine’s Day Gift? Try This Dessert Box",
+      "summary": "I tried Boarderie’s new sweets-only board, which ships overnight, to see if it’s impressive enough for your valentine.",
+      "link": "https://www.wired.com/story/valentines-day-boarderie-dessert-board/",
+      "published": "Mon, 09 Feb 2026 23:38:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:49.026099"
+    },
+    {
+      "source": "wired",
+      "title": "Save $100 On Our Favorite Home Printer",
+      "summary": "The Epson ET-2980 is a great value at its full price, and the discount sweetens the deal.",
+      "link": "https://www.wired.com/story/epson-et-2980-deal-226/",
+      "published": "Mon, 09 Feb 2026 18:52:41 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T01:20:49.026128"
     },
     {
       "source": "wired",
@@ -281,7 +302,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-09T18:42:34.894778"
+      "crawled_at": "2026-02-10T01:20:49.026169"
     },
     {
       "source": "wired",
@@ -293,45 +314,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.894818"
-    },
-    {
-      "source": "wired",
-      "title": "Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?",
-      "summary": "The design of Soundcore’s latest open earbuds magically transforms them into noise-canceling buds. But does it actually work?",
-      "link": "https://www.wired.com/review/anker-soundcore-aerofit-2-pro/",
-      "published": "Mon, 09 Feb 2026 12:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-09T18:42:34.894856"
-    },
-    {
-      "source": "wired",
-      "title": "No Company Has Admitted to Replacing Workers With AI in New York",
-      "summary": "New York state has required companies to disclose if “technological innovation or automation” was the cause of job loss for nearly a year. So far, none has.",
-      "link": "https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/",
-      "published": "Mon, 09 Feb 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.894887"
-    },
-    {
-      "source": "wired",
-      "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
-      "summary": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
-      "link": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
-      "published": "Mon, 09 Feb 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-09T18:42:34.894913"
+      "crawled_at": "2026-02-10T01:20:49.026199"
     }
   ]
 }
