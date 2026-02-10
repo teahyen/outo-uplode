@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-02-10T06:53:41.667820",
+  "last_updated": "2026-02-10T12:45:51.348748",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "YouTube rolls out an AI playlist generator for Premium users",
+      "summary": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
+      "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+      "published": "Tue, 10 Feb 2026 11:52:39 +0000",
+      "keywords": [
+        "AI",
+        "Android",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T12:45:47.608944"
+    },
     {
       "source": "techcrunch",
       "title": "The first signs of burnout are coming from the people who embrace AI the most",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:40.906252"
+      "crawled_at": "2026-02-10T12:45:47.608981"
     },
     {
       "source": "techcrunch",
@@ -28,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:40.906287"
+      "crawled_at": "2026-02-10T12:45:47.609008"
     },
     {
       "source": "techcrunch",
@@ -42,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:40.906318"
+      "crawled_at": "2026-02-10T12:45:47.609038"
     },
     {
       "source": "techcrunch",
@@ -52,19 +66,7 @@
       "published": "Mon, 09 Feb 2026 22:59:55 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:40.906346"
-    },
-    {
-      "source": "techcrunch",
-      "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
-      "summary": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
-      "link": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-      "published": "Mon, 09 Feb 2026 21:26:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-10T06:53:40.906385"
+      "crawled_at": "2026-02-10T12:45:47.609065"
     },
     {
       "source": "theverge",
@@ -78,7 +80,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.014129"
+      "crawled_at": "2026-02-10T12:45:47.688432"
     },
     {
       "source": "theverge",
@@ -91,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.014173"
+      "crawled_at": "2026-02-10T12:45:47.688474"
     },
     {
       "source": "theverge",
@@ -107,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.014206"
+      "crawled_at": "2026-02-10T12:45:47.688506"
     },
     {
       "source": "theverge",
@@ -121,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.014248"
+      "crawled_at": "2026-02-10T12:45:47.688547"
     },
     {
       "source": "theverge",
@@ -135,73 +137,85 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.014291"
+      "crawled_at": "2026-02-10T12:45:47.688591"
     },
     {
       "source": "hackernews",
-      "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-      "summary": "Article URL: https://arxiv.org/abs/2512.20798\nComments URL: https://news.ycombinator.com/item?id=46954920\nPoints: 151\n# Comments: 92",
-      "link": "https://arxiv.org/abs/2512.20798",
-      "published": "Tue, 10 Feb 2026 03:17:17 +0000",
+      "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
+      "summary": "I'm a plumber who taught himself to code. I run a plumbing company during the day and mess with my homelab at night. About a year ago I started running AI agents with full shell access and API keys to help manage my business. Scheduling, invoicing, monitoring my K3s cluster.It worked great until I r",
+      "link": "https://github.com/luckyPipewrench/pipelock",
+      "published": "Tue, 10 Feb 2026 12:04:20 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Go",
+        "Kubernetes",
+        "API"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T12:45:51.018116"
+    },
+    {
+      "source": "hackernews",
+      "title": "Clean-room implementation of Half-Life 2 on the Quake 1 engine",
+      "summary": "Article URL: https://code.idtech.space/fn/hl2\nComments URL: https://news.ycombinator.com/item?id=46958231\nPoints: 3\n# Comments: 0",
+      "link": "https://code.idtech.space/fn/hl2",
+      "published": "Tue, 10 Feb 2026 11:21:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-10T12:45:51.018155"
+    },
+    {
+      "source": "hackernews",
+      "title": "Corruption Perceptions Index 2025",
+      "summary": "Article URL: https://www.transparency.org/en/cpi/2025\nComments URL: https://news.ycombinator.com/item?id=46957794\nPoints: 24\n# Comments: 2",
+      "link": "https://www.transparency.org/en/cpi/2025",
+      "published": "Tue, 10 Feb 2026 10:31:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T12:45:51.018205"
+    },
+    {
+      "source": "hackernews",
+      "title": "Qwen-Image-2.0: Professional infographics, exquisite photorealism",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-2.0\nComments URL: https://news.ycombinator.com/item?id=46957198\nPoints: 110\n# Comments: 79",
+      "link": "https://qwen.ai/blog?id=qwen-image-2.0",
+      "published": "Tue, 10 Feb 2026 09:19:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.364413"
+      "crawled_at": "2026-02-10T12:45:51.018236"
     },
     {
       "source": "hackernews",
-      "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
-      "summary": "Article URL: https://github.com/TrevorS/voxtral-mini-realtime-rs\nComments URL: https://news.ycombinator.com/item?id=46954136\nPoints: 119\n# Comments: 16",
-      "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
-      "published": "Tue, 10 Feb 2026 01:26:42 +0000",
+      "title": "AI doesn’t reduce work, it intensifies it",
+      "summary": "Original article: https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies...\n\nComments URL: https://news.ycombinator.com/item?id=46955703\nPoints: 163\n# Comments: 159",
+      "link": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+      "published": "Tue, 10 Feb 2026 05:19:00 +0000",
       "keywords": [
-        "Rust",
-        "Git",
-        "GitHub",
+        "AI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-10T06:53:41.364454"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T12:45:51.018272"
     },
     {
-      "source": "hackernews",
-      "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
-      "summary": "Article URL: https://github.com/antirez/voxtral.c\nComments URL: https://news.ycombinator.com/item?id=46954049\nPoints: 56\n# Comments: 3",
-      "link": "https://github.com/antirez/voxtral.c",
-      "published": "Tue, 10 Feb 2026 01:17:35 +0000",
+      "source": "arstechnica",
+      "title": "After Republican complaints, judicial body pulls climate advice",
+      "summary": "Meant to help judges handle scientific issues, document is now climate-free.",
+      "link": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
+      "published": "Tue, 10 Feb 2026 12:15:19 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.364492"
-    },
-    {
-      "source": "hackernews",
-      "title": "What functional programmers get wrong about systems",
-      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/\nComments URL: https://news.ycombinator.com/item?id=46953491\nPoints: 164\n# Comments: 106",
-      "link": "https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/",
-      "published": "Tue, 10 Feb 2026 00:07:44 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.364546"
-    },
-    {
-      "source": "hackernews",
-      "title": "Is particle physics dead, dying, or just hard?",
-      "summary": "Article URL: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/\nComments URL: https://news.ycombinator.com/item?id=46953136\nPoints: 82\n# Comments: 128",
-      "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
-      "published": "Mon, 09 Feb 2026 23:31:15 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.364583"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-10T12:45:51.172357"
     },
     {
       "source": "arstechnica",
@@ -214,7 +228,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.530506"
+      "crawled_at": "2026-02-10T12:45:51.172392"
     },
     {
       "source": "arstechnica",
@@ -226,7 +240,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.530552"
+      "crawled_at": "2026-02-10T12:45:51.172418"
     },
     {
       "source": "arstechnica",
@@ -239,7 +253,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.530583"
+      "crawled_at": "2026-02-10T12:45:51.172446"
     },
     {
       "source": "arstechnica",
@@ -251,78 +265,64 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.530612"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
-      "summary": "Discord to block adult content unless users verify ages with selfies or IDs.",
-      "link": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
-      "published": "Mon, 09 Feb 2026 19:39:22 +0000",
-      "keywords": [],
-      "category": "Security",
-      "crawled_at": "2026-02-10T06:53:41.530637"
+      "crawled_at": "2026-02-10T12:45:51.172473"
     },
     {
       "source": "wired",
-      "title": "KitchenAid Promo Codes and Discounts: Save Up to $500",
-      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to $500 off select major appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "published": "Tue, 10 Feb 2026 06:10:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.667620"
-    },
-    {
-      "source": "wired",
-      "title": "20% Off LG Promo Code & Coupons | February 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Tue, 10 Feb 2026 06:07:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-10T06:53:41.667650"
-    },
-    {
-      "source": "wired",
-      "title": "H&R Block Coupons and Deals: 20% Off Tax Prep in 2026",
-      "summary": "Save up to 20% and get up to $4,000 with a Refund Advance Loan at H&amp;R Block this tax season.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Tue, 10 Feb 2026 06:05:00 +0000",
+      "title": "4 Best Résumé Builders (2026), Tested and Reviewed",
+      "summary": "Ditch the old Word doc that's hanging on by a thread. A proper résumé builder can help you stand out from the crowd.",
+      "link": "https://www.wired.com/gallery/best-resume-builders/",
+      "published": "Tue, 10 Feb 2026 12:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-10T06:53:41.667678"
+      "crawled_at": "2026-02-10T12:45:51.348521"
     },
     {
       "source": "wired",
-      "title": "TurboTax Service Codes: Up to 20% Off | February 2026",
-      "summary": "Tax season doesn’t have to be stressful. Save up to 20% on federal tax filings, $40 off Expert Assist, and more exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Tue, 10 Feb 2026 06:00:00 +0000",
+      "title": "Even Realities G2 Review: Smarter Glasses",
+      "summary": "These second-generation smart glasses give you superpowers—if the software behaves.",
+      "link": "https://www.wired.com/review/even-realities-g2/",
+      "published": "Tue, 10 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-10T06:53:41.667715"
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T12:45:51.348562"
     },
     {
       "source": "wired",
-      "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
-      "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
-      "link": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
-      "published": "Tue, 10 Feb 2026 05:45:16 +0000",
+      "title": "Bidets Are Confusing Visitors at the 2026 Winter Olympics",
+      "summary": "Bidets are extremely common in northern Italy, where the Milano Cortina Games are being played. They’re less familiar to the people visiting.",
+      "link": "https://www.wired.com/story/2026-winter-olympics-bidets/",
+      "published": "Tue, 10 Feb 2026 12:00:00 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-10T06:53:41.667743"
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T12:45:51.348602"
+    },
+    {
+      "source": "wired",
+      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
+      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "link": "https://www.wired.com/gallery/the-best-space-heaters/",
+      "published": "Tue, 10 Feb 2026 11:34:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T12:45:51.348629"
+    },
+    {
+      "source": "wired",
+      "title": "Samsung Galaxy A17 5G Review: Crippling Performance",
+      "summary": "It’' a decent value for a $200, but unreliable performance makes this Samsung smartphone tough to recommend.",
+      "link": "https://www.wired.com/review/samsung-galaxy-a17-5g/",
+      "published": "Tue, 10 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "5G",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-10T12:45:51.348662"
     }
   ]
 }
