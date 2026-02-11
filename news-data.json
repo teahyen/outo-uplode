@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-11T06:50:26.263074",
+  "last_updated": "2026-02-11T12:41:57.105768",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Samsung to hold its Galaxy S26 event on February 25",
+      "summary": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
+      "link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/",
+      "published": "Wed, 11 Feb 2026 07:06:44 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-11T12:41:56.185904"
+    },
     {
       "source": "techcrunch",
       "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
@@ -14,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.336915"
+      "crawled_at": "2026-02-11T12:41:56.185948"
     },
     {
       "source": "techcrunch",
@@ -27,7 +40,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.336986"
+      "crawled_at": "2026-02-11T12:41:56.185981"
     },
     {
       "source": "techcrunch",
@@ -41,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.337027"
+      "crawled_at": "2026-02-11T12:41:56.186015"
     },
     {
       "source": "techcrunch",
@@ -55,20 +68,47 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.337054"
+      "crawled_at": "2026-02-11T12:41:56.186041"
     },
     {
-      "source": "techcrunch",
-      "title": "An ice dance duo skated to AI music at the Olympics",
-      "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
-      "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
-      "published": "Tue, 10 Feb 2026 22:31:13 +0000",
+      "source": "theverge",
+      "title": "T-Mobile will live translate regular phone calls without an app",
+      "summary": "T-Mobile is preparing to test a new AI feature that translates live phone calls into more than 50 languages. Live Translation is launching in beta \"this Spring,\" according to a press release, with registration for eligible T-Mobile customers available starting today. \"Some of the biggest barriers wi",
+      "link": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+      "published": "2026-02-11T07:35:00-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.337078"
+      "crawled_at": "2026-02-11T12:41:56.404224"
+    },
+    {
+      "source": "theverge",
+      "title": "Uber Eats adds AI assistant to help with grocery shopping",
+      "summary": "Uber announced a new AI feature called \"Cart Assistant\" for grocery shopping in its Uber Eats app. The new feature works a couple different ways. You can use text prompts, as you would with any other AI chatbot, to ask it to build a grocery list for you. Or you can upload a picture of [&#8230;]",
+      "link": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
+      "published": "2026-02-11T07:00:00-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-11T12:41:56.404267"
+    },
+    {
+      "source": "theverge",
+      "title": "‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE",
+      "summary": "Keep your head down. Compartmentalize. Don't make trouble. That's what many tech workers are taking their CEOs' strategic silence to mean, amid an immigration crackdown across the US by the Trump administration's Department of Homeland Security. Widespread violence by federal agents has sparked prot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott",
+      "published": "2026-02-11T06:00:00-05:00",
+      "keywords": [
+        "Rust",
+        "Security",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-11T12:41:56.404323"
     },
     {
       "source": "theverge",
@@ -81,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.497204"
+      "crawled_at": "2026-02-11T12:41:56.404356"
     },
     {
       "source": "theverge",
@@ -95,111 +135,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.497264"
+      "crawled_at": "2026-02-11T12:41:56.404402"
     },
     {
-      "source": "theverge",
-      "title": "Boston Dynamics CEO Robert Playter is stepping down after six years",
-      "summary": "Robert Playter, CEO of Boston Dynamics, announced on Tuesday that he is stepping down from his role effective immediately and leaving the company on February 27th, as previously reported by A3. Under Playter's leadership, Boston Dynamics navigated its way through an acquisition from Softbank that br",
-      "link": "https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai",
-      "published": "2026-02-10T18:54:10-05:00",
+      "source": "hackernews",
+      "title": "The Torture Will Continue Until Shareholder Value Improves [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NIXd3PEbsNk\nComments URL: https://news.ycombinator.com/item?id=46973849\nPoints: 7\n# Comments: 0",
+      "link": "https://www.youtube.com/watch?v=NIXd3PEbsNk",
+      "published": "Wed, 11 Feb 2026 11:54:53 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-11T12:41:56.819124"
+    },
+    {
+      "source": "hackernews",
+      "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+      "summary": "Article URL: https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa\nComments URL: https://news.ycombinator.com/item?id=46973647\nPoints: 119\n# Comments: 35",
+      "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+      "published": "Wed, 11 Feb 2026 11:27:38 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.497300"
-    },
-    {
-      "source": "theverge",
-      "title": "Bezos could have saved The Washington Post’s local news and sports reporters",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politicking in the age of Trump. If you're a subscriber, you are dominant and talented, like the Seattle Seahawks. If you're not a subscriber yet, it's time to get your act together, like the New England Patriots. (I'm fro",
-      "link": "https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters",
-      "published": "2026-02-10T18:34:59-05:00",
-      "keywords": [
-        "IoT",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.497356"
-    },
-    {
-      "source": "theverge",
-      "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
-      "summary": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat,",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
-      "published": "2026-02-10T18:02:32-05:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:25.497395"
+      "crawled_at": "2026-02-11T12:41:56.819175"
     },
     {
       "source": "hackernews",
-      "title": "A simpler way to remove explicit images from Search",
-      "summary": "Article URL: https://blog.google/products-and-platforms/products/search/remove-explicit-images/\nComments URL: https://news.ycombinator.com/item?id=46970752\nPoints: 30\n# Comments: 22",
-      "link": "https://blog.google/products-and-platforms/products/search/remove-explicit-images/",
-      "published": "Wed, 11 Feb 2026 04:15:24 +0000",
+      "title": "Exposure Simulator",
+      "summary": "Article URL: http://www.andersenimages.com/tutorials/exposure-simulator/\nComments URL: https://news.ycombinator.com/item?id=46973573\nPoints: 18\n# Comments: 3",
+      "link": "http://www.andersenimages.com/tutorials/exposure-simulator/",
+      "published": "Wed, 11 Feb 2026 11:16:23 +0000",
       "keywords": [
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.850484"
+      "crawled_at": "2026-02-11T12:41:56.819211"
     },
     {
       "source": "hackernews",
-      "title": "Rivian R2: Electric Mid-Size SUV",
-      "summary": "Article URL: https://rivian.com/r2\nComments URL: https://news.ycombinator.com/item?id=46969399\nPoints: 87\n# Comments: 132",
-      "link": "https://rivian.com/r2",
-      "published": "Wed, 11 Feb 2026 01:00:15 +0000",
+      "title": "Chrome extensions spying on 37M users' browsing data",
+      "summary": "Article URL: https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495\nComments URL: https://news.ycombinator.com/item?id=46973083\nPoints: 47\n# Comments: 11",
+      "link": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
+      "published": "Wed, 11 Feb 2026 10:00:56 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.850523"
+      "crawled_at": "2026-02-11T12:41:56.819248"
     },
     {
       "source": "hackernews",
-      "title": "Fun With Pinball",
-      "summary": "Article URL: https://www.funwithpinball.com/exhibits/small-boards\nComments URL: https://news.ycombinator.com/item?id=46969088\nPoints: 64\n# Comments: 7",
-      "link": "https://www.funwithpinball.com/exhibits/small-boards",
-      "published": "Wed, 11 Feb 2026 00:21:55 +0000",
+      "title": "Something Big Is Happening",
+      "summary": "Article URL: https://shumer.dev/something-big-is-happening\nComments URL: https://news.ycombinator.com/item?id=46973011\nPoints: 6\n# Comments: 0",
+      "link": "https://shumer.dev/something-big-is-happening",
+      "published": "Wed, 11 Feb 2026 09:52:27 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.850555"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Day the Telnet Died",
-      "summary": "Article URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/\nComments URL: https://news.ycombinator.com/item?id=46967772\nPoints: 288\n# Comments: 195",
-      "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
-      "published": "Tue, 10 Feb 2026 22:20:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.850589"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Falkirk Wheel",
-      "summary": "Article URL: https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel\nComments URL: https://news.ycombinator.com/item?id=46966605\nPoints: 61\n# Comments: 21",
-      "link": "https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel",
-      "published": "Tue, 10 Feb 2026 20:42:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:25.850624"
+      "category": "Mobile",
+      "crawled_at": "2026-02-11T12:41:56.819277"
     },
     {
       "source": "arstechnica",
@@ -209,7 +206,7 @@
       "published": "Wed, 11 Feb 2026 01:21:12 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.135941"
+      "crawled_at": "2026-02-11T12:41:56.953630"
     },
     {
       "source": "arstechnica",
@@ -221,7 +218,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.135978"
+      "crawled_at": "2026-02-11T12:41:56.953668"
     },
     {
       "source": "arstechnica",
@@ -233,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.136008"
+      "crawled_at": "2026-02-11T12:41:56.953699"
     },
     {
       "source": "arstechnica",
@@ -247,7 +244,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:26.136028"
+      "crawled_at": "2026-02-11T12:41:56.953719"
     },
     {
       "source": "arstechnica",
@@ -257,70 +254,75 @@
       "published": "Tue, 10 Feb 2026 18:44:32 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.136056"
+      "crawled_at": "2026-02-11T12:41:56.953747"
     },
     {
       "source": "wired",
-      "title": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
-      "summary": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash.",
-      "link": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
-      "published": "Tue, 10 Feb 2026 22:25:34 +0000",
+      "title": "9 Best Cheap Laptops (2026), Tested and Reviewed",
+      "summary": "From surprisingly good $300 Chromebooks to excellent $650 Windows laptops, these are the best budget laptops we’ve tested.",
+      "link": "https://www.wired.com/gallery/best-cheap-laptops/",
+      "published": "Wed, 11 Feb 2026 12:30:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.262788"
-    },
-    {
-      "source": "wired",
-      "title": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
-      "summary": "Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it’s possible the Quad God can do more than four full rotations in the air.",
-      "link": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
-      "published": "Tue, 10 Feb 2026 20:45:00 +0000",
-      "keywords": [
-        "AI",
         "Go",
+        "Windows",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:26.262835"
+      "category": "Tech News",
+      "crawled_at": "2026-02-11T12:41:57.105531"
     },
     {
       "source": "wired",
-      "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
-      "summary": "The site Realfood.gov uses Elon Musk’s Grok chatbot to dispense nutrition information—some of which contradicts the government’s new guidelines.",
-      "link": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
-      "published": "Tue, 10 Feb 2026 20:30:28 +0000",
+      "title": "Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive",
+      "summary": "This esports keyboard isn't particularly comfortable, but it's incredibly competitive.",
+      "link": "https://www.wired.com/review/razer-huntsman-v3-pro-8khz/",
+      "published": "Wed, 11 Feb 2026 12:00:00 +0000",
       "keywords": [
-        "Go"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.262877"
+      "crawled_at": "2026-02-11T12:41:57.105569"
     },
     {
       "source": "wired",
-      "title": "Palantir CEO Alex Karp Recorded a Video About ICE for His Employees",
-      "summary": "In a video shared with Palantir employees, Alex Karp did not explain how ICE is utilizing the company’s products. Instead, workers were told they can sign NDAs if they want detailed information.",
-      "link": "https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/",
-      "published": "Tue, 10 Feb 2026 19:53:58 +0000",
+      "title": "Jessie Diggins’ Starter Pack: Winter Olympics 2026",
+      "summary": "What a three-time Olympic medalist packs to Milano Cortina 2026.",
+      "link": "https://www.wired.com/story/cross-country-skier-jessie-digginss-winter-olympic-starter-pack/",
+      "published": "Wed, 11 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-11T12:41:57.105603"
+    },
+    {
+      "source": "wired",
+      "title": "Wacom MovinkPad 11 Tablet Review: A Portable Sketch Pad",
+      "summary": "Wacom’s Android-based drawing pad tries, and mostly succeeds, to pack a full digital art workstation into a portable sketch pad.",
+      "link": "https://www.wired.com/review/wacom-movinkpad-11/",
+      "published": "Wed, 11 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "Android",
+        "Git",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-11T12:41:57.105638"
+    },
+    {
+      "source": "wired",
+      "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+      "summary": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+      "link": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+      "published": "Wed, 11 Feb 2026 10:55:24 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "Startup"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-11T06:50:26.262926"
-    },
-    {
-      "source": "wired",
-      "title": "This GoPro and Lens Bundle Is $200 Off",
-      "summary": "You can grab a fully kitted action camera and all the lenses for $550.",
-      "link": "https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/",
-      "published": "Tue, 10 Feb 2026 18:21:44 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-11T06:50:26.262952"
+      "crawled_at": "2026-02-11T12:41:57.105663"
     }
   ]
 }
