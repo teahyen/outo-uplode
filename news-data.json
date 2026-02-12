@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T01:10:59.720656",
+  "last_updated": "2026-02-12T06:49:25.075154",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.834550"
+      "crawled_at": "2026-02-12T06:49:24.073978"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.834584"
+      "crawled_at": "2026-02-12T06:49:24.074012"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.834609"
+      "crawled_at": "2026-02-12T06:49:24.074038"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.834648"
+      "crawled_at": "2026-02-12T06:49:24.074077"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.834687"
+      "crawled_at": "2026-02-12T06:49:24.074108"
     },
     {
       "source": "theverge",
@@ -82,7 +82,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.984343"
+      "crawled_at": "2026-02-12T06:49:24.170119"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.984390"
+      "crawled_at": "2026-02-12T06:49:24.170166"
     },
     {
       "source": "theverge",
@@ -110,7 +110,7 @@
         "iOS"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-12T01:10:58.984433"
+      "crawled_at": "2026-02-12T06:49:24.170210"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.984473"
+      "crawled_at": "2026-02-12T06:49:24.170250"
     },
     {
       "source": "theverge",
@@ -136,71 +136,110 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:58.984512"
+      "crawled_at": "2026-02-12T06:49:24.170288"
     },
     {
       "source": "hackernews",
-      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
-      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012\nComments URL: https://news.ycombinator.com/item?id=46982792\nPoints: 70\n# Comments: 47",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "published": "Wed, 11 Feb 2026 23:37:11 +0000",
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "summary": "Article URL: https://github.com/tonyyont/peon-ping\nComments URL: https://news.ycombinator.com/item?id=46985151\nPoints: 66\n# Comments: 15",
+      "link": "https://github.com/tonyyont/peon-ping",
+      "published": "Thu, 12 Feb 2026 05:18:49 +0000",
       "keywords": [
-        "GPT",
+        "Claude",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.433404"
+      "crawled_at": "2026-02-12T06:49:24.785138"
     },
     {
       "source": "hackernews",
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "summary": "Article URL: https://age-verifier.kibty.town/\nComments URL: https://news.ycombinator.com/item?id=46982421\nPoints: 234\n# Comments: 124",
-      "link": "https://age-verifier.kibty.town/",
-      "published": "Wed, 11 Feb 2026 22:56:41 +0000",
+      "title": "D Programming Language",
+      "summary": "Article URL: https://dlang.org/\nComments URL: https://news.ycombinator.com/item?id=46985147\nPoints: 27\n# Comments: 13",
+      "link": "https://dlang.org/",
+      "published": "Thu, 12 Feb 2026 05:18:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-12T06:49:24.785172"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Make a Living as an Artist",
+      "summary": "Article URL: https://essays.fnnch.com/make-a-living\nComments URL: https://news.ycombinator.com/item?id=46984735\nPoints: 47\n# Comments: 20",
+      "link": "https://essays.fnnch.com/make-a-living",
+      "published": "Thu, 12 Feb 2026 03:56:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.433445"
+      "crawled_at": "2026-02-12T06:49:24.785204"
     },
     {
       "source": "hackernews",
-      "title": "Q&A: New UK onshore wind and solar is '50% cheaper' than new gas",
-      "summary": "Article URL: https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/\nComments URL: https://news.ycombinator.com/item?id=46981015\nPoints: 54\n# Comments: 46",
-      "link": "https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/",
-      "published": "Wed, 11 Feb 2026 21:09:51 +0000",
+      "title": "The Problem with LLMs",
+      "summary": "Article URL: https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/\nComments URL: https://news.ycombinator.com/item?id=46984021\nPoints: 43\n# Comments: 30",
+      "link": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+      "published": "Thu, 12 Feb 2026 02:03:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-12T06:49:24.785230"
+    },
+    {
+      "source": "hackernews",
+      "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
+      "summary": "Creator here. Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.This release is a milestone for our porting initiative. 49 contributors ported 150 Erlang functions across 19 modules, pushing client-side E",
+      "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
+      "published": "Wed, 11 Feb 2026 23:54:59 +0000",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-12T06:49:24.785319"
+    },
+    {
+      "source": "arstechnica",
+      "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+      "summary": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
+      "link": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
+      "published": "Thu, 12 Feb 2026 02:23:50 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-12T06:49:24.918491"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump orders the military to make agreements with coal power plants",
+      "summary": "The administration's \"reasoning\" for doing so has little connection to reality.",
+      "link": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
+      "published": "Thu, 12 Feb 2026 00:02:53 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.433482"
+      "crawled_at": "2026-02-12T06:49:24.918526"
     },
     {
-      "source": "hackernews",
-      "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
-      "summary": "Article URL: https://www.terracenetworks.com/blog/2026-02-11-telnet-routing\nComments URL: https://news.ycombinator.com/item?id=46980355\nPoints: 14\n# Comments: 2",
-      "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-      "published": "Wed, 11 Feb 2026 20:20:48 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.433517"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
-      "summary": "Article URL: https://agentalcove.ai\nComments URL: https://news.ycombinator.com/item?id=46980273\nPoints: 16\n# Comments: 8",
-      "link": "https://agentalcove.ai",
-      "published": "Wed, 11 Feb 2026 20:15:21 +0000",
+      "source": "arstechnica",
+      "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
+      "summary": "\"I want to be very, very clear that this should’ve never happened.\"",
+      "link": "https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/",
+      "published": "Wed, 11 Feb 2026 23:50:01 +0000",
       "keywords": [
         "AI",
-        "GPT",
-        "Claude",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.433551"
+      "crawled_at": "2026-02-12T06:49:24.918556"
     },
     {
       "source": "arstechnica",
@@ -213,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.603449"
+      "crawled_at": "2026-02-12T06:49:24.918580"
     },
     {
       "source": "arstechnica",
@@ -226,47 +265,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.603479"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.",
-      "summary": "\"We are in the part of the program where we are doing very nasty things to the engine.\"",
-      "link": "https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/",
-      "published": "Wed, 11 Feb 2026 21:04:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.603508"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Did seabird poop fuel rise of Chincha in Peru?",
-      "summary": "Guano dramatically boosted the production of maize, and the surplus helped fuel the Chincha Kingdom’s economy.",
-      "link": "https://arstechnica.com/science/2026/02/did-seabird-poop-fuel-rise-of-chincha-in-peru/",
-      "published": "Wed, 11 Feb 2026 20:55:02 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.603537"
-    },
-    {
-      "source": "arstechnica",
-      "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-      "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
-      "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
-      "published": "Wed, 11 Feb 2026 20:44:19 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.603561"
+      "crawled_at": "2026-02-12T06:49:24.918601"
     },
     {
       "source": "wired",
@@ -279,7 +278,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.720435"
+      "crawled_at": "2026-02-12T06:49:25.074887"
     },
     {
       "source": "wired",
@@ -289,7 +288,7 @@
       "published": "Wed, 11 Feb 2026 22:15:06 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.720486"
+      "crawled_at": "2026-02-12T06:49:25.074940"
     },
     {
       "source": "wired",
@@ -299,7 +298,7 @@
       "published": "Wed, 11 Feb 2026 21:23:51 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-12T01:10:59.720518"
+      "crawled_at": "2026-02-12T06:49:25.074972"
     },
     {
       "source": "wired",
@@ -311,7 +310,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-12T01:10:59.720548"
+      "crawled_at": "2026-02-12T06:49:25.075006"
     },
     {
       "source": "wired",
@@ -324,7 +323,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-12T01:10:59.720575"
+      "crawled_at": "2026-02-12T06:49:25.075034"
     }
   ]
 }
