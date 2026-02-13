@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-02-13T01:14:57.491299",
+  "last_updated": "2026-02-13T06:45:37.886061",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
+      "summary": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
+      "link": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+      "published": "Fri, 13 Feb 2026 04:41:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-13T06:45:37.201411"
+    },
     {
       "source": "techcrunch",
       "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
@@ -13,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.600999"
+      "crawled_at": "2026-02-13T06:45:37.201444"
     },
     {
       "source": "techcrunch",
@@ -29,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.601032"
+      "crawled_at": "2026-02-13T06:45:37.201470"
     },
     {
       "source": "techcrunch",
@@ -42,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.601062"
+      "crawled_at": "2026-02-13T06:45:37.201498"
     },
     {
       "source": "techcrunch",
@@ -54,19 +66,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:56.601091"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-      "summary": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
-      "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-      "published": "Thu, 12 Feb 2026 22:10:55 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.601115"
+      "crawled_at": "2026-02-13T06:45:37.201524"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:56.673171"
+      "crawled_at": "2026-02-13T06:45:37.284179"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.673215"
+      "crawled_at": "2026-02-13T06:45:37.284228"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.673257"
+      "crawled_at": "2026-02-13T06:45:37.284270"
     },
     {
       "source": "theverge",
@@ -119,7 +119,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:56.673294"
+      "crawled_at": "2026-02-13T06:45:37.284307"
     },
     {
       "source": "theverge",
@@ -133,12 +133,60 @@
         "Gaming"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-13T01:14:56.673341"
+      "crawled_at": "2026-02-13T06:45:37.284354"
+    },
+    {
+      "source": "hackernews",
+      "title": "MMAcevedo aka Lena by qntm",
+      "summary": "Article URL: https://qntm.org/mmacevedo\nComments URL: https://news.ycombinator.com/item?id=46999224\nPoints: 3\n# Comments: 0",
+      "link": "https://qntm.org/mmacevedo",
+      "published": "Fri, 13 Feb 2026 05:24:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-13T06:45:37.695354"
+    },
+    {
+      "source": "hackernews",
+      "title": "New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]",
+      "summary": "Article URL: https://nickbostrom.com/optimal.pdf\nComments URL: https://news.ycombinator.com/item?id=46999117\nPoints: 27\n# Comments: 9",
+      "link": "https://nickbostrom.com/optimal.pdf",
+      "published": "Fri, 13 Feb 2026 05:05:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-13T06:45:37.695399"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Wonder of Modern Drywall",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-wonder-of-modern-drywall/\nComments URL: https://news.ycombinator.com/item?id=46998606\nPoints: 21\n# Comments: 24",
+      "link": "https://worksinprogress.co/issue/the-wonder-of-modern-drywall/",
+      "published": "Fri, 13 Feb 2026 03:33:27 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-13T06:45:37.695434"
+    },
+    {
+      "source": "hackernews",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "summary": "Article URL: https://skipthe.tips/\nComments URL: https://news.ycombinator.com/item?id=46997519\nPoints: 216\n# Comments: 120",
+      "link": "https://skipthe.tips/",
+      "published": "Fri, 13 Feb 2026 00:54:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-13T06:45:37.695467"
     },
     {
       "source": "hackernews",
       "title": "AWS Adds support for nested virtualization",
-      "summary": "Article URL: https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e\nComments URL: https://news.ycombinator.com/item?id=46997133\nPoints: 26\n# Comments: 9",
+      "summary": "Article URL: https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e\nComments URL: https://news.ycombinator.com/item?id=46997133\nPoints: 152\n# Comments: 56",
       "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
       "published": "Fri, 13 Feb 2026 00:07:57 +0000",
       "keywords": [
@@ -149,58 +197,20 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-13T01:14:57.259795"
+      "crawled_at": "2026-02-13T06:45:37.695499"
     },
     {
-      "source": "hackernews",
-      "title": "Resizing windows on macOS Tahoe – the saga continues",
-      "summary": "Article URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/\nComments URL: https://news.ycombinator.com/item?id=46997008\nPoints: 52\n# Comments: 27",
-      "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "published": "Thu, 12 Feb 2026 23:52:24 +0000",
+      "source": "arstechnica",
+      "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
+      "summary": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
+      "link": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
+      "published": "Fri, 13 Feb 2026 00:34:29 +0000",
       "keywords": [
-        "Windows",
+        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.259851"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
-      "summary": "Article URL: https://www.theverge.com/news/878447/ring-flock-partnership-canceled\nComments URL: https://news.ycombinator.com/item?id=46996999\nPoints: 89\n# Comments: 34",
-      "link": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
-      "published": "Thu, 12 Feb 2026 23:51:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.259892"
-    },
-    {
-      "source": "hackernews",
-      "title": "Recoverable and Irrecoverable Decisions",
-      "summary": "Article URL: https://herbertlui.net/recoverable-and-irrecoverable-decisions/\nComments URL: https://news.ycombinator.com/item?id=46996569\nPoints: 23\n# Comments: 6",
-      "link": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
-      "published": "Thu, 12 Feb 2026 23:08:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.259927"
-    },
-    {
-      "source": "hackernews",
-      "title": "Discord Just Killed Anonymity",
-      "summary": "Article URL: https://michael-dev-tech.github.io/Website/matrix.html\nComments URL: https://news.ycombinator.com/item?id=46996067\nPoints: 97\n# Comments: 92",
-      "link": "https://michael-dev-tech.github.io/Website/matrix.html",
-      "published": "Thu, 12 Feb 2026 22:18:01 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.259960"
+      "crawled_at": "2026-02-13T06:45:37.798171"
     },
     {
       "source": "arstechnica",
@@ -215,7 +225,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:57.356248"
+      "crawled_at": "2026-02-13T06:45:37.798207"
     },
     {
       "source": "arstechnica",
@@ -225,7 +235,7 @@
       "published": "Thu, 12 Feb 2026 22:36:33 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.356282"
+      "crawled_at": "2026-02-13T06:45:37.798236"
     },
     {
       "source": "arstechnica",
@@ -237,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.356313"
+      "crawled_at": "2026-02-13T06:45:37.798265"
     },
     {
       "source": "arstechnica",
@@ -250,17 +260,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:57.356335"
-    },
-    {
-      "source": "arstechnica",
-      "title": "EPA kills foundation of greenhouse gas regulations",
-      "summary": "The agency is betting the the Supreme Court will reverse a prior ruling.",
-      "link": "https://arstechnica.com/tech-policy/2026/02/as-expected-trumps-epa-guts-climate-endangerment-finding/",
-      "published": "Thu, 12 Feb 2026 21:04:22 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.356361"
+      "crawled_at": "2026-02-13T06:45:37.798286"
     },
     {
       "source": "wired",
@@ -272,7 +272,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-13T01:14:57.491105"
+      "crawled_at": "2026-02-13T06:45:37.885843"
     },
     {
       "source": "wired",
@@ -285,7 +285,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:57.491143"
+      "crawled_at": "2026-02-13T06:45:37.885882"
     },
     {
       "source": "wired",
@@ -295,7 +295,7 @@
       "published": "Thu, 12 Feb 2026 20:00:15 +0000",
       "keywords": [],
       "category": "Programming",
-      "crawled_at": "2026-02-13T01:14:57.491174"
+      "crawled_at": "2026-02-13T06:45:37.885913"
     },
     {
       "source": "wired",
@@ -308,7 +308,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:57.491198"
+      "crawled_at": "2026-02-13T06:45:37.885937"
     },
     {
       "source": "wired",
@@ -321,7 +321,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-13T01:14:57.491226"
+      "crawled_at": "2026-02-13T06:45:37.885967"
     }
   ]
 }
