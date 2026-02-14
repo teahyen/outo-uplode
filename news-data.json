@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-02-14T12:23:58.401998",
+  "last_updated": "2026-02-14T18:19:24.449912",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+      "summary": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
+      "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+      "published": "Sat, 14 Feb 2026 17:43:46 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T18:19:23.699374"
+    },
+    {
+      "source": "techcrunch",
+      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+      "summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+      "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+      "published": "Sat, 14 Feb 2026 16:23:22 +0000",
+      "keywords": [
+        "API",
+        "Startup",
+        "VC",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-14T18:19:23.699420"
+    },
     {
       "source": "techcrunch",
       "title": "Nothing opens its first retail store in India",
@@ -13,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.526020"
+      "crawled_at": "2026-02-14T18:19:23.699445"
     },
     {
       "source": "techcrunch",
@@ -26,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.526054"
+      "crawled_at": "2026-02-14T18:19:23.699469"
     },
     {
       "source": "techcrunch",
@@ -39,163 +67,152 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.526081"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-      "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
-      "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-      "published": "Fri, 13 Feb 2026 22:12:26 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.526111"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Fintech lending giant Figure confirms data breach",
-      "summary": "The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.",
-      "link": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
-      "published": "Fri, 13 Feb 2026 21:02:46 +0000",
-      "keywords": [
-        "AI",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.526144"
+      "crawled_at": "2026-02-14T18:19:23.699493"
     },
     {
       "source": "theverge",
-      "title": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
-      "summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, w",
-      "link": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
-      "published": "2026-02-14T03:00:00-05:00",
+      "title": "iBuyPower’s gaming desktops are discounted for Presidents Day",
+      "summary": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you’re weighing your options, consider some Presidents Day offers on iBuyPower’s pre-built desktops, including the $1,899 RDY Element 9 Pro R07 and the $2,0",
+      "link": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
+      "published": "2026-02-14T12:00:00-05:00",
       "keywords": [
-        "Rust",
-        "AR"
+        "AR",
+        "Gaming"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-14T12:23:56.685869"
+      "category": "Tech News",
+      "crawled_at": "2026-02-14T18:19:23.822619"
     },
     {
       "source": "theverge",
-      "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
-      "summary": "Sammy Azdoufal claims he wasn't trying to hack every robot vacuum in the world. He just wanted to remote control his brand-new DJI Romo vacuum with a PS5 gamepad, he tells The Verge, because it sounded fun. But when his homegrown remote control app started talking to DJI's servers, it wasn't just on",
-      "link": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
-      "published": "2026-02-14T03:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Security",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.685914"
-    },
-    {
-      "source": "theverge",
-      "title": "4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/",
-      "summary": "The close timing of Jeffrey Epstein coming into contact with 4chan founder Chris 'moot' Poole and the launch of the \"politically incorrect\" message board /pol/ that became a breeding ground for QAnon and the white supremacist alt-right movement was coincidental, says Poole. In a statement given to T",
-      "link": "https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol",
-      "published": "2026-02-13T16:01:19-05:00",
+      "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+      "summary": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes. Past finalists have included founding m",
+      "link": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+      "published": "2026-02-14T11:42:25-05:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:56.685974"
+      "crawled_at": "2026-02-14T18:19:23.822681"
     },
     {
       "source": "theverge",
-      "title": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
-      "summary": "Valentine's Day is often thought of as the quintessential Hallmark holiday - and why wouldn't it be? Most of the time, it's marketed to us with massive floral arrangements and heart-shaped chocolates, both of which can come off as borderline twee. But no one says you have to play by the rulebook whe",
-      "link": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
-      "published": "2026-02-13T16:00:00-05:00",
+      "title": "The Pocket Taco is the best way to turn your phone into a Game Boy",
+      "summary": "My ongoing quest to turn my iPhone into one of my favorite consoles of all time has led me to a curiously named controller. GameSir's Pocket Taco is only barely pocketable, and distinctly lacking in taco fillings, but for $35, it's an excellent and easy way to turn your phone into a Game Boy-inspire",
+      "link": "https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on",
+      "published": "2026-02-14T10:00:00-05:00",
       "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.686014"
-    },
-    {
-      "source": "theverge",
-      "title": "The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day",
-      "summary": "If you like how well AirPods work with iPhones but want something more colorful and flexible, the Beats Studio Buds Plus are a nice middle ground. They’re platform-agnostic and are on sale for $99.95 ($70 off) at Amazon, Best Buy, Target, and Walmart for Presidents Day. The deal includes the eye-cat",
-      "link": "https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal",
-      "published": "2026-02-13T15:00:56-05:00",
-      "keywords": [
-        "AI",
-        "Amazon",
+        "Go",
         "iPhone",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:56.686054"
+      "category": "Mobile",
+      "crawled_at": "2026-02-14T18:19:23.822722"
     },
     {
-      "source": "hackernews",
-      "title": "4chan for Clankers",
-      "summary": "Article URL: https://www.4claw.org\nComments URL: https://news.ycombinator.com/item?id=47013458\nPoints: 24\n# Comments: 34",
-      "link": "https://www.4claw.org",
-      "published": "Sat, 14 Feb 2026 10:47:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.130030"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "summary": "Article URL: https://infosec.exchange/@mttaggart/116065340523529645\nComments URL: https://news.ycombinator.com/item?id=47013059\nPoints: 55\n# Comments: 12",
-      "link": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "published": "Sat, 14 Feb 2026 09:28:45 +0000",
+      "source": "theverge",
+      "title": "A powerful tool of resistance is already in your hands",
+      "summary": "In an eyewitness video analyzed frame by frame by The New York Times, Alex Pretti raises one hand and holds a phone in the other. Federal agents tackle him, and one appears to find and remove a gun holstered on his hip. Then, an agent shoots - and a second follows. They appear to fire [&#8230;]",
+      "link": "https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech",
+      "published": "2026-02-14T10:00:00-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.130066"
+      "crawled_at": "2026-02-14T18:19:23.822751"
+    },
+    {
+      "source": "theverge",
+      "title": "My uncanny AI valentines",
+      "summary": "Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on",
+      "link": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
+      "published": "2026-02-14T10:00:00-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T18:19:23.822780"
     },
     {
       "source": "hackernews",
-      "title": "YouTube as Storage",
-      "summary": "Article URL: https://github.com/PulseBeat02/yt-media-storage\nComments URL: https://news.ycombinator.com/item?id=47012964\nPoints: 51\n# Comments: 48",
-      "link": "https://github.com/PulseBeat02/yt-media-storage",
-      "published": "Sat, 14 Feb 2026 09:10:15 +0000",
+      "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+      "summary": "Hey HN! I was a long-time Arc browser user and loved how its sidebar organized tabs and bookmarks into workspaces. I wanted to switch to other browsers without losing that workflow. So I built Arcmark, it's a macOS bookmark manager (Swift/AppKit) that floats as a sidebar attached to any browser wind",
+      "link": "https://github.com/Geek-1001/arcmark",
+      "published": "Sat, 14 Feb 2026 16:55:24 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "Git",
+        "GitHub",
+        "Cloud"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T18:19:24.056267"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stoat removes all LLM-generated code following user criticism",
+      "summary": "Article URL: https://github.com/orgs/stoatchat/discussions/1022\nComments URL: https://news.ycombinator.com/item?id=47016050\nPoints: 27\n# Comments: 18",
+      "link": "https://github.com/orgs/stoatchat/discussions/1022",
+      "published": "Sat, 14 Feb 2026 16:54:30 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T18:19:24.056308"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amsterdam Compiler Kit",
+      "summary": "Article URL: https://github.com/davidgiven/ack\nComments URL: https://news.ycombinator.com/item?id=47016008\nPoints: 12\n# Comments: 5",
+      "link": "https://github.com/davidgiven/ack",
+      "published": "Sat, 14 Feb 2026 16:50:47 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.130098"
+      "crawled_at": "2026-02-14T18:19:24.056340"
     },
     {
       "source": "hackernews",
-      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-02-13\nComments URL: https://news.ycombinator.com/item?id=47012717\nPoints: 138\n# Comments: 74",
-      "link": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "published": "Sat, 14 Feb 2026 08:22:11 +0000",
+      "title": "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
+      "summary": "Article URL: https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator\nComments URL: https://news.ycombinator.com/ite",
+      "link": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
+      "published": "Sat, 14 Feb 2026 16:48:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-02-14T18:19:24.056393"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Review of M Disc Archival Capability. With long term testing results",
+      "summary": "Article URL: http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html\nComments URL: https://news.ycombinator.com/item?id=47015579\nPoints: 20\n# Comments: 14",
+      "link": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
+      "published": "Sat, 14 Feb 2026 16:07:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.130143"
+      "crawled_at": "2026-02-14T18:19:24.056430"
     },
     {
-      "source": "hackernews",
-      "title": "Cogram (YC W22) – Hiring former technical founders",
-      "summary": "Article URL: https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer\nComments URL: https://news.ycombinator.com/item?id=47012312\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
-      "published": "Sat, 14 Feb 2026 07:00:15 +0000",
+      "source": "arstechnica",
+      "title": "Astronomers are filling in the blanks of the Kuiper Belt",
+      "summary": "Next-generation telescopes are mapping this outer frontier.",
+      "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
+      "published": "Sat, 14 Feb 2026 11:45:48 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.130188"
+      "category": "Mobile",
+      "crawled_at": "2026-02-14T18:19:24.275325"
     },
     {
       "source": "arstechnica",
@@ -207,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.295696"
+      "crawled_at": "2026-02-14T18:19:24.275359"
     },
     {
       "source": "arstechnica",
@@ -219,7 +236,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.295724"
+      "crawled_at": "2026-02-14T18:19:24.275380"
     },
     {
       "source": "arstechnica",
@@ -231,7 +248,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.295746"
+      "crawled_at": "2026-02-14T18:19:24.275401"
     },
     {
       "source": "arstechnica",
@@ -241,20 +258,19 @@
       "published": "Fri, 13 Feb 2026 21:39:29 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.295784"
+      "crawled_at": "2026-02-14T18:19:24.275438"
     },
     {
-      "source": "arstechnica",
-      "title": "The first Android 17 beta is now available on Pixel devices",
-      "summary": "Don't expect big changes yet.",
-      "link": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
-      "published": "Fri, 13 Feb 2026 20:58:25 +0000",
+      "source": "wired",
+      "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
+      "summary": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
+      "link": "https://www.wired.com/gallery/best-apple-watch/",
+      "published": "Sat, 14 Feb 2026 13:00:00 +0000",
       "keywords": [
-        "AI",
-        "Android"
+        "Apple"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.295803"
+      "category": "Mobile",
+      "crawled_at": "2026-02-14T18:19:24.449518"
     },
     {
       "source": "wired",
@@ -266,7 +282,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T12:23:58.401789"
+      "crawled_at": "2026-02-14T18:19:24.449599"
     },
     {
       "source": "wired",
@@ -281,7 +297,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.401825"
+      "crawled_at": "2026-02-14T18:19:24.449661"
     },
     {
       "source": "wired",
@@ -296,7 +312,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-14T12:23:58.401862"
+      "crawled_at": "2026-02-14T18:19:24.449722"
     },
     {
       "source": "wired",
@@ -308,23 +324,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.401888"
-    },
-    {
-      "source": "wired",
-      "title": "Gear News of the Week: Samsung Sets a Date for Galaxy Unpacked, and Fitbit’s AI Coach Comes to iOS",
-      "summary": "Plus: iOS 26.3 makes it easy to switch to Android, Google cancels the Android 17 beta, and YouTube debuts on the Apple Vision Pro.",
-      "link": "https://www.wired.com/story/gear-news-of-the-week-samsung-sets-a-date-for-galaxy-unpacked-and-fitbits-ai-coach-comes-to-ios/",
-      "published": "Sat, 14 Feb 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Google",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T12:23:58.401918"
+      "crawled_at": "2026-02-14T18:19:24.449771"
     }
   ]
 }
