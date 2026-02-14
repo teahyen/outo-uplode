@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T06:31:44.439127",
+  "last_updated": "2026-02-14T12:23:58.401998",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.514257"
+      "crawled_at": "2026-02-14T12:23:56.526020"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.514291"
+      "crawled_at": "2026-02-14T12:23:56.526054"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.514318"
+      "crawled_at": "2026-02-14T12:23:56.526081"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.514349"
+      "crawled_at": "2026-02-14T12:23:56.526111"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,35 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.514383"
+      "crawled_at": "2026-02-14T12:23:56.526144"
+    },
+    {
+      "source": "theverge",
+      "title": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
+      "summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, w",
+      "link": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
+      "published": "2026-02-14T03:00:00-05:00",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-14T12:23:56.685869"
+    },
+    {
+      "source": "theverge",
+      "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
+      "summary": "Sammy Azdoufal claims he wasn't trying to hack every robot vacuum in the world. He just wanted to remote control his brand-new DJI Romo vacuum with a PS5 gamepad, he tells The Verge, because it sounded fun. But when his homegrown remote control app started talking to DJI's servers, it wasn't just on",
+      "link": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
+      "published": "2026-02-14T03:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Security",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T12:23:56.685914"
     },
     {
       "source": "theverge",
@@ -77,7 +105,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:43.658865"
+      "crawled_at": "2026-02-14T12:23:56.685974"
     },
     {
       "source": "theverge",
@@ -89,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.658917"
+      "crawled_at": "2026-02-14T12:23:56.686014"
     },
     {
       "source": "theverge",
@@ -104,97 +132,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.658959"
-    },
-    {
-      "source": "theverge",
-      "title": "Steam beta lets users add their PC specs to reviews",
-      "summary": "User reviews on Steam may get more informative after a Steam Client Beta update released on Thursday, which adds an option for users to attach their hardware specs to game reviews. Steam users have always been able to share their specs in the text of their reviews, but the option to automatically in",
-      "link": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
-      "published": "2026-02-13T13:15:52-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-02-14T06:31:43.659003"
-    },
-    {
-      "source": "theverge",
-      "title": "Here are the 50 best Presidents Day deals we’ve found so far",
-      "summary": "Deals have been admittedly pretty dry since the holidays, but now that February is in full swing, we’re starting to see strong discounts return across a range of categories. In fact, thanks to Valentine’s Day, the Super Bowl, and — as of this week — Presidents Day, retailers are once again offering ",
-      "link": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
-      "published": "2026-02-13T13:12:41-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:43.659057"
+      "crawled_at": "2026-02-14T12:23:56.686054"
     },
     {
       "source": "hackernews",
-      "title": "Backblaze Drive Stats for 2025",
-      "summary": "Article URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/\nComments URL: https://news.ycombinator.com/item?id=47011602\nPoints: 24\n# Comments: 3",
-      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
-      "published": "Sat, 14 Feb 2026 04:35:01 +0000",
+      "title": "4chan for Clankers",
+      "summary": "Article URL: https://www.4claw.org\nComments URL: https://news.ycombinator.com/item?id=47013458\nPoints: 24\n# Comments: 34",
+      "link": "https://www.4claw.org",
+      "published": "Sat, 14 Feb 2026 10:47:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:44.061239"
+      "crawled_at": "2026-02-14T12:23:58.130030"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL/MySQL wire protocol and displays them in a terminal UI. You can run EXPLAIN on any captured query. No application code changes needed — just change the port.\n\nComments URL: https://news.ycombinator.com/item?id=4701156",
-      "link": "https://github.com/mickamy/sql-tap",
-      "published": "Sat, 14 Feb 2026 04:27:35 +0000",
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "summary": "Article URL: https://infosec.exchange/@mttaggart/116065340523529645\nComments URL: https://news.ycombinator.com/item?id=47013059\nPoints: 55\n# Comments: 12",
+      "link": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "published": "Sat, 14 Feb 2026 09:28:45 +0000",
       "keywords": [
         "AI",
-        "SQL",
-        "PostgreSQL",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.061295"
+      "crawled_at": "2026-02-14T12:23:58.130066"
     },
     {
       "source": "hackernews",
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "summary": "Article URL: https://npmx.dev\nComments URL: https://news.ycombinator.com/item?id=47010823\nPoints: 66\n# Comments: 34",
-      "link": "https://npmx.dev",
-      "published": "Sat, 14 Feb 2026 02:14:34 +0000",
+      "title": "YouTube as Storage",
+      "summary": "Article URL: https://github.com/PulseBeat02/yt-media-storage\nComments URL: https://news.ycombinator.com/item?id=47012964\nPoints: 51\n# Comments: 48",
+      "link": "https://github.com/PulseBeat02/yt-media-storage",
+      "published": "Sat, 14 Feb 2026 09:10:15 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-14T12:23:58.130098"
+    },
+    {
+      "source": "hackernews",
+      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-02-13\nComments URL: https://news.ycombinator.com/item?id=47012717\nPoints: 138\n# Comments: 74",
+      "link": "https://ziglang.org/devlog/2026/#2026-02-13",
+      "published": "Sat, 14 Feb 2026 08:22:11 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:44.061336"
+      "crawled_at": "2026-02-14T12:23:58.130143"
     },
     {
       "source": "hackernews",
-      "title": "What dating apps are optimizing. Hint: It isn't love",
-      "summary": "Article URL: https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html\nComments URL: https://news.ycombinator.com/item?id=47010406\nPoints: 85\n# Comments: 48",
-      "link": "https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html",
-      "published": "Sat, 14 Feb 2026 01:27:28 +0000",
+      "title": "Cogram (YC W22) – Hiring former technical founders",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer\nComments URL: https://news.ycombinator.com/item?id=47012312\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+      "published": "Sat, 14 Feb 2026 07:00:15 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-14T06:31:44.061375"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI has deleted the word 'safely' from its mission",
-      "summary": "See also: https://simonwillison.net/2026/Feb/13/openai-mission-stateme...\n\nComments URL: https://news.ycombinator.com/item?id=47008560\nPoints: 455\n# Comments: 238",
-      "link": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-      "published": "Fri, 13 Feb 2026 22:17:06 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.061404"
+      "category": "Tech News",
+      "crawled_at": "2026-02-14T12:23:58.130188"
     },
     {
       "source": "arstechnica",
@@ -206,7 +207,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:44.252745"
+      "crawled_at": "2026-02-14T12:23:58.295696"
     },
     {
       "source": "arstechnica",
@@ -218,7 +219,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.252773"
+      "crawled_at": "2026-02-14T12:23:58.295724"
     },
     {
       "source": "arstechnica",
@@ -230,7 +231,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.252795"
+      "crawled_at": "2026-02-14T12:23:58.295746"
     },
     {
       "source": "arstechnica",
@@ -240,7 +241,7 @@
       "published": "Fri, 13 Feb 2026 21:39:29 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:44.252833"
+      "crawled_at": "2026-02-14T12:23:58.295784"
     },
     {
       "source": "arstechnica",
@@ -253,71 +254,77 @@
         "Android"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.252852"
+      "crawled_at": "2026-02-14T12:23:58.295803"
     },
     {
       "source": "wired",
-      "title": "Sony Promo Codes and Discounts: 45% Off",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "link": "https://www.wired.com/story/sony-promo-code/",
-      "published": "Sat, 14 Feb 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-14T06:31:44.438903"
+      "title": "How to Choose the Right Gaming Laptop (2026): What You Need to Know",
+      "summary": "With over a decade of experience in reviewing gaming laptops, here’s my rundown of what to consider before pulling the trigger.",
+      "link": "https://www.wired.com/story/how-to-buy-a-gaming-laptop/",
+      "published": "Sat, 14 Feb 2026 12:00:00 +0000",
+      "keywords": [
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-14T12:23:58.401789"
     },
     {
       "source": "wired",
-      "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
-      "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-      "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-      "published": "Fri, 13 Feb 2026 21:56:18 +0000",
+      "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+      "summary": "Plus: Meta plans to add face recognition to its smart glasses, Jared Kushner named as part of whistleblower’s mysterious national security complaint, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
+      "published": "Sat, 14 Feb 2026 11:30:00 +0000",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
+        "Security",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.438941"
+      "crawled_at": "2026-02-14T12:23:58.401825"
     },
     {
       "source": "wired",
-      "title": "Social Security Workers Are Being Told to Hand Over Appointment Details to ICE",
-      "summary": "The recent request goes against decades of precedent and puts noncitizens at further risk of immigration enforcement actions.",
-      "link": "https://www.wired.com/story/social-security-administration-appointment-details-ice/",
-      "published": "Fri, 13 Feb 2026 20:10:58 +0000",
+      "title": "Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed",
+      "summary": "Whether you have privacy concerns or you just want to freely tinker, these are our favorite alternatives to stock Android.",
+      "link": "https://www.wired.com/story/best-android-alternatives/",
+      "published": "Sat, 14 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-14T12:23:58.401862"
+    },
+    {
+      "source": "wired",
+      "title": "Here’s What It’s Like to Use H&R Block’s DIY Tax Service (2026)",
+      "summary": "Filing taxes is a pain. Here’s how H&amp;R Block DIY performed against other services I tested.",
+      "link": "https://www.wired.com/story/handr-block-diy-service/",
+      "published": "Sat, 14 Feb 2026 11:03:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-14T12:23:58.401888"
+    },
+    {
+      "source": "wired",
+      "title": "Gear News of the Week: Samsung Sets a Date for Galaxy Unpacked, and Fitbit’s AI Coach Comes to iOS",
+      "summary": "Plus: iOS 26.3 makes it easy to switch to Android, Google cancels the Android 17 beta, and YouTube debuts on the Apple Vision Pro.",
+      "link": "https://www.wired.com/story/gear-news-of-the-week-samsung-sets-a-date-for-galaxy-unpacked-and-fitbits-ai-coach-comes-to-ios/",
+      "published": "Sat, 14 Feb 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Security",
-        "AR"
+        "Apple",
+        "Google",
+        "Android"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-14T06:31:44.438972"
-    },
-    {
-      "source": "wired",
-      "title": "Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits",
-      "summary": "As prediction market platforms like Polymarket and Kalshi battle regulators in court, Senate Democrats are urging the CFTC to avoid weighing in, escalating a broader fight over the burgeoning industry.",
-      "link": "https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/",
-      "published": "Fri, 13 Feb 2026 19:31:24 +0000",
-      "keywords": [
-        "AWS",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-14T06:31:44.439004"
-    },
-    {
-      "source": "wired",
-      "title": "Join Our Livestream: The Hype, Reality, and Future of EVs",
-      "summary": "Pose your questions to a panel of WIRED experts about the future of the electric vehicle industry.",
-      "link": "https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/",
-      "published": "Fri, 13 Feb 2026 19:21:47 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-14T06:31:44.439032"
+      "crawled_at": "2026-02-14T12:23:58.401918"
     }
   ]
 }
