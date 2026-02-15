@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-15T06:38:02.206870",
+  "last_updated": "2026-02-15T12:25:58.704288",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The great computer science exodus (and where students are going instead)",
+      "summary": "Students are losing some interest in computer science broadly but gaining interest in AI-specific majors and courses.",
+      "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+      "published": "Sun, 15 Feb 2026 08:40:27 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-15T12:25:58.050426"
+    },
     {
       "source": "techcrunch",
       "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
@@ -13,7 +28,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-02-15T06:38:01.362143"
+      "crawled_at": "2026-02-15T12:25:58.050468"
     },
     {
       "source": "techcrunch",
@@ -25,7 +40,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:01.362180"
+      "crawled_at": "2026-02-15T12:25:58.050500"
     },
     {
       "source": "techcrunch",
@@ -40,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:01.362226"
+      "crawled_at": "2026-02-15T12:25:58.050529"
     },
     {
       "source": "techcrunch",
@@ -52,20 +67,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T06:38:01.362270"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-      "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-      "published": "Sat, 14 Feb 2026 18:26:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:01.362303"
+      "crawled_at": "2026-02-15T12:25:58.050570"
     },
     {
       "source": "theverge",
@@ -79,7 +81,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:01.435904"
+      "crawled_at": "2026-02-15T12:25:58.121443"
     },
     {
       "source": "theverge",
@@ -92,7 +94,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:01.435967"
+      "crawled_at": "2026-02-15T12:25:58.121512"
     },
     {
       "source": "theverge",
@@ -104,7 +106,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:01.436022"
+      "crawled_at": "2026-02-15T12:25:58.121567"
     },
     {
       "source": "theverge",
@@ -118,7 +120,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T06:38:01.436061"
+      "crawled_at": "2026-02-15T12:25:58.121605"
     },
     {
       "source": "theverge",
@@ -131,39 +133,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:01.436092"
+      "crawled_at": "2026-02-15T12:25:58.121634"
     },
     {
       "source": "hackernews",
-      "title": "I gave my AI drugs",
-      "summary": "Article URL: https://github.com/nich2533/just_say_no\nComments URL: https://news.ycombinator.com/item?id=47021322\nPoints: 3\n# Comments: 2",
-      "link": "https://github.com/nich2533/just_say_no",
-      "published": "Sun, 15 Feb 2026 05:33:07 +0000",
+      "title": "Two different tricks for fast LLM inference",
+      "summary": "Article URL: https://www.seangoedecke.com/fast-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=47022329\nPoints: 45\n# Comments: 25",
+      "link": "https://www.seangoedecke.com/fast-llm-inference/",
+      "published": "Sun, 15 Feb 2026 09:27:33 +0000",
       "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.008843"
+      "crawled_at": "2026-02-15T12:25:58.532593"
     },
     {
       "source": "hackernews",
-      "title": "Linear Representations and Superposition",
-      "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html\nComments URL: https://news.ycombinator.com/item?id=47021065\nPoints: 9\n# Comments: 0",
-      "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
-      "published": "Sun, 15 Feb 2026 04:29:44 +0000",
+      "title": "Seeing Theory",
+      "summary": "Article URL: https://seeing-theory.brown.edu/\nComments URL: https://news.ycombinator.com/item?id=47022067\nPoints: 28\n# Comments: 1",
+      "link": "https://seeing-theory.brown.edu/",
+      "published": "Sun, 15 Feb 2026 08:40:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.008890"
+      "crawled_at": "2026-02-15T12:25:58.532632"
+    },
+    {
+      "source": "hackernews",
+      "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
+      "summary": "Article URL: https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951\nComments URL: https://news.ycombinator.com/item?id=47021421\nPoints: 97\n# Comments: 38",
+      "link": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
+      "published": "Sun, 15 Feb 2026 06:00:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-15T12:25:58.532674"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+      "summary": "Article URL: https://flashpointarchive.org\nComments URL: https://news.ycombinator.com/item?id=47021354\nPoints: 141\n# Comments: 33",
+      "link": "https://flashpointarchive.org",
+      "published": "Sun, 15 Feb 2026 05:43:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-15T12:25:58.532717"
     },
     {
       "source": "hackernews",
       "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
-      "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/\nComments URL: https://news.ycombinator.com/item?id=47020791\nPoints: 16\n# Comments: 2",
+      "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/\nComments URL: https://news.ycombinator.com/item?id=47020791\nPoints: 55\n# Comments: 8",
       "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
       "published": "Sun, 15 Feb 2026 03:29:39 +0000",
       "keywords": [
@@ -171,33 +195,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.008923"
-    },
-    {
-      "source": "hackernews",
-      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-      "summary": "Article URL: https://newpipe.net/\nComments URL: https://news.ycombinator.com/item?id=47020218\nPoints: 193\n# Comments: 52",
-      "link": "https://newpipe.net/",
-      "published": "Sun, 15 Feb 2026 01:24:16 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.008956"
-    },
-    {
-      "source": "hackernews",
-      "title": "I love the work of the ArchWiki maintainers",
-      "summary": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/\nComments URL: https://news.ycombinator.com/item?id=47020191\nPoints: 189\n# Comments: 37",
-      "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-      "published": "Sun, 15 Feb 2026 01:20:58 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.008981"
+      "crawled_at": "2026-02-15T12:25:58.532750"
     },
     {
       "source": "arstechnica",
@@ -209,7 +207,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.121023"
+      "crawled_at": "2026-02-15T12:25:58.617856"
     },
     {
       "source": "arstechnica",
@@ -222,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.121060"
+      "crawled_at": "2026-02-15T12:25:58.617892"
     },
     {
       "source": "arstechnica",
@@ -234,7 +232,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T06:38:02.121086"
+      "crawled_at": "2026-02-15T12:25:58.617934"
     },
     {
       "source": "arstechnica",
@@ -246,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.121113"
+      "crawled_at": "2026-02-15T12:25:58.617963"
     },
     {
       "source": "arstechnica",
@@ -258,73 +256,70 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.121134"
+      "crawled_at": "2026-02-15T12:25:58.617984"
     },
     {
       "source": "wired",
-      "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
-      "summary": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
-      "link": "https://www.wired.com/gallery/best-apple-watch/",
-      "published": "Sat, 14 Feb 2026 13:00:00 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-15T06:38:02.206636"
+      "title": "The Nothing That Has the Potential to Be Anything",
+      "summary": "You can never truly empty a box. Why? Zero-point energy.",
+      "link": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
+      "published": "Sun, 15 Feb 2026 12:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-15T12:25:58.704010"
     },
     {
       "source": "wired",
-      "title": "How to Choose the Right Gaming Laptop (2026): What You Need to Know",
-      "summary": "With over a decade of experience in reviewing gaming laptops, here’s my rundown of what to consider before pulling the trigger.",
-      "link": "https://www.wired.com/story/how-to-buy-a-gaming-laptop/",
-      "published": "Sat, 14 Feb 2026 12:00:00 +0000",
+      "title": "The Best Samsung Phones of 2026, Tested and Reviewed",
+      "summary": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
+      "link": "https://www.wired.com/gallery/best-samsung-phones/",
+      "published": "Sun, 15 Feb 2026 12:00:00 +0000",
       "keywords": [
-        "Gaming"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T06:38:02.206686"
+      "crawled_at": "2026-02-15T12:25:58.704069"
     },
     {
       "source": "wired",
-      "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
-      "summary": "Plus: Meta plans to add face recognition to its smart glasses, Jared Kushner named as part of whistleblower’s mysterious national security complaint, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
-      "published": "Sat, 14 Feb 2026 11:30:00 +0000",
+      "title": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
+      "summary": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
+      "link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
+      "published": "Sun, 15 Feb 2026 11:30:00 +0000",
       "keywords": [
         "AI",
-        "Security",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.206718"
-    },
-    {
-      "source": "wired",
-      "title": "Best Alternatives to Google’s Android Operating System (2026), Tested and Reviewed",
-      "summary": "Whether you have privacy concerns or you just want to freely tinker, these are our favorite alternatives to stock Android.",
-      "link": "https://www.wired.com/story/best-android-alternatives/",
-      "published": "Sat, 14 Feb 2026 11:30:00 +0000",
-      "keywords": [
         "Go",
         "Google",
-        "Android",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-15T06:38:02.206753"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-15T12:25:58.704102"
     },
     {
       "source": "wired",
-      "title": "Here’s What It’s Like to Use H&R Block’s DIY Tax Service (2026)",
-      "summary": "Filing taxes is a pain. Here’s how H&amp;R Block DIY performed against other services I tested.",
-      "link": "https://www.wired.com/story/handr-block-diy-service/",
-      "published": "Sat, 14 Feb 2026 11:03:00 +0000",
+      "title": "9 Best Windows Laptops (2026): WIRED-Tested Laptops to Buy",
+      "summary": "Windows laptops have never been so good, and they're only going to get better as we move through 2026.",
+      "link": "https://www.wired.com/gallery/best-windows-laptops/",
+      "published": "Sun, 15 Feb 2026 11:30:00 +0000",
       "keywords": [
-        "AI"
+        "Go",
+        "Windows"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-15T12:25:58.704132"
+    },
+    {
+      "source": "wired",
+      "title": "CurrentBody LED Hair Growth Helmet Review: Baby Hairs Abound (2026)",
+      "summary": "This FDA-cleared red-light helmet helps spur hair growth and is Bluetooth-enabled with a comfortable design. But don’t expect results overnight.",
+      "link": "https://www.wired.com/review/currentbody-led-hair-growth-helmet/",
+      "published": "Sun, 15 Feb 2026 11:08:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T06:38:02.206778"
+      "crawled_at": "2026-02-15T12:25:58.704161"
     }
   ]
 }
