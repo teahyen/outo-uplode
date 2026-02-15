@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T01:13:51.902326",
+  "last_updated": "2026-02-15T06:38:02.206870",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-02-15T01:13:51.327756"
+      "crawled_at": "2026-02-15T06:38:01.362143"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.327795"
+      "crawled_at": "2026-02-15T06:38:01.362180"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.327824"
+      "crawled_at": "2026-02-15T06:38:01.362226"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T01:13:51.327867"
+      "crawled_at": "2026-02-15T06:38:01.362270"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.327899"
+      "crawled_at": "2026-02-15T06:38:01.362303"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.412063"
+      "crawled_at": "2026-02-15T06:38:01.435904"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.412136"
+      "crawled_at": "2026-02-15T06:38:01.435967"
     },
     {
       "source": "theverge",
@@ -104,7 +104,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.412191"
+      "crawled_at": "2026-02-15T06:38:01.436022"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T01:13:51.412232"
+      "crawled_at": "2026-02-15T06:38:01.436061"
     },
     {
       "source": "theverge",
@@ -131,78 +131,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.412277"
+      "crawled_at": "2026-02-15T06:38:01.436092"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-      "summary": "Your phone has a GPU more powerful than most 2018 laptops. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Off Grid is an open-source app that puts ",
-      "link": "https://github.com/alichherawalla/off-grid-mobile",
-      "published": "Sat, 14 Feb 2026 22:39:24 +0000",
+      "title": "I gave my AI drugs",
+      "summary": "Article URL: https://github.com/nich2533/just_say_no\nComments URL: https://news.ycombinator.com/item?id=47021322\nPoints: 3\n# Comments: 2",
+      "link": "https://github.com/nich2533/just_say_no",
+      "published": "Sun, 15 Feb 2026 05:33:07 +0000",
       "keywords": [
         "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-15T06:38:02.008843"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linear Representations and Superposition",
+      "summary": "Article URL: http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html\nComments URL: https://news.ycombinator.com/item?id=47021065\nPoints: 9\n# Comments: 0",
+      "link": "http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html",
+      "published": "Sun, 15 Feb 2026 04:29:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-15T06:38:02.008890"
+    },
+    {
+      "source": "hackernews",
+      "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+      "summary": "Article URL: https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/\nComments URL: https://news.ycombinator.com/item?id=47020791\nPoints: 16\n# Comments: 2",
+      "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+      "published": "Sun, 15 Feb 2026 03:29:39 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-15T06:38:02.008923"
+    },
+    {
+      "source": "hackernews",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "summary": "Article URL: https://newpipe.net/\nComments URL: https://news.ycombinator.com/item?id=47020218\nPoints: 193\n# Comments: 52",
+      "link": "https://newpipe.net/",
+      "published": "Sun, 15 Feb 2026 01:24:16 +0000",
+      "keywords": [
         "Go",
-        "Meta",
-        "Android",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.617613"
-    },
-    {
-      "source": "hackernews",
-      "title": "Colored Petri Nets, LLMs, and distributed applications",
-      "summary": "Article URL: https://blog.sao.dev/cpns-llms-distributed-apps/\nComments URL: https://news.ycombinator.com/item?id=47018405\nPoints: 22\n# Comments: 3",
-      "link": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-      "published": "Sat, 14 Feb 2026 21:08:08 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.617654"
-    },
-    {
-      "source": "hackernews",
-      "title": "Descent, ported to the web",
-      "summary": "Article URL: https://mrdoob.github.io/three-descent/\nComments URL: https://news.ycombinator.com/item?id=47017545\nPoints: 142\n# Comments: 29",
-      "link": "https://mrdoob.github.io/three-descent/",
-      "published": "Sat, 14 Feb 2026 19:33:24 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.617688"
+      "crawled_at": "2026-02-15T06:38:02.008956"
     },
     {
       "source": "hackernews",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "summary": "Article URL: https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/\nComments URL: https://news.ycombinator.com/item?id=47017138\nPoints: 367\n# Comments: 221",
-      "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-      "published": "Sat, 14 Feb 2026 18:46:32 +0000",
+      "title": "I love the work of the ArchWiki maintainers",
+      "summary": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/\nComments URL: https://news.ycombinator.com/item?id=47020191\nPoints: 189\n# Comments: 37",
+      "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "published": "Sun, 15 Feb 2026 01:20:58 +0000",
       "keywords": [
         "AI",
-        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.617720"
-    },
-    {
-      "source": "hackernews",
-      "title": "A header-only C vector database library",
-      "summary": "Article URL: https://github.com/abdimoallim/vdb\nComments URL: https://news.ycombinator.com/item?id=47016530\nPoints: 56\n# Comments: 20",
-      "link": "https://github.com/abdimoallim/vdb",
-      "published": "Sat, 14 Feb 2026 17:45:09 +0000",
-      "keywords": [
-        "Database",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.617751"
+      "crawled_at": "2026-02-15T06:38:02.008981"
     },
     {
       "source": "arstechnica",
@@ -214,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.786789"
+      "crawled_at": "2026-02-15T06:38:02.121023"
     },
     {
       "source": "arstechnica",
@@ -227,7 +222,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.786827"
+      "crawled_at": "2026-02-15T06:38:02.121060"
     },
     {
       "source": "arstechnica",
@@ -239,7 +234,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T01:13:51.786854"
+      "crawled_at": "2026-02-15T06:38:02.121086"
     },
     {
       "source": "arstechnica",
@@ -251,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.786880"
+      "crawled_at": "2026-02-15T06:38:02.121113"
     },
     {
       "source": "arstechnica",
@@ -263,7 +258,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.786900"
+      "crawled_at": "2026-02-15T06:38:02.121134"
     },
     {
       "source": "wired",
@@ -275,7 +270,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T01:13:51.902090"
+      "crawled_at": "2026-02-15T06:38:02.206636"
     },
     {
       "source": "wired",
@@ -287,7 +282,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T01:13:51.902139"
+      "crawled_at": "2026-02-15T06:38:02.206686"
     },
     {
       "source": "wired",
@@ -302,7 +297,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.902171"
+      "crawled_at": "2026-02-15T06:38:02.206718"
     },
     {
       "source": "wired",
@@ -317,7 +312,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-15T01:13:51.902206"
+      "crawled_at": "2026-02-15T06:38:02.206753"
     },
     {
       "source": "wired",
@@ -329,7 +324,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T01:13:51.902232"
+      "crawled_at": "2026-02-15T06:38:02.206778"
     }
   ]
 }
