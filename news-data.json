@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T01:11:10.949480",
+  "last_updated": "2026-02-16T06:52:09.460966",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.154435"
+      "crawled_at": "2026-02-16T06:52:08.737806"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.154471"
+      "crawled_at": "2026-02-16T06:52:08.737844"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.154494"
+      "crawled_at": "2026-02-16T06:52:08.737866"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:08.154539"
+      "crawled_at": "2026-02-16T06:52:08.737910"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.154565"
+      "crawled_at": "2026-02-16T06:52:08.737937"
     },
     {
       "source": "theverge",
@@ -82,7 +82,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.298476"
+      "crawled_at": "2026-02-16T06:52:08.834495"
     },
     {
       "source": "theverge",
@@ -96,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.298519"
+      "crawled_at": "2026-02-16T06:52:08.834537"
     },
     {
       "source": "theverge",
@@ -110,7 +110,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.298564"
+      "crawled_at": "2026-02-16T06:52:08.834581"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:08.298593"
+      "crawled_at": "2026-02-16T06:52:08.834609"
     },
     {
       "source": "theverge",
@@ -137,69 +137,72 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:08.298646"
+      "crawled_at": "2026-02-16T06:52:08.834663"
     },
     {
       "source": "hackernews",
-      "title": "I don't think AGI is imminent",
-      "summary": "Article URL: https://dlants.me/agi-not-imminent.html\nComments URL: https://news.ycombinator.com/item?id=47028923\nPoints: 13\n# Comments: 8",
-      "link": "https://dlants.me/agi-not-imminent.html",
-      "published": "Sun, 15 Feb 2026 23:34:18 +0000",
+      "title": "Building SQLite with a small swarm",
+      "summary": "Hope some find this post interesting on my experience with parallel coding agents.\n\nComments URL: https://news.ycombinator.com/item?id=47031268\nPoints: 7\n# Comments: 0",
+      "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+      "published": "Mon, 16 Feb 2026 05:38:51 +0000",
       "keywords": [
+        "REST",
+        "SQL",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.667736"
+      "crawled_at": "2026-02-16T06:52:09.269759"
+    },
+    {
+      "source": "hackernews",
+      "title": "Arm wants a bigger slice of the chip business",
+      "summary": "Article URL: https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business\nComments URL: https://news.ycombinator.com/item?id=47030271\nPoints: 49\n# Comments: 26",
+      "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+      "published": "Mon, 16 Feb 2026 02:36:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-02-16T06:52:09.269805"
+    },
+    {
+      "source": "hackernews",
+      "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+      "summary": "Article URL: https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/\nComments URL: https://news.ycombinator.com/item?id=47029339\nPoints: 43\n# Comments: 43",
+      "link": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+      "published": "Mon, 16 Feb 2026 00:26:23 +0000",
+      "keywords": [
+        "JavaScript",
+        "Go",
+        "Java",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-16T06:52:09.269839"
     },
     {
       "source": "hackernews",
       "title": "Error payloads in Zig",
-      "summary": "Article URL: https://srcreigh.ca/posts/error-payloads-in-zig/\nComments URL: https://news.ycombinator.com/item?id=47028705\nPoints: 21\n# Comments: 0",
+      "summary": "Article URL: https://srcreigh.ca/posts/error-payloads-in-zig/\nComments URL: https://news.ycombinator.com/item?id=47028705\nPoints: 66\n# Comments: 24",
       "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
       "published": "Sun, 15 Feb 2026 23:08:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.667777"
+      "crawled_at": "2026-02-16T06:52:09.269871"
     },
     {
       "source": "hackernews",
       "title": "Continuous batching from first principles (2025)",
-      "summary": "Article URL: https://huggingface.co/blog/continuous_batching\nComments URL: https://news.ycombinator.com/item?id=47028545\nPoints: 14\n# Comments: 2",
+      "summary": "Article URL: https://huggingface.co/blog/continuous_batching\nComments URL: https://news.ycombinator.com/item?id=47028545\nPoints: 30\n# Comments: 6",
       "link": "https://huggingface.co/blog/continuous_batching",
       "published": "Sun, 15 Feb 2026 22:47:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.667811"
-    },
-    {
-      "source": "hackernews",
-      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "summary": "Article URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/\nComments URL: https://news.ycombinator.com/item?id=47028227\nPoints: 94\n# Comments: 29",
-      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "published": "Sun, 15 Feb 2026 22:17:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.667848"
-    },
-    {
-      "source": "hackernews",
-      "title": "I’m joining OpenAI",
-      "summary": "Article URL: https://steipete.me/posts/2026/openclaw\nComments URL: https://news.ycombinator.com/item?id=47028013\nPoints: 442\n# Comments: 329",
-      "link": "https://steipete.me/posts/2026/openclaw",
-      "published": "Sun, 15 Feb 2026 21:54:15 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.667879"
+      "crawled_at": "2026-02-16T06:52:09.269903"
     },
     {
       "source": "arstechnica",
@@ -209,7 +212,7 @@
       "published": "Sun, 15 Feb 2026 21:11:54 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.771991"
+      "crawled_at": "2026-02-16T06:52:09.357701"
     },
     {
       "source": "arstechnica",
@@ -222,7 +225,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.772019"
+      "crawled_at": "2026-02-16T06:52:09.357731"
     },
     {
       "source": "arstechnica",
@@ -235,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.772049"
+      "crawled_at": "2026-02-16T06:52:09.357761"
     },
     {
       "source": "arstechnica",
@@ -248,7 +251,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.772073"
+      "crawled_at": "2026-02-16T06:52:09.357785"
     },
     {
       "source": "arstechnica",
@@ -260,7 +263,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.772099"
+      "crawled_at": "2026-02-16T06:52:09.357814"
     },
     {
       "source": "wired",
@@ -270,7 +273,7 @@
       "published": "Sun, 15 Feb 2026 12:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.949226"
+      "crawled_at": "2026-02-16T06:52:09.460742"
     },
     {
       "source": "wired",
@@ -282,7 +285,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.949297"
+      "crawled_at": "2026-02-16T06:52:09.460792"
     },
     {
       "source": "wired",
@@ -297,7 +300,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.949329"
+      "crawled_at": "2026-02-16T06:52:09.460824"
     },
     {
       "source": "wired",
@@ -310,7 +313,7 @@
         "Windows"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T01:11:10.949359"
+      "crawled_at": "2026-02-16T06:52:09.460853"
     },
     {
       "source": "wired",
@@ -323,7 +326,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T01:11:10.949388"
+      "crawled_at": "2026-02-16T06:52:09.460881"
     }
   ]
 }
