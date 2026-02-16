@@ -1,71 +1,88 @@
 {
-  "last_updated": "2026-02-15T18:20:46.247225",
+  "last_updated": "2026-02-16T01:11:10.949480",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "published": "Sun, 15 Feb 2026 18:00:00 +0000",
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "published": "Mon, 16 Feb 2026 01:00:00 +0000",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.241249"
+      "crawled_at": "2026-02-16T01:11:08.154435"
     },
     {
       "source": "techcrunch",
-      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-      "published": "Sun, 15 Feb 2026 17:30:00 +0000",
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "published": "Mon, 16 Feb 2026 00:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.241286"
+      "crawled_at": "2026-02-16T01:11:08.154471"
     },
     {
       "source": "techcrunch",
-      "title": "TechCrunch Mobility: Rivian’s savior",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "link": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
-      "published": "Sun, 15 Feb 2026 17:05:00 +0000",
-      "keywords": [],
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "summary": "OpenAI said OpenClaw will live on as an open source project.",
+      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "published": "Sun, 15 Feb 2026 22:28:02 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-16T01:11:08.154494"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+      "summary": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
+      "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+      "published": "Sun, 15 Feb 2026 22:07:51 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:42.241325"
+      "crawled_at": "2026-02-16T01:11:08.154539"
     },
     {
       "source": "techcrunch",
-      "title": "What the Epstein files reveal about EV startups and Silicon Valley",
-      "summary": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
-      "link": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
-      "published": "Sun, 15 Feb 2026 16:54:12 +0000",
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "published": "Sun, 15 Feb 2026 21:11:28 +0000",
       "keywords": [
-        "Startup",
+        "Anthropic",
+        "Claude",
+        "Go",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-02-15T18:20:42.241354"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-16T01:11:08.154565"
     },
     {
-      "source": "techcrunch",
-      "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
-      "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
-      "link": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-      "published": "Sun, 15 Feb 2026 15:53:53 +0000",
+      "source": "theverge",
+      "title": "OpenClaw founder Peter Steinberger is joining OpenAI",
+      "summary": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that th",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+      "published": "2026-02-15T17:56:16-05:00",
       "keywords": [
-        "Startup",
-        "AR"
+        "AI",
+        "OpenAI",
+        "Go"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-02-15T18:20:42.241389"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-16T01:11:08.298476"
     },
     {
       "source": "theverge",
@@ -79,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.346430"
+      "crawled_at": "2026-02-16T01:11:08.298519"
     },
     {
       "source": "theverge",
@@ -93,7 +110,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.346484"
+      "crawled_at": "2026-02-16T01:11:08.298564"
     },
     {
       "source": "theverge",
@@ -106,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.346515"
+      "crawled_at": "2026-02-16T01:11:08.298593"
     },
     {
       "source": "theverge",
@@ -120,85 +137,105 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:42.346569"
+      "crawled_at": "2026-02-16T01:11:08.298646"
     },
     {
-      "source": "theverge",
-      "title": "Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece",
-      "summary": "With Apple’s second-gen AirTags now widely available, we’re already seeing inventory of the first-gen model begin to dwindle. Case in point? Amazon is no longer selling a single AirTag, and it’s unclear when — or if — the retailer will restock the first-gen model. Thankfully, you can still grab a fo",
-      "link": "https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal",
-      "published": "2026-02-15T10:00:00-05:00",
+      "source": "hackernews",
+      "title": "I don't think AGI is imminent",
+      "summary": "Article URL: https://dlants.me/agi-not-imminent.html\nComments URL: https://news.ycombinator.com/item?id=47028923\nPoints: 13\n# Comments: 8",
+      "link": "https://dlants.me/agi-not-imminent.html",
+      "published": "Sun, 15 Feb 2026 23:34:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-16T01:11:10.667736"
+    },
+    {
+      "source": "hackernews",
+      "title": "Error payloads in Zig",
+      "summary": "Article URL: https://srcreigh.ca/posts/error-payloads-in-zig/\nComments URL: https://news.ycombinator.com/item?id=47028705\nPoints: 21\n# Comments: 0",
+      "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "published": "Sun, 15 Feb 2026 23:08:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-16T01:11:10.667777"
+    },
+    {
+      "source": "hackernews",
+      "title": "Continuous batching from first principles (2025)",
+      "summary": "Article URL: https://huggingface.co/blog/continuous_batching\nComments URL: https://news.ycombinator.com/item?id=47028545\nPoints: 14\n# Comments: 2",
+      "link": "https://huggingface.co/blog/continuous_batching",
+      "published": "Sun, 15 Feb 2026 22:47:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-16T01:11:10.667811"
+    },
+    {
+      "source": "hackernews",
+      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+      "summary": "Article URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/\nComments URL: https://news.ycombinator.com/item?id=47028227\nPoints: 94\n# Comments: 29",
+      "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "published": "Sun, 15 Feb 2026 22:17:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-16T01:11:10.667848"
+    },
+    {
+      "source": "hackernews",
+      "title": "I’m joining OpenAI",
+      "summary": "Article URL: https://steipete.me/posts/2026/openclaw\nComments URL: https://news.ycombinator.com/item?id=47028013\nPoints: 442\n# Comments: 329",
+      "link": "https://steipete.me/posts/2026/openclaw",
+      "published": "Sun, 15 Feb 2026 21:54:15 +0000",
       "keywords": [
         "AI",
-        "API",
-        "REST",
-        "Apple",
-        "Amazon"
+        "OpenAI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:42.346609"
+      "crawled_at": "2026-02-16T01:11:10.667879"
     },
     {
-      "source": "hackernews",
-      "title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
-      "summary": "Article URL: https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/\nComments URL: https://news.ycombinator.com/item?id=47025624\nPoints: 17\n# Comments: 0",
-      "link": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
-      "published": "Sun, 15 Feb 2026 17:37:10 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "source": "arstechnica",
+      "title": "Space Station returns to a full crew complement after a month",
+      "summary": "\"It's only possible because of the incredibly talented workforce we have.\"",
+      "link": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
+      "published": "Sun, 15 Feb 2026 21:11:54 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.072920"
+      "crawled_at": "2026-02-16T01:11:10.771991"
     },
     {
-      "source": "hackernews",
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "summary": "Article URL: https://github.com/TechPaula/LT6502\nComments URL: https://news.ycombinator.com/item?id=47025399\nPoints: 59\n# Comments: 8",
-      "link": "https://github.com/TechPaula/LT6502",
-      "published": "Sun, 15 Feb 2026 17:12:35 +0000",
+      "source": "arstechnica",
+      "title": "Ancient Mars was warm and wet, not cold and icy",
+      "summary": "Kaolinite pebbles show evidence of alteration under high rainfall conditions.",
+      "link": "https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/",
+      "published": "Sun, 15 Feb 2026 20:14:16 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.072963"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-16T01:11:10.772019"
     },
     {
-      "source": "hackernews",
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "summary": "Article URL: https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en\nComments URL: https://news.ycombinator.com/item?id=47025378\nPoints: 143\n# Comments: 94",
-      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "published": "Sun, 15 Feb 2026 17:10:18 +0000",
+      "source": "arstechnica",
+      "title": "Editor’s Note: Retraction of article containing fabricated quotations",
+      "summary": "We are reinforcing our editorial standards following this incident.",
+      "link": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+      "published": "Sun, 15 Feb 2026 18:09:09 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-15T18:20:46.073003"
-    },
-    {
-      "source": "hackernews",
-      "title": "Palantir vs. the \"Republik\": US analytics firm takes magazine to court",
-      "summary": "Article URL: https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html\nComments URL: https://news.ycombinator.com/item?id=47025188\nPoints: 47\n# Comments: 7",
-      "link": "https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html",
-      "published": "Sun, 15 Feb 2026 16:51:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.073043"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hideki Sato, designer of all Sega's consoles, has died",
-      "summary": "Article URL: https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/\nComments URL: https://news.ycombinator.com/item?id=47024907\nPoints: 128\n# Comments: 3",
-      "link": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-      "published": "Sun, 15 Feb 2026 16:19:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.073081"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-16T01:11:10.772049"
     },
     {
       "source": "arstechnica",
@@ -211,7 +248,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:46.162486"
+      "crawled_at": "2026-02-16T01:11:10.772073"
     },
     {
       "source": "arstechnica",
@@ -223,44 +260,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.162521"
-    },
-    {
-      "source": "arstechnica",
-      "title": "A Valentine's Day homage to Crouching Tiger, Hidden Dragon",
-      "summary": "Ang Lee's gorgeous 2000 masterpiece has awe-inspiring martial arts stunts and a tragic love story for the ages.",
-      "link": "https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/",
-      "published": "Sat, 14 Feb 2026 18:33:36 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.162552"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Astronomers are filling in the blanks of the Kuiper Belt",
-      "summary": "Next-generation telescopes are mapping this outer frontier.",
-      "link": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
-      "published": "Sat, 14 Feb 2026 11:45:48 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-15T18:20:46.162577"
-    },
-    {
-      "source": "arstechnica",
-      "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
-      "summary": "CDC awarded $1.6 million for study birth dose of hepatitis B vaccine in Guinea-Bissau.",
-      "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
-      "published": "Fri, 13 Feb 2026 23:16:48 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.162603"
+      "crawled_at": "2026-02-16T01:11:10.772099"
     },
     {
       "source": "wired",
@@ -270,7 +270,7 @@
       "published": "Sun, 15 Feb 2026 12:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.247012"
+      "crawled_at": "2026-02-16T01:11:10.949226"
     },
     {
       "source": "wired",
@@ -282,7 +282,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.247062"
+      "crawled_at": "2026-02-16T01:11:10.949297"
     },
     {
       "source": "wired",
@@ -297,7 +297,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:46.247093"
+      "crawled_at": "2026-02-16T01:11:10.949329"
     },
     {
       "source": "wired",
@@ -310,7 +310,7 @@
         "Windows"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-15T18:20:46.247122"
+      "crawled_at": "2026-02-16T01:11:10.949359"
     },
     {
       "source": "wired",
@@ -323,7 +323,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-15T18:20:46.247150"
+      "crawled_at": "2026-02-16T01:11:10.949388"
     }
   ]
 }
