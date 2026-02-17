@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-02-16T18:29:28.721231",
+  "last_updated": "2026-02-17T01:10:13.049134",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+      "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
+      "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+      "published": "Mon, 16 Feb 2026 18:53:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-17T01:10:11.796210"
+    },
     {
       "source": "techcrunch",
       "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
@@ -15,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.042344"
+      "crawled_at": "2026-02-17T01:10:11.796245"
     },
     {
       "source": "techcrunch",
@@ -27,7 +39,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.042384"
+      "crawled_at": "2026-02-17T01:10:11.796273"
     },
     {
       "source": "techcrunch",
@@ -40,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.042413"
+      "crawled_at": "2026-02-17T01:10:11.796300"
     },
     {
       "source": "techcrunch",
@@ -54,23 +66,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.042449"
+      "crawled_at": "2026-02-17T01:10:11.796335"
     },
     {
-      "source": "techcrunch",
-      "title": "All the important news from the ongoing India AI Impact Summit",
-      "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-      "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-      "published": "Mon, 16 Feb 2026 11:20:27 +0000",
+      "source": "theverge",
+      "title": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
+      "summary": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. H",
+      "link": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "published": "2026-02-16T15:21:33-05:00",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "Google"
+        "Apple",
+        "iPhone",
+        "Android",
+        "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.042478"
+      "crawled_at": "2026-02-17T01:10:12.034372"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows",
+      "summary": "Apple is upgrading its Podcasts app to let users \"seamlessly\" swap between audio and video podcasts using its HTTP Live Streaming (HLS) technology. While listening to a show, users will be able to switch to a horizontal video version of the podcast and download the video versions of a podcast for of",
+      "link": "https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming",
+      "published": "2026-02-16T14:14:58-05:00",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-17T01:10:12.034445"
     },
     {
       "source": "theverge",
@@ -84,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.201286"
+      "crawled_at": "2026-02-17T01:10:12.034490"
     },
     {
       "source": "theverge",
@@ -98,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.201338"
+      "crawled_at": "2026-02-17T01:10:12.034529"
     },
     {
       "source": "theverge",
@@ -112,95 +136,121 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.201380"
-    },
-    {
-      "source": "theverge",
-      "title": "Switch 2 pricing and next PlayStation release could be impacted by memory shortage",
-      "summary": "Sony and Nintendo are reportedly feeling squeezed by RAM shortages as demand from AI data centers takes up an increasing share of memory chip production. In response to rising costs and dwindling chip supplies, Sony is considering pushing back the release of its next PlayStation console \"to 2028 or ",
-      "link": "https://www.theverge.com/tech/879668/sony-playstation-nintendo-switch-2-console-memory-shortage",
-      "published": "2026-02-16T08:45:49-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.201415"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung ad confirms rumors of a useful S26 ‘privacy display’",
-      "summary": "Samsung has released a new advertisement for its upcoming Galaxy S26 launch that all-but confirms rumors of a new display with a built-in privacy mode. Leaked videos show that the feature could be capable of entirely blacking out content from specific apps or parts of the display when viewed at an a",
-      "link": "https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel",
-      "published": "2026-02-16T06:55:50-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-16T18:29:28.201463"
+      "crawled_at": "2026-02-17T01:10:12.034568"
     },
     {
       "source": "hackernews",
-      "title": "I guess I kinda get why people hate AI",
-      "summary": "Article URL: https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html\nComments URL: https://news.ycombinator.com/item?id=47037628\nPoints: 17\n# Comments: 4",
-      "link": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
-      "published": "Mon, 16 Feb 2026 17:22:02 +0000",
+      "title": "Show HN: Journey – A Custom 2D ECS Game Engine Written in Rust and WGPU",
+      "summary": "Article URL: https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md\nComments URL: https://news.ycombinator.com/item?id=47041841\nPoints: 8\n# Comments: 3",
+      "link": "https://ujjwalvivek.com/blog/proj_0004_rust_game_engine.md",
+      "published": "Mon, 16 Feb 2026 23:41:06 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.439759"
-    },
-    {
-      "source": "hackernews",
-      "title": "WebMCP Proposal",
-      "summary": "Article URL: https://webmachinelearning.github.io/webmcp/\nComments URL: https://news.ycombinator.com/item?id=47037501\nPoints: 32\n# Comments: 5",
-      "link": "https://webmachinelearning.github.io/webmcp/",
-      "published": "Mon, 16 Feb 2026 17:08:20 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.439799"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to take a photo with scotch tape (lensless imaging) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=97f0nfU5Px0\nComments URL: https://news.ycombinator.com/item?id=47037313\nPoints: 17\n# Comments: 1",
-      "link": "https://www.youtube.com/watch?v=97f0nfU5Px0",
-      "published": "Mon, 16 Feb 2026 16:55:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.439833"
-    },
-    {
-      "source": "hackernews",
-      "title": "History of AT&T Long Lines",
-      "summary": "Article URL: https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/\nComments URL: https://news.ycombinator.com/item?id=47036921\nPoints: 5\n# Comments: 0",
-      "link": "https://telephoneworld.org/long-distance-companies/att-long-distance-network/history-of-att-long-lines/",
-      "published": "Mon, 16 Feb 2026 16:22:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.439870"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Simple org-mode web adapter",
-      "summary": "I like to use org files a lot, but I wanted some way to browse and edit them on my phone when I'm out. Yesterday I used Codex to make this simple one-file web server that just displays all my org files with backlinks. It doesn't have any authentication because I only run it on my wireguard VPN. I've",
-      "link": "https://github.com/SpaceTurth/Org-Web-Adapter",
-      "published": "Mon, 16 Feb 2026 16:19:16 +0000",
-      "keywords": [
+        "Rust",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-16T18:29:28.439912"
+      "crawled_at": "2026-02-17T01:10:12.650334"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "summary": "My great-grandfather Reuben P. Box was a US Forest Ranger in Northern California, and I've got his daily work diary from 1927-1945, through the depression, WWII, Conservation Corps, and lots of forest fires. I've scanned the entire thing, had Claude help with transcription, indexing, and web site bu",
+      "link": "https://forestrydiary.com/",
+      "published": "Mon, 16 Feb 2026 23:40:33 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Go",
+        "REST",
+        "Database"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-17T01:10:12.650419"
+    },
+    {
+      "source": "hackernews",
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "summary": "Article URL: https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=47041456\nPoints: 48\n# Comments: 16",
+      "link": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "published": "Mon, 16 Feb 2026 22:53:02 +0000",
+      "keywords": [
+        "Docker",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-02-17T01:10:12.650452"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rise of the Triforce",
+      "summary": "Article URL: https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/\nComments URL: https://news.ycombinator.com/item?id=47040524\nPoints: 59\n# Comments: 6",
+      "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "published": "Mon, 16 Feb 2026 21:24:04 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-17T01:10:12.650486"
+    },
+    {
+      "source": "hackernews",
+      "title": "Study: Self-generated Agent Skills are useless",
+      "summary": "Article URL: https://arxiv.org/abs/2602.12670\nComments URL: https://news.ycombinator.com/item?id=47040430\nPoints: 214\n# Comments: 101",
+      "link": "https://arxiv.org/abs/2602.12670",
+      "published": "Mon, 16 Feb 2026 21:15:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-17T01:10:12.650518"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4",
+      "summary": "Apple has not confirmed whether you'll be able to watch live, but Ars will bring you the news.",
+      "link": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+      "published": "Mon, 16 Feb 2026 20:30:15 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-17T01:10:12.835435"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Best Buy worker used manager’s code to get 99% off MacBooks, cops say",
+      "summary": "Employee allegedly exploited Best Buy's discount system for months.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/",
+      "published": "Mon, 16 Feb 2026 20:10:54 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-02-17T01:10:12.835472"
+    },
+    {
+      "source": "arstechnica",
+      "title": "ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”",
+      "summary": "Hollywood backlash puts spotlight on ByteDance's sketchy launch of Seedance 2.0.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/",
+      "published": "Mon, 16 Feb 2026 17:42:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-17T01:10:12.835502"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A fluid can store solar energy and then release it as heat months later",
+      "summary": "Sunlight can cause a molecule to change structure, and then release heat later.",
+      "link": "https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/",
+      "published": "Mon, 16 Feb 2026 17:30:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-17T01:10:12.835532"
     },
     {
       "source": "arstechnica",
@@ -213,56 +263,7 @@
         "AWS"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-16T18:29:28.545104"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Sideways on the ice, in a supercar: Stability control is getting very good",
-      "summary": "To test stability control, it helps to have a wide-open space with very low grip.",
-      "link": "https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/",
-      "published": "Mon, 16 Feb 2026 12:00:53 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.545140"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Space Station returns to a full crew complement after a month",
-      "summary": "\"It's only possible because of the incredibly talented workforce we have.\"",
-      "link": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
-      "published": "Sun, 15 Feb 2026 21:11:54 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.545168"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ancient Mars was warm and wet, not cold and icy",
-      "summary": "Kaolinite pebbles show evidence of alteration under high rainfall conditions.",
-      "link": "https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/",
-      "published": "Sun, 15 Feb 2026 20:14:16 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.545189"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Editor’s Note: Retraction of article containing fabricated quotations",
-      "summary": "We are reinforcing our editorial standards following this incident.",
-      "link": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-      "published": "Sun, 15 Feb 2026 18:09:09 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.545217"
+      "crawled_at": "2026-02-17T01:10:12.835556"
     },
     {
       "source": "wired",
@@ -274,7 +275,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-16T18:29:28.720965"
+      "crawled_at": "2026-02-17T01:10:13.048863"
     },
     {
       "source": "wired",
@@ -287,7 +288,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.720998"
+      "crawled_at": "2026-02-17T01:10:13.048896"
     },
     {
       "source": "wired",
@@ -300,7 +301,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.721025"
+      "crawled_at": "2026-02-17T01:10:13.048925"
     },
     {
       "source": "wired",
@@ -312,7 +313,7 @@
         "Go"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-16T18:29:28.721084"
+      "crawled_at": "2026-02-17T01:10:13.048971"
     },
     {
       "source": "wired",
@@ -324,7 +325,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-16T18:29:28.721113"
+      "crawled_at": "2026-02-17T01:10:13.048996"
     }
   ]
 }
