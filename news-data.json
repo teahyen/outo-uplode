@@ -1,80 +1,122 @@
 {
-  "last_updated": "2026-02-17T18:42:00.491282",
+  "last_updated": "2026-02-18T01:12:24.994281",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Anthropic releases Sonnet 4.6",
-      "summary": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
-      "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-      "published": "Tue, 17 Feb 2026 18:00:00 +0000",
-      "keywords": [
-        "Anthropic"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:41:57.774025"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-      "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
-      "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-      "published": "Tue, 17 Feb 2026 17:22:09 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "Cloud",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.774063"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SpaceX vets raise $50M Series A for data center links",
-      "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-      "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-      "published": "Tue, 17 Feb 2026 17:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.774087"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Running AI models is turning into a memory game",
-      "summary": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-      "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-      "published": "Tue, 17 Feb 2026 16:44:14 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.774111"
-    },
-    {
-      "source": "techcrunch",
-      "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
-      "summary": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-      "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-      "published": "Tue, 17 Feb 2026 16:30:43 +0000",
+      "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
+      "summary": "Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.",
+      "link": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
+      "published": "Wed, 18 Feb 2026 00:01:00 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Security",
+        "Hack",
+        "iPhone",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.774148"
+      "crawled_at": "2026-02-18T01:12:24.061511"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Jack Altman joins Benchmark as GP",
+      "summary": "Jack Altman and Benchmark announced today that he would be joining the firm as a general partner.",
+      "link": "https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/",
+      "published": "Tue, 17 Feb 2026 23:54:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.061550"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ford turns to F1 and bounties to build a $30,000 electric truck",
+      "summary": "A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency.",
+      "link": "https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/",
+      "published": "Tue, 17 Feb 2026 23:43:21 +0000",
+      "keywords": [
+        "Go",
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.061588"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
+      "summary": "An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more inclined to overuse social media.",
+      "link": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
+      "published": "Tue, 17 Feb 2026 20:45:33 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.061636"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple is reportedly cooking up a trio of AI wearables",
+      "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+      "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+      "published": "Tue, 17 Feb 2026 20:14:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-18T01:12:24.061659"
     },
     {
       "source": "theverge",
-      "title": "WordPress’s new AI assistant will let users edit their sites with prompts",
-      "summary": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Goo",
-      "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
-      "published": "2026-02-17T13:33:15-05:00",
+      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+      "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says w",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+      "published": "2026-02-17T19:27:08-05:00",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-18T01:12:24.235194"
+    },
+    {
+      "source": "theverge",
+      "title": "Stephen Colbert says CBS banned him from airing this James Talarico interview",
+      "summary": "The Late Show host Stephen Colbert says CBS blocked him from broadcasting an interview with James Talarico, a Democratic representative from Texas. During his opening monologue on Monday night, Colbert says the network's lawyers told him in \"no uncertain terms\" that he couldn't have Talarico on the ",
+      "link": "https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview",
+      "published": "2026-02-17T18:13:08-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-18T01:12:24.235237"
+    },
+    {
+      "source": "theverge",
+      "title": "The best deals on MacBooks right now",
+      "summary": "Apple currently sells MacBooks equipped with its own M-series processors in a wide range of sizes and price points, all of which run the company’s newest operating system, macOS 26. Purchasing a new MacBook can be complicated if you’re trying to figure out what specs you need, but finding a deal on ",
+      "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "published": "2026-02-17T18:00:00-05:00",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-18T01:12:24.235292"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s AI search results will make links more obvious",
+      "summary": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongsi",
+      "link": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+      "published": "2026-02-17T17:38:24-05:00",
       "keywords": [
         "AI",
         "Go",
@@ -82,184 +124,198 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.916947"
+      "crawled_at": "2026-02-18T01:12:24.235330"
     },
     {
       "source": "theverge",
-      "title": "Here are the best Presidents Day deals you can still grab",
-      "summary": "Deals have been pretty scarce since the holidays, but now that February is in full swing, we’ve seen strong discounts return across a range of categories. Both Valentine’s Day and Presidents Day brought a deluge of discounts, and although both have passed, a number of notable deals remain. In fact, ",
-      "link": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
-      "published": "2026-02-17T13:10:02-05:00",
+      "title": "Sony’s WH-1000XM6 are nearly $100 off for just a few more hours",
+      "summary": "If you’re looking for a great pair of noise-canceling headphones, Sony&#8217;s WH-1000XM6 are amongst the best available and are now down to $368 ($92 off) at Amazon in black or gray.  While their high price usually makes them harder for us to suggest over the last-gen model, which is often on sale ",
+      "link": "https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale",
+      "published": "2026-02-17T17:32:39-05:00",
       "keywords": [
         "AI",
-        "Go",
+        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.917020"
+      "crawled_at": "2026-02-18T01:12:24.235366"
     },
     {
-      "source": "theverge",
-      "title": "This backup camera cleaner hides behind your license plate",
-      "summary": "A Vermont-based startup has announced a new upgrade kit that adds a remotely triggered backup camera cleaner to your car. The Lens Lizard system might seem like an unnecessary luxury to some, but if you deal with ice and snow obscuring your backup camera every winter, or live somewhere remote with d",
-      "link": "https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter",
-      "published": "2026-02-17T12:00:00-05:00",
+      "source": "hackernews",
+      "title": "Rathbun's Operator",
+      "summary": "Article URL: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html\nComments URL: https://news.ycombinator.com/item?id=47055424\nPoints: 24\n# Comments: 4",
+      "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
+      "published": "Wed, 18 Feb 2026 00:26:15 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.629847"
+    },
+    {
+      "source": "hackernews",
+      "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/\nComments URL: https://news.ycombinator.com/item?id=47054744\nPoints: 15\n# Comments: 1",
+      "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
+      "published": "Tue, 17 Feb 2026 23:06:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.629895"
+    },
+    {
+      "source": "hackernews",
+      "title": "pg_background: Make Postgres do the long work (while your session stays light)",
+      "summary": "Article URL: https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/\nComments URL: https://news.ycombinator.com/item?id=47054464\nPoints: 18\n# Comments: 1",
+      "link": "https://vibhorkumar.wordpress.com/2026/02/16/pg_background-make-postgres-do-the-long-work-while-your-session-stays-light/",
+      "published": "Tue, 17 Feb 2026 22:40:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.629938"
+    },
+    {
+      "source": "hackernews",
+      "title": "I swear the UFO is coming any minute",
+      "summary": "Article URL: https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute\nComments URL: https://news.ycombinator.com/item?id=47054134\nPoints: 78\n# Comments: 15",
+      "link": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "published": "Tue, 17 Feb 2026 22:10:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.629972"
+    },
+    {
+      "source": "hackernews",
+      "title": "Structured AI (YC F25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern\nComments URL: https://news.ycombinator.com/item?id=47053267\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+      "published": "Tue, 17 Feb 2026 21:00:30 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-18T01:12:24.629999"
+    },
+    {
+      "source": "arstechnica",
+      "title": "GameHub will give Mac owners another imperfect way to play Windows games",
+      "summary": "GameHub's existing Windows emulator on Android has its fair share of issues.",
+      "link": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
+      "published": "Tue, 17 Feb 2026 22:45:07 +0000",
+      "keywords": [
+        "AI",
+        "Android",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-18T01:12:24.828937"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Password managers' promise that they can't see your vaults isn't always true",
+      "summary": "Contrary to what password managers say, a server compromise can mean game over.",
+      "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+      "published": "Tue, 17 Feb 2026 20:43:01 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.828971"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
+      "summary": "Colbert: \"I want to assure you this decision is for purely financial reasons.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
+      "published": "Tue, 17 Feb 2026 19:01:05 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.829001"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+      "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+      "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+      "published": "Tue, 17 Feb 2026 18:38:10 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-02-18T01:12:24.829025"
+    },
+    {
+      "source": "arstechnica",
+      "title": "What happens to a car when the company behind its software goes under?",
+      "summary": "Connected car servers won't be online indefinitely, and startups often go bust.",
+      "link": "https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/",
+      "published": "Tue, 17 Feb 2026 18:15:31 +0000",
+      "keywords": [
+        "Go",
         "Startup",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-02-17T18:41:57.917068"
+      "category": "Mobile",
+      "crawled_at": "2026-02-18T01:12:24.829051"
     },
     {
-      "source": "theverge",
-      "title": "Alienware’s fast 27-inch QD-OLED gaming monitor is 23 percent off",
-      "summary": "One of the best upgrades you can make to your gaming PC setup is an OLED monitor. Assuming that games already run great on your desktop or laptop, a monitor with per-pixel color and brightness control will make them look better than ever. If you’ve been shopping for one that’s on sale, Alienware’s 2",
-      "link": "https://www.theverge.com/gadgets/879940/alienware-qd-oled-pc-gaming-monitor-switch-games-apple-watch-deal-sale",
-      "published": "2026-02-17T11:30:32-05:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:41:57.917122"
-    },
-    {
-      "source": "theverge",
-      "title": "Ford is fighting against physics to build affordable EVs",
-      "summary": "To say that Ford has struggled to make profitable electric vehicles would be an understatement. The company recently pulled the plug on its F-150 Lightning, a truck once heralded as the most important EV ever made, after taking a staggering $19.5 billion hit on its EV investments in 2025. A new focu",
-      "link": "https://www.theverge.com/transportation/879975/ford-universal-ev-platform-skunkworks-aero-battery-range",
-      "published": "2026-02-17T11:00:00-05:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:41:57.917154"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude Sonnet 4.6",
-      "summary": "https://www.anthropic.com/claude-sonnet-4-6-system-card [pdf]https://x.com/claudeai/status/2023817132581208353 [video]\n\nComments URL: https://news.ycombinator.com/item?id=47050488\nPoints: 136\n# Comments: 68",
-      "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "published": "Tue, 17 Feb 2026 17:48:52 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.224534"
-    },
-    {
-      "source": "hackernews",
-      "title": "Discord Rival Gets Overwhelmed by Exodus of Players Fleeing Age-Verification",
-      "summary": "Article URL: https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693\nComments URL: https://news.ycombinator.com/item?id=47050376\nPoints: 14\n# Comments: 1",
-      "link": "https://kotaku.com/discord-alternative-teamspeak-age-verification-check-rivals-2000669693",
-      "published": "Tue, 17 Feb 2026 17:40:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:42:00.224586"
-    },
-    {
-      "source": "hackernews",
-      "title": "Climbing Mount Fuji visualized through milestone stamps",
-      "summary": "Article URL: https://fuji.halfof8.com/\nComments URL: https://news.ycombinator.com/item?id=47050227\nPoints: 10\n# Comments: 1",
-      "link": "https://fuji.halfof8.com/",
-      "published": "Tue, 17 Feb 2026 17:29:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:42:00.224619"
-    },
-    {
-      "source": "hackernews",
-      "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
-      "summary": "Article URL: https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/\nComments URL: https://news.ycombinator.com/item?id=47050215\nPoints: 31\n# Comments: 6",
-      "link": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
-      "published": "Tue, 17 Feb 2026 17:29:16 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.224651"
-    },
-    {
-      "source": "hackernews",
-      "title": "Can a Computer Science Student Be Taught to Design Hardware?",
-      "summary": "Article URL: https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/\nComments URL: https://news.ycombinator.com/item?id=47050211\nPoints: 21\n# Comments: 15",
-      "link": "https://semiengineering.com/can-a-computer-science-student-be-taught-to-design-hardware/",
-      "published": "Tue, 17 Feb 2026 17:29:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-02-17T18:42:00.224690"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
-      "summary": "WB board officially recommends Netflix deal but asks Paramount to increase price.",
-      "link": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
-      "published": "Tue, 17 Feb 2026 17:17:17 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.384610"
-    },
-    {
-      "source": "arstechnica",
-      "title": "There's a lot of big talk about sovereign launch—who is doing something about it?",
-      "summary": "As alliances fray, these are the nations investing in sovereign access to space.",
-      "link": "https://arstechnica.com/space/2026/02/which-countries-are-actually-serious-about-developing-their-own-rockets/",
-      "published": "Tue, 17 Feb 2026 16:47:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:42:00.384657"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Here's the fun, action-packed trailer for Mandolorian and Grogu",
-      "summary": "\"Gangsters. War criminals. We'll take out every bad guy in your deck of cards.\"",
-      "link": "https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/",
-      "published": "Tue, 17 Feb 2026 16:10:43 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.384680"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ford is focusing on efficiency to make its 2027 $30,000 EV pickup affordable",
-      "summary": "A smaller battery means a cheaper truck, but customers still expect plenty of range.",
-      "link": "https://arstechnica.com/cars/2026/02/ford-is-focusing-on-efficiency-to-make-its-2027-30000-ev-pickup-affordable/",
-      "published": "Tue, 17 Feb 2026 16:00:05 +0000",
+      "source": "wired",
+      "title": "The Best Way to Pay Your Taxes Online (2026)",
+      "summary": "Paying US federal and state taxes online can be confusing, and one wrong move can result in penalties or extra money owed. We break it down so you can have the most worry-free tax filing possible.",
+      "link": "https://www.wired.com/story/how-to-pay-taxes-online/",
+      "published": "Wed, 18 Feb 2026 00:06:57 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-17T18:42:00.384709"
+      "crawled_at": "2026-02-18T01:12:24.994072"
     },
     {
-      "source": "arstechnica",
-      "title": "EU launches probe into xAI over sexualized images",
-      "summary": "\"Large-scale\" investigation could result in massive fines.",
-      "link": "https://arstechnica.com/tech-policy/2026/02/eu-launches-probe-into-xai-over-sexualized-images/",
-      "published": "Tue, 17 Feb 2026 15:47:38 +0000",
+      "source": "wired",
+      "title": "The Best Noise-Canceling Headphones for Traveling Are $50 Off",
+      "summary": "With excellent noise canceling, the QuietComfort Ultra 2 would love to join you on your next long-haul flight.",
+      "link": "https://www.wired.com/story/bose-quietcomfort-ultra-2-deal-226/",
+      "published": "Tue, 17 Feb 2026 20:26:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.994107"
+    },
+    {
+      "source": "wired",
+      "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
+      "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
+      "link": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+      "published": "Tue, 17 Feb 2026 20:10:12 +0000",
       "keywords": [
         "AI",
+        "REST",
+        "Security",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.384729"
+      "crawled_at": "2026-02-18T01:12:24.994133"
+    },
+    {
+      "source": "wired",
+      "title": "The Curling Controversy at the Winter Olympics Isn’t What You Think",
+      "summary": "After Swedish curler Oskar Eriksson accused Canadian vice-skip Marc Kennedy of cheating last week, everyone has become an expert in curling rules. They’re missing the point.",
+      "link": "https://www.wired.com/story/2026-winter-olympics-curling-controversy-canada-sweden/",
+      "published": "Tue, 17 Feb 2026 19:15:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-18T01:12:24.994181"
     },
     {
       "source": "wired",
@@ -272,62 +328,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.491045"
-    },
-    {
-      "source": "wired",
-      "title": "The Simplest Android App for Scanning Documents",
-      "summary": "Most scanning apps try to get you to buy a cloud storage subscription or pay for extras. Not FairScan, which is free and open-source, and has some powerful features.",
-      "link": "https://www.wired.com/story/fairscan-simple-app-for-scanning-documents-on-android/",
-      "published": "Tue, 17 Feb 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Android",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.491079"
-    },
-    {
-      "source": "wired",
-      "title": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
-      "summary": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
-      "link": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
-      "published": "Tue, 17 Feb 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.491106"
-    },
-    {
-      "source": "wired",
-      "title": "The Small English Town Swept Up in the Global AI Arms Race",
-      "summary": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-      "link": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-      "published": "Tue, 17 Feb 2026 07:00:00 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-17T18:42:00.491145"
-    },
-    {
-      "source": "wired",
-      "title": "Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep",
-      "summary": "The Saatva Memory Foam Hybrid has been chosen for Olympians. Could it be the one for you, too?",
-      "link": "https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/",
-      "published": "Mon, 16 Feb 2026 12:31:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-17T18:42:00.491174"
+      "crawled_at": "2026-02-18T01:12:24.994208"
     }
   ]
 }
