@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-02-19T01:11:23.648229",
+  "last_updated": "2026-02-19T06:46:37.029563",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+      "summary": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+      "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+      "published": "Thu, 19 Feb 2026 05:34:25 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-19T06:46:36.179542"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI deepens India push with Pine Labs fintech partnership",
+      "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+      "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+      "published": "Thu, 19 Feb 2026 03:30:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-19T06:46:36.179576"
+    },
     {
       "source": "techcrunch",
       "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
@@ -13,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.052888"
+      "crawled_at": "2026-02-19T06:46:36.179604"
     },
     {
       "source": "techcrunch",
@@ -25,7 +55,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-02-19T01:11:23.052933"
+      "crawled_at": "2026-02-19T06:46:36.179639"
     },
     {
       "source": "techcrunch",
@@ -41,30 +71,20 @@
         "Funding"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.052984"
+      "crawled_at": "2026-02-19T06:46:36.179688"
     },
     {
-      "source": "techcrunch",
-      "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
-      "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
-      "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
-      "published": "Wed, 18 Feb 2026 20:57:48 +0000",
+      "source": "theverge",
+      "title": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
+      "summary": "Meta CEO Mark Zuckerberg entered a downtown Los Angeles courthouse in largely the same way as all the attorneys, reporters, and advocates who'd come to watch his landmark trial testimony, but with one notable difference: he was flanked by an entourage that appeared to be wearing Meta's Ray-Ban smart",
+      "link": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
+      "published": "2026-02-18T23:13:17-05:00",
       "keywords": [
-        "Startup",
+        "Meta",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-19T01:11:23.053026"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
-      "summary": "This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.",
-      "link": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/",
-      "published": "Wed, 18 Feb 2026 19:07:40 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-02-19T01:11:23.053066"
+      "crawled_at": "2026-02-19T06:46:36.324725"
     },
     {
       "source": "theverge",
@@ -74,7 +94,7 @@
       "published": "2026-02-18T19:32:30-05:00",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-02-19T01:11:23.146019"
+      "crawled_at": "2026-02-19T06:46:36.324781"
     },
     {
       "source": "theverge",
@@ -88,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.146065"
+      "crawled_at": "2026-02-19T06:46:36.324817"
     },
     {
       "source": "theverge",
@@ -102,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.146101"
+      "crawled_at": "2026-02-19T06:46:36.324851"
     },
     {
       "source": "theverge",
@@ -117,91 +137,78 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.146143"
-    },
-    {
-      "source": "theverge",
-      "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
-      "summary": "A set of bellwether cases alleging that social media platforms harmed teens&#8217; safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand to answer questions about what they’ve done or not done to protect kids. Unlike many earlier legal ch",
-      "link": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
-      "published": "2026-02-18T16:27:09-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AWS",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.146187"
+      "crawled_at": "2026-02-19T06:46:36.324893"
     },
     {
       "source": "hackernews",
-      "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
-      "summary": "Article URL: https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/\nComments URL: https://news.ycombinator.com/item?id=47067759\nPoints: 127\n# Comments: 65",
-      "link": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-      "published": "Wed, 18 Feb 2026 23:19:29 +0000",
+      "title": "European Tech Alternatives",
+      "summary": "Article URL: https://eutechmap.com/map\nComments URL: https://news.ycombinator.com/item?id=47070142\nPoints: 78\n# Comments: 39",
+      "link": "https://eutechmap.com/map",
+      "published": "Thu, 19 Feb 2026 05:07:37 +0000",
       "keywords": [
-        "AI",
-        "Azure",
-        "Microsoft",
-        "SQL",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.393354"
+      "category": "Tech News",
+      "crawled_at": "2026-02-19T06:46:36.715896"
     },
     {
       "source": "hackernews",
-      "title": "Ladybird: Closing this as we are no longer pursuing Swift adoption",
-      "summary": "Article URL: https://github.com/LadybirdBrowser/ladybird/issues/933\nComments URL: https://news.ycombinator.com/item?id=47067678\nPoints: 123\n# Comments: 52",
-      "link": "https://github.com/LadybirdBrowser/ladybird/issues/933",
-      "published": "Wed, 18 Feb 2026 23:08:38 +0000",
+      "title": "Show HN: A Lisp where each function call runs a Docker container",
+      "summary": "Article URL: https://github.com/a11ce/docker-lisp\nComments URL: https://news.ycombinator.com/item?id=47069876\nPoints: 10\n# Comments: 4",
+      "link": "https://github.com/a11ce/docker-lisp",
+      "published": "Thu, 19 Feb 2026 04:19:20 +0000",
       "keywords": [
+        "AI",
+        "Docker",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.393398"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-19T06:46:36.715931"
     },
     {
       "source": "hackernews",
-      "title": "All Look Same?",
-      "summary": "Article URL: https://alllooksame.com/\nComments URL: https://news.ycombinator.com/item?id=47067498\nPoints: 24\n# Comments: 13",
-      "link": "https://alllooksame.com/",
-      "published": "Wed, 18 Feb 2026 22:48:03 +0000",
+      "title": "Ukranian controls Home Assistant over LoRa radio when their power grid goes down",
+      "summary": "Article URL: https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/\nComments URL: https://news.ycombinator.com/item?id=47069724\nPoints: 39\n# Comments: 4",
+      "link": "https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/",
+      "published": "Thu, 19 Feb 2026 03:56:29 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.393447"
+      "crawled_at": "2026-02-19T06:46:36.715973"
     },
     {
       "source": "hackernews",
-      "title": "Sizing chaos",
-      "summary": "Article URL: https://pudding.cool/2026/02/womens-sizing/\nComments URL: https://news.ycombinator.com/item?id=47066552\nPoints: 238\n# Comments: 127",
-      "link": "https://pudding.cool/2026/02/womens-sizing/",
-      "published": "Wed, 18 Feb 2026 21:18:20 +0000",
+      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "summary": "I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got the same app done in roughly 70% of the time [2]. It's a very productive stack. In no small part due to E",
+      "link": "https://blackboard.sh/blog/electrobun-v1/",
+      "published": "Thu, 19 Feb 2026 03:46:07 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "TypeScript",
+        "Go",
+        "React",
+        "API"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.393481"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-19T06:46:36.716078"
     },
     {
       "source": "hackernews",
-      "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-      "summary": "Article URL: https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer\nComments URL: https://news.ycombinator.com/item?id=47066310\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-      "published": "Wed, 18 Feb 2026 21:00:32 +0000",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "summary": "Article URL: https://code.claude.com/docs/en/legal-and-compliance\nComments URL: https://news.ycombinator.com/item?id=47069299\nPoints: 218\n# Comments: 224",
+      "link": "https://code.claude.com/docs/en/legal-and-compliance",
+      "published": "Thu, 19 Feb 2026 02:52:26 +0000",
       "keywords": [
-        "Security",
-        "IPO",
+        "Anthropic",
+        "Claude",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-02-19T01:11:23.393515"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-19T06:46:36.716108"
     },
     {
       "source": "arstechnica",
@@ -214,7 +221,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.470191"
+      "crawled_at": "2026-02-19T06:46:36.873229"
     },
     {
       "source": "arstechnica",
@@ -227,7 +234,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.470220"
+      "crawled_at": "2026-02-19T06:46:36.873257"
     },
     {
       "source": "arstechnica",
@@ -239,7 +246,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-19T01:11:23.470253"
+      "crawled_at": "2026-02-19T06:46:36.873290"
     },
     {
       "source": "arstechnica",
@@ -253,7 +260,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-19T01:11:23.470281"
+      "crawled_at": "2026-02-19T06:46:36.873317"
     },
     {
       "source": "arstechnica",
@@ -266,7 +273,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.470306"
+      "crawled_at": "2026-02-19T06:46:36.873342"
+    },
+    {
+      "source": "wired",
+      "title": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
+      "summary": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday.",
+      "link": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+      "published": "Thu, 19 Feb 2026 02:04:13 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-19T06:46:37.029347"
     },
     {
       "source": "wired",
@@ -278,7 +298,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.648009"
+      "crawled_at": "2026-02-19T06:46:37.029387"
     },
     {
       "source": "wired",
@@ -290,7 +310,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.648053"
+      "crawled_at": "2026-02-19T06:46:37.029424"
     },
     {
       "source": "wired",
@@ -303,7 +323,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-19T01:11:23.648084"
+      "crawled_at": "2026-02-19T06:46:37.029454"
     },
     {
       "source": "wired",
@@ -317,22 +337,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.648113"
-    },
-    {
-      "source": "wired",
-      "title": "A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft",
-      "summary": "A database left accessible to anyone online contained billions of records, including sensitive personal data that criminals appear to have not yet exploited.",
-      "link": "https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/",
-      "published": "Wed, 18 Feb 2026 17:22:10 +0000",
-      "keywords": [
-        "AI",
-        "Security",
-        "Database",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-19T01:11:23.648140"
+      "crawled_at": "2026-02-19T06:46:37.029482"
     }
   ]
 }
