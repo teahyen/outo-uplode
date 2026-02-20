@@ -1,10 +1,23 @@
 {
-  "last_updated": "2026-02-20T01:07:11.333994",
+  "last_updated": "2026-02-20T06:41:23.377851",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Google’s new Gemini Pro model has record benchmark scores—again",
+      "title": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms",
+      "summary": "Neo's new Residency program invests $750,000 in an uncapped SAFE for startups and provides a $40,000 no-strings-attached grant for college students.",
+      "link": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
+      "published": "Fri, 20 Feb 2026 06:13:55 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-20T06:41:22.526185"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google’s new Gemini Pro model has record benchmark scores — again",
       "summary": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
       "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
       "published": "Fri, 20 Feb 2026 00:55:22 +0000",
@@ -15,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.635206"
+      "crawled_at": "2026-02-20T06:41:22.526222"
     },
     {
       "source": "techcrunch",
@@ -29,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.635249"
+      "crawled_at": "2026-02-20T06:41:22.526253"
     },
     {
       "source": "techcrunch",
@@ -42,7 +55,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-02-20T01:07:10.635293"
+      "crawled_at": "2026-02-20T06:41:22.526293"
     },
     {
       "source": "techcrunch",
@@ -55,19 +68,7 @@
         "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.635319"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Second and last chance for innovators to win scaling perks: Belden extends nomination window",
-      "summary": "Last day to nominate for the 2026 Joseph C. Belden Innovation Award has been extended through February 27. Don't miss your chance to win scaling perks.",
-      "link": "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/",
-      "published": "Thu, 19 Feb 2026 22:23:15 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:10.635354"
+      "crawled_at": "2026-02-20T06:41:22.526319"
     },
     {
       "source": "theverge",
@@ -80,7 +81,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:10.733892"
+      "crawled_at": "2026-02-20T06:41:22.680557"
     },
     {
       "source": "theverge",
@@ -93,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.733937"
+      "crawled_at": "2026-02-20T06:41:22.680602"
     },
     {
       "source": "theverge",
@@ -108,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.733972"
+      "crawled_at": "2026-02-20T06:41:22.680637"
     },
     {
       "source": "theverge",
@@ -122,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.734008"
+      "crawled_at": "2026-02-20T06:41:22.680673"
     },
     {
       "source": "theverge",
@@ -137,75 +138,73 @@
         "Metaverse"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-20T01:07:10.734056"
+      "crawled_at": "2026-02-20T06:41:22.680722"
     },
     {
       "source": "hackernews",
-      "title": "Single vaccine could protect against all coughs, colds and flus",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cx2g8rz7yedo\nComments URL: https://news.ycombinator.com/item?id=47080267\nPoints: 95\n# Comments: 65",
-      "link": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-      "published": "Thu, 19 Feb 2026 22:08:24 +0000",
+      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+      "summary": "Article URL: https://github.com/olvvier/apple-silicon-accelerometer\nComments URL: https://news.ycombinator.com/item?id=47084000\nPoints: 6\n# Comments: 0",
+      "link": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "published": "Fri, 20 Feb 2026 05:06:40 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.967156"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-      "summary": "I run a lot of Claude Code and Codex sessions in parallel. I was using Ghostty with a bunch of split panes, and relying on native macOS notifications to know when an agent needed me. But Claude Code's notification body is always just \"Claude is waiting for your input\" with no context, and with enoug",
-      "link": "https://github.com/manaflow-ai/cmux",
-      "published": "Thu, 19 Feb 2026 21:30:04 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "API",
+        "Apple",
         "Git",
-        "GitHub"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.967312"
-    },
-    {
-      "source": "hackernews",
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts\nComments URL: https://news.ycombinator.com/item?id=47079222\nPoints: 270\n# Comments: 248",
-      "link": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-      "published": "Thu, 19 Feb 2026 20:56:23 +0000",
-      "keywords": [
-        "AI",
-        "Funding",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.967346"
+      "category": "Mobile",
+      "crawled_at": "2026-02-20T06:41:22.942757"
     },
     {
       "source": "hackernews",
-      "title": "Overall, the colorectal cancer story is encouraging",
-      "summary": "Article URL: https://www.hankgreen.com/crc\nComments URL: https://news.ycombinator.com/item?id=47078840\nPoints: 95\n# Comments: 93",
-      "link": "https://www.hankgreen.com/crc",
-      "published": "Thu, 19 Feb 2026 20:32:09 +0000",
+      "title": "Fast KV Compaction via Attention Matching",
+      "summary": "Article URL: https://arxiv.org/abs/2602.16284\nComments URL: https://news.ycombinator.com/item?id=47083882\nPoints: 3\n# Comments: 0",
+      "link": "https://arxiv.org/abs/2602.16284",
+      "published": "Fri, 20 Feb 2026 04:46:37 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:10.967379"
+      "crawled_at": "2026-02-20T06:41:22.942799"
     },
     {
       "source": "hackernews",
-      "title": "AI is not a coworker, it's an exoskeleton",
-      "summary": "Article URL: https://www.kasava.dev/blog/ai-as-exoskeleton\nComments URL: https://news.ycombinator.com/item?id=47078324\nPoints: 132\n# Comments: 140",
-      "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-      "published": "Thu, 19 Feb 2026 19:55:11 +0000",
+      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3ew5jlqz87o\nComments URL: https://news.ycombinator.com/item?id=47083735\nPoints: 46\n# Comments: 18",
+      "link": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+      "published": "Fri, 20 Feb 2026 04:27:51 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T06:41:22.942835"
+    },
+    {
+      "source": "hackernews",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "summary": "Article URL: https://www.together.ai/blog/consistency-diffusion-language-models\nComments URL: https://news.ycombinator.com/item?id=47083648\nPoints: 40\n# Comments: 6",
+      "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "published": "Fri, 20 Feb 2026 04:15:58 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:10.967422"
+      "crawled_at": "2026-02-20T06:41:22.942864"
+    },
+    {
+      "source": "hackernews",
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "summary": "Article URL: https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/\nComments URL: https://news.ycombinator.com/item?id=47083145\nPoints: 273\n# Comments: 208",
+      "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "published": "Fri, 20 Feb 2026 03:05:08 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-20T06:41:22.942900"
     },
     {
       "source": "arstechnica",
@@ -221,7 +220,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:11.135125"
+      "crawled_at": "2026-02-20T06:41:23.159596"
     },
     {
       "source": "arstechnica",
@@ -234,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:11.135156"
+      "crawled_at": "2026-02-20T06:41:23.159628"
     },
     {
       "source": "arstechnica",
@@ -244,7 +243,7 @@
       "published": "Thu, 19 Feb 2026 21:30:02 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.135191"
+      "crawled_at": "2026-02-20T06:41:23.159663"
     },
     {
       "source": "arstechnica",
@@ -256,7 +255,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.135224"
+      "crawled_at": "2026-02-20T06:41:23.159697"
     },
     {
       "source": "arstechnica",
@@ -266,7 +265,44 @@
       "published": "Thu, 19 Feb 2026 19:38:08 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.135251"
+      "crawled_at": "2026-02-20T06:41:23.159724"
+    },
+    {
+      "source": "wired",
+      "title": "H&R Block Coupons and Deals: $50 Off Tax Prep in 2026",
+      "summary": "When you visit your local H&amp;R Block store, you can save up to $50 when you use one of our (unique) codes.",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Fri, 20 Feb 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-02-20T06:41:23.377595"
+    },
+    {
+      "source": "wired",
+      "title": "Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe",
+      "summary": "Documents say customs officers in the US Virgin Islands had friendly relationships with Epstein years after his 2008 conviction, showing how the infamous sex offender tried to cultivate allies.",
+      "link": "https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/",
+      "published": "Fri, 20 Feb 2026 03:29:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T06:41:23.377650"
+    },
+    {
+      "source": "wired",
+      "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
+      "summary": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
+      "link": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
+      "published": "Fri, 20 Feb 2026 01:12:25 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-20T06:41:23.377686"
     },
     {
       "source": "wired",
@@ -279,7 +315,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:11.333739"
+      "crawled_at": "2026-02-20T06:41:23.377721"
     },
     {
       "source": "wired",
@@ -291,44 +327,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.333795"
-    },
-    {
-      "source": "wired",
-      "title": "The 10 Best Shows to Stream Right Now (February 2026)",
-      "summary": "Fallout, Neighbors, and Monarch: Legacy of Monsters are just a few of the TV shows we’re swooning over for February.",
-      "link": "https://www.wired.com/story/the-best-shows-to-stream-right-now/",
-      "published": "Thu, 19 Feb 2026 20:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.333832"
-    },
-    {
-      "source": "wired",
-      "title": "‘Pew Pew’: The Chinese Companies Marketing Anti-Drone Weapons on TikTok",
-      "summary": "On TikTok, Chinese manufacturers are advertising signal-blocking weapons with the breezy cadence of consumer lifestyle advertising.",
-      "link": "https://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/",
-      "published": "Thu, 19 Feb 2026 19:59:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-20T01:07:11.333875"
-    },
-    {
-      "source": "wired",
-      "title": "Inside the Rolling Layoffs at Jack Dorsey’s Block",
-      "summary": "Workers describe a deteriorating culture at Block, the company behind Square and Cash App, where layoffs continue and employees are expected to use AI tools daily.",
-      "link": "https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/",
-      "published": "Thu, 19 Feb 2026 19:53:11 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T01:07:11.333904"
+      "crawled_at": "2026-02-20T06:41:23.377767"
     }
   ]
 }
