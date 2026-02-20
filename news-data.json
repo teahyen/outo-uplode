@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-02-20T06:41:23.377851",
+  "last_updated": "2026-02-20T12:33:07.388884",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+      "summary": "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy eight exaflops of compute through a new system in India",
+      "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+      "published": "Fri, 20 Feb 2026 11:58:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-02-20T12:33:06.647902"
+    },
+    {
+      "source": "techcrunch",
+      "title": "General Catalyst commits $5B to India over five years",
+      "summary": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
+      "link": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
+      "published": "Fri, 20 Feb 2026 06:41:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T12:33:06.647947"
+    },
     {
       "source": "techcrunch",
       "title": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms",
@@ -13,7 +37,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-20T06:41:22.526185"
+      "crawled_at": "2026-02-20T12:33:06.647989"
     },
     {
       "source": "techcrunch",
@@ -28,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.526222"
+      "crawled_at": "2026-02-20T12:33:06.648015"
     },
     {
       "source": "techcrunch",
@@ -42,33 +66,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.526253"
+      "crawled_at": "2026-02-20T12:33:06.648043"
     },
     {
-      "source": "techcrunch",
-      "title": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
-      "summary": "The FBI says hacks that trick ATMs into spitting out cash on demand are rising, with hundreds of attacks in the past year alone netting hackers millions in stolen bills.",
-      "link": "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/",
-      "published": "Thu, 19 Feb 2026 22:31:34 +0000",
+      "source": "theverge",
+      "title": "Will Stancil, man of the people or just an annoying guy?",
+      "summary": "I met Will Stancil two days before he got booted from his neighborhood Signal chat. We were at the Uptown Minneapolis VFW at an event hosted by Rep. Ilhan Omar, a thank-you party for Minnesotans who fought ICE in ways big and small. There were tacos and drinks, and dancing, though I never saw Stanci",
+      "link": "https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile",
+      "published": "2026-02-20T06:00:00-05:00",
       "keywords": [
-        "Hack",
+        "Go",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-02-20T06:41:22.526293"
-    },
-    {
-      "source": "techcrunch",
-      "title": "At a critical moment, Snap loses a top Specs exec",
-      "summary": "As Snap readies the public release of its long-awaited VR glasses, one of the key executives on the project has left the company.",
-      "link": "https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/",
-      "published": "Thu, 19 Feb 2026 22:30:36 +0000",
-      "keywords": [
-        "AI",
-        "VR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.526319"
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T12:33:06.742361"
     },
     {
       "source": "theverge",
@@ -81,7 +92,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:22.680557"
+      "crawled_at": "2026-02-20T12:33:06.742427"
     },
     {
       "source": "theverge",
@@ -94,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.680602"
+      "crawled_at": "2026-02-20T12:33:06.742460"
     },
     {
       "source": "theverge",
@@ -109,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.680637"
+      "crawled_at": "2026-02-20T12:33:06.742492"
     },
     {
       "source": "theverge",
@@ -123,88 +134,95 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.680673"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta’s VR metaverse is ditching VR",
-      "summary": "Meta, after laying off about 10 percent of its Reality Labs division, closing three VR studios, stopping new content for VR fitness app Supernatural, and discontinuing its metaverse for work, is announcing a major change for its Horizon Worlds metaverse platform. Instead of attempting to make the 3D",
-      "link": "https://www.theverge.com/tech/881647/meta-vr-mobile-metaverse-horizon-worlds",
-      "published": "2026-02-19T15:47:54-05:00",
-      "keywords": [
-        "Meta",
-        "iOS",
-        "VR",
-        "Metaverse"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-20T06:41:22.680722"
+      "crawled_at": "2026-02-20T12:33:06.742527"
     },
     {
       "source": "hackernews",
-      "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-      "summary": "Article URL: https://github.com/olvvier/apple-silicon-accelerometer\nComments URL: https://news.ycombinator.com/item?id=47084000\nPoints: 6\n# Comments: 0",
-      "link": "https://github.com/olvvier/apple-silicon-accelerometer",
-      "published": "Fri, 20 Feb 2026 05:06:40 +0000",
-      "keywords": [
-        "Apple",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-20T06:41:22.942757"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fast KV Compaction via Attention Matching",
-      "summary": "Article URL: https://arxiv.org/abs/2602.16284\nComments URL: https://news.ycombinator.com/item?id=47083882\nPoints: 3\n# Comments: 0",
-      "link": "https://arxiv.org/abs/2602.16284",
-      "published": "Fri, 20 Feb 2026 04:46:37 +0000",
+      "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove\nComments URL: https://news.ycombinator.com/item?id=47086946\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
+      "published": "Fri, 20 Feb 2026 12:01:14 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:22.942799"
+      "crawled_at": "2026-02-20T12:33:07.201746"
     },
     {
       "source": "hackernews",
-      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3ew5jlqz87o\nComments URL: https://news.ycombinator.com/item?id=47083735\nPoints: 46\n# Comments: 18",
-      "link": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
-      "published": "Fri, 20 Feb 2026 04:27:51 +0000",
+      "title": "Minions – Stripe's Coding Agents Part 2",
+      "summary": "Article URL: https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2\nComments URL: https://news.ycombinator.com/item?id=47086557\nPoints: 14\n# Comments: 11",
+      "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+      "published": "Fri, 20 Feb 2026 11:20:02 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:22.942835"
+      "crawled_at": "2026-02-20T12:33:07.201801"
     },
     {
       "source": "hackernews",
-      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-      "summary": "Article URL: https://www.together.ai/blog/consistency-diffusion-language-models\nComments URL: https://news.ycombinator.com/item?id=47083648\nPoints: 40\n# Comments: 6",
-      "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
-      "published": "Fri, 20 Feb 2026 04:15:58 +0000",
+      "title": "Ask HN: How to measure how much data one can effectively process or understand?",
+      "summary": "Is there a scale of how much data one can effectively process, something similar to the \"Kardashev scale for data\"? What would be a name for such a thing? During Memgraph's Community Call (https://youtu.be/ygr8yvIouZk?t=1307), the point is that AgenticRuntimes + GraphRAG moves you up on the \"Kardash",
+      "link": "https://news.ycombinator.com/item?id=47086423",
+      "published": "Fri, 20 Feb 2026 11:02:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T12:33:07.201893"
+    },
+    {
+      "source": "hackernews",
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "summary": "Article URL: https://taalas.com/the-path-to-ubiquitous-ai/\nComments URL: https://news.ycombinator.com/item?id=47086181\nPoints: 144\n# Comments: 105",
+      "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "published": "Fri, 20 Feb 2026 10:32:52 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.942864"
+      "crawled_at": "2026-02-20T12:33:07.201922"
     },
     {
       "source": "hackernews",
-      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-      "summary": "Article URL: https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/\nComments URL: https://news.ycombinator.com/item?id=47083145\nPoints: 273\n# Comments: 208",
-      "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-      "published": "Fri, 20 Feb 2026 03:05:08 +0000",
+      "title": "SwiftUI Agent Skill: Build Better Views with AI",
+      "summary": "Article URL: https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/\nComments URL: https://news.ycombinator.com/item?id=47086170\nPoints: 17\n# Comments: 1",
+      "link": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
+      "published": "Fri, 20 Feb 2026 10:31:17 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:22.942900"
+      "crawled_at": "2026-02-20T12:33:07.201949"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books",
+      "summary": "The now-deleted Harry Potter data set was \"mistakenly\" marked public domain.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
+      "published": "Fri, 20 Feb 2026 12:11:28 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-20T12:33:07.289408"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas",
+      "summary": "The company that attempted China's first orbital-class rocket landing says it will soon try again.",
+      "link": "https://arstechnica.com/space/2026/02/rocket-report-chinese-launch-firm-raises-big-money-falcon-9-back-to-the-bahamas/",
+      "published": "Fri, 20 Feb 2026 12:00:28 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-20T12:33:07.289438"
     },
     {
       "source": "arstechnica",
@@ -220,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:23.159596"
+      "crawled_at": "2026-02-20T12:33:07.289467"
     },
     {
       "source": "arstechnica",
@@ -233,7 +251,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:23.159628"
+      "crawled_at": "2026-02-20T12:33:07.289490"
     },
     {
       "source": "arstechnica",
@@ -243,91 +261,68 @@
       "published": "Thu, 19 Feb 2026 21:30:02 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:23.159663"
+      "crawled_at": "2026-02-20T12:33:07.289523"
     },
     {
-      "source": "arstechnica",
-      "title": "Diablo II’s new Warlock is a great excuse to revisit a classic game",
-      "summary": "New skill tree paths offer a fun twist on some generally familiar mechanics.",
-      "link": "https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/",
-      "published": "Thu, 19 Feb 2026 20:04:09 +0000",
+      "source": "wired",
+      "title": "Boldr Kelvin Review (2026): Heats Your Body, Heats the Wall",
+      "summary": "The Boldr Kelvin heater looks cool and promises energy savings and far-infrared heat. Too bad it also heats backward.",
+      "link": "https://www.wired.com/review/boldr-kelvin-space-heater/",
+      "published": "Fri, 20 Feb 2026 12:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:23.159697"
-    },
-    {
-      "source": "arstechnica",
-      "title": "From chickens to humans, animals think \"bouba\" sounds round",
-      "summary": "There seems to be a deep-seated association between sounds and shapes.",
-      "link": "https://arstechnica.com/science/2026/02/newly-hatched-chickens-form-the-same-sound-association-we-do/",
-      "published": "Thu, 19 Feb 2026 19:38:08 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:23.159724"
+      "crawled_at": "2026-02-20T12:33:07.388669"
     },
     {
       "source": "wired",
-      "title": "H&R Block Coupons and Deals: $50 Off Tax Prep in 2026",
-      "summary": "When you visit your local H&amp;R Block store, you can save up to $50 when you use one of our (unique) codes.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Fri, 20 Feb 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-20T06:41:23.377595"
-    },
-    {
-      "source": "wired",
-      "title": "Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe",
-      "summary": "Documents say customs officers in the US Virgin Islands had friendly relationships with Epstein years after his 2008 conviction, showing how the infamous sex offender tried to cultivate allies.",
-      "link": "https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/",
-      "published": "Fri, 20 Feb 2026 03:29:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:23.377650"
-    },
-    {
-      "source": "wired",
-      "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
-      "summary": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending data to Amazon—without breaking the hardware.",
-      "link": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
-      "published": "Fri, 20 Feb 2026 01:12:25 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:23.377686"
-    },
-    {
-      "source": "wired",
-      "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
-      "summary": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
-      "link": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
-      "published": "Thu, 19 Feb 2026 23:18:09 +0000",
+      "title": "Could AI Data Centers Be Moved to Outer Space?",
+      "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+      "link": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+      "published": "Fri, 20 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-20T06:41:23.377721"
+      "crawled_at": "2026-02-20T12:33:07.388696"
     },
     {
       "source": "wired",
-      "title": "Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past",
-      "summary": "The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer.",
-      "link": "https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/",
-      "published": "Thu, 19 Feb 2026 20:45:40 +0000",
+      "title": "How to Layer Your Clothes to Stay Warm in Any Season (2026)",
+      "summary": "Whether you’re hiking, climbing, or backpacking, here’s how to use base layers, mid layers, and a shell to be comfortable no matter what nature throws at you.",
+      "link": "https://www.wired.com/story/outdoor-layering-basics/",
+      "published": "Fri, 20 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-20T06:41:23.377767"
+      "crawled_at": "2026-02-20T12:33:07.388740"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Mushroom Gummies on the Market, Lab-Approved (2026)",
+      "summary": "These edibles made from functional fungi are not your childhood Flintstone vitamins.",
+      "link": "https://www.wired.com/gallery/best-mushroom-gummies/",
+      "published": "Fri, 20 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-20T12:33:07.388766"
+    },
+    {
+      "source": "wired",
+      "title": "Meet Scotland’s Whisky-Sniffing Robot Dog",
+      "summary": "Inside Dewar’s cavernous whisky warehouses, man’s best mechanical friend—a Boston Dynamics robot dog with an ethanol sensor for a nose—is on the hunt for leaky barrels.",
+      "link": "https://www.wired.com/story/meet-scotlands-whisky-sniffing-robot-dog/",
+      "published": "Fri, 20 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-20T12:33:07.388803"
     }
   ]
 }
