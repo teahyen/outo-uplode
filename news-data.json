@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T01:05:46.924463",
+  "last_updated": "2026-02-21T06:29:27.790881",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.075749"
+      "crawled_at": "2026-02-21T06:29:26.701698"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.075817"
+      "crawled_at": "2026-02-21T06:29:26.701766"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.075848"
+      "crawled_at": "2026-02-21T06:29:26.701797"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.075879"
+      "crawled_at": "2026-02-21T06:29:26.701828"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.075915"
+      "crawled_at": "2026-02-21T06:29:26.701863"
     },
     {
       "source": "theverge",
@@ -82,7 +82,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.143509"
+      "crawled_at": "2026-02-21T06:29:26.874857"
     },
     {
       "source": "theverge",
@@ -96,7 +96,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.143584"
+      "crawled_at": "2026-02-21T06:29:26.874924"
     },
     {
       "source": "theverge",
@@ -110,7 +110,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-21T01:05:46.143632"
+      "crawled_at": "2026-02-21T06:29:26.874971"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.143674"
+      "crawled_at": "2026-02-21T06:29:26.875014"
     },
     {
       "source": "theverge",
@@ -138,69 +138,77 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.143708"
+      "crawled_at": "2026-02-21T06:29:26.875048"
     },
     {
       "source": "hackernews",
-      "title": "Be Wary of Bluesky",
-      "summary": "Article URL: https://kevinak.se/blog/be-wary-of-bluesky\nComments URL: https://news.ycombinator.com/item?id=47095597\nPoints: 58\n# Comments: 45",
-      "link": "https://kevinak.se/blog/be-wary-of-bluesky",
-      "published": "Fri, 20 Feb 2026 23:35:33 +0000",
+      "title": "Colorado moves age checks from websites to operating systems",
+      "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems\nComments URL: https://news.ycombinator.com/item?id=47097904\nPoints: 5\n# Comments: 0",
+      "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
+      "published": "Sat, 21 Feb 2026 06:01:29 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.726692"
+      "crawled_at": "2026-02-21T06:29:27.383325"
     },
     {
       "source": "hackernews",
-      "title": "Lexega Turns SQL into Signals",
-      "summary": "Article URL: https://lexega.com/blog/how-lexega-turns-sql-into-signals\nComments URL: https://news.ycombinator.com/item?id=47095592\nPoints: 3\n# Comments: 0",
-      "link": "https://lexega.com/blog/how-lexega-turns-sql-into-signals",
-      "published": "Fri, 20 Feb 2026 23:35:15 +0000",
+      "title": "Show HN: Script Snap – Extract code from videos",
+      "summary": "Hi HN, I'm lmw-lab, the builder behind Script Snap.The Backstory:\nI built this out of pure frustration. A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video. I had to scrub through endless \"smash the lik",
+      "link": "https://script-snap.com/",
+      "published": "Sat, 21 Feb 2026 04:39:20 +0000",
       "keywords": [
-        "SQL",
+        "AI",
+        "Rust",
+        "Go",
+        "API",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-21T06:29:27.383441"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/\nComments URL: https://news.ycombinator.com/item?id=47097502\nPoints: 13\n# Comments: 4",
+      "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "published": "Sat, 21 Feb 2026 04:29:40 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.726733"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-21T06:29:27.383487"
     },
     {
       "source": "hackernews",
-      "title": "CERN rebuilt the original browser from 1989",
-      "summary": "Article URL: https://worldwideweb.cern.ch\nComments URL: https://news.ycombinator.com/item?id=47095429\nPoints: 49\n# Comments: 16",
-      "link": "https://worldwideweb.cern.ch",
-      "published": "Fri, 20 Feb 2026 23:19:12 +0000",
+      "title": "Excessive token usage in Claude Code",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/16856\nComments URL: https://news.ycombinator.com/item?id=47096937\nPoints: 52\n# Comments: 13",
+      "link": "https://github.com/anthropics/claude-code/issues/16856",
+      "published": "Sat, 21 Feb 2026 02:40:24 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.726766"
-    },
-    {
-      "source": "hackernews",
-      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
-      "summary": "Article URL: https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling\nComments URL: https://news.ycombinator.com/item?id=47095134\nPoints: 67\n# Comments: 10",
-      "link": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-      "published": "Fri, 20 Feb 2026 22:50:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.726806"
-    },
-    {
-      "source": "hackernews",
-      "title": "Don't create .gitkeep files, use .gitignore instead",
-      "summary": "Article URL: https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/\nComments URL: https://news.ycombinator.com/item?id=47094877\nPoints: 12\n# Comments: 1",
-      "link": "https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/",
-      "published": "Fri, 20 Feb 2026 22:27:56 +0000",
-      "keywords": [
+        "Anthropic",
+        "Claude",
         "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-21T06:29:27.383517"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Is OAuth?",
+      "summary": "Article URL: https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b\nComments URL: https://news.ycombinator.com/item?id=47096520\nPoints: 81\n# Comments: 18",
+      "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "published": "Sat, 21 Feb 2026 01:33:40 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.726841"
+      "crawled_at": "2026-02-21T06:29:27.383548"
     },
     {
       "source": "arstechnica",
@@ -212,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.846918"
+      "crawled_at": "2026-02-21T06:29:27.551851"
     },
     {
       "source": "arstechnica",
@@ -227,7 +235,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.846947"
+      "crawled_at": "2026-02-21T06:29:27.551880"
     },
     {
       "source": "arstechnica",
@@ -239,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.846977"
+      "crawled_at": "2026-02-21T06:29:27.551910"
     },
     {
       "source": "arstechnica",
@@ -249,7 +257,7 @@
       "published": "Fri, 20 Feb 2026 22:41:02 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.847011"
+      "crawled_at": "2026-02-21T06:29:27.551942"
     },
     {
       "source": "arstechnica",
@@ -263,7 +271,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.847034"
+      "crawled_at": "2026-02-21T06:29:27.551964"
+    },
+    {
+      "source": "wired",
+      "title": "Trump Imposes New Tariffs to Sidestep Supreme Court Ruling",
+      "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a “disgrace.”",
+      "link": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
+      "published": "Sat, 21 Feb 2026 02:55:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-21T06:29:27.790664"
     },
     {
       "source": "wired",
@@ -276,7 +296,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.924251"
+      "crawled_at": "2026-02-21T06:29:27.790704"
     },
     {
       "source": "wired",
@@ -288,7 +308,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.924289"
+      "crawled_at": "2026-02-21T06:29:27.790737"
     },
     {
       "source": "wired",
@@ -303,7 +323,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.924321"
+      "crawled_at": "2026-02-21T06:29:27.790767"
     },
     {
       "source": "wired",
@@ -316,17 +336,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T01:05:46.924351"
-    },
-    {
-      "source": "wired",
-      "title": "Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months",
-      "summary": "This Samsung OLED comes loaded with features specifically for gamers.",
-      "link": "https://www.wired.com/story/samsung-s90f-deal-226/",
-      "published": "Fri, 20 Feb 2026 20:46:54 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-21T01:05:46.924384"
+      "crawled_at": "2026-02-21T06:29:27.790796"
     }
   ]
 }
