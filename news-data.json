@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T06:29:27.790881",
+  "last_updated": "2026-02-21T12:24:18.547605",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.701698"
+      "crawled_at": "2026-02-21T12:24:17.789611"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.701766"
+      "crawled_at": "2026-02-21T12:24:17.789679"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.701797"
+      "crawled_at": "2026-02-21T12:24:17.789710"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.701828"
+      "crawled_at": "2026-02-21T12:24:17.789741"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.701863"
+      "crawled_at": "2026-02-21T12:24:17.789777"
+    },
+    {
+      "source": "theverge",
+      "title": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does",
+      "summary": "The Soundcore Nebula X1 Pro is too weird to exist. It takes the excellent 4K projector and karaoke microphones from Anker's Nebula X1 and stuffs them inside a powerful five-speaker Google TV party on wheels. It's so absurd that it feels like a gadget fever dream - and I'm here for it. At the heart [",
+      "link": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
+      "published": "2026-02-21T03:00:00-05:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-21T12:24:17.886354"
     },
     {
       "source": "theverge",
@@ -82,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.874857"
+      "crawled_at": "2026-02-21T12:24:17.886404"
     },
     {
       "source": "theverge",
@@ -96,7 +110,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:26.874924"
+      "crawled_at": "2026-02-21T12:24:17.886461"
     },
     {
       "source": "theverge",
@@ -110,7 +124,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-21T06:29:26.874971"
+      "crawled_at": "2026-02-21T12:24:17.886505"
     },
     {
       "source": "theverge",
@@ -122,93 +136,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.875014"
+      "crawled_at": "2026-02-21T12:24:17.886547"
     },
     {
-      "source": "theverge",
-      "title": "Read Microsoft gaming CEO Asha Sharma&#8217;s first memo on the future of Xbox",
-      "summary": "Microsoft gaming boss Phil Spencer has just announced he's leaving the company after 12 years leading Xbox and nearly 40 at Microsoft in total. His replacement: Asha Sharma, formerly head of development for Microsoft's AI enterprise teams. Before that, she was COO of Instacart for three years, and s",
-      "link": "https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo",
-      "published": "2026-02-20T15:30:59-05:00",
+      "source": "hackernews",
+      "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+      "summary": "Article URL: https://padlet.jobs\nComments URL: https://news.ycombinator.com/item?id=47099982\nPoints: 0\n# Comments: 0",
+      "link": "https://padlet.jobs",
+      "published": "Sat, 21 Feb 2026 12:02:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-21T12:24:18.342289"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Happened to Software Is Happening to Finance and Accounting",
+      "summary": "Article URL: https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/\nComments URL: https://news.ycombinator.com/item?id=47099473\nPoints: 3\n# Comments: 0",
+      "link": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
+      "published": "Sat, 21 Feb 2026 10:45:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-21T12:24:18.342334"
+    },
+    {
+      "source": "hackernews",
+      "title": "Andrej Karpathy talks about \"Claws\"",
+      "summary": "Article URL: https://simonwillison.net/2026/Feb/21/claws/\nComments URL: https://news.ycombinator.com/item?id=47099160\nPoints: 97\n# Comments: 122",
+      "link": "https://simonwillison.net/2026/Feb/21/claws/",
+      "published": "Sat, 21 Feb 2026 09:53:15 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-02-21T12:24:18.342363"
+    },
+    {
+      "source": "hackernews",
+      "title": "Large Language Model Reasoning Failures",
+      "summary": "Article URL: https://arxiv.org/abs/2602.06176\nComments URL: https://news.ycombinator.com/item?id=47098839\nPoints: 14\n# Comments: 5",
+      "link": "https://arxiv.org/abs/2602.06176",
+      "published": "Sat, 21 Feb 2026 08:56:00 +0000",
       "keywords": [
         "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-21T12:24:18.342389"
+    },
+    {
+      "source": "hackernews",
+      "title": "LibreOffice blasts OnlyOffice for working with Microsoft to lock users in",
+      "summary": "Article URL: https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/\nComments URL: https://news.ycombinator.com/item?id=47098828\nPoints: 69\n# Comments: 36",
+      "link": "https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/",
+      "published": "Sat, 21 Feb 2026 08:54:36 +0000",
+      "keywords": [
         "Microsoft",
-        "Meta",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:26.875048"
-    },
-    {
-      "source": "hackernews",
-      "title": "Colorado moves age checks from websites to operating systems",
-      "summary": "Article URL: https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems\nComments URL: https://news.ycombinator.com/item?id=47097904\nPoints: 5\n# Comments: 0",
-      "link": "https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems",
-      "published": "Sat, 21 Feb 2026 06:01:29 +0000",
-      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.383325"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Script Snap – Extract code from videos",
-      "summary": "Hi HN, I'm lmw-lab, the builder behind Script Snap.The Backstory:\nI built this out of pure frustration. A while ago, I was trying to figure out a specific configuration for a project, and the only good resource I could find was a 25-minute YouTube video. I had to scrub through endless \"smash the lik",
-      "link": "https://script-snap.com/",
-      "published": "Sat, 21 Feb 2026 04:39:20 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "API",
-        "Security"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.383441"
-    },
-    {
-      "source": "hackernews",
-      "title": "Meta Deployed AI and It Is Killing Our Agency",
-      "summary": "Article URL: https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/\nComments URL: https://news.ycombinator.com/item?id=47097502\nPoints: 13\n# Comments: 4",
-      "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-      "published": "Sat, 21 Feb 2026 04:29:40 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.383487"
-    },
-    {
-      "source": "hackernews",
-      "title": "Excessive token usage in Claude Code",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/16856\nComments URL: https://news.ycombinator.com/item?id=47096937\nPoints: 52\n# Comments: 13",
-      "link": "https://github.com/anthropics/claude-code/issues/16856",
-      "published": "Sat, 21 Feb 2026 02:40:24 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.383517"
-    },
-    {
-      "source": "hackernews",
-      "title": "What Is OAuth?",
-      "summary": "Article URL: https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b\nComments URL: https://news.ycombinator.com/item?id=47096520\nPoints: 81\n# Comments: 18",
-      "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-      "published": "Sat, 21 Feb 2026 01:33:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.383548"
+      "crawled_at": "2026-02-21T12:24:18.342437"
     },
     {
       "source": "arstechnica",
@@ -220,7 +211,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.551851"
+      "crawled_at": "2026-02-21T12:24:18.445309"
     },
     {
       "source": "arstechnica",
@@ -235,7 +226,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.551880"
+      "crawled_at": "2026-02-21T12:24:18.445338"
     },
     {
       "source": "arstechnica",
@@ -247,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.551910"
+      "crawled_at": "2026-02-21T12:24:18.445368"
     },
     {
       "source": "arstechnica",
@@ -257,7 +248,7 @@
       "published": "Fri, 20 Feb 2026 22:41:02 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.551942"
+      "crawled_at": "2026-02-21T12:24:18.445401"
     },
     {
       "source": "arstechnica",
@@ -271,72 +262,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.551964"
+      "crawled_at": "2026-02-21T12:24:18.445423"
     },
     {
       "source": "wired",
-      "title": "Trump Imposes New Tariffs to Sidestep Supreme Court Ruling",
-      "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a “disgrace.”",
-      "link": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
-      "published": "Sat, 21 Feb 2026 02:55:58 +0000",
+      "title": "Souvenirs From the 2026 Winter Olympics Are Being Resold for Big Bucks Online",
+      "summary": "From pins to mascots to Swatch watches, memorabilia from the Milano Cortina Games is showing up on sites like eBay and Vinted.",
+      "link": "https://www.wired.com/story/gear-from-the-2026-winter-olympics-is-being-resold-for-big-bucks-online/",
+      "published": "Sat, 21 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.790664"
+      "crawled_at": "2026-02-21T12:24:18.547371"
     },
     {
       "source": "wired",
-      "title": "The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth",
-      "summary": "Despite Friday’s SCOTUS ruling, many tariffs affecting the auto industry will remain. So will the other dynamics that have led to today’s historically high car prices.",
-      "link": "https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/",
-      "published": "Sat, 21 Feb 2026 00:10:01 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.790704"
-    },
-    {
-      "source": "wired",
-      "title": "A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed",
-      "summary": "What scientists thought were four separate star clusters are actually part of one nearly invisible system.",
-      "link": "https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/",
-      "published": "Fri, 20 Feb 2026 23:58:37 +0000",
+      "title": "Best Budget Monitors: I Found 3 Impressive Screens Under $200 (2026)",
+      "summary": "You might assume all monitors under $200 are terrible. But after trying some out, I found a few that defy expectations.",
+      "link": "https://www.wired.com/story/best-budget-monitors/",
+      "published": "Sat, 21 Feb 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-21T06:29:27.790737"
+      "crawled_at": "2026-02-21T12:24:18.547407"
     },
     {
       "source": "wired",
-      "title": "Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters",
-      "summary": "Self-driving-vehicle companies are revealing new details about their safety-critical “remote assistance” programs—but questions remain.",
-      "link": "https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/",
-      "published": "Fri, 20 Feb 2026 21:53:01 +0000",
+      "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
+      "summary": "Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play.",
+      "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
+      "published": "Sat, 21 Feb 2026 12:00:00 +0000",
       "keywords": [
-        "AI",
         "Go",
-        "Tesla",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.790767"
+      "category": "Tech News",
+      "crawled_at": "2026-02-21T12:24:18.547450"
     },
     {
       "source": "wired",
-      "title": "They Bet Against Trump’s Tariffs. Now They Stand to Make Millions",
-      "summary": "After the US Supreme Court struck down President Donald Trump’s tariff regime, investment firms are in line for a whopping return on a niche trade.",
-      "link": "https://www.wired.com/story/they-bet-against-trumps-tariffs-now-they-stand-to-make-millions/",
-      "published": "Fri, 20 Feb 2026 21:05:44 +0000",
+      "title": "Password Managers Share a Hidden Weakness",
+      "summary": "Plus: The cybersecurity community grapples with Epstein files revelations, the US State Department plans an online anti-censorship “portal” for the world, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+      "published": "Sat, 21 Feb 2026 11:30:00 +0000",
       "keywords": [
-        "AI",
+        "Security",
+        "Cybersecurity",
+        "Apple",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-21T06:29:27.790796"
+      "category": "Security",
+      "crawled_at": "2026-02-21T12:24:18.547486"
+    },
+    {
+      "source": "wired",
+      "title": "You Can Now Install—and Update—Microsoft Store Apps Using the Command Line",
+      "summary": "By typing simple, text-based commands into Windows' PowerShell, you can quickly install apps directly from the Microsoft Store—all without the typical ads or clutter.",
+      "link": "https://www.wired.com/story/install-and-update-microsoft-store-apps-using-the-command-line-in-windows/",
+      "published": "Sat, 21 Feb 2026 11:00:00 +0000",
+      "keywords": [
+        "Microsoft",
+        "Windows"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-21T12:24:18.547527"
     }
   ]
 }
