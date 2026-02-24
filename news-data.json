@@ -1,73 +1,126 @@
 {
-  "last_updated": "2026-02-23T18:48:38.930887",
+  "last_updated": "2026-02-24T01:08:41.161389",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "OpenAI calls in the consultants for its enterprise push",
-      "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
-      "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
-      "published": "Mon, 23 Feb 2026 18:11:08 +0000",
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "published": "Tue, 24 Feb 2026 00:57:14 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.399252"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+      "summary": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
+      "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+      "published": "Tue, 24 Feb 2026 00:36:12 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AWS",
+        "Tesla",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.399293"
+    },
+    {
+      "source": "techcrunch",
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "published": "Mon, 23 Feb 2026 21:46:41 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.286658"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "summary": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "published": "Mon, 23 Feb 2026 17:53:28 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.286698"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
-      "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
-      "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
-      "published": "Mon, 23 Feb 2026 16:55:40 +0000",
-      "keywords": [
-        "AI",
+        "Anthropic",
         "REST",
-        "AR"
+        "VC"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.286737"
+      "crawled_at": "2026-02-24T01:08:40.399323"
     },
     {
       "source": "techcrunch",
-      "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
-      "summary": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
-      "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-      "published": "Mon, 23 Feb 2026 16:50:36 +0000",
+      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+      "summary": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+      "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+      "published": "Mon, 23 Feb 2026 20:35:06 +0000",
       "keywords": [
         "AI",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.286773"
+      "crawled_at": "2026-02-24T01:08:40.399350"
     },
     {
       "source": "techcrunch",
-      "title": "Finnish quantum unicorn IQM set to go public",
-      "summary": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies listed on U.S. stock markets.",
-      "link": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
-      "published": "Mon, 23 Feb 2026 16:41:22 +0000",
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "published": "Mon, 23 Feb 2026 19:57:27 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.399387"
+    },
+    {
+      "source": "theverge",
+      "title": "Will Trump’s DOJ actually take on Ticketmaster?",
+      "summary": "In mid-February, the Department of Justice lost its head antitrust enforcer - just weeks before it was scheduled to argue one of the year's biggest anti-monopoly cases in court. Antitrust Division chief Gail Slater announced her departure suddenly, via a post on her personal X account. But to those ",
+      "link": "https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
+      "published": "2026-02-23T15:37:24-05:00",
+      "keywords": [
+        "AI",
+        "Rust",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.486255"
+    },
+    {
+      "source": "theverge",
+      "title": "Billions of dollars later and still nobody knows what an Xbox is",
+      "summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although n",
+      "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+      "published": "2026-02-23T15:30:00-05:00",
       "keywords": [
         "Go",
+        "Microsoft",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:40.486316"
+    },
+    {
+      "source": "theverge",
+      "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+      "summary": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudulent accounts and more than 16 million exch",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "published": "2026-02-23T15:22:55-05:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-23T18:48:36.286818"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.486355"
     },
     {
       "source": "theverge",
@@ -81,7 +134,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.408042"
+      "crawled_at": "2026-02-24T01:08:40.486399"
     },
     {
       "source": "theverge",
@@ -94,108 +147,106 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-23T18:48:36.408102"
-    },
-    {
-      "source": "theverge",
-      "title": "Discord distances itself from Persona age verification after user backlash",
-      "summary": "Discord is attempting to distance itself from the age verification provider Persona following a steady stream of user backlash. In an emailed statement to The Verge, Discord's head of product policy, Savannah Badalich, confirms the company \"ran a limited test of Persona in the UK where age assurance",
-      "link": "https://www.theverge.com/tech/878369/discord-persona-age-verification",
-      "published": "2026-02-23T11:22:20-05:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.408138"
-    },
-    {
-      "source": "theverge",
-      "title": "Kohler&#8217;s new shower reuses dirty water to get you clean",
-      "summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \"up to 80% water savings\" without the use of showerheads that limit flow or pressure. The system instead relies on a reservoir in the shower's base that collects used water and passes it through a filtration system before sending ",
-      "link": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
-      "published": "2026-02-23T11:17:26-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.408171"
-    },
-    {
-      "source": "theverge",
-      "title": "Does Big Tech actually care about fighting AI slop?",
-      "summary": "As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible t",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
-      "published": "2026-02-23T11:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:36.408201"
+      "crawled_at": "2026-02-24T01:08:40.486447"
     },
     {
       "source": "hackernews",
-      "title": "What it means that Ubuntu is using Rust",
-      "summary": "Article URL: https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/\nComments URL: https://news.ycombinator.com/item?id=47125286\nPoints: 26\n# Comments: 13",
-      "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
-      "published": "Mon, 23 Feb 2026 17:15:14 +0000",
-      "keywords": [
-        "Rust",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-23T18:48:38.692360"
-    },
-    {
-      "source": "hackernews",
-      "title": "Decided to fly to the US to buy some hard drives",
-      "summary": "Article URL: https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives\nComments URL: https://news.ycombinator.com/item?id=47125046\nPoints: 23\n# Comments: 5",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives",
-      "published": "Mon, 23 Feb 2026 17:01:39 +0000",
+      "title": "Psychology suggests making a shopping list is a sign of sharper thinking",
+      "summary": "Article URL: https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr\nComments URL: https://news.ycombinator.com/item?id=47131219\nPoints: 6\n# Comments: 5",
+      "link": "https://economictimes.indiatimes.com/news/international/us/still-making-a-shopping-list-psychology-suggests-its-a-sign-of-sharper-thinking/articleshow/127796018.cms?from=mdr",
+      "published": "Tue, 24 Feb 2026 00:37:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.692407"
+      "crawled_at": "2026-02-24T01:08:40.813670"
     },
     {
       "source": "hackernews",
-      "title": "Hadrius (YC W23) Is Hiring Designers Who Code",
-      "summary": "Article URL: https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer\nComments URL: https://news.ycombinator.com/item?id=47125026\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer",
-      "published": "Mon, 23 Feb 2026 17:00:43 +0000",
+      "title": "Shatner is making an album with 35 metal icons",
+      "summary": "Article URL: https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album\nComments URL: https://news.ycombinator.com/item?id=47131173\nPoints: 14\n# Comments: 2",
+      "link": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "published": "Tue, 24 Feb 2026 00:33:06 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:40.813718"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "summary": "Article URL: https://dork.dev/posts/2026-02-20-ported-coreboot/\nComments URL: https://news.ycombinator.com/item?id=47130860\nPoints: 3\n# Comments: 0",
+      "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "published": "Mon, 23 Feb 2026 23:58:45 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-23T18:48:38.692439"
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:40.813753"
     },
     {
       "source": "hackernews",
-      "title": "AI is destroying open source, and it's not even good yet [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=bZJ7A1QoUEI\nComments URL: https://news.ycombinator.com/item?id=47125019\nPoints: 33\n# Comments: 24",
-      "link": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
-      "published": "Mon, 23 Feb 2026 17:00:15 +0000",
+      "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+      "summary": "Article URL: https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380\nComments URL: https://news.ycombinator.com/item?id=47130208\nPoints: 127\n# Comments: 82",
+      "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+      "published": "Mon, 23 Feb 2026 22:55:08 +0000",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:38.692466"
+      "crawled_at": "2026-02-24T01:08:40.813784"
     },
     {
       "source": "hackernews",
-      "title": "Large study finds link between cannabis use in teens and psychosis later",
-      "summary": "Article URL: https://text.npr.org/nx-s1-5719338\nComments URL: https://news.ycombinator.com/item?id=47124877\nPoints: 52\n# Comments: 34",
-      "link": "https://text.npr.org/nx-s1-5719338",
-      "published": "Mon, 23 Feb 2026 16:51:03 +0000",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/\nComments URL: https://news.ycombinator.com/item?id=47129727\nPoints: 30\n# Comments: 18",
+      "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "published": "Mon, 23 Feb 2026 22:11:34 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-24T01:08:40.813814"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
+      "summary": "\"The point is to get missions out the door as fast as possible. Two to three years is too slow.\"",
+      "link": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
+      "published": "Mon, 23 Feb 2026 22:14:28 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-24T01:08:40.933036"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Data center builders thought farmers would willingly sell land, learn otherwise",
+      "summary": "Even in a fragile farm economy, million-dollar offers can't sway dedicated farmers.",
+      "link": "https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/",
+      "published": "Mon, 23 Feb 2026 21:48:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.692538"
+      "crawled_at": "2026-02-24T01:08:40.933073"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Panasonic, the former plasma king, will no longer make its own TVs",
+      "summary": "Panasonic was one of the last Japanese companies still manufacturing TVs.",
+      "link": "https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/",
+      "published": "Mon, 23 Feb 2026 21:16:20 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:40.933101"
     },
     {
       "source": "arstechnica",
@@ -210,7 +261,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:38.807459"
+      "crawled_at": "2026-02-24T01:08:40.933121"
     },
     {
       "source": "arstechnica",
@@ -223,44 +274,44 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.807509"
+      "crawled_at": "2026-02-24T01:08:40.933149"
     },
     {
-      "source": "arstechnica",
-      "title": "AIs can generate near-verbatim copies of novels from training data",
-      "summary": "LLMs memorize more training data than previously thought.",
-      "link": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
-      "published": "Mon, 23 Feb 2026 15:38:00 +0000",
+      "source": "wired",
+      "title": "Start Your Surround Sound Journey With $50 off This Klipsch Soundbar",
+      "summary": "This soundbar is just the beginning, with the option to add wireless bookshelf speakers or a subwoofer.",
+      "link": "https://www.wired.com/story/klipsch-flexus-core-200-deal-226/",
+      "published": "Mon, 23 Feb 2026 23:11:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:41.161124"
+    },
+    {
+      "source": "wired",
+      "title": "6 Best Duffel Bags We Tested While Traveling (2026)",
+      "summary": "Need to schlep some stuff? Consider these field-tested duffel bags. The Eastpak Duffel Pack S Tarp Black2 is our top pick.",
+      "link": "https://www.wired.com/gallery/best-duffel-bags/",
+      "published": "Mon, 23 Feb 2026 22:36:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-24T01:08:41.161162"
+    },
+    {
+      "source": "wired",
+      "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+      "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+      "published": "Mon, 23 Feb 2026 19:28:13 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-23T18:48:38.807535"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Review: Knight of the Seven Kingdoms brings back that Westeros magic",
-      "summary": "Prequel series is just great storytelling, reminding GoT fans why they loved the original so much.",
-      "link": "https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/",
-      "published": "Mon, 23 Feb 2026 13:51:36 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.807567"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The first cars bold enough to drive themselves",
-      "summary": "Quevedo's telekino of 1904 was the first step on the road to autonomous Waymos.",
-      "link": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
-      "published": "Mon, 23 Feb 2026 12:00:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.807593"
+      "crawled_at": "2026-02-24T01:08:41.161205"
     },
     {
       "source": "wired",
@@ -272,7 +323,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-02-23T18:48:38.930625"
+      "crawled_at": "2026-02-24T01:08:41.161240"
     },
     {
       "source": "wired",
@@ -284,45 +335,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.930672"
-    },
-    {
-      "source": "wired",
-      "title": "Best Puffer Jacket (2026): Patagonia, Arc’teryx, REI",
-      "summary": "Our favorite down puffer jackets will keep you warm in the backcountry and around town.",
-      "link": "https://www.wired.com/gallery/the-best-puffer-jackets/",
-      "published": "Mon, 23 Feb 2026 13:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.930706"
-    },
-    {
-      "source": "wired",
-      "title": "The Best iPad to Buy (and Some to Avoid) in 2026",
-      "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
-      "link": "https://www.wired.com/gallery/the-best-ipad/",
-      "published": "Mon, 23 Feb 2026 12:00:00 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-23T18:48:38.930738"
-    },
-    {
-      "source": "wired",
-      "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
-      "summary": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.",
-      "link": "https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/",
-      "published": "Mon, 23 Feb 2026 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-23T18:48:38.930781"
+      "crawled_at": "2026-02-24T01:08:41.161283"
     }
   ]
 }
