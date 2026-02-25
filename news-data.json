@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-02-25T01:14:14.835064",
+  "last_updated": "2026-02-25T06:50:26.582155",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+      "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+      "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+      "published": "Wed, 25 Feb 2026 02:00:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T06:50:25.847992"
+    },
     {
       "source": "techcrunch",
       "title": "Nvidia challenger AI chip startup MatX raised $500M",
@@ -16,7 +31,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:13.992272"
+      "crawled_at": "2026-02-25T06:50:25.848023"
     },
     {
       "source": "techcrunch",
@@ -30,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:13.992307"
+      "crawled_at": "2026-02-25T06:50:25.848049"
     },
     {
       "source": "techcrunch",
@@ -44,7 +59,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:13.992344"
+      "crawled_at": "2026-02-25T06:50:25.848081"
     },
     {
       "source": "techcrunch",
@@ -58,21 +73,21 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:13.992371"
+      "crawled_at": "2026-02-25T06:50:25.848107"
     },
     {
-      "source": "techcrunch",
-      "title": "Uber engineers built an AI version of their boss",
-      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-      "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
-      "published": "Tue, 24 Feb 2026 23:09:28 +0000",
+      "source": "theverge",
+      "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by si",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+      "published": "2026-02-24T20:59:00-05:00",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:13.992402"
+      "crawled_at": "2026-02-25T06:50:25.907651"
     },
     {
       "source": "theverge",
@@ -86,7 +101,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.178130"
+      "crawled_at": "2026-02-25T06:50:25.907697"
     },
     {
       "source": "theverge",
@@ -101,7 +116,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.178185"
+      "crawled_at": "2026-02-25T06:50:25.907741"
     },
     {
       "source": "theverge",
@@ -115,7 +130,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.178226"
+      "crawled_at": "2026-02-25T06:50:25.907779"
     },
     {
       "source": "theverge",
@@ -128,17 +143,60 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-02-25T01:14:14.178267"
+      "crawled_at": "2026-02-25T06:50:25.907821"
     },
     {
-      "source": "theverge",
-      "title": "Discord is delaying its global age verification rollout",
-      "summary": "Discord won't roll out age verification globally on its platform next month as previously announced, and says in a blog post that it's delaying the launch until the second half of 2026. \"The way this landed, many of you walked away thinking we're requiring face scans and ID uploads from everyone jus",
-      "link": "https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay",
-      "published": "2026-02-24T14:17:37-05:00",
-      "keywords": [],
+      "source": "hackernews",
+      "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+      "summary": "Every MCP tool call dumps raw data into Claude Code's 200K context window. A Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB. After 30 minutes, 40% of your context is gone.\nI built an MCP server that sits between Claude Code and these outputs. It processes them in sandboxes and only ret",
+      "link": "https://github.com/mksglu/claude-context-mode",
+      "published": "Wed, 25 Feb 2026 06:23:30 +0000",
+      "keywords": [
+        "Claude",
+        "Go",
+        "SQL",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T06:50:26.259883"
+    },
+    {
+      "source": "hackernews",
+      "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
+      "summary": "Article URL: https://arxiv.org/abs/2602.20762\nComments URL: https://news.ycombinator.com/item?id=47147609\nPoints: 3\n# Comments: 0",
+      "link": "https://arxiv.org/abs/2602.20762",
+      "published": "Wed, 25 Feb 2026 05:16:39 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.178309"
+      "crawled_at": "2026-02-25T06:50:26.259928"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Share your productive usage of OpenClaw",
+      "summary": "What are some very productive things you achieved with OpenClaw that you wouldn’t mind sharing?\n\nComments URL: https://news.ycombinator.com/item?id=47147183\nPoints: 33\n# Comments: 11",
+      "link": "https://news.ycombinator.com/item?id=47147183",
+      "published": "Wed, 25 Feb 2026 04:03:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T06:50:26.259976"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "summary": "Article URL: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\nComments URL: https://news.ycombinator.com/item?id=47145963\nPoints: 193\n# Comments: 77",
+      "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "published": "Wed, 25 Feb 2026 01:08:46 +0000",
+      "keywords": [
+        "Anthropic",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T06:50:26.260013"
     },
     {
       "source": "hackernews",
@@ -150,58 +208,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.524838"
+      "crawled_at": "2026-02-25T06:50:26.260049"
     },
     {
-      "source": "hackernews",
-      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2\nComments URL: https://news.ycombinator.com/item?id=47144464\nPoints: 34\n# Comments: 7",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "published": "Tue, 24 Feb 2026 22:46:23 +0000",
+      "source": "arstechnica",
+      "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+      "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
+      "link": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
+      "published": "Wed, 25 Feb 2026 00:05:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.524874"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cell Service for the Fairly Paranoid",
-      "summary": "Article URL: https://www.cape.co/\nComments URL: https://news.ycombinator.com/item?id=47144325\nPoints: 51\n# Comments: 35",
-      "link": "https://www.cape.co/",
-      "published": "Tue, 24 Feb 2026 22:37:54 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.524899"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stripe reportedly makes offer to acquire PayPal",
-      "summary": "Article URL: https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html\nComments URL: https://news.ycombinator.com/item?id=47144064\nPoints: 53\n# Comments: 34",
-      "link": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
-      "published": "Tue, 24 Feb 2026 22:16:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.524933"
-    },
-    {
-      "source": "hackernews",
-      "title": "Dream Recorder AI – a portal to your subconscious",
-      "summary": "Article URL: https://dreamrecorder.ai/\nComments URL: https://news.ycombinator.com/item?id=47143976\nPoints: 14\n# Comments: 11",
-      "link": "https://dreamrecorder.ai/",
-      "published": "Tue, 24 Feb 2026 22:09:57 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.524965"
+      "crawled_at": "2026-02-25T06:50:26.506214"
     },
     {
       "source": "arstechnica",
@@ -213,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.716055"
+      "crawled_at": "2026-02-25T06:50:26.506252"
     },
     {
       "source": "arstechnica",
@@ -225,7 +245,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.716089"
+      "crawled_at": "2026-02-25T06:50:26.506278"
     },
     {
       "source": "arstechnica",
@@ -239,7 +259,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-25T01:14:14.716119"
+      "crawled_at": "2026-02-25T06:50:26.506305"
     },
     {
       "source": "arstechnica",
@@ -251,20 +271,41 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.716141"
+      "crawled_at": "2026-02-25T06:50:26.506325"
     },
     {
-      "source": "arstechnica",
-      "title": "In a replay of 2019, Apple says a single desktop Mac will be manufactured in the US",
-      "summary": "Apple is still working to get favorable tariff treatment from the Trump administration.",
-      "link": "https://arstechnica.com/apple/2026/02/in-a-replay-of-2019-apple-says-a-single-desktop-mac-will-be-manufactured-in-the-us/",
-      "published": "Tue, 24 Feb 2026 18:46:03 +0000",
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off February 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published": "Wed, 25 Feb 2026 06:06:00 +0000",
       "keywords": [
-        "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-25T01:14:14.716169"
+      "category": "Programming",
+      "crawled_at": "2026-02-25T06:50:26.581924"
+    },
+    {
+      "source": "wired",
+      "title": "50% Off Blue Apron Promo Codes | February 2026",
+      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+      "link": "https://www.wired.com/story/blue-apron-coupon/",
+      "published": "Wed, 25 Feb 2026 06:05:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-25T06:50:26.581956"
+    },
+    {
+      "source": "wired",
+      "title": "H&R Block Coupons and Deals: $25 Off Tax Prep in 2026",
+      "summary": "When you visit your local H&amp;R Block store or get help from a tax pro online, you can save up to $25 when you use one of our (unique) codes.",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Wed, 25 Feb 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-02-25T06:50:26.581981"
     },
     {
       "source": "wired",
@@ -278,7 +319,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.834824"
+      "crawled_at": "2026-02-25T06:50:26.582026"
     },
     {
       "source": "wired",
@@ -290,44 +331,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.834869"
-    },
-    {
-      "source": "wired",
-      "title": "Save $20 on Our Favorite Gaming Headset",
-      "summary": "The SteelSeries Arctis Nova 3 have excellent compatibility and a comfortable, lightweight fit.",
-      "link": "https://www.wired.com/story/arctis-nova-3-deal-226/",
-      "published": "Tue, 24 Feb 2026 19:18:18 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.834899"
-    },
-    {
-      "source": "wired",
-      "title": "Life in Cuba Under Trump's Pressure Campaign: No Electricity, No Oil, and Impossible Choices",
-      "summary": "As the United States takes new steps against the regime that has ruled the island since 1959, the Cuban people face 20-hour blackouts, decreased internet access, and shortages of basic supplies.",
-      "link": "https://www.wired.com/story/cuba-trump-oil-pressure/",
-      "published": "Tue, 24 Feb 2026 18:38:18 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-25T01:14:14.834928"
-    },
-    {
-      "source": "wired",
-      "title": "The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved",
-      "summary": "New research sheds light on what drives reddish water to emerge from underground to pour onto the Taylor Glacier.",
-      "link": "https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/",
-      "published": "Tue, 24 Feb 2026 16:31:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T01:14:14.834966"
+      "crawled_at": "2026-02-25T06:50:26.582064"
     }
   ]
 }
