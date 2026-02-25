@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T06:50:26.582155",
+  "last_updated": "2026-02-25T12:38:28.385436",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.847992"
+      "crawled_at": "2026-02-25T12:38:26.528740"
     },
     {
       "source": "techcrunch",
@@ -31,7 +31,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.848023"
+      "crawled_at": "2026-02-25T12:38:26.528770"
     },
     {
       "source": "techcrunch",
@@ -45,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.848049"
+      "crawled_at": "2026-02-25T12:38:26.528810"
     },
     {
       "source": "techcrunch",
@@ -59,7 +59,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.848081"
+      "crawled_at": "2026-02-25T12:38:26.528843"
     },
     {
       "source": "techcrunch",
@@ -73,7 +73,21 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.848107"
+      "crawled_at": "2026-02-25T12:38:26.528869"
+    },
+    {
+      "source": "theverge",
+      "title": "Honor’s new MagicPad 4 is the world’s thinnest Android tablet",
+      "summary": "Honor has announced a new version of its already slim MagicPad tablet that's now even thinner. Last year's MagicPad 3 was just 5.8mm thick, but the new MagicPad 4 squeezes that down to 4.8mm. That's thinner than the 6.1mm thick iPad Air and 5.1mm iPad Pro, or the 5.1mm thick Samsung Galaxy Tab S11, ",
+      "link": "https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin",
+      "published": "2026-02-25T05:34:53-05:00",
+      "keywords": [
+        "AI",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T12:38:26.673417"
     },
     {
       "source": "theverge",
@@ -87,7 +101,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.907651"
+      "crawled_at": "2026-02-25T12:38:26.673470"
     },
     {
       "source": "theverge",
@@ -101,7 +115,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.907697"
+      "crawled_at": "2026-02-25T12:38:26.673510"
     },
     {
       "source": "theverge",
@@ -116,7 +130,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.907741"
+      "crawled_at": "2026-02-25T12:38:26.673548"
     },
     {
       "source": "theverge",
@@ -130,85 +144,76 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:25.907779"
-    },
-    {
-      "source": "theverge",
-      "title": "Let me see some ID: age verification is spreading across the internet",
-      "summary": "Age verification is a reality on a growing number of social media platforms, requiring an ID or facial scan for full access to everything from YouTube to Roblox. The age-gating wave is coming along with calls for stronger child safety measures online, despite concerns about privacy, security, and ce",
-      "link": "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
-      "published": "2026-02-24T16:05:58-05:00",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-02-25T06:50:25.907821"
+      "crawled_at": "2026-02-25T12:38:26.673585"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
-      "summary": "Every MCP tool call dumps raw data into Claude Code's 200K context window. A Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB. After 30 minutes, 40% of your context is gone.\nI built an MCP server that sits between Claude Code and these outputs. It processes them in sandboxes and only ret",
-      "link": "https://github.com/mksglu/claude-context-mode",
-      "published": "Wed, 25 Feb 2026 06:23:30 +0000",
+      "title": "Event Horizon Labs (YC W24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer\nComments URL: https://news.ycombinator.com/item?id=47150403\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer",
+      "published": "Wed, 25 Feb 2026 12:01:11 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T12:38:28.089037"
+    },
+    {
+      "source": "hackernews",
+      "title": "100M-Row Challenge with PHP",
+      "summary": "Article URL: https://github.com/tempestphp/100-million-row-challenge\nComments URL: https://news.ycombinator.com/item?id=47149752\nPoints: 16\n# Comments: 1",
+      "link": "https://github.com/tempestphp/100-million-row-challenge",
+      "published": "Wed, 25 Feb 2026 10:24:23 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T12:38:28.089078"
+    },
+    {
+      "source": "hackernews",
+      "title": "Danish government agency to ditch Microsoft software (2025)",
+      "summary": "Article URL: https://therecord.media/denmark-digital-agency-microsoft-digital-independence\nComments URL: https://news.ycombinator.com/item?id=47149701\nPoints: 195\n# Comments: 91",
+      "link": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+      "published": "Wed, 25 Feb 2026 10:16:22 +0000",
+      "keywords": [
+        "Go",
+        "Microsoft",
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T12:38:28.089116"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "summary": "I've liked all the projects that put LLMs into game environments. It's been a weird juxtaposition, though: frontier LLMs can one-shot full coding projects, and those same models struggle to get out of Pokémon Red's Mt. Moon.Because of this, I wanted to create a game environment that put this generat",
+      "link": "https://llmskirmish.com/",
+      "published": "Wed, 25 Feb 2026 10:02:45 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
         "Claude",
         "Go",
-        "SQL",
-        "Git",
-        "GitHub"
+        "Google Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:26.259883"
+      "crawled_at": "2026-02-25T12:38:28.089241"
     },
     {
       "source": "hackernews",
-      "title": "Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput",
-      "summary": "Article URL: https://arxiv.org/abs/2602.20762\nComments URL: https://news.ycombinator.com/item?id=47147609\nPoints: 3\n# Comments: 0",
-      "link": "https://arxiv.org/abs/2602.20762",
-      "published": "Wed, 25 Feb 2026 05:16:39 +0000",
+      "title": "LLM=True",
+      "summary": "Article URL: https://blog.codemine.be/posts/2026/20260222-be-quiet/\nComments URL: https://news.ycombinator.com/item?id=47149151\nPoints: 117\n# Comments: 83",
+      "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "published": "Wed, 25 Feb 2026 09:05:40 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.259928"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask HN: Share your productive usage of OpenClaw",
-      "summary": "What are some very productive things you achieved with OpenClaw that you wouldn’t mind sharing?\n\nComments URL: https://news.ycombinator.com/item?id=47147183\nPoints: 33\n# Comments: 11",
-      "link": "https://news.ycombinator.com/item?id=47147183",
-      "published": "Wed, 25 Feb 2026 04:03:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.259976"
-    },
-    {
-      "source": "hackernews",
-      "title": "Anthropic Drops Flagship Safety Pledge",
-      "summary": "Article URL: https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\nComments URL: https://news.ycombinator.com/item?id=47145963\nPoints: 193\n# Comments: 77",
-      "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
-      "published": "Wed, 25 Feb 2026 01:08:46 +0000",
-      "keywords": [
-        "Anthropic",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.260013"
-    },
-    {
-      "source": "hackernews",
-      "title": "Corgi Labs (YC W23) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate\nComments URL: https://news.ycombinator.com/item?id=47145911\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
-      "published": "Wed, 25 Feb 2026 01:01:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.260049"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T12:38:28.089268"
     },
     {
       "source": "arstechnica",
@@ -221,7 +226,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:26.506214"
+      "crawled_at": "2026-02-25T12:38:28.230642"
     },
     {
       "source": "arstechnica",
@@ -233,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.506252"
+      "crawled_at": "2026-02-25T12:38:28.230682"
     },
     {
       "source": "arstechnica",
@@ -245,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.506278"
+      "crawled_at": "2026-02-25T12:38:28.230708"
     },
     {
       "source": "arstechnica",
@@ -259,7 +264,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-02-25T06:50:26.506305"
+      "crawled_at": "2026-02-25T12:38:28.230736"
     },
     {
       "source": "arstechnica",
@@ -271,67 +276,68 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-25T06:50:26.506325"
+      "crawled_at": "2026-02-25T12:38:28.230757"
     },
     {
       "source": "wired",
-      "title": "Peacock Promo Codes: 40% Off February 2026",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "published": "Wed, 25 Feb 2026 06:06:00 +0000",
+      "title": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+      "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+      "link": "https://www.wired.com/story/ailias-hologram-avatars/",
+      "published": "Wed, 25 Feb 2026 12:00:00 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-25T06:50:26.581924"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T12:38:28.385219"
     },
     {
       "source": "wired",
-      "title": "50% Off Blue Apron Promo Codes | February 2026",
-      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-      "link": "https://www.wired.com/story/blue-apron-coupon/",
-      "published": "Wed, 25 Feb 2026 06:05:00 +0000",
+      "title": "Best Wireless Headphones (2026): I Compare Bose, Apple, Sony and More",
+      "summary": "From workout-ready earbuds to gaming over-ears, these WIRED-tested picks sound like a million bucks.",
+      "link": "https://www.wired.com/gallery/best-wireless-headphones/",
+      "published": "Wed, 25 Feb 2026 11:30:00 +0000",
       "keywords": [
-        "AR"
+        "Apple",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-25T12:38:28.385254"
+    },
+    {
+      "source": "wired",
+      "title": "Kubuntu Focus Zr Gen 1 Review: A Powerhouse Linux Laptop",
+      "summary": "Need the power of a Linux desktop in a laptop? Kubuntu Focus’ latest laptop is perfect for developers, video editors, and anyone who needs serious computing power.",
+      "link": "https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/",
+      "published": "Wed, 25 Feb 2026 11:30:00 +0000",
+      "keywords": [
+        "Linux"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-25T06:50:26.581956"
+      "crawled_at": "2026-02-25T12:38:28.385291"
     },
     {
       "source": "wired",
-      "title": "H&R Block Coupons and Deals: $25 Off Tax Prep in 2026",
-      "summary": "When you visit your local H&amp;R Block store or get help from a tax pro online, you can save up to $25 when you use one of our (unique) codes.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Wed, 25 Feb 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-02-25T06:50:26.581981"
-    },
-    {
-      "source": "wired",
-      "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
-      "summary": "The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data.",
-      "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
-      "published": "Tue, 24 Feb 2026 23:22:38 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.582026"
-    },
-    {
-      "source": "wired",
-      "title": "My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now",
-      "summary": "JBL’s fabulous Flip 7 speaker is on super sale for $100. Grab this go-anywhere companion on the cheap before the nice weather hits.",
-      "link": "https://www.wired.com/story/jbl-flip-7-deal-0223/",
-      "published": "Tue, 24 Feb 2026 19:55:19 +0000",
+      "title": "This Is the Worst Thing That Could Happen to the International Space Station",
+      "summary": "There’s a good way to throw out the ISS. And then there’s a really bad way.",
+      "link": "https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/",
+      "published": "Wed, 25 Feb 2026 11:00:00 +0000",
       "keywords": [
         "Go"
       ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-25T12:38:28.385324"
+    },
+    {
+      "source": "wired",
+      "title": "Vantrue E1 4K Pro Review (2026): Tiny and High-Definition",
+      "summary": "The Vantrue E1 4K Pro is the smallest dashcam I've seen with high-resolution video and great daytime license plate capture. But the night, it comes.",
+      "link": "https://www.wired.com/review/vantrue-e1-4k-pro-mini-dashcam/",
+      "published": "Wed, 25 Feb 2026 10:33:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-25T06:50:26.582064"
+      "crawled_at": "2026-02-25T12:38:28.385357"
     }
   ]
 }
