@@ -1,265 +1,309 @@
 {
-  "last_updated": "2026-02-24T18:45:53.954358",
+  "last_updated": "2026-02-25T01:14:14.835064",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Twitch is overhauling its suspensions policy",
-      "summary": "The company is implementing two suspension types: streaming suspensions and chatting suspensions.",
-      "link": "https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/",
-      "published": "Tue, 24 Feb 2026 18:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.255442"
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "summary": "The startup was founded by former Google TPU engineers in 2023.",
+      "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "published": "Wed, 25 Feb 2026 00:45:47 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:13.992272"
     },
     {
       "source": "techcrunch",
-      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-      "summary": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven&#8217;t yet seen AI adoption at scale. &#8220;One of the interesting things and some of the inspiration for the work we&#8217;",
-      "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
-      "published": "Tue, 24 Feb 2026 17:44:34 +0000",
+      "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "summary": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+      "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "published": "Wed, 25 Feb 2026 00:37:59 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:13.992307"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+      "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
+      "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+      "published": "Tue, 24 Feb 2026 23:32:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:13.992344"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+      "summary": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults.",
+      "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+      "published": "Tue, 24 Feb 2026 23:21:54 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:13.992371"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber engineers built an AI version of their boss",
+      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+      "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "published": "Tue, 24 Feb 2026 23:09:28 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:13.992402"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+      "summary": "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to \"meet their age assurance obligations under upcoming U.S. and regional law",
+      "link": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+      "published": "2026-02-24T19:45:37-05:00",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.178130"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
+      "summary": "Apple's OLED touchscreen MacBook Pros set to launch this fall will get a Dynamic Island feature like what's available on iPhones, according to Bloomberg's Mark Gurman. Apple first debuted the Dynamic Island with the iPhone 14 Pro and iPhone 14 Pro Max as a pill-shaped cutout that can show informatio",
+      "link": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
+      "published": "2026-02-24T18:51:19-05:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.178185"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI defeats xAI’s trade secrets lawsuit",
+      "summary": "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets. The former company's motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims. In the rulin",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+      "published": "2026-02-24T18:05:28-05:00",
       "keywords": [
         "AI",
         "OpenAI",
+        "AWS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.178226"
+    },
+    {
+      "source": "theverge",
+      "title": "Let me see some ID: age verification is spreading across the internet",
+      "summary": "Age verification is a reality on a growing number of social media platforms, requiring an ID or facial scan for full access to everything from YouTube to Roblox. The age-gating wave is coming along with calls for stronger child safety measures online, despite concerns about privacy, security, and ce",
+      "link": "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
+      "published": "2026-02-24T16:05:58-05:00",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-02-25T01:14:14.178267"
+    },
+    {
+      "source": "theverge",
+      "title": "Discord is delaying its global age verification rollout",
+      "summary": "Discord won't roll out age verification globally on its platform next month as previously announced, and says in a blog post that it's delaying the launch until the second half of 2026. \"The way this landed, many of you walked away thinking we're requiring face scans and ID uploads from everyone jus",
+      "link": "https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay",
+      "published": "2026-02-24T14:17:37-05:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.178309"
+    },
+    {
+      "source": "hackernews",
+      "title": "Corgi Labs (YC W23) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate\nComments URL: https://news.ycombinator.com/item?id=47145911\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+      "published": "Wed, 25 Feb 2026 01:01:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.524838"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2\nComments URL: https://news.ycombinator.com/item?id=47144464\nPoints: 34\n# Comments: 7",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "published": "Tue, 24 Feb 2026 22:46:23 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.524874"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cell Service for the Fairly Paranoid",
+      "summary": "Article URL: https://www.cape.co/\nComments URL: https://news.ycombinator.com/item?id=47144325\nPoints: 51\n# Comments: 35",
+      "link": "https://www.cape.co/",
+      "published": "Tue, 24 Feb 2026 22:37:54 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.524899"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stripe reportedly makes offer to acquire PayPal",
+      "summary": "Article URL: https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html\nComments URL: https://news.ycombinator.com/item?id=47144064\nPoints: 53\n# Comments: 34",
+      "link": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+      "published": "Tue, 24 Feb 2026 22:16:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.524933"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dream Recorder AI – a portal to your subconscious",
+      "summary": "Article URL: https://dreamrecorder.ai/\nComments URL: https://news.ycombinator.com/item?id=47143976\nPoints: 14\n# Comments: 11",
+      "link": "https://dreamrecorder.ai/",
+      "published": "Tue, 24 Feb 2026 22:09:57 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-25T01:14:14.524965"
+    },
+    {
+      "source": "arstechnica",
+      "title": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
+      "summary": "WBD's board is still reviewing the offer.",
+      "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+      "published": "Tue, 24 Feb 2026 22:52:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.716055"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Following 35% growth, solar has passed hydro on US grid",
+      "summary": "Coal makes a bit of a comeback, if only by accident.",
+      "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+      "published": "Tue, 24 Feb 2026 22:40:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.716089"
+    },
+    {
+      "source": "arstechnica",
+      "title": "DJI sues the FCC for “carelessly” restricting its drones",
+      "summary": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
+      "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+      "published": "Tue, 24 Feb 2026 21:15:26 +0000",
+      "keywords": [
+        "AWS",
         "REST",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.255503"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Stripe’s valuation soars 74% to $159 billion",
-      "summary": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself",
-      "link": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/",
-      "published": "Tue, 24 Feb 2026 17:28:23 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.255544"
-    },
-    {
-      "source": "techcrunch",
-      "title": "YouTube beefs up its $7.99/month Lite subscription with offline downloads and background play",
-      "summary": "Now the only reason to get the full Premium subscription is ad-free music and music videos.",
-      "link": "https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/",
-      "published": "Tue, 24 Feb 2026 17:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.255576"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Music generator ProducerAI joins Google Labs",
-      "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
-      "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-      "published": "Tue, 24 Feb 2026 16:57:21 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.255597"
-    },
-    {
-      "source": "theverge",
-      "title": "1Password is going up in price",
-      "summary": "1Password is increasing its prices on March 27th, 2026. In an email sent to users, the password manager says it will raise the price of its yearly individual plan from $35.88 to $47.88, and that its family plan is going from $59.88 to $71.88. \"While 1Password has grown substantially in value and cap",
-      "link": "https://www.theverge.com/tech/883837/1password-price-increase",
-      "published": "2026-02-24T13:41:41-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.406510"
-    },
-    {
-      "source": "theverge",
-      "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
-      "summary": "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 - TikTok developer ByteDance's newest video generation model - it was hard to deny that the footage was much more impressive than what we've seen from other gen AI outfits. The clips' star (a digit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
-      "published": "2026-02-24T13:30:00-05:00",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.406563"
-    },
-    {
-      "source": "theverge",
-      "title": "You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone",
-      "summary": "Samsung is set to introduce its new Galaxy S26 lineup at its next Unpacked event on February 25th, potentially alongside a new pair of earbuds and other wearables. If you’re thinking about picking up any of the new devices, it’s worth claiming Samsung’s $30 promotional credit before it expires, whic",
-      "link": "https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale",
-      "published": "2026-02-24T13:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.406606"
-    },
-    {
-      "source": "theverge",
-      "title": "PlayStation’s Wolverine game hits PS5 in September",
-      "summary": "Marvel's Wolverine, the next superhero game from Marvel's Spider-Man developer Insomniac Games, will be released on PS5 on September 15th. Insomniac announced that it would be making a Wolverine game way back in 2021, so it's been a long wait in the leadup to an official release date. Sony gave a va",
-      "link": "https://www.theverge.com/games/883760/playstation-marvels-wolverine-release-date-insomniac-games",
-      "published": "2026-02-24T12:23:23-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.406645"
-    },
-    {
-      "source": "theverge",
-      "title": "Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs",
-      "summary": "Look at the two air taxi designs above. Look similar? The company that designed the one on the left sure thinks so, which is why it's accusing the firm that designed the one on the right of patent infringement. On Monday, Archer Aviation filed a complaint in the US District Court Eastern District of",
-      "link": "https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi",
-      "published": "2026-02-24T12:16:20-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.406677"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-      "summary": "Article URL: https://vmfunc.re/blog/persona/\nComments URL: https://news.ycombinator.com/item?id=47140632\nPoints: 10\n# Comments: 4",
-      "link": "https://vmfunc.re/blog/persona/",
-      "published": "Tue, 24 Feb 2026 18:23:03 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.652777"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Tag Promptless on any GitHub PR/Issue to get updated user-facing docs",
-      "summary": "Hi HN! I'm Prithvi—my co-founder Frances and I launched Promptless almost a year ago here (https://news.ycombinator.com/item?id=43092522). It's an AI teammate that watches your workflows—code changes, support tickets, Slack threads, etc.—and automatically drafts doc updates when it spots something t",
-      "link": "https://news.ycombinator.com/item?id=47140332",
-      "published": "Tue, 24 Feb 2026 18:01:16 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Linux",
-        "Git",
-        "GitHub"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.652977"
-    },
-    {
-      "source": "hackernews",
-      "title": "Open Letter to Google on Mandatory Developer Registration for App Distribution",
-      "summary": "Article URL: https://keepandroidopen.org/open-letter/\nComments URL: https://news.ycombinator.com/item?id=47139765\nPoints: 118\n# Comments: 55",
-      "link": "https://keepandroidopen.org/open-letter/",
-      "published": "Tue, 24 Feb 2026 17:21:11 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-24T18:45:53.653011"
-    },
-    {
-      "source": "hackernews",
-      "title": "Denver dumps Flock, awards contract to Axon",
-      "summary": "Article URL: https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8\nComments URL: https://news.ycombinator.com/item?id=47139690\nPoints: 24\n# Comments: 5",
-      "link": "https://www.9news.com/article/news/local/denver-removing-flock-cameras-new-axon-contract/73-640b5af3-7c87-4fea-8aa1-2510ad3257b8",
-      "published": "Tue, 24 Feb 2026 17:16:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.653052"
-    },
-    {
-      "source": "hackernews",
-      "title": "I'm helping my dog vibe code games",
-      "summary": "Article URL: https://www.calebleak.com/posts/dog-game/\nComments URL: https://news.ycombinator.com/item?id=47139675\nPoints: 130\n# Comments: 54",
-      "link": "https://www.calebleak.com/posts/dog-game/",
-      "published": "Tue, 24 Feb 2026 17:15:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-24T18:45:53.653079"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-02-25T01:14:14.716119"
     },
     {
       "source": "arstechnica",
-      "title": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
-      "summary": "Stories and lesson learned from an impossibly large community modding project.",
-      "link": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-      "published": "Tue, 24 Feb 2026 17:13:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.824737"
-    },
-    {
-      "source": "arstechnica",
-      "title": "50 mpg in a Nissan crossover? Testing the new E-Power hybrid system.",
-      "summary": "Nissan imported some Qashqais from Europe so we could sample the hybrid system.",
-      "link": "https://arstechnica.com/cars/2026/02/on-the-road-with-nissans-new-e-power-hybrid-coming-to-the-2027-rogue/",
-      "published": "Tue, 24 Feb 2026 16:43:27 +0000",
+      "title": "UK fines Reddit for not checking user ages aggressively enough",
+      "summary": "UK agency alleges \"Reddit failed to apply any robust age assurance mechanism.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
+      "published": "Tue, 24 Feb 2026 19:53:15 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.824766"
+      "crawled_at": "2026-02-25T01:14:14.716141"
     },
     {
       "source": "arstechnica",
-      "title": "Lamborghini cancels electric Lanzador as supercar buyers reject EVs",
-      "summary": "Investing heavily in battery EVs would be \"financially irresponsible,\" CEO said.",
-      "link": "https://arstechnica.com/cars/2026/02/lamborghini-drops-ev-plan-in-favor-of-future-plug-in-hybrids/",
-      "published": "Tue, 24 Feb 2026 15:24:02 +0000",
+      "title": "In a replay of 2019, Apple says a single desktop Mac will be manufactured in the US",
+      "summary": "Apple is still working to get favorable tariff treatment from the Trump administration.",
+      "link": "https://arstechnica.com/apple/2026/02/in-a-replay-of-2019-apple-says-a-single-desktop-mac-will-be-manufactured-in-the-us/",
+      "published": "Tue, 24 Feb 2026 18:46:03 +0000",
       "keywords": [
-        "AI",
+        "Apple",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.824789"
+      "category": "Mobile",
+      "crawled_at": "2026-02-25T01:14:14.716169"
     },
     {
-      "source": "arstechnica",
-      "title": "Meta could end up owning 10% of AMD in new chip deal",
-      "summary": "AMD will supply 6 gigawatts' worth of chips to buttress Meta's AI efforts.",
-      "link": "https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/",
-      "published": "Tue, 24 Feb 2026 14:10:13 +0000",
+      "source": "wired",
+      "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+      "summary": "The US Justice Department disclosures give fresh clues about how tech companies handle government inquiries about your data.",
+      "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+      "published": "Tue, 24 Feb 2026 23:22:38 +0000",
       "keywords": [
-        "AI",
-        "Meta"
+        "Go",
+        "Google",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.824809"
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.834824"
     },
     {
-      "source": "arstechnica",
-      "title": "Scientists crack the case of \"screeching\" Scotch tape",
-      "summary": "Micro-cracks travel along the peeling tape at supersonic speeds, producing shock waves and sound pulses.",
-      "link": "https://arstechnica.com/science/2026/02/heres-why-scotch-tape-screeches-when-its-peeled/",
-      "published": "Tue, 24 Feb 2026 14:00:17 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now",
+      "summary": "JBL’s fabulous Flip 7 speaker is on super sale for $100. Grab this go-anywhere companion on the cheap before the nice weather hits.",
+      "link": "https://www.wired.com/story/jbl-flip-7-deal-0223/",
+      "published": "Tue, 24 Feb 2026 19:55:19 +0000",
+      "keywords": [
+        "Go"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.824836"
+      "crawled_at": "2026-02-25T01:14:14.834869"
+    },
+    {
+      "source": "wired",
+      "title": "Save $20 on Our Favorite Gaming Headset",
+      "summary": "The SteelSeries Arctis Nova 3 have excellent compatibility and a comfortable, lightweight fit.",
+      "link": "https://www.wired.com/story/arctis-nova-3-deal-226/",
+      "published": "Tue, 24 Feb 2026 19:18:18 +0000",
+      "keywords": [
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-25T01:14:14.834899"
     },
     {
       "source": "wired",
@@ -271,7 +315,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-24T18:45:53.954116"
+      "crawled_at": "2026-02-25T01:14:14.834928"
     },
     {
       "source": "wired",
@@ -283,43 +327,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.954165"
-    },
-    {
-      "source": "wired",
-      "title": "Tide’s Evo Tiles Are a Fresh, Overengineered Take on the Tide Pod",
-      "summary": "Tide’s Evo Tiles are lightweight, fibrous squares of detergent that simplify the laundry process—and also act as a slightly more eco-friendly alternative to the Tide Pod.",
-      "link": "https://www.wired.com/story/tide-evo-tiles/",
-      "published": "Tue, 24 Feb 2026 14:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.954208"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best 2-in-1 Laptops (2026), WIRED-Approved and Tested",
-      "summary": "These 2-in-1 computers upgrade the norm with touchscreen displays, 360-degree hinges, and detachable keyboards.",
-      "link": "https://www.wired.com/gallery/best-2-in-1-laptops/",
-      "published": "Tue, 24 Feb 2026 13:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-02-24T18:45:53.954236"
-    },
-    {
-      "source": "wired",
-      "title": "Fellow Series 1 Espresso Machine Review (2026): Excellent, but a Work in Progress",
-      "summary": "Fellow’s new espresso machine offers capabilities previously seen only in commercial machines. Some of those are still being fleshed out.",
-      "link": "https://www.wired.com/review/fellow-series-1-espresso-machine/",
-      "published": "Tue, 24 Feb 2026 12:35:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-24T18:45:53.954275"
+      "crawled_at": "2026-02-25T01:14:14.834966"
     }
   ]
 }
