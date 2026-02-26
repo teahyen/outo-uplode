@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-02-26T06:45:41.499640",
+  "last_updated": "2026-02-26T12:38:20.542195",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Instagram now alerts parents if their teen searches for suicide or self-harm content",
+      "summary": "Parents will be informed if their teen searches for suicide or self-harm content and offered resources.",
+      "link": "https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/",
+      "published": "Thu, 26 Feb 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-26T12:38:19.482806"
+    },
     {
       "source": "techcrunch",
       "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
@@ -13,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.683118"
+      "crawled_at": "2026-02-26T12:38:19.482850"
     },
     {
       "source": "techcrunch",
@@ -29,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.683160"
+      "crawled_at": "2026-02-26T12:38:19.482884"
     },
     {
       "source": "techcrunch",
@@ -45,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.683190"
+      "crawled_at": "2026-02-26T12:38:19.482912"
     },
     {
       "source": "techcrunch",
@@ -59,19 +71,37 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.683214"
+      "crawled_at": "2026-02-26T12:38:19.482936"
     },
     {
-      "source": "techcrunch",
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
-      "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "published": "Wed, 25 Feb 2026 20:42:14 +0000",
+      "source": "theverge",
+      "title": "Instagram will alert parents if their kids &#8216;repeatedly&#8217; search for self-harm topics",
+      "summary": "Starting next week, Instagram will notify parents to check on their teen searching for terms related to self-harm or suicide. Meta says a similar alert system for its AI chatbots is coming later this year. The new Instagram feature sends parents an alert when their child \"repeatedly tries to search ",
+      "link": "https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide",
+      "published": "2026-02-26T07:00:00-05:00",
       "keywords": [
-        "AI"
+        "AI",
+        "Meta",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.683236"
+      "crawled_at": "2026-02-26T12:38:19.654127"
+    },
+    {
+      "source": "theverge",
+      "title": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
+      "summary": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent comp",
+      "link": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
+      "published": "2026-02-26T06:06:33-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-26T12:38:19.654187"
     },
     {
       "source": "theverge",
@@ -84,21 +114,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:40.839878"
+      "crawled_at": "2026-02-26T12:38:19.654247"
     },
     {
       "source": "theverge",
-      "title": "How the new Galaxy S26 phones stack up against each other on paper",
+      "title": "How the new Galaxy S26 phones compare",
       "summary": "Samsung has just announced its new Galaxy S26 lineup, which includes the S26, S26 Plus, and S26 Ultra. While they aren't radical departures from last year's models, they bring a handful of notable upgrades. All three run on Qualcomm's Galaxy-centric Snapdragon 8 Elite Gen 5, which delivers improved ",
       "link": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
       "published": "2026-02-25T17:26:31-05:00",
       "keywords": [
-        "AI",
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.839923"
+      "category": "Tech News",
+      "crawled_at": "2026-02-26T12:38:19.654290"
     },
     {
       "source": "theverge",
@@ -113,102 +142,74 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.839957"
+      "crawled_at": "2026-02-26T12:38:19.654320"
     },
     {
-      "source": "theverge",
-      "title": "The Peace Corps is recruiting volunteers to sell AI to developing nations",
-      "summary": "For more than six decades, the Peace Corps has represented itself as an agency focused on helping underserved communities around the globe. But a new initiative, called the \"Tech Corps,\" threatens to unravel the agency's original mission by recruiting de facto Silicon Valley salespeople to promote t",
-      "link": "https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai",
-      "published": "2026-02-25T15:45:00-05:00",
+      "source": "hackernews",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "summary": "Article URL: https://hightouch.com/careers#open-positions\nComments URL: https://news.ycombinator.com/item?id=47164933\nPoints: 0\n# Comments: 0",
+      "link": "https://hightouch.com/careers#open-positions",
+      "published": "Thu, 26 Feb 2026 12:02:14 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.839991"
+      "category": "Tech News",
+      "crawled_at": "2026-02-26T12:38:20.010236"
     },
     {
-      "source": "theverge",
-      "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
-      "summary": "President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. Trump claimed that he's negotiated a \"rate payer protection pledge\" with major tech companies, which",
-      "link": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
-      "published": "2026-02-25T15:37:25-05:00",
+      "source": "hackernews",
+      "title": "Men in their 50s may be aging faster due to toxic 'forever chemicals'",
+      "summary": "Article URL: https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness\nComments URL: https://news.ycombinator.com/item?id=47164892\nPoints: 12\n# Comments: 2",
+      "link": "https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness",
+      "published": "Thu, 26 Feb 2026 11:58:13 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-26T12:38:20.010284"
+    },
+    {
+      "source": "hackernews",
+      "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+      "summary": "Article URL: https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/\nComments URL: https://news.ycombinator.com/item?id=47164605\nPoints: 91\n# Comments: 108",
+      "link": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+      "published": "Thu, 26 Feb 2026 11:26:10 +0000",
+      "keywords": [
         "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-26T12:38:20.010324"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+      "summary": "TerminalPhone is a single, self-contained Bash script that provides anonymous, end-to-end encrypted voice and text communication between two parties over the Tor network. It operates as a walkie-talkie: you record a voice message, and it is compressed, encrypted, and transmitted to the remote party ",
+      "link": "https://gitlab.com/here_forawhile/terminalphone",
+      "published": "Thu, 26 Feb 2026 10:40:45 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:40.840022"
+      "crawled_at": "2026-02-26T12:38:20.010387"
     },
     {
       "source": "hackernews",
-      "title": "I don't know how you get here from \"predict the next word.\"",
-      "summary": "Article URL: https://www.grumpy-economist.com/p/refine\nComments URL: https://news.ycombinator.com/item?id=47162059\nPoints: 60\n# Comments: 44",
-      "link": "https://www.grumpy-economist.com/p/refine",
-      "published": "Thu, 26 Feb 2026 04:59:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.111097"
-    },
-    {
-      "source": "hackernews",
-      "title": "Self-improving software won't produce Skynet",
-      "summary": "Article URL: https://contalign.jefflunt.com/self-improving-software/\nComments URL: https://news.ycombinator.com/item?id=47161498\nPoints: 16\n# Comments: 8",
-      "link": "https://contalign.jefflunt.com/self-improving-software/",
-      "published": "Thu, 26 Feb 2026 03:36:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.111140"
-    },
-    {
-      "source": "hackernews",
-      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/\nComments URL: https://news.ycombinator.com/item?id=47161160\nPoints: 168\n# Comments: 101",
-      "link": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-      "published": "Thu, 26 Feb 2026 02:43:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.111181"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
-      "summary": "I built OpenSwarm because I wanted an autonomous “AI dev team” that can actually plug into my real workflow instead of running toy tasks.\nOpenSwarm orchestrates multiple Claude Code CLI instances as agents to work on real Linear issues. It:\n• pulls issues from Linear and runs a Worker/Reviewer/Test/",
-      "link": "https://github.com/Intrect-io/OpenSwarm",
-      "published": "Thu, 26 Feb 2026 02:19:02 +0000",
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "summary": "Hi HN,I recently noticed that an YC company (Run ANywhere, W26) sent me the following email:From: Aditya Subject: Mikołaj, think you'd like this[snip]Hi Mikołaj,I found your GitHub and thought you might like what we're building.[snip]I have also received a deluge of similar emails from another AI co",
+      "link": "https://news.ycombinator.com/item?id=47163885",
+      "published": "Thu, 26 Feb 2026 09:35:08 +0000",
       "keywords": [
         "AI",
-        "Claude",
+        "Meta",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.111299"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
-      "summary": "I've been building ZSE (Z Server Engine) for the past few weeks — an open-source LLM inference engine focused on two things nobody has fully solved together: memory efficiency and fast cold starts.The problem I was trying to solve:\nRunning a 32B model normally requires ~64 GB VRAM. Most developers d",
-      "link": "https://github.com/Zyora-Dev/zse",
-      "published": "Thu, 26 Feb 2026 01:15:25 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "API",
-        "REST",
-        "VR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.111440"
+      "crawled_at": "2026-02-26T12:38:20.010469"
     },
     {
       "source": "arstechnica",
@@ -222,7 +223,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.328710"
+      "crawled_at": "2026-02-26T12:38:20.339850"
     },
     {
       "source": "arstechnica",
@@ -235,7 +236,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.328740"
+      "crawled_at": "2026-02-26T12:38:20.339880"
     },
     {
       "source": "arstechnica",
@@ -249,7 +250,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-02-26T06:45:41.328764"
+      "crawled_at": "2026-02-26T12:38:20.339906"
     },
     {
       "source": "arstechnica",
@@ -262,7 +263,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.328791"
+      "crawled_at": "2026-02-26T12:38:20.339933"
     },
     {
       "source": "arstechnica",
@@ -274,72 +275,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.328818"
+      "crawled_at": "2026-02-26T12:38:20.339961"
     },
     {
       "source": "wired",
-      "title": "TurboTax Service Codes: Up to 20% Off | February 2026",
-      "summary": "Tax season doesn’t have to be stressful. Save up to 20% on federal tax filings, $40 off Expert Assist, and more exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Thu, 26 Feb 2026 06:05:00 +0000",
+      "title": "Best Tested Ski Clothes (2026): Shells, Jackets, Wool Socks",
+      "summary": "From weatherproof jackets and pants to puffers, gloves, and socks, WIRED’s winter sports experts have got you covered.",
+      "link": "https://www.wired.com/gallery/best-ski-clothes/",
+      "published": "Thu, 26 Feb 2026 12:30:00 +0000",
       "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-26T12:38:20.541910"
+    },
+    {
+      "source": "wired",
+      "title": "Who’s Your Daddy? A Chatbot",
+      "summary": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
+      "link": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
+      "published": "Thu, 26 Feb 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-02-26T06:45:41.499423"
+      "category": "AI/ML",
+      "crawled_at": "2026-02-26T12:38:20.541945"
     },
     {
       "source": "wired",
-      "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Thu, 26 Feb 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-26T06:45:41.499457"
-    },
-    {
-      "source": "wired",
-      "title": "Everyone Speaks Incel Now",
-      "summary": "After migrating from misogynist forums to social media feeds, terms like “looksmaxxing” and “mogged” are now impossible to avoid.",
-      "link": "https://www.wired.com/story/everyone-speaks-incel-now/",
-      "published": "Wed, 25 Feb 2026 20:59:50 +0000",
+      "title": "The Best Headphones I’ve Tried (and Why I'd Buy Them All)",
+      "summary": "The portable listening revolution is fully underway. From open earbuds to noise cancelers and wired headphones, I can find a reason to love them all.",
+      "link": "https://www.wired.com/story/best-headphones/",
+      "published": "Thu, 26 Feb 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-26T06:45:41.499493"
+      "crawled_at": "2026-02-26T12:38:20.541984"
     },
     {
       "source": "wired",
-      "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
-      "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
-      "link": "https://www.wired.com/story/openai-hires-riley-walz/",
-      "published": "Wed, 25 Feb 2026 19:59:26 +0000",
+      "title": "Why Sierra the Supercomputer Had to Die",
+      "summary": "For seven years, she ran high-security nuclear simulations for the US government. Now, this famous supercomputer is being put to death.",
+      "link": "https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/",
+      "published": "Thu, 26 Feb 2026 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
+        "Go",
+        "Security",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.499522"
+      "category": "Security",
+      "crawled_at": "2026-02-26T12:38:20.542013"
     },
     {
       "source": "wired",
-      "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
-      "summary": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission.",
-      "link": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
-      "published": "Wed, 25 Feb 2026 19:00:00 +0000",
+      "title": "Factor Offers High Protein Meal Delivery Options (2026)",
+      "summary": "Even if you're incredibly busy, you can maintain your gains by eating the equivalent of the microwaveable chicken in The Fifth Element.",
+      "link": "https://www.wired.com/story/factor-meal-delivery-service-2026/",
+      "published": "Thu, 26 Feb 2026 10:30:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-26T06:45:41.499546"
+      "crawled_at": "2026-02-26T12:38:20.542037"
     }
   ]
 }
