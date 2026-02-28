@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-02-28T01:01:04.732107",
+  "last_updated": "2026-02-28T06:23:51.994081",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "India disrupts access to popular developer platform Supabase with blocking order",
+      "summary": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order.",
+      "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+      "published": "Sat, 28 Feb 2026 03:51:52 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-02-28T06:23:51.291645"
+    },
     {
       "source": "techcrunch",
       "title": "OpenAI fires employee for using confidential info on prediction markets",
@@ -14,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.086626"
+      "crawled_at": "2026-02-28T06:23:51.291681"
     },
     {
       "source": "techcrunch",
@@ -28,7 +41,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.086661"
+      "crawled_at": "2026-02-28T06:23:51.291707"
     },
     {
       "source": "techcrunch",
@@ -44,7 +57,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.086698"
+      "crawled_at": "2026-02-28T06:23:51.291738"
     },
     {
       "source": "techcrunch",
@@ -60,23 +73,22 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.086735"
+      "crawled_at": "2026-02-28T06:23:51.291772"
     },
     {
-      "source": "techcrunch",
-      "title": "ChatGPT reaches 900M weekly active users",
-      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-      "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "published": "Fri, 27 Feb 2026 18:25:51 +0000",
+      "source": "theverge",
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic sa",
+      "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "published": "2026-02-27T21:19:16-05:00",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Funding"
+        "Anthropic",
+        "Go",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.086758"
+      "crawled_at": "2026-02-28T06:23:51.394315"
     },
     {
       "source": "theverge",
@@ -88,7 +100,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:03.157834"
+      "crawled_at": "2026-02-28T06:23:51.394386"
     },
     {
       "source": "theverge",
@@ -101,22 +113,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:03.157891"
-    },
-    {
-      "source": "theverge",
-      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-      "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk\". The decision could",
-      "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "published": "2026-02-27T18:06:02-05:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.157929"
+      "crawled_at": "2026-02-28T06:23:51.394430"
     },
     {
       "source": "theverge",
@@ -129,7 +126,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:03.157981"
+      "crawled_at": "2026-02-28T06:23:51.394476"
     },
     {
       "source": "theverge",
@@ -145,74 +142,99 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:03.158025"
+      "crawled_at": "2026-02-28T06:23:51.394535"
     },
     {
       "source": "hackernews",
-      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.adt2760\nComments URL: https://news.ycombinator.com/item?id=47187649\nPoints: 25\n# Comments: 2",
-      "link": "https://www.science.org/doi/10.1126/science.adt2760",
-      "published": "Fri, 27 Feb 2026 23:42:14 +0000",
+      "title": "Cash issuing terminals",
+      "summary": "Article URL: https://computer.rip/2026-02-27-ibm-atm.html\nComments URL: https://news.ycombinator.com/item?id=47190806\nPoints: 12\n# Comments: 0",
+      "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "published": "Sat, 28 Feb 2026 05:21:21 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.444363"
+      "crawled_at": "2026-02-28T06:23:51.592280"
     },
     {
       "source": "hackernews",
-      "title": "Zugunruhe, and what makes things worth doing",
-      "summary": "Article URL: https://www.nathanzhao.cc/zugunruhe\nComments URL: https://news.ycombinator.com/item?id=47187235\nPoints: 5\n# Comments: 0",
-      "link": "https://www.nathanzhao.cc/zugunruhe",
-      "published": "Fri, 27 Feb 2026 23:09:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.444404"
-    },
-    {
-      "source": "hackernews",
-      "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
-      "summary": "Article URL: https://github.com/wkoszek/emuko\nComments URL: https://news.ycombinator.com/item?id=47187121\nPoints: 29\n# Comments: 3",
-      "link": "https://github.com/wkoszek/emuko",
-      "published": "Fri, 27 Feb 2026 23:01:49 +0000",
-      "keywords": [
-        "Rust",
-        "Linux",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-02-28T01:01:04.444433"
-    },
-    {
-      "source": "hackernews",
-      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-      "summary": "https://xcancel.com/secwar/status/2027507717469049070https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon....\n\nComments URL: https://news.ycombinator.com/item?id=47186677\nPoints: 822\n# Comments: 668",
-      "link": "https://twitter.com/secwar/status/2027507717469049070",
-      "published": "Fri, 27 Feb 2026 22:31:18 +0000",
+      "title": "OpenAI reaches deal to deploy AI models on U.S. DoW classified network",
+      "summary": "Article URL: https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/\nComments URL: https://news.ycombinator.com/item?id=47189853\nPoints: 94\n# Comments: 25",
+      "link": "https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/",
+      "published": "Sat, 28 Feb 2026 03:23:16 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-28T06:23:51.592321"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't use passkeys for encrypting user data",
+      "summary": "Article URL: https://blog.timcappalli.me/p/passkeys-prf-warning/\nComments URL: https://news.ycombinator.com/item?id=47189749\nPoints: 88\n# Comments: 41",
+      "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "published": "Sat, 28 Feb 2026 03:11:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-02-28T06:23:51.592357"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "summary": "https://xcancel.com/sama/status/2027578652477821175https://fortune.com/2026/02/27/openai-in-talks-with-pentagon...\n\nComments URL: https://news.ycombinator.com/item?id=47189650\nPoints: 337\n# Comments: 197",
+      "link": "https://twitter.com/sama/status/2027578652477821175",
+      "published": "Sat, 28 Feb 2026 02:59:02 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:04.444468"
+      "crawled_at": "2026-02-28T06:23:51.592389"
     },
     {
       "source": "hackernews",
-      "title": "Otters as Bioindicators of Estuarine Health",
-      "summary": "Article URL: https://emt.pensoft.net/article/185117/\nComments URL: https://news.ycombinator.com/item?id=47186444\nPoints: 16\n# Comments: 2",
-      "link": "https://emt.pensoft.net/article/185117/",
-      "published": "Fri, 27 Feb 2026 22:13:54 +0000",
+      "title": "Bootc and OSTree: Modernizing Linux System Deployment",
+      "summary": "Article URL: https://a-cup-of.coffee/blog/ostree-bootc/\nComments URL: https://news.ycombinator.com/item?id=47189625\nPoints: 10\n# Comments: 1",
+      "link": "https://a-cup-of.coffee/blog/ostree-bootc/",
+      "published": "Sat, 28 Feb 2026 02:55:29 +0000",
       "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.444516"
+      "crawled_at": "2026-02-28T06:23:51.592422"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+      "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "published": "Sat, 28 Feb 2026 01:26:41 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-02-28T06:23:51.776380"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+      "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
+      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+      "published": "Sat, 28 Feb 2026 00:32:24 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-02-28T06:23:51.776418"
     },
     {
       "source": "arstechnica",
@@ -224,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.608411"
+      "crawled_at": "2026-02-28T06:23:51.776446"
     },
     {
       "source": "arstechnica",
@@ -236,7 +258,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.608450"
+      "crawled_at": "2026-02-28T06:23:51.776474"
     },
     {
       "source": "arstechnica",
@@ -248,33 +270,22 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.608481"
+      "crawled_at": "2026-02-28T06:23:51.776502"
     },
     {
-      "source": "arstechnica",
-      "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
-      "summary": "Director Gore Verbinksi and screenwriter Matthew Robinson on the making of this darkly satirical sci-fi film.",
-      "link": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
-      "published": "Fri, 27 Feb 2026 19:04:23 +0000",
+      "source": "wired",
+      "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "published": "Sat, 28 Feb 2026 03:30:41 +0000",
       "keywords": [
         "AI",
+        "Anthropic",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:04.608519"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Hyperion author Dan Simmons dies from stroke at 77",
-      "summary": "I went into Hyperion blind, decades ago, knowing almost nothing about it. I was never the same.",
-      "link": "https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/",
-      "published": "Fri, 27 Feb 2026 18:36:04 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.608549"
+      "crawled_at": "2026-02-28T06:23:51.993839"
     },
     {
       "source": "wired",
@@ -286,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.731864"
+      "crawled_at": "2026-02-28T06:23:51.993881"
     },
     {
       "source": "wired",
@@ -298,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.731901"
+      "crawled_at": "2026-02-28T06:23:51.993911"
     },
     {
       "source": "wired",
@@ -314,7 +325,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-02-28T01:01:04.731939"
+      "crawled_at": "2026-02-28T06:23:51.993942"
     },
     {
       "source": "wired",
@@ -324,19 +335,7 @@
       "published": "Fri, 27 Feb 2026 20:38:58 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.731972"
-    },
-    {
-      "source": "wired",
-      "title": "What's an E-Bike? California Wants You to Know",
-      "summary": "Cities want to stop kids from getting hurt. A lawmaker thinks warning them away from legal gray-area “e-motos” could help.",
-      "link": "https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/",
-      "published": "Fri, 27 Feb 2026 19:39:15 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-02-28T01:01:04.732008"
+      "crawled_at": "2026-02-28T06:23:51.993973"
     }
   ]
 }
