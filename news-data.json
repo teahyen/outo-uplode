@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T01:16:06.210644",
+  "last_updated": "2026-03-01T06:33:11.172080",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:04.498503"
+      "crawled_at": "2026-03-01T06:33:08.116817"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:04.498539"
+      "crawled_at": "2026-03-01T06:33:08.116854"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:04.498606"
+      "crawled_at": "2026-03-01T06:33:08.116901"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:04.498643"
+      "crawled_at": "2026-03-01T06:33:08.116952"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:04.498669"
+      "crawled_at": "2026-03-01T06:33:08.116981"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-01T01:16:04.666252"
+      "crawled_at": "2026-03-01T06:33:08.283049"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:04.666321"
+      "crawled_at": "2026-03-01T06:33:08.283119"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-01T01:16:04.666375"
+      "crawled_at": "2026-03-01T06:33:08.283174"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:04.666412"
+      "crawled_at": "2026-03-01T06:33:08.283211"
     },
     {
       "source": "theverge",
@@ -136,7 +136,63 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-01T01:16:04.666457"
+      "crawled_at": "2026-03-01T06:33:08.283256"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Science of Detecting LLM-Generated Text",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3624725\nComments URL: https://news.ycombinator.com/item?id=47202864\nPoints: 12\n# Comments: 1",
+      "link": "https://dl.acm.org/doi/10.1145/3624725",
+      "published": "Sun, 01 Mar 2026 02:09:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-01T06:33:10.767809"
+    },
+    {
+      "source": "hackernews",
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "summary": "Article URL: https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/\nComments URL: https://news.ycombinator.com/item?id=47202808\nPoints: 79\n# Comments: 16",
+      "link": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "published": "Sun, 01 Mar 2026 01:59:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "5G",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-01T06:33:10.767853"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microgpt",
+      "summary": "Article URL: http://karpathy.github.io/2026/02/12/microgpt/\nComments URL: https://news.ycombinator.com/item?id=47202708\nPoints: 476\n# Comments: 86",
+      "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "published": "Sun, 01 Mar 2026 01:39:26 +0000",
+      "keywords": [
+        "GPT",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-01T06:33:10.767879"
+    },
+    {
+      "source": "hackernews",
+      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+      "summary": "Article URL: https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html\nComments URL: https://news.ycombinator.com/item?id=47202614\nPoints: 53\n# Comments: 10",
+      "link": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+      "published": "Sun, 01 Mar 2026 01:24:54 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-01T06:33:10.767929"
     },
     {
       "source": "hackernews",
@@ -152,60 +208,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:05.931182"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-      "summary": "Article URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611\nComments URL: https://news.ycombinator.com/item?id=47200904\nPoints: 108\n# Comments: 50",
-      "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-      "published": "Sat, 28 Feb 2026 22:19:36 +0000",
-      "keywords": [
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:05.931229"
-    },
-    {
-      "source": "hackernews",
-      "title": "Building a Minimal Transformer for 10-digit Addition",
-      "summary": "Article URL: https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition\nComments URL: https://news.ycombinator.com/item?id=47200828\nPoints: 29\n# Comments: 4",
-      "link": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-      "published": "Sat, 28 Feb 2026 22:10:21 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:05.931268"
-    },
-    {
-      "source": "hackernews",
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2027846016423321831\nComments URL: https://news.ycombinator.com/item?id=47200420\nPoints: 165\n# Comments: 52",
-      "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-      "published": "Sat, 28 Feb 2026 21:24:16 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:05.931296"
-    },
-    {
-      "source": "hackernews",
-      "title": "MinIO Is Dead, Long Live MinIO",
-      "summary": "Article URL: https://blog.vonng.com/en/db/minio-resurrect/\nComments URL: https://news.ycombinator.com/item?id=47200342\nPoints: 180\n# Comments: 63",
-      "link": "https://blog.vonng.com/en/db/minio-resurrect/",
-      "published": "Sat, 28 Feb 2026 21:16:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:05.931327"
+      "crawled_at": "2026-03-01T06:33:10.768082"
     },
     {
       "source": "arstechnica",
@@ -221,7 +224,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:06.099655"
+      "crawled_at": "2026-03-01T06:33:11.021952"
     },
     {
       "source": "arstechnica",
@@ -235,7 +238,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:06.099684"
+      "crawled_at": "2026-03-01T06:33:11.021983"
     },
     {
       "source": "arstechnica",
@@ -248,7 +251,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:06.099714"
+      "crawled_at": "2026-03-01T06:33:11.022012"
     },
     {
       "source": "arstechnica",
@@ -261,7 +264,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:06.099745"
+      "crawled_at": "2026-03-01T06:33:11.022042"
     },
     {
       "source": "arstechnica",
@@ -273,11 +276,11 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:06.099771"
+      "crawled_at": "2026-03-01T06:33:11.022068"
     },
     {
       "source": "wired",
-      "title": "X Is Drowning in Disinformation Following US and Israel’s Attack on Iran",
+      "title": "X Is Drowning in Disinformation Following US and Israeli Attack on Iran",
       "summary": "WIRED has reviewed hundreds of posts on X that promote misleading claims about the locations and scale of the attack.",
       "link": "https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/",
       "published": "Sat, 28 Feb 2026 22:40:53 +0000",
@@ -285,7 +288,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:06.210380"
+      "crawled_at": "2026-03-01T06:33:11.171826"
     },
     {
       "source": "wired",
@@ -297,7 +300,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-01T01:16:06.210423"
+      "crawled_at": "2026-03-01T06:33:11.171873"
     },
     {
       "source": "wired",
@@ -310,7 +313,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T01:16:06.210458"
+      "crawled_at": "2026-03-01T06:33:11.171906"
     },
     {
       "source": "wired",
@@ -322,7 +325,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:06.210495"
+      "crawled_at": "2026-03-01T06:33:11.171960"
     },
     {
       "source": "wired",
@@ -332,7 +335,7 @@
       "published": "Sat, 28 Feb 2026 14:32:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T01:16:06.210532"
+      "crawled_at": "2026-03-01T06:33:11.171997"
     }
   ]
 }
