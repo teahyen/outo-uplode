@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T06:33:11.172080",
+  "last_updated": "2026-03-01T12:25:37.270044",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:08.116817"
+      "crawled_at": "2026-03-01T12:25:34.213060"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:08.116854"
+      "crawled_at": "2026-03-01T12:25:34.213097"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:08.116901"
+      "crawled_at": "2026-03-01T12:25:34.213143"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:08.116952"
+      "crawled_at": "2026-03-01T12:25:34.213177"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:08.116981"
+      "crawled_at": "2026-03-01T12:25:34.213204"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-01T06:33:08.283049"
+      "crawled_at": "2026-03-01T12:25:34.401635"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:08.283119"
+      "crawled_at": "2026-03-01T12:25:34.401702"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-01T06:33:08.283174"
+      "crawled_at": "2026-03-01T12:25:34.401772"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:08.283211"
+      "crawled_at": "2026-03-01T12:25:34.401811"
     },
     {
       "source": "theverge",
@@ -136,79 +136,72 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-01T06:33:08.283256"
+      "crawled_at": "2026-03-01T12:25:34.401855"
     },
     {
       "source": "hackernews",
-      "title": "The Science of Detecting LLM-Generated Text",
-      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3624725\nComments URL: https://news.ycombinator.com/item?id=47202864\nPoints: 12\n# Comments: 1",
-      "link": "https://dl.acm.org/doi/10.1145/3624725",
-      "published": "Sun, 01 Mar 2026 02:09:41 +0000",
+      "title": "Why is the first C++ (m)allocation always 72 KB?",
+      "summary": "Article URL: https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/\nComments URL: https://news.ycombinator.com/item?id=47205129\nPoints: 40\n# Comments: 3",
+      "link": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+      "published": "Sun, 01 Mar 2026 09:27:34 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:10.767809"
+      "category": "Tech News",
+      "crawled_at": "2026-03-01T12:25:36.904862"
     },
     {
       "source": "hackernews",
-      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
-      "summary": "Article URL: https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/\nComments URL: https://news.ycombinator.com/item?id=47202808\nPoints: 79\n# Comments: 16",
-      "link": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
-      "published": "Sun, 01 Mar 2026 01:59:00 +0000",
+      "title": "Show HN: Terminal-Style Portfolio on the Internet",
+      "summary": "Posted about this last year, since then learned a lot, changed a lot and can still say it's the best Terminal-Style Portfolio Website on The Internet\n\nComments URL: https://news.ycombinator.com/item?id=47205127\nPoints: 17\n# Comments: 13",
+      "link": "https://kuber.studio/",
+      "published": "Sun, 01 Mar 2026 09:26:59 +0000",
       "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "5G",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-01T06:33:10.767853"
+      "category": "Tech News",
+      "crawled_at": "2026-03-01T12:25:36.904911"
     },
     {
       "source": "hackernews",
-      "title": "Microgpt",
-      "summary": "Article URL: http://karpathy.github.io/2026/02/12/microgpt/\nComments URL: https://news.ycombinator.com/item?id=47202708\nPoints: 476\n# Comments: 86",
-      "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "published": "Sun, 01 Mar 2026 01:39:26 +0000",
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "summary": "Article URL: https://mlu-explain.github.io/decision-tree/\nComments URL: https://news.ycombinator.com/item?id=47204964\nPoints: 121\n# Comments: 9",
+      "link": "https://mlu-explain.github.io/decision-tree/",
+      "published": "Sun, 01 Mar 2026 08:55:52 +0000",
       "keywords": [
-        "GPT",
+        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:10.767879"
+      "crawled_at": "2026-03-01T12:25:36.904948"
     },
     {
       "source": "hackernews",
-      "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
-      "summary": "Article URL: https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html\nComments URL: https://news.ycombinator.com/item?id=47202614\nPoints: 53\n# Comments: 10",
-      "link": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-      "published": "Sun, 01 Mar 2026 01:24:54 +0000",
+      "title": "Switch to Claude without starting over",
+      "summary": "Article URL: https://claude.com/import-memory\nComments URL: https://news.ycombinator.com/item?id=47204571\nPoints: 195\n# Comments: 124",
+      "link": "https://claude.com/import-memory",
+      "published": "Sun, 01 Mar 2026 07:36:52 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-01T12:25:36.904975"
+    },
+    {
+      "source": "hackernews",
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "summary": "Article URL: https://modernaicourse.org\nComments URL: https://news.ycombinator.com/item?id=47204559\nPoints: 79\n# Comments: 17",
+      "link": "https://modernaicourse.org",
+      "published": "Sun, 01 Mar 2026 07:35:03 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:10.767929"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "summary": "Recently several AI labs have published experiments where they tried to get AI coding agents to complete large software projects.- Cursor attempted to make a browser from scratch: https://cursor.com/blog/scaling-agents- Anthropic attempted to make a C Compiler: https://www.anthropic.com/engineering/",
-      "link": "https://github.com/jonwiggins/xmloxide",
-      "published": "Sat, 28 Feb 2026 23:44:41 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Rust",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:10.768082"
+      "crawled_at": "2026-03-01T12:25:36.904999"
     },
     {
       "source": "arstechnica",
@@ -224,7 +217,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:11.021952"
+      "crawled_at": "2026-03-01T12:25:37.147676"
     },
     {
       "source": "arstechnica",
@@ -238,7 +231,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:11.021983"
+      "crawled_at": "2026-03-01T12:25:37.147706"
     },
     {
       "source": "arstechnica",
@@ -251,7 +244,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:11.022012"
+      "crawled_at": "2026-03-01T12:25:37.147750"
     },
     {
       "source": "arstechnica",
@@ -264,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:11.022042"
+      "crawled_at": "2026-03-01T12:25:37.147784"
     },
     {
       "source": "arstechnica",
@@ -276,7 +269,54 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:11.022068"
+      "crawled_at": "2026-03-01T12:25:37.147810"
+    },
+    {
+      "source": "wired",
+      "title": "Video Doorbell Advice and Settings for Opting Out of the Surveillance State",
+      "summary": "Video doorbells are handy, but they’re a threat to privacy. I spoke to experts about why you might ditch your doorbell, and how to safeguard your video.",
+      "link": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
+      "published": "Sun, 01 Mar 2026 12:02:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-01T12:25:37.269848"
+    },
+    {
+      "source": "wired",
+      "title": "Best Laser Printers I've Tried (2026): Brother, HP, and More",
+      "summary": "Looking for fast printing at a relatively affordable cost? You probably want a laser printer.",
+      "link": "https://www.wired.com/gallery/best-laser-printers/",
+      "published": "Sun, 01 Mar 2026 11:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-01T12:25:37.269885"
+    },
+    {
+      "source": "wired",
+      "title": "Make the Most of Chrome's Toolbar by Customizing It to Your Liking",
+      "summary": "There are plenty of ways to customize Chrome to make it easier to navigate the web, manage your tasks, and make your workflow more efficient.",
+      "link": "https://www.wired.com/story/how-to-customize-google-chrome-toolbar-to-your-liking/",
+      "published": "Sun, 01 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-01T12:25:37.269917"
+    },
+    {
+      "source": "wired",
+      "title": "The Piracy Problem Streaming Platforms Can’t Solve",
+      "summary": "In parts of the Middle East and North Africa, a patchwork of sanctions, payment failures, and licensing gaps pushes people into piracy networks.",
+      "link": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/",
+      "published": "Sun, 01 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-01T12:25:37.269946"
     },
     {
       "source": "wired",
@@ -288,54 +328,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:11.171826"
-    },
-    {
-      "source": "wired",
-      "title": "NASA Is Making Big Changes to Speed Up the Artemis Program",
-      "summary": "America’s journey back to the moon has run into a few missteps. NASA administrator Jared Isaacman is banking on a new approach.",
-      "link": "https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/",
-      "published": "Sat, 28 Feb 2026 16:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-01T06:33:11.171873"
-    },
-    {
-      "source": "wired",
-      "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
-      "summary": "As Israeli airstrikes hit Tehran this morning, Iranians received mysterious push notifications saying that “help is on the way,” promising amnesty if they surrender.",
-      "link": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
-      "published": "Sat, 28 Feb 2026 15:58:09 +0000",
-      "keywords": [
-        "AI",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-01T06:33:11.171906"
-    },
-    {
-      "source": "wired",
-      "title": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
-      "summary": "As Iranian missiles targeted US-linked sites across the Gulf, the UAE’s missile shield was activated in real time.",
-      "link": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
-      "published": "Sat, 28 Feb 2026 15:12:51 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:11.171960"
-    },
-    {
-      "source": "wired",
-      "title": "Review: Xiaomi 17 Ultra and Leitzphone Pack Leica Magic Into a Flagship Phone",
-      "summary": "The latest Xiaomi flagship is a beast and comes in a specially co-designed Leica edition that’s picture-perfect.",
-      "link": "https://www.wired.com/review/xiaomi-17-ultra-leitzphone/",
-      "published": "Sat, 28 Feb 2026 14:32:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-01T06:33:11.171997"
+      "crawled_at": "2026-03-01T12:25:37.269970"
     }
   ]
 }
