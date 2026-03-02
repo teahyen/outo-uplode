@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T01:08:25.233499",
+  "last_updated": "2026-03-02T06:43:07.907536",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:24.477423"
+      "crawled_at": "2026-03-02T06:43:07.124057"
     },
     {
       "source": "techcrunch",
@@ -24,7 +24,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:24.477474"
+      "crawled_at": "2026-03-02T06:43:07.124110"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:24.477507"
+      "crawled_at": "2026-03-02T06:43:07.124144"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:24.477535"
+      "crawled_at": "2026-03-02T06:43:07.124172"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:24.477563"
+      "crawled_at": "2026-03-02T06:43:07.124202"
+    },
+    {
+      "source": "theverge",
+      "title": "The Motorola Razr Fold is shaping up to be pure flagship",
+      "summary": "Motorola has revealed a little more about its upcoming folding phone, and all signs point toward a premium option - not the budget-friendlier alternative the category could use. For starters, the Razr Fold will cost &#8364;1,999 (about $2,350) bundled with the Moto Pen Ultra. It'll go on sale first ",
+      "link": "https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery",
+      "published": "2026-03-02T00:00:00-05:00",
+      "keywords": [
+        "Go",
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T06:43:07.287798"
     },
     {
       "source": "theverge",
@@ -82,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:24.622477"
+      "crawled_at": "2026-03-02T06:43:07.287846"
     },
     {
       "source": "theverge",
@@ -94,7 +108,7 @@
         "REST"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:24.622541"
+      "crawled_at": "2026-03-02T06:43:07.287919"
     },
     {
       "source": "theverge",
@@ -108,7 +122,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-03-02T01:08:24.622612"
+      "crawled_at": "2026-03-02T06:43:07.287980"
     },
     {
       "source": "theverge",
@@ -121,84 +135,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:24.622659"
-    },
-    {
-      "source": "theverge",
-      "title": "This Windows gaming handheld has a screen that folds in half",
-      "summary": "Lenovo put a foldable display on a gaming handheld. The Legion Go Fold Concept is a Windows-based handheld with a flexible POLED display, detachable Joy-Con-like controllers, and a folio case to turn the whole thing into a mini laptop. You can use it as a standard Steam Deck-esque handheld with the ",
-      "link": "https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld",
-      "published": "2026-03-01T18:01:00-05:00",
-      "keywords": [
-        "Go",
-        "Windows",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:24.622701"
+      "crawled_at": "2026-03-02T06:43:07.288021"
     },
     {
       "source": "hackernews",
-      "title": "Allegations of insider trading over prediction-market bets tied to Iran conflict",
-      "summary": "Article URL: https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict\nComments URL: https://news.ycombinator.com/item?id=47211476\nPoints: 37\n# Comments: 11",
-      "link": "https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict",
-      "published": "Sun, 01 Mar 2026 22:39:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.035331"
-    },
-    {
-      "source": "hackernews",
-      "title": "Little Free Library Books",
-      "summary": "Article URL: https://littlefreelibrary.org/\nComments URL: https://news.ycombinator.com/item?id=47211280\nPoints: 33\n# Comments: 5",
-      "link": "https://littlefreelibrary.org/",
-      "published": "Sun, 01 Mar 2026 22:18:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.035369"
-    },
-    {
-      "source": "hackernews",
-      "title": "WebMCP is available for early preview",
-      "summary": "Article URL: https://developer.chrome.com/blog/webmcp-epp\nComments URL: https://news.ycombinator.com/item?id=47211249\nPoints: 97\n# Comments: 55",
-      "link": "https://developer.chrome.com/blog/webmcp-epp",
-      "published": "Sun, 01 Mar 2026 22:13:58 +0000",
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts\nComments URL: https://news.ycombinator.com/item?id=47214250\nPoints: 10\n# Comments: 1",
+      "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "published": "Mon, 02 Mar 2026 05:39:36 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.035396"
+      "crawled_at": "2026-03-02T06:43:07.591774"
     },
     {
       "source": "hackernews",
-      "title": "South Korean Police Lose Seized Crypto by Posting Password Online",
-      "summary": "Article URL: https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191\nComments URL: https://news.ycombinator.com/item?id=47211081\nPoints: 53\n# Comments: 11",
-      "link": "https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191",
-      "published": "Sun, 01 Mar 2026 21:52:16 +0000",
+      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+      "summary": "Article URL: https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/\nComments URL: https://news.ycombinator.com/item?id=47213866\nPoints: 57\n# Comments: 1",
+      "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+      "published": "Mon, 02 Mar 2026 04:23:53 +0000",
       "keywords": [
-        "Crypto",
         "AR"
       ],
-      "category": "Blockchain",
-      "crawled_at": "2026-03-02T01:08:25.035432"
+      "category": "Hardware",
+      "crawled_at": "2026-03-02T06:43:07.591819"
     },
     {
       "source": "hackernews",
-      "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
-      "summary": "Article URL: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/\nComments URL: https://news.ycombinator.com/item?id=47210903\nPoints: 63\n# Comments: 65",
-      "link": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
-      "published": "Sun, 01 Mar 2026 21:33:19 +0000",
+      "title": "How to record and retrieve anything you've ever had to look up twice",
+      "summary": "Article URL: https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase\nComments URL: https://news.ycombinator.com/item?id=47213819\nPoints: 16\n# Comments: 4",
+      "link": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+      "published": "Mon, 02 Mar 2026 04:15:16 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.035471"
+      "crawled_at": "2026-03-02T06:43:07.591859"
+    },
+    {
+      "source": "hackernews",
+      "title": "Everett shuts down Flock camera network after judge rules footage public record",
+      "summary": "Article URL: https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae\nComments URL: https://news.ycombinator.com/item?id=47213764\nPoints: 147\n# Comments: 22",
+      "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+      "published": "Mon, 02 Mar 2026 04:06:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T06:43:07.591913"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "summary": "Article URL: https://github.com/kossisoroyce/timber\nComments URL: https://news.ycombinator.com/item?id=47212576\nPoints: 97\n# Comments: 10",
+      "link": "https://github.com/kossisoroyce/timber",
+      "published": "Mon, 02 Mar 2026 00:57:40 +0000",
+      "keywords": [
+        "Python",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-02T06:43:07.591953"
     },
     {
       "source": "arstechnica",
@@ -208,7 +209,7 @@
       "published": "Sun, 01 Mar 2026 12:07:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.143866"
+      "crawled_at": "2026-03-02T06:43:07.747428"
     },
     {
       "source": "arstechnica",
@@ -224,7 +225,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.143897"
+      "crawled_at": "2026-03-02T06:43:07.747459"
     },
     {
       "source": "arstechnica",
@@ -238,7 +239,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.143920"
+      "crawled_at": "2026-03-02T06:43:07.747483"
     },
     {
       "source": "arstechnica",
@@ -251,7 +252,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.143948"
+      "crawled_at": "2026-03-02T06:43:07.747511"
     },
     {
       "source": "arstechnica",
@@ -264,7 +265,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.143978"
+      "crawled_at": "2026-03-02T06:43:07.747541"
     },
     {
       "source": "wired",
@@ -277,7 +278,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.233298"
+      "crawled_at": "2026-03-02T06:43:07.907280"
     },
     {
       "source": "wired",
@@ -290,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.233331"
+      "crawled_at": "2026-03-02T06:43:07.907315"
     },
     {
       "source": "wired",
@@ -302,7 +303,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T01:08:25.233357"
+      "crawled_at": "2026-03-02T06:43:07.907341"
     },
     {
       "source": "wired",
@@ -314,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.233385"
+      "crawled_at": "2026-03-02T06:43:07.907370"
     },
     {
       "source": "wired",
@@ -326,7 +327,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T01:08:25.233424"
+      "crawled_at": "2026-03-02T06:43:07.907409"
     }
   ]
 }
