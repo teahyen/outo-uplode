@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T06:43:07.907536",
+  "last_updated": "2026-03-02T12:33:22.939416",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.124057"
+      "crawled_at": "2026-03-02T12:33:22.342988"
     },
     {
       "source": "techcrunch",
@@ -24,7 +24,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.124110"
+      "crawled_at": "2026-03-02T12:33:22.343043"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.124144"
+      "crawled_at": "2026-03-02T12:33:22.343076"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.124172"
+      "crawled_at": "2026-03-02T12:33:22.343103"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,59 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.124202"
+      "crawled_at": "2026-03-02T12:33:22.343132"
+    },
+    {
+      "source": "theverge",
+      "title": "Oh great, here comes 6G",
+      "summary": "It brings me no pleasure to say this, but friends: The next G cometh. The standard formally known as 6G is still being established, but it's going to be a major topic of discussion at Mobile World Congress 2026, which gets started today in Barcelona. 5G arrived back in 2019, but also, did it, entire",
+      "link": "https://www.theverge.com/tech/886558/6g-satellite-ai-isac",
+      "published": "2026-03-02T06:30:00-05:00",
+      "keywords": [
+        "Go",
+        "5G",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-02T12:33:22.418835"
+    },
+    {
+      "source": "theverge",
+      "title": "Tecno’s latest concept phone is lit by neon",
+      "summary": "After teasing a magnetic, modular smartphone concept the other day, Tecno has followed that up with another two phone designs centered around color-changing finishes: one with E Ink, and the other incorporating neon. I'm the most taken with the Pova Neon, which the company says includes genuine neon",
+      "link": "https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon",
+      "published": "2026-03-02T04:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.418907"
+    },
+    {
+      "source": "theverge",
+      "title": "Vivo’s next phone will launch with a professional camera rig",
+      "summary": "Vivo rarely has a presence at MWC, but this year it bucked that trend in a big way, with the reveal of its next flagship phone, the X300 Ultra, alongside an upgraded telephoto extender lens and professional camera cage. The company isn't ready to launch the handset just yet - or even reveal very man",
+      "link": "https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage",
+      "published": "2026-03-02T03:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.418980"
+    },
+    {
+      "source": "theverge",
+      "title": "Qualcomm’s new chip is geared toward wearable AI gadgets",
+      "summary": "Like it or not, more AI wearables may be on the horizon - or at least Qualcomm seems to think so. Today the company announced its new Snapdragon Wear Elite chip. At a press briefing, Qualcomm said it considers the Elite to be a \"wrist plus\" chip. Meaning, it won't replace the previous W5 Plus, [&#82",
+      "link": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
+      "published": "2026-03-02T02:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-02T12:33:22.419019"
     },
     {
       "source": "theverge",
@@ -83,123 +135,86 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.287798"
+      "crawled_at": "2026-03-02T12:33:22.419064"
     },
     {
-      "source": "theverge",
-      "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
-      "summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionshi",
-      "link": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
-      "published": "2026-03-01T18:01:00-05:00",
+      "source": "hackernews",
+      "title": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
+      "summary": "Hi HN,I’ve been working on a browser-based tool for exploring and debugging Web Audio API graphs.Web Audio Studio lets you write real Web Audio API code, run it, and see the runtime graph it produces as an interactive visual representation. Instead of mentally tracking connect() calls, you can inspe",
+      "link": "https://webaudio.studio/",
+      "published": "Mon, 02 Mar 2026 11:47:44 +0000",
       "keywords": [
         "AI",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.287846"
+      "crawled_at": "2026-03-02T12:33:22.661735"
     },
     {
-      "source": "theverge",
-      "title": "The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking",
-      "summary": "Lenovo has a few new Yoga laptops it's announcing at MWC 2026: the 14-inch Yoga Slim 7i Aura Edition, 15-inch Yoga Pro 7a, and 14-inch Yoga 9i 2-in-1 Aura Edition. The most interesting of the pack is that 9i 2-in-1, outfitted with a 2880 x 1800, 120Hz OLED touchscreen. It includes a Yoga Pen Gen [&#",
-      "link": "https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode",
-      "published": "2026-03-01T18:01:00-05:00",
+      "source": "hackernews",
+      "title": "Claude Code LSP",
+      "summary": "Article URL: https://karanbansal.in/blog/claude-code-lsp/\nComments URL: https://news.ycombinator.com/item?id=47216765\nPoints: 10\n# Comments: 0",
+      "link": "https://karanbansal.in/blog/claude-code-lsp/",
+      "published": "Mon, 02 Mar 2026 11:47:16 +0000",
       "keywords": [
-        "REST"
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-02T12:33:22.661775"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft bans the word \"Microslop\" on its Discord, then locks the server",
+      "summary": "Article URL: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/\nComments URL: https://news.ycombinator.com/item?id=47216047\nPoints: 124\n# Comments: 39",
+      "link": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "published": "Mon, 02 Mar 2026 10:23:06 +0000",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.287919"
+      "crawled_at": "2026-03-02T12:33:22.661821"
     },
     {
-      "source": "theverge",
-      "title": "Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard",
-      "summary": "Lenovo is announcing five new ThinkPads and a new ThinkBook laptop for MWC 2026. There are various new chip offerings and updates for this swathe of ThinkPads, but the device I find the most interesting is the X13 Detachable. We haven't seen a major update to Lenovo's tablet-style ThinkPad in years,",
-      "link": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs",
-      "published": "2026-03-01T18:01:00-05:00",
+      "source": "hackernews",
+      "title": "Jolla phone – a full-stack European alternative",
+      "summary": "Article URL: https://commerce.jolla.com/products/jolla-phone-sept-26\nComments URL: https://news.ycombinator.com/item?id=47216037\nPoints: 131\n# Comments: 64",
+      "link": "https://commerce.jolla.com/products/jolla-phone-sept-26",
+      "published": "Mon, 02 Mar 2026 10:21:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.661864"
+    },
+    {
+      "source": "hackernews",
+      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+      "summary": "Article URL: https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs\nComments URL: https://news.ycombinator.com/item?id=47215565\nPoints: 55\n# Comments: 24",
+      "link": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+      "published": "Mon, 02 Mar 2026 09:20:06 +0000",
       "keywords": [
         "REST",
-        "Git",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-02T06:43:07.287980"
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.661903"
     },
     {
-      "source": "theverge",
-      "title": "Lenovo made a Framework-like laptop with modular ports — and a second screen",
-      "summary": "One of Lenovo's big laptop concepts for MWC 2026 is a modular ThinkBook with two screens. Officially called the ThinkBook Modular AI PC Concept, the proof-of-concept is a 14-inch productivity machine with two plug-and-play interchangeable ports and a second 14-inch display magnetically attached to t",
-      "link": "https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs",
-      "published": "2026-03-01T18:01:00-05:00",
+      "source": "arstechnica",
+      "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+      "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
+      "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+      "published": "Mon, 02 Mar 2026 08:00:29 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.288021"
-    },
-    {
-      "source": "hackernews",
-      "title": "Evolving descriptive text of mental content from human brain activity",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts\nComments URL: https://news.ycombinator.com/item?id=47214250\nPoints: 10\n# Comments: 1",
-      "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-      "published": "Mon, 02 Mar 2026 05:39:36 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.591774"
-    },
-    {
-      "source": "hackernews",
-      "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-      "summary": "Article URL: https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/\nComments URL: https://news.ycombinator.com/item?id=47213866\nPoints: 57\n# Comments: 1",
-      "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
-      "published": "Mon, 02 Mar 2026 04:23:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-02T06:43:07.591819"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to record and retrieve anything you've ever had to look up twice",
-      "summary": "Article URL: https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase\nComments URL: https://news.ycombinator.com/item?id=47213819\nPoints: 16\n# Comments: 4",
-      "link": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
-      "published": "Mon, 02 Mar 2026 04:15:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.591859"
-    },
-    {
-      "source": "hackernews",
-      "title": "Everett shuts down Flock camera network after judge rules footage public record",
-      "summary": "Article URL: https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae\nComments URL: https://news.ycombinator.com/item?id=47213764\nPoints: 147\n# Comments: 22",
-      "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
-      "published": "Mon, 02 Mar 2026 04:06:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.591913"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-      "summary": "Article URL: https://github.com/kossisoroyce/timber\nComments URL: https://news.ycombinator.com/item?id=47212576\nPoints: 97\n# Comments: 10",
-      "link": "https://github.com/kossisoroyce/timber",
-      "published": "Mon, 02 Mar 2026 00:57:40 +0000",
-      "keywords": [
-        "Python",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-02T06:43:07.591953"
+      "crawled_at": "2026-03-02T12:33:22.828577"
     },
     {
       "source": "arstechnica",
@@ -209,7 +224,7 @@
       "published": "Sun, 01 Mar 2026 12:07:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.747428"
+      "crawled_at": "2026-03-02T12:33:22.828615"
     },
     {
       "source": "arstechnica",
@@ -225,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.747459"
+      "crawled_at": "2026-03-02T12:33:22.828639"
     },
     {
       "source": "arstechnica",
@@ -239,7 +254,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.747483"
+      "crawled_at": "2026-03-02T12:33:22.828661"
     },
     {
       "source": "arstechnica",
@@ -252,20 +267,62 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.747511"
+      "crawled_at": "2026-03-02T12:33:22.828688"
     },
     {
-      "source": "arstechnica",
-      "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
-      "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
-      "link": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-      "published": "Sat, 28 Feb 2026 00:32:24 +0000",
+      "source": "wired",
+      "title": "A Former Top Trump Official Is Going After Prediction Markets",
+      "summary": "As the battle over prediction markets rages on, Mick Mulvaney is leading a new coalition that calls these platforms illegal gambling.",
+      "link": "https://www.wired.com/story/former-top-trump-official-launches-coalition-to-protect-americans-from-prediction-markets/",
+      "published": "Mon, 02 Mar 2026 12:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.939134"
+    },
+    {
+      "source": "wired",
+      "title": "Best AirPods (2026): Which Apple Headphones Should You Buy?",
+      "summary": "From the AirPods Pro to the AirPods Max, these are the best headphones for your iPhone and beyond.",
+      "link": "https://www.wired.com/gallery/best-airpods/",
+      "published": "Mon, 02 Mar 2026 11:32:00 +0000",
       "keywords": [
         "AI",
+        "Apple",
+        "iPhone",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.747541"
+      "crawled_at": "2026-03-02T12:33:22.939165"
+    },
+    {
+      "source": "wired",
+      "title": "When the Internet Goes Dark, the Truth Goes With It",
+      "summary": "Palestinian journalist Plestia Alaqad on bearing witness, the fragile power of social media, and why documenting lived reality matters more than ever.",
+      "link": "https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/",
+      "published": "Mon, 02 Mar 2026 10:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-02T12:33:22.939198"
+    },
+    {
+      "source": "wired",
+      "title": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
+      "summary": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
+      "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
+      "published": "Mon, 02 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-02T12:33:22.939222"
     },
     {
       "source": "wired",
@@ -278,56 +335,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.907280"
-    },
-    {
-      "source": "wired",
-      "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
-      "summary": "The all-out air assault on the Islamic Republic might be the biggest gamble of the president’s career.",
-      "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
-      "published": "Sun, 01 Mar 2026 17:47:31 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.907315"
-    },
-    {
-      "source": "wired",
-      "title": "What Happens If Iran Shuts Down the Strait of Hormuz?",
-      "summary": "The Strait of Hormuz is one of the most sensitive pressure points in the global economy. Conflict in Iran could put it at risk indefinitely.",
-      "link": "https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/",
-      "published": "Sun, 01 Mar 2026 15:31:22 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-02T06:43:07.907341"
-    },
-    {
-      "source": "wired",
-      "title": "Recteq Flagship 1600 Review: An Upgraded Smoker",
-      "summary": "The Recteq Flagship 1600 pellet smoker asks a little more of you, but rewards you with deeply smoked flavor.",
-      "link": "https://www.wired.com/review/recteq-flagship-1600-review/",
-      "published": "Sun, 01 Mar 2026 12:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.907370"
-    },
-    {
-      "source": "wired",
-      "title": "Video Doorbell Advice and Settings for Opting Out of the Surveillance State",
-      "summary": "Video doorbells are handy, but they’re a threat to privacy. I spoke to experts about why you might ditch your doorbell, and how to safeguard your video.",
-      "link": "https://www.wired.com/story/how-to-secure-your-video-doorbell/",
-      "published": "Sun, 01 Mar 2026 12:02:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-02T06:43:07.907409"
+      "crawled_at": "2026-03-02T12:33:22.939275"
     }
   ]
 }
