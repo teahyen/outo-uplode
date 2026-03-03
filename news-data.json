@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-03-03T06:37:05.303089",
+  "last_updated": "2026-03-03T12:33:03.086481",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The candidate that Silicon Valley built is now the one they want to tear down",
+      "summary": "Ethan Agarwal, a 40-year-old tech entrepreneur with no political background, told TechCrunch on Monday evening that he is running for California's 17th congressional district.",
+      "link": "https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/",
+      "published": "Tue, 03 Mar 2026 12:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-03T12:33:02.218192"
+    },
     {
       "source": "techcrunch",
       "title": "Cursor has reportedly surpassed $2B in annualized revenue",
@@ -13,7 +25,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-03-03T06:37:04.592870"
+      "crawled_at": "2026-03-03T12:33:02.218241"
     },
     {
       "source": "techcrunch",
@@ -28,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.592912"
+      "crawled_at": "2026-03-03T12:33:02.218277"
     },
     {
       "source": "techcrunch",
@@ -42,7 +54,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.592937"
+      "crawled_at": "2026-03-03T12:33:02.218300"
     },
     {
       "source": "techcrunch",
@@ -54,20 +66,22 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.592962"
+      "crawled_at": "2026-03-03T12:33:02.218323"
     },
     {
-      "source": "techcrunch",
-      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
-      "summary": "The Japan-based company reportedly aimed for a public valuation of at least ¥1.5 trillion ($10 billion).",
-      "link": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/",
-      "published": "Mon, 02 Mar 2026 23:01:57 +0000",
+      "source": "theverge",
+      "title": "Big Google Home update lets Gemini describe live camera feeds",
+      "summary": "Google Home chief Anish Kattukaran announced several updates to the smart home platform that fix a long list of annoyances and idiosyncrasies. There's also one noteworthy new addition: the introduction of \"Live Search\" for your cameras. So, instead of Gemini only knowing about things that have alrea",
+      "link": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
+      "published": "2026-03-03T04:55:29-05:00",
       "keywords": [
-        "AI",
-        "IPO"
+        "Go",
+        "Google",
+        "iOS",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.592988"
+      "category": "Mobile",
+      "crawled_at": "2026-03-03T12:33:02.342458"
     },
     {
       "source": "theverge",
@@ -83,7 +97,7 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.745284"
+      "crawled_at": "2026-03-03T12:33:02.342510"
     },
     {
       "source": "theverge",
@@ -98,7 +112,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.745329"
+      "crawled_at": "2026-03-03T12:33:02.342547"
     },
     {
       "source": "theverge",
@@ -114,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.745368"
+      "crawled_at": "2026-03-03T12:33:02.342584"
     },
     {
       "source": "theverge",
@@ -130,84 +144,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:04.745403"
+      "crawled_at": "2026-03-03T12:33:02.342617"
     },
     {
-      "source": "theverge",
-      "title": "Mastodon now has a button for sharing content from other websites",
-      "summary": "Sharing content to Mastodon is getting easier with the addition of a universal \"Share to Mastodon\" button for the decentralized social media platform. Announced on Monday, the widget allows users to share content on any Mastodon server by connecting your Mastodon account and redirecting you to the s",
-      "link": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
-      "published": "2026-03-02T15:18:58-05:00",
+      "source": "hackernews",
+      "title": "The Xkcd thing, now interactive",
+      "summary": "Article URL: https://editor.p5js.org/isohedral/full/vJa5RiZWs\nComments URL: https://news.ycombinator.com/item?id=47230704\nPoints: 90\n# Comments: 10",
+      "link": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "published": "Tue, 03 Mar 2026 10:56:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T06:37:04.745450"
+      "crawled_at": "2026-03-03T12:33:02.814128"
     },
     {
       "source": "hackernews",
-      "title": "I've been running GrapheneOS on my Pixel Fold for over half a year",
-      "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/\nComments URL: https://news.ycombinator.com/item?id=47228390\nPoints: 17\n# Comments: 0",
-      "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-      "published": "Tue, 03 Mar 2026 05:18:24 +0000",
+      "title": "The beauty and terror of modding Windows",
+      "summary": "Article URL: https://windowsread.me/p/windhawk-explained\nComments URL: https://news.ycombinator.com/item?id=47230663\nPoints: 28\n# Comments: 24",
+      "link": "https://windowsread.me/p/windhawk-explained",
+      "published": "Tue, 03 Mar 2026 10:49:05 +0000",
+      "keywords": [
+        "AI",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-03T12:33:02.814162"
+    },
+    {
+      "source": "hackernews",
+      "title": "China's 450kmph bullet train is the fastest ever built",
+      "summary": "Article URL: https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train\nComments URL: https://news.ycombinator.com/item?id=47230539\nPoints: 22\n# Comments: 11",
+      "link": "https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train",
+      "published": "Tue, 03 Mar 2026 10:28:36 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.071387"
+      "crawled_at": "2026-03-03T12:33:02.814192"
     },
     {
       "source": "hackernews",
-      "title": "Intent-Based Commits",
-      "summary": "Article URL: https://github.com/adamveld12/ghost\nComments URL: https://news.ycombinator.com/item?id=47227999\nPoints: 21\n# Comments: 12",
-      "link": "https://github.com/adamveld12/ghost",
-      "published": "Tue, 03 Mar 2026 04:20:37 +0000",
+      "title": "Privacy-preserving age and identity verification via anonymous credentials",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/\nComments URL: https://news.ycombinator.com/item?id=47229953\nPoints: 38\n# Comments: 9",
+      "link": "https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/",
+      "published": "Tue, 03 Mar 2026 08:58:30 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "Crypto",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T06:37:05.071425"
+      "category": "Blockchain",
+      "crawled_at": "2026-03-03T12:33:02.814227"
     },
     {
       "source": "hackernews",
-      "title": "The Excommunicated Devs Making Games with AI",
-      "summary": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai\nComments URL: https://news.ycombinator.com/item?id=47227078\nPoints: 27\n# Comments: 7",
-      "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
-      "published": "Tue, 03 Mar 2026 02:16:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.071454"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-      "summary": "Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\nComments URL: https://news.ycombinator.com/item?id=47226608\nPoints: 154\n# Comments: 73",
-      "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "published": "Tue, 03 Mar 2026 01:12:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.071483"
-    },
-    {
-      "source": "hackernews",
-      "title": "Physicists developing a quantum computer that’s entirely open source",
-      "summary": "Article URL: https://physics.aps.org/articles/v19/24\nComments URL: https://news.ycombinator.com/item?id=47225726\nPoints: 74\n# Comments: 18",
-      "link": "https://physics.aps.org/articles/v19/24",
-      "published": "Mon, 02 Mar 2026 23:22:50 +0000",
+      "title": "Arm's Cortex X925: Reaching Desktop Performance",
+      "summary": "Article URL: https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop\nComments URL: https://news.ycombinator.com/item?id=47229344\nPoints: 129\n# Comments: 55",
+      "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+      "published": "Tue, 03 Mar 2026 07:34:47 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T06:37:05.071526"
+      "category": "Hardware",
+      "crawled_at": "2026-03-03T12:33:02.814262"
     },
     {
       "source": "arstechnica",
@@ -219,7 +220,7 @@
         "Crypto"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-03-03T06:37:05.220986"
+      "crawled_at": "2026-03-03T12:33:02.931168"
     },
     {
       "source": "arstechnica",
@@ -231,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T06:37:05.221021"
+      "crawled_at": "2026-03-03T12:33:02.931204"
     },
     {
       "source": "arstechnica",
@@ -243,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T06:37:05.221052"
+      "crawled_at": "2026-03-03T12:33:02.931234"
     },
     {
       "source": "arstechnica",
@@ -256,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.221075"
+      "crawled_at": "2026-03-03T12:33:02.931256"
     },
     {
       "source": "arstechnica",
@@ -269,72 +270,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.221099"
+      "crawled_at": "2026-03-03T12:33:02.931279"
     },
     {
       "source": "wired",
-      "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
-      "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
-      "link": "https://www.wired.com/story/ll-bean-promo-code/",
-      "published": "Tue, 03 Mar 2026 06:03:00 +0000",
+      "title": "How to Monitor Your Blood Pressure at Home (2026)",
+      "summary": "There have never been so many ways to check for hypertension. Here’s what's available and how to use them.",
+      "link": "https://www.wired.com/story/how-to-monitor-blood-pressure-at-home/",
+      "published": "Tue, 03 Mar 2026 12:00:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-03T06:37:05.302875"
-    },
-    {
-      "source": "wired",
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "published": "Tue, 03 Mar 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-03T06:37:05.302915"
-    },
-    {
-      "source": "wired",
-      "title": "What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?",
-      "summary": "Gebbia was reportedly spotted at a San Francisco coffee shop using an unidentified pair of earbuds with a circular disc that looks similar to the device seen in a recent OpenAI hoax ad.",
-      "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
-      "published": "Tue, 03 Mar 2026 01:06:01 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Meta",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.302943"
+      "crawled_at": "2026-03-03T12:33:03.086241"
     },
     {
       "source": "wired",
-      "title": "The ‘European’ Jolla Phone Is an Anti-Big-Tech Smartphone",
-      "summary": "The Finnish company Jolla is back with the Linux-powered Jolla Phone. It’s being positioned as an antidote to the US-dominated smartphone status quo of Android and iOS.",
-      "link": "https://www.wired.com/story/jolla-phone-2026/",
-      "published": "Tue, 03 Mar 2026 00:36:25 +0000",
+      "title": "How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown",
+      "summary": "A WIRED analysis shows that ICE and CBP have collectively spent at least $515 million on products from Microsoft, Amazon, Google, and Palantir in the last few years alone.",
+      "link": "https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/",
+      "published": "Tue, 03 Mar 2026 11:30:00 +0000",
       "keywords": [
-        "Android",
-        "iOS",
-        "Linux",
+        "Go",
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-03T12:33:03.086292"
+    },
+    {
+      "source": "wired",
+      "title": "The Untold Story of the Birth of the iPhone",
+      "summary": "Apple turns 50 on April 1. In his new book, Apple: The First 50 Years, David Pogue chronicles the secrecy-laden environment in which Steve Jobs willed the first iPhone into existence.",
+      "link": "https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/",
+      "published": "Tue, 03 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-03T06:37:05.302981"
+      "crawled_at": "2026-03-03T12:33:03.086325"
     },
     {
       "source": "wired",
-      "title": "This AI Agent Is Ready to Serve, Mid-Phone Call",
-      "summary": "Deutsche Telekom, the German cell provider—which holds a majority stake in T-Mobile—is partnering with ElevenLabs to enable an AI assistant on all of its network’s calls in Germany. No app required.",
-      "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
-      "published": "Tue, 03 Mar 2026 00:25:44 +0000",
+      "title": "Best Pajamas for Women (2026), WIRED Tested and Reviewed",
+      "summary": "After testing 100-plus sets, these are the sleepwear brands that earned permanent spots in my closet and my bed.",
+      "link": "https://www.wired.com/story/the-best-pajamas-brands-for-women/",
+      "published": "Tue, 03 Mar 2026 10:30:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T06:37:05.303013"
+      "category": "Tech News",
+      "crawled_at": "2026-03-03T12:33:03.086356"
+    },
+    {
+      "source": "wired",
+      "title": "Why Missile Alerts and War Updates Trigger Doomscrolling",
+      "summary": "A combination of war alerts, breaking news updates, and algorithmic feeds are trapping users in a threat-monitoring loop.",
+      "link": "https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/",
+      "published": "Tue, 03 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-03T12:33:03.086384"
     }
   ]
 }
