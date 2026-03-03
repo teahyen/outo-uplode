@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-03-03T01:10:22.885710",
+  "last_updated": "2026-03-03T06:37:05.303089",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "summary": "The four-year-old startup saw its revenue run rate double over the past three months, according to one Bloomberg source.",
+      "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "published": "Tue, 03 Mar 2026 01:53:59 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-03T06:37:04.592870"
+    },
+    {
+      "source": "techcrunch",
+      "title": "India’s Pronto formalizes house help as its valuation jumps 8x in under a year",
+      "summary": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India's largely offline home services market.",
+      "link": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/",
+      "published": "Tue, 03 Mar 2026 01:15:00 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-03T06:37:04.592912"
+    },
     {
       "source": "techcrunch",
       "title": "ChatGPT uninstalls surged by 295% after DoD deal",
@@ -14,7 +42,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.243770"
+      "crawled_at": "2026-03-03T06:37:04.592937"
     },
     {
       "source": "techcrunch",
@@ -26,7 +54,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.243804"
+      "crawled_at": "2026-03-03T06:37:04.592962"
     },
     {
       "source": "techcrunch",
@@ -39,35 +67,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.243833"
-    },
-    {
-      "source": "techcrunch",
-      "title": "No one has a good plan for how AI companies should work with the government",
-      "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
-      "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-      "published": "Mon, 02 Mar 2026 22:59:10 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "Security",
-        "Startup"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.243862"
-    },
-    {
-      "source": "techcrunch",
-      "title": "A new app alerts you if someone nearby is wearing smart glasses",
-      "summary": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to always-on recording and listening devices that invade people's privacy.",
-      "link": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
-      "published": "Mon, 02 Mar 2026 22:40:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-03T01:10:22.243892"
+      "crawled_at": "2026-03-03T06:37:04.592988"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.351984"
+      "crawled_at": "2026-03-03T06:37:04.745284"
     },
     {
       "source": "theverge",
@@ -98,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.352029"
+      "crawled_at": "2026-03-03T06:37:04.745329"
     },
     {
       "source": "theverge",
@@ -114,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.352069"
+      "crawled_at": "2026-03-03T06:37:04.745368"
     },
     {
       "source": "theverge",
@@ -130,7 +130,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.352104"
+      "crawled_at": "2026-03-03T06:37:04.745403"
     },
     {
       "source": "theverge",
@@ -142,70 +142,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.352151"
+      "crawled_at": "2026-03-03T06:37:04.745450"
     },
     {
       "source": "hackernews",
-      "title": "The Case for Apolitical Tech Spaces",
-      "summary": "Article URL: https://minor.gripe/posts/2026-03-02-the_case_for_apolitical_tech_spaces/\nComments URL: https://news.ycombinator.com/item?id=47226186\nPoints: 3\n# Comments: 0",
-      "link": "https://minor.gripe/posts/2026-03-02-the_case_for_apolitical_tech_spaces/",
-      "published": "Tue, 03 Mar 2026 00:19:30 +0000",
+      "title": "I've been running GrapheneOS on my Pixel Fold for over half a year",
+      "summary": "Article URL: https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/\nComments URL: https://news.ycombinator.com/item?id=47228390\nPoints: 17\n# Comments: 0",
+      "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "published": "Tue, 03 Mar 2026 05:18:24 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.595695"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-03T06:37:05.071387"
     },
     {
       "source": "hackernews",
-      "title": "How to Build Your Own Quantum Computer",
-      "summary": "Article URL: https://physics.aps.org/articles/v19/24\nComments URL: https://news.ycombinator.com/item?id=47225726\nPoints: 10\n# Comments: 1",
-      "link": "https://physics.aps.org/articles/v19/24",
-      "published": "Mon, 02 Mar 2026 23:22:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.595740"
-    },
-    {
-      "source": "hackernews",
-      "title": "Microsoft Creative Writer (1993)",
-      "summary": "Article URL: https://classicreload.com/play/win3x-creative-writer.html\nComments URL: https://news.ycombinator.com/item?id=47225536\nPoints: 7\n# Comments: 4",
-      "link": "https://classicreload.com/play/win3x-creative-writer.html",
-      "published": "Mon, 02 Mar 2026 23:05:59 +0000",
-      "keywords": [
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.595776"
-    },
-    {
-      "source": "hackernews",
-      "title": "Closure of the Weatheradio Service in Canada",
-      "summary": "Article URL: https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/\nComments URL: https://news.ycombinator.com/item?id=47225505\nPoints: 46\n# Comments: 23",
-      "link": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-      "published": "Mon, 02 Mar 2026 23:03:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.595813"
-    },
-    {
-      "source": "hackernews",
-      "title": "Seed of Might Color Correction Process (2023) [pdf]",
-      "summary": "Article URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf\nComments URL: https://news.ycombinator.com/item?id=47225318\nPoints: 57\n# Comments: 14",
-      "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-      "published": "Mon, 02 Mar 2026 22:49:47 +0000",
+      "title": "Intent-Based Commits",
+      "summary": "Article URL: https://github.com/adamveld12/ghost\nComments URL: https://news.ycombinator.com/item?id=47227999\nPoints: 21\n# Comments: 12",
+      "link": "https://github.com/adamveld12/ghost",
+      "published": "Tue, 03 Mar 2026 04:20:37 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.595846"
+      "crawled_at": "2026-03-03T06:37:05.071425"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Excommunicated Devs Making Games with AI",
+      "summary": "Article URL: https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai\nComments URL: https://news.ycombinator.com/item?id=47227078\nPoints: 27\n# Comments: 7",
+      "link": "https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai",
+      "published": "Tue, 03 Mar 2026 02:16:52 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-03T06:37:05.071454"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\nComments URL: https://news.ycombinator.com/item?id=47226608\nPoints: 154\n# Comments: 73",
+      "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+      "published": "Tue, 03 Mar 2026 01:12:30 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-03T06:37:05.071483"
+    },
+    {
+      "source": "hackernews",
+      "title": "Physicists developing a quantum computer that’s entirely open source",
+      "summary": "Article URL: https://physics.aps.org/articles/v19/24\nComments URL: https://news.ycombinator.com/item?id=47225726\nPoints: 74\n# Comments: 18",
+      "link": "https://physics.aps.org/articles/v19/24",
+      "published": "Mon, 02 Mar 2026 23:22:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-03T06:37:05.071526"
     },
     {
       "source": "arstechnica",
@@ -217,7 +219,7 @@
         "Crypto"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-03-03T01:10:22.710458"
+      "crawled_at": "2026-03-03T06:37:05.220986"
     },
     {
       "source": "arstechnica",
@@ -229,7 +231,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.710494"
+      "crawled_at": "2026-03-03T06:37:05.221021"
     },
     {
       "source": "arstechnica",
@@ -241,7 +243,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.710525"
+      "crawled_at": "2026-03-03T06:37:05.221052"
     },
     {
       "source": "arstechnica",
@@ -254,7 +256,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.710547"
+      "crawled_at": "2026-03-03T06:37:05.221075"
     },
     {
       "source": "arstechnica",
@@ -267,7 +269,29 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.710571"
+      "crawled_at": "2026-03-03T06:37:05.221099"
+    },
+    {
+      "source": "wired",
+      "title": "L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear",
+      "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
+      "link": "https://www.wired.com/story/ll-bean-promo-code/",
+      "published": "Tue, 03 Mar 2026 06:03:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-03T06:37:05.302875"
+    },
+    {
+      "source": "wired",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "published": "Tue, 03 Mar 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-03T06:37:05.302915"
     },
     {
       "source": "wired",
@@ -282,12 +306,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.885467"
+      "crawled_at": "2026-03-03T06:37:05.302943"
     },
     {
       "source": "wired",
       "title": "The ‘European’ Jolla Phone Is an Anti-Big-Tech Smartphone",
-      "summary": "The Finnish company Jolla is back with the Linux-powered Jolla Phone. It's being positioned as an antidote to the US-dominated smartphone status quo of Android and iOS.",
+      "summary": "The Finnish company Jolla is back with the Linux-powered Jolla Phone. It’s being positioned as an antidote to the US-dominated smartphone status quo of Android and iOS.",
       "link": "https://www.wired.com/story/jolla-phone-2026/",
       "published": "Tue, 03 Mar 2026 00:36:25 +0000",
       "keywords": [
@@ -297,7 +321,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-03T01:10:22.885517"
+      "crawled_at": "2026-03-03T06:37:05.302981"
     },
     {
       "source": "wired",
@@ -310,32 +334,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.885552"
-    },
-    {
-      "source": "wired",
-      "title": "Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads",
-      "summary": "Missile and drone attacks have disrupted daily life, but delivery drivers are still diligently navigating streets to drop off orders across the region.",
-      "link": "https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/",
-      "published": "Mon, 02 Mar 2026 21:34:36 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-03T01:10:22.885578"
-    },
-    {
-      "source": "wired",
-      "title": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
-      "summary": "How Kalshi decided to settle a market tied to Iran’s supreme leader prompted anger among traders who felt the rules weren’t clear.",
-      "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
-      "published": "Mon, 02 Mar 2026 20:08:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-03T01:10:22.885622"
+      "crawled_at": "2026-03-03T06:37:05.303013"
     }
   ]
 }
