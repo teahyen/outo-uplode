@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-03-04T06:33:50.092195",
+  "last_updated": "2026-03-04T12:32:27.691752",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Who needs data centers in space when they can float offshore?",
+      "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+      "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:26.892493"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Eight Sleep raises $50M at $1.5B valuation",
+      "summary": "Eight Sleep said it was free-cash-flow positive in 2025, and plans to use the new funding for new products, global expansions, and clinical validation.",
+      "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
+      "published": "Wed, 04 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Funding"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:26.892526"
+    },
     {
       "source": "techcrunch",
       "title": "Why AI startups are selling the same equity at two different prices",
@@ -14,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.309693"
+      "crawled_at": "2026-03-04T12:32:26.892551"
     },
     {
       "source": "techcrunch",
@@ -30,7 +56,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-04T06:33:48.309735"
+      "crawled_at": "2026-03-04T12:32:26.892583"
     },
     {
       "source": "techcrunch",
@@ -43,35 +69,60 @@
         "React"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.309768"
+      "crawled_at": "2026-03-04T12:32:26.892613"
     },
     {
-      "source": "techcrunch",
-      "title": "Just three companies dominated the $189B in VC investments last month",
-      "summary": "Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital.",
-      "link": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
-      "published": "Tue, 03 Mar 2026 22:38:58 +0000",
+      "source": "theverge",
+      "title": "How a prize-winning cartoonist brings hand-drawn comics to the web",
+      "summary": "Jailed during the 2021 coup in Myanmar, American journalist Danny Fenster spent six months as a political prisoner. For much of his incarceration he battled boredom and fear, subsisting on meditation and podcasts on an SD card smuggled in by mail, sent by his girlfriend, Juliana. Now, nearly five ye",
+      "link": "https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web",
+      "published": "2026-03-04T07:00:00-05:00",
       "keywords": [
         "AI",
-        "API",
-        "Startup",
-        "VC",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.309794"
+      "crawled_at": "2026-03-04T12:32:27.043523"
     },
     {
-      "source": "techcrunch",
-      "title": "TikTok down for some in US, thanks to second Oracle outage since sale",
-      "summary": "TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations.",
-      "link": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
-      "published": "Tue, 03 Mar 2026 22:33:57 +0000",
+      "source": "theverge",
+      "title": "I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year",
+      "summary": "Does anyone really need a remote for a device you’re already either holding or using at arm’s length? E-readers have saved us from the risk of paper cuts and the burden of physically turning pages, but Kobo is making it even easier by releasing a wireless page-turning remote. The Kobo Remote might b",
+      "link": "https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa",
+      "published": "2026-03-04T06:30:00-05:00",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-04T06:33:48.309822"
+      "category": "Hardware",
+      "crawled_at": "2026-03-04T12:32:27.043590"
+    },
+    {
+      "source": "theverge",
+      "title": "Inside the secret meeting that led to the AI political resistance",
+      "summary": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative acade",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
+      "published": "2026-03-04T06:00:00-05:00",
+      "keywords": [
+        "AI",
+        "IoT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:27.043626"
+    },
+    {
+      "source": "theverge",
+      "title": "Activision silences trusted Call of Duty leaker",
+      "summary": "One of the most trusted leakers for Call of Duty will no longer share confidential information about the gaming franchise after being hit with a cease and desist order. TheGhostOfHope (also known to the community as \"Hope\") announced on X that he is complying with legal demands from developer Activi",
+      "link": "https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown",
+      "published": "2026-03-04T04:34:38-05:00",
+      "keywords": [
+        "Rust",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-04T12:32:27.043675"
     },
     {
       "source": "theverge",
@@ -84,122 +135,71 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-04T06:33:48.396387"
+      "crawled_at": "2026-03-04T12:32:27.043719"
     },
     {
-      "source": "theverge",
-      "title": "Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?",
-      "summary": "In a downtown Manhattan courtroom on Monday, lawyers for the US Justice Department and 40 state and district attorneys general warned a jury that the concert industry was being squeezed by a monopolist: Live Nation-Tickemaster. After amassing dominance over ticketing and artists' use of large amphit",
-      "link": "https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements",
-      "published": "2026-03-03T18:27:59-05:00",
+      "source": "hackernews",
+      "title": "Jiga (YC W21) Is Hiring",
+      "summary": "Article URL: https://jiga.io/about-us\nComments URL: https://news.ycombinator.com/item?id=47246268\nPoints: 0\n# Comments: 0",
+      "link": "https://jiga.io/about-us",
+      "published": "Wed, 04 Mar 2026 12:01:42 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:48.396462"
-    },
-    {
-      "source": "theverge",
-      "title": "What Trump’s war on Iran means for the US energy crunch",
-      "summary": "Fuel prices surged after the Trump administration launched strikes against Iran on Saturday, immediately raising questions about whether the war would increase energy costs for Americans, put more pressure on power grids, and push companies to pump out more oil and gas in the US. If conflict drags o",
-      "link": "https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch",
-      "published": "2026-03-03T16:41:25-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.396504"
-    },
-    {
-      "source": "theverge",
-      "title": "The best AirPods deals you can get right now",
-      "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the newer AirPods Pro 3. And while more recent shopping events like Black Friday and Cyber Monday deliver",
-      "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
-      "published": "2026-03-03T16:00:00-05:00",
-      "keywords": [
-        "AI",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.396542"
-    },
-    {
-      "source": "theverge",
-      "title": "Another Oracle outage is messing up US TikTok",
-      "summary": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. The service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking arou",
-      "link": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
-      "published": "2026-03-03T15:26:21-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:48.396576"
+      "crawled_at": "2026-03-04T12:32:27.378108"
     },
     {
       "source": "hackernews",
-      "title": "A CPU that runs entirely on GPU",
-      "summary": "Article URL: https://github.com/robertcprice/nCPU\nComments URL: https://news.ycombinator.com/item?id=47243069\nPoints: 17\n# Comments: 5",
-      "link": "https://github.com/robertcprice/nCPU",
-      "published": "Wed, 04 Mar 2026 04:30:32 +0000",
+      "title": "Users fume over Outlook.com email 'carnage'",
+      "summary": "Article URL: https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/\nComments URL: https://news.ycombinator.com/item?id=47246044\nPoints: 31\n# Comments: 19",
+      "link": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+      "published": "Wed, 04 Mar 2026 11:33:46 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:27.378152"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bet on German Train Delays",
+      "summary": "Article URL: https://bahn.bet\nComments URL: https://news.ycombinator.com/item?id=47245211\nPoints: 63\n# Comments: 38",
+      "link": "https://bahn.bet",
+      "published": "Wed, 04 Mar 2026 09:42:20 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:27.378177"
+    },
+    {
+      "source": "hackernews",
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9849.html\nComments URL: https://news.ycombinator.com/item?id=47244291\nPoints: 119\n# Comments: 57",
+      "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "published": "Wed, 04 Mar 2026 07:25:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-04T12:32:27.378209"
+    },
+    {
+      "source": "hackernews",
+      "title": "Better JIT for Postgres",
+      "summary": "Article URL: https://github.com/vladich/pg_jitter\nComments URL: https://news.ycombinator.com/item?id=47243804\nPoints: 80\n# Comments: 31",
+      "link": "https://github.com/vladich/pg_jitter",
+      "published": "Wed, 04 Mar 2026 06:17:10 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-04T06:33:49.849642"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nobody Gets Promoted for Simplicity",
-      "summary": "Article URL: https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/\nComments URL: https://news.ycombinator.com/item?id=47242765\nPoints: 130\n# Comments: 51",
-      "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
-      "published": "Wed, 04 Mar 2026 03:40:18 +0000",
-      "keywords": [
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:49.849686"
-    },
-    {
-      "source": "hackernews",
-      "title": "California's Digital Age Assurance Act, and FOSS",
-      "summary": "Article URL: https://runxiyu.org/comp/ab1043/\nComments URL: https://news.ycombinator.com/item?id=47242725\nPoints: 75\n# Comments: 56",
-      "link": "https://runxiyu.org/comp/ab1043/",
-      "published": "Wed, 04 Mar 2026 03:36:18 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:49.849719"
-    },
-    {
-      "source": "hackernews",
-      "title": "Speculative Speculative Decoding (SSD)",
-      "summary": "Article URL: https://arxiv.org/abs/2603.03251\nComments URL: https://news.ycombinator.com/item?id=47242637\nPoints: 28\n# Comments: 3",
-      "link": "https://arxiv.org/abs/2603.03251",
-      "published": "Wed, 04 Mar 2026 03:24:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:49.849750"
-    },
-    {
-      "source": "hackernews",
-      "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-      "summary": "Article URL: https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/\nComments URL: https://news.ycombinator.com/item?id=47242453\nPoints: 48\n# Comments: 25",
-      "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-      "published": "Wed, 04 Mar 2026 03:00:32 +0000",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:49.849781"
+      "crawled_at": "2026-03-04T12:32:27.378239"
     },
     {
       "source": "arstechnica",
@@ -211,7 +211,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:49.940644"
+      "crawled_at": "2026-03-04T12:32:27.594634"
     },
     {
       "source": "arstechnica",
@@ -221,7 +221,7 @@
       "published": "Tue, 03 Mar 2026 22:20:06 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:49.940679"
+      "crawled_at": "2026-03-04T12:32:27.594685"
     },
     {
       "source": "arstechnica",
@@ -234,7 +234,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:49.940702"
+      "crawled_at": "2026-03-04T12:32:27.594709"
     },
     {
       "source": "arstechnica",
@@ -247,7 +247,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:49.940725"
+      "crawled_at": "2026-03-04T12:32:27.594732"
     },
     {
       "source": "arstechnica",
@@ -261,73 +261,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:49.940745"
+      "crawled_at": "2026-03-04T12:32:27.594753"
     },
     {
       "source": "wired",
-      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-      "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
-      "link": "https://www.wired.com/story/barkbox-promo-code/",
-      "published": "Wed, 04 Mar 2026 06:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:50.091959"
-    },
-    {
-      "source": "wired",
-      "title": "Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked",
-      "summary": "Donald Trump’s post on Truth Social about Iran echoed a conspiracy theory that has been circulating online for years.",
-      "link": "https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/",
-      "published": "Tue, 03 Mar 2026 21:13:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:50.092007"
-    },
-    {
-      "source": "wired",
-      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
-      "summary": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
-      "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-      "published": "Tue, 03 Mar 2026 19:01:35 +0000",
+      "title": "Marshall Kilburn III Review: A Classic Rock Bluetooth Speaker",
+      "summary": "Prepping for warmer weather? Marshall's midsize portable Bluetooth speaker sounds as good as it looks.",
+      "link": "https://www.wired.com/review/marshall-kilburn-iii/",
+      "published": "Wed, 04 Mar 2026 12:30:00 +0000",
       "keywords": [
         "Go",
-        "Hack",
-        "iPhone"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-03-04T06:33:50.092041"
-    },
-    {
-      "source": "wired",
-      "title": "Our Favorite Upgraded Gaming Headset Is $20 Off",
-      "summary": "The Razer BlackShark V3 Pro has excellent noise-canceling and spatial audio for focused gamers.",
-      "link": "https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/",
-      "published": "Tue, 03 Mar 2026 18:36:27 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-04T06:33:50.092070"
+      "crawled_at": "2026-03-04T12:32:27.691502"
     },
     {
       "source": "wired",
-      "title": "Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
-      "summary": "Apple also announced two new pricey Studio Display computer monitors. If you're waiting on that rumored entry-level MacBook, the company seems to be saving it for its March 4 media event.",
-      "link": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
-      "published": "Tue, 03 Mar 2026 14:45:03 +0000",
+      "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+      "summary": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
+      "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000",
       "keywords": [
         "AI",
-        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-04T06:33:50.092103"
+      "crawled_at": "2026-03-04T12:32:27.691547"
+    },
+    {
+      "source": "wired",
+      "title": "16 Best Air Purifiers (2026): Coway, AirDoctor, IQAir",
+      "summary": "Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED.",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "published": "Wed, 04 Mar 2026 11:31:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:27.691571"
+    },
+    {
+      "source": "wired",
+      "title": "Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us",
+      "summary": "A new psychedelic retreat calling itself a “SETI for the mind” aims to establish two-way communication with the nonhuman entities people encounter while tripping on DMT.",
+      "link": "https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/",
+      "published": "Wed, 04 Mar 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-04T12:32:27.691605"
+    },
+    {
+      "source": "wired",
+      "title": "How Is Kalshi Not Gambling?",
+      "summary": "Kalshi lets you place bets on everything from football games to foreign invasions. The prediction market’s CEO, Tarek Mansour, says this doesn’t count as gambling—and is actually good for society.",
+      "link": "https://www.wired.com/story/big-interview-tarek-mansour-kalshi/",
+      "published": "Wed, 04 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-04T12:32:27.691644"
     }
   ]
 }
