@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T06:34:25.623809",
+  "last_updated": "2026-03-06T12:31:02.242141",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.710942"
+      "crawled_at": "2026-03-06T12:30:57.317706"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.710979"
+      "crawled_at": "2026-03-06T12:30:57.317744"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T06:34:23.711015"
+      "crawled_at": "2026-03-06T12:30:57.317780"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.711041"
+      "crawled_at": "2026-03-06T12:30:57.317806"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,20 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-06T06:34:23.711073"
+      "crawled_at": "2026-03-06T12:30:57.317837"
+    },
+    {
+      "source": "theverge",
+      "title": "Meet your new phone away from phone",
+      "summary": "Unihertz's booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up the Titan Elite 2. Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see [&#8230;]",
+      "link": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
+      "published": "2026-03-06T07:00:00-05:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T12:30:57.494467"
     },
     {
       "source": "theverge",
@@ -80,7 +93,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-06T06:34:23.866804"
+      "crawled_at": "2026-03-06T12:30:57.494524"
     },
     {
       "source": "theverge",
@@ -95,11 +108,11 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.866857"
+      "crawled_at": "2026-03-06T12:30:57.494569"
     },
     {
       "source": "theverge",
-      "title": "What if your real computer was a super-sized Lego computer brick?",
+      "title": "What if your real computer was a supersized Lego computer brick?",
       "summary": "In 1979 - nearly 50 years ago - Lego jazzed up its very first spaceships with an iconic sloped computer brick that was just painted plastic. In 2022, we introduced you to the engineer who fit an actual tiny computer inside. Now, industrial designer Paul Staal has flipped the script with a working de",
       "link": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
       "published": "2026-03-05T19:59:11-05:00",
@@ -109,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.866892"
+      "crawled_at": "2026-03-06T12:30:57.494602"
     },
     {
       "source": "theverge",
@@ -122,87 +135,73 @@
         "Git"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-06T06:34:23.866938"
+      "crawled_at": "2026-03-06T12:30:57.494648"
     },
     {
-      "source": "theverge",
-      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-      "summary": "After weeks of failed negotiations, public ultimatums, and lawsuit threats, the Defense Department has formally labeled Anthropic a \"supply-chain risk\", escalating its fight with the AI company over their acceptable use policies and potentially bringing their fight to court. The decision, first repo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
-      "published": "2026-03-05T18:02:22-05:00",
+      "source": "hackernews",
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "summary": "Article URL: https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/\nComments URL: https://news.ycombinator.com/item?id=47273854\nPoints: 12\n# Comments: 2",
+      "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
+      "published": "Fri, 06 Mar 2026 11:53:18 +0000",
       "keywords": [
-        "AI",
         "Anthropic",
-        "Go",
-        "AWS",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:23.866972"
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T12:31:01.992398"
     },
     {
       "source": "hackernews",
-      "title": "TeX Live 2026 is available for download now",
-      "summary": "Article URL: https://www.tug.org/texlive/acquire.html\nComments URL: https://news.ycombinator.com/item?id=47271187\nPoints: 21\n# Comments: 9",
-      "link": "https://www.tug.org/texlive/acquire.html",
-      "published": "Fri, 06 Mar 2026 05:20:10 +0000",
+      "title": "LibreSprite – open-source pixel art editor",
+      "summary": "Article URL: https://libresprite.github.io/\nComments URL: https://news.ycombinator.com/item?id=47272799\nPoints: 44\n# Comments: 19",
+      "link": "https://libresprite.github.io/",
+      "published": "Fri, 06 Mar 2026 09:22:00 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T12:31:01.992450"
+    },
+    {
+      "source": "hackernews",
+      "title": "If AI has a bright future, why does AI think it doesn't?",
+      "summary": "Article URL: https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195\nComments URL: https://news.ycombinator.com/item?id=47272797\nPoints: 5\n# Comments: 6",
+      "link": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
+      "published": "Fri, 06 Mar 2026 09:21:56 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T12:31:01.992480"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPL upgrades via section 14 proxy delegation",
+      "summary": "Article URL: https://runxiyu.org/comp/gplproxy/\nComments URL: https://news.ycombinator.com/item?id=47272534\nPoints: 59\n# Comments: 24",
+      "link": "https://runxiyu.org/comp/gplproxy/",
+      "published": "Fri, 06 Mar 2026 08:41:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T12:31:01.992513"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stardex (YC S21) is hiring customer success engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration\nComments URL: https://news.ycombinator.com/item?id=47271858\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+      "published": "Fri, 06 Mar 2026 07:02:08 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.254351"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-      "summary": "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home, other ants) but has n",
-      "link": "https://dev.moment.com/",
-      "published": "Fri, 06 Mar 2026 04:15:40 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.254443"
-    },
-    {
-      "source": "hackernews",
-      "title": "System76 on Age Verification Laws",
-      "summary": "Article URL: https://blog.system76.com/post/system76-on-age-verification/\nComments URL: https://news.ycombinator.com/item?id=47270784\nPoints: 94\n# Comments: 39",
-      "link": "https://blog.system76.com/post/system76-on-age-verification/",
-      "published": "Fri, 06 Mar 2026 04:12:26 +0000",
-      "keywords": [
-        "AWS",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-06T06:34:25.254475"
-    },
-    {
-      "source": "hackernews",
-      "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
-      "summary": "Article URL: https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/\nComments URL: https://news.ycombinator.com/item?id=47270672\nPoints: 5\n# Comments: 0",
-      "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
-      "published": "Fri, 06 Mar 2026 03:56:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-06T06:34:25.254516"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to install and start using LineageOS on your phone",
-      "summary": "Article URL: https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html\nComments URL: https://news.ycombinator.com/item?id=47269288\nPoints: 30\n# Comments: 12",
-      "link": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
-      "published": "Fri, 06 Mar 2026 00:43:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-06T06:34:25.254554"
+      "crawled_at": "2026-03-06T12:31:01.992543"
     },
     {
       "source": "arstechnica",
@@ -215,7 +214,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T06:34:25.500194"
+      "crawled_at": "2026-03-06T12:31:02.096497"
     },
     {
       "source": "arstechnica",
@@ -228,7 +227,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.500223"
+      "crawled_at": "2026-03-06T12:31:02.096527"
     },
     {
       "source": "arstechnica",
@@ -242,7 +241,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.500253"
+      "crawled_at": "2026-03-06T12:31:02.096558"
     },
     {
       "source": "arstechnica",
@@ -255,7 +254,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-06T06:34:25.500277"
+      "crawled_at": "2026-03-06T12:31:02.096582"
     },
     {
       "source": "arstechnica",
@@ -270,63 +269,70 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.500297"
+      "crawled_at": "2026-03-06T12:31:02.096603"
     },
     {
       "source": "wired",
-      "title": "Mattress Firm Coupons and Discounts: Save Up to $600",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/",
-      "published": "Fri, 06 Mar 2026 06:08:00 +0000",
+      "title": "These 2 Apps Help Me Make Sense of My 100K Screenshots",
+      "summary": "The shameful pile of screenshots on my phone was as useless as it was disorganized. Rodeo and Swipewipe are helping to change that.",
+      "link": "https://www.wired.com/story/rodeo-swipewipe-declutter-screenshots/",
+      "published": "Fri, 06 Mar 2026 12:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-06T12:31:02.241924"
+    },
+    {
+      "source": "wired",
+      "title": "7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "summary": "Laptop docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+      "published": "Fri, 06 Mar 2026 11:39:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-06T06:34:25.623592"
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T12:31:02.241974"
     },
     {
       "source": "wired",
-      "title": "KitchenAid Promo Codes and Discounts: Save Up To 50%",
-      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "published": "Fri, 06 Mar 2026 06:05:00 +0000",
+      "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
+      "summary": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
+      "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
+      "published": "Fri, 06 Mar 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T12:31:02.242012"
+    },
+    {
+      "source": "wired",
+      "title": "Why Is Alexa+ So Bad?",
+      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+      "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+      "published": "Fri, 06 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T12:31:02.242037"
+    },
+    {
+      "source": "wired",
+      "title": "Posture Correctors That Will Straighten You Out (2026)",
+      "summary": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
+      "link": "https://www.wired.com/gallery/posture-correctors/",
+      "published": "Fri, 06 Mar 2026 10:30:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T06:34:25.623621"
-    },
-    {
-      "source": "wired",
-      "title": "Peacock Promo Codes: 40% Off March 2026",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "published": "Fri, 06 Mar 2026 06:02:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-06T06:34:25.623645"
-    },
-    {
-      "source": "wired",
-      "title": "TurboTax Service Codes: Up to $150 Off | March 2026",
-      "summary": "Tax season doesn’t have to be stressful. Score up to $150 on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Fri, 06 Mar 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-06T06:34:25.623694"
-    },
-    {
-      "source": "wired",
-      "title": "Norton Coupon Codes and Discounts: Up to 58% Off",
-      "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-      "link": "https://www.wired.com/story/norton-coupon-code/",
-      "published": "Fri, 06 Mar 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-06T06:34:25.623727"
+      "crawled_at": "2026-03-06T12:31:02.242065"
     }
   ]
 }
