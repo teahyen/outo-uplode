@@ -1,338 +1,336 @@
 {
-  "last_updated": "2026-03-06T12:31:02.242141",
+  "last_updated": "2026-03-06T18:30:11.586416",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Anthropic to challenge DOD’s supply-chain label in court",
-      "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-      "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-      "published": "Fri, 06 Mar 2026 01:28:54 +0000",
+      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned ",
+      "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+      "published": "Fri, 06 Mar 2026 18:09:11 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T18:30:07.250193"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+      "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+      "published": "Fri, 06 Mar 2026 17:56:07 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T18:30:07.250232"
+    },
+    {
+      "source": "techcrunch",
+      "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
+      "summary": "Pandemic-driven lockdowns exposed many people in India to PCs for the first time, expanding the country's PC userbase and creating demand for upgrades as those devices age.",
+      "link": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/",
+      "published": "Fri, 06 Mar 2026 17:51:49 +0000",
+      "keywords": [],
+      "category": "Hardware",
+      "crawled_at": "2026-03-06T18:30:07.250289"
+    },
+    {
+      "source": "techcrunch",
+      "title": "These are the countries moving to ban social media for children",
+      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "link": "https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/",
+      "published": "Fri, 06 Mar 2026 16:00:56 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:30:57.317706"
+      "crawled_at": "2026-03-06T18:30:07.250320"
     },
     {
       "source": "techcrunch",
-      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-      "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-      "published": "Thu, 05 Mar 2026 23:14:04 +0000",
+      "title": "TriZetto confirms 3.4M people’s health and personal data was stolen during breach",
+      "summary": "Health tech giant TriZetto has confirmed that more than 3.4 million people had personal and health information stolen in a 2024 cyberattack, which the company failed to detect for almost a year.",
+      "link": "https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/",
+      "published": "Fri, 06 Mar 2026 14:28:31 +0000",
       "keywords": [
         "AI",
-        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:30:57.317744"
+      "crawled_at": "2026-03-06T18:30:07.250356"
     },
     {
-      "source": "techcrunch",
-      "title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
-      "summary": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X.",
-      "link": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
-      "published": "Thu, 05 Mar 2026 22:38:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-06T12:30:57.317780"
-    },
-    {
-      "source": "techcrunch",
-      "title": "AWS launches a new AI agent platform specifically for healthcare",
-      "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
-      "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-      "published": "Thu, 05 Mar 2026 21:54:37 +0000",
+      "source": "theverge",
+      "title": "You can already save up to $50 on the new M4 iPad Air",
+      "summary": "In case you missed it, Apple announced a host of new devices this week, including both a new phone and a cheaper laptop. It also unveiled the M4-powered iPad Air, which is already receiving a preorder discount ahead of its March 11th debut. Right now, the 128GB / Wi-Fi model is available at Amazon, ",
+      "link": "https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale",
+      "published": "2026-03-06T12:03:09-05:00",
       "keywords": [
         "AI",
-        "AWS",
+        "Apple",
         "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:30:57.317806"
-    },
-    {
-      "source": "techcrunch",
-      "title": "FBI investigating hack on its wiretap and surveillance systems: Report",
-      "summary": "Hackers allegedly broke into the FBI’s networks, according to a report by CNN.",
-      "link": "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/",
-      "published": "Thu, 05 Mar 2026 21:33:24 +0000",
-      "keywords": [
-        "Hack"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-03-06T12:30:57.317837"
+      "crawled_at": "2026-03-06T18:30:07.398545"
     },
     {
       "source": "theverge",
-      "title": "Meet your new phone away from phone",
-      "summary": "Unihertz's booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up the Titan Elite 2. Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see [&#8230;]",
-      "link": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
-      "published": "2026-03-06T07:00:00-05:00",
+      "title": "The Trump phone was a no-show at the world’s biggest mobile show",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This time, we tried, and failed, to find it at the world's biggest mobile trade show. This week Barcelona was taken over by the tech industry as Mobile W",
+      "link": "https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc",
+      "published": "2026-03-06T10:00:00-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T18:30:07.398600"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump&#8217;s surgeon general nominee is running the wellness grifter playbook perfectly",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will back March 20th. Opt in for Optimizer here. On the surf",
+      "link": "https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook",
+      "published": "2026-03-06T10:00:00-05:00",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T12:30:57.494467"
+      "crawled_at": "2026-03-06T18:30:07.398649"
     },
     {
       "source": "theverge",
-      "title": "Amazon.com says things are fixed after some issues with logging in and checking out",
-      "summary": "If you were having issues shopping on Amazon or loading your playlists on Amazon Music on Thursday, you weren't alone. For over three hours today, Downdetector showed a sizable spike in people reporting issues with checkout, search, and logging in. The problem seemed to be affecting both the site an",
-      "link": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
-      "published": "2026-03-05T20:24:36-05:00",
+      "title": "Indie games are turning the act of looking into an art",
+      "summary": "Adriaan de Jongh and Sylvain Tegroeg did not necessarily set out to create a new genre. But, in some ways, that's exactly what the duo did when they released Hidden Folks in 2017. Hidden object games have been around for decades - they've existed well before computers, when people searched for objec",
+      "link": "https://www.theverge.com/entertainment/889978/hidden-object-games-indie",
+      "published": "2026-03-06T09:00:00-05:00",
       "keywords": [
-        "Amazon",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T18:30:07.398682"
+    },
+    {
+      "source": "theverge",
+      "title": "This phone starts fires on purpose",
+      "summary": "Until now, most mobile phone companies have worked to ensure their phones won't start fires. (Occasional Samsung devices excepted, of course.) But this week at Mobile World Congress, we found a company that dared to go in a different direction. Oukitel's WP63 rugged smartphone includes a built-in fi",
+      "link": "https://www.theverge.com/podcast/890324/mwc-2026-phones-epic-google-vergecast",
+      "published": "2026-03-06T08:30:15-05:00",
+      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-06T12:30:57.494524"
-    },
-    {
-      "source": "theverge",
-      "title": "The best iPad deals you can get right now",
-      "summary": "While the best iPad deals usually land during major sale events like Black Friday,&#160;many great iPad deals are available outside of those times. The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad and the",
-      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "published": "2026-03-05T20:08:00-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:30:57.494569"
-    },
-    {
-      "source": "theverge",
-      "title": "What if your real computer was a supersized Lego computer brick?",
-      "summary": "In 1979 - nearly 50 years ago - Lego jazzed up its very first spaceships with an iconic sloped computer brick that was just painted plastic. In 2022, we introduced you to the engineer who fit an actual tiny computer inside. Now, industrial designer Paul Staal has flipped the script with a working de",
-      "link": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
-      "published": "2026-03-05T19:59:11-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:30:57.494602"
-    },
-    {
-      "source": "theverge",
-      "title": "Lawmakers just advanced online safety laws that require age verification at the app store",
-      "summary": "A package of child safety bills is headed to the House floor following an hours-long session that left Democrats and Republicans divided. On Thursday, lawmakers on the House Committee on Energy and Commerce voted to advance the Kids Internet and Digital Safety (KIDS) Act; Sammy's Law; and the App St",
-      "link": "https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act",
-      "published": "2026-03-05T18:16:00-05:00",
-      "keywords": [
-        "AWS",
-        "Git"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-06T12:30:57.494648"
+      "crawled_at": "2026-03-06T18:30:07.398720"
     },
     {
       "source": "hackernews",
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "summary": "Article URL: https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/\nComments URL: https://news.ycombinator.com/item?id=47273854\nPoints: 12\n# Comments: 2",
-      "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-      "published": "Fri, 06 Mar 2026 11:53:18 +0000",
+      "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+      "summary": "Hi HN! We’re Sam and Michael from Palus Finance (https://palus.finance). We’re building a treasury management platform for startups and SMBs to earn higher yields with a high-yield bond portfolio.We were funded by YC for a consumer-focused product for higher-yield savings. But when we joined YC and ",
+      "link": "https://news.ycombinator.com/item?id=47278443",
+      "published": "Fri, 06 Mar 2026 17:47:49 +0000",
       "keywords": [
-        "Anthropic",
+        "AI",
+        "Go",
+        "API",
+        "REST",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-06T18:30:11.263901"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "summary": "Article URL: https://twitter.com/JosephPolitano/status/2029916364664611242\nComments URL: https://news.ycombinator.com/item?id=47278426\nPoints: 29\n# Comments: 16",
+      "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "published": "Fri, 06 Mar 2026 17:46:45 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T12:31:01.992398"
+      "crawled_at": "2026-03-06T18:30:11.263949"
     },
     {
       "source": "hackernews",
-      "title": "LibreSprite – open-source pixel art editor",
-      "summary": "Article URL: https://libresprite.github.io/\nComments URL: https://news.ycombinator.com/item?id=47272799\nPoints: 44\n# Comments: 19",
-      "link": "https://libresprite.github.io/",
-      "published": "Fri, 06 Mar 2026 09:22:00 +0000",
+      "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=47277679\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+      "published": "Fri, 06 Mar 2026 17:00:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T18:30:11.263987"
+    },
+    {
+      "source": "hackernews",
+      "title": "Supertoast tables",
+      "summary": "Article URL: https://hatchet.run/blog/supertoast-tables\nComments URL: https://news.ycombinator.com/item?id=47277420\nPoints: 21\n# Comments: 0",
+      "link": "https://hatchet.run/blog/supertoast-tables",
+      "published": "Fri, 06 Mar 2026 16:46:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T18:30:11.264019"
+    },
+    {
+      "source": "hackernews",
+      "title": "Astra: An open-source observatory control software",
+      "summary": "Article URL: https://github.com/ppp-one/astra\nComments URL: https://news.ycombinator.com/item?id=47276865\nPoints: 27\n# Comments: 8",
+      "link": "https://github.com/ppp-one/astra",
+      "published": "Fri, 06 Mar 2026 16:14:30 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T12:31:01.992450"
+      "crawled_at": "2026-03-06T18:30:11.264051"
     },
     {
-      "source": "hackernews",
-      "title": "If AI has a bright future, why does AI think it doesn't?",
-      "summary": "Article URL: https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195\nComments URL: https://news.ycombinator.com/item?id=47272797\nPoints: 5\n# Comments: 6",
-      "link": "https://claude.ai/share/5373cca0-f085-40a7-9a58-3f30b4f76195",
-      "published": "Fri, 06 Mar 2026 09:21:56 +0000",
+      "source": "arstechnica",
+      "title": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
+      "summary": "RFK Jr. has tried hard to villainize Fauci. Americans still trust Fauci more.",
+      "link": "https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/",
+      "published": "Fri, 06 Mar 2026 17:15:22 +0000",
       "keywords": [
         "AI",
-        "Claude",
+        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:01.992480"
+      "crawled_at": "2026-03-06T18:30:11.461700"
     },
     {
-      "source": "hackernews",
-      "title": "GPL upgrades via section 14 proxy delegation",
-      "summary": "Article URL: https://runxiyu.org/comp/gplproxy/\nComments URL: https://news.ycombinator.com/item?id=47272534\nPoints: 59\n# Comments: 24",
-      "link": "https://runxiyu.org/comp/gplproxy/",
-      "published": "Fri, 06 Mar 2026 08:41:51 +0000",
+      "source": "arstechnica",
+      "title": "Climate change sucks, but at least it won't kill your EV battery",
+      "summary": "Older EVs, but not newer ones, may lose up to 30 percent range in a warming world.",
+      "link": "https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/",
+      "published": "Fri, 06 Mar 2026 16:37:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-06T12:31:01.992513"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stardex (YC S21) is hiring customer success engineers",
-      "summary": "Article URL: https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration\nComments URL: https://news.ycombinator.com/item?id=47271858\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-      "published": "Fri, 06 Mar 2026 07:02:08 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:01.992543"
+      "crawled_at": "2026-03-06T18:30:11.461736"
     },
     {
       "source": "arstechnica",
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "summary": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-      "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "published": "Thu, 05 Mar 2026 23:36:04 +0000",
+      "title": "Apple users in the US can no longer download ByteDance's Chinese apps",
+      "summary": "Move comes in the wake of TikTok's transfer of US operations.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/apple-users-in-the-us-can-no-longer-download-bytedances-chinese-apps/",
+      "published": "Fri, 06 Mar 2026 16:22:08 +0000",
       "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-06T12:31:02.096497"
-    },
-    {
-      "source": "arstechnica",
-      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-      "summary": "Project Helix is set to open the closed-console ecosystem, but the details will matter.",
-      "link": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-      "published": "Thu, 05 Mar 2026 21:39:43 +0000",
-      "keywords": [
-        "AI",
-        "Microsoft"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.096527"
-    },
-    {
-      "source": "arstechnica",
-      "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
-      "summary": "The startling claim came amid a lawsuit from the American Academy of Pediatrics.",
-      "link": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
-      "published": "Thu, 05 Mar 2026 21:29:30 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.096558"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Amazon appears to be down, with over 20,000 reported problems",
-      "summary": "Problems viewing products and checking out.",
-      "link": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
-      "published": "Thu, 05 Mar 2026 21:06:05 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
+        "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-06T12:31:02.096582"
+      "crawled_at": "2026-03-06T18:30:11.461762"
     },
     {
       "source": "arstechnica",
-      "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
-      "summary": "Updates come amid user blowback over the company's Pentagon deal.",
-      "link": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
-      "published": "Thu, 05 Mar 2026 20:55:25 +0000",
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "summary": "Announcements this week were mostly business as usual, but Apple isn't immune.",
+      "link": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "published": "Fri, 06 Mar 2026 15:41:23 +0000",
       "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.096603"
-    },
-    {
-      "source": "wired",
-      "title": "These 2 Apps Help Me Make Sense of My 100K Screenshots",
-      "summary": "The shameful pile of screenshots on my phone was as useless as it was disorganized. Rodeo and Swipewipe are helping to change that.",
-      "link": "https://www.wired.com/story/rodeo-swipewipe-declutter-screenshots/",
-      "published": "Fri, 06 Mar 2026 12:01:00 +0000",
-      "keywords": [
-        "AR"
+        "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-06T12:31:02.241924"
+      "crawled_at": "2026-03-06T18:30:11.461789"
     },
     {
-      "source": "wired",
-      "title": "7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-      "summary": "Laptop docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-      "published": "Fri, 06 Mar 2026 11:39:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-06T12:31:02.241974"
-    },
-    {
-      "source": "wired",
-      "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
-      "summary": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel, Russia, and Ukraine have also adopted this trick.",
-      "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
-      "published": "Fri, 06 Mar 2026 11:30:00 +0000",
+      "source": "arstechnica",
+      "title": "With Gateway likely gone, where will lunar landers rendezvous with Orion?",
+      "summary": "\"We will challenge every requirement, clear every obstacle, delete every blocker.\"",
+      "link": "https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/",
+      "published": "Fri, 06 Mar 2026 15:20:37 +0000",
       "keywords": [
-        "AI",
-        "Security",
-        "Hack",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.242012"
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T18:30:11.461816"
     },
     {
       "source": "wired",
-      "title": "Why Is Alexa+ So Bad?",
-      "summary": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-      "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
-      "published": "Fri, 06 Mar 2026 11:00:00 +0000",
+      "title": "These Beats Headphones We Like Are $150 Off",
+      "summary": "Save a chunk of change on the Beats Studio Pro over-ear headphones.",
+      "link": "https://www.wired.com/story/beats-studio-pro-deal-326/",
+      "published": "Fri, 06 Mar 2026 18:21:05 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T18:30:11.586191"
+    },
+    {
+      "source": "wired",
+      "title": "When AI Companies Go to War, Safety Gets Left Behind",
+      "summary": "We were promised AI regulation and a race to the top. Now, we’re arguing about killer robots.",
+      "link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
+      "published": "Fri, 06 Mar 2026 18:19:57 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Amazon"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.242037"
+      "crawled_at": "2026-03-06T18:30:11.586228"
     },
     {
       "source": "wired",
-      "title": "Posture Correctors That Will Straighten You Out (2026)",
-      "summary": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
-      "link": "https://www.wired.com/gallery/posture-correctors/",
-      "published": "Fri, 06 Mar 2026 10:30:00 +0000",
+      "title": "9 Best Android Phones of 2026, Tested and Reviewed",
+      "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+      "link": "https://www.wired.com/gallery/best-android-phones/",
+      "published": "Fri, 06 Mar 2026 18:00:00 +0000",
       "keywords": [
-        "AI"
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-06T18:30:11.586283"
+    },
+    {
+      "source": "wired",
+      "title": "11 Best USB Flash Drives (2026): Pen Drives, Thumb Drives, Memory Sticks",
+      "summary": "These WIRED-tested memory sticks are a virtual filing cabinet in your pocket.",
+      "link": "https://www.wired.com/gallery/best-usb-flash-drives/",
+      "published": "Fri, 06 Mar 2026 14:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-06T18:30:11.586312"
+    },
+    {
+      "source": "wired",
+      "title": "Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review",
+      "summary": "Is it worth using motorsports materials in a gaming mouse? As long as it’s the same price as plastic.",
+      "link": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+      "published": "Fri, 06 Mar 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR",
+        "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-06T12:31:02.242065"
+      "crawled_at": "2026-03-06T18:30:11.586339"
     }
   ]
 }
