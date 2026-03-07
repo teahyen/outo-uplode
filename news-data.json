@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T06:25:41.969628",
+  "last_updated": "2026-03-07T12:24:32.241019",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.331309"
+      "crawled_at": "2026-03-07T12:24:29.229774"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.331358"
+      "crawled_at": "2026-03-07T12:24:29.229813"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-07T06:25:41.331397"
+      "crawled_at": "2026-03-07T12:24:29.229843"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
       "published": "Fri, 06 Mar 2026 21:56:35 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.331430"
+      "crawled_at": "2026-03-07T12:24:29.229867"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.331458"
+      "crawled_at": "2026-03-07T12:24:29.229889"
+    },
+    {
+      "source": "theverge",
+      "title": "The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost",
+      "summary": "When Elon Musk burst onto the scene in his little Tesla Roadster, it seemed a matter of time before electricity rendered gas-powered sports cars obsolete. It hasn't worked out that way. Automakers have struggled to bring purely electric two-seaters to market. The ones that managed to emerge have bee",
+      "link": "https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance",
+      "published": "2026-03-07T07:00:00-05:00",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-07T12:24:29.419281"
     },
     {
       "source": "theverge",
@@ -76,7 +89,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-07T06:25:41.492750"
+      "crawled_at": "2026-03-07T12:24:29.419328"
     },
     {
       "source": "theverge",
@@ -88,7 +101,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-03-07T06:25:41.492803"
+      "crawled_at": "2026-03-07T12:24:29.419370"
     },
     {
       "source": "theverge",
@@ -101,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.492850"
+      "crawled_at": "2026-03-07T12:24:29.419403"
     },
     {
       "source": "theverge",
@@ -114,85 +127,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.492898"
-    },
-    {
-      "source": "theverge",
-      "title": "The Trump administration says it can’t process tariff refunds because of computer problems",
-      "summary": "The US Customs and Border Protection says it currently can't comply with an order to process billions of dollars in refunds stemming from tariffs imposed by President Donald Trump. In a filing on Friday, CBP executive director Brandon Lord says the agency's digital import processing system is \"not w",
-      "link": "https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues",
-      "published": "2026-03-06T15:17:08-05:00",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.492961"
+      "crawled_at": "2026-03-07T12:24:29.419449"
     },
     {
       "source": "hackernews",
-      "title": "Why New Zealand is seeing an exodus of over-30s",
-      "summary": "Article URL: https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst\nComments URL: https://news.ycombinator.com/item?id=47284916\nPoints: 4\n# Comments: 1",
-      "link": "https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst",
-      "published": "Sat, 07 Mar 2026 05:59:10 +0000",
+      "title": "Ki Editor - an editor that operates on the AST",
+      "summary": "Article URL: https://ki-editor.org/\nComments URL: https://news.ycombinator.com/item?id=47286311\nPoints: 22\n# Comments: 6",
+      "link": "https://ki-editor.org/",
+      "published": "Sat, 07 Mar 2026 10:29:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.675017"
+      "crawled_at": "2026-03-07T12:24:31.995908"
     },
     {
       "source": "hackernews",
-      "title": "Can a wealthy family change the course of a deadly brain disease?",
-      "summary": "Article URL: https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease\nComments URL: https://news.ycombinator.com/item?id=47284061\nPoints: 33\n# Comments: 17",
-      "link": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-      "published": "Sat, 07 Mar 2026 03:06:58 +0000",
+      "title": "Boy I was wrong about the Fediverse",
+      "summary": "Article URL: https://matduggan.com/boy-i-was-wrong-about-the-fediverse/\nComments URL: https://news.ycombinator.com/item?id=47286082\nPoints: 13\n# Comments: 4",
+      "link": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/",
+      "published": "Sat, 07 Mar 2026 09:45:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-07T12:24:31.995950"
+    },
+    {
+      "source": "hackernews",
+      "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+      "summary": "Article URL: https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/\nComments URL: https://news.ycombinator.com/item?id=47285960\nPoints: 72\n# Comments: 36",
+      "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+      "published": "Sat, 07 Mar 2026 09:18:40 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-07T12:24:31.995982"
+    },
+    {
+      "source": "hackernews",
+      "title": "QGIS 4.0",
+      "summary": "Article URL: https://changelog.qgis.org/en/version/4.0/\nComments URL: https://news.ycombinator.com/item?id=47285846\nPoints: 88\n# Comments: 11",
+      "link": "https://changelog.qgis.org/en/version/4.0/",
+      "published": "Sat, 07 Mar 2026 08:53:47 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-07T12:24:31.996012"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sarvam 105B, the first competitive Indian open source LLM",
+      "summary": "Article URL: https://www.sarvam.ai/blogs/sarvam-30b-105b\nComments URL: https://news.ycombinator.com/item?id=47285422\nPoints: 75\n# Comments: 15",
+      "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+      "published": "Sat, 07 Mar 2026 07:43:57 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.675055"
-    },
-    {
-      "source": "hackernews",
-      "title": "UUID package coming to Go standard library",
-      "summary": "Article URL: https://github.com/golang/go/issues/62026\nComments URL: https://news.ycombinator.com/item?id=47283665\nPoints: 99\n# Comments: 39",
-      "link": "https://github.com/golang/go/issues/62026",
-      "published": "Sat, 07 Mar 2026 02:03:21 +0000",
-      "keywords": [
-        "Go",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.675090"
-    },
-    {
-      "source": "hackernews",
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "summary": "Article URL: https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code\nComments URL: https://news.ycombinator.com/item?id=47283337\nPoints: 142\n# Comments: 102",
-      "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-      "published": "Sat, 07 Mar 2026 01:17:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.675121"
-    },
-    {
-      "source": "hackernews",
-      "title": "Game about Data of America",
-      "summary": "Article URL: https://americaindata.com/\nComments URL: https://news.ycombinator.com/item?id=47282980\nPoints: 11\n# Comments: 1",
-      "link": "https://americaindata.com/",
-      "published": "Sat, 07 Mar 2026 00:28:56 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.675145"
+      "crawled_at": "2026-03-07T12:24:31.996038"
     },
     {
       "source": "arstechnica",
@@ -202,7 +200,7 @@
       "published": "Fri, 06 Mar 2026 23:40:35 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.826699"
+      "crawled_at": "2026-03-07T12:24:32.126434"
     },
     {
       "source": "arstechnica",
@@ -214,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.826738"
+      "crawled_at": "2026-03-07T12:24:32.126470"
     },
     {
       "source": "arstechnica",
@@ -224,7 +222,7 @@
       "published": "Fri, 06 Mar 2026 22:03:10 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.826768"
+      "crawled_at": "2026-03-07T12:24:32.126498"
     },
     {
       "source": "arstechnica",
@@ -238,7 +236,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.826798"
+      "crawled_at": "2026-03-07T12:24:32.126528"
     },
     {
       "source": "arstechnica",
@@ -251,72 +249,69 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-07T06:25:41.826823"
+      "crawled_at": "2026-03-07T12:24:32.126553"
     },
     {
       "source": "wired",
-      "title": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
-      "summary": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
-      "link": "https://www.wired.com/story/deveillance-spectre-i/",
-      "published": "Fri, 06 Mar 2026 23:45:14 +0000",
+      "title": "The Best MIDI Controllers for Synths, Guitars, and More (2026)",
+      "summary": "Want to digitally control your favorite instruments? These tools will help.",
+      "link": "https://www.wired.com/gallery/best-midi-controllers/",
+      "published": "Sat, 07 Mar 2026 12:00:00 +0000",
       "keywords": [
-        "AI",
+        "Git",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.969392"
+      "category": "Tech News",
+      "crawled_at": "2026-03-07T12:24:32.240814"
     },
     {
       "source": "wired",
-      "title": "Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan",
-      "summary": "Marley Spoon has stripped Martha Stewart from its website and seems to be cooking a little differently. Here’s a review.",
-      "link": "https://www.wired.com/review/marley-spoon-meal-kit-2026/",
-      "published": "Fri, 06 Mar 2026 22:41:10 +0000",
+      "title": "Best Mid Layer for Hiking, Backpacking, and Travel (2026)",
+      "summary": "Should you get a high-tech jacket like a grid fleece, or stick with tried and true merino wool? We found the warmest, lightest mid layers for your next adventure.",
+      "link": "https://www.wired.com/gallery/best-mid-layers/",
+      "published": "Sat, 07 Mar 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.969438"
+      "crawled_at": "2026-03-07T12:24:32.240853"
     },
     {
       "source": "wired",
-      "title": "72 'Buy It for Life' Products: Cast-Iron, Tools, Speakers, Chairs, and More",
-      "summary": "From cast-iron pans to mechanical watches, we’ve rounded up products that are made to last for decades.",
-      "link": "https://www.wired.com/story/buy-it-for-life/",
-      "published": "Fri, 06 Mar 2026 21:27:19 +0000",
+      "title": "CBP Used Online Ad Data to Track Phone Locations",
+      "summary": "Plus: Proton helped the FBI identify a protester, the Leakbase cybercrime forum was busted in an international operation, and more.",
+      "link": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/",
+      "published": "Sat, 07 Mar 2026 11:30:00 +0000",
+      "keywords": [],
+      "category": "Security",
+      "crawled_at": "2026-03-07T12:24:32.240881"
+    },
+    {
+      "source": "wired",
+      "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
+      "summary": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
+      "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
+      "published": "Sat, 07 Mar 2026 11:00:00 +0000",
       "keywords": [
         "AI",
+        "IoT",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.969466"
+      "crawled_at": "2026-03-07T12:24:32.240917"
     },
     {
       "source": "wired",
-      "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
-      "summary": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
-      "link": "https://www.wired.com/story/best-google-pixel-phone/",
-      "published": "Fri, 06 Mar 2026 20:17:02 +0000",
+      "title": "How to Avoid Getting Locked Out of Your Google Account",
+      "summary": "Make a recovery plan now to avoid losing access to your account in the future.",
+      "link": "https://www.wired.com/story/how-to-avoid-getting-locked-out-of-your-google-account/",
+      "published": "Sat, 07 Mar 2026 10:00:00 +0000",
       "keywords": [
         "Go",
-        "Google",
-        "AR"
+        "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-07T06:25:41.969501"
-    },
-    {
-      "source": "wired",
-      "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-      "summary": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-      "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-      "published": "Fri, 06 Mar 2026 20:06:06 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-07T06:25:41.969531"
+      "crawled_at": "2026-03-07T12:24:32.240943"
     }
   ]
 }
