@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-03-08T01:09:24.516642",
+  "last_updated": "2026-03-08T06:29:55.923678",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "A roadmap for AI, if anyone will listen",
+      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "published": "Sun, 08 Mar 2026 06:05:26 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-08T06:29:55.326427"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Push for $40 smartphones builds momentum, but still faces cost hurdles",
+      "summary": "A coalition of telecom operators and device makers is pushing $40 smartphones to bring up to 20 million people online, but rising component costs threaten the plan.",
+      "link": "https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/",
+      "published": "Sun, 08 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-08T06:29:55.326474"
+    },
     {
       "source": "techcrunch",
       "title": "Google just gave Sundar Pichai a $692M pay package",
@@ -15,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:22.523632"
+      "crawled_at": "2026-03-08T06:29:55.326501"
     },
     {
       "source": "techcrunch",
@@ -27,7 +54,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:22.523690"
+      "crawled_at": "2026-03-08T06:29:55.326544"
     },
     {
       "source": "techcrunch",
@@ -42,34 +69,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:22.523730"
-    },
-    {
-      "source": "techcrunch",
-      "title": "PopSockets founder David Barnett talks about building a viral business",
-      "summary": "David Barnett, founder of PopSocket, stops by Equity to talk about scaling the business and what he's learned as a leader.",
-      "link": "https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/",
-      "published": "Sat, 07 Mar 2026 18:40:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:22.523762"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-      "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "published": "Sat, 07 Mar 2026 17:28:41 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:22.523791"
+      "crawled_at": "2026-03-08T06:29:55.326579"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-08T01:09:22.673733"
+      "crawled_at": "2026-03-08T06:29:55.445783"
     },
     {
       "source": "theverge",
@@ -97,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:22.673790"
+      "crawled_at": "2026-03-08T06:29:55.445839"
     },
     {
       "source": "theverge",
@@ -109,7 +109,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:22.673835"
+      "crawled_at": "2026-03-08T06:29:55.445883"
     },
     {
       "source": "theverge",
@@ -119,7 +119,7 @@
       "published": "2026-03-07T09:00:00-05:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:22.673879"
+      "crawled_at": "2026-03-08T06:29:55.445940"
     },
     {
       "source": "theverge",
@@ -132,64 +132,67 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:22.673912"
+      "crawled_at": "2026-03-08T06:29:55.445973"
     },
     {
       "source": "hackernews",
-      "title": "Ghostmd: Ghostty but for Markdown Notes",
-      "summary": "Article URL: https://mimoo.github.io/ghostmd/\nComments URL: https://news.ycombinator.com/item?id=47292841\nPoints: 10\n# Comments: 7",
-      "link": "https://mimoo.github.io/ghostmd/",
-      "published": "Sun, 08 Mar 2026 00:07:49 +0000",
+      "title": "MonoGame: A .NET framework for making cross-platform games",
+      "summary": "Article URL: https://github.com/MonoGame/MonoGame\nComments URL: https://news.ycombinator.com/item?id=47293682\nPoints: 40\n# Comments: 15",
+      "link": "https://github.com/MonoGame/MonoGame",
+      "published": "Sun, 08 Mar 2026 02:16:02 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.224642"
+      "crawled_at": "2026-03-08T06:29:55.626336"
     },
     {
       "source": "hackernews",
-      "title": "Why developers using AI are working longer hours",
-      "summary": "Article URL: https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/\nComments URL: https://news.ycombinator.com/item?id=47292574\nPoints: 33\n# Comments: 20",
-      "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
-      "published": "Sat, 07 Mar 2026 23:39:04 +0000",
+      "title": "\"Warn about PyPy being unmaintained\"",
+      "summary": "Article URL: https://github.com/astral-sh/uv/pull/17643\nComments URL: https://news.ycombinator.com/item?id=47293415\nPoints: 73\n# Comments: 17",
+      "link": "https://github.com/astral-sh/uv/pull/17643",
+      "published": "Sun, 08 Mar 2026 01:35:21 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-08T06:29:55.626368"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloud VM benchmarks 2026",
+      "summary": "Article URL: https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html\nComments URL: https://news.ycombinator.com/item?id=47293119\nPoints: 151\n# Comments: 75",
+      "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "published": "Sun, 08 Mar 2026 00:44:32 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-08T06:29:55.626398"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to run Qwen 3.5 locally",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.5\nComments URL: https://news.ycombinator.com/item?id=47292522\nPoints: 35\n# Comments: 8",
+      "link": "https://unsloth.ai/docs/models/qwen3.5",
+      "published": "Sat, 07 Mar 2026 23:32:17 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:24.224681"
-    },
-    {
-      "source": "hackernews",
-      "title": "Put the zip code first",
-      "summary": "Article URL: https://zipcodefirst.com\nComments URL: https://news.ycombinator.com/item?id=47292485\nPoints: 186\n# Comments: 144",
-      "link": "https://zipcodefirst.com",
-      "published": "Sat, 07 Mar 2026 23:26:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-08T01:09:24.224708"
-    },
-    {
-      "source": "hackernews",
-      "title": "I resigned from OpenAI",
-      "summary": "https://xcancel.com/kalinowski007/status/2030320074121478618\n\nComments URL: https://news.ycombinator.com/item?id=47292381\nPoints: 79\n# Comments: 38",
-      "link": "https://twitter.com/kalinowski007/status/2030320074121478618",
-      "published": "Sat, 07 Mar 2026 23:09:51 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:24.224733"
+      "crawled_at": "2026-03-08T06:29:55.626422"
     },
     {
       "source": "hackernews",
       "title": "Lisp-style C++ template meta programming",
-      "summary": "Article URL: https://github.com/mistivia/lmp\nComments URL: https://news.ycombinator.com/item?id=47292029\nPoints: 11\n# Comments: 0",
+      "summary": "Article URL: https://github.com/mistivia/lmp\nComments URL: https://news.ycombinator.com/item?id=47292029\nPoints: 37\n# Comments: 3",
       "link": "https://github.com/mistivia/lmp",
       "published": "Sat, 07 Mar 2026 22:21:57 +0000",
       "keywords": [
@@ -199,7 +202,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-08T01:09:24.224758"
+      "crawled_at": "2026-03-08T06:29:55.626448"
     },
     {
       "source": "arstechnica",
@@ -211,7 +214,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.369957"
+      "crawled_at": "2026-03-08T06:29:55.823853"
     },
     {
       "source": "arstechnica",
@@ -224,7 +227,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-08T01:09:24.369987"
+      "crawled_at": "2026-03-08T06:29:55.823884"
     },
     {
       "source": "arstechnica",
@@ -239,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-08T01:09:24.370010"
+      "crawled_at": "2026-03-08T06:29:55.823923"
     },
     {
       "source": "arstechnica",
@@ -249,7 +252,7 @@
       "published": "Fri, 06 Mar 2026 23:40:35 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.370039"
+      "crawled_at": "2026-03-08T06:29:55.823950"
     },
     {
       "source": "arstechnica",
@@ -261,7 +264,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.370069"
+      "crawled_at": "2026-03-08T06:29:55.823981"
     },
     {
       "source": "wired",
@@ -274,7 +277,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.516351"
+      "crawled_at": "2026-03-08T06:29:55.923452"
     },
     {
       "source": "wired",
@@ -286,7 +289,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.516406"
+      "crawled_at": "2026-03-08T06:29:55.923509"
     },
     {
       "source": "wired",
@@ -299,7 +302,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.516458"
+      "crawled_at": "2026-03-08T06:29:55.923538"
     },
     {
       "source": "wired",
@@ -311,7 +314,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-08T01:09:24.516494"
+      "crawled_at": "2026-03-08T06:29:55.923570"
     },
     {
       "source": "wired",
@@ -321,7 +324,7 @@
       "published": "Sat, 07 Mar 2026 11:30:00 +0000",
       "keywords": [],
       "category": "Security",
-      "crawled_at": "2026-03-08T01:09:24.516522"
+      "crawled_at": "2026-03-08T06:29:55.923597"
     }
   ]
 }
