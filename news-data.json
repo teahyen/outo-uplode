@@ -1,11 +1,68 @@
 {
-  "last_updated": "2026-03-10T01:04:06.208177",
+  "last_updated": "2026-03-10T06:35:29.420459",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Founders Fund nears $6 billion close for latest growth fund, sources say",
-      "summary": "The firm is raising this growth fund less than a year after closing its previous $4.6 billion vehicle.",
+      "title": "Apple now makes one in four iPhones in India: report",
+      "summary": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+      "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+      "published": "Tue, 10 Mar 2026 06:04:43 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:28.848049"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+      "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "published": "Tue, 10 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:28.848094"
+    },
+    {
+      "source": "techcrunch",
+      "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+      "summary": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor said some of those hacking tools were theirs.",
+      "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+      "published": "Tue, 10 Mar 2026 01:56:01 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Hack",
+        "Google",
+        "iPhone"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:28.848129"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+      "summary": "Archer's countersuit comes four months after Joby sued its rival for alleged 'corporate espionage.'",
+      "link": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+      "published": "Tue, 10 Mar 2026 01:41:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:28.848159"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Founders Fund nears $6B close for latest growth fund, sources say",
+      "summary": "The fresh fundraise comes less than a year after Founders Fund closed its third growth fund, a $4.6 billion vehicle intended primarily for follow-on investments in its successful late-stage companies.",
       "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
       "published": "Tue, 10 Mar 2026 01:03:48 +0000",
       "keywords": [
@@ -13,63 +70,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.230163"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Electric air taxis are about to take flight in 26 states",
-      "summary": "The federal government has selected eight proposals to test electric aircraft across 26 states.",
-      "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
-      "published": "Mon, 09 Mar 2026 22:30:35 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.230195"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-      "published": "Mon, 09 Mar 2026 21:15:17 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.230235"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic launches code review tool to check flood of AI-generated code",
-      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-      "published": "Mon, 09 Mar 2026 19:41:34 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.230266"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Bluesky CEO Jay Graber steps down",
-      "summary": "Graber explained that, as a more mature company, Bluesky needs a \"seasoned operator focused on scaling and execution.\" Graber said she feels better suited to building Bluesky's technology itself.",
-      "link": "https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/",
-      "published": "Mon, 09 Mar 2026 19:32:05 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.230292"
+      "crawled_at": "2026-03-10T06:35:28.848187"
     },
     {
       "source": "theverge",
@@ -83,7 +84,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-10T01:04:05.364296"
+      "crawled_at": "2026-03-10T06:35:28.959567"
     },
     {
       "source": "theverge",
@@ -98,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.364356"
+      "crawled_at": "2026-03-10T06:35:28.959630"
     },
     {
       "source": "theverge",
@@ -112,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.364390"
+      "crawled_at": "2026-03-10T06:35:28.959666"
     },
     {
       "source": "theverge",
@@ -128,7 +129,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.364432"
+      "crawled_at": "2026-03-10T06:35:28.959712"
     },
     {
       "source": "theverge",
@@ -142,73 +143,74 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:05.364475"
+      "crawled_at": "2026-03-10T06:35:28.959759"
     },
     {
       "source": "hackernews",
-      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
-      "summary": "Article URL: https://scottaaronson.blog/?p=9615\nComments URL: https://news.ycombinator.com/item?id=47317739\nPoints: 6\n# Comments: 1",
-      "link": "https://scottaaronson.blog/?p=9615",
-      "published": "Tue, 10 Mar 2026 00:35:19 +0000",
+      "title": "Claude Code, Claude Cowork and Codex #5",
+      "summary": "Article URL: https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/\nComments URL: https://news.ycombinator.com/item?id=47319294\nPoints: 3\n# Comments: 0",
+      "link": "https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/",
+      "published": "Tue, 10 Mar 2026 05:12:54 +0000",
       "keywords": [
-        "Go",
+        "Claude",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:05.855661"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:29.184075"
     },
     {
       "source": "hackernews",
-      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
-      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years\nComments URL: https://news.ycombinator.com/item?id=47317616\nPoints: 12\n# Comments: 0",
-      "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "published": "Tue, 10 Mar 2026 00:16:44 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:05.855707"
-    },
-    {
-      "source": "hackernews",
-      "title": "Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war",
-      "summary": "Article URL: https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/\nComments URL: https://news.ycombinator.com/item?id=47317587\nPoints: 19\n# Comments: 8",
-      "link": "https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/",
-      "published": "Tue, 10 Mar 2026 00:11:48 +0000",
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "summary": "Article URL: https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de\nComments URL: https://news.ycombinator.com/item?id=47319273\nPoints: 14\n# Comments: 1",
+      "link": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+      "published": "Tue, 10 Mar 2026 05:07:59 +0000",
       "keywords": [
         "AI",
         "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:05.855743"
+      "crawled_at": "2026-03-10T06:35:29.184113"
     },
     {
       "source": "hackernews",
-      "title": "Rendezvous with Rama",
-      "summary": "Article URL: https://blog.engora.com/2026/03/rendezvous-with-rama.html\nComments URL: https://news.ycombinator.com/item?id=47315869\nPoints: 85\n# Comments: 91",
-      "link": "https://blog.engora.com/2026/03/rendezvous-with-rama.html",
-      "published": "Mon, 09 Mar 2026 21:34:45 +0000",
+      "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
+      "summary": "Hey HN, I made a site where you can draw on street-level panoramas. Your drawings persist and other people can see them in real time.Strokes get projected onto the 3D panorama so they wrap around buildings and follow the geometry, not just a flat overlay. Uses WebGL2 for rendering, Mapillary for the",
+      "link": "https://washere.live",
+      "published": "Tue, 10 Mar 2026 05:04:23 +0000",
       "keywords": [
-        "Go",
+        "API",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:05.855774"
+      "crawled_at": "2026-03-10T06:35:29.184196"
     },
     {
       "source": "hackernews",
-      "title": "So you want to write an “app” (2025)",
-      "summary": "Article URL: https://arcanenibble.github.io/so-you-want-to-write-an-app.html\nComments URL: https://news.ycombinator.com/item?id=47315341\nPoints: 43\n# Comments: 16",
-      "link": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
-      "published": "Mon, 09 Mar 2026 20:50:59 +0000",
+      "title": "Windows: Microsoft broke the only thing that mattered",
+      "summary": "Article URL: https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/\nComments URL: https://news.ycombinator.com/item?id=47319179\nPoints: 48\n# Comments: 26",
+      "link": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
+      "published": "Tue, 10 Mar 2026 04:48:52 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "Microsoft",
+        "Windows",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-10T01:04:05.855830"
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T06:35:29.184252"
+    },
+    {
+      "source": "hackernews",
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "summary": "Article URL: https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/\nComments URL: https://news.ycombinator.com/item?id=47318421\nPoints: 92\n# Comments: 50",
+      "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+      "published": "Tue, 10 Mar 2026 02:24:52 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:29.184283"
     },
     {
       "source": "arstechnica",
@@ -221,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:06.019466"
+      "crawled_at": "2026-03-10T06:35:29.347683"
     },
     {
       "source": "arstechnica",
@@ -233,7 +235,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:06.019497"
+      "crawled_at": "2026-03-10T06:35:29.347716"
     },
     {
       "source": "arstechnica",
@@ -246,7 +248,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-10T01:04:06.019525"
+      "crawled_at": "2026-03-10T06:35:29.347745"
     },
     {
       "source": "arstechnica",
@@ -258,7 +260,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-10T01:04:06.019553"
+      "crawled_at": "2026-03-10T06:35:29.347775"
     },
     {
       "source": "arstechnica",
@@ -268,7 +270,22 @@
       "published": "Mon, 09 Mar 2026 18:58:03 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:06.019580"
+      "crawled_at": "2026-03-10T06:35:29.347803"
+    },
+    {
+      "source": "wired",
+      "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
+      "summary": "Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
+      "link": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+      "published": "Tue, 10 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T06:35:29.420209"
     },
     {
       "source": "wired",
@@ -281,7 +298,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:06.207944"
+      "crawled_at": "2026-03-10T06:35:29.420263"
     },
     {
       "source": "wired",
@@ -294,7 +311,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:06.208001"
+      "crawled_at": "2026-03-10T06:35:29.420310"
     },
     {
       "source": "wired",
@@ -310,7 +327,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:06.208029"
+      "crawled_at": "2026-03-10T06:35:29.420338"
     },
     {
       "source": "wired",
@@ -326,20 +343,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-10T01:04:06.208055"
-    },
-    {
-      "source": "wired",
-      "title": "Bluesky CEO Jay Graber Is Stepping Down",
-      "summary": "Venture capitalist Toni Schneider will take over as interim CEO as Bluesky’s board of directors hunts for a permanent replacement.",
-      "link": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/",
-      "published": "Mon, 09 Mar 2026 19:00:00 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-10T01:04:06.208090"
+      "crawled_at": "2026-03-10T06:35:29.420363"
     }
   ]
 }
