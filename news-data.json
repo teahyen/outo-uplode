@@ -1,336 +1,345 @@
 {
-  "last_updated": "2026-03-09T18:37:12.695469",
+  "last_updated": "2026-03-10T01:04:06.208177",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier",
-      "summary": "Periwinkle offers managed hosting for AT Protocol users who want social media accounts on their own domains, with backups, storage, and migration tools.",
-      "link": "https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/",
-      "published": "Mon, 09 Mar 2026 18:18:25 +0000",
+      "title": "Founders Fund nears $6 billion close for latest growth fund, sources say",
+      "summary": "The firm is raising this growth fund less than a year after closing its previous $4.6 billion vehicle.",
+      "link": "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/",
+      "published": "Tue, 10 Mar 2026 01:03:48 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.059811"
+      "crawled_at": "2026-03-10T01:04:05.230163"
     },
     {
       "source": "techcrunch",
-      "title": "OpenAI acquires Promptfoo to secure its AI agents",
-      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-      "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-      "published": "Mon, 09 Mar 2026 17:49:04 +0000",
+      "title": "Electric air taxis are about to take flight in 26 states",
+      "summary": "The federal government has selected eight proposals to test electric aircraft across 26 states.",
+      "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
+      "published": "Mon, 09 Mar 2026 22:30:35 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T01:04:05.230195"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+      "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+      "published": "Mon, 09 Mar 2026 21:15:17 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "AR"
+        "Anthropic",
+        "Go",
+        "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.059852"
+      "crawled_at": "2026-03-10T01:04:05.230235"
     },
     {
       "source": "techcrunch",
-      "title": "GM figured out how to navigate EV uncertainty with the Chevy Bolt",
-      "summary": "The 2027 Chevy Bolt might not be a groundbreaking new EV, but incremental improvements have made it better without inflating the price.",
-      "link": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
-      "published": "Mon, 09 Mar 2026 17:29:58 +0000",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+      "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "published": "Mon, 09 Mar 2026 19:41:34 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T01:04:05.230266"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Bluesky CEO Jay Graber steps down",
+      "summary": "Graber explained that, as a more mature company, Bluesky needs a \"seasoned operator focused on scaling and execution.\" Graber said she feels better suited to building Bluesky's technology itself.",
+      "link": "https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/",
+      "published": "Mon, 09 Mar 2026 19:32:05 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.059900"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic sues Defense Department over supply chain risk designation",
-      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "published": "Mon, 09 Mar 2026 17:25:40 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.059932"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Slate Auto changes CEO months ahead of affordable EV launch",
-      "summary": "Former Amazon Marketplace vice president Peter Faricy is the new person in charge of the company.",
-      "link": "https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/",
-      "published": "Mon, 09 Mar 2026 16:14:30 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.059967"
+      "crawled_at": "2026-03-10T01:04:05.230292"
     },
     {
       "source": "theverge",
-      "title": "Google’s latest Pixel Watches have fallen to their lowest prices ever",
-      "summary": "With longer days and warmer weather on the way, it’s a good time to take your gym routine outside. Luckily, Google’s Pixel Watch 4 can help you track all your outdoor fitness activities, and right now it’s on sale at Amazon, Best Buy, and Target starting at $289.99 ($60 off), a new low price. The [&",
-      "link": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
-      "published": "2026-03-09T12:45:58-04:00",
+      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
+      "summary": "The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on the shelf until this fall. Leaker Kosutami posted as much on X last week, and today, Bloomberg reporter Mark Gurman follow",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
+      "published": "2026-03-09T18:26:50-04:00",
       "keywords": [
-        "Go",
-        "Google",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.182329"
-    },
-    {
-      "source": "theverge",
-      "title": "Anthropic is suing the Department of Defense",
-      "summary": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally pu",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
-      "published": "2026-03-09T12:37:42-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.182375"
-    },
-    {
-      "source": "theverge",
-      "title": "Battlefield 6 teams hit with layoffs despite ‘biggest launch in franchise history’",
-      "summary": "Even a record-breaking launch can't seem to save developers from layoffs. According to a report from IGN, the various teams behind Battlefield 6 have been hit with an unspecified number of layoffs; that includes staff at EA studios Criterion, Dice, Ripple Effect, and Motive, all of which contributed",
-      "link": "https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea",
-      "published": "2026-03-09T12:28:53-04:00",
-      "keywords": [
+        "Apple",
         "iOS",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-09T18:37:12.182424"
+      "category": "Mobile",
+      "crawled_at": "2026-03-10T01:04:05.364296"
     },
     {
       "source": "theverge",
-      "title": "Live Nation settles government antitrust suit — that probably doesn’t include a breakup",
-      "summary": "On Monday, Live Nation-Ticketmaster agreed to settle a federal antitrust lawsuit with the Department of Justice. Eight states so far have indicated they plan to join the settlement, a district attorney said in court, and four others remain unclear on their status. The case alleged that it illegally ",
-      "link": "https://www.theverge.com/policy/891379/live-nation-antitrust-settlement-ticketmaster",
-      "published": "2026-03-09T12:13:26-04:00",
+      "title": "The government shutdown is hitting airports — but not ICE",
+      "summary": "Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines thanks to staffing shortages. Transportation Security Administration (TSA) and Coast Guard workers have turned to food banks for assistance after weeks without pay. ",
+      "link": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+      "published": "2026-03-09T17:52:29-04:00",
       "keywords": [
         "AI",
-        "Rust",
         "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-10T01:04:05.364356"
+    },
+    {
+      "source": "theverge",
+      "title": "Everything from the last week of everything is gambling now",
+      "summary": "Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for wagers regarding when Iranian Supreme Leader Ayatollah &#8203;Ali Khamenei would leave or be removed from office. Khamenei was killed in strikes on Iran last mo",
+      "link": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
+      "published": "2026-03-09T17:18:26-04:00",
+      "keywords": [
+        "AI",
         "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.182467"
+      "crawled_at": "2026-03-10T01:04:05.364390"
     },
     {
       "source": "theverge",
-      "title": "Donut Lab says latest test proves its solid-state battery isn’t a supercapacitor",
-      "summary": "When Donut Lab first announced its solid-state battery earlier this year, there was some speculation around whether the Finnish startup had actually produced a supercapacitor, which is a much shorter-term form of electrical storage. Supercapacitors can charge and discharge quickly, similar to Donut ",
-      "link": "https://www.theverge.com/transportation/891310/donut-lab-solid-state-battery-supercapacitor-test-result",
-      "published": "2026-03-09T12:01:39-04:00",
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+      "summary": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, de",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+      "published": "2026-03-09T16:45:24-04:00",
       "keywords": [
         "AI",
-        "Startup",
-        "AR"
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.182515"
+      "crawled_at": "2026-03-10T01:04:05.364432"
     },
     {
-      "source": "hackernews",
-      "title": "Uber is letting women avoid male drivers and riders in the US",
-      "summary": "Article URL: https://www.dexerto.com/entertainment/uber-is-letting-women-avoid-male-drivers-and-riders-in-the-us-3229899/\nComments URL: https://news.ycombinator.com/item?id=47312775\nPoints: 22\n# Comments: 6",
-      "link": "https://www.dexerto.com/entertainment/uber-is-letting-women-avoid-male-drivers-and-riders-in-the-us-3229899/",
-      "published": "Mon, 09 Mar 2026 17:59:23 +0000",
+      "source": "theverge",
+      "title": "Bluesky CEO Jay Graber will step aside",
+      "summary": "Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to go independent, but now she's leaving that role, as reported previously by Wired. While venture capitalist and former Automattic CEO Toni Schneider steps in as ",
+      "link": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
+      "published": "2026-03-09T16:24:43-04:00",
       "keywords": [
-        "AI",
+        "Go",
+        "API",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.356798"
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T01:04:05.364475"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: The Mog Programming Language",
-      "summary": "Article URL: https://moglang.org\nComments URL: https://news.ycombinator.com/item?id=47312728\nPoints: 10\n# Comments: 1",
-      "link": "https://moglang.org",
-      "published": "Mon, 09 Mar 2026 17:57:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-09T18:37:12.356853"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Government Told Courts It Could Easily Refund Tariffs. Now It Says It Can't",
-      "summary": "Article URL: https://www.techdirt.com/2026/03/09/the-government-told-courts-it-could-easily-refund-unlawful-tariffs-now-it-says-it-cant/\nComments URL: https://news.ycombinator.com/item?id=47312663\nPoints: 28\n# Comments: 5",
-      "link": "https://www.techdirt.com/2026/03/09/the-government-told-courts-it-could-easily-refund-unlawful-tariffs-now-it-says-it-cant/",
-      "published": "Mon, 09 Mar 2026 17:53:47 +0000",
+      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9615\nComments URL: https://news.ycombinator.com/item?id=47317739\nPoints: 6\n# Comments: 1",
+      "link": "https://scottaaronson.blog/?p=9615",
+      "published": "Tue, 10 Mar 2026 00:35:19 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.356942"
+      "crawled_at": "2026-03-10T01:04:05.855661"
     },
     {
       "source": "hackernews",
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "summary": "Article URL: https://fixfest.therestartproject.org/\nComments URL: https://news.ycombinator.com/item?id=47312329\nPoints: 48\n# Comments: 0",
-      "link": "https://fixfest.therestartproject.org/",
-      "published": "Mon, 09 Mar 2026 17:34:27 +0000",
+      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
+      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years\nComments URL: https://news.ycombinator.com/item?id=47317616\nPoints: 12\n# Comments: 0",
+      "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "published": "Tue, 10 Mar 2026 00:16:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T01:04:05.855707"
+    },
+    {
+      "source": "hackernews",
+      "title": "Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war",
+      "summary": "Article URL: https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/\nComments URL: https://news.ycombinator.com/item?id=47317587\nPoints: 19\n# Comments: 8",
+      "link": "https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/",
+      "published": "Tue, 10 Mar 2026 00:11:48 +0000",
       "keywords": [
         "AI",
-        "REST",
+        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.356989"
+      "crawled_at": "2026-03-10T01:04:05.855743"
     },
     {
       "source": "hackernews",
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "summary": "Article URL: https://felixturner.github.io/hex-map-wfc/article/\nComments URL: https://news.ycombinator.com/item?id=47311815\nPoints: 96\n# Comments: 16",
-      "link": "https://felixturner.github.io/hex-map-wfc/article/",
-      "published": "Mon, 09 Mar 2026 17:02:22 +0000",
+      "title": "Rendezvous with Rama",
+      "summary": "Article URL: https://blog.engora.com/2026/03/rendezvous-with-rama.html\nComments URL: https://news.ycombinator.com/item?id=47315869\nPoints: 85\n# Comments: 91",
+      "link": "https://blog.engora.com/2026/03/rendezvous-with-rama.html",
+      "published": "Mon, 09 Mar 2026 21:34:45 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T01:04:05.855774"
+    },
+    {
+      "source": "hackernews",
+      "title": "So you want to write an “app” (2025)",
+      "summary": "Article URL: https://arcanenibble.github.io/so-you-want-to-write-an-app.html\nComments URL: https://news.ycombinator.com/item?id=47315341\nPoints: 43\n# Comments: 16",
+      "link": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
+      "published": "Mon, 09 Mar 2026 20:50:59 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.357043"
+      "category": "Mobile",
+      "crawled_at": "2026-03-10T01:04:05.855830"
     },
     {
       "source": "arstechnica",
-      "title": "Don't worry, Valve still plans to launch the Steam Machine \"this year\"",
-      "summary": "What part of \"this year,\" exactly, is still anyone's guess.",
-      "link": "https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/",
-      "published": "Mon, 09 Mar 2026 16:31:12 +0000",
+      "title": "After falling far behind the rest of industry, Blue Origin creates new stock option plan",
+      "summary": "\"It's a big fat middle finger for those that thought they had something.\"",
+      "link": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
+      "published": "Mon, 09 Mar 2026 23:00:18 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T01:04:06.019466"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Quad Cortex mini amp modeler: All the power, half the size",
+      "summary": "A warehouse of guitar gear in the palm of your hand.",
+      "link": "https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/",
+      "published": "Mon, 09 Mar 2026 20:36:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.583986"
+      "crawled_at": "2026-03-10T01:04:06.019497"
     },
     {
       "source": "arstechnica",
-      "title": "2026 Australian Grand Prix: Formula 1 debuts a new style of racing",
-      "summary": "The key is understanding how to conserve energy across a lap. Oh, and be reliable.",
-      "link": "https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/",
-      "published": "Mon, 09 Mar 2026 15:50:15 +0000",
+      "title": "Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new \"performance\" cores",
+      "summary": "M5 Pro Max's \"performance\" CPU cores definitely aren't just rebranded E-cores.",
+      "link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/",
+      "published": "Mon, 09 Mar 2026 20:00:21 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-10T01:04:06.019525"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial",
+      "summary": "States seek mistrial, saying \"sudden disappearance\" of US will influence jury.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
+      "published": "Mon, 09 Mar 2026 19:51:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-10T01:04:06.019553"
+    },
+    {
+      "source": "arstechnica",
+      "title": "An unlikely set of clues helps reconstruct ancient Chinese disasters",
+      "summary": "Shang Dynasty oracle bones and modern weather models feature in the same study.",
+      "link": "https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/",
+      "published": "Mon, 09 Mar 2026 18:58:03 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.584021"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt",
-      "summary": "Faster charging, more modern infotainment, and a new LFP battery are highlights.",
-      "link": "https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/",
-      "published": "Mon, 09 Mar 2026 13:00:45 +0000",
-      "keywords": [
-        "AI",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.584044"
-    },
-    {
-      "source": "arstechnica",
-      "title": "“It doesn't feel safe”—Many international game developers plan to skip GDC in US",
-      "summary": "Stories of border issues lead to pervasive travel fears across the worldwide industry.",
-      "link": "https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/",
-      "published": "Mon, 09 Mar 2026 11:00:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-09T18:37:12.584078"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Jessica Jones joins the fray in Daredevil: Born Again trailer",
-      "summary": "\"I'm gonna take this city back.\"",
-      "link": "https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/",
-      "published": "Sun, 08 Mar 2026 13:13:03 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.584097"
+      "crawled_at": "2026-03-10T01:04:06.019580"
     },
     {
       "source": "wired",
-      "title": "Your Espresso Machine Doesn’t Have to Be Fancy to Make Good Coffee",
-      "summary": "A former barista explains why your espresso machine doesn't have to be fancy to make quality coffee.",
-      "link": "https://www.wired.com/story/casabrews-5700-espresso-machine-java-base/",
-      "published": "Mon, 09 Mar 2026 17:16:50 +0000",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "summary": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+      "link": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+      "published": "Mon, 09 Mar 2026 23:11:34 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.695228"
+      "crawled_at": "2026-03-10T01:04:06.207944"
     },
     {
       "source": "wired",
-      "title": "Our Favorite Wireless Headphones Are $60 Off",
-      "summary": "The Sony WH-1000XM6 get a noticeable markdown for a limited time.",
-      "link": "https://www.wired.com/story/sony-wh-1000xm6-deal-326/",
-      "published": "Mon, 09 Mar 2026 16:50:35 +0000",
+      "title": "‘Flying Cars’ Will Take Off in American Skies This Summer",
+      "summary": "The federal government announced a new pilot program designed to get new kinds of ultralight vehicles and “eVTOLs” up and running around the country—even if they're not fully FAA-certified.",
+      "link": "https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/",
+      "published": "Mon, 09 Mar 2026 22:39:12 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.695261"
+      "crawled_at": "2026-03-10T01:04:06.208001"
     },
     {
       "source": "wired",
-      "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
-      "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
-      "link": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
-      "published": "Mon, 09 Mar 2026 15:29:57 +0000",
+      "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+      "summary": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
+      "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+      "published": "Mon, 09 Mar 2026 20:49:29 +0000",
       "keywords": [
         "AI",
         "Anthropic",
-        "Claude",
+        "Go",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.695294"
+      "crawled_at": "2026-03-10T01:04:06.208029"
     },
     {
       "source": "wired",
-      "title": "Best Base Layers (2026): Merino Wool, Synthetic, and More",
-      "summary": "Whether you’re layering up for winter cold or looking for an ultralight summer system, I’ve tested and found the best base layers for all your outdoor adventures.",
-      "link": "https://www.wired.com/gallery/best-base-layers/",
-      "published": "Mon, 09 Mar 2026 14:00:28 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-09T18:37:12.695334"
-    },
-    {
-      "source": "wired",
-      "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-      "summary": "The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.",
-      "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
-      "published": "Mon, 09 Mar 2026 13:00:00 +0000",
+      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+      "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+      "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+      "published": "Mon, 09 Mar 2026 20:38:12 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-09T18:37:12.695364"
+      "crawled_at": "2026-03-10T01:04:06.208055"
+    },
+    {
+      "source": "wired",
+      "title": "Bluesky CEO Jay Graber Is Stepping Down",
+      "summary": "Venture capitalist Toni Schneider will take over as interim CEO as Bluesky’s board of directors hunts for a permanent replacement.",
+      "link": "https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/",
+      "published": "Mon, 09 Mar 2026 19:00:00 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-10T01:04:06.208090"
     }
   ]
 }
