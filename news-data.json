@@ -1,336 +1,338 @@
 {
-  "last_updated": "2026-03-12T12:34:23.292405",
+  "last_updated": "2026-03-12T18:38:10.176829",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
-      "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
-      "published": "Thu, 12 Mar 2026 12:30:00 +0000",
+      "title": "Substack launches a built-in recording studio",
+      "summary": "Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform.",
+      "link": "https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/",
+      "published": "Thu, 12 Mar 2026 18:24:18 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:09.653969"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+      "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+      "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+      "published": "Thu, 12 Mar 2026 18:20:33 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.654021"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+      "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+      "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+      "published": "Thu, 12 Mar 2026 18:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.654054"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+      "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+      "published": "Thu, 12 Mar 2026 17:20:19 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.654084"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Lucid Motors shows off robotaxi concept called ‘Lunar’",
+      "summary": "The concept was a highlight of Lucid's investor day, in which the company detailed its ambitions to push deeper into autonomy while pumping out new, affordable EVs.",
+      "link": "https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/",
+      "published": "Thu, 12 Mar 2026 17:19:20 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.654116"
+    },
+    {
+      "source": "theverge",
+      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when cr",
+      "link": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+      "published": "2026-03-12T13:59:32-04:00",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.731298"
+    },
+    {
+      "source": "theverge",
+      "title": "Gemini’s task automation is here and it’s wild",
+      "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or get",
+      "link": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+      "published": "2026-03-12T12:59:43-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.731350"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale",
+      "summary": "Between March Madness and the Oscars, now might be a good time to improve your TV setup. Google’s TV Streamer 4K is currently on sale for $79.99 ($20 off) at Amazon, Target, and Walmart, which is its second-best price to date and only $5 more than its all-time low. As a streaming device, it’s terrif",
+      "link": "https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale",
+      "published": "2026-03-12T12:37:34-04:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-12T18:38:09.731404"
+    },
+    {
+      "source": "theverge",
+      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an exam",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+      "published": "2026-03-12T12:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.731441"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta exec hopes VR teens will stick around",
+      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"It is a pretty rough time for the game industry.\" Meta Reality Labs director of games Chris Pruett did not mince words when he returne",
+      "link": "https://www.theverge.com/column/893526/meta-vr-games-teens",
+      "published": "2026-03-12T11:30:00-04:00",
+      "keywords": [
+        "AI",
+        "Meta",
+        "VR",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.731471"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
+      "summary": "Article URL: https://github.com/loderunner/scrt\nComments URL: https://news.ycombinator.com/item?id=47354366\nPoints: 5\n# Comments: 2",
+      "link": "https://github.com/loderunner/scrt",
+      "published": "Thu, 12 Mar 2026 17:31:47 +0000",
+      "keywords": [
+        "DevOps",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-12T18:38:09.973028"
+    },
+    {
+      "source": "hackernews",
+      "title": "Contextual commits – An open standard for capturing the why in Git history",
+      "summary": "Article URL: https://vidimitrov.substack.com/p/contextual-commits-an-open-standard\nComments URL: https://news.ycombinator.com/item?id=47354263\nPoints: 5\n# Comments: 0",
+      "link": "https://vidimitrov.substack.com/p/contextual-commits-an-open-standard",
+      "published": "Thu, 12 Mar 2026 17:25:27 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:09.973088"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bubble Sorted Amen Break",
+      "summary": "Article URL: https://parametricavocado.itch.io/amen-sorting\nComments URL: https://news.ycombinator.com/item?id=47354098\nPoints: 69\n# Comments: 30",
+      "link": "https://parametricavocado.itch.io/amen-sorting",
+      "published": "Thu, 12 Mar 2026 17:13:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:09.973122"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linux Page Faults, MMAP, and userfaultfd for fast sandbox boot times",
+      "summary": "Article URL: https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/\nComments URL: https://news.ycombinator.com/item?id=47354060\nPoints: 4\n# Comments: 0",
+      "link": "https://www.shayon.dev/post/2026/65/linux-page-faults-mmap-and-userfaultfd/",
+      "published": "Thu, 12 Mar 2026 17:10:59 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:09.973159"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/\nComments URL: https://news.ycombinator.com/item?id=47353993\nPoints: 56\n# Comments: 15",
+      "link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+      "published": "Thu, 12 Mar 2026 17:07:16 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:09.973189"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
+      "summary": "Three smaller SUVs are in development, starting at under $50,000.",
+      "link": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
+      "published": "Thu, 12 Mar 2026 17:54:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:10.076531"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
+      "summary": "Perplexity says AI access to your files is in \"secure environment with clear safeguards.\"",
+      "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+      "published": "Thu, 12 Mar 2026 17:44:18 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:10.076563"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
+      "summary": "The Inca Empire's system of roads were built on centuries-old trade routes.",
+      "link": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
+      "published": "Thu, 12 Mar 2026 16:49:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:10.076593"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+      "summary": "Neo is the first MacBook in a long time with an easily replaceable keyboard.",
+      "link": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+      "published": "Thu, 12 Mar 2026 16:03:06 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T18:38:10.076616"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Valve compares its loot boxes to Labubus in lawsuit defense",
+      "summary": "Steam maker says settling the case would be easier but would set a bad precedent.",
+      "link": "https://arstechnica.com/gaming/2026/03/valve-compares-its-loot-boxes-to-labubus-in-lawsuit-defense/",
+      "published": "Thu, 12 Mar 2026 15:15:47 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-12T18:38:10.076639"
+    },
+    {
+      "source": "wired",
+      "title": "Google Is Not Ruling Out Ads in Gemini",
+      "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+      "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+      "published": "Thu, 12 Mar 2026 18:15:00 +0000",
       "keywords": [
         "AI",
         "Go",
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.208939"
+      "crawled_at": "2026-03-12T18:38:10.176564"
     },
     {
-      "source": "techcrunch",
-      "title": "Group14 opens factory to produce battery materials for flash charging EVs",
-      "summary": "The startup's new BAM-3 facility can make enough silicon anode material annually to supply about 100,000 long-range EVs.",
-      "link": "https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/",
-      "published": "Thu, 12 Mar 2026 12:00:00 +0000",
+      "source": "wired",
+      "title": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
+      "summary": "A bipartisan bill would force the FBI to get a warrant to read Americans’ messages and ban the federal purchase of commercial data on US residents ahead of a critical April deadline.",
+      "link": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
+      "published": "Thu, 12 Mar 2026 18:00:00 +0000",
       "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-03-12T12:34:22.208985"
-    },
-    {
-      "source": "techcrunch",
-      "title": "When startups become a family business",
-      "summary": "This season on Build Mode, we’re diving into what it takes to build a world-class founding team. This week we’re exploring different kinds of co-founder dynamics and what it takes to build a startup with your family.",
-      "link": "https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/",
-      "published": "Thu, 12 Mar 2026 11:38:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-03-12T12:34:22.209055"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google is using old news reports and AI to predict flash floods",
-      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-      "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-      "published": "Thu, 12 Mar 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.209082"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
-      "summary": "This is the largest early-stage funding in China’s brain computer interface industry.",
-      "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
-      "published": "Thu, 12 Mar 2026 04:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "Funding",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.209112"
-    },
-    {
-      "source": "theverge",
-      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
-      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggl",
-      "link": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
-      "published": "2026-03-12T08:30:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.623134"
-    },
-    {
-      "source": "theverge",
-      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
-      "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-      "published": "2026-03-12T08:00:34-04:00",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.623182"
-    },
-    {
-      "source": "theverge",
-      "title": "JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes",
-      "summary": "Karaoke is more fun for everyone when the person holding the mic sounds as good as a song's original performer. So the latest addition to JBL's PartyBox Bluetooth speaker line, the On-the-Go 2 Plus, comes with one of the company's new EasySing wireless microphones, which use an algorithm to silence ",
-      "link": "https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic",
-      "published": "2026-03-12T08:00:00-04:00",
-      "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:22.623246"
+      "crawled_at": "2026-03-12T18:38:10.176616"
     },
     {
-      "source": "theverge",
-      "title": "Iran-linked cyber attack targets US medtech giant Stryker",
-      "summary": "US medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hacking group linked to Iran. The attack impacted Stryker's internal Microsoft environment and deleted information from devices, with one employee telling NBC News ",
-      "link": "https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack",
-      "published": "2026-03-12T07:28:53-04:00",
+      "source": "wired",
+      "title": "These Excellent Computer Speakers Are $100 Off",
+      "summary": "IK Multimedia's iLoud Micro Monitors are an excellent pick for anyone who works with audio and video, or just likes premium sound.",
+      "link": "https://www.wired.com/story/iloud-micro-monitor-deal-326/",
+      "published": "Thu, 12 Mar 2026 17:29:00 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T18:38:10.176648"
+    },
+    {
+      "source": "wired",
+      "title": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
+      "summary": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory state-sponsored cyberattacks.",
+      "link": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
+      "published": "Thu, 12 Mar 2026 16:14:39 +0000",
+      "keywords": [
         "Hack",
-        "Microsoft",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.623283"
+      "category": "Security",
+      "crawled_at": "2026-03-12T18:38:10.176687"
     },
     {
-      "source": "theverge",
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journali",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-      "published": "2026-03-11T18:51:53-04:00",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.623327"
-    },
-    {
-      "source": "hackernews",
-      "title": "Are LLMs not getting better?",
-      "summary": "Article URL: https://entropicthoughts.com/no-swe-bench-improvement\nComments URL: https://news.ycombinator.com/item?id=47349334\nPoints: 12\n# Comments: 0",
-      "link": "https://entropicthoughts.com/no-swe-bench-improvement",
-      "published": "Thu, 12 Mar 2026 11:49:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:22.940153"
-    },
-    {
-      "source": "hackernews",
-      "title": "Big Data on the Cheapest MacBook",
-      "summary": "Article URL: https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook\nComments URL: https://news.ycombinator.com/item?id=47349277\nPoints: 26\n# Comments: 8",
-      "link": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
-      "published": "Thu, 12 Mar 2026 11:41:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:22.940206"
-    },
-    {
-      "source": "hackernews",
-      "title": "1B identity records exposed in ID verification data leak",
-      "summary": "Article URL: https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html\nComments URL: https://news.ycombinator.com/item?id=47348440\nPoints: 79\n# Comments: 23",
-      "link": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
-      "published": "Thu, 12 Mar 2026 09:46:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:22.940246"
-    },
-    {
-      "source": "hackernews",
-      "title": "Dolphin Progress Release 2603",
-      "summary": "Article URL: https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/\nComments URL: https://news.ycombinator.com/item?id=47348304\nPoints: 59\n# Comments: 1",
-      "link": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
-      "published": "Thu, 12 Mar 2026 09:23:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:22.940282"
-    },
-    {
-      "source": "hackernews",
-      "title": "Avoiding Trigonometry (2013)",
-      "summary": "Article URL: https://iquilezles.org/articles/noacos/\nComments URL: https://news.ycombinator.com/item?id=47348192\nPoints: 67\n# Comments: 13",
-      "link": "https://iquilezles.org/articles/noacos/",
-      "published": "Thu, 12 Mar 2026 09:06:57 +0000",
+      "source": "wired",
+      "title": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
+      "summary": "We consulted preparedness experts and WIRED's team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
+      "link": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
+      "published": "Thu, 12 Mar 2026 13:53:25 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:22.940314"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Remembering the 30-year-old computer game that introduced me to Star Wars",
-      "summary": "Looking back at Dash Rendar, 3DFX cards, and a pivotal moment for Star Wars.",
-      "link": "https://arstechnica.com/gaming/2026/03/30-years-later-star-wars-shadows-of-the-empire-is-a-relic-of-a-lost-era/",
-      "published": "Thu, 12 Mar 2026 11:15:48 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:23.135390"
-    },
-    {
-      "source": "arstechnica",
-      "title": "How I streamed my off-road Miata race using Starlink and StarStream",
-      "summary": "This satellite streaming technology transforms off-road racing for fans and teams.",
-      "link": "https://arstechnica.com/cars/2026/03/how-i-streamed-my-off-road-miata-race-using-starlink-and-starstream/",
-      "published": "Thu, 12 Mar 2026 11:00:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:23.135434"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
-      "summary": "Google is more focused on desktop gaming than ever before.",
-      "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
-      "published": "Wed, 11 Mar 2026 23:00:36 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "Gaming"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-12T12:34:23.135464"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular",
-      "summary": "Meanwhile, Kennedy's allies want all vaccine recommendations eliminated.",
-      "link": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
-      "published": "Wed, 11 Mar 2026 22:19:27 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:23.135506"
-    },
-    {
-      "source": "arstechnica",
-      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
-      "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
-      "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
-      "published": "Wed, 11 Mar 2026 22:04:42 +0000",
-      "keywords": [
-        "AI",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:23.135529"
-    },
-    {
-      "source": "wired",
-      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
-      "summary": "Here are the best meal kits in 2026, from Martha Stewart’s meal kit to the best meal delivery on a budget.",
-      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
-      "published": "Thu, 12 Mar 2026 12:03:00 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T12:34:23.291946"
-    },
-    {
-      "source": "wired",
-      "title": "Sennheiser RS 275 TV Headphone Bundle Review: Awesome Tech, OK Headphones",
-      "summary": "Sennheiser’s new TV transmitter system uses the power of Auracast to connect nearly infinite headphones—if you can find a pair you like.",
-      "link": "https://www.wired.com/review/sennheiser-rs-275-tv-headphones-bta1-auracast/",
-      "published": "Thu, 12 Mar 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:23.291997"
-    },
-    {
-      "source": "wired",
-      "title": "Best Massage Guns of 2026: Hyperice, Therabody, and More",
-      "summary": "Massage guns used to be simple percussive devices. Now, they use vibrations, hot and cold therapy, and even LED light to ease post-workout pain and promote muscle recovery.",
-      "link": "https://www.wired.com/story/best-massage-guns/",
-      "published": "Thu, 12 Mar 2026 11:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:23.292028"
-    },
-    {
-      "source": "wired",
-      "title": "Apple MacBook Pro Review (M5 Max, 16-inch): The Fastest MacBook Yet",
-      "summary": "A more exciting MacBook Pro is waiting in the wings, but the M5 Max shows the continued success of Apple Silicon.",
-      "link": "https://www.wired.com/review/macbook-pro-16-inch-m5-max/",
-      "published": "Thu, 12 Mar 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T12:34:23.292080"
-    },
-    {
-      "source": "wired",
-      "title": "How to Watch the Oscars (2026)",
-      "summary": "The 98th Annual Academy Awards will happen on Sunday, March 15. Here's how to make sure you catch every speech, joke, dress, and song.",
-      "link": "https://www.wired.com/story/how-to-watch-the-oscars-2026/",
-      "published": "Thu, 12 Mar 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-12T12:34:23.292108"
+      "crawled_at": "2026-03-12T18:38:10.176728"
     }
   ]
 }
