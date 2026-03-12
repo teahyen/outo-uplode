@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-03-12T01:01:55.384835",
+  "last_updated": "2026-03-12T06:40:17.789509",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+      "summary": "This is the largest early-stage funding in China’s brain computer interface industry.",
+      "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+      "published": "Thu, 12 Mar 2026 04:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-12T06:40:15.809490"
+    },
     {
       "source": "techcrunch",
       "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
@@ -14,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.422261"
+      "crawled_at": "2026-03-12T06:40:15.809531"
     },
     {
       "source": "techcrunch",
@@ -27,7 +42,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-03-12T01:01:52.422312"
+      "crawled_at": "2026-03-12T06:40:15.809572"
     },
     {
       "source": "techcrunch",
@@ -42,7 +57,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.422339"
+      "crawled_at": "2026-03-12T06:40:15.809597"
     },
     {
       "source": "techcrunch",
@@ -55,20 +70,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.422372"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
-      "summary": "inDrive has closed its acquisition of KraveMart, expanding grocery delivery in a market dominated by Foodpanda.",
-      "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
-      "published": "Wed, 11 Mar 2026 22:45:35 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.422400"
+      "crawled_at": "2026-03-12T06:40:15.809627"
     },
     {
       "source": "theverge",
@@ -82,7 +84,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.627909"
+      "crawled_at": "2026-03-12T06:40:16.052630"
     },
     {
       "source": "theverge",
@@ -96,7 +98,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-12T01:01:52.627969"
+      "crawled_at": "2026-03-12T06:40:16.052683"
     },
     {
       "source": "theverge",
@@ -108,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:52.628032"
+      "crawled_at": "2026-03-12T06:40:16.052740"
     },
     {
       "source": "theverge",
@@ -121,7 +123,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.628065"
+      "crawled_at": "2026-03-12T06:40:16.052788"
     },
     {
       "source": "theverge",
@@ -134,77 +136,88 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:52.628098"
+      "crawled_at": "2026-03-12T06:40:16.052822"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Autoresearch@home",
-      "summary": "autoresearch@home is a collaborative research collective where AI agents share GPU resources to collectively improve a language model. Think SETI@home, but for model training.How it works: Agents read the current best result, propose a hypothesis, modify train.py, run the experiment on your GPU, and",
-      "link": "https://www.ensue-network.ai/autoresearch",
-      "published": "Wed, 11 Mar 2026 23:27:18 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:54.996560"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: A context-aware permission guard for Claude Code",
-      "summary": "We needed something like --dangerously-skip-permissions that doesn’t nuke your untracked files, exfiltrate your keys, or install malware.Claude Code's permission system is allow-or-deny per tool, but that doesn’t really scale. Deleting some files is fine sometimes. And git checkout is sometimes not ",
-      "link": "https://github.com/manuelschipper/nah/",
-      "published": "Wed, 11 Mar 2026 23:26:25 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Python",
-        "Git",
-        "GitHub"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:54.996694"
-    },
-    {
-      "source": "hackernews",
-      "title": "Building Better Country Selects",
-      "summary": "Article URL: https://talysto.com/blog/building-better-country-selects/\nComments URL: https://news.ycombinator.com/item?id=47343411\nPoints: 7\n# Comments: 9",
-      "link": "https://talysto.com/blog/building-better-country-selects/",
-      "published": "Wed, 11 Mar 2026 22:47:03 +0000",
+      "title": "WireGuard Is Two Things",
+      "summary": "Article URL: https://www.proxylity.com/articles/wireguard-is-two-things.html\nComments URL: https://news.ycombinator.com/item?id=47346511\nPoints: 45\n# Comments: 9",
+      "link": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
+      "published": "Thu, 12 Mar 2026 04:38:49 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:54.996732"
+      "crawled_at": "2026-03-12T06:40:17.372263"
     },
     {
       "source": "hackernews",
-      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "summary": "Article URL: https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/\nComments URL: https://news.ycombinator.com/item?id=47343156\nPoints: 53\n# Comments: 83",
-      "link": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/",
-      "published": "Wed, 11 Mar 2026 22:29:42 +0000",
+      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/\nComments URL: https://news.ycombinator.com/item?id=47346091\nPoints: 110\n# Comments: 35",
+      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "Thu, 12 Mar 2026 03:29:28 +0000",
       "keywords": [
         "AI",
+        "Security",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:54.996760"
+      "crawled_at": "2026-03-12T06:40:17.372301"
     },
     {
       "source": "hackernews",
-      "title": "Preliminary data from a longitudinal AI impact study",
-      "summary": "Article URL: https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not\nComments URL: https://news.ycombinator.com/item?id=47342139\nPoints: 24\n# Comments: 12",
-      "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-      "published": "Wed, 11 Mar 2026 21:23:24 +0000",
+      "title": "DHS Contracts Explorer – Hacked data from the Office of Industry Partnership",
+      "summary": "Article URL: https://micahflee.github.io/ice-contracts/\nComments URL: https://news.ycombinator.com/item?id=47345393\nPoints: 219\n# Comments: 40",
+      "link": "https://micahflee.github.io/ice-contracts/",
+      "published": "Thu, 12 Mar 2026 02:03:01 +0000",
       "keywords": [
-        "AI",
+        "Hack",
         "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:54.996788"
+      "category": "Security",
+      "crawled_at": "2026-03-12T06:40:17.372344"
+    },
+    {
+      "source": "hackernews",
+      "title": "Urea prices",
+      "summary": "Article URL: https://tradingeconomics.com/commodity/urea\nComments URL: https://news.ycombinator.com/item?id=47345364\nPoints: 74\n# Comments: 53",
+      "link": "https://tradingeconomics.com/commodity/urea",
+      "published": "Thu, 12 Mar 2026 01:59:47 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T06:40:17.372376"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "summary": "Article URL: http://satproto.org/\nComments URL: https://news.ycombinator.com/item?id=47344548\nPoints: 185\n# Comments: 68",
+      "link": "http://satproto.org/",
+      "published": "Thu, 12 Mar 2026 00:22:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-12T06:40:17.372408"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
+      "summary": "Google is more focused on desktop gaming than ever before.",
+      "link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+      "published": "Wed, 11 Mar 2026 23:00:36 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-12T06:40:17.644532"
     },
     {
       "source": "arstechnica",
@@ -217,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:55.240810"
+      "crawled_at": "2026-03-12T06:40:17.644579"
     },
     {
       "source": "arstechnica",
@@ -230,7 +243,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:55.240842"
+      "crawled_at": "2026-03-12T06:40:17.644603"
     },
     {
       "source": "arstechnica",
@@ -242,7 +255,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-03-12T01:01:55.240883"
+      "crawled_at": "2026-03-12T06:40:17.644631"
     },
     {
       "source": "arstechnica",
@@ -255,20 +268,52 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:55.240903"
+      "crawled_at": "2026-03-12T06:40:17.644650"
     },
     {
-      "source": "arstechnica",
-      "title": "Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April",
-      "summary": "Running Windows on gaming handhelds is currently a blessing and a curse.",
-      "link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
-      "published": "Wed, 11 Mar 2026 20:55:50 +0000",
+      "source": "wired",
+      "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "published": "Thu, 12 Mar 2026 05:04:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-12T06:40:17.789315"
+    },
+    {
+      "source": "wired",
+      "title": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
+      "summary": "Book your next getaway with Expedia and get up to 75%off your stay, with or without a promo code.",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "published": "Thu, 12 Mar 2026 05:02:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-12T06:40:17.789344"
+    },
+    {
+      "source": "wired",
+      "title": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "link": "https://www.wired.com/story/birdfy-discount-code/",
+      "published": "Thu, 12 Mar 2026 05:01:00 +0000",
       "keywords": [
-        "Windows",
-        "Gaming"
+        "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:55.240931"
+      "category": "Programming",
+      "crawled_at": "2026-03-12T06:40:17.789370"
+    },
+    {
+      "source": "wired",
+      "title": "What to Do in Dumbo If You’re Here for Business (2026)",
+      "summary": "The Big Apple has had a tech boom in the past few years—here’s where to stay, play, eat, and work in the city’s tech-dense Dumbo neighborhood.",
+      "link": "https://www.wired.com/story/the-wired-guide-to-dumbo-for-business-travelers/",
+      "published": "Thu, 12 Mar 2026 01:33:00 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-12T06:40:17.789410"
     },
     {
       "source": "wired",
@@ -280,63 +325,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:55.384574"
-    },
-    {
-      "source": "wired",
-      "title": "How the Iran War Could Jack Up Prices on Store Shelves",
-      "summary": "The Strait of Hormuz, a busy waterway off the coast of Iran, has come to a near standstill. If the war drags on much longer, it could mean higher prices for consumer goods around the world.",
-      "link": "https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/",
-      "published": "Wed, 11 Mar 2026 21:59:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:55.384607"
-    },
-    {
-      "source": "wired",
-      "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-      "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-      "link": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-      "published": "Wed, 11 Mar 2026 20:45:03 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-12T01:01:55.384649"
-    },
-    {
-      "source": "wired",
-      "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
-      "summary": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
-      "link": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
-      "published": "Wed, 11 Mar 2026 18:38:21 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Microsoft",
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:55.384686"
-    },
-    {
-      "source": "wired",
-      "title": "Our Favorite Backyard Bluetooth Speaker Is $25 Off",
-      "summary": "The compact but surprisingly potent Ultimate Ears Boom 4 gets marked down ahead of your first spring party.",
-      "link": "https://www.wired.com/story/ue-boom-4-deal-326/",
-      "published": "Wed, 11 Mar 2026 18:22:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-12T01:01:55.384715"
+      "crawled_at": "2026-03-12T06:40:17.789436"
     }
   ]
 }
