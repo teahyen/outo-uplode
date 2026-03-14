@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T06:33:05.473895",
+  "last_updated": "2026-03-14T12:27:33.162010",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.814918"
+      "crawled_at": "2026-03-14T12:27:29.446667"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.814955"
+      "crawled_at": "2026-03-14T12:27:29.446727"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.814979"
+      "crawled_at": "2026-03-14T12:27:29.446756"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.815009"
+      "crawled_at": "2026-03-14T12:27:29.446788"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,57 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:04.815044"
+      "crawled_at": "2026-03-14T12:27:29.446823"
+    },
+    {
+      "source": "theverge",
+      "title": "Samsung Galaxy S26 Ultra review: show off",
+      "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I generally save the sensitive stuff like ban",
+      "link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+      "published": "2026-03-14T08:00:00-04:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T12:27:29.598702"
+    },
+    {
+      "source": "theverge",
+      "title": "5 great indie games from GDC 2026",
+      "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that I g",
+      "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+      "published": "2026-03-14T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-14T12:27:29.598753"
+    },
+    {
+      "source": "theverge",
+      "title": "Wordle’s creator made a fun new puzzle game",
+      "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Pixar's future and flight MH370 and ",
+      "link": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+      "published": "2026-03-14T08:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T12:27:29.598811"
+    },
+    {
+      "source": "theverge",
+      "title": "European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals",
+      "summary": "Some European retailers have stopped selling certain headphones after an EU-funded study found that they contained hormone-disrupting chemicals. The study included leading brands such as Apple, Beats, Samsung, Bose, JBL, and Sennheiser. Online stores Bol.com, Coolblue, and Mediamarkt didn't respond ",
+      "link": "https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study",
+      "published": "2026-03-14T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T12:27:29.598850"
     },
     {
       "source": "theverge",
@@ -80,125 +130,83 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.938597"
-    },
-    {
-      "source": "theverge",
-      "title": "Spotify tests letting users directly customize their Taste Profile",
-      "summary": "Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is serving up too much Bieber, you can politely tell the algorithm to ease up. Beta",
-      "link": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
-      "published": "2026-03-13T17:44:23-04:00",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:04.938660"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company wil",
-      "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
-      "published": "2026-03-13T16:51:48-04:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.938706"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump Mobile is just one in the crowd of conservative carriers",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its conservative carrier competition. Trump Mobile isn't unique. I mean, it is in some pretty specific senses - it's not every day the president's family launches a phon",
-      "link": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
-      "published": "2026-03-13T16:51:39-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-14T06:33:04.938747"
-    },
-    {
-      "source": "theverge",
-      "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
-      "summary": "It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site would relaunch, promising a \"social discovery built by communities, not by algorithms.\" Now, two months after opening its Reddit-like platform to the public, Digg is",
-      "link": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
-      "published": "2026-03-13T16:51:15-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:04.938789"
+      "crawled_at": "2026-03-14T12:27:29.598893"
     },
     {
       "source": "hackernews",
-      "title": "Optimizing Content for Agents",
-      "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/\nComments URL: https://news.ycombinator.com/item?id=47372672\nPoints: 26\n# Comments: 15",
-      "link": "https://cra.mr/optimizing-content-for-agents/",
-      "published": "Sat, 14 Mar 2026 02:27:00 +0000",
+      "title": "XML Is a Cheap DSL",
+      "summary": "Article URL: https://unplannedobsolescence.com/blog/xml-cheap-dsl/\nComments URL: https://news.ycombinator.com/item?id=47375764\nPoints: 3\n# Comments: 0",
+      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+      "published": "Sat, 14 Mar 2026 11:59:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.147266"
+      "crawled_at": "2026-03-14T12:27:32.867781"
     },
     {
       "source": "hackernews",
-      "title": "Our Experience with I-Ready",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/\nComments URL: https://news.ycombinator.com/item?id=47371922\nPoints: 55\n# Comments: 18",
-      "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
-      "published": "Sat, 14 Mar 2026 00:29:50 +0000",
+      "title": "Claude Code's binary reveals silent A/B tests on core features",
+      "summary": "Article URL: https://backnotprop.com/blog/do-not-ab-test-my-workflow/\nComments URL: https://news.ycombinator.com/item?id=47375682\nPoints: 65\n# Comments: 43",
+      "link": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+      "published": "Sat, 14 Mar 2026 11:46:29 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.147312"
-    },
-    {
-      "source": "hackernews",
-      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cge84xqjg5lo\nComments URL: https://news.ycombinator.com/item?id=47371692\nPoints: 126\n# Comments: 44",
-      "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
-      "published": "Sat, 14 Mar 2026 00:02:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.147348"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Simple plugin to get Claude Code to listen to you",
-      "summary": "Hey HN,My cofounder and I have gotten tired of CC ignoring our markdown files so we spent 4 days and built a plugin that automatically steers CC based on our previous sessions. The problem is usually post plan-mode.What we've tried:Heavily use plan mode (works great)CLAUDE.md, AGENTS.md, MEMORY.mdLo",
-      "link": "https://www.gopeek.ai",
-      "published": "Fri, 13 Mar 2026 23:15:22 +0000",
-      "keywords": [
-        "AI",
         "Claude",
-        "Go",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:05.147450"
+      "crawled_at": "2026-03-14T12:27:32.867818"
     },
     {
       "source": "hackernews",
-      "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
-      "summary": "Article URL: https://lr0.org/blog/p/crocker/\nComments URL: https://news.ycombinator.com/item?id=47371275\nPoints: 51\n# Comments: 71",
-      "link": "https://lr0.org/blog/p/crocker/",
-      "published": "Fri, 13 Mar 2026 23:14:37 +0000",
+      "title": "How Lego builds a new Lego set",
+      "summary": "Article URL: https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price\nComments URL: https://news.ycombinator.com/item?id=47375610\nPoints: 10\n# Comments: 1",
+      "link": "https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price",
+      "published": "Sat, 14 Mar 2026 11:35:49 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.147483"
+      "crawled_at": "2026-03-14T12:27:32.867857"
+    },
+    {
+      "source": "hackernews",
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens\nComments URL: https://news.ycombinator.com/item?id=47375085\nPoints: 26\n# Comme",
+      "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+      "published": "Sat, 14 Mar 2026 10:05:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-14T12:27:32.867905"
+    },
+    {
+      "source": "hackernews",
+      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+      "summary": "Article URL: https://github.com/drojaazu/megadev\nComments URL: https://news.ycombinator.com/item?id=47374745\nPoints: 17\n# Comments: 0",
+      "link": "https://github.com/drojaazu/megadev",
+      "published": "Sat, 14 Mar 2026 09:04:39 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-14T12:27:32.867939"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Staff complain that xAI is flailing because of constant upheaval",
+      "summary": "Staff complain that the constant upheaval is destroying morale.",
+      "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+      "published": "Sat, 14 Mar 2026 07:14:53 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T12:27:32.980140"
     },
     {
       "source": "arstechnica",
@@ -212,7 +220,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:05.335383"
+      "crawled_at": "2026-03-14T12:27:32.980180"
     },
     {
       "source": "arstechnica",
@@ -225,7 +233,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-14T06:33:05.335422"
+      "crawled_at": "2026-03-14T12:27:32.980207"
     },
     {
       "source": "arstechnica",
@@ -238,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.335453"
+      "crawled_at": "2026-03-14T12:27:32.980237"
     },
     {
       "source": "arstechnica",
@@ -250,76 +258,62 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:05.335475"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google Fiber will be sold to private equity firm and merge with cable company",
-      "summary": "GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
-      "published": "Fri, 13 Mar 2026 20:57:54 +0000",
-      "keywords": [
-        "Go",
-        "Google"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.335502"
+      "crawled_at": "2026-03-14T12:27:32.980258"
     },
     {
       "source": "wired",
-      "title": "Vivid Seats Promo Codes and Deals: Save 10% This March",
-      "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this month.",
-      "link": "https://www.wired.com/story/vivid-seats-promo-code/",
-      "published": "Sat, 14 Mar 2026 05:01:00 +0000",
+      "title": "How to Buy Used or Refurbished Electronics (2026)",
+      "summary": "Save money and reduce your carbon footprint with these tips to snag the best deals on quality refurbished and used electronics.",
+      "link": "https://www.wired.com/story/how-to-buy-refurbished-electronics/",
+      "published": "Sat, 14 Mar 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-14T06:33:05.473678"
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T12:27:33.161740"
     },
     {
       "source": "wired",
-      "title": "Coleman Promo Codes and Deals: Up to 30% Off in March",
-      "summary": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
-      "link": "https://www.wired.com/story/coleman-promo-code/",
-      "published": "Sat, 14 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-14T06:33:05.473711"
-    },
-    {
-      "source": "wired",
-      "title": "Chirp Discount Codes and Deals: Save Up to 67%",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "link": "https://www.wired.com/story/chirp-discount-code/",
-      "published": "Sat, 14 Mar 2026 05:00:00 +0000",
+      "title": "You Can Approximate Pi by Dropping Needles on the Floor",
+      "summary": "Who needs a supercomputer when you can calculate pi with a box of sewing needles?",
+      "link": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
+      "published": "Sat, 14 Mar 2026 11:00:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-14T06:33:05.473737"
+      "category": "Mobile",
+      "crawled_at": "2026-03-14T12:27:33.161775"
     },
     {
       "source": "wired",
-      "title": "What to Do in Vegas If You’re Here for Business (2026)",
-      "summary": "Where to lock in, power down, and actually enjoy your business trip.",
-      "link": "https://www.wired.com/story/in-transit-las-vegas/",
-      "published": "Fri, 13 Mar 2026 23:37:36 +0000",
+      "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+      "summary": "There's not much else groundbreaking about the company's latest flagship, but the built-in privacy display works well without much trade-off.",
+      "link": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+      "published": "Sat, 14 Mar 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T06:33:05.473774"
+      "crawled_at": "2026-03-14T12:27:33.161807"
     },
     {
       "source": "wired",
-      "title": "Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans",
-      "summary": "Dreo’s spring sale offers a great deal on the Chefmaker combi cooker, plus discounts on WIRED’s favorite bathroom heater and tower fan.",
-      "link": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
-      "published": "Fri, 13 Mar 2026 18:51:05 +0000",
+      "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
+      "summary": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people’s Signal accounts, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+      "published": "Sat, 14 Mar 2026 10:30:00 +0000",
       "keywords": [
-        "AI"
+        "Hack",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-14T06:33:05.473803"
+      "category": "Security",
+      "crawled_at": "2026-03-14T12:27:33.161854"
+    },
+    {
+      "source": "wired",
+      "title": "Identity Theft Protection Services: Do You Actually Need One?",
+      "summary": "Here's the best advice I have for protecting your identity online.",
+      "link": "https://www.wired.com/story/best-id-protection-services/",
+      "published": "Sat, 14 Mar 2026 10:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T12:27:33.161882"
     }
   ]
 }
