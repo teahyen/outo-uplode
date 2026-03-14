@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T01:07:14.990474",
+  "last_updated": "2026-03-14T06:33:05.473895",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.069581"
+      "crawled_at": "2026-03-14T06:33:04.814918"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.069618"
+      "crawled_at": "2026-03-14T06:33:04.814955"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.069643"
+      "crawled_at": "2026-03-14T06:33:04.814979"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.069705"
+      "crawled_at": "2026-03-14T06:33:04.815009"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.069747"
+      "crawled_at": "2026-03-14T06:33:04.815044"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.229448"
+      "crawled_at": "2026-03-14T06:33:04.938597"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.229507"
+      "crawled_at": "2026-03-14T06:33:04.938660"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.229552"
+      "crawled_at": "2026-03-14T06:33:04.938706"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-14T01:07:14.229593"
+      "crawled_at": "2026-03-14T06:33:04.938747"
     },
     {
       "source": "theverge",
@@ -134,69 +134,85 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.229634"
+      "crawled_at": "2026-03-14T06:33:04.938789"
+    },
+    {
+      "source": "hackernews",
+      "title": "Optimizing Content for Agents",
+      "summary": "Article URL: https://cra.mr/optimizing-content-for-agents/\nComments URL: https://news.ycombinator.com/item?id=47372672\nPoints: 26\n# Comments: 15",
+      "link": "https://cra.mr/optimizing-content-for-agents/",
+      "published": "Sat, 14 Mar 2026 02:27:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T06:33:05.147266"
     },
     {
       "source": "hackernews",
       "title": "Our Experience with I-Ready",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/\nComments URL: https://news.ycombinator.com/item?id=47371922\nPoints: 5\n# Comments: 1",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/\nComments URL: https://news.ycombinator.com/item?id=47371922\nPoints: 55\n# Comments: 18",
       "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
       "published": "Sat, 14 Mar 2026 00:29:50 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.508722"
+      "crawled_at": "2026-03-14T06:33:05.147312"
+    },
+    {
+      "source": "hackernews",
+      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cge84xqjg5lo\nComments URL: https://news.ycombinator.com/item?id=47371692\nPoints: 126\n# Comments: 44",
+      "link": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "published": "Sat, 14 Mar 2026 00:02:37 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T06:33:05.147348"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Simple plugin to get Claude Code to listen to you",
+      "summary": "Hey HN,My cofounder and I have gotten tired of CC ignoring our markdown files so we spent 4 days and built a plugin that automatically steers CC based on our previous sessions. The problem is usually post plan-mode.What we've tried:Heavily use plan mode (works great)CLAUDE.md, AGENTS.md, MEMORY.mdLo",
+      "link": "https://www.gopeek.ai",
+      "published": "Fri, 13 Mar 2026 23:15:22 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Go",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T06:33:05.147450"
     },
     {
       "source": "hackernews",
       "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
-      "summary": "Article URL: https://lr0.org/blog/p/crocker/\nComments URL: https://news.ycombinator.com/item?id=47371275\nPoints: 20\n# Comments: 32",
+      "summary": "Article URL: https://lr0.org/blog/p/crocker/\nComments URL: https://news.ycombinator.com/item?id=47371275\nPoints: 51\n# Comments: 71",
       "link": "https://lr0.org/blog/p/crocker/",
       "published": "Fri, 13 Mar 2026 23:14:37 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.508764"
+      "crawled_at": "2026-03-14T06:33:05.147483"
     },
     {
-      "source": "hackernews",
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "summary": "Article URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys\nComments URL: https://news.ycombinator.com/item?id=47371064\nPoints: 64\n# Comments: 18",
-      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "published": "Fri, 13 Mar 2026 22:52:05 +0000",
+      "source": "arstechnica",
+      "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
+      "summary": "\"This ought to make for some good reading,\" NASA's mission management team chair said.",
+      "link": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/",
+      "published": "Sat, 14 Mar 2026 00:17:31 +0000",
       "keywords": [
+        "AI",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.508802"
-    },
-    {
-      "source": "hackernews",
-      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
-      "summary": "Article URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/\nComments URL: https://news.ycombinator.com/item?id=47370822\nPoints: 111\n# Comments: 49",
-      "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "published": "Fri, 13 Mar 2026 22:28:04 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.508834"
-    },
-    {
-      "source": "hackernews",
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "summary": "Article URL: https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate\nComments URL: https://news.ycombinator.com/item?id=47368430\nPoints: 47\n# Comments: 34",
-      "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
-      "published": "Fri, 13 Mar 2026 19:15:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.508874"
+      "crawled_at": "2026-03-14T06:33:05.335383"
     },
     {
       "source": "arstechnica",
@@ -209,7 +225,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-14T01:07:14.754831"
+      "crawled_at": "2026-03-14T06:33:05.335422"
     },
     {
       "source": "arstechnica",
@@ -222,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.754866"
+      "crawled_at": "2026-03-14T06:33:05.335453"
     },
     {
       "source": "arstechnica",
@@ -234,7 +250,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.754889"
+      "crawled_at": "2026-03-14T06:33:05.335475"
     },
     {
       "source": "arstechnica",
@@ -247,22 +263,41 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.754916"
+      "crawled_at": "2026-03-14T06:33:05.335502"
     },
     {
-      "source": "arstechnica",
-      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-      "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+      "source": "wired",
+      "title": "Vivid Seats Promo Codes and Deals: Save 10% This March",
+      "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this month.",
+      "link": "https://www.wired.com/story/vivid-seats-promo-code/",
+      "published": "Sat, 14 Mar 2026 05:01:00 +0000",
       "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.754946"
+      "category": "Programming",
+      "crawled_at": "2026-03-14T06:33:05.473678"
+    },
+    {
+      "source": "wired",
+      "title": "Coleman Promo Codes and Deals: Up to 30% Off in March",
+      "summary": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
+      "link": "https://www.wired.com/story/coleman-promo-code/",
+      "published": "Sat, 14 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-14T06:33:05.473711"
+    },
+    {
+      "source": "wired",
+      "title": "Chirp Discount Codes and Deals: Save Up to 67%",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "link": "https://www.wired.com/story/chirp-discount-code/",
+      "published": "Sat, 14 Mar 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-14T06:33:05.473737"
     },
     {
       "source": "wired",
@@ -272,7 +307,7 @@
       "published": "Fri, 13 Mar 2026 23:37:36 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.990283"
+      "crawled_at": "2026-03-14T06:33:05.473774"
     },
     {
       "source": "wired",
@@ -284,45 +319,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.990319"
-    },
-    {
-      "source": "wired",
-      "title": "One of Our Favorite Large TVs Is $400 Off",
-      "summary": "The 85-inch Hisense U7 gets a big discount, with markdowns for smaller sizes too.",
-      "link": "https://www.wired.com/story/hisense-u75qc-deal-326/",
-      "published": "Fri, 13 Mar 2026 17:42:30 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-14T01:07:14.990347"
-    },
-    {
-      "source": "wired",
-      "title": "Apple Studio Display XDR Review: Too Much but Not Enough",
-      "summary": "The Studio Display XDR monitor comes at a time when HDR-capable screens are everywhere. Apple still does it best, but at a hefty cost.",
-      "link": "https://www.wired.com/review/apple-studio-display-xdr/",
-      "published": "Fri, 13 Mar 2026 17:16:32 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-14T01:07:14.990376"
-    },
-    {
-      "source": "wired",
-      "title": "Higher Jet Fuel Prices Could Melt Your Summer Travel Plans",
-      "summary": "Airline ticket prices are already rising, but an extended crisis in Iran could have bigger effects on the global travel industry.",
-      "link": "https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/",
-      "published": "Fri, 13 Mar 2026 15:56:28 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-14T01:07:14.990399"
+      "crawled_at": "2026-03-14T06:33:05.473803"
     }
   ]
 }
