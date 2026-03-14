@@ -1,258 +1,105 @@
 {
-  "last_updated": "2026-03-13T18:27:38.742564",
+  "last_updated": "2026-03-14T01:07:14.990474",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
-      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-      "published": "Fri, 13 Mar 2026 17:09:59 +0000",
-      "keywords": [
-        "AI",
-        "Docker",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:37.987852"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-      "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
-      "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-      "published": "Fri, 13 Mar 2026 17:04:12 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-03-13T18:27:37.987898"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
-      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined",
-      "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
-      "published": "Fri, 13 Mar 2026 16:20:23 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "Security",
-        "Cybersecurity"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:37.987950"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Apple drops commission rates in China without a fuss",
-      "summary": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%.",
-      "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
-      "published": "Fri, 13 Mar 2026 15:12:14 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-13T18:27:37.987985"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The FBI is investigating malware hidden inside games hosted on Steam",
-      "summary": "The FBI believes a series of video games published on Steam in the last two years were embedded with malware by the same hacker.",
-      "link": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/",
-      "published": "Fri, 13 Mar 2026 14:55:06 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-03-13T18:27:37.988016"
-    },
-    {
-      "source": "theverge",
-      "title": "Backbone’s versatile pro controller is nearly matching its best price to date",
-      "summary": "Mobile gaming has come a long way over the course of the last decade or so, but we all know that smartphones simply can’t match the visceral, tactile feel you get while playing with a dedicated controller. Luckily, Backbone makes some excellent mobile options — including last year’s Backbone Pro, wh",
-      "link": "https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale",
-      "published": "2026-03-13T13:52:48-04:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-13T18:27:38.137747"
-    },
-    {
-      "source": "theverge",
-      "title": "Adobe will pay $75 million to settle US cancellation fee lawsuit",
-      "summary": "Adobe says it will pay $75 million to resolve a lawsuit filed by the US government alleging that the creative software giant harmed consumers by making its subscriptions intentionally hard to cancel and concealing termination fees. The payment aims to resolve the complaint raised in June 2024, in wh",
-      "link": "https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions",
-      "published": "2026-03-13T13:52:01-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.137797"
-    },
-    {
-      "source": "theverge",
-      "title": "Ninja’s star Creami ice cream maker is on sale for $169",
-      "summary": "If you’ve ever wanted more control over what goes into your ice cream, the Ninja Creami 5‑in‑1 Ice Cream Maker makes it easy. The ice cream maker lets you whip up dessert exactly as you want it from the comfort of your home, and right now it’s on sale for $169 ($30 off) at Walmart.&#160; [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale",
-      "published": "2026-03-13T13:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.137850"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon Prime Video nearly doubles the price to go ad-free and stream 4K video",
-      "summary": "Starting April 10th, Amazon's ad-free Prime Video subscription will be rebranded as Ultra as its price increases to $4.99 per month from the current $2.99. Once it launches, it will also be the \"exclusive\" way to access 4K/UHD streaming, removing 4K streaming access from Prime subscribers who don't ",
-      "link": "https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike",
-      "published": "2026-03-13T11:59:44-04:00",
-      "keywords": [
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.137898"
-    },
-    {
-      "source": "theverge",
-      "title": "The Big 12 basketball tournament is ditching slippery LED courts for hardwood",
-      "summary": "They may be great for fan engagement and selling ads, but the Big 12 has decided to replace the innovative glass-covered LED floors at Kansas City's T-Mobile Center with a traditional hardwood finish. It will be used for the remainder of the tournament during semifinal matches and the championship g",
-      "link": "https://www.theverge.com/tech/894372/big-12-basketball-t-mobile-center-led-glass-floor-hardwood",
-      "published": "2026-03-13T11:54:20-04:00",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "published": "Sat, 14 Mar 2026 00:12:22 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.137933"
+      "crawled_at": "2026-03-14T01:07:14.069581"
     },
     {
-      "source": "hackernews",
-      "title": "Your Phone Is an Entire Computer",
-      "summary": "Article URL: https://medhir.com/blog/your-phone-is-an-entire-computer\nComments URL: https://news.ycombinator.com/item?id=47367568\nPoints: 4\n# Comments: 0",
-      "link": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-      "published": "Fri, 13 Mar 2026 18:02:32 +0000",
+      "source": "techcrunch",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "published": "Sat, 14 Mar 2026 00:01:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.069618"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Digg lays off staff and shuts down app as company retools",
+      "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
+      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
+      "published": "Fri, 13 Mar 2026 21:51:17 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.069643"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "published": "Fri, 13 Mar 2026 21:37:01 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.069705"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Facebook makes it easier for creators to report impersonators",
+      "summary": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.",
+      "link": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
+      "published": "Fri, 13 Mar 2026 20:48:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.420436"
+      "crawled_at": "2026-03-14T01:07:14.069747"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-      "summary": "We built an open-source proxy that sits between coding agents (Claude Code, OpenClaw, etc.) and the LLM, compressing tool outputs before they enter the context window.Demo: https://www.youtube.com/watch?v=-vFZ6MPrwjw#t=9s.Motivation: Agents are terrible at managing context. A single file read or gre",
-      "link": "https://github.com/Compresr-ai/Context-Gateway",
-      "published": "Fri, 13 Mar 2026 17:58:22 +0000",
+      "source": "theverge",
+      "title": "States’ anti-monopoly case against Live Nation continues Monday",
+      "summary": "The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's alleged concert industry monopoly beginning on Monday, following a brief hearing on Friday. The Justice Department and a handful of states have accepted settlements wi",
+      "link": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+      "published": "2026-03-13T18:08:39-04:00",
       "keywords": [
         "AI",
-        "GPT",
-        "OpenAI",
-        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.229448"
+    },
+    {
+      "source": "theverge",
+      "title": "Spotify tests letting users directly customize their Taste Profile",
+      "summary": "Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting users view and make changes to their Taste Profile directly. If your algorithm is serving up too much Bieber, you can politely tell the algorithm to ease up. Beta",
+      "link": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+      "published": "2026-03-13T17:44:23-04:00",
+      "keywords": [
         "Go"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.420581"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Accidental Room (2018)",
-      "summary": "Article URL: https://99percentinvisible.org/episode/the-accidental-room/\nComments URL: https://news.ycombinator.com/item?id=47367443\nPoints: 4\n# Comments: 0",
-      "link": "https://99percentinvisible.org/episode/the-accidental-room/",
-      "published": "Fri, 13 Mar 2026 17:49:54 +0000",
-      "keywords": [
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.420617"
+      "crawled_at": "2026-03-14T01:07:14.229507"
     },
     {
-      "source": "hackernews",
-      "title": "Why the militaries are scrambling to create their own Starlink",
-      "summary": "Article URL: https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/\nComments URL: https://news.ycombinator.com/item?id=47367220\nPoints: 25\n# Comments: 12",
-      "link": "https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/",
-      "published": "Fri, 13 Mar 2026 17:27:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.420660"
-    },
-    {
-      "source": "hackernews",
-      "title": "Revealed: Face of 75,000-year-old female Neanderthal from cave",
-      "summary": "Article URL: https://www.cam.ac.uk/stories/shanidar-z-face-revealed\nComments URL: https://news.ycombinator.com/item?id=47366931\nPoints: 21\n# Comments: 8",
-      "link": "https://www.cam.ac.uk/stories/shanidar-z-face-revealed",
-      "published": "Fri, 13 Mar 2026 17:02:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.420714"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
-      "summary": "Amazon says its service requires \"significant investment.\"",
-      "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/",
-      "published": "Fri, 13 Mar 2026 17:16:58 +0000",
-      "keywords": [
-        "Amazon"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-03-13T18:27:38.616485"
-    },
-    {
-      "source": "arstechnica",
-      "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
-      "summary": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
-      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/",
-      "published": "Fri, 13 Mar 2026 16:31:29 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.616515"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Magnetars drag spacetime to power superluminous supernovae",
-      "summary": "Frame-dragging may explain an odd pattern seen in the brightest supernovae.",
-      "link": "https://arstechnica.com/science/2026/03/magnetars-drag-spacetime-to-power-superluminous-supernovae/",
-      "published": "Fri, 13 Mar 2026 15:59:40 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.616539"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Measles vaccinations rose 291% among New Mexico adults during outbreak",
-      "summary": "Despite anti-vaccine rhetoric, New Mexico residents embraced lifesaving shots.",
-      "link": "https://arstechnica.com/health/2026/03/signs-of-hope-as-measles-spread-new-mexico-vaccinations-surged-55/",
-      "published": "Fri, 13 Mar 2026 15:44:20 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.616567"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Microsoft is working to eliminate PC gaming's \"compiling shaders\" wait times",
-      "summary": "Advanced Shader Delivery uses precompiled shaders for \"console-like load times\" across PC hardware.",
-      "link": "https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times/",
-      "published": "Fri, 13 Mar 2026 15:31:38 +0000",
+      "source": "theverge",
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "summary": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company wil",
+      "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+      "published": "2026-03-13T16:51:48-04:00",
       "keywords": [
         "AI",
         "Microsoft",
@@ -260,7 +107,184 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.616596"
+      "crawled_at": "2026-03-14T01:07:14.229552"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump Mobile is just one in the crowd of conservative carriers",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its conservative carrier competition. Trump Mobile isn't unique. I mean, it is in some pretty specific senses - it's not every day the president's family launches a phon",
+      "link": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
+      "published": "2026-03-13T16:51:39-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-14T01:07:14.229593"
+    },
+    {
+      "source": "theverge",
+      "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
+      "summary": "It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site would relaunch, promising a \"social discovery built by communities, not by algorithms.\" Now, two months after opening its Reddit-like platform to the public, Digg is",
+      "link": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
+      "published": "2026-03-13T16:51:15-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.229634"
+    },
+    {
+      "source": "hackernews",
+      "title": "Our Experience with I-Ready",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/\nComments URL: https://news.ycombinator.com/item?id=47371922\nPoints: 5\n# Comments: 1",
+      "link": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+      "published": "Sat, 14 Mar 2026 00:29:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.508722"
+    },
+    {
+      "source": "hackernews",
+      "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+      "summary": "Article URL: https://lr0.org/blog/p/crocker/\nComments URL: https://news.ycombinator.com/item?id=47371275\nPoints: 20\n# Comments: 32",
+      "link": "https://lr0.org/blog/p/crocker/",
+      "published": "Fri, 13 Mar 2026 23:14:37 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.508764"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "summary": "Article URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys\nComments URL: https://news.ycombinator.com/item?id=47371064\nPoints: 64\n# Comments: 18",
+      "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "published": "Fri, 13 Mar 2026 22:52:05 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.508802"
+    },
+    {
+      "source": "hackernews",
+      "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+      "summary": "Article URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/\nComments URL: https://news.ycombinator.com/item?id=47370822\nPoints: 111\n# Comments: 49",
+      "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+      "published": "Fri, 13 Mar 2026 22:28:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.508834"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+      "summary": "Article URL: https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate\nComments URL: https://news.ycombinator.com/item?id=47368430\nPoints: 47\n# Comments: 34",
+      "link": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+      "published": "Fri, 13 Mar 2026 19:15:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.508874"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
+      "summary": "She made a full recovery, despite the maggots.",
+      "link": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/",
+      "published": "Fri, 13 Mar 2026 22:38:10 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-14T01:07:14.754831"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Slay the Spire 2 is a bit too familiar for its own good",
+      "summary": "Early Access impressions: New characters shine, but it feels like we've done this before.",
+      "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
+      "published": "Fri, 13 Mar 2026 22:26:06 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.754866"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Figuring out why AIs get flummoxed by some games",
+      "summary": "When winning depends on intuiting a mathematical function, AIs come up short.",
+      "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+      "published": "Fri, 13 Mar 2026 21:47:34 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.754889"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google Fiber will be sold to private equity firm and merge with cable company",
+      "summary": "GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
+      "published": "Fri, 13 Mar 2026 20:57:54 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.754916"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+      "published": "Fri, 13 Mar 2026 20:18:08 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.754946"
+    },
+    {
+      "source": "wired",
+      "title": "What to Do in Vegas If You’re Here for Business (2026)",
+      "summary": "Where to lock in, power down, and actually enjoy your business trip.",
+      "link": "https://www.wired.com/story/in-transit-las-vegas/",
+      "published": "Fri, 13 Mar 2026 23:37:36 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-14T01:07:14.990283"
+    },
+    {
+      "source": "wired",
+      "title": "Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans",
+      "summary": "Dreo’s spring sale offers a great deal on the Chefmaker combi cooker, plus discounts on WIRED’s favorite bathroom heater and tower fan.",
+      "link": "https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/",
+      "published": "Fri, 13 Mar 2026 18:51:05 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-14T01:07:14.990319"
     },
     {
       "source": "wired",
@@ -272,7 +296,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.742322"
+      "crawled_at": "2026-03-14T01:07:14.990347"
     },
     {
       "source": "wired",
@@ -285,7 +309,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-13T18:27:38.742361"
+      "crawled_at": "2026-03-14T01:07:14.990376"
     },
     {
       "source": "wired",
@@ -298,33 +322,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.742386"
-    },
-    {
-      "source": "wired",
-      "title": "The Iran War Is Throwing Global Shipping Into Chaos",
-      "summary": "Flexport CEO Ryan Petersen says the conflict is stranding cargo and threatening inflation.",
-      "link": "https://www.wired.com/story/iran-war-global-supply-chain-chaos/",
-      "published": "Fri, 13 Mar 2026 15:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-13T18:27:38.742415"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Outdoor Deals From the REI Member Days Sale (2026)",
-      "summary": "REI's Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.",
-      "link": "https://www.wired.com/story/rei-member-days-sale-2026/",
-      "published": "Fri, 13 Mar 2026 14:31:32 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-13T18:27:38.742438"
+      "crawled_at": "2026-03-14T01:07:14.990399"
     }
   ]
 }
