@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-03-17T06:51:30.026641",
+  "last_updated": "2026-03-17T12:43:07.690530",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Amazon adds 1-hour and 3-hour delivery options in the US",
+      "summary": "Amazon Prime subscribers will be charged $9.99 for one-hour delivery and $4.99 for three-hour delivery. If you don't have a Prime subscription, you'll pay $19.99 for one-hour delivery and $14.99 for three-hour delivery.",
+      "link": "https://techcrunch.com/2026/03/17/amazon-adds-1-hour-and-3-hour-delivery-options-in-the-us/",
+      "published": "Tue, 17 Mar 2026 11:34:35 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.100958"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Gecko Robotics lands the largest U.S. Navy robotics deal yet",
+      "summary": "Gecko Robotics inked a five-year deal to help the U.S. Navy monitor and predict needed maintenance on its fleet of ships.",
+      "link": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "published": "Tue, 17 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T12:43:07.100995"
+    },
     {
       "source": "techcrunch",
       "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
@@ -13,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.514799"
+      "crawled_at": "2026-03-17T12:43:07.101028"
     },
     {
       "source": "techcrunch",
@@ -25,7 +51,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.514844"
+      "crawled_at": "2026-03-17T12:43:07.101075"
     },
     {
       "source": "techcrunch",
@@ -38,34 +64,58 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.514877"
+      "crawled_at": "2026-03-17T12:43:07.101107"
     },
     {
-      "source": "techcrunch",
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
-      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "published": "Mon, 16 Mar 2026 21:41:37 +0000",
+      "source": "theverge",
+      "title": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
+      "summary": "Oppo has launched its \"zero-feel crease\" foldable, the Find N6, but while we knew it was unlikely to launch in the US, it's a shame to discover that the promised \"global\" launch is also leaving Europe out in the cold. Instead, the Find N6 will go on sale from March 20th across what the company [&#82",
+      "link": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
+      "published": "2026-03-17T08:00:00-04:00",
       "keywords": [
-        "AI"
+        "Go",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.514908"
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.193145"
     },
     {
-      "source": "techcrunch",
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
-      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "published": "Mon, 16 Mar 2026 20:58:36 +0000",
+      "source": "theverge",
+      "title": "Samsung discontinues its Galaxy Z TriFold after just three months",
+      "summary": "Samsung is preparing to axe its first three-panel foldable phone less than three months after launching the device in the US. Sales of the $2,899 Galaxy Z TriFold will first be wound down in Korea and then discontinued in the US once remaining inventory has been cleared, an unnamed Samsung spokesper",
+      "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+      "published": "2026-03-17T07:49:11-04:00",
       "keywords": [
         "AI",
-        "Go",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.514937"
+      "crawled_at": "2026-03-17T12:43:07.193193"
+    },
+    {
+      "source": "theverge",
+      "title": "Leaving civilization is now easier with this ‘off-grid utility core’",
+      "summary": "Klumpen isn't an off-grid cabin, but it does provide all the utilities needed to live away from civilization comfortably. The seven-square-meter teepee is an \"off-grid utility core\" that provides solar-generated electricity, satellite broadband, a shower, toilet, and small kitchen. It's expected to ",
+      "link": "https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins",
+      "published": "2026-03-17T06:16:39-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.193255"
+    },
+    {
+      "source": "theverge",
+      "title": "Hands on with Aqara’s new Matter-compatible camera",
+      "summary": "The first Matter camera is here - sort of. Camera support came to the smart home standard last year, and Aqara's Camera Hub G350 is the first to support it. The G350, which was announced at CES, launched this week and is a pan-and-tilt indoor security camera with up to 4K video resolution. Today, th",
+      "link": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review",
+      "published": "2026-03-17T04:00:00-04:00",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-17T12:43:07.193302"
     },
     {
       "source": "theverge",
@@ -79,124 +129,69 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-17T06:51:29.576196"
+      "crawled_at": "2026-03-17T12:43:07.193338"
     },
     {
-      "source": "theverge",
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted ",
-      "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-      "published": "2026-03-16T17:56:05-04:00",
-      "keywords": [
-        "AI",
-        "GPT",
-        "Go",
-        "React",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.576244"
-    },
-    {
-      "source": "theverge",
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-      "published": "2026-03-16T17:44:11-04:00",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.576295"
-    },
-    {
-      "source": "theverge",
-      "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
-      "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Spring Sale, which officially kicks off on March 25th. The X8 Pro Omni is available [",
-      "link": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
-      "published": "2026-03-16T17:21:31-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.576338"
-    },
-    {
-      "source": "theverge",
-      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying",
-      "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-      "published": "2026-03-16T16:41:55-04:00",
+      "source": "hackernews",
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "summary": "Article URL: https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html\nComments URL: https://news.ycombinator.com/item?id=47411480\nPoints: 16\n# Comments: 5",
+      "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "published": "Tue, 17 Mar 2026 12:01:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.576375"
+      "crawled_at": "2026-03-17T12:43:07.376075"
     },
     {
       "source": "hackernews",
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 261\n# Comments: 45",
-      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "published": "Tue, 17 Mar 2026 04:39:42 +0000",
+      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+      "summary": "Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech\nComments URL: https://news.ycombinator.com/item?id=47410870\nPoints: 230\n# Comments: 54",
+      "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+      "published": "Tue, 17 Mar 2026 10:39:48 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.376132"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kagi Small Web",
+      "summary": "Article URL: https://kagi.com/smallweb/\nComments URL: https://news.ycombinator.com/item?id=47410542\nPoints: 243\n# Comments: 47",
+      "link": "https://kagi.com/smallweb/",
+      "published": "Tue, 17 Mar 2026 09:53:53 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.778866"
+      "crawled_at": "2026-03-17T12:43:07.376165"
     },
     {
       "source": "hackernews",
-      "title": "Monkey Island for Commodore 64 Ground Up",
-      "summary": "Article URL: https://pixeldust.se/monkey-island-project\nComments URL: https://news.ycombinator.com/item?id=47408441\nPoints: 73\n# Comments: 18",
-      "link": "https://pixeldust.se/monkey-island-project",
-      "published": "Tue, 17 Mar 2026 04:00:28 +0000",
+      "title": "Building a Shell",
+      "summary": "Article URL: https://healeycodes.com/building-a-shell\nComments URL: https://news.ycombinator.com/item?id=47410532\nPoints: 54\n# Comments: 13",
+      "link": "https://healeycodes.com/building-a-shell",
+      "published": "Tue, 17 Mar 2026 09:52:34 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-17T12:43:07.376192"
+    },
+    {
+      "source": "hackernews",
+      "title": "Grace Hopper's Revenge",
+      "summary": "Article URL: https://www.thefuriousopposites.com/p/grace-hoppers-revenge\nComments URL: https://news.ycombinator.com/item?id=47410349\nPoints: 42\n# Comments: 32",
+      "link": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+      "published": "Tue, 17 Mar 2026 09:26:48 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.778909"
-    },
-    {
-      "source": "hackernews",
-      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
-      "summary": "Article URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2\nComments URL: https://news.ycombinator.com/item?id=47408360\nPoints: 52\n# Comments: 4",
-      "link": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
-      "published": "Tue, 17 Mar 2026 03:46:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.778945"
-    },
-    {
-      "source": "hackernews",
-      "title": "Every layer of review makes you 10x slower",
-      "summary": "Article URL: https://apenwarr.ca/log/20260316\nComments URL: https://news.ycombinator.com/item?id=47408205\nPoints: 119\n# Comments: 48",
-      "link": "https://apenwarr.ca/log/20260316",
-      "published": "Tue, 17 Mar 2026 03:20:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.778979"
-    },
-    {
-      "source": "hackernews",
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 522\n# Comments: 276",
-      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "published": "Tue, 17 Mar 2026 00:02:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.779021"
+      "crawled_at": "2026-03-17T12:43:07.376226"
     },
     {
       "source": "arstechnica",
@@ -208,7 +203,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.902384"
+      "crawled_at": "2026-03-17T12:43:07.528998"
     },
     {
       "source": "arstechnica",
@@ -221,7 +216,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.902426"
+      "crawled_at": "2026-03-17T12:43:07.529026"
     },
     {
       "source": "arstechnica",
@@ -231,7 +226,7 @@
       "published": "Mon, 16 Mar 2026 20:33:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:29.902468"
+      "crawled_at": "2026-03-17T12:43:07.529073"
     },
     {
       "source": "arstechnica",
@@ -243,7 +238,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.902494"
+      "crawled_at": "2026-03-17T12:43:07.529099"
     },
     {
       "source": "arstechnica",
@@ -256,64 +251,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:29.902516"
+      "crawled_at": "2026-03-17T12:43:07.529120"
     },
     {
       "source": "wired",
-      "title": "Sam's Club Coupons and Deals: Save up to 60% in March 2026",
-      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-      "link": "https://www.wired.com/story/sams-club-coupon/",
-      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
+      "title": "Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet",
+      "summary": "Skylight’s popular digital calendar gets its Goldilocks size. But like with the Calendar Max before it, you have to prepare your family for a full conversion to keep it useful.",
+      "link": "https://www.wired.com/review/skylight-calendar-2/",
+      "published": "Tue, 17 Mar 2026 12:01:00 +0000",
       "keywords": [
+        "Go",
+        "Git",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-17T06:51:30.026427"
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.690324"
     },
     {
       "source": "wired",
-      "title": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
-      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-      "link": "https://www.wired.com/story/expedia-coupon/",
-      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-17T06:51:30.026459"
-    },
-    {
-      "source": "wired",
-      "title": "Dermstore Promo Codes and Deals: Save Up to 25%",
-      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
-      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
+      "title": "What Are Gravel Running Shoes? (2026)",
+      "summary": "This new-ish hybrid between trail runners and road runners is designed for less technical terrain and the occasional road run.",
+      "link": "https://www.wired.com/story/what-are-gravel-running-shoes/",
+      "published": "Tue, 17 Mar 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:30.026484"
+      "crawled_at": "2026-03-17T12:43:07.690355"
     },
     {
       "source": "wired",
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary": "Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T06:51:30.026524"
-    },
-    {
-      "source": "wired",
-      "title": "KitchenAid Promo Codes and Discounts: Save Up to 20%",
-      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
+      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
+      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+      "published": "Tue, 17 Mar 2026 11:00:00 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T06:51:30.026547"
+      "crawled_at": "2026-03-17T12:43:07.690387"
+    },
+    {
+      "source": "wired",
+      "title": "How to Set Up Your Own NAS Server for Backups and Content Streaming",
+      "summary": "A home network-attached storage (NAS) server is ideal for backups, content streaming, and more. It could even save you money in the long run.",
+      "link": "https://www.wired.com/story/how-to-set-up-nas-server/",
+      "published": "Tue, 17 Mar 2026 10:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T12:43:07.690419"
+    },
+    {
+      "source": "wired",
+      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+      "summary": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
+      "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+      "published": "Tue, 17 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T12:43:07.690446"
     }
   ]
 }
