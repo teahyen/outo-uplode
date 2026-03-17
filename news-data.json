@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-17T01:09:38.206829",
+  "last_updated": "2026-03-17T06:51:30.026641",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "published": "Tue, 17 Mar 2026 04:01:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T06:51:29.514799"
+    },
     {
       "source": "techcrunch",
       "title": "SEC eyes shift to twice-yearly earnings reports",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:37.651528"
+      "crawled_at": "2026-03-17T06:51:29.514844"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.651574"
+      "crawled_at": "2026-03-17T06:51:29.514877"
     },
     {
       "source": "techcrunch",
@@ -37,7 +50,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.651605"
+      "crawled_at": "2026-03-17T06:51:29.514908"
     },
     {
       "source": "techcrunch",
@@ -52,20 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.651633"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
-      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-      "published": "Mon, 16 Mar 2026 20:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.651662"
+      "crawled_at": "2026-03-17T06:51:29.514937"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-17T01:09:37.729883"
+      "crawled_at": "2026-03-17T06:51:29.576196"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.729940"
+      "crawled_at": "2026-03-17T06:51:29.576244"
     },
     {
       "source": "theverge",
@@ -109,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.729991"
+      "crawled_at": "2026-03-17T06:51:29.576295"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.730033"
+      "crawled_at": "2026-03-17T06:51:29.576338"
     },
     {
       "source": "theverge",
@@ -136,71 +136,67 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.730071"
+      "crawled_at": "2026-03-17T06:51:29.576375"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 261\n# Comments: 45",
+      "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "published": "Tue, 17 Mar 2026 04:39:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T06:51:29.778866"
+    },
+    {
+      "source": "hackernews",
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "summary": "Article URL: https://pixeldust.se/monkey-island-project\nComments URL: https://news.ycombinator.com/item?id=47408441\nPoints: 73\n# Comments: 18",
+      "link": "https://pixeldust.se/monkey-island-project",
+      "published": "Tue, 17 Mar 2026 04:00:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T06:51:29.778909"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "summary": "Article URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2\nComments URL: https://news.ycombinator.com/item?id=47408360\nPoints: 52\n# Comments: 4",
+      "link": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+      "published": "Tue, 17 Mar 2026 03:46:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T06:51:29.778945"
+    },
+    {
+      "source": "hackernews",
+      "title": "Every layer of review makes you 10x slower",
+      "summary": "Article URL: https://apenwarr.ca/log/20260316\nComments URL: https://news.ycombinator.com/item?id=47408205\nPoints: 119\n# Comments: 48",
+      "link": "https://apenwarr.ca/log/20260316",
+      "published": "Tue, 17 Mar 2026 03:20:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T06:51:29.778979"
     },
     {
       "source": "hackernews",
       "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 129\n# Comments: 66",
+      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 522\n# Comments: 276",
       "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
       "published": "Tue, 17 Mar 2026 00:02:35 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:37.929108"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Trackm, a personal finance web app",
-      "summary": "I built this as a personal finance app that allows me to see how my recurring incomes and expenses will affect my network over the years.So trackm can show up to 4 years in the future and track when your accounts will go negative given you expenses and incomes.I've been dogfooding it for the past 10",
-      "link": "https://trackm.net",
-      "published": "Mon, 16 Mar 2026 23:36:43 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-17T01:09:37.929184"
-    },
-    {
-      "source": "hackernews",
-      "title": "AnswerThis (YC F25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=47404801\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
-      "published": "Mon, 16 Mar 2026 21:00:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:37.929225"
-    },
-    {
-      "source": "hackernews",
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "summary": "Article URL: https://mistral.ai/news/leanstral\nComments URL: https://news.ycombinator.com/item?id=47404796\nPoints: 277\n# Comments: 49",
-      "link": "https://mistral.ai/news/leanstral",
-      "published": "Mon, 16 Mar 2026 20:59:40 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.929256"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai\nComments URL: https://news.ycombinator.com/item?id=47404074\nPoints: 121\n# Comments: 76",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-      "published": "Mon, 16 Mar 2026 20:01:02 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:37.929287"
+      "crawled_at": "2026-03-17T06:51:29.779021"
     },
     {
       "source": "arstechnica",
@@ -212,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:38.061745"
+      "crawled_at": "2026-03-17T06:51:29.902384"
     },
     {
       "source": "arstechnica",
@@ -225,7 +221,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:38.061778"
+      "crawled_at": "2026-03-17T06:51:29.902426"
     },
     {
       "source": "arstechnica",
@@ -235,7 +231,7 @@
       "published": "Mon, 16 Mar 2026 20:33:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:38.061814"
+      "crawled_at": "2026-03-17T06:51:29.902468"
     },
     {
       "source": "arstechnica",
@@ -247,7 +243,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:38.061840"
+      "crawled_at": "2026-03-17T06:51:29.902494"
     },
     {
       "source": "arstechnica",
@@ -260,67 +256,64 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:38.061862"
+      "crawled_at": "2026-03-17T06:51:29.902516"
     },
     {
       "source": "wired",
-      "title": "File Your Taxes With TurboTax Full Service Now Before Prices Go Up",
-      "summary": "Procrastinators get penalized. File your taxes through TurboTax before March 18 for $150.",
-      "link": "https://www.wired.com/story/turbotax-deal-326/",
-      "published": "Mon, 16 Mar 2026 20:50:19 +0000",
+      "title": "Sam's Club Coupons and Deals: Save up to 60% in March 2026",
+      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+      "link": "https://www.wired.com/story/sams-club-coupon/",
+      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:38.206545"
+      "category": "Programming",
+      "crawled_at": "2026-03-17T06:51:30.026427"
     },
     {
       "source": "wired",
-      "title": "What’s New in the AirPods Max 2? Breaking Down Apple’s Headphone Update",
-      "summary": "Apple’s premium over-ears finally have a proper successor, but after five years of waiting, it’s hard not to wonder: “Is that it?”",
-      "link": "https://www.wired.com/story/apple-airpods-max-2-news/",
-      "published": "Mon, 16 Mar 2026 20:14:33 +0000",
+      "title": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
+      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+      "link": "https://www.wired.com/story/expedia-coupon/",
+      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-17T06:51:30.026459"
+    },
+    {
+      "source": "wired",
+      "title": "Dermstore Promo Codes and Deals: Save Up to 25%",
+      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "link": "https://www.wired.com/story/dermstore-promo-code/",
+      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T01:09:38.206594"
+      "crawled_at": "2026-03-17T06:51:30.026484"
     },
     {
       "source": "wired",
-      "title": "Save Almost 20 Percent on Our Favorite Portable Bluetooth Speaker",
-      "summary": "The Tribit Stormbox Mini+ is as affordable as it is compact.",
-      "link": "https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/",
-      "published": "Mon, 16 Mar 2026 19:00:25 +0000",
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary": "Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:38.206623"
+      "crawled_at": "2026-03-17T06:51:30.026524"
     },
     {
       "source": "wired",
-      "title": "JBL’s Best Wireless Headphones Are $170 Off at Walmart",
-      "summary": "The Tour One M3 headphones offer flagship performance at midrange pricing, as long as color is negotiable for you.",
-      "link": "https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/",
-      "published": "Mon, 16 Mar 2026 17:04:21 +0000",
+      "title": "KitchenAid Promo Codes and Discounts: Save Up to 20%",
+      "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+      "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+      "published": "Tue, 17 Mar 2026 05:00:00 +0000",
       "keywords": [
-        "Go",
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T01:09:38.206661"
-    },
-    {
-      "source": "wired",
-      "title": "COBOL Is the Asbestos of Programming Languages",
-      "summary": "The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.",
-      "link": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/",
-      "published": "Mon, 16 Mar 2026 11:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-17T01:09:38.206688"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T06:51:30.026547"
     }
   ]
 }
