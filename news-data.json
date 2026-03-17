@@ -1,270 +1,303 @@
 {
-  "last_updated": "2026-03-16T18:46:42.186333",
+  "last_updated": "2026-03-17T01:09:38.206829",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
-      "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
-      "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
-      "published": "Mon, 16 Mar 2026 18:36:42 +0000",
+      "title": "SEC eyes shift to twice-yearly earnings reports",
+      "summary": "The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ.",
+      "link": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/",
+      "published": "Tue, 17 Mar 2026 00:27:10 +0000",
       "keywords": [
-        "AI",
-        "Apple",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.392098"
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:37.651528"
     },
     {
       "source": "techcrunch",
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
-      "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "published": "Mon, 16 Mar 2026 17:51:46 +0000",
+      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
+      "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "published": "Mon, 16 Mar 2026 22:45:51 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.392145"
+      "crawled_at": "2026-03-17T01:09:37.651574"
     },
     {
       "source": "techcrunch",
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
-      "link": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "published": "Mon, 16 Mar 2026 17:47:32 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.392172"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-      "summary": "The startup also announced a $5M 'rescue fund' to help credit unions ditch legacy software for its AI-native platform.",
-      "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "published": "Mon, 16 Mar 2026 17:43:27 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.392197"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The dictionary sues OpenAI",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-      "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "published": "Mon, 16 Mar 2026 17:38:34 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.392221"
-    },
-    {
-      "source": "theverge",
-      "title": "Sony&#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight",
-      "summary": "Sony's upgraded PlayStation Spectral Super Resolution (PSSR) technology is rolling out to several titles on the PS5 Pro, including Cyberpunk 2077, Final Fantasy VII Rebirth, Silent Hill 2, and more. Digital Foundry got a chance to test some of them and found that the \"new upscaler delivers the kind ",
-      "link": "https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill",
-      "published": "2026-03-16T14:07:30-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.552386"
-    },
-    {
-      "source": "theverge",
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Bri",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "published": "2026-03-16T13:04:06-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.552450"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off",
-      "summary": "Since Amazon rolled out its redesigned Fire TV OS, Amazon’s latest streaming sticks are even better than ever. And right now, both the Fire TV Stick 4K Max and Fire TV Stick 4K Plus are back at their best prices yet during Amazon’s early Big Spring Sale event. You can buy the Fire TV Stick [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
-      "published": "2026-03-16T13:00:00-04:00",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:37.552507"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon’s best Echo speakers and screens just got their biggest discounts",
-      "summary": "While Amazon’s previous lineup of Echo speakers and smart displays was boring, frankly, its late 2025 hardware refresh brought better hardware, improved performance, and Alexa Plus to several models. If you feel like your room(s) could benefit from speakers to deliver tunes, audiobooks, or podcasts ",
-      "link": "https://www.theverge.com/gadgets/895201/echo-show-dot-max-studio-amazon-apple-watch-ultra-deal-sale",
-      "published": "2026-03-16T11:14:08-04:00",
-      "keywords": [
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-16T18:46:37.552565"
-    },
-    {
-      "source": "theverge",
-      "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
-      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer [&#82",
-      "link": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-      "published": "2026-03-16T11:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:37.552603"
-    },
-    {
-      "source": "hackernews",
-      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 11\n# Comments: 0",
-      "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "published": "Mon, 16 Mar 2026 18:38:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.757312"
-    },
-    {
-      "source": "hackernews",
-      "title": "The return-to-the-office trend backfires",
-      "summary": "Article URL: https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/\nComments URL: https://news.ycombinator.com/item?id=47402651\nPoints: 25\n# Comments: 5",
-      "link": "https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/",
-      "published": "Mon, 16 Mar 2026 18:13:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.757356"
-    },
-    {
-      "source": "hackernews",
-      "title": "Jemalloc un-abandoned by Meta",
-      "summary": "https://github.com/jemalloc/jemalloc\n\nComments URL: https://news.ycombinator.com/item?id=47402640\nPoints: 48\n# Comments: 7",
-      "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "published": "Mon, 16 Mar 2026 18:12:32 +0000",
-      "keywords": [
-        "Meta",
-        "Git",
-        "GitHub"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.757387"
-    },
-    {
-      "source": "hackernews",
-      "title": "Language Model Teams as Distrbuted Systems",
-      "summary": "Article URL: https://arxiv.org/abs/2603.12229\nComments URL: https://news.ycombinator.com/item?id=47401901\nPoints: 8\n# Comments: 1",
-      "link": "https://arxiv.org/abs/2603.12229",
-      "published": "Mon, 16 Mar 2026 17:19:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.757419"
-    },
-    {
-      "source": "hackernews",
-      "title": "The “small web” is bigger than you might think",
-      "summary": "Article URL: https://kevinboone.me/small_web_is_big.html\nComments URL: https://news.ycombinator.com/item?id=47401879\nPoints: 93\n# Comments: 20",
-      "link": "https://kevinboone.me/small_web_is_big.html",
-      "published": "Mon, 16 Mar 2026 17:17:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.757461"
-    },
-    {
-      "source": "arstechnica",
-      "title": "F1 in China: I've never seen so many people in those grandstands",
-      "summary": "Formula 1's new style of racing puts on an entertaining sprint weekend in Shanghai.",
-      "link": "https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/",
-      "published": "Mon, 16 Mar 2026 17:11:42 +0000",
+      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips.",
+      "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "published": "Mon, 16 Mar 2026 21:41:37 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:41.991382"
+      "crawled_at": "2026-03-17T01:09:37.651605"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "published": "Mon, 16 Mar 2026 20:58:36 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.651633"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Memories AI is building the visual memory layer for wearables and robotics",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
+      "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "published": "Mon, 16 Mar 2026 20:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.651662"
+    },
+    {
+      "source": "theverge",
+      "title": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
+      "summary": "After a chaotic week following the Justice Department's mid-trial settlement with Live Nation-Ticketmaster, the antitrust trial picked back up surprisingly smoothly on Monday - this time, with dozens of states leading the case. This isn't the outcome the states originally wanted. Out of concerns abo",
+      "link": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
+      "published": "2026-03-16T20:08:31-04:00",
+      "keywords": [
+        "Rust",
+        "REST",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-17T01:09:37.729883"
+    },
+    {
+      "source": "theverge",
+      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted ",
+      "link": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "published": "2026-03-16T17:56:05-04:00",
+      "keywords": [
+        "AI",
+        "GPT",
+        "Go",
+        "React",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.729940"
+    },
+    {
+      "source": "theverge",
+      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+      "published": "2026-03-16T17:44:11-04:00",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.729991"
+    },
+    {
+      "source": "theverge",
+      "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs are nearly 50 percent off",
+      "summary": "If you like the idea of spring cleaning but not the part where you actually have to clean, both the Ecovacs Deebot X8 Pro Omni and newer X9 Pro Omni have dropped to their lowest prices to date ahead of Amazon’s Big Spring Sale, which officially kicks off on March 25th. The X8 Pro Omni is available [",
+      "link": "https://www.theverge.com/gadgets/895458/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-amazon-big-spring-sale-deal-2026",
+      "published": "2026-03-16T17:21:31-04:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.730033"
+    },
+    {
+      "source": "theverge",
+      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
+      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying",
+      "link": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
+      "published": "2026-03-16T16:41:55-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.730071"
+    },
+    {
+      "source": "hackernews",
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 129\n# Comments: 66",
+      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "published": "Tue, 17 Mar 2026 00:02:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:37.929108"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Trackm, a personal finance web app",
+      "summary": "I built this as a personal finance app that allows me to see how my recurring incomes and expenses will affect my network over the years.So trackm can show up to 4 years in the future and track when your accounts will go negative given you expenses and incomes.I've been dogfooding it for the past 10",
+      "link": "https://trackm.net",
+      "published": "Mon, 16 Mar 2026 23:36:43 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-17T01:09:37.929184"
+    },
+    {
+      "source": "hackernews",
+      "title": "AnswerThis (YC F25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead\nComments URL: https://news.ycombinator.com/item?id=47404801\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
+      "published": "Mon, 16 Mar 2026 21:00:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:37.929225"
+    },
+    {
+      "source": "hackernews",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "summary": "Article URL: https://mistral.ai/news/leanstral\nComments URL: https://news.ycombinator.com/item?id=47404796\nPoints: 277\n# Comments: 49",
+      "link": "https://mistral.ai/news/leanstral",
+      "published": "Mon, 16 Mar 2026 20:59:40 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.929256"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai\nComments URL: https://news.ycombinator.com/item?id=47404074\nPoints: 121\n# Comments: 76",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+      "published": "Mon, 16 Mar 2026 20:01:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:37.929287"
     },
     {
       "source": "arstechnica",
-      "title": "Apple’s AirPods Max 2 bring H2 chip, boosted ANC in April for $549",
-      "summary": "Apple's over-head headphones gets an update after over five years.",
-      "link": "https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/",
-      "published": "Mon, 16 Mar 2026 16:51:00 +0000",
+      "title": "RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge",
+      "summary": "Ruling temporarily blocks changes to vaccine recommendations and an advisory board.",
+      "link": "https://arstechnica.com/health/2026/03/judge-temporarily-blocks-rfk-jr-s-changes-to-cdc-vaccine-recommendations/",
+      "published": "Mon, 16 Mar 2026 22:20:39 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:38.061745"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
+      "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
+      "published": "Mon, 16 Mar 2026 21:51:16 +0000",
+      "keywords": [
+        "AI",
+        "AWS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:38.061778"
+    },
+    {
+      "source": "arstechnica",
+      "title": "National Academies of Sciences says no to demands it remove climate info",
+      "summary": "State attorneys general won't get climate chapter removed from a legal manual.",
+      "link": "https://arstechnica.com/science/2026/03/national-academies-of-sciences-resisting-pressure-to-pull-climate-info/",
+      "published": "Mon, 16 Mar 2026 20:33:41 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:38.061814"
+    },
+    {
+      "source": "arstechnica",
+      "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
+      "summary": "Creator apologizes after using Patreon funds for Gemini-powered magazine scan processor.",
+      "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
+      "published": "Mon, 16 Mar 2026 20:06:56 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:38.061840"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump and his FCC chair demand more positive news coverage of Iran war",
+      "summary": "Carr makes evidence-free claim of \"hoaxes and news distortions.\" Trump is thrilled.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/trump-and-his-fcc-chair-demand-more-positive-news-coverage-of-iran-war/",
+      "published": "Mon, 16 Mar 2026 19:41:26 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-17T01:09:38.061862"
+    },
+    {
+      "source": "wired",
+      "title": "File Your Taxes With TurboTax Full Service Now Before Prices Go Up",
+      "summary": "Procrastinators get penalized. File your taxes through TurboTax before March 18 for $150.",
+      "link": "https://www.wired.com/story/turbotax-deal-326/",
+      "published": "Mon, 16 Mar 2026 20:50:19 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-17T01:09:38.206545"
+    },
+    {
+      "source": "wired",
+      "title": "What’s New in the AirPods Max 2? Breaking Down Apple’s Headphone Update",
+      "summary": "Apple’s premium over-ears finally have a proper successor, but after five years of waiting, it’s hard not to wonder: “Is that it?”",
+      "link": "https://www.wired.com/story/apple-airpods-max-2-news/",
+      "published": "Mon, 16 Mar 2026 20:14:33 +0000",
       "keywords": [
         "AI",
         "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-16T18:46:41.991417"
+      "crawled_at": "2026-03-17T01:09:38.206594"
     },
     {
-      "source": "arstechnica",
-      "title": "100 years later, where is Robert Goddard's first liquid-fuel rocket?",
-      "summary": "\"He didn't preserve it as a sacred object...\"",
-      "link": "https://arstechnica.com/space/2026/03/100-years-later-where-is-robert-goddards-first-liquid-fuel-rocket/",
-      "published": "Mon, 16 Mar 2026 16:38:45 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.991444"
-    },
-    {
-      "source": "arstechnica",
-      "title": "No accountability: Bills would ban liability lawsuits for climate change",
-      "summary": "This is the latest front in the battle over climate lawsuits.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/",
-      "published": "Mon, 16 Mar 2026 13:33:15 +0000",
-      "keywords": [
-        "AWS"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-16T18:46:41.991467"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The science of how fireflies stay in sync",
-      "summary": "Engineers have uncovered the mathematical rules fireflies follow to sync up their flashes.",
-      "link": "https://arstechnica.com/science/2026/03/the-science-of-how-fireflies-stay-in-sync/",
-      "published": "Mon, 16 Mar 2026 12:25:31 +0000",
+      "source": "wired",
+      "title": "Save Almost 20 Percent on Our Favorite Portable Bluetooth Speaker",
+      "summary": "The Tribit Stormbox Mini+ is as affordable as it is compact.",
+      "link": "https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/",
+      "published": "Mon, 16 Mar 2026 19:00:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:41.991491"
+      "crawled_at": "2026-03-17T01:09:38.206623"
     },
     {
       "source": "wired",
@@ -277,7 +310,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:42.186081"
+      "crawled_at": "2026-03-17T01:09:38.206661"
     },
     {
       "source": "wired",
@@ -287,44 +320,7 @@
       "published": "Mon, 16 Mar 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Programming",
-      "crawled_at": "2026-03-16T18:46:42.186114"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Dark Web Monitoring Services and Bundles",
-      "summary": "Data breaches are more common than ever. Here are the best ways I've found to protect yourself online.",
-      "link": "https://www.wired.com/story/best-dark-web-monitoring-services/",
-      "published": "Mon, 16 Mar 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-03-16T18:46:42.186140"
-    },
-    {
-      "source": "wired",
-      "title": "The Tesla Influencers Leaving the ‘Cult’",
-      "summary": "The EV manufacturer is supported by a robust online community. But Elon Musk’s politics and overblown hype about Full Self-Driving are turning some loyalists away.",
-      "link": "https://www.wired.com/story/the-tesla-influencers-leaving-the-cult/",
-      "published": "Mon, 16 Mar 2026 10:30:00 +0000",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:42.186179"
-    },
-    {
-      "source": "wired",
-      "title": "These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play",
-      "summary": "A bicycle wheel with guitar strings, a touch-operated synth, and the “Demon Box” were just a few of the new instruments on show at Georgia Tech’s Guthman Musical Instrument Competition this weekend.",
-      "link": "https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/",
-      "published": "Mon, 16 Mar 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-16T18:46:42.186227"
+      "crawled_at": "2026-03-17T01:09:38.206688"
     }
   ]
 }
