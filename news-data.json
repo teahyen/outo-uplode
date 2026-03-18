@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T06:49:57.591546",
+  "last_updated": "2026-03-18T12:43:45.314562",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:56.833801"
+      "crawled_at": "2026-03-18T12:43:43.522661"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:56.833846"
+      "crawled_at": "2026-03-18T12:43:43.522706"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:56.833879"
+      "crawled_at": "2026-03-18T12:43:43.522741"
     },
     {
       "source": "techcrunch",
@@ -59,7 +59,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-18T06:49:56.833916"
+      "crawled_at": "2026-03-18T12:43:43.522778"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,31 @@
       "published": "Tue, 17 Mar 2026 20:03:26 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-03-18T06:49:56.833956"
+      "crawled_at": "2026-03-18T12:43:43.522818"
+    },
+    {
+      "source": "theverge",
+      "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not b",
+      "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+      "published": "2026-03-18T08:30:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T12:43:43.615167"
+    },
+    {
+      "source": "theverge",
+      "title": "BMW brings back the i3 as a funky four-door EV",
+      "summary": "BMW's new class of EVs begins with the iX3 SUV, but you had to know it wouldn't end there. The company's engineers didn't spend all that time working up a completely redesigned and substantially more efficient EV platform just for one crossover, and now it's time for the second wave. Meet the new i3",
+      "link": "https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs",
+      "published": "2026-03-18T06:00:00-04:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-18T12:43:43.615220"
     },
     {
       "source": "theverge",
@@ -83,7 +107,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-18T06:49:56.990640"
+      "crawled_at": "2026-03-18T12:43:43.615257"
     },
     {
       "source": "theverge",
@@ -98,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:56.990696"
+      "crawled_at": "2026-03-18T12:43:43.615298"
     },
     {
       "source": "theverge",
@@ -111,98 +135,98 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:56.990755"
+      "crawled_at": "2026-03-18T12:43:43.615354"
     },
     {
-      "source": "theverge",
-      "title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs",
-      "summary": "Starting Tuesday, Spotify users will have access to \"Exclusive Mode,\" a new feature in the streaming service's Windows app that can help maximize audio quality by giving the Spotify app full control over your device's audio processing. According to Spotify, \"your computer may alter audio before it r",
-      "link": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
-      "published": "2026-03-17T15:33:29-04:00",
+      "source": "hackernews",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/\nComments URL: https://news.ycombinator.com/item?id=47424458\nPoints: 23\n# Comments: 16",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+      "published": "Wed, 18 Mar 2026 11:44:44 +0000",
       "keywords": [
-        "Windows",
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T12:43:44.926687"
+    },
+    {
+      "source": "hackernews",
+      "title": "Judge orders restoration of Voice of America",
+      "summary": "Article URL: https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24\nComments URL: https://news.ycombinator.com/item?id=47424042\nPoints: 49\n# Comments: 19",
+      "link": "https://apnews.com/article/voice-of-america-kari-lake-trump-cd6d1ef05272f842705da0ed38d3de24",
+      "published": "Wed, 18 Mar 2026 10:57:57 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-18T12:43:44.926732"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI Has New Focus (On the IPO)",
+      "summary": "Article URL: https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/\nComments URL: https://news.ycombinator.com/item?id=47423976\nPoints: 58\n# Comments: 67",
+      "link": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "published": "Wed, 18 Mar 2026 10:49:19 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T12:43:44.926759"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rob Pike's 5 Rules of Programming",
+      "summary": "Article URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html\nComments URL: https://news.ycombinator.com/item?id=47423647\nPoints: 193\n# Comments: 90",
+      "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "published": "Wed, 18 Mar 2026 09:59:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-18T12:43:44.926787"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "summary": "Article URL: https://nightingale.cafe/\nComments URL: https://news.ycombinator.com/item?id=47422942\nPoints: 112\n# Comments: 14",
+      "link": "https://nightingale.cafe/",
+      "published": "Wed, 18 Mar 2026 08:06:24 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-18T06:49:56.990800"
+      "crawled_at": "2026-03-18T12:43:44.926829"
     },
     {
-      "source": "theverge",
-      "title": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
-      "summary": "Ikea's new Matter-over-Thread products were supposed to prove that the smart home could be cheap, accessible, and reliable. The highly anticipated line - which includes sensors, remotes, smart plugs, air-quality monitors, and smart bulbs - has most everything you need to build a smart home, with pri",
-      "link": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
-      "published": "2026-03-17T14:45:14-04:00",
+      "source": "arstechnica",
+      "title": "After Discord fiasco, age-check tech promises privacy by running locally. Does it work?",
+      "summary": "On-device face scans and cross-platform age keys decrease privacy risks, but trust issues abound.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
+      "published": "Wed, 18 Mar 2026 11:30:47 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "Rust"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:56.990844"
+      "category": "Programming",
+      "crawled_at": "2026-03-18T12:43:45.210364"
     },
     {
-      "source": "hackernews",
-      "title": "Switzerland Built an Alternative to BGP",
-      "summary": "Article URL: https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/\nComments URL: https://news.ycombinator.com/item?id=47421946\nPoints: 20\n# Comments: 2",
-      "link": "https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
-      "published": "Wed, 18 Mar 2026 05:44:23 +0000",
+      "source": "arstechnica",
+      "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
+      "summary": "The iX3 SUV was very good; we think the i3 sedan will be even better.",
+      "link": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/",
+      "published": "Wed, 18 Mar 2026 10:00:23 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:57.271577"
-    },
-    {
-      "source": "hackernews",
-      "title": "SSH has no Host header",
-      "summary": "Article URL: https://blog.exe.dev/ssh-host-header\nComments URL: https://news.ycombinator.com/item?id=47421828\nPoints: 63\n# Comments: 45",
-      "link": "https://blog.exe.dev/ssh-host-header",
-      "published": "Wed, 18 Mar 2026 05:18:02 +0000",
-      "keywords": [
-        "AR"
+        "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:57.271615"
-    },
-    {
-      "source": "hackernews",
-      "title": "Forget Flags and Scripts: Just Rename the File",
-      "summary": "Article URL: https://robertsdotpm.github.io/software_engineering/program_names_as_input.html\nComments URL: https://news.ycombinator.com/item?id=47421513\nPoints: 15\n# Comments: 14",
-      "link": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-      "published": "Wed, 18 Mar 2026 04:11:20 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:57.271652"
-    },
-    {
-      "source": "hackernews",
-      "title": "Have a Fucking Website",
-      "summary": "Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/\nComments URL: https://news.ycombinator.com/item?id=47421442\nPoints: 170\n# Comments: 81",
-      "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "published": "Wed, 18 Mar 2026 03:53:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:57.271686"
-    },
-    {
-      "source": "hackernews",
-      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-      "summary": "Article URL: https://amaiya.github.io/onprem/examples_agent.html\nComments URL: https://news.ycombinator.com/item?id=47420493\nPoints: 26\n# Comments: 4",
-      "link": "https://amaiya.github.io/onprem/examples_agent.html",
-      "published": "Wed, 18 Mar 2026 01:10:19 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:57.271713"
+      "crawled_at": "2026-03-18T12:43:45.210397"
     },
     {
       "source": "arstechnica",
@@ -215,7 +239,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:57.445680"
+      "crawled_at": "2026-03-18T12:43:45.210421"
     },
     {
       "source": "arstechnica",
@@ -228,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:57.445707"
+      "crawled_at": "2026-03-18T12:43:45.210443"
     },
     {
       "source": "arstechnica",
@@ -241,97 +265,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:57.445731"
+      "crawled_at": "2026-03-18T12:43:45.210465"
     },
     {
-      "source": "arstechnica",
-      "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
-      "summary": "Of the seven illnesses identified so far, four are in children age 3 or younger.",
-      "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
-      "published": "Tue, 17 Mar 2026 18:53:12 +0000",
+      "source": "wired",
+      "title": "Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation",
+      "summary": "The final project from famed designer Niels Diffrient, the Diffrient Lounge is made for work and play in high-budget homes.",
+      "link": "https://www.wired.com/story/humanscale-diffrient-lounge/",
+      "published": "Wed, 18 Mar 2026 12:30:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T12:43:45.314369"
+    },
+    {
+      "source": "wired",
+      "title": "5 Best Folding Phones (2026), Tested and Reviewed",
+      "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
+      "link": "https://www.wired.com/gallery/best-folding-phones/",
+      "published": "Wed, 18 Mar 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-18T06:49:57.445759"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
-      "summary": "Suit: The National Center for Atmospheric Research is to be terminated for no rational reason.",
-      "link": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
-      "published": "Tue, 17 Mar 2026 17:38:10 +0000",
-      "keywords": [
-        "AWS",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-18T06:49:57.445784"
+      "crawled_at": "2026-03-18T12:43:45.314408"
     },
     {
       "source": "wired",
-      "title": "$20 Chewy Promo Code | March 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "published": "Wed, 18 Mar 2026 05:00:00 +0000",
+      "title": "Best Barefoot Shoes for Running or Walking (2026)",
+      "summary": "Our favorite zero-drop, minimalist footwear will let you feel the ground beneath your feet.",
+      "link": "https://www.wired.com/gallery/best-barefoot-shoes/",
+      "published": "Wed, 18 Mar 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-18T06:49:57.591320"
+      "category": "Tech News",
+      "crawled_at": "2026-03-18T12:43:45.314436"
     },
     {
       "source": "wired",
-      "title": "NordVPN Coupons and Deals: 77% Off in March 2026",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "published": "Wed, 18 Mar 2026 05:00:00 +0000",
+      "title": "Boroux Versus Rorra Countertop Water Filters, Tested Head to Head",
+      "summary": "In a world of plasticky water filter pitchers, I tested two of the new generation of stainless-steel filter systems.",
+      "link": "https://www.wired.com/story/steel-water-filters-head-to-head/",
+      "published": "Wed, 18 Mar 2026 11:06:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-18T06:49:57.591347"
-    },
-    {
-      "source": "wired",
-      "title": "50% Off DoorDash Promo Code | March 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-18T06:49:57.591380"
-    },
-    {
-      "source": "wired",
-      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in March",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
-      "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-18T06:49:57.591412"
-    },
-    {
-      "source": "wired",
-      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "published": "Wed, 18 Mar 2026 00:51:14 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Rust",
-        "Go"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-18T06:49:57.591445"
+      "crawled_at": "2026-03-18T12:43:45.314459"
+    },
+    {
+      "source": "wired",
+      "title": "Samsung Galaxy Buds4 Pro Review: AirPods Pro for Android",
+      "summary": "The latest Galaxy Buds Pro get as close to the AirPods Pro as I’ve seen, in all the best ways.",
+      "link": "https://www.wired.com/review/samsung-galaxy-buds-4-pro/",
+      "published": "Wed, 18 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Android"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T12:43:45.314486"
     }
   ]
 }
