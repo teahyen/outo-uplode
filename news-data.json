@@ -1,72 +1,130 @@
 {
-  "last_updated": "2026-03-17T18:46:04.587816",
+  "last_updated": "2026-03-18T01:14:07.242615",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-      "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-      "published": "Tue, 17 Mar 2026 18:20:15 +0000",
+      "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+      "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+      "link": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+      "published": "Tue, 17 Mar 2026 21:39:17 +0000",
       "keywords": [
-        "Anthropic",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.215871"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "published": "Tue, 17 Mar 2026 21:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.215915"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "published": "Tue, 17 Mar 2026 20:50:04 +0000",
+      "keywords": [
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "Go",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.215949"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+      "summary": "Apple's first-ever \"background security improvement\" fixes a vulnerability in its Safari browser running its latest software.",
+      "link": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+      "published": "Tue, 17 Mar 2026 20:10:45 +0000",
+      "keywords": [
+        "Security",
+        "Vulnerability",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-18T01:14:06.215985"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Kagi brings its ‘small web’ of a human-only internet to mobile devices",
+      "summary": "Kagi's \"Small Web\" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos.",
+      "link": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+      "published": "Tue, 17 Mar 2026 20:03:26 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-03-18T01:14:06.216025"
+    },
+    {
+      "source": "theverge",
+      "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+      "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outside beverages into the Pentagon (the security screening cutoff was at 7AM for the 8AM), [&#8230;]",
+      "link": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+      "published": "2026-03-17T16:47:35-04:00",
+      "keywords": [
+        "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-18T01:14:06.610333"
+    },
+    {
+      "source": "theverge",
+      "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+      "summary": "Earlier this week, Apple unveiled the AirPods Max 2. The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer the sort of cross-OS compatibility you’ll get with a modern pair of Beats headphones — including th",
+      "link": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+      "published": "2026-03-17T16:38:08-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.610389"
+    },
+    {
+      "source": "theverge",
+      "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+      "summary": "Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for the foreseeable future. It's yet another example of a live-service game struggling amidst a volatil",
+      "link": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
+      "published": "2026-03-17T15:36:45-04:00",
+      "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T18:45:58.664827"
+      "crawled_at": "2026-03-18T01:14:06.610467"
     },
     {
-      "source": "techcrunch",
-      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-      "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-      "published": "Tue, 17 Mar 2026 17:17:15 +0000",
+      "source": "theverge",
+      "title": "Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs",
+      "summary": "Starting Tuesday, Spotify users will have access to \"Exclusive Mode,\" a new feature in the streaming service's Windows app that can help maximize audio quality by giving the Spotify app full control over your device's audio processing. According to Spotify, \"your computer may alter audio before it r",
+      "link": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
+      "published": "2026-03-17T15:33:29-04:00",
       "keywords": [
-        "AI",
-        "React"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:45:58.664857"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google’s data center power playbook comes into focus",
-      "summary": "Google has long procured clean power for its operations and data centers, but recent deals show the company is changing tactics.",
-      "link": "https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/",
-      "published": "Tue, 17 Mar 2026 16:46:02 +0000",
-      "keywords": [
-        "Go",
-        "Google"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:45:58.664900"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video",
-      "summary": "Micro-drama apps make billions in consumer spending, so VURT launched its streaming app to allow indie filmmakers to capitalize on the vertical video trend.",
-      "link": "https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/",
-      "published": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "keywords": [
-        "API"
+        "Windows",
+        "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-17T18:45:58.664934"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google’s Personal Intelligence feature is expanding to all US users",
-      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-      "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-      "published": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:45:58.664967"
+      "crawled_at": "2026-03-18T01:14:06.610514"
     },
     {
       "source": "theverge",
@@ -79,185 +137,182 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:45:58.802552"
+      "crawled_at": "2026-03-18T01:14:06.610558"
     },
     {
-      "source": "theverge",
-      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
-      "summary": "Yesterday Nvidia revealed its latest upscaling tech called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with pho",
-      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-      "published": "2026-03-17T14:00:00-04:00",
+      "source": "hackernews",
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381\nComments URL: https://news.ycombinator.com/item?id=47418722\nPoints: 15\n# Comments: 6",
+      "link": "https://arxiv.org/abs/2603.15381",
+      "published": "Tue, 17 Mar 2026 21:42:39 +0000",
       "keywords": [
-        "Go"
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.925208"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mistral AI Releases Forge",
+      "summary": "Article URL: https://mistral.ai/news/forge\nComments URL: https://news.ycombinator.com/item?id=47418295\nPoints: 99\n# Comments: 3",
+      "link": "https://mistral.ai/news/forge",
+      "published": "Tue, 17 Mar 2026 21:04:26 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.925241"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqj9kgxqjwjo\nComments URL: https://news.ycombinator.com/item?id=47417814\nPoints: 183\n# Comments: 118",
+      "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+      "published": "Tue, 17 Mar 2026 20:24:33 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T18:45:58.802611"
+      "crawled_at": "2026-03-18T01:14:06.925278"
     },
     {
-      "source": "theverge",
-      "title": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
-      "summary": "Insta360’s Antigravity A1 is one of the most interesting drones on the market thanks to its included Vision Goggles, which provide a 360-degree first-person view through the drone’s cameras (a screen on the outside of its lenses shows what the pilot is seeing). Its cameras can shoot 8K video at 30 f",
-      "link": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
-      "published": "2026-03-17T13:29:48-04:00",
+      "source": "hackernews",
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "summary": "Article URL: https://github.com/gsd-build/get-shit-done\nComments URL: https://news.ycombinator.com/item?id=47417804\nPoints: 169\n# Comments: 95",
+      "link": "https://github.com/gsd-build/get-shit-done",
+      "published": "Tue, 17 Mar 2026 20:23:39 +0000",
       "keywords": [
-        "Go",
+        "Meta",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-18T01:14:06.925313"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+      "summary": "Hey HN! We’re Carmel and Rhea, the founders of Kita (https://www.usekita.com/). We automate credit review for lenders in emerging markets using VLMs.In many emerging markets, like the Philippines and Mexico, credit infrastructure is weak. Open finance is still nascent, and credit bureaus are unrelia",
+      "link": "https://news.ycombinator.com/item?id=47417335",
+      "published": "Tue, 17 Mar 2026 19:46:29 +0000",
+      "keywords": [
+        "AI",
+        "Database",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:06.925562"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+      "summary": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+      "published": "Tue, 17 Mar 2026 21:38:33 +0000",
+      "keywords": [
+        "AI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:07.063009"
+    },
+    {
+      "source": "arstechnica",
+      "title": "How World ID wants to put a unique human identity on every AI agent",
+      "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+      "link": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+      "published": "Tue, 17 Mar 2026 21:28:27 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:07.063037"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+      "summary": "Desert state becomes first to file criminal case against prediction platform.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
+      "published": "Tue, 17 Mar 2026 19:28:26 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:07.063062"
+    },
+    {
+      "source": "arstechnica",
+      "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+      "summary": "Of the seven illnesses identified so far, four are in children age 3 or younger.",
+      "link": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+      "published": "Tue, 17 Mar 2026 18:53:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-18T01:14:07.063089"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
+      "summary": "Suit: The National Center for Atmospheric Research is to be terminated for no rational reason.",
+      "link": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
+      "published": "Tue, 17 Mar 2026 17:38:10 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-18T01:14:07.063115"
+    },
+    {
+      "source": "wired",
+      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+      "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+      "published": "Wed, 18 Mar 2026 00:51:14 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Rust",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:07.242378"
+    },
+    {
+      "source": "wired",
+      "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+      "summary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+      "link": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+      "published": "Tue, 17 Mar 2026 22:24:51 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-18T01:14:07.242416"
+    },
+    {
+      "source": "wired",
+      "title": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
+      "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
+      "link": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
+      "published": "Tue, 17 Mar 2026 20:32:13 +0000",
+      "keywords": [
         "REST",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:45:58.802672"
-    },
-    {
-      "source": "theverge",
-      "title": "The messiah rises in Dune: Part Three’s new trailer",
-      "summary": "First comes love, then comes marriage, then comes a portentous set of twin babies in the new trailer for Dune: Part Three. Warner Bros. has debuted its first full trailer for Denis Villeneuve's third Dune film. Thankfully, it doesn't give everything about the film away, but it does put a spotlight o",
-      "link": "https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date",
-      "published": "2026-03-17T13:01:14-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:45:58.802710"
-    },
-    {
-      "source": "theverge",
-      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
-      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tie",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
-      "published": "2026-03-17T12:33:41-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:45:58.802743"
-    },
-    {
-      "source": "hackernews",
-      "title": "Illinois Introducing Operating System Account Age Bill",
-      "summary": "Article URL: https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&amp;DocNum=5511\nComments URL: https://news.ycombinator.com/item?id=47416131\nPoints: 81\n# Comments: 53",
-      "link": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
-      "published": "Tue, 17 Mar 2026 18:06:07 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.297528"
-    },
-    {
-      "source": "hackernews",
-      "title": "If you thought the code writing speed was your problem; you have bigger problems",
-      "summary": "Article URL: https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems\nComments URL: https://news.ycombinator.com/item?id=47415919\nPoints: 12\n# Comments: 0",
-      "link": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
-      "published": "Tue, 17 Mar 2026 17:48:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-17T18:46:04.297569"
-    },
-    {
-      "source": "hackernews",
-      "title": "GPT‑5.4 Mini and Nano",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-4-mini-and-nano\nComments URL: https://news.ycombinator.com/item?id=47415441\nPoints: 79\n# Comments: 29",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "published": "Tue, 17 Mar 2026 17:07:06 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:46:04.297604"
-    },
-    {
-      "source": "hackernews",
-      "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
-      "summary": "Article URL: https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad\nComments URL: https://news.ycombinator.com/item?id=47415350\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
-      "published": "Tue, 17 Mar 2026 17:00:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.297642"
-    },
-    {
-      "source": "hackernews",
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "summary": "Article URL: https://theasc.com/articles/the-secret-agent-cinematography\nComments URL: https://news.ycombinator.com/item?id=47414440\nPoints: 34\n# Comments: 3",
-      "link": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "published": "Tue, 17 Mar 2026 15:56:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.297678"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
-      "summary": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
-      "link": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
-      "published": "Tue, 17 Mar 2026 17:07:12 +0000",
-      "keywords": [
-        "Go",
-        "iOS",
-        "AR"
-      ],
       "category": "Mobile",
-      "crawled_at": "2026-03-17T18:46:04.455141"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-      "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way",
-      "link": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-      "published": "Tue, 17 Mar 2026 16:29:16 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "React"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:46:04.455172"
-    },
-    {
-      "source": "arstechnica",
-      "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold",
-      "summary": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
-      "link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/",
-      "published": "Tue, 17 Mar 2026 16:10:02 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.455202"
-    },
-    {
-      "source": "arstechnica",
-      "title": "A large meteor is visible from much of Ohio and parts of neighboring states",
-      "summary": "Meteor's fiery passage through the atmosphere was captured by a space-based lightning mapper.",
-      "link": "https://arstechnica.com/science/2026/03/a-large-meteor-is-visible-from-much-of-ohio-and-parts-of-neighboring-states/",
-      "published": "Tue, 17 Mar 2026 15:21:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-17T18:46:04.455231"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Switch 2's new \"Handheld Mode Boost\" can run original Switch games at 1080p",
-      "summary": "Switch games running at 720p can look worse on the Switch 2's 1080p display.",
-      "link": "https://arstechnica.com/gadgets/2026/03/nintendo-switch-2-update-adds-one-possible-fix-for-blurry-og-switch-games/",
-      "published": "Tue, 17 Mar 2026 15:11:28 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.455257"
+      "crawled_at": "2026-03-18T01:14:07.242473"
     },
     {
       "source": "wired",
@@ -269,7 +324,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.587598"
+      "crawled_at": "2026-03-18T01:14:07.242509"
     },
     {
       "source": "wired",
@@ -281,46 +336,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.587640"
-    },
-    {
-      "source": "wired",
-      "title": "I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too",
-      "summary": "It’s time to clamp down on the chaos and clear your desktop with these clever mounted accessories.",
-      "link": "https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/",
-      "published": "Tue, 17 Mar 2026 12:38:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.587677"
-    },
-    {
-      "source": "wired",
-      "title": "Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet",
-      "summary": "Skylight’s popular digital calendar gets its Goldilocks size. But like with the Calendar Max before it, you have to prepare your family for a full conversion to keep it useful.",
-      "link": "https://www.wired.com/review/skylight-calendar-2/",
-      "published": "Tue, 17 Mar 2026 12:01:00 +0000",
-      "keywords": [
-        "Go",
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-17T18:46:04.587717"
-    },
-    {
-      "source": "wired",
-      "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
-      "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-      "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-      "published": "Tue, 17 Mar 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-17T18:46:04.587746"
+      "crawled_at": "2026-03-18T01:14:07.242542"
     }
   ]
 }
