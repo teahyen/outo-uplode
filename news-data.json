@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-03-19T01:13:27.291455",
+  "last_updated": "2026-03-19T06:43:56.993428",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval",
+      "summary": "The founders are worth paying attention to.",
+      "link": "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/",
+      "published": "Thu, 19 Mar 2026 06:11:53 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-19T06:43:56.223916"
+    },
     {
       "source": "techcrunch",
       "title": "Meta is having trouble with rogue AI agents",
@@ -13,7 +25,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:25.302231"
+      "crawled_at": "2026-03-19T06:43:56.223952"
     },
     {
       "source": "techcrunch",
@@ -25,7 +37,7 @@
         "AWS"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-19T01:13:25.302274"
+      "crawled_at": "2026-03-19T06:43:56.223989"
     },
     {
       "source": "techcrunch",
@@ -38,7 +50,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:25.302304"
+      "crawled_at": "2026-03-19T06:43:56.224018"
     },
     {
       "source": "techcrunch",
@@ -51,20 +63,7 @@
         "Gaming"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-03-19T01:13:25.302338"
-    },
-    {
-      "source": "techcrunch",
-      "title": "FBI is buying location data to track US citizens, director confirms",
-      "summary": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
-      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "published": "Wed, 18 Mar 2026 18:32:32 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:25.302365"
+      "crawled_at": "2026-03-19T06:43:56.224051"
     },
     {
       "source": "theverge",
@@ -78,7 +77,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:25.385131"
+      "crawled_at": "2026-03-19T06:43:56.390278"
     },
     {
       "source": "theverge",
@@ -92,7 +91,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:25.385181"
+      "crawled_at": "2026-03-19T06:43:56.390332"
     },
     {
       "source": "theverge",
@@ -105,7 +104,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:25.385235"
+      "crawled_at": "2026-03-19T06:43:56.390386"
     },
     {
       "source": "theverge",
@@ -115,7 +114,7 @@
       "published": "2026-03-18T16:10:05-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:25.385289"
+      "crawled_at": "2026-03-19T06:43:56.390440"
     },
     {
       "source": "theverge",
@@ -129,75 +128,71 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-19T01:13:25.385336"
+      "crawled_at": "2026-03-19T06:43:56.390488"
     },
     {
       "source": "hackernews",
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "summary": "Article URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents\nComments URL: https://news.ycombinator.com/item?id=47433058\nPoints: 101\n# Comments: 71",
-      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "published": "Thu, 19 Mar 2026 00:15:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:26.832438"
-    },
-    {
-      "source": "hackernews",
-      "title": "What’s on HTTP?",
-      "summary": "Article URL: https://whatsonhttp.com/\nComments URL: https://news.ycombinator.com/item?id=47431930\nPoints: 23\n# Comments: 4",
-      "link": "https://whatsonhttp.com/",
-      "published": "Wed, 18 Mar 2026 21:57:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:26.832480"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "summary": "I replicated David Ng's RYS method (https://dnhkng.github.io/posts/rys/) on consumer AMD GPUs \n(RX 7900 XT + RX 6950 XT) and found something I didn't expect.Transformers appear to have discrete \"reasoning circuits\" — contiguous blocks of 3-4 layers that \nact as indivisible cognitive units. Duplicate",
-      "link": "https://github.com/alainnothere/llm-circuit-finder",
-      "published": "Wed, 18 Mar 2026 21:31:12 +0000",
+      "title": "What 81,000 people want from AI",
+      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews\nComments URL: https://news.ycombinator.com/item?id=47435156\nPoints: 47\n# Comments: 34",
+      "link": "https://www.anthropic.com/features/81k-interviews",
+      "published": "Thu, 19 Mar 2026 05:00:56 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
-        "VR",
+        "Anthropic",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:26.832613"
+      "crawled_at": "2026-03-19T06:43:56.677688"
     },
     {
       "source": "hackernews",
-      "title": "Warranty Void If Regenerated",
-      "summary": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.Over the last couple months, I've been building world bibles, writing and ",
-      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "published": "Wed, 18 Mar 2026 20:45:54 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:26.832680"
-    },
-    {
-      "source": "hackernews",
-      "title": "FBI is buying location data to track US citizens, director confirms",
-      "summary": "Article URL: https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/\nComments URL: https://news.ycombinator.com/item?id=47430797\nPoints: 371\n# Comments: 137",
-      "link": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-      "published": "Wed, 18 Mar 2026 20:09:52 +0000",
+      "title": "Conway's Game of Life, in real life",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life\nComments URL: https://news.ycombinator.com/item?id=47434732\nPoints: 24\n# Comments: 2",
+      "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "published": "Thu, 19 Mar 2026 03:55:03 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:26.832722"
+      "crawled_at": "2026-03-19T06:43:56.677736"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+      "summary": "Article URL: https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/\nComments URL: https://news.ycombinator.com/item?id=47434567\nPoints: 62\n# Comments: 28",
+      "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+      "published": "Thu, 19 Mar 2026 03:31:01 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-19T06:43:56.677775"
+    },
+    {
+      "source": "hackernews",
+      "title": "We Have Learned Nothing",
+      "summary": "Article URL: https://colossus.com/article/we-have-learned-nothing-startup-pundits/\nComments URL: https://news.ycombinator.com/item?id=47434311\nPoints: 28\n# Comments: 6",
+      "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "published": "Thu, 19 Mar 2026 02:53:37 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-19T06:43:56.677808"
+    },
+    {
+      "source": "hackernews",
+      "title": "A sufficiently detailed spec is code",
+      "summary": "Article URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code\nComments URL: https://news.ycombinator.com/item?id=47434047\nPoints: 166\n# Comments: 64",
+      "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "published": "Thu, 19 Mar 2026 02:23:17 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-19T06:43:56.677835"
     },
     {
       "source": "arstechnica",
@@ -210,7 +205,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:27.040946"
+      "crawled_at": "2026-03-19T06:43:56.842252"
     },
     {
       "source": "arstechnica",
@@ -220,7 +215,7 @@
       "published": "Wed, 18 Mar 2026 21:32:20 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-03-19T01:13:27.040986"
+      "crawled_at": "2026-03-19T06:43:56.842292"
     },
     {
       "source": "arstechnica",
@@ -232,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:27.041017"
+      "crawled_at": "2026-03-19T06:43:56.842323"
     },
     {
       "source": "arstechnica",
@@ -245,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:27.041038"
+      "crawled_at": "2026-03-19T06:43:56.842344"
     },
     {
       "source": "arstechnica",
@@ -258,75 +253,66 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-19T01:13:27.041062"
+      "crawled_at": "2026-03-19T06:43:56.842368"
     },
     {
       "source": "wired",
-      "title": "The Best Outdoor Deals From the REI Member Days Sale (2026)",
-      "summary": "REI’s Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.",
-      "link": "https://www.wired.com/story/rei-member-days-sale-2026/",
-      "published": "Wed, 18 Mar 2026 19:34:39 +0000",
+      "title": "Best Buy Discount Codes and Deals: Up to 60% Off",
+      "summary": "Save at Best Buy with 10% back in rewards for new cardmembers, free 2-day shipping with My Best Buy Plus, daily deals, price match guarantee, and more.",
+      "link": "https://www.wired.com/story/best-buy-discount-code/",
+      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:27.291255"
+      "crawled_at": "2026-03-19T06:43:56.993249"
     },
     {
       "source": "wired",
-      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-      "summary": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-      "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-      "published": "Wed, 18 Mar 2026 18:01:18 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T01:13:27.291291"
+      "title": "Nike Promo Codes and Deals: 30% Off",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-03-19T06:43:56.993276"
     },
     {
       "source": "wired",
-      "title": "The Best Sonos Bluetooth Speaker Is $40 Off",
-      "summary": "Add the Sonos Roam 2 to your existing home setup, or take it to go with Bluetooth.",
-      "link": "https://www.wired.com/story/sonos-roam-2-deal-326/",
-      "published": "Wed, 18 Mar 2026 17:34:52 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:27.291318"
-    },
-    {
-      "source": "wired",
-      "title": "Confessions of the ICE Agent Whisperer",
-      "summary": "Federal immigration enforcement agents usually won't talk to the media—but they will talk to independent journalist Karl Loftus.",
-      "link": "https://www.wired.com/story/confessions-of-the-ice-agent-whisperer/",
-      "published": "Wed, 18 Mar 2026 15:00:00 +0000",
+      "title": "10% Dell Coupon Codes | March 2026",
+      "summary": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T01:13:27.291354"
+      "category": "Programming",
+      "crawled_at": "2026-03-19T06:43:56.993310"
     },
     {
       "source": "wired",
-      "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-      "summary": "A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that simply visit infected websites.",
-      "link": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-      "published": "Wed, 18 Mar 2026 14:00:00 +0000",
+      "title": "50% Off Home Depot Promo Codes | March 2026",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this March.",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
       "keywords": [
-        "Hack",
-        "iPhone",
-        "iOS",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-03-19T01:13:27.291384"
+      "category": "Programming",
+      "crawled_at": "2026-03-19T06:43:56.993333"
+    },
+    {
+      "source": "wired",
+      "title": "20% Off LG Promo Code & Coupons | March 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Thu, 19 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-19T06:43:56.993354"
     }
   ]
 }
