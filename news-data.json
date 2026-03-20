@@ -1,279 +1,305 @@
 {
-  "last_updated": "2026-03-19T18:41:06.538282",
+  "last_updated": "2026-03-20T01:09:20.268433",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
-      "summary": "Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it.",
-      "link": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/",
-      "published": "Thu, 19 Mar 2026 18:26:26 +0000",
+      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "summary": "Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.",
+      "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "published": "Thu, 19 Mar 2026 23:28:37 +0000",
       "keywords": [
+        "AI",
+        "REST",
         "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-03-19T18:41:04.923713"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-      "published": "Thu, 19 Mar 2026 17:24:13 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:04.923752"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google introduces a new way for users to sideload Android apps that still protects against scams",
-      "summary": "Google is making Android sideloading easier with a new advanced setting that lets users disable app verification after a multistep security process.",
-      "link": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/",
-      "published": "Thu, 19 Mar 2026 17:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Security",
-        "Google",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:04.923782"
-    },
-    {
-      "source": "techcrunch",
-      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-      "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-      "published": "Thu, 19 Mar 2026 16:14:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:04.923815"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta decides not to shut down Horizon Worlds on VR after all",
-      "summary": "Horizon Worlds was once a cornerstone of Meta's plans to build a social metaverse -- four years later, the company almost shut it down.",
-      "link": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
-      "published": "Thu, 19 Mar 2026 15:36:32 +0000",
-      "keywords": [
-        "Meta",
-        "VR",
-        "AR",
-        "Metaverse"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:04.923846"
-    },
-    {
-      "source": "theverge",
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "published": "2026-03-19T14:20:05-04:00",
-      "keywords": [
-        "AI",
-        "Security",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:05.057486"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft’s go-to Xbox controller is selling at its best price of the year",
-      "summary": "Microsoft’s Xbox console strategy needs work, but its Bluetooth-ready controller that shipped alongside the Xbox Series X and Series S is fantastic. We think it’s one of the best Xbox controllers out there, thanks to its comfortable design, multiplatform compatibility (it works great on the Steam De",
-      "link": "https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal",
-      "published": "2026-03-19T14:16:33-04:00",
-      "keywords": [
-        "Go",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:05.057556"
-    },
-    {
-      "source": "theverge",
-      "title": "All the wrong EVs are getting canceled",
-      "summary": "These past few weeks have been particularly brutal for the EV industry - and anyone who believes that electric vehicles are the future. Thanks to slowing demand and policy whiplashes, automakers are on an EV murder spree, killing a host of promising new models. The EV graveyard grows bigger by the m",
-      "link": "https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled",
-      "published": "2026-03-19T13:44:12-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:05.057617"
-    },
-    {
-      "source": "theverge",
-      "title": "Prediction markets are trying to lure journalists with partnership deals",
-      "summary": "Prediction markets are working to ingratiate themselves with mainstream news and culture: The Golden Globes broadcast in January was plastered with Polymarket odds, the AP is licensing election data to Kalshi, and a partnership between Polymarket and Substack means more prediction market data in new",
-      "link": "https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals",
-      "published": "2026-03-19T13:00:42-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:05.057655"
-    },
-    {
-      "source": "theverge",
-      "title": "Google reveals its solution for true Android sideloading: a mandatory waiting period",
-      "summary": "Google has revealed the \"advanced flow\" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the proc",
-      "link": "https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process",
-      "published": "2026-03-19T13:00:33-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:05.057688"
-    },
-    {
-      "source": "hackernews",
-      "title": "Noq: n0's new QUIC implementation in Rust",
-      "summary": "Article URL: https://www.iroh.computer/blog/noq-announcement\nComments URL: https://news.ycombinator.com/item?id=47443588\nPoints: 15\n# Comments: 0",
-      "link": "https://www.iroh.computer/blog/noq-announcement",
-      "published": "Thu, 19 Mar 2026 18:17:15 +0000",
-      "keywords": [
-        "Rust",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-19T18:41:06.208056"
-    },
-    {
-      "source": "hackernews",
-      "title": "Connecticut and the 1 Kilometer Effect",
-      "summary": "Article URL: https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/\nComments URL: https://news.ycombinator.com/item?id=47443239\nPoints: 4\n# Comments: 0",
-      "link": "https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/",
-      "published": "Thu, 19 Mar 2026 17:52:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:06.208100"
-    },
-    {
-      "source": "hackernews",
-      "title": "UK's Ofcom has today fined 4chan £450k for not having age checks in place",
-      "summary": "Article URL: https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography\nComments URL: https://news.ycombinator.com/item?id=47442838\nPoints: 39\n# Comments: 31",
-      "link": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography",
-      "published": "Thu, 19 Mar 2026 17:27:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:06.208148"
-    },
-    {
-      "source": "hackernews",
-      "title": "An update on Steam / GOG changes for OpenTTD",
-      "summary": "Article URL: https://www.openttd.org/news/2026/03/19/steam-changes-update\nComments URL: https://news.ycombinator.com/item?id=47442834\nPoints: 76\n# Comments: 43",
-      "link": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "published": "Thu, 19 Mar 2026 17:27:17 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:06.208184"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to Not Pay Your Taxes",
-      "summary": "Article URL: https://taylor.town/succession-000\nComments URL: https://news.ycombinator.com/item?id=47442699\nPoints: 43\n# Comments: 23",
-      "link": "https://taylor.town/succession-000",
-      "published": "Thu, 19 Mar 2026 17:16:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:06.208214"
-    },
-    {
-      "source": "arstechnica",
-      "title": "At the last minute, Meta decides not to kill Horizon Worlds VR after all",
-      "summary": "VR will be on life support while mobile remains the focus, though.",
-      "link": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
-      "published": "Thu, 19 Mar 2026 17:50:40 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
+        "Amazon",
         "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.328001"
+      "crawled_at": "2026-03-20T01:09:19.459537"
     },
     {
-      "source": "arstechnica",
-      "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
-      "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
-      "published": "Thu, 19 Mar 2026 17:45:28 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.328037"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "summary": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
-      "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "published": "Thu, 19 Mar 2026 17:28:26 +0000",
+      "source": "techcrunch",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "published": "Thu, 19 Mar 2026 22:09:24 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
-        "Android",
+        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.328061"
+      "crawled_at": "2026-03-20T01:09:19.459573"
     },
     {
-      "source": "arstechnica",
-      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
-      "summary": "\"8GB unified memory is the minimum practical configuration.\"",
-      "link": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
-      "published": "Thu, 19 Mar 2026 16:50:10 +0000",
+      "source": "techcrunch",
+      "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "summary": "A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.",
+      "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "published": "Thu, 19 Mar 2026 21:13:50 +0000",
       "keywords": [
-        "Windows",
+        "AI",
+        "REST",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-19T18:41:06.328089"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.459599"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+      "summary": "MLB is only the latest in a string of recently announced partnerships involving the prediction market.",
+      "link": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+      "published": "Thu, 19 Mar 2026 19:46:30 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.459631"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "published": "Thu, 19 Mar 2026 19:09:02 +0000",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.459657"
+    },
+    {
+      "source": "theverge",
+      "title": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine",
+      "summary": "Valve has just released SteamOS 3.8.0 in preview, and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC, it comes with long-awaited features for Valve's handhelds and more support for other companies' handhelds than we've seen to date - includ",
+      "link": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+      "published": "2026-03-19T20:34:04-04:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.648263"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI is planning a desktop ‘superapp’",
+      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "published": "2026-03-19T20:09:38-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.648312"
+    },
+    {
+      "source": "theverge",
+      "title": "Sony’s new WF-1000XM6 earbuds are already on sale for $30 off",
+      "summary": "Sony’s WF-1000XM6 are the best noise-canceling wireless earbuds you can buy, but they’ve been hard to recommend over the last-gen model because of the price. While the older version is often on sale for $248, the update costs $329 — and has never before been marked down. That’s why this deal is wort",
+      "link": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale",
+      "published": "2026-03-19T17:25:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.648369"
+    },
+    {
+      "source": "theverge",
+      "title": "Marc Andreessen is a philosophical zombie",
+      "summary": "I admit, this is an innovation I did not see coming: Silicon Valley has invented the philosophical zombie from the classic thought experiment \"lol how crazy would it be if there were a philosophical zombie.\" Until recently, the philosophical zombie was a concept closely associated with Australian ph",
+      "link": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+      "published": "2026-03-19T16:07:54-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.648416"
+    },
+    {
+      "source": "theverge",
+      "title": "The coolest game controller for your phone is $50 off",
+      "summary": "The MCON is the closest to a Swiss army knife that a controller can be. No, it doesn’t contain a can opener, but it makes up for it with a surprising array of features. Once you attach your MagSafe- or Pixelsnap-ready phone to the top plate, pressing a button along its top edge satisfyingly pops [&#",
+      "link": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+      "published": "2026-03-19T15:47:45-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.648455"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Code: Channels",
+      "summary": "Article URL: https://code.claude.com/docs/en/channels\nComments URL: https://news.ycombinator.com/item?id=47448524\nPoints: 53\n# Comments: 17",
+      "link": "https://code.claude.com/docs/en/channels",
+      "published": "Fri, 20 Mar 2026 00:22:08 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.912743"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wayland set the Linux Desktop back by 10 years",
+      "summary": "Article URL: https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years\nComments URL: https://news.ycombinator.com/item?id=47448328\nPoints: 44\n# Comments: 13",
+      "link": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+      "published": "Fri, 20 Mar 2026 00:01:40 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.912788"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Day I Discovered Type Design",
+      "summary": "Article URL: https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/\nComments URL: https://news.ycombinator.com/item?id=47447690\nPoints: 20\n# Comments: 1",
+      "link": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/",
+      "published": "Thu, 19 Mar 2026 23:08:37 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.912826"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bombarding gamblers with offers greatly increases betting and gambling harm",
+      "summary": "Article URL: https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html\nComments URL: https://news.ycombinator.com/item?id=47447600\nPoints: 52\n# Comments: 51",
+      "link": "https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html",
+      "published": "Thu, 19 Mar 2026 22:59:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-20T01:09:19.912873"
+    },
+    {
+      "source": "hackernews",
+      "title": "Be intentional about how AI changes your codebase",
+      "summary": "Article URL: https://aicode.swerdlow.dev\nComments URL: https://news.ycombinator.com/item?id=47446373\nPoints: 62\n# Comments: 25",
+      "link": "https://aicode.swerdlow.dev",
+      "published": "Thu, 19 Mar 2026 21:23:24 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:19.912899"
     },
     {
       "source": "arstechnica",
-      "title": "Counter-Strike 2's new reload system could upend the entire game",
-      "summary": "Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions.",
-      "link": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
-      "published": "Thu, 19 Mar 2026 15:59:58 +0000",
-      "keywords": [],
+      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+      "summary": "Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
+      "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
+      "published": "Thu, 19 Mar 2026 22:34:06 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-03-19T18:41:06.328117"
+      "crawled_at": "2026-03-20T01:09:20.109061"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "summary": "Broadcom says the group is misrepresenting market \"realities.\"",
+      "link": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+      "published": "Thu, 19 Mar 2026 21:29:53 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-20T01:09:20.109096"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+      "summary": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
+      "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "published": "Thu, 19 Mar 2026 20:11:36 +0000",
+      "keywords": [
+        "Hack",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-20T01:09:20.109123"
+    },
+    {
+      "source": "arstechnica",
+      "title": "FBI started buying Americans' location data again, Kash Patel confirms",
+      "summary": "Tom Cotton supports FBI data purchasing, compares it to searching people's trash.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
+      "published": "Thu, 19 Mar 2026 19:57:35 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:20.109146"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
+      "summary": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
+      "link": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
+      "published": "Thu, 19 Mar 2026 19:45:22 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:20.109169"
+    },
+    {
+      "source": "wired",
+      "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
+      "summary": "The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department.",
+      "link": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+      "published": "Fri, 20 Mar 2026 00:07:30 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:20.268231"
+    },
+    {
+      "source": "wired",
+      "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+      "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+      "published": "Thu, 19 Mar 2026 21:43:56 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "Tesla",
+        "VR",
+        "Metaverse"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-20T01:09:20.268275"
     },
     {
       "source": "wired",
       "title": "FCC Enforcement Chief Offered to Help Brendan Carr Target Disney, Records Show",
-      "summary": "Last year, as FCC chair Brendan Carr threatened ABC over a Jimmy Kimmel monologue, a civil servant overseeing West Coast stations privately pledged support, according to emails obtained by WIRED.",
+      "summary": "Last year, as FCC chair Brendan Carr threatened ABC over a Jimmy Kimmel monolog, a civil servant overseeing West Coast stations privately pledged support, according to emails obtained by WIRED.",
       "link": "https://www.wired.com/story/fcc-enforcement-chief-offered-to-help-brendan-carr-target-disney-records-show/",
       "published": "Thu, 19 Mar 2026 18:10:54 +0000",
       "keywords": [
@@ -281,7 +307,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.538092"
+      "crawled_at": "2026-03-20T01:09:20.268304"
     },
     {
       "source": "wired",
@@ -296,7 +322,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.538121"
+      "crawled_at": "2026-03-20T01:09:20.268327"
     },
     {
       "source": "wired",
@@ -310,34 +336,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.538149"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Will Keep Horizon Worlds Alive in VR ‘for the Foreseeable Future’",
-      "summary": "A day after saying it would shut down its metaverse, Meta CTO Andrew Bosworth announced the service will remain available in VR—with limited support.",
-      "link": "https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/",
-      "published": "Thu, 19 Mar 2026 17:33:56 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "VR",
-        "Metaverse"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.538181"
-    },
-    {
-      "source": "wired",
-      "title": "A New Game Turns the H-1B Visa System Into a Surreal Simulation",
-      "summary": "Inspired by real immigrant stories, H1B.Life captures the uncertainty, trade-offs, and pure luck that shape the lives of people trying to build a future in the US.",
-      "link": "https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/",
-      "published": "Thu, 19 Mar 2026 16:59:50 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-19T18:41:06.538205"
+      "crawled_at": "2026-03-20T01:09:20.268351"
     }
   ]
 }
