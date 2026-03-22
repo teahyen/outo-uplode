@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-03-22T12:27:08.825866",
+  "last_updated": "2026-03-22T18:21:43.939031",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "published": "Sun, 22 Mar 2026 16:20:00 +0000",
+      "keywords": [
+        "Tesla"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-22T18:21:42.228864"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: Uber everywhere, all at once",
+      "summary": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+      "link": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+      "published": "Sun, 22 Mar 2026 16:05:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:42.228905"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "published": "Sun, 22 Mar 2026 14:43:51 +0000",
+      "keywords": [
+        "Security",
+        "Startup",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-03-22T18:21:42.228944"
+    },
     {
       "source": "techcrunch",
       "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
@@ -16,7 +52,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.019967"
+      "crawled_at": "2026-03-22T18:21:42.228975"
     },
     {
       "source": "techcrunch",
@@ -29,181 +65,147 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.020004"
+      "crawled_at": "2026-03-22T18:21:42.229003"
     },
     {
-      "source": "techcrunch",
-      "title": "It’s been 20 years since the first tweet",
-      "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
-      "link": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
-      "published": "Sat, 21 Mar 2026 20:30:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:07.020040"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-      "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-      "published": "Sat, 21 Mar 2026 19:30:27 +0000",
+      "source": "theverge",
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "summary": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced",
+      "link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "published": "2026-03-22T13:34:34-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.020071"
+      "crawled_at": "2026-03-22T18:21:42.368000"
     },
     {
-      "source": "techcrunch",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "published": "Sat, 21 Mar 2026 17:00:05 +0000",
+      "source": "theverge",
+      "title": "The best early deals you can already grab from Amazon’s Big Spring Sale",
+      "summary": "Amazon’s Prime Day sale may arrive earlier than usual this year, but there’s a deal event happening much sooner: Amazon’s annual Big Spring Sale, which is happening March 25th through the 31st. While it won’t be as big as Prime Day or Black Friday, it does offer you a chance to save money at a [&#82",
+      "link": "https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026",
+      "published": "2026-03-22T12:42:01-04:00",
       "keywords": [
-        "Security",
-        "Startup",
+        "Amazon",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-03-22T12:27:07.020108"
+      "category": "Mobile",
+      "crawled_at": "2026-03-22T18:21:42.368067"
     },
     {
       "source": "theverge",
-      "title": "AI was everywhere at gaming’s big developer conference — except the games",
-      "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. ",
-      "link": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "published": "2026-03-22T08:00:00-04:00",
+      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have othe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "published": "2026-03-22T10:06:48-04:00",
       "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.179149"
-    },
-    {
-      "source": "theverge",
-      "title": "Online age checks came first — a VPN crackdown could be next",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about online age verification and your privacy, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Virtual private ne",
-      "link": "https://www.theverge.com/column/898122/online-age-verification-vpns",
-      "published": "2026-03-22T08:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:07.179215"
-    },
-    {
-      "source": "theverge",
-      "title": "Halide co-founder is suing former partner for bringing source code to Apple",
-      "summary": "Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide, one of the most popular photography apps for the iPhone, which gained a cult following for its robust pro-level controls. Apple was apparently a big enough fan that it tried t",
-      "link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
-      "published": "2026-03-21T17:02:56-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.179251"
-    },
-    {
-      "source": "theverge",
-      "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
-      "summary": "Less than a week ago, Apple announced the forthcoming AirPods Max 2, a pair of over-ear headphones that leverage the company’s H2 chip for AI-powered live translation, conversation awareness, and a host of newer features. However, if you’re okay with a pair of earbuds, the AirPods Pro 3 offer access",
-      "link": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
-      "published": "2026-03-21T13:00:00-04:00",
-      "keywords": [
-        "AI",
         "Go",
-        "Apple",
+        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.179291"
+      "crawled_at": "2026-03-22T18:21:42.368113"
     },
     {
       "source": "theverge",
-      "title": "Here are 20 of our favorite outdoor deals from REI’s Member Days Sale",
-      "summary": "REI’s latest sale is in full swing. The outdoor retailer’s exclusive shopping event runs through Monday, March 23rd, bringing with it a batch of discounts on Garmin watches, tents, portable stoves, and a slew of Verge-approved goodies. As expected, most deals are available only to REI members; howev",
-      "link": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
-      "published": "2026-03-21T10:40:00-04:00",
+      "title": "The secret story of the vocoder, the military tech that changed music forever",
+      "summary": "The vocoder was never supposed to be a revolution in music. It wasn't supposed to be anything in music, really. Its development began a century ago, when an engineer at Bell Labs was looking for a simpler way to send phone calls across copper telephone lines. The engineer, Homer Dudley, built some p",
+      "link": "https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history",
+      "published": "2026-03-22T09:45:45-04:00",
       "keywords": [
-        "AI",
         "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:07.179332"
-    },
-    {
-      "source": "hackernews",
-      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
-      "summary": "Article URL: https://github.com/danveloper/flash-moe\nComments URL: https://news.ycombinator.com/item?id=47476422\nPoints: 19\n# Comments: 0",
-      "link": "https://github.com/danveloper/flash-moe",
-      "published": "Sun, 22 Mar 2026 11:30:03 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.467206"
-    },
-    {
-      "source": "hackernews",
-      "title": "'Miracle': Europe reconnects with lost spacecraft",
-      "summary": "Article URL: https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html\nComments URL: https://news.ycombinator.com/item?id=47476060\nPoints: 35\n# Comments: 10",
-      "link": "https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html",
-      "published": "Sun, 22 Mar 2026 10:22:28 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.467250"
-    },
-    {
-      "source": "hackernews",
-      "title": "Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome",
-      "summary": "Article URL: https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/\nComments URL: https://news.ycombinator.com/item?id=47475849\nPoints: 15\n# Comments: 6",
-      "link": "https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/",
-      "published": "Sun, 22 Mar 2026 09:35:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.467290"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hormuz Minesweeper – Are you tired of winning?",
-      "summary": "Article URL: https://hormuz.pythonic.ninja/\nComments URL: https://news.ycombinator.com/item?id=47475686\nPoints: 240\n# Comments: 78",
-      "link": "https://hormuz.pythonic.ninja/",
-      "published": "Sun, 22 Mar 2026 09:00:37 +0000",
-      "keywords": [
-        "Python",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-03-22T12:27:08.467324"
+      "crawled_at": "2026-03-22T18:21:42.368150"
+    },
+    {
+      "source": "theverge",
+      "title": "The pint-sized Sonos Roam 2 is more than 20 percent off this weekend",
+      "summary": "Sonos is no stranger to the occasional sale. The iconic audio company routinely runs sales around Black Friday, Amazon Prime Day, and the Super Bowl, though it’s rare to see substantial discounts on its portable speakers outside of tentpole shopping events. Fortunately, if you have no interest in th",
+      "link": "https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals",
+      "published": "2026-03-22T09:00:00-04:00",
+      "keywords": [
+        "REST",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:42.368209"
     },
     {
       "source": "hackernews",
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "summary": "Article URL: https://zenodo.org/records/18976656\nComments URL: https://news.ycombinator.com/item?id=47475155\nPoints: 33\n# Comments: 20",
-      "link": "https://zenodo.org/records/18976656",
-      "published": "Sun, 22 Mar 2026 07:07:15 +0000",
+      "title": "Why I love NixOS",
+      "summary": "Article URL: https://www.birkey.co/2026-03-22-why-i-love-nixos.html\nComments URL: https://news.ycombinator.com/item?id=47479751\nPoints: 44\n# Comments: 28",
+      "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "published": "Sun, 22 Mar 2026 17:17:06 +0000",
       "keywords": [
-        "GPT",
-        "Claude",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:43.616912"
+    },
+    {
+      "source": "hackernews",
+      "title": "Introducing DoorDash Tasks",
+      "summary": "Article URL: https://about.doordash.com/en-us/news/introducing-doordash-tasks\nComments URL: https://news.ycombinator.com/item?id=47479417\nPoints: 15\n# Comments: 11",
+      "link": "https://about.doordash.com/en-us/news/introducing-doordash-tasks",
+      "published": "Sun, 22 Mar 2026 16:48:37 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:43.616953"
+    },
+    {
+      "source": "hackernews",
+      "title": "MAUI Is Coming to Linux",
+      "summary": "Article URL: https://avaloniaui.net/blog/maui-avalonia-preview-1\nComments URL: https://news.ycombinator.com/item?id=47478687\nPoints: 35\n# Comments: 8",
+      "link": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+      "published": "Sun, 22 Mar 2026 15:43:21 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:43.616987"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Future of Version Control",
+      "summary": "Article URL: https://bramcohen.com/p/manyana\nComments URL: https://news.ycombinator.com/item?id=47478401\nPoints: 132\n# Comments: 61",
+      "link": "https://bramcohen.com/p/manyana",
+      "published": "Sun, 22 Mar 2026 15:16:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:43.617018"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Revise – An AI Editor for Documents",
+      "summary": "I started building this 10 months ago, largely using agentic coding tools. I've stayed very involved in the code base and architecture, and have never moved faster in my life as a dev.The word processor engine and rendering layer are all built from scratch - the only 3rd party library I used was the",
+      "link": "https://revise.io",
+      "published": "Sun, 22 Mar 2026 13:28:45 +0000",
+      "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:08.467352"
+      "crawled_at": "2026-03-22T18:21:43.617072"
+    },
+    {
+      "source": "arstechnica",
+      "title": "There can (still) be only one: Highlander is 40",
+      "summary": "Sure, it's cheesy in many respects, but its central mythology still resonates even decades later.",
+      "link": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/",
+      "published": "Sun, 22 Mar 2026 14:10:30 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-22T18:21:43.785000"
     },
     {
       "source": "arstechnica",
@@ -213,7 +215,7 @@
       "published": "Sun, 22 Mar 2026 11:00:58 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.671274"
+      "crawled_at": "2026-03-22T18:21:43.785033"
     },
     {
       "source": "arstechnica",
@@ -223,7 +225,7 @@
       "published": "Sat, 21 Mar 2026 11:00:37 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.671317"
+      "crawled_at": "2026-03-22T18:21:43.785072"
     },
     {
       "source": "arstechnica",
@@ -236,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.671354"
+      "crawled_at": "2026-03-22T18:21:43.785107"
     },
     {
       "source": "arstechnica",
@@ -246,20 +248,7 @@
       "published": "Fri, 20 Mar 2026 22:27:42 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.671382"
-    },
-    {
-      "source": "arstechnica",
-      "title": "You're likely already infected with a brain-eating virus you've never heard of",
-      "summary": "Fatal brain infection was thought to be from profound immune suppression. Not anymore.",
-      "link": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
-      "published": "Fri, 20 Mar 2026 22:11:24 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:08.671405"
+      "crawled_at": "2026-03-22T18:21:43.785134"
     },
     {
       "source": "wired",
@@ -272,7 +261,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T12:27:08.825660"
+      "crawled_at": "2026-03-22T18:21:43.938805"
     },
     {
       "source": "wired",
@@ -284,7 +273,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T12:27:08.825703"
+      "crawled_at": "2026-03-22T18:21:43.938850"
     },
     {
       "source": "wired",
@@ -296,7 +285,7 @@
         "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-22T12:27:08.825730"
+      "crawled_at": "2026-03-22T18:21:43.938878"
     },
     {
       "source": "wired",
@@ -309,7 +298,7 @@
         "Cloud"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-22T12:27:08.825762"
+      "crawled_at": "2026-03-22T18:21:43.938912"
     },
     {
       "source": "wired",
@@ -323,7 +312,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-22T12:27:08.825787"
+      "crawled_at": "2026-03-22T18:21:43.938938"
     }
   ]
 }
