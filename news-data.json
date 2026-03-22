@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-03-22T01:13:09.258242",
+  "last_updated": "2026-03-22T06:37:24.249805",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+      "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "published": "Sun, 22 Mar 2026 06:20:43 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-22T06:37:21.490294"
+    },
     {
       "source": "techcrunch",
       "title": "It’s been 20 years since the first tweet",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:08.429418"
+      "crawled_at": "2026-03-22T06:37:21.490339"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.429461"
+      "crawled_at": "2026-03-22T06:37:21.490372"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-22T01:13:08.429501"
+      "crawled_at": "2026-03-22T06:37:21.490410"
     },
     {
       "source": "techcrunch",
@@ -52,21 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.429532"
-    },
-    {
-      "source": "techcrunch",
-      "title": "How fusion power works and the startups pursuing it",
-      "summary": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
-      "link": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
-      "published": "Sat, 21 Mar 2026 14:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.429559"
+      "crawled_at": "2026-03-22T06:37:21.490456"
     },
     {
       "source": "theverge",
@@ -81,7 +80,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.848739"
+      "crawled_at": "2026-03-22T06:37:21.619670"
     },
     {
       "source": "theverge",
@@ -96,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.848793"
+      "crawled_at": "2026-03-22T06:37:21.619724"
     },
     {
       "source": "theverge",
@@ -110,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.848836"
+      "crawled_at": "2026-03-22T06:37:21.619767"
     },
     {
       "source": "theverge",
@@ -124,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.848868"
+      "crawled_at": "2026-03-22T06:37:21.619799"
     },
     {
       "source": "theverge",
@@ -140,72 +139,73 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.848901"
+      "crawled_at": "2026-03-22T06:37:21.619832"
     },
     {
       "source": "hackernews",
-      "title": "Profiling Hacker News users based on their comments",
-      "summary": "Article URL: https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/\nComments URL: https://news.ycombinator.com/item?id=47473086\nPoints: 31\n# Comments: 22",
-      "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
-      "published": "Sun, 22 Mar 2026 00:30:19 +0000",
+      "title": "Sashiko: An agentic Linux kernel code review system",
+      "summary": "Article URL: https://sashiko.dev/\nComments URL: https://news.ycombinator.com/item?id=47474323\nPoints: 8\n# Comments: 0",
+      "link": "https://sashiko.dev/",
+      "published": "Sun, 22 Mar 2026 03:59:46 +0000",
       "keywords": [
-        "Hack",
+        "Linux",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-03-22T01:13:08.945174"
+      "category": "Programming",
+      "crawled_at": "2026-03-22T06:37:23.945093"
     },
     {
       "source": "hackernews",
-      "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-      "summary": "Article URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922\nComments URL: https://news.ycombinator.com/item?id=47471943\nPoints: 31\n# Comments: 7",
-      "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
-      "published": "Sat, 21 Mar 2026 22:03:05 +0000",
+      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+      "summary": "Article URL: https://radar.cloudflare.com/domains/domain/archive.today\nComments URL: https://news.ycombinator.com/item?id=47474255\nPoints: 57\n# Comments: 19",
+      "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+      "published": "Sun, 22 Mar 2026 03:43:51 +0000",
       "keywords": [
         "AI",
+        "Cloud",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:08.945210"
+      "crawled_at": "2026-03-22T06:37:23.945129"
     },
     {
       "source": "hackernews",
-      "title": "Floci – A free, open-source local AWS emulator",
-      "summary": "Article URL: https://github.com/hectorvent/floci\nComments URL: https://news.ycombinator.com/item?id=47471801\nPoints: 45\n# Comments: 6",
-      "link": "https://github.com/hectorvent/floci",
-      "published": "Sat, 21 Mar 2026 21:49:15 +0000",
+      "title": "Alpha Micro AM-1000E and AM-1200",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html\nComments URL: https://news.ycombinator.com/item?id=47474236\nPoints: 7\n# Comments: 0",
+      "link": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+      "published": "Sun, 22 Mar 2026 03:38:10 +0000",
       "keywords": [
-        "AWS",
-        "Git",
-        "GitHub",
+        "VC",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-22T01:13:08.945246"
+      "category": "Startup",
+      "crawled_at": "2026-03-22T06:37:23.945163"
     },
     {
       "source": "hackernews",
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "summary": "Article URL: https://tooscut.app/\nComments URL: https://news.ycombinator.com/item?id=47471601\nPoints: 116\n# Comments: 31",
-      "link": "https://tooscut.app/",
-      "published": "Sat, 21 Mar 2026 21:27:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-22T01:13:08.945280"
-    },
-    {
-      "source": "hackernews",
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "summary": "Article URL: https://news.dyne.org/child-protection-is-not-access-control/\nComments URL: https://news.ycombinator.com/item?id=47470991\nPoints: 445\n# Comments: 222",
-      "link": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "published": "Sat, 21 Mar 2026 20:32:20 +0000",
+      "title": "Ant Mill",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Ant_mill\nComments URL: https://news.ycombinator.com/item?id=47473884\nPoints: 25\n# Comments: 4",
+      "link": "https://en.wikipedia.org/wiki/Ant_mill",
+      "published": "Sun, 22 Mar 2026 02:32:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:08.945317"
+      "crawled_at": "2026-03-22T06:37:23.945193"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Three Pillars of JavaScript Bloat",
+      "summary": "Article URL: https://43081j.com/2026/03/three-pillars-of-javascript-bloat\nComments URL: https://news.ycombinator.com/item?id=47473718\nPoints: 127\n# Comments: 53",
+      "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "published": "Sun, 22 Mar 2026 02:04:31 +0000",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-22T06:37:23.945220"
     },
     {
       "source": "arstechnica",
@@ -215,7 +215,7 @@
       "published": "Sat, 21 Mar 2026 11:00:37 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:09.101781"
+      "crawled_at": "2026-03-22T06:37:24.075379"
     },
     {
       "source": "arstechnica",
@@ -228,7 +228,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:09.101822"
+      "crawled_at": "2026-03-22T06:37:24.075422"
     },
     {
       "source": "arstechnica",
@@ -238,7 +238,7 @@
       "published": "Fri, 20 Mar 2026 22:27:42 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:09.101851"
+      "crawled_at": "2026-03-22T06:37:24.075469"
     },
     {
       "source": "arstechnica",
@@ -251,7 +251,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:09.101875"
+      "crawled_at": "2026-03-22T06:37:24.075494"
     },
     {
       "source": "arstechnica",
@@ -264,7 +264,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:09.101896"
+      "crawled_at": "2026-03-22T06:37:24.075516"
     },
     {
       "source": "wired",
@@ -274,7 +274,7 @@
       "published": "Sat, 21 Mar 2026 12:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:09.258028"
+      "crawled_at": "2026-03-22T06:37:24.249558"
     },
     {
       "source": "wired",
@@ -286,7 +286,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-22T01:13:09.258075"
+      "crawled_at": "2026-03-22T06:37:24.249611"
     },
     {
       "source": "wired",
@@ -299,7 +299,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:09.258098"
+      "crawled_at": "2026-03-22T06:37:24.249635"
     },
     {
       "source": "wired",
@@ -312,7 +312,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-22T01:13:09.258128"
+      "crawled_at": "2026-03-22T06:37:24.249666"
     },
     {
       "source": "wired",
@@ -325,7 +325,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-22T01:13:09.258161"
+      "crawled_at": "2026-03-22T06:37:24.249700"
     }
   ]
 }
