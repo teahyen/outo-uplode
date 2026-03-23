@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T01:14:24.166801",
+  "last_updated": "2026-03-23T06:57:08.940502",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-03-23T01:14:23.416554"
+      "crawled_at": "2026-03-23T06:57:08.366578"
     },
     {
       "source": "techcrunch",
@@ -23,7 +23,7 @@
       "published": "Sun, 22 Mar 2026 19:45:07 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-03-23T01:14:23.416603"
+      "crawled_at": "2026-03-23T06:57:08.366626"
     },
     {
       "source": "techcrunch",
@@ -36,7 +36,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.416648"
+      "crawled_at": "2026-03-23T06:57:08.366656"
     },
     {
       "source": "techcrunch",
@@ -48,7 +48,7 @@
         "Tesla"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-03-23T01:14:23.416690"
+      "crawled_at": "2026-03-23T06:57:08.366694"
     },
     {
       "source": "techcrunch",
@@ -58,7 +58,7 @@
       "published": "Sun, 22 Mar 2026 16:05:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:23.416721"
+      "crawled_at": "2026-03-23T06:57:08.366727"
     },
     {
       "source": "theverge",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.515278"
+      "crawled_at": "2026-03-23T06:57:08.490464"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:23.515334"
+      "crawled_at": "2026-03-23T06:57:08.490520"
     },
     {
       "source": "theverge",
@@ -96,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.515367"
+      "crawled_at": "2026-03-23T06:57:08.490553"
     },
     {
       "source": "theverge",
@@ -109,7 +109,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-23T01:14:23.515419"
+      "crawled_at": "2026-03-23T06:57:08.490605"
     },
     {
       "source": "theverge",
@@ -123,12 +123,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.515462"
+      "crawled_at": "2026-03-23T06:57:08.490648"
+    },
+    {
+      "source": "hackernews",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=47485231\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "published": "Mon, 23 Mar 2026 03:33:41 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-23T06:57:08.605090"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"Collaboration\" Is Bullshit",
+      "summary": "Article URL: https://www.joanwestenberg.com/collaboration-is-bullshit/\nComments URL: https://news.ycombinator.com/item?id=47484519\nPoints: 79\n# Comments: 29",
+      "link": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
+      "published": "Mon, 23 Mar 2026 01:43:45 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-23T06:57:08.605132"
+    },
+    {
+      "source": "hackernews",
+      "title": "Intuitions for Tranformer Circuits",
+      "summary": "Article URL: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits\nComments URL: https://news.ycombinator.com/item?id=47484227\nPoints: 45\n# Comments: 3",
+      "link": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+      "published": "Mon, 23 Mar 2026 01:06:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-23T06:57:08.605168"
+    },
+    {
+      "source": "hackernews",
+      "title": "Migrating the American Express Payment Network, Twice",
+      "summary": "Article URL: https://americanexpress.io/migrating-the-payments-network-twice/\nComments URL: https://news.ycombinator.com/item?id=47483830\nPoints: 64\n# Comments: 17",
+      "link": "https://americanexpress.io/migrating-the-payments-network-twice/",
+      "published": "Mon, 23 Mar 2026 00:15:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-23T06:57:08.605203"
     },
     {
       "source": "hackernews",
       "title": "They're Vibe-Coding Spam Now",
-      "summary": "Article URL: https://tedium.co/2026/02/25/vibe-coded-email-spam/\nComments URL: https://news.ycombinator.com/item?id=47482760\nPoints: 23\n# Comments: 12",
+      "summary": "Article URL: https://tedium.co/2026/02/25/vibe-coded-email-spam/\nComments URL: https://news.ycombinator.com/item?id=47482760\nPoints: 71\n# Comments: 44",
       "link": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
       "published": "Sun, 22 Mar 2026 22:11:54 +0000",
       "keywords": [
@@ -136,61 +185,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.971680"
-    },
-    {
-      "source": "hackernews",
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116261301913660830\nComments URL: https://news.ycombinator.com/item?id=47482217\nPoints: 195\n# Comments: 48",
-      "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "published": "Sun, 22 Mar 2026 21:14:11 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.971718"
-    },
-    {
-      "source": "hackernews",
-      "title": "Teaching Claude to QA a mobile app",
-      "summary": "Article URL: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html\nComments URL: https://news.ycombinator.com/item?id=47480900\nPoints: 61\n# Comments: 5",
-      "link": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "published": "Sun, 22 Mar 2026 19:04:00 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Android",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:23.971749"
-    },
-    {
-      "source": "hackernews",
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "summary": "Article URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/\nComments URL: https://news.ycombinator.com/item?id=47480886\nPoints: 167\n# Comments: 63",
-      "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "published": "Sun, 22 Mar 2026 19:02:43 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:23.971790"
-    },
-    {
-      "source": "hackernews",
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "summary": "Article URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/\nComments URL: https://news.ycombinator.com/item?id=47480507\nPoints: 297\n# Comments: 139",
-      "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "published": "Sun, 22 Mar 2026 18:23:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:23.971830"
+      "crawled_at": "2026-03-23T06:57:08.605227"
     },
     {
       "source": "arstechnica",
@@ -200,7 +195,7 @@
       "published": "Sun, 22 Mar 2026 14:10:30 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.074518"
+      "crawled_at": "2026-03-23T06:57:08.762376"
     },
     {
       "source": "arstechnica",
@@ -210,7 +205,7 @@
       "published": "Sun, 22 Mar 2026 11:00:58 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.074550"
+      "crawled_at": "2026-03-23T06:57:08.762408"
     },
     {
       "source": "arstechnica",
@@ -220,7 +215,7 @@
       "published": "Sat, 21 Mar 2026 11:00:37 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.074588"
+      "crawled_at": "2026-03-23T06:57:08.762446"
     },
     {
       "source": "arstechnica",
@@ -233,7 +228,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.074638"
+      "crawled_at": "2026-03-23T06:57:08.762482"
     },
     {
       "source": "arstechnica",
@@ -243,7 +238,7 @@
       "published": "Fri, 20 Mar 2026 22:27:42 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.074669"
+      "crawled_at": "2026-03-23T06:57:08.762509"
     },
     {
       "source": "wired",
@@ -257,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:24.166551"
+      "crawled_at": "2026-03-23T06:57:08.940275"
     },
     {
       "source": "wired",
@@ -270,7 +265,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-23T01:14:24.166589"
+      "crawled_at": "2026-03-23T06:57:08.940312"
     },
     {
       "source": "wired",
@@ -282,7 +277,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-23T01:14:24.166642"
+      "crawled_at": "2026-03-23T06:57:08.940350"
     },
     {
       "source": "wired",
@@ -294,7 +289,7 @@
         "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-23T01:14:24.166671"
+      "crawled_at": "2026-03-23T06:57:08.940377"
     },
     {
       "source": "wired",
@@ -307,7 +302,7 @@
         "Cloud"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-03-23T01:14:24.166704"
+      "crawled_at": "2026-03-23T06:57:08.940409"
     }
   ]
 }
