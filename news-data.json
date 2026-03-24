@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-03-24T06:51:28.831152",
+  "last_updated": "2026-03-24T12:44:29.375772",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations",
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
+      "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "published": "Tue, 24 Mar 2026 12:05:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-24T12:44:27.644026"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ultrahuman ramps up U.S. push with Ring Pro as Oura tightens its grip",
+      "summary": "Ultrahuman pushes back into the U.S. with Ring Pro, as Oura strengthens its lead in a market driving 60% of global demand.",
+      "link": "https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-oura-tightens-grip/",
+      "published": "Tue, 24 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-24T12:44:27.644066"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Insight Partners scrubs investment post about Delve amid ‘fake compliance’ allegations",
       "summary": "After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal.",
-      "link": "https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
+      "link": "https://techcrunch.com/2026/03/23/insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
       "published": "Tue, 24 Mar 2026 05:26:20 +0000",
       "keywords": [
         "AI",
@@ -14,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.665849"
+      "crawled_at": "2026-03-24T12:44:27.644104"
     },
     {
       "source": "techcrunch",
@@ -27,7 +54,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.665895"
+      "crawled_at": "2026-03-24T12:44:27.644141"
     },
     {
       "source": "techcrunch",
@@ -41,38 +68,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.665924"
+      "crawled_at": "2026-03-24T12:44:27.644167"
     },
     {
-      "source": "techcrunch",
-      "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
-      "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
-      "link": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
-      "published": "Mon, 23 Mar 2026 22:57:53 +0000",
+      "source": "theverge",
+      "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+      "summary": "Nintendo will produce fewer Switch 2 units than it previously projected in response to weakening demand for the console in the US, Bloomberg reports. Four million units of Nintendo's flagship device are expected to be made this quarter instead of the six million it had originally planned, according ",
+      "link": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+      "published": "2026-03-24T07:45:15-04:00",
       "keywords": [
-        "Go",
-        "API",
-        "Startup",
-        "VC",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-03-24T06:51:27.665956"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-      "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-      "published": "Mon, 23 Mar 2026 22:36:39 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.665988"
+      "category": "Hardware",
+      "crawled_at": "2026-03-24T12:44:27.730224"
     },
     {
       "source": "theverge",
@@ -86,7 +94,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-24T06:51:27.910780"
+      "crawled_at": "2026-03-24T12:44:27.730278"
     },
     {
       "source": "theverge",
@@ -99,7 +107,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:27.910845"
+      "crawled_at": "2026-03-24T12:44:27.730335"
     },
     {
       "source": "theverge",
@@ -113,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.910894"
+      "crawled_at": "2026-03-24T12:44:27.730381"
     },
     {
       "source": "theverge",
@@ -128,86 +136,95 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:27.910932"
+      "crawled_at": "2026-03-24T12:44:27.730419"
     },
     {
-      "source": "theverge",
-      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-      "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent year",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-      "published": "2026-03-23T15:42:33-04:00",
+      "source": "hackernews",
+      "title": "God, I hate .env files",
+      "summary": "There is no reason anyone would ever use this instead of a regular config file.\n\nComments URL: https://news.ycombinator.com/item?id=47501386\nPoints: 6\n# Comments: 4",
+      "link": "https://news.ycombinator.com/item?id=47501386",
+      "published": "Tue, 24 Mar 2026 12:01:11 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-24T12:44:29.182687"
+    },
+    {
+      "source": "hackernews",
+      "title": "Debunking Zswap and Zram Myths",
+      "summary": "Article URL: https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html\nComments URL: https://news.ycombinator.com/item?id=47500746\nPoints: 28\n# Comments: 3",
+      "link": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+      "published": "Tue, 24 Mar 2026 10:39:21 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:27.910977"
+      "crawled_at": "2026-03-24T12:44:29.182729"
     },
     {
       "source": "hackernews",
-      "title": "Log File Viewer for the Terminal",
-      "summary": "Article URL: https://lnav.org/\nComments URL: https://news.ycombinator.com/item?id=47498924\nPoints: 25\n# Comments: 4",
-      "link": "https://lnav.org/",
-      "published": "Tue, 24 Mar 2026 05:32:53 +0000",
+      "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
+      "summary": "Article URL: https://astrid.tech/2026/03/24/0/curl-to-dev-sda/\nComments URL: https://news.ycombinator.com/item?id=47500522\nPoints: 23\n# Comments: 13",
+      "link": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
+      "published": "Tue, 24 Mar 2026 10:06:02 +0000",
       "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.363240"
+      "crawled_at": "2026-03-24T12:44:29.182764"
     },
     {
       "source": "hackernews",
-      "title": "Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",
-      "summary": "Article URL: https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11\nComments URL: https://news.ycombinator.com/item?id=47498766\nPoints: 25\n# Comments: 2",
-      "link": "https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11",
-      "published": "Tue, 24 Mar 2026 05:00:21 +0000",
+      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+      "summary": "Article URL: https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/\nComments URL: https://news.ycombinator.com/item?id=47500335\nPoints: 327\n# Comments: 219",
+      "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "published": "Tue, 24 Mar 2026 09:36:29 +0000",
       "keywords": [
-        "Hack",
         "Microsoft",
         "Windows",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-03-24T06:51:28.363284"
+      "category": "Tech News",
+      "crawled_at": "2026-03-24T12:44:29.182799"
     },
     {
       "source": "hackernews",
-      "title": "Ubisoft's death by a thousand cuts",
-      "summary": "Article URL: https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts\nComments URL: https://news.ycombinator.com/item?id=47497910\nPoints: 12\n# Comments: 2",
-      "link": "https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts",
-      "published": "Tue, 24 Mar 2026 02:15:40 +0000",
+      "title": "MagicAudio – Free Noise, Echo and Background Music Remover",
+      "summary": "Article URL: https://magicaudio.pro/\nComments URL: https://news.ycombinator.com/item?id=47499814\nPoints: 15\n# Comments: 9",
+      "link": "https://magicaudio.pro/",
+      "published": "Tue, 24 Mar 2026 08:09:14 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.363318"
+      "crawled_at": "2026-03-24T12:44:29.182856"
     },
     {
-      "source": "hackernews",
-      "title": "Sunsetting the Techempower Framework Benchmarks",
-      "summary": "Article URL: https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932\nComments URL: https://news.ycombinator.com/item?id=47497763\nPoints: 30\n# Comments: 5",
-      "link": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-      "published": "Tue, 24 Mar 2026 01:54:03 +0000",
+      "source": "arstechnica",
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "summary": "Development houses: It's time to check your networks for infections.",
+      "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.363353"
+      "crawled_at": "2026-03-24T12:44:29.277296"
     },
     {
-      "source": "hackernews",
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "summary": "Article URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs\nComments URL: https://news.ycombinator.com/item?id=47497757\nPoints: 256\n# Comments: 181",
-      "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "published": "Tue, 24 Mar 2026 01:53:09 +0000",
+      "source": "arstechnica",
+      "title": "Orbital data centers, part 1: There’s no way this is economically viable, right?",
+      "summary": "\"This is not physically impossible; it’s only a question of whether this is a rational thing.\"",
+      "link": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
+      "published": "Tue, 24 Mar 2026 11:00:59 +0000",
       "keywords": [
-        "AI",
-        "GPT",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:28.363381"
+      "category": "Tech News",
+      "crawled_at": "2026-03-24T12:44:29.277340"
     },
     {
       "source": "arstechnica",
@@ -217,7 +234,7 @@
       "published": "Mon, 23 Mar 2026 22:49:31 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.641069"
+      "crawled_at": "2026-03-24T12:44:29.277376"
     },
     {
       "source": "arstechnica",
@@ -229,7 +246,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.641102"
+      "crawled_at": "2026-03-24T12:44:29.277404"
     },
     {
       "source": "arstechnica",
@@ -241,94 +258,71 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:28.641128"
+      "crawled_at": "2026-03-24T12:44:29.277428"
     },
     {
-      "source": "arstechnica",
-      "title": "After hackers hit an Iowa company, cars around the country failed to start",
-      "summary": "If you don't calibrate your interlock in time, your vehicle is dead.",
-      "link": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
-      "published": "Mon, 23 Mar 2026 21:10:14 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:28.641150"
-    },
-    {
-      "source": "arstechnica",
-      "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
-      "summary": "Dell XPS laptops will be the first to use the display tech that reaches up to 120 Hz.",
-      "link": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
-      "published": "Mon, 23 Mar 2026 20:29:09 +0000",
+      "source": "wired",
+      "title": "Clear Drop Soft Plastic Compactor Review: Eco Experiment",
+      "summary": "Clear Drop’s Soft Plastic Compactor is a unique household recycling solution that’s fun to use, but who is it for?",
+      "link": "https://www.wired.com/review/clear-drop-soft-plastic-compactor/",
+      "published": "Tue, 24 Mar 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T06:51:28.641177"
+      "crawled_at": "2026-03-24T12:44:29.375559"
     },
     {
       "source": "wired",
-      "title": "20% Off Brooks Promo Code & Deals for | March 2026",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "published": "Tue, 24 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-24T06:51:28.830960"
-    },
-    {
-      "source": "wired",
-      "title": "Ulta Coupons and Deals: Up to 50% Off in March",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Tue, 24 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-24T06:51:28.830988"
-    },
-    {
-      "source": "wired",
-      "title": "Sony Promo Codes and Discounts: 45% Off",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "link": "https://www.wired.com/story/sony-promo-code/",
-      "published": "Tue, 24 Mar 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-03-24T06:51:28.831023"
-    },
-    {
-      "source": "wired",
-      "title": "Design Within Reach Promo Codes: 30% Off | March 2026",
-      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "published": "Tue, 24 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-24T06:51:28.831049"
-    },
-    {
-      "source": "wired",
-      "title": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Testing",
-      "summary": "R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions.",
-      "link": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
-      "published": "Mon, 23 Mar 2026 19:46:05 +0000",
+      "title": "How to Use Apple’s Live Translation on Your AirPods",
+      "summary": "If you have a recent Apple device, you can translate live conversations. It’s impressive, and the new AirPods Pro Max just joined the party.",
+      "link": "https://www.wired.com/story/apple-live-translation-airpods/",
+      "published": "Tue, 24 Mar 2026 11:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Startup",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T06:51:28.831075"
+      "crawled_at": "2026-03-24T12:44:29.375595"
+    },
+    {
+      "source": "wired",
+      "title": "Best Premium Soundbars: Dolby Atmos, Hi-Res Audio, and More",
+      "summary": "Soundbars just keep getting better, but some rise above the rest. These are the best high-end soundbars and wireless A/V speakers I've tried.",
+      "link": "https://www.wired.com/gallery/best-premium-soundbars/",
+      "published": "Tue, 24 Mar 2026 10:30:00 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-24T12:44:29.375629"
+    },
+    {
+      "source": "wired",
+      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
+      "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
+      "published": "Tue, 24 Mar 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-24T12:44:29.375660"
+    },
+    {
+      "source": "wired",
+      "title": "Your Body Is Betraying Your Right to Privacy",
+      "summary": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+      "link": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+      "published": "Tue, 24 Mar 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-03-24T12:44:29.375692"
     }
   ]
 }
