@@ -1,270 +1,305 @@
 {
-  "last_updated": "2026-03-24T18:47:30.441294",
+  "last_updated": "2026-03-25T01:11:59.270315",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "OpenAI adds open source tools to help developers build for teen safety",
-      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
-      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-      "published": "Tue, 24 Mar 2026 18:41:34 +0000",
+      "title": "Amazon just bought a startup making kid-size humanoid robots",
+      "summary": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
+      "link": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "published": "Wed, 25 Mar 2026 00:53:39 +0000",
+      "keywords": [
+        "Startup",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-25T01:11:58.396253"
+    },
+    {
+      "source": "techcrunch",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "published": "Wed, 25 Mar 2026 00:47:20 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "API",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.396286"
+    },
+    {
+      "source": "techcrunch",
+      "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+      "summary": "The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+      "link": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+      "published": "Wed, 25 Mar 2026 00:14:12 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.396324"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+      "summary": "Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+      "link": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+      "published": "Wed, 25 Mar 2026 00:01:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-25T01:11:58.396357"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "published": "Tue, 24 Mar 2026 23:57:55 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.396389"
+    },
+    {
+      "source": "theverge",
+      "title": "Instagram and Facebook are about to be filled with affiliate content",
+      "summary": "Instagram and Facebook content will soon have shopping links baked into posts, essentially cutting out third-party \"link in bio\"-style tools. Meta announced Tuesday that it's adding commerce features on the two platforms, though the functionality will be slightly different for each. On Facebook, con",
+      "link": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
+      "published": "2026-03-24T19:00:00-04:00",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-25T01:11:58.585987"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta misled users about its products’ safety, jury decides",
+      "summary": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations, awarding the maximum penalty of $5,000 per violation for 37,500 violations acro",
+      "link": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
+      "published": "2026-03-24T17:54:29-04:00",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.586042"
+    },
+    {
+      "source": "theverge",
+      "title": "NASA wants to put a $20 billion base on the Moon",
+      "summary": "NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the Moon. Isaacman announced the news during NASA's Ignition event on Tuesday, where he also described goals to l",
+      "link": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman",
+      "published": "2026-03-24T17:47:24-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.586077"
+    },
+    {
+      "source": "theverge",
+      "title": "What is ICE actually doing at the airport?",
+      "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial government shutdown. Congres",
+      "link": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+      "published": "2026-03-24T17:17:28-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.586105"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "published": "2026-03-24T17:08:10-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.586137"
+    },
+    {
+      "source": "hackernews",
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "summary": "Article URL: https://spectrum.ieee.org/data-center-dc\nComments URL: https://news.ycombinator.com/item?id=47511703\nPoints: 3\n# Comments: 0",
+      "link": "https://spectrum.ieee.org/data-center-dc",
+      "published": "Wed, 25 Mar 2026 00:44:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-25T01:11:58.840048"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flighty Airports",
+      "summary": "Article URL: https://flighty.com/airports\nComments URL: https://news.ycombinator.com/item?id=47511589\nPoints: 15\n# Comments: 5",
+      "link": "https://flighty.com/airports",
+      "published": "Wed, 25 Mar 2026 00:29:45 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.840081"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Compiler Writing Journey",
+      "summary": "Article URL: https://github.com/DoctorWkt/acwj\nComments URL: https://news.ycombinator.com/item?id=47511208\nPoints: 13\n# Comments: 0",
+      "link": "https://github.com/DoctorWkt/acwj",
+      "published": "Tue, 24 Mar 2026 23:44:47 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-25T01:11:58.840114"
+    },
+    {
+      "source": "hackernews",
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "summary": "Article URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead\nComments URL: https://news.ycombinator.com/item?id=47509571\nPoints: 171\n# Comments: 68",
+      "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "published": "Tue, 24 Mar 2026 21:24:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-25T01:11:58.840156"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is anybody else bored of talking about AI?",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/\nComments URL: https://news.ycombinator.com/item?id=47508745\nPoints: 485\n# Comments: 344",
+      "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "published": "Tue, 24 Mar 2026 20:31:08 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:58.840183"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Final analysis of 2025 Iberian blackout: Policies left Spain at risk",
+      "summary": "Too much hardware was allowed to disconnect right at the edge of normal conditions.",
+      "link": "https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/",
+      "published": "Tue, 24 Mar 2026 22:43:49 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:59.028966"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+      "summary": "Walmart wants to connect what people stream \"directly with retail interaction.\"",
+      "link": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+      "published": "Tue, 24 Mar 2026 22:26:56 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:59.028995"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+      "summary": "There are major problems to be solved before it can be adopted, though.",
+      "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+      "published": "Tue, 24 Mar 2026 21:37:07 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:59.029018"
+    },
+    {
+      "source": "arstechnica",
+      "title": "OpenAI announces plans to shut down its Sora video generator",
+      "summary": "Move comes amid a reported plan to refocus on business and productivity use cases.",
+      "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+      "published": "Tue, 24 Mar 2026 21:19:50 +0000",
       "keywords": [
         "AI",
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.704884"
+      "crawled_at": "2026-03-25T01:11:59.029039"
     },
     {
-      "source": "techcrunch",
-      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
-      "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
-      "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-      "published": "Tue, 24 Mar 2026 18:41:33 +0000",
-      "keywords": [
-        "AI",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.704927"
-    },
-    {
-      "source": "techcrunch",
-      "title": "BKR Capital raises $14.5M (so far) to  invest in Black founders",
-      "summary": "BKR Capital announced Monday that its Fund II closed $20 million Canadian toward its $50 million target.",
-      "link": "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/",
-      "published": "Tue, 24 Mar 2026 17:47:41 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.704953"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
-      "summary": "Crunchyroll said it continues to investigate the data breach involving its users' personal information.",
-      "link": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
-      "published": "Tue, 24 Mar 2026 17:20:07 +0000",
-      "keywords": [
-        "AI",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.704977"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
-      "published": "Tue, 24 Mar 2026 17:18:29 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.705002"
-    },
-    {
-      "source": "theverge",
-      "title": "The Lego Game Boy makes for a great gift, and it’s $10 off today",
-      "summary": "Deals on the Lego Game Boy are virtually nonexistent, save for the $10 discount that Costco and Sam’s Club offered their members when the set launched late last year. The deal is back — this time, at Kohl&#8217;s — and no membership is required to get $10 off. You can purchase the Lego Game Boy and ",
-      "link": "https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale",
-      "published": "2026-03-24T14:38:35-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:26.822187"
-    },
-    {
-      "source": "theverge",
-      "title": "The Apple Watch SE 3 is even easier to recommend at $50 off",
-      "summary": "When Apple released the latest Apple Watch SE, it surprised us, outshining Apple’s more expensive models while improving on the basics. Now that it’s on sale, it’s even easier to recommend. The LTE-enabled model has dropped back to its all-time low of $249 ($50 off) at Amazon for the first time sinc",
-      "link": "https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale",
-      "published": "2026-03-24T13:18:10-04:00",
-      "keywords": [
-        "Apple",
-        "Amazon"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-24T18:47:26.822266"
-    },
-    {
-      "source": "theverge",
-      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, O",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-      "published": "2026-03-24T13:13:00-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.822301"
-    },
-    {
-      "source": "theverge",
-      "title": "Welp, I bought an iPhone again",
-      "summary": "It takes a week to switch phones. First, there's the technical process of moving eSIMs across devices, which takes either a few minutes (if you're switching from one Android phone to another) or two days, a half-dozen calls to Verizon, a verification text message sent to your mom, and approximately ",
-      "link": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
-      "published": "2026-03-24T13:00:00-04:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "iPhone",
-        "Android",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.822332"
-    },
-    {
-      "source": "theverge",
-      "title": "A BlackBerry you might actually want just landed on Kickstarter",
-      "summary": "When The Verge's Allison Johnson went hands-on with the company's Titan 2 Elite phone at MWC 2026, Unihertz didn't divulge pricing info. But the compact Android phone with a BlackBerry-inspired keyboard is now available for preorder through a Kickstarter crowdfunding campaign and starts at $489, wit",
-      "link": "https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder",
-      "published": "2026-03-24T12:27:36-04:00",
-      "keywords": [
-        "AI",
-        "Funding",
-        "Android",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:26.822365"
-    },
-    {
-      "source": "hackernews",
-      "title": "ARM AGI CPU: Specs and SKUs",
-      "summary": "Article URL: https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/\nComments URL: https://news.ycombinator.com/item?id=47506641\nPoints: 42\n# Comments: 8",
-      "link": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
-      "published": "Tue, 24 Mar 2026 17:59:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.080729"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lago (YC S21) Is Hiring",
-      "summary": "Article URL: https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link\nComments URL: https://news.ycombinator.com/item?id=47506490\nPoints: 0\n# Comments: 0",
-      "link": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
-      "published": "Tue, 24 Mar 2026 17:47:23 +0000",
+      "source": "arstechnica",
+      "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+      "summary": "Public interest in government tech abuses is peaking. EFF's new leader plans to build on that.",
+      "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+      "published": "Tue, 24 Mar 2026 21:00:49 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.080770"
-    },
-    {
-      "source": "hackernews",
-      "title": "Country that put backdoors in Cisco routers to spy on world bans foreign routers",
-      "summary": "Article URL: https://www.theregister.com/2026/03/24/fcc_foreign_routers/\nComments URL: https://news.ycombinator.com/item?id=47506279\nPoints: 59\n# Comments: 23",
-      "link": "https://www.theregister.com/2026/03/24/fcc_foreign_routers/",
-      "published": "Tue, 24 Mar 2026 17:32:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.080811"
-    },
-    {
-      "source": "hackernews",
-      "title": "Arm AGI CPU",
-      "summary": "Article URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu\nComments URL: https://news.ycombinator.com/item?id=47506251\nPoints: 45\n# Comments: 19",
-      "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "published": "Tue, 24 Mar 2026 17:30:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.080843"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "summary": "Article URL: https://www.emailmd.dev/\nComments URL: https://news.ycombinator.com/item?id=47505144\nPoints: 58\n# Comments: 20",
-      "link": "https://www.emailmd.dev/",
-      "published": "Tue, 24 Mar 2026 16:26:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.080875"
-    },
-    {
-      "source": "arstechnica",
-      "title": "All of DOGE’s work could be undone as lawsuit against Musk proceeds",
-      "summary": "Musk’s X posts bragging about DOGE may trigger reversals of its biggest wins.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/all-of-doges-work-could-be-undone-as-lawsuit-against-musk-proceeds/",
-      "published": "Tue, 24 Mar 2026 17:17:34 +0000",
-      "keywords": [
-        "AI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.188241"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Claude Code can now take over your computer to complete tasks",
-      "summary": "But Anthropic urges caution as \"research preview\" safeguards \"aren't absolute.\"",
-      "link": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
-      "published": "Tue, 24 Mar 2026 15:45:19 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.188272"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Study says roads bring more fires to forests; USDA wants more roads to fight fires",
-      "summary": "Opponents say the proposed rule would be a giveaway to the timber industry.",
-      "link": "https://arstechnica.com/science/2026/03/study-says-roads-bring-more-fire-to-forests-usda-wants-more-roads-to-fight-fires/",
-      "published": "Tue, 24 Mar 2026 14:37:33 +0000",
-      "keywords": [
         "REST"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.188304"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:59.029061"
     },
     {
-      "source": "arstechnica",
-      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-      "summary": "Development houses: It's time to check your networks for infections.",
-      "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-      "published": "Tue, 24 Mar 2026 12:38:09 +0000",
+      "source": "wired",
+      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+      "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+      "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "published": "Tue, 24 Mar 2026 22:13:17 +0000",
       "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.188334"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-25T01:11:59.270099"
     },
     {
-      "source": "arstechnica",
-      "title": "Orbital data centers, part 1: There’s no way this is economically viable, right?",
-      "summary": "\"This is not physically impossible; it’s only a question of whether this is a rational thing.\"",
-      "link": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
-      "published": "Tue, 24 Mar 2026 11:00:59 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "source": "wired",
+      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "summary": "The FCC just banned the sale of new consumer-grade Wi-Fi routers manufactured outside the US. Here’s what it means for you.",
+      "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "published": "Tue, 24 Mar 2026 18:59:10 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.188371"
+      "crawled_at": "2026-03-25T01:11:59.270143"
     },
     {
       "source": "wired",
@@ -274,7 +309,7 @@
       "published": "Tue, 24 Mar 2026 17:41:44 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.441035"
+      "crawled_at": "2026-03-25T01:11:59.270175"
     },
     {
       "source": "wired",
@@ -290,7 +325,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.441065"
+      "crawled_at": "2026-03-25T01:11:59.270198"
     },
     {
       "source": "wired",
@@ -302,34 +337,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.441115"
-    },
-    {
-      "source": "wired",
-      "title": "How to Use Apple’s Live Translation on Your AirPods",
-      "summary": "If you have a recent Apple device, you can translate live conversations. It’s impressive, and the new AirPods Pro Max just joined the party.",
-      "link": "https://www.wired.com/story/apple-live-translation-airpods/",
-      "published": "Tue, 24 Mar 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-24T18:47:30.441144"
-    },
-    {
-      "source": "wired",
-      "title": "Best Premium Soundbars: Dolby Atmos, Hi-Res Audio, and More",
-      "summary": "Soundbars just keep getting better, but some rise above the rest. These are the best high-end soundbars and wireless A/V speakers I've tried.",
-      "link": "https://www.wired.com/gallery/best-premium-soundbars/",
-      "published": "Tue, 24 Mar 2026 10:30:00 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-24T18:47:30.441177"
+      "crawled_at": "2026-03-25T01:11:59.270233"
     }
   ]
 }
