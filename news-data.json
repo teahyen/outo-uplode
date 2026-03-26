@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-26T01:17:51.170354",
+  "last_updated": "2026-03-26T06:56:00.985453",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The least surprising chapter of the Manus story is what’s happening right now",
+      "summary": "Did anyone think there would not be a reckoning over this tie-up?",
+      "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "published": "Thu, 26 Mar 2026 02:46:48 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-03-26T06:55:59.814091"
+    },
     {
       "source": "techcrunch",
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
@@ -13,7 +23,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.404340"
+      "crawled_at": "2026-03-26T06:55:59.814127"
     },
     {
       "source": "techcrunch",
@@ -27,7 +37,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.404374"
+      "crawled_at": "2026-03-26T06:55:59.814153"
     },
     {
       "source": "techcrunch",
@@ -41,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.404412"
+      "crawled_at": "2026-03-26T06:55:59.814189"
     },
     {
       "source": "techcrunch",
@@ -55,19 +65,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-03-26T01:17:50.404463"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Who’s driving Waymo’s self-driving cars? Sometimes, the police.",
-      "summary": "First responders have had to take control of Waymo vehicles and move them during emergency situations, including in at least two active crime scenes, TechCrunch found.",
-      "link": "https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/",
-      "published": "Wed, 25 Mar 2026 20:57:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.404506"
+      "crawled_at": "2026-03-26T06:55:59.814236"
     },
     {
       "source": "theverge",
@@ -80,7 +78,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T01:17:50.533473"
+      "crawled_at": "2026-03-26T06:56:00.037922"
     },
     {
       "source": "theverge",
@@ -93,7 +91,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.533546"
+      "crawled_at": "2026-03-26T06:56:00.037996"
     },
     {
       "source": "theverge",
@@ -107,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.533591"
+      "crawled_at": "2026-03-26T06:56:00.038058"
     },
     {
       "source": "theverge",
@@ -121,7 +119,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.533628"
+      "crawled_at": "2026-03-26T06:56:00.038097"
     },
     {
       "source": "theverge",
@@ -135,24 +133,53 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.533662"
+      "crawled_at": "2026-03-26T06:56:00.038130"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "summary": "We've been building data pipelines that scrape websites and extract structured data for a while now. If you've done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers.LLMs seemed like the obvious fix ",
+      "link": "https://github.com/lightfeed/extractor",
+      "published": "Thu, 26 Mar 2026 03:55:52 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Claude",
+        "TypeScript"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-26T06:56:00.378866"
+    },
+    {
+      "source": "hackernews",
+      "title": "False claims in a widely-cited paper",
+      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/\nComments URL: https://news.ycombinator.com/item?id=47525378\nPoints: 236\n# Comments: 86",
+      "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "published": "Thu, 26 Mar 2026 00:46:31 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-26T06:56:00.378909"
     },
     {
       "source": "hackernews",
       "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
-      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780\nComments URL: https://news.ycombinator.com/item?id=47524719\nPoints: 34\n# Comments: 2",
+      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780\nComments URL: https://news.ycombinator.com/item?id=47524719\nPoints: 158\n# Comments: 91",
       "link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
       "published": "Wed, 25 Mar 2026 23:30:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T01:17:50.740047"
+      "crawled_at": "2026-03-26T06:56:00.378947"
     },
     {
       "source": "hackernews",
       "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-      "summary": "Article URL: https://lab.puga.com.br/cog/\nComments URL: https://news.ycombinator.com/item?id=47524704\nPoints: 13\n# Comments: 6",
+      "summary": "Article URL: https://lab.puga.com.br/cog/\nComments URL: https://news.ycombinator.com/item?id=47524704\nPoints: 75\n# Comments: 21",
       "link": "https://lab.puga.com.br/cog/",
       "published": "Wed, 25 Mar 2026 23:29:13 +0000",
       "keywords": [
@@ -161,46 +188,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.740082"
+      "crawled_at": "2026-03-26T06:56:00.378973"
     },
     {
       "source": "hackernews",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "summary": "Article URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/\nComments URL: https://news.ycombinator.com/item?id=47523330\nPoints: 294\n# Comments: 93",
-      "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "published": "Wed, 25 Mar 2026 21:11:57 +0000",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.740125"
-    },
-    {
-      "source": "hackernews",
-      "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
-      "summary": "Article URL: https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes\nComments URL: https://news.ycombinator.com/item?id=47523169\nPoints: 72\n# Comments: 26",
-      "link": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
-      "published": "Wed, 25 Mar 2026 20:58:43 +0000",
-      "keywords": [
-        "ChatGPT",
-        "GPT",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.740156"
-    },
-    {
-      "source": "hackernews",
-      "title": "The EU still wants to scan  your private messages and photos",
-      "summary": "Article URL: https://fightchatcontrol.eu/?foo=bar\nComments URL: https://news.ycombinator.com/item?id=47522709\nPoints: 658\n# Comments: 197",
-      "link": "https://fightchatcontrol.eu/?foo=bar",
-      "published": "Wed, 25 Mar 2026 20:27:03 +0000",
+      "title": "\"Disregard That\" Attacks",
+      "summary": "Article URL: https://calpaterson.com/disregard.html\nComments URL: https://news.ycombinator.com/item?id=47524519\nPoints: 56\n# Comments: 32",
+      "link": "https://calpaterson.com/disregard.html",
+      "published": "Wed, 25 Mar 2026 23:11:34 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.740189"
+      "crawled_at": "2026-03-26T06:56:00.379034"
     },
     {
       "source": "arstechnica",
@@ -212,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.958213"
+      "crawled_at": "2026-03-26T06:56:00.668809"
     },
     {
       "source": "arstechnica",
@@ -226,7 +226,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.958250"
+      "crawled_at": "2026-03-26T06:56:00.668847"
     },
     {
       "source": "arstechnica",
@@ -239,7 +239,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:50.958271"
+      "crawled_at": "2026-03-26T06:56:00.668870"
     },
     {
       "source": "arstechnica",
@@ -252,7 +252,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:50.958298"
+      "crawled_at": "2026-03-26T06:56:00.668898"
     },
     {
       "source": "arstechnica",
@@ -265,70 +265,68 @@
         "Meta"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T01:17:50.958323"
+      "crawled_at": "2026-03-26T06:56:00.668924"
     },
     {
       "source": "wired",
-      "title": "Amazon Spring Sale Deal: The Typhur Dome 2 Air Fryer Is 30% Off",
-      "summary": "I tested more than 30 air fryers this past year. The Typhur Dome 2 is the one I recommend, and it’s uncommonly cheap right now.",
-      "link": "https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/",
-      "published": "Wed, 25 Mar 2026 19:59:02 +0000",
+      "title": "Therabody Promo Codes: 15% Off March 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-26T06:56:00.985262"
+    },
+    {
+      "source": "wired",
+      "title": "Lenovo Coupon Codes and Deals: $5,000+ Off",
+      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-26T06:56:00.985302"
+    },
+    {
+      "source": "wired",
+      "title": "Tuft & Needle Promo Codes: 20% Off | March 2026",
+      "summary": "Save 20% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-26T06:56:00.985325"
+    },
+    {
+      "source": "wired",
+      "title": "Hulu Promo Codes & Discounts: 20% Off in March",
+      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+      "link": "https://www.wired.com/story/hulu-promo-code/",
+      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:51.170143"
+      "crawled_at": "2026-03-26T06:56:00.985346"
     },
     {
       "source": "wired",
-      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
-      "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
-      "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
-      "published": "Wed, 25 Mar 2026 18:49:40 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T01:17:51.170183"
-    },
-    {
-      "source": "wired",
-      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
-      "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
-      "link": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
-      "published": "Wed, 25 Mar 2026 18:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:51.170217"
-    },
-    {
-      "source": "wired",
-      "title": "The Comedy Club at the End of the Metaverse",
-      "summary": "“This is my home”: At a VR comedy club in Horizon Worlds, users mourn Meta's plans for the platform.",
-      "link": "https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/",
-      "published": "Wed, 25 Mar 2026 17:28:02 +0000",
-      "keywords": [
-        "Meta",
-        "VR",
-        "Metaverse"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:51.170249"
-    },
-    {
-      "source": "wired",
-      "title": "Save $100 on Our Favorite Soundbar and Subwoofer Combo",
-      "summary": "The JBL Bar 500MK2 boasts Dolby Atmos support and easy setup and streaming.",
-      "link": "https://www.wired.com/story/jbl-bar500mk2-deal-326/",
-      "published": "Wed, 25 Mar 2026 17:24:05 +0000",
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this March.",
+      "link": "https://www.wired.com/story/factor-promo-code/",
+      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T01:17:51.170274"
+      "category": "Programming",
+      "crawled_at": "2026-03-26T06:56:00.985369"
     }
   ]
 }
