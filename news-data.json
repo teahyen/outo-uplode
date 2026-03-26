@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-03-26T06:56:00.985453",
+  "last_updated": "2026-03-26T12:49:47.176973",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+      "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "published": "Thu, 26 Mar 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-26T12:49:45.513964"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mistral releases a new open-source model for speech generation",
+      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+      "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "published": "Thu, 26 Mar 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:45.514003"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
+      "summary": "Verne, the robotaxi company launched under Rimac Group, is starting with a service in Zagreb, Croatia.",
+      "link": "https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/",
+      "published": "Thu, 26 Mar 2026 08:15:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-26T12:49:45.514036"
+    },
     {
       "source": "techcrunch",
       "title": "The least surprising chapter of the Manus story is what’s happening right now",
@@ -10,7 +48,7 @@
       "published": "Thu, 26 Mar 2026 02:46:48 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T06:55:59.814091"
+      "crawled_at": "2026-03-26T12:49:45.514069"
     },
     {
       "source": "techcrunch",
@@ -23,49 +61,62 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:55:59.814127"
+      "crawled_at": "2026-03-26T12:49:45.514094"
     },
     {
-      "source": "techcrunch",
-      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
-      "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
-      "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-      "published": "Thu, 26 Mar 2026 00:03:52 +0000",
+      "source": "theverge",
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approved by a large majority in the European Parliament, would push back compliance deadlines for develope",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "published": "2026-03-26T08:49:01-04:00",
       "keywords": [
         "AI",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:55:59.814153"
+      "crawled_at": "2026-03-26T12:49:45.665551"
     },
     {
-      "source": "techcrunch",
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
-      "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "published": "Wed, 25 Mar 2026 21:44:13 +0000",
+      "source": "theverge",
+      "title": "DJI’s Avata 360 is a more functional, flexible 360 drone",
+      "summary": "DJI's Avata 360 finds the company at an odd time. For one, it's been beaten to the punch - upstart Antigravity's A1 became the first 360-degree drone when it launched last December, and DJI is playing catchup (and filing lawsuits). But this is also the last DJI drone you may ever be able to legally ",
+      "link": "https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison",
+      "published": "2026-03-26T08:00:00-04:00",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-26T12:49:45.665611"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI shelves erotic chatbot &#8216;indefinitely&#8217;",
+      "summary": "OpenAI &#8203;has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core &#8203;products. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees and investors due to the pro",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "published": "2026-03-26T07:58:09-04:00",
       "keywords": [
         "AI",
-        "Anthropic",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:55:59.814189"
+      "crawled_at": "2026-03-26T12:49:45.665647"
     },
     {
-      "source": "techcrunch",
-      "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
-      "summary": "The spyware founder's comments are the most direct suggestion yet from anyone inside Intellexa that the Mitsotakis government authorized the hacking of dozens of phones belonging to senior Greek government ministers, opposition leaders, military officials, and journalists.",
-      "link": "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
-      "published": "Wed, 25 Mar 2026 21:19:57 +0000",
+      "source": "theverge",
+      "title": "Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne",
+      "summary": "Uber is joining forces with two companies, China's Pony AI and Croatia's Verne, to launch what it claims will be Europe's first commercially available robotaxi service. The vehicles are already being tested in Zagreb, Croatia, where Verne is headquartered, and will soon be available to customers on ",
+      "link": "https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe",
+      "published": "2026-03-26T04:15:00-04:00",
       "keywords": [
-        "Go",
-        "Hack",
+        "AI",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-03-26T06:55:59.814236"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-26T12:49:45.665691"
     },
     {
       "source": "theverge",
@@ -78,129 +129,72 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T06:56:00.037922"
+      "crawled_at": "2026-03-26T12:49:45.665731"
     },
     {
-      "source": "theverge",
-      "title": "The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale",
-      "summary": "Amazon’s third annual Big Spring Sale might be a great opportunity to pick up a color ebook reader or an RGB-equipped table lamp, but the pickings are slimmer when it comes to noise-canceling headphones. Sure, the Sony WH-1000XM6 are just over $60 off, though I’d argue the Sonos Ace are a better dea",
-      "link": "https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal",
-      "published": "2026-03-25T18:30:00-04:00",
+      "source": "hackernews",
+      "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
+      "summary": "Article URL: https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict\nComments URL: https://news.ycombinator.com/item?id=47529534\nPoints: 7\n# Comments: 0",
+      "link": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
+      "published": "Thu, 26 Mar 2026 12:15:33 +0000",
       "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-26T06:56:00.037996"
-    },
-    {
-      "source": "theverge",
-      "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
-      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which starts today and runs through March 31st, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and discounts on m",
-      "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
-      "published": "2026-03-25T17:58:00-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.038058"
-    },
-    {
-      "source": "theverge",
-      "title": "The portable Fanttik X9 Pro tire inflator is down to its best price in months",
-      "summary": "If you’ve ever had to deal with a flat tire, you know how quickly it can derail your day. That’s why it’s worth considering a portable inflator like the Fanttik X9 Pro. The small, rechargeable air pump that can quickly inflate tires on cars and bikes is down to $59.98 ($20 off) at Amazon and [&#8230",
-      "link": "https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale",
-      "published": "2026-03-25T17:14:15-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.038097"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses a",
-      "link": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-      "published": "2026-03-25T17:10:32-04:00",
-      "keywords": [
-        "AI",
+        "Go",
+        "AWS",
+        "Google",
         "Meta",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.038130"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-26T12:49:46.935754"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "summary": "We've been building data pipelines that scrape websites and extract structured data for a while now. If you've done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers.LLMs seemed like the obvious fix ",
-      "link": "https://github.com/lightfeed/extractor",
-      "published": "Thu, 26 Mar 2026 03:55:52 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Claude",
-        "TypeScript"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.378866"
-    },
-    {
-      "source": "hackernews",
-      "title": "False claims in a widely-cited paper",
-      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/\nComments URL: https://news.ycombinator.com/item?id=47525378\nPoints: 236\n# Comments: 86",
-      "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-      "published": "Thu, 26 Mar 2026 00:46:31 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.378909"
-    },
-    {
-      "source": "hackernews",
-      "title": "Woman who never stopped updating her lost dog's chip reunites with him after 11y",
-      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780\nComments URL: https://news.ycombinator.com/item?id=47524719\nPoints: 158\n# Comments: 91",
-      "link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780",
-      "published": "Wed, 25 Mar 2026 23:30:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-26T06:56:00.378947"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-      "summary": "Article URL: https://lab.puga.com.br/cog/\nComments URL: https://news.ycombinator.com/item?id=47524704\nPoints: 75\n# Comments: 21",
-      "link": "https://lab.puga.com.br/cog/",
-      "published": "Wed, 25 Mar 2026 23:29:13 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.378973"
-    },
-    {
-      "source": "hackernews",
-      "title": "\"Disregard That\" Attacks",
-      "summary": "Article URL: https://calpaterson.com/disregard.html\nComments URL: https://news.ycombinator.com/item?id=47524519\nPoints: 56\n# Comments: 32",
-      "link": "https://calpaterson.com/disregard.html",
-      "published": "Wed, 25 Mar 2026 23:11:34 +0000",
+      "title": "The widely reported \"hole in the Universe\" is a lie",
+      "summary": "Article URL: https://bigthink.com/starts-with-a-bang/hole-in-universe/\nComments URL: https://news.ycombinator.com/item?id=47529100\nPoints: 5\n# Comments: 0",
+      "link": "https://bigthink.com/starts-with-a-bang/hole-in-universe/",
+      "published": "Thu, 26 Mar 2026 11:17:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T06:56:00.379034"
+      "crawled_at": "2026-03-26T12:49:46.935797"
+    },
+    {
+      "source": "hackernews",
+      "title": "LibreOffice and the Art of Overreacting",
+      "summary": "Article URL: https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/\nComments URL: https://news.ycombinator.com/item?id=47528605\nPoints: 66\n# Comments: 29",
+      "link": "https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/",
+      "published": "Thu, 26 Mar 2026 10:13:38 +0000",
+      "keywords": [
+        "React",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:46.935836"
+    },
+    {
+      "source": "hackernews",
+      "title": "Swift 6.3",
+      "summary": "Article URL: https://www.swift.org/blog/swift-6.3-released/\nComments URL: https://news.ycombinator.com/item?id=47527590\nPoints: 130\n# Comments: 61",
+      "link": "https://www.swift.org/blog/swift-6.3-released/",
+      "published": "Thu, 26 Mar 2026 07:27:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:46.935865"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "summary": "Article URL: https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn\nComments URL: https://news.ycombinator.com/item?id=47527399\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "published": "Thu, 26 Mar 2026 07:00:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:46.935901"
     },
     {
       "source": "arstechnica",
@@ -212,7 +206,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T06:56:00.668809"
+      "crawled_at": "2026-03-26T12:49:47.014836"
     },
     {
       "source": "arstechnica",
@@ -226,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T06:56:00.668847"
+      "crawled_at": "2026-03-26T12:49:47.014873"
     },
     {
       "source": "arstechnica",
@@ -239,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.668870"
+      "crawled_at": "2026-03-26T12:49:47.014896"
     },
     {
       "source": "arstechnica",
@@ -252,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-26T06:56:00.668898"
+      "crawled_at": "2026-03-26T12:49:47.014923"
     },
     {
       "source": "arstechnica",
@@ -265,68 +259,64 @@
         "Meta"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-26T06:56:00.668924"
+      "crawled_at": "2026-03-26T12:49:47.014949"
     },
     {
       "source": "wired",
-      "title": "Therabody Promo Codes: 15% Off March 2026",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "title": "Soundboks Mix Review: A Great Party Speaker",
+      "summary": "This large Bluetooth speaker is massively loud, nearly indestructible, and lasts for 40 hours.",
+      "link": "https://www.wired.com/review/soundboks-mix/",
+      "published": "Thu, 26 Mar 2026 12:08:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-26T06:56:00.985262"
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:47.176630"
     },
     {
       "source": "wired",
-      "title": "Lenovo Coupon Codes and Deals: $5,000+ Off",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "Gaming"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-26T06:56:00.985302"
-    },
-    {
-      "source": "wired",
-      "title": "Tuft & Needle Promo Codes: 20% Off | March 2026",
-      "summary": "Save 20% on best-selling mattresses with our top Tuft & Needle coupon codes.",
-      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
-      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "summary": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
+      "link": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "published": "Thu, 26 Mar 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-26T06:56:00.985325"
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:47.176674"
     },
     {
       "source": "wired",
-      "title": "Hulu Promo Codes & Discounts: 20% Off in March",
-      "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-      "link": "https://www.wired.com/story/hulu-promo-code/",
-      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
+      "title": "Eufy Omni C28 Review: Affordable and Full-Featured",
+      "summary": "Eufy's latest robot vacuum proves you can still get a great vac-mop without dropping four figures.",
+      "link": "https://www.wired.com/review/eufy-omni-c28/",
+      "published": "Thu, 26 Mar 2026 11:34:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:47.176703"
+    },
+    {
+      "source": "wired",
+      "title": "How to Buy Ethical and Eco-Friendly Electronics (2026)",
+      "summary": "Electronic waste, conflict minerals, and poor labor conditions are just a few issues blighting the tech industry. Here’s how to shop more sustainably.",
+      "link": "https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/",
+      "published": "Thu, 26 Mar 2026 11:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-26T06:56:00.985346"
+      "crawled_at": "2026-03-26T12:49:47.176745"
     },
     {
       "source": "wired",
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this March.",
-      "link": "https://www.wired.com/story/factor-promo-code/",
-      "published": "Thu, 26 Mar 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-26T06:56:00.985369"
+      "title": "This Groundbreaking Omega Watch’s Accuracy Is Calibrated Using Sound",
+      "summary": "Thanks to a novel way of testing precision using acoustics, the Constellation Observatory is the first watch with no seconds hand to achieve Master Chronometer status.",
+      "link": "https://www.wired.com/story/omega-constellation-observatory-watch-accuracy-is-calibrated-using-sound/",
+      "published": "Thu, 26 Mar 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-26T12:49:47.176789"
     }
   ]
 }
