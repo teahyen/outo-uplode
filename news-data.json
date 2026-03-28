@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-03-28T06:44:54.225604",
+  "last_updated": "2026-03-28T12:30:58.642634",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day",
+      "summary": "We polled nearly a dozen VCs to find out which W26 startups are the sought after in the batch.",
+      "link": "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/",
+      "published": "Sat, 28 Mar 2026 12:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "VC",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-03-28T12:30:57.364653"
+    },
     {
       "source": "techcrunch",
       "title": "Whoop has LeBron – now it wants your mom",
@@ -12,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:51.377909"
+      "crawled_at": "2026-03-28T12:30:57.364712"
     },
     {
       "source": "techcrunch",
@@ -24,7 +38,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.377943"
+      "crawled_at": "2026-03-28T12:30:57.364739"
     },
     {
       "source": "techcrunch",
@@ -40,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.377975"
+      "crawled_at": "2026-03-28T12:30:57.364774"
     },
     {
       "source": "techcrunch",
@@ -53,20 +67,59 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.378028"
+      "crawled_at": "2026-03-28T12:30:57.364808"
     },
     {
-      "source": "techcrunch",
-      "title": "Waymo’s skyrocketing ridership in one chart",
-      "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
-      "link": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
-      "published": "Fri, 27 Mar 2026 19:11:10 +0000",
+      "source": "theverge",
+      "title": "Why OpenAI killed Sora",
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "published": "2026-03-28T08:00:00-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-28T12:30:57.455245"
+    },
+    {
+      "source": "theverge",
+      "title": "The must-have app for frequent flyers",
+      "summary": "Hi, friends! Welcome to Installer No. 121, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, good luck in the Elite Eight, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Will Wright and sync music and th",
+      "link": "https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer",
+      "published": "2026-03-28T08:00:00-04:00",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-28T12:30:57.455296"
+    },
+    {
+      "source": "theverge",
+      "title": "Oppo made the best foldable phone, again",
+      "summary": "There are always a few reasons people give for not buying a foldable phone. Some - price, battery life, camera quality - are mostly a matter of manufacturers balancing spec sheets to offset the added cost of the folding hardware. Others - durability, size - were practical design problems that have m",
+      "link": "https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price",
+      "published": "2026-03-28T07:00:00-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.378058"
+      "crawled_at": "2026-03-28T12:30:57.455328"
+    },
+    {
+      "source": "theverge",
+      "title": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size",
+      "summary": "We don't review many solar panels at The Verge, but the tech inside Bluetti's incredibly portable Sora 500 panel makes it worth a deeper look. The new N-Type panels made by Bluetti and others give you more bang for the buck, pound, and square inch. That's a big deal for vanlifers like me who depend ",
+      "link": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel",
+      "published": "2026-03-28T03:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:57.455383"
     },
     {
       "source": "theverge",
@@ -78,126 +131,91 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:51.537093"
-    },
-    {
-      "source": "theverge",
-      "title": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
-      "summary": "If you spend a lot of time presenting or chatting over video, you know how big a difference a decent webcam can make. Thankfully, if you’re looking to level up your setup at home or at work, the last-gen Insta360 Link 2C is currently available for $119.99 ($30 off) at Amazon, Best Buy, and B&#38;H [",
-      "link": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
-      "published": "2026-03-27T16:30:00-04:00",
-      "keywords": [
-        "AI",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.537145"
-    },
-    {
-      "source": "theverge",
-      "title": "The White House has an app now, and Trump wants you to report people to ICE on it",
-      "summary": "A new official White House app on Android and iOS takes the content from the White House website and copies it into app format. A tweet announcing the app on Friday morning appeared alongside a video joking about missile launches that also appears to feature an iPhone, rather than the elusive Trump ",
-      "link": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
-      "published": "2026-03-27T15:59:53-04:00",
-      "keywords": [
-        "iPhone",
-        "Android",
-        "iOS",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-03-28T06:44:51.537189"
-    },
-    {
-      "source": "theverge",
-      "title": "Wait, the Trump phone might actually exist",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week I think I've found an FCC listing for the phone, showing it's received certification to launch in the US. Last week I issued a reminder that Tr",
-      "link": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
-      "published": "2026-03-27T15:44:05-04:00",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.537219"
-    },
-    {
-      "source": "theverge",
-      "title": "The latest in data centers, AI, and energy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published": "2026-03-27T14:35:53-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:51.537259"
+      "crawled_at": "2026-03-28T12:30:57.455425"
     },
     {
       "source": "hackernews",
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/\nComments URL: https://news.ycombinator.com/item?id=47550878\nPoints: 105\n# Comments: 49",
-      "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "published": "Sat, 28 Mar 2026 02:17:04 +0000",
+      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+      "summary": "Article URL: https://github.com/EnriqueLop/legalize-es\nComments URL: https://news.ycombinator.com/item?id=47553798\nPoints: 6\n# Comments: 1",
+      "link": "https://github.com/EnriqueLop/legalize-es",
+      "published": "Sat, 28 Mar 2026 12:01:27 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-03-28T06:44:53.890537"
-    },
-    {
-      "source": "hackernews",
-      "title": "Go hard on agents, not on your filesystem",
-      "summary": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 217\n# Comments: 123",
-      "link": "https://jai.scs.stanford.edu/",
-      "published": "Sat, 28 Mar 2026 00:39:54 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:53.890570"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-      "summary": "Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is you can easily browse the less browsed parts of twitch and find cool and new streamers to say hi to",
-      "link": "https://twitchroulette.net/",
-      "published": "Fri, 27 Mar 2026 22:22:20 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:53.890657"
-    },
-    {
-      "source": "hackernews",
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "summary": "Article URL: https://github.com/davidmonterocrespo24/velxio\nComments URL: https://news.ycombinator.com/item?id=47548013\nPoints: 123\n# Comments: 41",
-      "link": "https://github.com/davidmonterocrespo24/velxio",
-      "published": "Fri, 27 Mar 2026 20:44:33 +0000",
-      "keywords": [
+        "AWS",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:53.890702"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-28T12:30:58.363051"
     },
     {
       "source": "hackernews",
-      "title": "Colorado House passes bill to limit surveillance pricing and wage setting",
-      "summary": "Article URL: https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/\nComments URL: https://news.ycombinator.com/item?id=47547602\nPoints: 98\n# Comments: 21",
-      "link": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
-      "published": "Fri, 27 Mar 2026 20:10:42 +0000",
+      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer\nComments URL: https://news.ycombinator.com/item?id=47553796\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+      "published": "Sat, 28 Mar 2026 12:01:07 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-28T12:30:58.363092"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lXxmIw9axWw\nComments URL: https://news.ycombinator.com/item?id=47553717\nPoints: 7\n# Comments: 1",
+      "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "published": "Sat, 28 Mar 2026 11:49:28 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:53.890740"
+      "crawled_at": "2026-03-28T12:30:58.363126"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gaza toddler released from Israeli custody with 'cigarette burn' wounds",
+      "summary": "Article URL: https://www.middleeasteye.net/news/gaza-toddler-released-israeli-custody-cigarette-burn-wounds\nComments URL: https://news.ycombinator.com/item?id=47553573\nPoints: 6\n# Comments: 0",
+      "link": "https://www.middleeasteye.net/news/gaza-toddler-released-israeli-custody-cigarette-burn-wounds",
+      "published": "Sat, 28 Mar 2026 11:25:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.363166"
+    },
+    {
+      "source": "hackernews",
+      "title": "No one is happy with NASA's new idea for private space stations",
+      "summary": "Article URL: https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/\nComments URL: https://news.ycombinator.com/item?id=47553516\nPoints: 11\n# Comments: 1",
+      "link": "https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/",
+      "published": "Sat, 28 Mar 2026 11:13:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-28T12:30:58.363204"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Getting formal about quantum mechanics' lack of causality",
+      "summary": "A quantum experiment shows that we can formally test if the order of events matters.",
+      "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
+      "published": "Sat, 28 Mar 2026 12:00:31 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.463310"
+    },
+    {
+      "source": "arstechnica",
+      "title": "How new fishing tech can reduce bycatch of turtles and other creatures",
+      "summary": "Specially equipped nets can help save some species, while allowing fisherman to still catch others.",
+      "link": "https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/",
+      "published": "Sat, 28 Mar 2026 11:15:35 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.463348"
     },
     {
       "source": "arstechnica",
@@ -209,7 +227,7 @@
         "iOS"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-28T06:44:54.081247"
+      "crawled_at": "2026-03-28T12:30:58.463376"
     },
     {
       "source": "arstechnica",
@@ -223,7 +241,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:54.081275"
+      "crawled_at": "2026-03-28T12:30:58.463398"
     },
     {
       "source": "arstechnica",
@@ -236,93 +254,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:54.081298"
+      "crawled_at": "2026-03-28T12:30:58.463420"
     },
     {
-      "source": "arstechnica",
-      "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
-      "summary": "\"Let me see the driver!\"",
-      "link": "https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/",
-      "published": "Fri, 27 Mar 2026 21:10:25 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "What Is the Best Garmin Watch Right Now? (2026)",
+      "summary": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
+      "link": "https://www.wired.com/story/best-garmin-watch/",
+      "published": "Sat, 28 Mar 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-03-28T06:44:54.081329"
-    },
-    {
-      "source": "arstechnica",
-      "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
-      "summary": "Big Tech declaring AV1 royalty-free “doesn't mean that it is.\"",
-      "link": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
-      "published": "Fri, 27 Mar 2026 20:31:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-03-28T06:44:54.081357"
+      "crawled_at": "2026-03-28T12:30:58.642384"
     },
     {
       "source": "wired",
-      "title": "Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "published": "Sat, 28 Mar 2026 05:00:00 +0000",
+      "title": "The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens",
+      "summary": "Slap a case on your shiny new Pixel, whether you have the Pixel 10a, Pixel 10, or Pixel 10 Pro XL. We also have recommendations for Qi2 chargers and other accessories.",
+      "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
+      "published": "Sat, 28 Mar 2026 11:08:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-28T06:44:54.225401"
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.642434"
     },
     {
       "source": "wired",
-      "title": "Instacart Promo Code: Save on Groceries in March 2026",
-      "summary": "From $0 delivery fees on your first three orders to $50 credits with the Instacart Mastercard, here is how to maximize your grocery budget this month.",
-      "link": "https://www.wired.com/story/instacart-promo/code/",
-      "published": "Sat, 28 Mar 2026 05:00:00 +0000",
+      "title": "Your Vape Wants to Know How Old You Are",
+      "summary": "Companies hope that biometric age-verification tech in cartridges could put flavored vapes back in business. But it's unlikely to solve the real problems.",
+      "link": "https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/",
+      "published": "Sat, 28 Mar 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-28T06:44:54.225435"
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.642467"
     },
     {
       "source": "wired",
-      "title": "Meta Quest Promo Codes: $50 Off | March 2026",
-      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "published": "Sat, 28 Mar 2026 05:00:00 +0000",
+      "title": "The Best Samsung Phones of 2026, Tested and Reviewed",
+      "summary": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
+      "link": "https://www.wired.com/gallery/best-samsung-phones/",
+      "published": "Sat, 28 Mar 2026 10:30:00 +0000",
       "keywords": [
-        "AI",
-        "Meta",
-        "VR",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:54.225458"
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.642507"
     },
     {
       "source": "wired",
-      "title": "Acer Promo Codes and Deals: Save 40% on Bundles",
-      "summary": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
-      "link": "https://www.wired.com/story/acer-promo-code/",
-      "published": "Sat, 28 Mar 2026 05:00:00 +0000",
+      "title": "Samsung Frame Pro Review: A Good TV for a Pretty Living Room",
+      "summary": "This is the first truly impressive art TV I’ve seen.",
+      "link": "https://www.wired.com/review/samsung-frame-pro/",
+      "published": "Sat, 28 Mar 2026 10:00:00 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-03-28T06:44:54.225483"
-    },
-    {
-      "source": "wired",
-      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-      "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-      "link": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-      "published": "Fri, 27 Mar 2026 21:46:39 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-03-28T06:44:54.225522"
+      "category": "Tech News",
+      "crawled_at": "2026-03-28T12:30:58.642536"
     }
   ]
 }
