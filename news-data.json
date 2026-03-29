@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T06:52:15.085640",
+  "last_updated": "2026-03-29T12:31:26.513059",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.259501"
+      "crawled_at": "2026-03-29T12:31:24.665134"
     },
     {
       "source": "techcrunch",
@@ -24,7 +24,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.259547"
+      "crawled_at": "2026-03-29T12:31:24.665182"
     },
     {
       "source": "techcrunch",
@@ -37,7 +37,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.259583"
+      "crawled_at": "2026-03-29T12:31:24.665223"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.259609"
+      "crawled_at": "2026-03-29T12:31:24.665251"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.259637"
+      "crawled_at": "2026-03-29T12:31:24.665319"
+    },
+    {
+      "source": "theverge",
+      "title": "The Macintosh changed computers forever",
+      "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his legacy and contribute to his unceremonious exile from Apple, the company dropped a ",
+      "link": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+      "published": "2026-03-29T08:30:36-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-29T12:31:24.849068"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple’s long, bitter App Store antitrust war",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The year was 1998, and reigning ",
+      "link": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+      "published": "2026-03-29T08:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-29T12:31:24.849130"
     },
     {
       "source": "theverge",
@@ -75,7 +103,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.394781"
+      "crawled_at": "2026-03-29T12:31:24.849165"
     },
     {
       "source": "theverge",
@@ -89,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.394835"
+      "crawled_at": "2026-03-29T12:31:24.849214"
     },
     {
       "source": "theverge",
@@ -103,96 +131,89 @@
         "Gaming"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-29T06:52:14.394893"
+      "crawled_at": "2026-03-29T12:31:24.849293"
     },
     {
-      "source": "theverge",
-      "title": "Why can’t TikTok identify AI generated ads when I can?",
-      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-      "published": "2026-03-28T10:00:00-04:00",
+      "source": "hackernews",
+      "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
+      "summary": "Article URL: https://sheetninja.io\nComments URL: https://news.ycombinator.com/item?id=47562288\nPoints: 20\n# Comments: 23",
+      "link": "https://sheetninja.io",
+      "published": "Sun, 29 Mar 2026 11:42:31 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-03-29T12:31:26.174960"
+    },
+    {
+      "source": "hackernews",
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "summary": "Article URL: https://github.com/austin-weeks/miasma\nComments URL: https://news.ycombinator.com/item?id=47561819\nPoints: 25\n# Comments: 8",
+      "link": "https://github.com/austin-weeks/miasma",
+      "published": "Sun, 29 Mar 2026 10:10:12 +0000",
       "keywords": [
         "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.394934"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta’s legal defeat could be a victory for children, or a loss for everyone",
-      "summary": "Is social media not just bad, but illegally bad? Should tech companies pay for making it that way? According to two US juries - and no shortage of outside commentary - the answer to both questions is \"yes.\" Earlier this week, two juries - one in New Mexico, one in Los Angeles - held Meta [&#8230;]",
-      "link": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
-      "published": "2026-03-28T10:00:00-04:00",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.394985"
+      "crawled_at": "2026-03-29T12:31:26.174997"
     },
     {
       "source": "hackernews",
-      "title": "The United States is driving a public health emergency of international concern",
-      "summary": "Article URL: https://www.bmj.com/content/392/bmj-2026-089474\nComments URL: https://news.ycombinator.com/item?id=47560592\nPoints: 8\n# Comments: 1",
-      "link": "https://www.bmj.com/content/392/bmj-2026-089474",
-      "published": "Sun, 29 Mar 2026 05:20:48 +0000",
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "summary": "Article URL: https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/\nComments URL: https://news.ycombinator.com/item?id=47561711\nPoints: 54\n# Comments: 27",
+      "link": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "published": "Sun, 29 Mar 2026 09:46:58 +0000",
       "keywords": [
+        "REST",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.834310"
+      "crawled_at": "2026-03-29T12:31:26.175042"
     },
     {
       "source": "hackernews",
-      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
-      "summary": "Article URL: https://github.com/openyak/desktop\nComments URL: https://news.ycombinator.com/item?id=47560380\nPoints: 54\n# Comments: 16",
-      "link": "https://github.com/openyak/desktop",
-      "published": "Sun, 29 Mar 2026 04:26:13 +0000",
+      "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+      "summary": "Article URL: https://github.com/1st1/lat.md\nComments URL: https://news.ycombinator.com/item?id=47561496\nPoints: 25\n# Comments: 7",
+      "link": "https://github.com/1st1/lat.md",
+      "published": "Sun, 29 Mar 2026 08:59:52 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.834365"
+      "category": "Programming",
+      "crawled_at": "2026-03-29T12:31:26.175072"
     },
     {
       "source": "hackernews",
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194\nComments URL: https://news.ycombinator.com/item?id=47559481\nPoints: 92\n# Comments: 48",
-      "link": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "published": "Sun, 29 Mar 2026 00:53:30 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.834402"
-    },
-    {
-      "source": "hackernews",
-      "title": "Attie.ai",
-      "summary": "Article URL: https://attie.ai/login\nComments URL: https://news.ycombinator.com/item?id=47559026\nPoints: 6\n# Comments: 0",
-      "link": "https://attie.ai/login",
-      "published": "Sat, 28 Mar 2026 23:33:42 +0000",
+      "title": "What if AI doesn't need more RAM but better math?",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more\nComments URL: https://news.ycombinator.com/item?id=47561297\nPoints: 55\n# Comments: 22",
+      "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+      "published": "Sun, 29 Mar 2026 08:18:55 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.834426"
+      "crawled_at": "2026-03-29T12:31:26.175099"
     },
     {
-      "source": "hackernews",
-      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
-      "summary": "Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ\nComments URL: https://news.ycombinator.com/item?id=47558997\nPoints: 267\n# Comments: 146",
-      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
-      "published": "Sat, 28 Mar 2026 23:29:04 +0000",
+      "source": "arstechnica",
+      "title": "Polygraphs have major flaws. Are there better options?",
+      "summary": "Research proceeds on alternatives, but some doubt whether true lie detection is possible.",
+      "link": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+      "published": "Sun, 29 Mar 2026 11:01:46 +0000",
       "keywords": [
+        "AWS",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.834468"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-03-29T12:31:26.399670"
     },
     {
       "source": "arstechnica",
@@ -205,7 +226,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.978130"
+      "crawled_at": "2026-03-29T12:31:26.399701"
     },
     {
       "source": "arstechnica",
@@ -215,7 +236,7 @@
       "published": "Sat, 28 Mar 2026 12:00:31 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.978167"
+      "crawled_at": "2026-03-29T12:31:26.399732"
     },
     {
       "source": "arstechnica",
@@ -225,7 +246,7 @@
       "published": "Sat, 28 Mar 2026 11:15:35 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:14.978197"
+      "crawled_at": "2026-03-29T12:31:26.399761"
     },
     {
       "source": "arstechnica",
@@ -237,82 +258,74 @@
         "iOS"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-03-29T06:52:14.978223"
+      "crawled_at": "2026-03-29T12:31:26.399786"
     },
     {
-      "source": "arstechnica",
-      "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-      "summary": "Things are moving fast, and competitors have offered something similar for a while.",
-      "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-      "published": "Fri, 27 Mar 2026 21:53:45 +0000",
+      "source": "wired",
+      "title": "9 Best Android Phones of 2026, Tested and Reviewed",
+      "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+      "link": "https://www.wired.com/gallery/best-android-phones/",
+      "published": "Sun, 29 Mar 2026 11:00:00 +0000",
+      "keywords": [
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-03-29T12:31:26.512768"
+    },
+    {
+      "source": "wired",
+      "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+      "summary": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+      "link": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+      "published": "Sun, 29 Mar 2026 11:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-03-29T06:52:14.978245"
+      "crawled_at": "2026-03-29T12:31:26.512812"
     },
     {
       "source": "wired",
-      "title": "What Is the Best Garmin Watch Right Now? (2026)",
-      "summary": "We tested Garmin’s GPS-enabled fitness trackers and found the perfect picks for casual hikers, backcountry skiers, and more.",
-      "link": "https://www.wired.com/story/best-garmin-watch/",
-      "published": "Sat, 28 Mar 2026 11:30:00 +0000",
+      "title": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
+      "summary": "All your snaps come with metadata containing more information than you might realize.",
+      "link": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
+      "published": "Sun, 29 Mar 2026 10:30:00 +0000",
       "keywords": [
+        "AI",
+        "Meta",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:15.085405"
+      "category": "AI/ML",
+      "crawled_at": "2026-03-29T12:31:26.512843"
     },
     {
       "source": "wired",
-      "title": "The Best Pixel 10 Cases and Accessories (2026): We’ve Tested Dozens",
-      "summary": "Slap a case on your shiny new Pixel, whether you have the Pixel 10a, Pixel 10, or Pixel 10 Pro XL. We also have recommendations for Qi2 chargers and other accessories.",
-      "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
-      "published": "Sat, 28 Mar 2026 11:08:00 +0000",
+      "title": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
+      "summary": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
+      "link": "https://www.wired.com/gallery/best-noise-canceling-earbuds/",
+      "published": "Sun, 29 Mar 2026 10:30:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:15.085454"
-    },
-    {
-      "source": "wired",
-      "title": "Your Vape Wants to Know How Old You Are",
-      "summary": "Companies hope that biometric age-verification tech in cartridges could put flavored vapes back in business. But it's unlikely to solve the real problems.",
-      "link": "https://www.wired.com/story/your-vape-wants-to-know-how-old-you-are/",
-      "published": "Sat, 28 Mar 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:15.085488"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Samsung Phones of 2026, Tested and Reviewed",
-      "summary": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
-      "link": "https://www.wired.com/gallery/best-samsung-phones/",
-      "published": "Sat, 28 Mar 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:15.085527"
-    },
-    {
-      "source": "wired",
-      "title": "Samsung Frame Pro Review: A Good TV for a Pretty Living Room",
-      "summary": "This is the first truly impressive art TV I’ve seen.",
-      "link": "https://www.wired.com/review/samsung-frame-pro/",
-      "published": "Sat, 28 Mar 2026 10:00:00 +0000",
-      "keywords": [
+        "AI",
         "Go",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-03-29T12:31:26.512865"
+    },
+    {
+      "source": "wired",
+      "title": "The Deceptively Tricky Art of Designing a Steering Wheel",
+      "summary": "Veteran designers in the auto industry—and Jony Ive—tell us how hard it is to make a functional yet beautiful steering wheel.",
+      "link": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+      "published": "Sun, 29 Mar 2026 10:00:00 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-03-29T06:52:15.085557"
+      "crawled_at": "2026-03-29T12:31:26.512907"
     }
   ]
 }
