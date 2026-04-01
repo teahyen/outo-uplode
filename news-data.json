@@ -1,334 +1,328 @@
 {
-  "last_updated": "2026-04-01T12:53:09.148525",
+  "last_updated": "2026-04-01T18:44:35.554249",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
-      "summary": "The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
-      "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
-      "published": "Wed, 01 Apr 2026 12:33:24 +0000",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "published": "Wed, 01 Apr 2026 18:35:36 +0000",
       "keywords": [
         "AI",
-        "Cloud",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T18:44:34.787277"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cameo partners with TikTok to boost popularity",
+      "summary": "Cameo launched a new TikTok integration that allows U.S. creators to offer personalized videos through the app.",
+      "link": "https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/",
+      "published": "Wed, 01 Apr 2026 17:11:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-01T18:44:34.787319"
+    },
+    {
+      "source": "techcrunch",
+      "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+      "summary": "The Meta-owned company said it identified around 200 users who were tricked into installing a fake version of WhatsApp that was actually Italian-made spyware.",
+      "link": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+      "published": "Wed, 01 Apr 2026 16:34:10 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.513217"
+      "crawled_at": "2026-04-01T18:44:34.787348"
     },
     {
       "source": "techcrunch",
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "published": "Wed, 01 Apr 2026 01:42:59 +0000",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "published": "Wed, 01 Apr 2026 16:00:00 +0000",
       "keywords": [
-        "AI",
-        "Security",
-        "Hack",
-        "Startup",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.513260"
+      "crawled_at": "2026-04-01T18:44:34.787373"
     },
     {
       "source": "techcrunch",
-      "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
-      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
-      "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "published": "Wed, 01 Apr 2026 01:00:00 +0000",
+      "title": "SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says",
+      "summary": "The company has also lined up an unusually large number of 21 banks to manage the mega IPO, internally codenamed “Project Apex.\"",
+      "link": "https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/",
+      "published": "Wed, 01 Apr 2026 15:46:43 +0000",
       "keywords": [
-        "API",
-        "Security",
-        "Cybersecurity",
+        "IPO",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-04-01T12:53:08.513303"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic is having a month",
-      "summary": "A human really borks things at Anthropic for the second time this week.",
-      "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "published": "Tue, 31 Mar 2026 23:58:26 +0000",
-      "keywords": [
-        "Anthropic"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.513329"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful.",
-      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "published": "Tue, 31 Mar 2026 22:46:25 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.513351"
+      "category": "Programming",
+      "crawled_at": "2026-04-01T18:44:34.787410"
     },
     {
       "source": "theverge",
-      "title": "AI can push your Stream Deck buttons for you",
-      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, Cha",
-      "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "published": "2026-04-01T08:38:58-04:00",
+      "title": "Everything is iPhone now",
+      "summary": "This is part of our package about Apple's 50th anniversary. Read more here. The thing about the iPhone is that everyone knew it was going to be a big deal, and then it was an even bigger deal than that. Hell, it's still the biggest thing going. It's hard to remember, but almost 20 years [&#8230;]",
+      "link": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
+      "published": "2026-04-01T14:02:52-04:00",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Claude",
-        "Go"
+        "Go",
+        "Apple",
+        "iPhone",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.658249"
+      "category": "Mobile",
+      "crawled_at": "2026-04-01T18:44:34.892151"
     },
     {
       "source": "theverge",
-      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
-      "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopp",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "published": "2026-04-01T06:39:52-04:00",
+      "title": "April Fools’ Day 2026: the best and cringiest pranks",
+      "summary": "Welcome to the worst day on the internet! As Chaim Gartenberg pointed out years ago, brands and a holiday dedicated to hoaxes are rarely a winning combo. If you’re a company with any kind of social media, internet, or AI chatbot presence in 2026, you really, truly only have four options on April Foo",
+      "link": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
+      "published": "2026-04-01T13:59:04-04:00",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.658309"
+      "crawled_at": "2026-04-01T18:44:34.892209"
     },
     {
       "source": "theverge",
-      "title": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
-      "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through 11:59PM PT tonight, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and discounts on more seaso",
-      "link": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
-      "published": "2026-03-31T21:14:30-04:00",
+      "title": "Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range",
+      "summary": "At the New York International Auto Show on Wednesday, Kia announced that its compact electric SUV, the EV3, will be available in the US \"in late 2026.\" The EV3 has been available overseas since 2024, when it launched in South Korea and Europe. The 2027 model coming to the US appears to have the same",
+      "link": "https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch",
+      "published": "2026-04-01T13:50:15-04:00",
       "keywords": [
         "AI",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.658355"
+      "crawled_at": "2026-04-01T18:44:34.892243"
     },
     {
       "source": "theverge",
-      "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
-      "summary": "If you&#8217;re looking for the best time to get a deal this spring, it might very well be during Amazon&#8217;s Big Spring Sale, which runs through 11:59PM PT tonight. We’re still highlighting the best that the sale has to offer, including the many so-called “doorbuster” deals that will appear thro",
-      "link": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
-      "published": "2026-03-31T20:45:00-04:00",
+      "title": "The Shokz OpenRun Pro 2 are now at their lowest price in months",
+      "summary": "As the days get warmer, it’s tempting to take your workouts outside. Bone conduction headphones let you listen while staying aware of your surroundings, making them ideal for runs, walks, and more. Through April 7th, Shokz is discounting several models during its spring sale, from the Shokz OpenFit ",
+      "link": "https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale",
+      "published": "2026-04-01T13:11:50-04:00",
       "keywords": [
         "AI",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.658395"
+      "crawled_at": "2026-04-01T18:44:34.892285"
     },
     {
       "source": "theverge",
-      "title": "The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale",
-      "summary": "Earlier this month, Apple announced the AirPods Max 2, a pair of over-ear headphones that leverage the company’s H2 chip for AI-powered live translation, conversation awareness, and a host of newer features. However, if you’re okay with a pair of earbuds, the AirPods Pro 3 offer access to all the sa",
-      "link": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
-      "published": "2026-03-31T19:53:47-04:00",
+      "title": "I tested a living room full of cheap Ikea speakers against Sonos and Bose",
+      "summary": "Ikea's $10 Kallsup Bluetooth speaker is fun and colorful and sounds better than its price suggests. It's not mind-blowing (it is a $10 speaker, after all), and there are no features to speak of, other than the ability to connect up to 100 of them together, but at that price, I don't really care. The",
+      "link": "https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review",
+      "published": "2026-04-01T12:30:00-04:00",
       "keywords": [
         "AI",
-        "Apple",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.658435"
+      "crawled_at": "2026-04-01T18:44:34.892317"
     },
     {
       "source": "hackernews",
-      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
-      "summary": "Article URL: https://www.workatastartup.com/companies/wasmer\nComments URL: https://news.ycombinator.com/item?id=47599673\nPoints: 0\n# Comments: 0",
-      "link": "https://www.workatastartup.com/companies/wasmer",
-      "published": "Wed, 01 Apr 2026 12:00:17 +0000",
-      "keywords": [
-        "Rust",
-        "Startup",
-        "VR",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-01T12:53:08.820511"
-    },
-    {
-      "source": "hackernews",
-      "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
-      "summary": "Article URL: https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/\nComments URL: https://news.ycombinator.com/item?id=47599510\nPoints: 20\n# Comments: 6",
-      "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
-      "published": "Wed, 01 Apr 2026 11:39:04 +0000",
+      "title": "What IAEA docs say about Iran's nuclear program, before the bombs fell",
+      "summary": "Article URL: https://meetdewey.com/blog/iaea-iran-nuclear-reports\nComments URL: https://news.ycombinator.com/item?id=47604509\nPoints: 16\n# Comments: 7",
+      "link": "https://meetdewey.com/blog/iaea-iran-nuclear-reports",
+      "published": "Wed, 01 Apr 2026 18:16:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.820563"
+      "crawled_at": "2026-04-01T18:44:35.251700"
     },
     {
       "source": "hackernews",
-      "title": "I Quit. The Clankers Won",
-      "summary": "Article URL: https://dbushell.com/2026/04/01/i-quit-the-clankers-won/\nComments URL: https://news.ycombinator.com/item?id=47598511\nPoints: 75\n# Comments: 48",
-      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "published": "Wed, 01 Apr 2026 09:00:34 +0000",
+      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
+      "summary": "Article URL: https://github.com/SharpAI/SwiftLM\nComments URL: https://news.ycombinator.com/item?id=47604354\nPoints: 7\n# Comments: 0",
+      "link": "https://github.com/SharpAI/SwiftLM",
+      "published": "Wed, 01 Apr 2026 18:06:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.820597"
-    },
-    {
-      "source": "hackernews",
-      "title": "CERN levels up with new superconducting karts",
-      "summary": "Article URL: https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts\nComments URL: https://news.ycombinator.com/item?id=47597935\nPoints: 196\n# Comments: 47",
-      "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "published": "Wed, 01 Apr 2026 07:27:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.820633"
-    },
-    {
-      "source": "hackernews",
-      "title": "Remembering Magnetic Memories and the Apollo AGC",
-      "summary": "Article URL: https://2earth.github.io/website/20260304.html\nComments URL: https://news.ycombinator.com/item?id=47597908\nPoints: 11\n# Comments: 2",
-      "link": "https://2earth.github.io/website/20260304.html",
-      "published": "Wed, 01 Apr 2026 07:22:41 +0000",
-      "keywords": [
+        "AI",
+        "iOS",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.820666"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T18:44:35.251757"
     },
     {
-      "source": "arstechnica",
-      "title": "NASA is leading the way to the Moon, but the military won't be far behind",
-      "summary": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
-      "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
-      "published": "Wed, 01 Apr 2026 01:36:50 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.955663"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Running local models on Macs gets faster with Ollama's MLX support",
-      "summary": "Apple Silicon Macs get a performance boost thanks to better unified memory usage.",
-      "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
-      "published": "Tue, 31 Mar 2026 23:00:23 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-01T12:53:08.955699"
-    },
-    {
-      "source": "arstechnica",
-      "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
-      "summary": "The FDA is reportedly planning to allow production of 14 previously banned peptides.",
-      "link": "https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/",
-      "published": "Tue, 31 Mar 2026 21:51:26 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:08.955731"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-      "summary": "Satellite failure cause is unexplained after second \"fragment creation event.\"",
-      "link": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
-      "published": "Tue, 31 Mar 2026 21:28:15 +0000",
+      "source": "hackernews",
+      "title": "Ukrainian Drone Holds Position for 6 Weeks",
+      "summary": "Article URL: https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/\nComments URL: https://news.ycombinator.com/item?id=47604245\nPoints: 13\n# Comments: 2",
+      "link": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
+      "published": "Wed, 01 Apr 2026 17:57:40 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.955783"
+      "crawled_at": "2026-04-01T18:44:35.251792"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI Marketing BS Index",
+      "summary": "Article URL: https://bastian.rieck.me/blog/2026/bs/\nComments URL: https://news.ycombinator.com/item?id=47604218\nPoints: 5\n# Comments: 0",
+      "link": "https://bastian.rieck.me/blog/2026/bs/",
+      "published": "Wed, 01 Apr 2026 17:55:12 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T18:44:35.251817"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI for American-Produced Cement and Concrete",
+      "summary": "Article URL: https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/\nComments URL: https://news.ycombinator.com/item?id=47603737\nPoints: 50\n# Comments: 38",
+      "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "published": "Wed, 01 Apr 2026 17:17:24 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T18:44:35.251847"
     },
     {
       "source": "arstechnica",
-      "title": "He-Man gets an origin story in Masters of the Universe trailer",
-      "summary": "\"Skeletor took my family and he destroyed our world.\"",
-      "link": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
-      "published": "Tue, 31 Mar 2026 20:26:39 +0000",
+      "title": "SpaceX finally files for IPO, targets $1.75 trillion valuation",
+      "summary": "Confidential SEC submission sets up largest IPO in history.",
+      "link": "https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/",
+      "published": "Wed, 01 Apr 2026 18:35:39 +0000",
       "keywords": [
-        "AI"
+        "IPO",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-04-01T18:44:35.396833"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
+      "summary": "Judge invalidates Trump executive order, but Congress also cut off all funding.",
+      "link": "https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/",
+      "published": "Wed, 01 Apr 2026 18:02:55 +0000",
+      "keywords": [
+        "Funding"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-04-01T18:44:35.396870"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A word from Editor Moonshark about Artemis II",
+      "summary": "Our resident Carcharodon lunaris weighs in about today's historic launch.",
+      "link": "https://arstechnica.com/staff/2026/04/a-word-from-editor-moonshark-about-artemis-ii/",
+      "published": "Wed, 01 Apr 2026 15:32:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T18:44:35.396901"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid",
+      "summary": "People want small, efficient cars, and it seems Kia is listening.",
+      "link": "https://arstechnica.com/cars/2026/04/kia-shows-off-small-cars-in-ny-the-2027-ev3-and-2027-seltos-hybrid/",
+      "published": "Wed, 01 Apr 2026 15:20:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T18:44:35.396928"
+    },
+    {
+      "source": "arstechnica",
+      "title": "LIGO data hints at supernovae so powerful they leave nothing behind",
+      "summary": "Pair instability supernovae create a \"mass gap\" in black holes.",
+      "link": "https://arstechnica.com/science/2026/04/black-hole-mergers-put-limits-on-star-destroying-supernovae/",
+      "published": "Wed, 01 Apr 2026 15:00:01 +0000",
+      "keywords": [
+        "AI",
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:08.955804"
+      "crawled_at": "2026-04-01T18:44:35.396948"
     },
     {
       "source": "wired",
-      "title": "15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them",
-      "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
-      "link": "https://www.wired.com/gallery/best-office-chairs/",
-      "published": "Wed, 01 Apr 2026 12:00:00 +0000",
+      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+      "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+      "published": "Wed, 01 Apr 2026 18:30:00 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T12:53:09.148265"
+      "crawled_at": "2026-04-01T18:44:35.553921"
     },
     {
       "source": "wired",
-      "title": "The Best E-Readers (2026): Kobo, Kindle",
-      "summary": "These WIRED-tested ebook readers let you take your library anywhere.",
-      "link": "https://www.wired.com/gallery/best-ereaders/",
-      "published": "Wed, 01 Apr 2026 11:35:00 +0000",
+      "title": "The HP OmniBook 5 Is a MacBook Neo Killer, and It's Only $500",
+      "summary": "The HP OmniBook 5 is a better laptop than the MacBook Neo in almost every way. Right now, it's also $100 cheaper.",
+      "link": "https://www.wired.com/story/hp-omnibook-5-deal-0426/",
+      "published": "Wed, 01 Apr 2026 18:25:42 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T18:44:35.553960"
+    },
+    {
+      "source": "wired",
+      "title": "‘Thank You for Generating With Us!’ Hollywood's AI Acolytes Stay on the Hype Train",
+      "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora’s death.",
+      "link": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+      "published": "Wed, 01 Apr 2026 18:13:34 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T18:44:35.554003"
+    },
+    {
+      "source": "wired",
+      "title": "Our Favorite Budget Smartwatch is $69",
+      "summary": "You can grab a nice discount on the Nothing CMF Watch 3 Pro for a limited time.",
+      "link": "https://www.wired.com/story/nothing-watch-3-pro-deal-426/",
+      "published": "Wed, 01 Apr 2026 17:45:10 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:09.148299"
+      "crawled_at": "2026-04-01T18:44:35.554031"
     },
     {
       "source": "wired",
-      "title": "What You Need to Know About Building an Outdoor Sauna (2026)",
-      "summary": "Putting together a relaxing backyard retreat is not always as simple as you might think.",
-      "link": "https://www.wired.com/story/how-to-build-outdoor-sauna/",
-      "published": "Wed, 01 Apr 2026 11:30:00 +0000",
+      "title": "The New Era of Militia Influencers",
+      "summary": "The militia movement in the US is undergoing a rebrand that trades counterprotests for expensive weapons, manly sweatshirts, and highly curated Instagram grids.",
+      "link": "https://www.wired.com/story/the-new-era-of-militia-influencers/",
+      "published": "Wed, 01 Apr 2026 15:00:00 +0000",
       "keywords": [
-        "AR"
+        "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:09.148328"
-    },
-    {
-      "source": "wired",
-      "title": "Best WiiM Streamers (2026): Simplify Your Sound With WiiM Streaming Gear",
-      "summary": "Lookout, Sonos. WiiM is the new star in whole-home audio, and these are the best WiiM devices you can buy.",
-      "link": "https://www.wired.com/gallery/best-wiim-streamers/",
-      "published": "Wed, 01 Apr 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-04-01T12:53:09.148358"
-    },
-    {
-      "source": "wired",
-      "title": "Retrospec Judd Rev 2 Electric Folding Bike Review: Affordable, Simple, Easy to Store",
-      "summary": "Retrospec's affordable folding electric bike is refreshingly free of unnecessary bells and whistles.",
-      "link": "https://www.wired.com/review/retrospec-judd-rev-2-electric-folding-bike/",
-      "published": "Wed, 01 Apr 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T12:53:09.148389"
+      "crawled_at": "2026-04-01T18:44:35.554062"
     }
   ]
 }
