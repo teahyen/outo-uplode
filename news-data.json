@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-01T01:25:44.624371",
+  "last_updated": "2026-04-01T07:07:31.845483",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "published": "Wed, 01 Apr 2026 01:42:59 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "Hack",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T07:07:30.786902"
+    },
     {
       "source": "techcrunch",
       "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
@@ -15,7 +31,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-01T01:25:43.534989"
+      "crawled_at": "2026-04-01T07:07:30.786955"
     },
     {
       "source": "techcrunch",
@@ -27,7 +43,7 @@
         "Anthropic"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:43.535026"
+      "crawled_at": "2026-04-01T07:07:30.786982"
     },
     {
       "source": "techcrunch",
@@ -40,7 +56,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.535047"
+      "crawled_at": "2026-04-01T07:07:30.787002"
     },
     {
       "source": "techcrunch",
@@ -53,23 +69,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:43.535080"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "published": "Tue, 31 Mar 2026 21:25:04 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Funding",
-        "IPO",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.535104"
+      "crawled_at": "2026-04-01T07:07:30.787036"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.746487"
+      "crawled_at": "2026-04-01T07:07:31.075808"
     },
     {
       "source": "theverge",
@@ -97,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.746545"
+      "crawled_at": "2026-04-01T07:07:31.075862"
     },
     {
       "source": "theverge",
@@ -112,7 +112,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.746589"
+      "crawled_at": "2026-04-01T07:07:31.075904"
     },
     {
       "source": "theverge",
@@ -125,7 +125,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-01T01:25:43.746663"
+      "crawled_at": "2026-04-01T07:07:31.075959"
     },
     {
       "source": "theverge",
@@ -141,71 +141,84 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:43.746705"
+      "crawled_at": "2026-04-01T07:07:31.075999"
     },
     {
       "source": "hackernews",
-      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-      "summary": "Article URL: https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386\nComments URL: https://news.ycombinator.com/item?id=47593634\nPoints: 43\n# Comments: 10",
-      "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
-      "published": "Tue, 31 Mar 2026 21:22:48 +0000",
+      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude\nComments URL: https://news.ycombinator.com/item?id=47597382\nPoints: 25\n# Comments: 16",
+      "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+      "published": "Wed, 01 Apr 2026 06:05:57 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T07:07:31.333684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Code Unpacked : A visual guide",
+      "summary": "Related ongoing threads:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments)Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584",
+      "link": "https://ccunpacked.dev/",
+      "published": "Wed, 01 Apr 2026 05:15:37 +0000",
+      "keywords": [
+        "Claude",
+        "Rust",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T07:07:31.333739"
+    },
+    {
+      "source": "hackernews",
+      "title": "Analyzing Geekbench 6 under Intel's BOT",
+      "summary": "Article URL: https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/\nComments URL: https://news.ycombinator.com/item?id=47596457\nPoints: 19\n# Comments: 12",
+      "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+      "published": "Wed, 01 Apr 2026 03:27:38 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:44.152704"
+      "crawled_at": "2026-04-01T07:07:31.333777"
     },
     {
       "source": "hackernews",
-      "title": "A dot a day keeps the clutter away",
-      "summary": "Article URL: https://scottlawsonbc.com/post/dot-system\nComments URL: https://news.ycombinator.com/item?id=47593556\nPoints: 118\n# Comments: 36",
-      "link": "https://scottlawsonbc.com/post/dot-system",
-      "published": "Tue, 31 Mar 2026 21:15:01 +0000",
+      "title": "We intercepted the White House app's network traffic",
+      "summary": "Article URL: https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/\nComments URL: https://news.ycombinator.com/item?id=47595865\nPoints: 200\n# Comments: 60",
+      "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "published": "Wed, 01 Apr 2026 01:58:45 +0000",
       "keywords": [
-        "AWS",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-01T01:25:44.152744"
+      "category": "Mobile",
+      "crawled_at": "2026-04-01T07:07:31.333813"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "summary": "Article URL: https://prismml.com/\nComments URL: https://news.ycombinator.com/item?id=47593422\nPoints: 76\n# Comments: 33",
-      "link": "https://prismml.com/",
-      "published": "Tue, 31 Mar 2026 21:01:18 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.152772"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ministack (Replacement for LocalStack)",
-      "summary": "Article URL: https://ministack.org/\nComments URL: https://news.ycombinator.com/item?id=47593285\nPoints: 127\n# Comments: 22",
-      "link": "https://ministack.org/",
-      "published": "Tue, 31 Mar 2026 20:48:15 +0000",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "summary": "Article URL: https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years\nComments URL: https://news.ycombinator.com/item?id=47595572\nPoints: 112\n# Comments: 54",
+      "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "published": "Wed, 01 Apr 2026 01:12:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:44.152806"
+      "crawled_at": "2026-04-01T07:07:31.333851"
     },
     {
-      "source": "hackernews",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "summary": "https://openai.com/index/accelerating-the-next-phase-ai\n\nComments URL: https://news.ycombinator.com/item?id=47592755\nPoints: 309\n# Comments: 281",
-      "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "published": "Tue, 31 Mar 2026 20:07:30 +0000",
+      "source": "arstechnica",
+      "title": "NASA is leading the way to the Moon, but the military won't be far behind",
+      "summary": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
+      "link": "https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/",
+      "published": "Wed, 01 Apr 2026 01:36:50 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Funding"
+        "REST",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.152833"
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T07:07:31.542628"
     },
     {
       "source": "arstechnica",
@@ -217,7 +230,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-01T01:25:44.322899"
+      "crawled_at": "2026-04-01T07:07:31.542664"
     },
     {
       "source": "arstechnica",
@@ -227,7 +240,7 @@
       "published": "Tue, 31 Mar 2026 21:51:26 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:44.322938"
+      "crawled_at": "2026-04-01T07:07:31.542695"
     },
     {
       "source": "arstechnica",
@@ -240,7 +253,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.322962"
+      "crawled_at": "2026-04-01T07:07:31.542718"
     },
     {
       "source": "arstechnica",
@@ -252,20 +265,29 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.322983"
+      "crawled_at": "2026-04-01T07:07:31.542737"
     },
     {
-      "source": "arstechnica",
-      "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
-      "summary": "Cops arrest Woods after incident.",
-      "link": "https://arstechnica.com/tech-policy/2026/03/sweaty-glassy-eyed-tiger-woods-blames-cell-phone-use-for-his-car-crash/",
-      "published": "Tue, 31 Mar 2026 20:00:20 +0000",
+      "source": "wired",
+      "title": "Babbel Promo Code: Up to 65% Off in April 2026",
+      "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
+      "link": "https://www.wired.com/story/babbel-promo-code/",
+      "published": "Wed, 01 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-01T07:07:31.845241"
+    },
+    {
+      "source": "wired",
+      "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
+      "summary": "A suspected system failure froze Baidu’s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.",
+      "link": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
+      "published": "Wed, 01 Apr 2026 01:24:55 +0000",
       "keywords": [
-        "REST",
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T01:25:44.323008"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T07:07:31.845285"
     },
     {
       "source": "wired",
@@ -281,7 +303,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.624150"
+      "crawled_at": "2026-04-01T07:07:31.845333"
     },
     {
       "source": "wired",
@@ -294,7 +316,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.624187"
+      "crawled_at": "2026-04-01T07:07:31.845362"
     },
     {
       "source": "wired",
@@ -310,36 +332,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-01T01:25:44.624230"
-    },
-    {
-      "source": "wired",
-      "title": "Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper",
-      "summary": "Amazon has the Coway Airmega Mighty marked down to two-thirds its normal price.",
-      "link": "https://www.wired.com/story/coway-airmega-mighty-deal-326/",
-      "published": "Tue, 31 Mar 2026 18:02:31 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.624253"
-    },
-    {
-      "source": "wired",
-      "title": "Google Now Lets You Change Your Gmail Address. Here’s How",
-      "summary": "You’ve probably had the same Gmail address for years. Now, it’s easy to make a name change without worrying about the transition.",
-      "link": "https://www.wired.com/story/how-to-change-your-gmail-address/",
-      "published": "Tue, 31 Mar 2026 17:51:29 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T01:25:44.624281"
+      "crawled_at": "2026-04-01T07:07:31.845401"
     }
   ]
 }
