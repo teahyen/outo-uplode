@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-01T07:07:31.845483",
+  "last_updated": "2026-04-01T12:53:09.148525",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
+      "summary": "The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
+      "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+      "published": "Wed, 01 Apr 2026 12:33:24 +0000",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T12:53:08.513217"
+    },
     {
       "source": "techcrunch",
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -16,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:30.786902"
+      "crawled_at": "2026-04-01T12:53:08.513260"
     },
     {
       "source": "techcrunch",
@@ -31,7 +45,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-01T07:07:30.786955"
+      "crawled_at": "2026-04-01T12:53:08.513303"
     },
     {
       "source": "techcrunch",
@@ -43,7 +57,7 @@
         "Anthropic"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:30.786982"
+      "crawled_at": "2026-04-01T12:53:08.513329"
     },
     {
       "source": "techcrunch",
@@ -56,20 +70,37 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:30.787002"
+      "crawled_at": "2026-04-01T12:53:08.513351"
     },
     {
-      "source": "techcrunch",
-      "title": "Robotaxi companies refuse to say how often their AVs need remote help",
-      "summary": "Aurora, May Mobility, Motional, Nuro, Tesla, Waymo, and Zoox all refused to cough up a number during Senator Ed Markey's recent investigation.",
-      "link": "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/",
-      "published": "Tue, 31 Mar 2026 21:35:51 +0000",
+      "source": "theverge",
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, Cha",
+      "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "published": "2026-04-01T08:38:58-04:00",
       "keywords": [
-        "Tesla",
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T12:53:08.658249"
+    },
+    {
+      "source": "theverge",
+      "title": "Baidu’s robotaxis froze in traffic, creating chaos",
+      "summary": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarled traffic. Police in Wuhan confirmed receiving multiple reports of Baidu's Apollo Go robotaxis stopp",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "published": "2026-04-01T06:39:52-04:00",
+      "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:30.787036"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-01T12:53:08.658309"
     },
     {
       "source": "theverge",
@@ -83,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.075808"
+      "crawled_at": "2026-04-01T12:53:08.658355"
     },
     {
       "source": "theverge",
@@ -97,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.075862"
+      "crawled_at": "2026-04-01T12:53:08.658395"
     },
     {
       "source": "theverge",
@@ -112,100 +143,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.075904"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale",
-      "summary": "Amazon’s Big Spring Sale may not have been as “big” as Black Friday or even Prime Day, but depending on what you’re after, the discounts are more appealing than you might think. Take charging accessories, for instance. Anker, Twelve South, Baseus, and others have sharply lowered the prices of some o",
-      "link": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
-      "published": "2026-03-31T19:00:00-04:00",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-01T07:07:31.075959"
-    },
-    {
-      "source": "theverge",
-      "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-      "summary": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling attention to the leak and posting a file containing the code. The leaked data reportedly contains more th",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "published": "2026-03-31T18:24:19-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "TypeScript",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.075999"
+      "crawled_at": "2026-04-01T12:53:08.658435"
     },
     {
       "source": "hackernews",
-      "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
-      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude\nComments URL: https://news.ycombinator.com/item?id=47597382\nPoints: 25\n# Comments: 16",
-      "link": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
-      "published": "Wed, 01 Apr 2026 06:05:57 +0000",
+      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
+      "summary": "Article URL: https://www.workatastartup.com/companies/wasmer\nComments URL: https://news.ycombinator.com/item?id=47599673\nPoints: 0\n# Comments: 0",
+      "link": "https://www.workatastartup.com/companies/wasmer",
+      "published": "Wed, 01 Apr 2026 12:00:17 +0000",
       "keywords": [
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.333684"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude Code Unpacked : A visual guide",
-      "summary": "Related ongoing threads:The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments)Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584",
-      "link": "https://ccunpacked.dev/",
-      "published": "Wed, 01 Apr 2026 05:15:37 +0000",
-      "keywords": [
-        "Claude",
         "Rust",
-        "Go",
+        "Startup",
+        "VR",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.333739"
+      "category": "Programming",
+      "crawled_at": "2026-04-01T12:53:08.820511"
     },
     {
       "source": "hackernews",
-      "title": "Analyzing Geekbench 6 under Intel's BOT",
-      "summary": "Article URL: https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/\nComments URL: https://news.ycombinator.com/item?id=47596457\nPoints: 19\n# Comments: 12",
-      "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
-      "published": "Wed, 01 Apr 2026 03:27:38 +0000",
+      "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
+      "summary": "Article URL: https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/\nComments URL: https://news.ycombinator.com/item?id=47599510\nPoints: 20\n# Comments: 6",
+      "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
+      "published": "Wed, 01 Apr 2026 11:39:04 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:31.333777"
+      "crawled_at": "2026-04-01T12:53:08.820563"
     },
     {
       "source": "hackernews",
-      "title": "We intercepted the White House app's network traffic",
-      "summary": "Article URL: https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/\nComments URL: https://news.ycombinator.com/item?id=47595865\nPoints: 200\n# Comments: 60",
-      "link": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "published": "Wed, 01 Apr 2026 01:58:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-01T07:07:31.333813"
-    },
-    {
-      "source": "hackernews",
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "summary": "Article URL: https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years\nComments URL: https://news.ycombinator.com/item?id=47595572\nPoints: 112\n# Comments: 54",
-      "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "published": "Wed, 01 Apr 2026 01:12:12 +0000",
+      "title": "I Quit. The Clankers Won",
+      "summary": "Article URL: https://dbushell.com/2026/04/01/i-quit-the-clankers-won/\nComments URL: https://news.ycombinator.com/item?id=47598511\nPoints: 75\n# Comments: 48",
+      "link": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "published": "Wed, 01 Apr 2026 09:00:34 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:31.333851"
+      "crawled_at": "2026-04-01T12:53:08.820597"
+    },
+    {
+      "source": "hackernews",
+      "title": "CERN levels up with new superconducting karts",
+      "summary": "Article URL: https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts\nComments URL: https://news.ycombinator.com/item?id=47597935\nPoints: 196\n# Comments: 47",
+      "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+      "published": "Wed, 01 Apr 2026 07:27:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T12:53:08.820633"
+    },
+    {
+      "source": "hackernews",
+      "title": "Remembering Magnetic Memories and the Apollo AGC",
+      "summary": "Article URL: https://2earth.github.io/website/20260304.html\nComments URL: https://news.ycombinator.com/item?id=47597908\nPoints: 11\n# Comments: 2",
+      "link": "https://2earth.github.io/website/20260304.html",
+      "published": "Wed, 01 Apr 2026 07:22:41 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T12:53:08.820666"
     },
     {
       "source": "arstechnica",
@@ -218,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:31.542628"
+      "crawled_at": "2026-04-01T12:53:08.955663"
     },
     {
       "source": "arstechnica",
@@ -230,7 +233,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-01T07:07:31.542664"
+      "crawled_at": "2026-04-01T12:53:08.955699"
     },
     {
       "source": "arstechnica",
@@ -240,7 +243,7 @@
       "published": "Tue, 31 Mar 2026 21:51:26 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-01T07:07:31.542695"
+      "crawled_at": "2026-04-01T12:53:08.955731"
     },
     {
       "source": "arstechnica",
@@ -253,7 +256,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.542718"
+      "crawled_at": "2026-04-01T12:53:08.955783"
     },
     {
       "source": "arstechnica",
@@ -265,74 +268,67 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.542737"
+      "crawled_at": "2026-04-01T12:53:08.955804"
     },
     {
       "source": "wired",
-      "title": "Babbel Promo Code: Up to 65% Off in April 2026",
-      "summary": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
-      "link": "https://www.wired.com/story/babbel-promo-code/",
-      "published": "Wed, 01 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-01T07:07:31.845241"
-    },
-    {
-      "source": "wired",
-      "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
-      "summary": "A suspected system failure froze Baidu’s robotaxis across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes.",
-      "link": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
-      "published": "Wed, 01 Apr 2026 01:24:55 +0000",
+      "title": "15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them",
+      "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
+      "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "published": "Wed, 01 Apr 2026 12:00:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.845285"
+      "crawled_at": "2026-04-01T12:53:09.148265"
     },
     {
       "source": "wired",
-      "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
-      "summary": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26.",
-      "link": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
-      "published": "Wed, 01 Apr 2026 00:49:08 +0000",
+      "title": "The Best E-Readers (2026): Kobo, Kindle",
+      "summary": "These WIRED-tested ebook readers let you take your library anywhere.",
+      "link": "https://www.wired.com/gallery/best-ereaders/",
+      "published": "Wed, 01 Apr 2026 11:35:00 +0000",
       "keywords": [
-        "AI",
-        "Hack",
-        "Apple",
-        "iPhone",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.845333"
-    },
-    {
-      "source": "wired",
-      "title": "Artemis II Countdown: How and When to Watch the Launch",
-      "summary": "Here’s everything you need to know about the Artemis II mission, the long-awaited (and long-delayed) human return to the moon.",
-      "link": "https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/",
-      "published": "Tue, 31 Mar 2026 21:48:52 +0000",
-      "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-01T07:07:31.845362"
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T12:53:09.148299"
     },
     {
       "source": "wired",
-      "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-      "summary": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran’s Islamic Revolutionary Guard Corps.",
-      "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
-      "published": "Tue, 31 Mar 2026 21:25:12 +0000",
+      "title": "What You Need to Know About Building an Outdoor Sauna (2026)",
+      "summary": "Putting together a relaxing backyard retreat is not always as simple as you might think.",
+      "link": "https://www.wired.com/story/how-to-build-outdoor-sauna/",
+      "published": "Wed, 01 Apr 2026 11:30:00 +0000",
       "keywords": [
-        "Go",
-        "Apple",
-        "Google",
-        "Microsoft",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-01T07:07:31.845401"
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T12:53:09.148328"
+    },
+    {
+      "source": "wired",
+      "title": "Best WiiM Streamers (2026): Simplify Your Sound With WiiM Streaming Gear",
+      "summary": "Lookout, Sonos. WiiM is the new star in whole-home audio, and these are the best WiiM devices you can buy.",
+      "link": "https://www.wired.com/gallery/best-wiim-streamers/",
+      "published": "Wed, 01 Apr 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-04-01T12:53:09.148358"
+    },
+    {
+      "source": "wired",
+      "title": "Retrospec Judd Rev 2 Electric Folding Bike Review: Affordable, Simple, Easy to Store",
+      "summary": "Retrospec's affordable folding electric bike is refreshingly free of unnecessary bells and whistles.",
+      "link": "https://www.wired.com/review/retrospec-judd-rev-2-electric-folding-bike/",
+      "published": "Wed, 01 Apr 2026 10:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-01T12:53:09.148389"
     }
   ]
 }
