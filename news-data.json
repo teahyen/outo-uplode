@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T01:15:54.194173",
+  "last_updated": "2026-04-02T06:59:13.033015",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.514934"
+      "crawled_at": "2026-04-02T06:59:12.284806"
     },
     {
       "source": "techcrunch",
@@ -31,7 +31,7 @@
         "GitHub"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.514977"
+      "crawled_at": "2026-04-02T06:59:12.284850"
     },
     {
       "source": "techcrunch",
@@ -46,7 +46,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.515007"
+      "crawled_at": "2026-04-02T06:59:12.284880"
     },
     {
       "source": "techcrunch",
@@ -59,7 +59,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.515032"
+      "crawled_at": "2026-04-02T06:59:12.284906"
     },
     {
       "source": "techcrunch",
@@ -72,7 +72,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-02T01:15:53.515075"
+      "crawled_at": "2026-04-02T06:59:12.284950"
     },
     {
       "source": "theverge",
@@ -86,7 +86,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.628686"
+      "crawled_at": "2026-04-02T06:59:12.365914"
     },
     {
       "source": "theverge",
@@ -98,7 +98,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:53.628741"
+      "crawled_at": "2026-04-02T06:59:12.365971"
     },
     {
       "source": "theverge",
@@ -110,7 +110,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-04-02T01:15:53.628788"
+      "crawled_at": "2026-04-02T06:59:12.366017"
     },
     {
       "source": "theverge",
@@ -125,7 +125,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-02T01:15:53.628824"
+      "crawled_at": "2026-04-02T06:59:12.366052"
     },
     {
       "source": "theverge",
@@ -139,80 +139,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.628863"
+      "crawled_at": "2026-04-02T06:59:12.366091"
     },
     {
       "source": "hackernews",
-      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-      "summary": "Article URL: https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/\nComments URL: https://news.ycombinator.com/item?id=47608155\nPoints: 29\n# Comments: 11",
-      "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-      "published": "Wed, 01 Apr 2026 23:45:03 +0000",
+      "title": "r/programming bans all discussion of LLM programming",
+      "summary": "Article URL: https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/\nComments URL: https://news.ycombinator.com/item?id=47610336\nPoints: 69\n# Comments: 38",
+      "link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "published": "Thu, 02 Apr 2026 05:33:20 +0000",
       "keywords": [
-        "AI",
-        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.910922"
+      "crawled_at": "2026-04-02T06:59:12.833526"
     },
     {
       "source": "hackernews",
-      "title": "Montana referendum to outlaw corporate campaign contributions [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=p1fPbGHe3xE\nComments URL: https://news.ycombinator.com/item?id=47608130\nPoints: 15\n# Comments: 0",
-      "link": "https://www.youtube.com/watch?v=p1fPbGHe3xE",
-      "published": "Wed, 01 Apr 2026 23:42:19 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.910957"
-    },
-    {
-      "source": "hackernews",
-      "title": "A new C++ back end for ocamlc",
-      "summary": "Article URL: https://github.com/ocaml/ocaml/pull/14701\nComments URL: https://news.ycombinator.com/item?id=47608058\nPoints: 64\n# Comments: 3",
-      "link": "https://github.com/ocaml/ocaml/pull/14701",
-      "published": "Wed, 01 Apr 2026 23:35:02 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:53.910989"
-    },
-    {
-      "source": "hackernews",
-      "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
-      "summary": "Article URL: https://www.afterpack.dev/blog/claude-code-source-leak\nComments URL: https://news.ycombinator.com/item?id=47607947\nPoints: 25\n# Comments: 21",
-      "link": "https://www.afterpack.dev/blog/claude-code-source-leak",
-      "published": "Wed, 01 Apr 2026 23:25:29 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "JavaScript",
-        "Java",
-        "Security"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:53.911026"
-    },
-    {
-      "source": "hackernews",
-      "title": "IPv6 address, as a sentence you can remember",
-      "summary": "Article URL: https://sentence2ipv6.tib3rius.com/\nComments URL: https://news.ycombinator.com/item?id=47607923\nPoints: 19\n# Comments: 11",
-      "link": "https://sentence2ipv6.tib3rius.com/",
-      "published": "Wed, 01 Apr 2026 23:22:57 +0000",
+      "title": "Subscription bombing and how to mitigate it",
+      "summary": "Article URL: https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/\nComments URL: https://news.ycombinator.com/item?id=47609882\nPoints: 67\n# Comments: 42",
+      "link": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
+      "published": "Thu, 02 Apr 2026 04:08:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:53.911059"
+      "crawled_at": "2026-04-02T06:59:12.833571"
+    },
+    {
+      "source": "hackernews",
+      "title": "The future of code search is not regex – 100x faster than ripgrep",
+      "summary": "Article URL: https://fff.dmtrkovalenko.dev/\nComments URL: https://news.ycombinator.com/item?id=47609752\nPoints: 23\n# Comments: 13",
+      "link": "https://fff.dmtrkovalenko.dev/",
+      "published": "Thu, 02 Apr 2026 03:45:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:12.833651"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+      "summary": "Article URL: https://www.sunnywingsvirtual.com/artemis2/timeline.html\nComments URL: https://news.ycombinator.com/item?id=47609725\nPoints: 17\n# Comments: 4",
+      "link": "https://www.sunnywingsvirtual.com/artemis2/timeline.html",
+      "published": "Thu, 02 Apr 2026 03:40:49 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-02T06:59:12.833691"
+    },
+    {
+      "source": "hackernews",
+      "title": "Email obfuscation: What works in 2026?",
+      "summary": "Article URL: https://spencermortensen.com/articles/email-obfuscation/\nComments URL: https://news.ycombinator.com/item?id=47609694\nPoints: 33\n# Comments: 5",
+      "link": "https://spencermortensen.com/articles/email-obfuscation/",
+      "published": "Thu, 02 Apr 2026 03:35:33 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-02T06:59:12.833717"
     },
     {
       "source": "arstechnica",
-      "title": "Artemis II, NASA's most daring mission in generations, launches to the Moon",
+      "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
       "summary": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.",
       "link": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
       "published": "Thu, 02 Apr 2026 00:04:17 +0000",
@@ -220,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:54.085757"
+      "crawled_at": "2026-04-02T06:59:12.925278"
     },
     {
       "source": "arstechnica",
@@ -235,7 +227,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:54.085787"
+      "crawled_at": "2026-04-02T06:59:12.925305"
     },
     {
       "source": "arstechnica",
@@ -248,7 +240,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:54.085813"
+      "crawled_at": "2026-04-02T06:59:12.925329"
     },
     {
       "source": "arstechnica",
@@ -260,7 +252,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:54.085840"
+      "crawled_at": "2026-04-02T06:59:12.925356"
     },
     {
       "source": "arstechnica",
@@ -270,71 +262,61 @@
       "published": "Wed, 01 Apr 2026 19:31:59 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-04-02T01:15:54.085866"
+      "crawled_at": "2026-04-02T06:59:12.925381"
     },
     {
       "source": "wired",
-      "title": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
-      "summary": "After investors appealed to the governor, California again delayed the deadline for venture firms to disclose the demographics of startup founders they back.",
-      "link": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
-      "published": "Wed, 01 Apr 2026 23:56:36 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Startup",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:54.193961"
-    },
-    {
-      "source": "wired",
-      "title": "Samsung’s Best OLED TV Is $300 Off",
-      "summary": "The gorgeous Samsung S95F QD-OLED is on super sale ahead of the newest models hitting stores.",
-      "link": "https://www.wired.com/story/samsung-s95f-tv-deal-326/",
-      "published": "Wed, 01 Apr 2026 20:00:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:54.194004"
-    },
-    {
-      "source": "wired",
-      "title": "FDA Approves Eli Lilly’s GLP-1 Pill",
-      "summary": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
-      "link": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
-      "published": "Wed, 01 Apr 2026 18:56:03 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:54.194034"
-    },
-    {
-      "source": "wired",
-      "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
-      "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
-      "link": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
-      "published": "Wed, 01 Apr 2026 18:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-02T01:15:54.194059"
-    },
-    {
-      "source": "wired",
-      "title": "The HP OmniBook 5 Is a MacBook Neo Killer, and It’s Only $500",
-      "summary": "The HP OmniBook 5 is a better laptop than the MacBook Neo in almost every way. Right now, it’s also $100 cheaper.",
-      "link": "https://www.wired.com/story/hp-omnibook-5-deal-0426/",
-      "published": "Wed, 01 Apr 2026 18:25:42 +0000",
+      "title": "1Password Coupon: Score a Free Trial in April",
+      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+      "link": "https://www.wired.com/story/1password-coupon/",
+      "published": "Thu, 02 Apr 2026 05:00:00 +0000",
       "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-04-02T01:15:54.194093"
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:13.032828"
+    },
+    {
+      "source": "wired",
+      "title": "TurboTax Service Codes: Up to $150 Off | April 2026",
+      "summary": "Tax season doesn’t have to be stressful. Score up to $150 on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "published": "Thu, 02 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:13.032868"
+    },
+    {
+      "source": "wired",
+      "title": "OnePlus Promo Code: $70 Off | April 2026",
+      "summary": "Save 30% with a OnePlus coupon this month, plus save up to 10% on earbuds, phones, and more.",
+      "link": "https://www.wired.com/story/oneplus-promo-code/",
+      "published": "Thu, 02 Apr 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:13.032891"
+    },
+    {
+      "source": "wired",
+      "title": "Exclusive Lovehoney Discount Codes: 15% Off",
+      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "published": "Thu, 02 Apr 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:13.032921"
+    },
+    {
+      "source": "wired",
+      "title": "Hydrow Discount Code: Save Up to $150 | April 2026",
+      "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
+      "link": "https://www.wired.com/story/hydrow-discount-code/",
+      "published": "Thu, 02 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-02T06:59:13.032944"
     }
   ]
 }
