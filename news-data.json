@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T06:56:18.853968",
+  "last_updated": "2026-04-03T12:38:25.063026",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.215313"
+      "crawled_at": "2026-04-03T12:38:24.253215"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-03T06:56:18.215353"
+      "crawled_at": "2026-04-03T12:38:24.253297"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.215389"
+      "crawled_at": "2026-04-03T12:38:24.253357"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "API"
       ],
       "category": "Startup",
-      "crawled_at": "2026-04-03T06:56:18.215420"
+      "crawled_at": "2026-04-03T12:38:24.253407"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,20 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.215445"
+      "crawled_at": "2026-04-03T12:38:24.253449"
+    },
+    {
+      "source": "theverge",
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State officials say it could bring costs down and ease care shortages, but physicians warn the system is opaque,",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "published": "2026-04-03T07:43:21-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-03T12:38:24.398587"
     },
     {
       "source": "theverge",
@@ -75,7 +88,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.283715"
+      "crawled_at": "2026-04-03T12:38:24.398642"
     },
     {
       "source": "theverge",
@@ -88,7 +101,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.283758"
+      "crawled_at": "2026-04-03T12:38:24.398676"
     },
     {
       "source": "theverge",
@@ -101,7 +114,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.283802"
+      "crawled_at": "2026-04-03T12:38:24.398717"
     },
     {
       "source": "theverge",
@@ -115,86 +128,75 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.283844"
-    },
-    {
-      "source": "theverge",
-      "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
-      "summary": "Richard Allen didn't invent the automobile bike rack - his 1967 patent application makes it clear that others came before. But after nearly sixty years selling popular and simple mechanical bike carriers, his company Allen Sports now offers a line of - yes - Bluetooth-monitored suction cups to stick",
-      "link": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack",
-      "published": "2026-04-02T16:05:02-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-03T06:56:18.283886"
+      "crawled_at": "2026-04-03T12:38:24.398757"
     },
     {
       "source": "hackernews",
-      "title": "Pentagon Pete's Bigoted Reason for Firing Top General Leaks",
-      "summary": "Article URL: https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/\nComments URL: https://news.ycombinator.com/item?id=47623665\nPoints: 9\n# Comments: 0",
-      "link": "https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/",
-      "published": "Fri, 03 Apr 2026 06:08:12 +0000",
+      "title": "H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",
+      "summary": "Article URL: https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935\nComments URL: https://news.ycombinator.com/item?id=47625385\nPoints: 26\n# Comments: 14",
+      "link": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935",
+      "published": "Fri, 03 Apr 2026 11:20:28 +0000",
       "keywords": [
-        "AI",
-        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.660001"
+      "category": "Tech News",
+      "crawled_at": "2026-04-03T12:38:24.649619"
     },
     {
       "source": "hackernews",
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "summary": "Article URL: https://github.com/axios/axios/issues/10636\nComments URL: https://news.ycombinator.com/item?id=47621792\nPoints: 81\n# Comments: 43",
-      "link": "https://github.com/axios/axios/issues/10636",
-      "published": "Fri, 03 Apr 2026 00:00:19 +0000",
+      "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+      "summary": "Article URL: https://github.com/oven-sh/bun/pull/28801\nComments URL: https://news.ycombinator.com/item?id=47625311\nPoints: 3\n# Comments: 0",
+      "link": "https://github.com/oven-sh/bun/pull/28801",
+      "published": "Fri, 03 Apr 2026 11:09:58 +0000",
       "keywords": [
         "AI",
-        "iOS",
+        "Linux",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.660035"
+      "crawled_at": "2026-04-03T12:38:24.649655"
     },
     {
       "source": "hackernews",
-      "title": "Tor Alva: The Tallest 3D-Printed Building in the World",
-      "summary": "Article URL: https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/\nComments URL: https://news.ycombinator.com/item?id=47621518\nPoints: 25\n# Comments: 5",
-      "link": "https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/",
-      "published": "Thu, 02 Apr 2026 23:26:01 +0000",
+      "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+      "summary": "Article URL: https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/\nComments URL: https://news.ycombinator.com/item?id=47625244\nPoints: 47\n# Comments: 21",
+      "link": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+      "published": "Fri, 03 Apr 2026 10:58:51 +0000",
       "keywords": [
+        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.660073"
+      "crawled_at": "2026-04-03T12:38:24.649697"
     },
     {
       "source": "hackernews",
-      "title": "A Few Good Magazines From the 70s and 80s",
-      "summary": "Article URL: https://www.bi6.us/CO/MG.HTML\nComments URL: https://news.ycombinator.com/item?id=47621448\nPoints: 52\n# Comments: 15",
-      "link": "https://www.bi6.us/CO/MG.HTML",
-      "published": "Thu, 02 Apr 2026 23:17:26 +0000",
+      "title": "RiskReady-open-source GRC platform with MCP gateway and human-approved mutations",
+      "summary": "Article URL: https://github.com/riskreadyeu/riskready-community\nComments URL: https://news.ycombinator.com/item?id=47625112\nPoints: 3\n# Comments: 0",
+      "link": "https://github.com/riskreadyeu/riskready-community",
+      "published": "Fri, 03 Apr 2026 10:40:25 +0000",
       "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.660104"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Made a little Artemis II tracker",
-      "summary": "Made a little Artemis II tracker for anyone else who is unnecessarily invested in this mission:https://artemis-ii-tracker.com/For those of us who apparently need a dedicated place to monitor this mission instead of behaving like well-adjusted people.\n\nComments URL: https://news.ycombinator.com/item?",
-      "link": "https://artemis-ii-tracker.com/",
-      "published": "Thu, 02 Apr 2026 23:16:05 +0000",
-      "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-03T06:56:18.660149"
+      "crawled_at": "2026-04-03T12:38:24.649731"
+    },
+    {
+      "source": "hackernews",
+      "title": "Switzerland hosts 'CERN of semiconductor research'",
+      "summary": "Article URL: https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332\nComments URL: https://news.ycombinator.com/item?id=47624879\nPoints: 24\n# Comments: 4",
+      "link": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-hosts-cern-of-semiconductor-research/91015332",
+      "published": "Fri, 03 Apr 2026 10:01:50 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-03T12:38:24.649761"
     },
     {
       "source": "arstechnica",
@@ -206,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.756238"
+      "crawled_at": "2026-04-03T12:38:24.891228"
     },
     {
       "source": "arstechnica",
@@ -222,7 +224,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-03T06:56:18.756271"
+      "crawled_at": "2026-04-03T12:38:24.891278"
     },
     {
       "source": "arstechnica",
@@ -235,7 +237,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.756302"
+      "crawled_at": "2026-04-03T12:38:24.891313"
     },
     {
       "source": "arstechnica",
@@ -250,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-03T06:56:18.756325"
+      "crawled_at": "2026-04-03T12:38:24.891336"
     },
     {
       "source": "arstechnica",
@@ -260,57 +262,69 @@
       "published": "Thu, 02 Apr 2026 19:48:16 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-03T06:56:18.756349"
+      "crawled_at": "2026-04-03T12:38:24.891361"
     },
     {
       "source": "wired",
-      "title": "50% Off DoorDash Promo Code | April 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "published": "Fri, 03 Apr 2026 05:00:00 +0000",
+      "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+      "summary": "Protect your new Samsung phone with the help of these cases and screen protectors.",
+      "link": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+      "published": "Fri, 03 Apr 2026 12:07:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-03T06:56:18.853765"
+      "category": "Tech News",
+      "crawled_at": "2026-04-03T12:38:25.062823"
     },
     {
       "source": "wired",
-      "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
-      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
-      "link": "https://www.wired.com/story/hellofresh-coupon/",
-      "published": "Fri, 03 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-03T06:56:18.853799"
+      "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
+      "summary": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
+      "link": "https://www.wired.com/gallery/the-best-ipad/",
+      "published": "Fri, 03 Apr 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-03T12:38:25.062863"
     },
     {
       "source": "wired",
-      "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "published": "Fri, 03 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-03T06:56:18.853823"
+      "title": "A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees",
+      "summary": "The General Services Administration is hiring “approximately 400 positions,” according to an internal email viewed by WIRED. Last year the agency lost thousands of workers as part of DOGE’s rampage.",
+      "link": "https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/",
+      "published": "Fri, 03 Apr 2026 11:05:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-03T12:38:25.062898"
     },
     {
       "source": "wired",
-      "title": "$20 Chewy Promo Code | April 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more April 2026 discounts.",
-      "link": "https://www.wired.com/story/chewy-promo-code/",
-      "published": "Fri, 03 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-03T06:56:18.853845"
+      "title": "New Garmin Training Features (2026): Nutrition Tracking, Lifestyle Logging, and More",
+      "summary": "Nutrition tracking? Gear tracking? Garmin’s latest software updates aim to add value to the company’s line of premium sports watches.",
+      "link": "https://www.wired.com/story/garmin-training-features-2026/",
+      "published": "Fri, 03 Apr 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-03T12:38:25.062929"
     },
     {
       "source": "wired",
-      "title": "50% Off Home Depot Promo Codes | April 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this April.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Fri, 03 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-03T06:56:18.853866"
+      "title": "Best Game Controllers for PC, Switch, PS5, and Xbox",
+      "summary": "A great gamepad instantly levels up your play. These are our top picks for Switch, Xbox, PlayStation, and PC.",
+      "link": "https://www.wired.com/gallery/best-gaming-controllers/",
+      "published": "Fri, 03 Apr 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-03T12:38:25.062957"
     }
   ]
 }
