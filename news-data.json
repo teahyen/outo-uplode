@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T07:16:19.724686",
+  "last_updated": "2026-04-06T12:45:10.221803",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-06T07:16:18.756422"
+      "crawled_at": "2026-04-06T12:45:07.726971"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:18.756460"
+      "crawled_at": "2026-04-06T12:45:07.727015"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:18.756512"
+      "crawled_at": "2026-04-06T12:45:07.727055"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-06T07:16:18.756545"
+      "crawled_at": "2026-04-06T12:45:07.727088"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,23 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:18.756582"
+      "crawled_at": "2026-04-06T12:45:07.727126"
+    },
+    {
+      "source": "theverge",
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "summary": "Let's pretend you work in IT and you're looking for a new digital service desk platform to help your employees reset passwords or onboard new hires. You use Google's AI Mode to search for suggestions, which quickly spits out a detailed answer listing companies to explore, their pricing, and what eac",
+      "link": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "published": "2026-04-06T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-06T12:45:07.868017"
     },
     {
       "source": "theverge",
@@ -78,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:18.946271"
+      "crawled_at": "2026-04-06T12:45:07.868079"
     },
     {
       "source": "theverge",
@@ -91,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:18.946314"
+      "crawled_at": "2026-04-06T12:45:07.868112"
     },
     {
       "source": "theverge",
@@ -106,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:18.946348"
+      "crawled_at": "2026-04-06T12:45:07.868142"
     },
     {
       "source": "theverge",
@@ -118,86 +134,72 @@
         "Go"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-06T07:16:18.946382"
-    },
-    {
-      "source": "theverge",
-      "title": "How the Amazon Echo learned to talk — and listen",
-      "summary": "Jeff Bezos badly wanted a voice computer. He had been saying so publicly since the very early days of Amazon, telling anyone who would listen about why voice might make it easier and more natural to interact with technology. (And to buy stuff from Jeff Bezos.) But when a team at Amazon set out to [&",
-      "link": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
-      "published": "2026-04-05T08:24:45-04:00",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:18.946434"
+      "crawled_at": "2026-04-06T12:45:07.868175"
     },
     {
       "source": "hackernews",
-      "title": "SideX – A Tauri-based port of Visual Studio Code",
-      "summary": "Article URL: https://github.com/Sidenai/sidex\nComments URL: https://news.ycombinator.com/item?id=47657699\nPoints: 18\n# Comments: 2",
-      "link": "https://github.com/Sidenai/sidex",
-      "published": "Mon, 06 Apr 2026 06:49:42 +0000",
+      "title": "Ask HN: How do systems (or people) detect when a text is written by an LLM",
+      "summary": "Hello guys, just curious about how can people or systems (computers) detect when a text was written by an LLM. My question is mainly focused to if there is some API or similar to detect if a text was written by an LLM. Thanks!!!\n\nComments URL: https://news.ycombinator.com/item?id=47659807\nPoints: 4\n",
+      "link": "https://news.ycombinator.com/item?id=47659807",
+      "published": "Mon, 06 Apr 2026 12:03:00 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:19.227273"
+      "crawled_at": "2026-04-06T12:45:09.884866"
     },
     {
       "source": "hackernews",
-      "title": "Winners of the 2026 Kokuyo Design Awards",
-      "summary": "Article URL: https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/\nComments URL: https://news.ycombinator.com/item?id=47656682\nPoints: 31\n# Comments: 3",
-      "link": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
-      "published": "Mon, 06 Apr 2026 03:32:23 +0000",
+      "title": "Tiny Corp's Exabox",
+      "summary": "Article URL: https://twitter.com/__tinygrad__/status/2040944508402360592\nComments URL: https://news.ycombinator.com/item?id=47659609\nPoints: 11\n# Comments: 0",
+      "link": "https://twitter.com/__tinygrad__/status/2040944508402360592",
+      "published": "Mon, 06 Apr 2026 11:39:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-06T12:45:09.884908"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Intelligence Failure in Iran",
+      "summary": "Article URL: https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/\nComments URL: https://news.ycombinator.com/item?id=47659461\nPoints: 24\n# Comments: 7",
+      "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
+      "published": "Mon, 06 Apr 2026 11:21:35 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-06T12:45:09.884972"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is Germany's gold safe in New York ?",
+      "summary": "Article URL: https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873\nComments URL: https://news.ycombinator.com/item?id=47659252\nPoints: 122\n# Comments: 109",
+      "link": "https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873",
+      "published": "Mon, 06 Apr 2026 10:54:11 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.227319"
+      "crawled_at": "2026-04-06T12:45:09.885010"
     },
     {
       "source": "hackernews",
-      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-      "summary": "Article URL: https://github.com/mikf/gallery-dl/discussions/9304\nComments URL: https://news.ycombinator.com/item?id=47656659\nPoints: 114\n# Comments: 30",
-      "link": "https://github.com/mikf/gallery-dl/discussions/9304",
-      "published": "Mon, 06 Apr 2026 03:28:04 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-06T07:16:19.227351"
-    },
-    {
-      "source": "hackernews",
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "summary": "Article URL: https://moonrf.com/\nComments URL: https://news.ycombinator.com/item?id=47656622\nPoints: 55\n# Comments: 12",
-      "link": "https://moonrf.com/",
-      "published": "Mon, 06 Apr 2026 03:22:42 +0000",
+      "title": "Age Verification as Mass Surveillance Infrastructure",
+      "summary": "Article URL: https://tboteproject.com/surveillancefindings/\nComments URL: https://news.ycombinator.com/item?id=47659109\nPoints: 213\n# Comments: 59",
+      "link": "https://tboteproject.com/surveillancefindings/",
+      "published": "Mon, 06 Apr 2026 10:33:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.227385"
-    },
-    {
-      "source": "hackernews",
-      "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
-      "summary": "Article URL: https://twitter.com/exQUIZitely/status/2040777977521398151\nComments URL: https://news.ycombinator.com/item?id=47656501\nPoints: 54\n# Comments: 19",
-      "link": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-      "published": "Mon, 06 Apr 2026 03:03:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.227426"
+      "crawled_at": "2026-04-06T12:45:09.885045"
     },
     {
       "source": "arstechnica",
@@ -210,7 +212,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-06T07:16:19.458931"
+      "crawled_at": "2026-04-06T12:45:09.979643"
     },
     {
       "source": "arstechnica",
@@ -223,7 +225,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.458966"
+      "crawled_at": "2026-04-06T12:45:09.979677"
     },
     {
       "source": "arstechnica",
@@ -236,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:19.459001"
+      "crawled_at": "2026-04-06T12:45:09.979710"
     },
     {
       "source": "arstechnica",
@@ -248,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.459032"
+      "crawled_at": "2026-04-06T12:45:09.979738"
     },
     {
       "source": "arstechnica",
@@ -260,72 +262,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.459063"
+      "crawled_at": "2026-04-06T12:45:09.979767"
     },
     {
       "source": "wired",
-      "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
-      "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
-      "link": "https://www.wired.com/story/best-apple-watch-bands/",
-      "published": "Sun, 05 Apr 2026 12:00:00 +0000",
+      "title": "8 Best Apple Watch Accessories (2026): Bands, Chargers, and More",
+      "summary": "You finally caved and bought an Apple Watch. These are our favorite bands, screen protectors, and chargers to go with your new smartwatch.",
+      "link": "https://www.wired.com/gallery/best-apple-watch-accessories/",
+      "published": "Mon, 06 Apr 2026 12:00:00 +0000",
       "keywords": [
-        "Apple"
+        "Go",
+        "Apple",
+        "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-06T07:16:19.724426"
+      "crawled_at": "2026-04-06T12:45:10.221550"
     },
     {
       "source": "wired",
-      "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-      "summary": "Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.",
-      "link": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/",
-      "published": "Sun, 05 Apr 2026 11:04:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2026-04-06T07:16:19.724480"
-    },
-    {
-      "source": "wired",
-      "title": "3 Best Robot Lawn Mowers (2026), Tested and Reviewed",
-      "summary": "These smart mowers are expensive alternatives to some good old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch the robot go by.",
-      "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "published": "Sun, 05 Apr 2026 10:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
+      "title": "The DOJ Misled a Judge About How It’s Using Voter Roll Data",
+      "summary": "The acting head of the DOJ’s voting section told a judge last week that the agency had not touched the nonpublic voter roll data it has collected. That wasn’t true.",
+      "link": "https://www.wired.com/story/doj-misled-judge-voter-roll-data/",
+      "published": "Mon, 06 Apr 2026 11:00:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.724527"
+      "crawled_at": "2026-04-06T12:45:10.221609"
     },
     {
       "source": "wired",
-      "title": "Sony’s PS5 Price Hikes Prove This Console Generation Is Far From Over. Good.",
-      "summary": "The current console generation may last longer than anyone expects.",
-      "link": "https://www.wired.com/story/sonys-ps5-price-hikes-prove-this-console-generation-is-far-from-over-good/",
-      "published": "Sun, 05 Apr 2026 09:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T07:16:19.724561"
-    },
-    {
-      "source": "wired",
-      "title": "With One Million Displaced, Lebanon Turns to Digital Wallets for Aid",
-      "summary": "Amid mass displacement and collapsing trust in institutions, digital wallets are becoming critical conduits for aid, connecting diaspora donors directly with communities on the ground.",
-      "link": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
-      "published": "Sun, 05 Apr 2026 09:30:00 +0000",
+      "title": "Robot Mowers Are Actually Good Now",
+      "summary": "With the rise of affordable and effective robot mowers, maintaining a pristine lawn has never been easier.",
+      "link": "https://www.wired.com/story/robot-mowers-are-good-now-rave/",
+      "published": "Mon, 06 Apr 2026 10:30:00 +0000",
       "keywords": [
         "AI",
-        "Rust",
-        "Git",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T07:16:19.724590"
+      "crawled_at": "2026-04-06T12:45:10.221633"
+    },
+    {
+      "source": "wired",
+      "title": "Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them",
+      "summary": "Your venomous serpent bites you, and the clock is ticking. America’s zookeepers—and a cooler full of rare antivenom—are your best chance of survival.",
+      "link": "https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/",
+      "published": "Mon, 06 Apr 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-06T12:45:10.221674"
+    },
+    {
+      "source": "wired",
+      "title": "5 Mysteries That the Artemis Missions to the Moon Could Finally Solve",
+      "summary": "The moon is not just a barren rock orbiting the Earth. The Artemis missions could answer the great unknowns that the satellite holds.",
+      "link": "https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/",
+      "published": "Mon, 06 Apr 2026 09:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-06T12:45:10.221706"
     }
   ]
 }
