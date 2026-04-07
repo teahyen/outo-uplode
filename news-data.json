@@ -1,10 +1,50 @@
 {
-  "last_updated": "2026-04-06T18:41:16.875810",
+  "last_updated": "2026-04-07T01:19:44.120393",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Netflix launches a standalone app for kids’ games",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "published": "Mon, 06 Apr 2026 21:54:26 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "API"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:40.212554"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Gas prices aren’t the only factor fueling used EV sales",
+      "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction.",
+      "link": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+      "published": "Mon, 06 Apr 2026 21:15:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:40.212608"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published": "Mon, 06 Apr 2026 18:54:33 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:40.212633"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Netflix is expanding into kids’ games with a new stand-alone app",
       "summary": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids.",
       "link": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
       "published": "Mon, 06 Apr 2026 18:21:49 +0000",
@@ -12,12 +52,12 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-06T18:41:16.355478"
+      "crawled_at": "2026-04-07T01:19:40.212667"
     },
     {
       "source": "techcrunch",
       "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
-      "summary": "NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident, and that no incidents resulted in injury. Tesla has also issued a number of software updates.",
+      "summary": "The NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident and that no incidents resulted in injury. Tesla has also issued a number of software updates.",
       "link": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
       "published": "Mon, 06 Apr 2026 18:17:23 +0000",
       "keywords": [
@@ -25,46 +65,47 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.355540"
+      "crawled_at": "2026-04-07T01:19:40.212720"
     },
     {
-      "source": "techcrunch",
-      "title": "Iran threatens ‘Stargate’ AI data centers",
-      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "published": "Mon, 06 Apr 2026 18:06:28 +0000",
+      "source": "theverge",
+      "title": "Wisconsin governor says ‘no’ to age checks for porn",
+      "summary": "Wisconsin Gov. Tony Evers vetoed a bill that would've required residents to verify their age before accessing porn sites, as reported earlier by 404 Media. In a letter to the members of the assembly last week, Evers writes that the bill \"imposes an intrusive burden on adults who are trying to access",
+      "link": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+      "published": "2026-04-06T17:47:15-04:00",
       "keywords": [
-        "AI",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.355571"
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:40.365714"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple plans Supreme Court appeal in Epic Games App Store battle — again",
-      "summary": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments.",
-      "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
-      "published": "Mon, 06 Apr 2026 17:38:05 +0000",
+      "source": "theverge",
+      "title": "Artemis II astronauts break a record, name a crater",
+      "summary": "A few minutes before 2PM ET on Monday, the crew of Artemis II broke a record set 56 years ago by the ill-fated Apollo 13 mission - at over 248,655 miles, they have now traveled farther from Earth than any humans before them. They marked the occasion with a crater naming ceremony that left the [&#823",
+      "link": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+      "published": "2026-04-06T16:40:11-04:00",
       "keywords": [
-        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:40.365769"
+    },
+    {
+      "source": "theverge",
+      "title": "The best deals on MacBooks right now",
+      "summary": "It’s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company now offers a wider range of options with more sizes and price points than ever bef",
+      "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "published": "2026-04-06T14:50:06-04:00",
+      "keywords": [
         "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.355604"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
-      "summary": "An apparent North Korean worker was caught visibly stumped during a remote job interview when asked to insult the country's leader.",
-      "link": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
-      "published": "Mon, 06 Apr 2026 17:00:25 +0000",
-      "keywords": [
+        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-06T18:41:16.355637"
+      "crawled_at": "2026-04-07T01:19:40.365821"
     },
     {
       "source": "theverge",
@@ -77,12 +118,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.541374"
+      "crawled_at": "2026-04-07T01:19:40.365876"
     },
     {
       "source": "theverge",
       "title": "Robotaxi companies won’t say how often remote operators intervene",
-      "summary": "Autonomous vehicle companies are refusing to disclose key details about their use of remote assistance teams, including how often these workers are forced to intervene to help their self-driving cars. Senator Ed Markey (D-MA) had asked robotaxi companies to disclose the information as part of an inv",
+      "summary": "Autonomous vehicle companies are refusing to disclose key details about their use of remote assistance teams, including how often these workers are forced to intervene to help their self-driving cars. Sen. Ed Markey (D-MA) had asked robotaxi companies to disclose the information as part of an invest",
       "link": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
       "published": "2026-04-06T14:15:51-04:00",
       "keywords": [
@@ -90,176 +131,150 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.541436"
-    },
-    {
-      "source": "theverge",
-      "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
-      "summary": "Humans haven’t stepped foot on the Moon since NASA’s Apollo 17 mission in 1972. Now, the space agency is racing to get back to the lunar surface under the umbrella of its Artemis program — a nod to the Greek goddess and twin sister of Apollo, whose name was given to NASA’s first program to [&#8230;]",
-      "link": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
-      "published": "2026-04-06T13:24:46-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.541490"
-    },
-    {
-      "source": "theverge",
-      "title": "Netflix is launching a new app for kids games",
-      "summary": "Netflix has made family-friendly titles a key part of its current games strategy, and now it's pushing a little harder with the launch of a new app. Called Netflix Playground, the app is focused on games aimed at kids aged eight and under, and, like the rest of Netflix's gaming lineup, Playground ga",
-      "link": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
-      "published": "2026-04-06T13:00:00-04:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.541523"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-      "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. The new Pro model reportedly won't support the S Pen but will feature Samsung's Privacy Display, whic",
-      "link": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-      "published": "2026-04-06T12:03:14-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.541557"
+      "crawled_at": "2026-04-07T01:19:40.365920"
     },
     {
       "source": "hackernews",
-      "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
-      "summary": "Article URL: https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/\nComments URL: https://news.ycombinator.com/item?id=47664205\nPoints: 64\n# Comments: 27",
-      "link": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
-      "published": "Mon, 06 Apr 2026 17:38:30 +0000",
+      "title": "After 20 years I turned off Google Adsense for my websites",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm\nComments URL: https://news.ycombinator.com/item?id=47668727\nPoints: 80\n# Comments: 37",
+      "link": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "published": "Mon, 06 Apr 2026 23:23:28 +0000",
       "keywords": [
-        "Cloud",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:43.768520"
+    },
+    {
+      "source": "hackernews",
+      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+      "summary": "Article URL: https://garymarcus.substack.com/p/the-back-story-behind-the-first-18\nComments URL: https://news.ycombinator.com/item?id=47668658\nPoints: 31\n# Comments: 4",
+      "link": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "published": "Mon, 06 Apr 2026 23:16:27 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:43.768556"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "summary": "Article URL: https://www.anthropic.com/news/google-broadcom-partnership-compute\nComments URL: https://news.ycombinator.com/item?id=47667717\nPoints: 99\n# Comments: 36",
+      "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "published": "Mon, 06 Apr 2026 21:52:08 +0000",
+      "keywords": [
+        "Anthropic",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:43.768593"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "summary": "Article URL: https://github.com/kitfunso/hippo-memory\nComments URL: https://news.ycombinator.com/item?id=47667672\nPoints: 42\n# Comments: 13",
+      "link": "https://github.com/kitfunso/hippo-memory",
+      "published": "Mon, 06 Apr 2026 21:49:34 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:43.768620"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How do you handle marketing as a solo technical founder?",
+      "summary": "I've shipped multiple products over the past few years. Every single one followed the same pattern: build, post, get 12 likes from friends, a bit of organic traction, then nothing. Back to coding a new thing.I know I need marketing help but giving equity to someone I met online feels like a huge ris",
+      "link": "https://news.ycombinator.com/item?id=47667504",
+      "published": "Mon, 06 Apr 2026 21:36:47 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:43.768671"
+    },
+    {
+      "source": "arstechnica",
+      "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+      "summary": "The charter renewal gives Kennedy broad authority to pick anyone for the panel.",
+      "link": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+      "published": "Mon, 06 Apr 2026 22:34:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-07T01:19:43.971670"
+    },
+    {
+      "source": "arstechnica",
+      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+      "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
+      "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+      "published": "Mon, 06 Apr 2026 22:18:33 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:43.971701"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
+      "summary": "Court rules US preempts states from applying gambling laws to prediction markets.",
+      "link": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+      "published": "Mon, 06 Apr 2026 21:56:36 +0000",
+      "keywords": [
+        "AWS",
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-06T18:41:16.653423"
+      "crawled_at": "2026-04-07T01:19:43.971728"
     },
     {
-      "source": "hackernews",
-      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-      "summary": "Article URL: https://www.wesnoth.org\nComments URL: https://news.ycombinator.com/item?id=47664186\nPoints: 56\n# Comments: 10",
-      "link": "https://www.wesnoth.org",
-      "published": "Mon, 06 Apr 2026 17:37:38 +0000",
+      "source": "arstechnica",
+      "title": "Trump's next budget once again calls for massive cuts to science",
+      "summary": "Congress rejected huge cuts to science in 2026, but Trump is trying again.",
+      "link": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+      "published": "Mon, 06 Apr 2026 21:40:40 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.653466"
-    },
-    {
-      "source": "hackernews",
-      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-      "summary": "We’re Ben and Jacob, cofounders of Freestyle (https://freestyle.sh). We’re building a cloud for  Coding Agents.For the first generation of agents it looked like workflows with minimal tools. 2 years ago we published a package to let AI work in SQL, at that time GPT-4 could write simple scripts. Soon",
-      "link": "https://www.freestyle.sh",
-      "published": "Mon, 06 Apr 2026 16:32:11 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "Go",
-        "AWS",
-        "Google Cloud"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.653640"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "summary": "I've long been into finding deals on government auction sites (seizures, surplus sales etc.) - right now for example San Diego DHS is selling 26 tons of lead shot, with bidding starting at $1,000 ¯\\_(ツ)_/¯It has historically been extremely tedious though: scanning dozens of janky sites which have in",
-      "link": "https://www.govauctions.app/",
-      "published": "Mon, 06 Apr 2026 16:21:46 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.653746"
-    },
-    {
-      "source": "hackernews",
-      "title": "81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone",
-      "summary": "Article URL: https://twitter.com/Suzierizzo1/status/2040864617467924865\nComments URL: https://news.ycombinator.com/item?id=47662857\nPoints: 225\n# Comments: 209",
-      "link": "https://twitter.com/Suzierizzo1/status/2040864617467924865",
-      "published": "Mon, 06 Apr 2026 16:15:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.653786"
+      "crawled_at": "2026-04-07T01:19:43.971749"
     },
     {
       "source": "arstechnica",
-      "title": "Used EV sales spike alongside gas prices",
-      "summary": "The market for new cars has slumped as Americans look for deals on used EVs.",
-      "link": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
-      "published": "Mon, 06 Apr 2026 13:54:12 +0000",
+      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+      "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+      "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+      "published": "Mon, 06 Apr 2026 21:23:36 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "OpenAI",
+        "Rust"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.756966"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-07T01:19:43.971778"
     },
     {
-      "source": "arstechnica",
-      "title": "Why will today's lunar flyby only beam back low-resolution video?",
-      "summary": "\"Don't expect hi-res video.\"",
-      "link": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
-      "published": "Mon, 06 Apr 2026 12:59:46 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "source": "wired",
+      "title": "A Single Strike Won’t Shut Off the Gulf’s Desalination System",
+      "summary": "The Gulf’s water system is built with layers of backup, but it relies on continuous operation to hold.",
+      "link": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
+      "published": "Mon, 06 Apr 2026 20:23:04 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.757000"
-    },
-    {
-      "source": "arstechnica",
-      "title": "What Memento reveals about human nature, 25 years later",
-      "summary": "Director Christopher Nolan's breakout film explores themes of the nature of memory and personal identity.",
-      "link": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
-      "published": "Mon, 06 Apr 2026 12:26:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.757031"
-    },
-    {
-      "source": "arstechnica",
-      "title": "CBP facility codes sure seem to have leaked via online flashcards",
-      "summary": "Quizlet flashcards seem to include sensitive information about gate security at CBP locations.",
-      "link": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-      "published": "Sun, 05 Apr 2026 11:07:27 +0000",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-06T18:41:16.757079"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Artemis II is going so well that all we're left to talk about is frozen urine",
-      "summary": "\"I think the fixation on the toilet is kind of human nature.\"",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-      "published": "Sun, 05 Apr 2026 00:12:45 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.757108"
+      "crawled_at": "2026-04-07T01:19:44.120168"
     },
     {
       "source": "wired",
@@ -273,7 +288,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.875453"
+      "crawled_at": "2026-04-07T01:19:44.120224"
     },
     {
       "source": "wired",
@@ -283,7 +298,7 @@
       "published": "Mon, 06 Apr 2026 17:03:05 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.875489"
+      "crawled_at": "2026-04-07T01:19:44.120249"
     },
     {
       "source": "wired",
@@ -296,7 +311,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-06T18:41:16.875527"
+      "crawled_at": "2026-04-07T01:19:44.120284"
     },
     {
       "source": "wired",
@@ -309,21 +324,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-06T18:41:16.875555"
-    },
-    {
-      "source": "wired",
-      "title": "8 Best Apple Watch Accessories (2026): Bands, Chargers, and More",
-      "summary": "You finally caved and bought an Apple Watch. These are our favorite bands, screen protectors, and chargers to go with your new smartwatch.",
-      "link": "https://www.wired.com/gallery/best-apple-watch-accessories/",
-      "published": "Mon, 06 Apr 2026 12:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-06T18:41:16.875587"
+      "crawled_at": "2026-04-07T01:19:44.120310"
     }
   ]
 }
