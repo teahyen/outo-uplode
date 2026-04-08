@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-08T01:20:24.968619",
+  "last_updated": "2026-04-08T07:05:20.599123",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "published": "Wed, 08 Apr 2026 05:40:19 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-08T07:05:17.703354"
+    },
     {
       "source": "techcrunch",
       "title": "I can’t help rooting for tiny open source AI model maker Arcee",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.430279"
+      "crawled_at": "2026-04-08T07:05:17.703395"
     },
     {
       "source": "techcrunch",
@@ -29,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.430318"
+      "crawled_at": "2026-04-08T07:05:17.703424"
     },
     {
       "source": "techcrunch",
@@ -43,7 +57,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-08T01:20:23.430354"
+      "crawled_at": "2026-04-08T07:05:17.703457"
     },
     {
       "source": "techcrunch",
@@ -55,20 +69,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.430384"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Intel signs on to Elon Musk’s Terafab chips project",
-      "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
-      "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "published": "Tue, 07 Apr 2026 18:10:01 +0000",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-04-08T01:20:23.430425"
+      "crawled_at": "2026-04-08T07:05:17.703485"
     },
     {
       "source": "theverge",
@@ -83,7 +84,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.507798"
+      "crawled_at": "2026-04-08T07:05:17.767771"
     },
     {
       "source": "theverge",
@@ -97,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.507843"
+      "crawled_at": "2026-04-08T07:05:17.767814"
     },
     {
       "source": "theverge",
@@ -107,7 +108,7 @@
       "published": "2026-04-07T16:13:23-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-08T01:20:23.507897"
+      "crawled_at": "2026-04-08T07:05:17.767864"
     },
     {
       "source": "theverge",
@@ -122,7 +123,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-08T01:20:23.507941"
+      "crawled_at": "2026-04-08T07:05:17.767906"
     },
     {
       "source": "theverge",
@@ -136,24 +137,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:23.507971"
+      "crawled_at": "2026-04-08T07:05:17.767936"
     },
     {
       "source": "hackernews",
-      "title": "US, Iran say they have agreed to a two-week ceasefire",
-      "summary": "Article URL: https://apnews.com/live/iran-war-israel-trump-04-07-2026\nComments URL: https://news.ycombinator.com/item?id=47683033\nPoints: 10\n# Comments: 1",
-      "link": "https://apnews.com/live/iran-war-israel-trump-04-07-2026",
-      "published": "Wed, 08 Apr 2026 00:16:22 +0000",
+      "title": "Sonnet 4.6 Elevated Rate of Errors",
+      "summary": "Article URL: https://status.claude.com/incidents/lhws0phdvzz3\nComments URL: https://news.ycombinator.com/item?id=47686187\nPoints: 11\n# Comments: 4",
+      "link": "https://status.claude.com/incidents/lhws0phdvzz3",
+      "published": "Wed, 08 Apr 2026 06:34:54 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-08T07:05:20.407130"
+    },
+    {
+      "source": "hackernews",
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s\nComments URL: https://news.ycombinator.com/item?id=47685739\nPoints: 14\n# Comments: 8",
+      "link": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "published": "Wed, 08 Apr 2026 05:34:08 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-08T01:20:24.745709"
+      "crawled_at": "2026-04-08T07:05:20.407171"
+    },
+    {
+      "source": "hackernews",
+      "title": "Protect your shed",
+      "summary": "Article URL: https://dylanbutler.dev/blog/protect-your-shed/\nComments URL: https://news.ycombinator.com/item?id=47684514\nPoints: 103\n# Comments: 21",
+      "link": "https://dylanbutler.dev/blog/protect-your-shed/",
+      "published": "Wed, 08 Apr 2026 03:03:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-08T07:05:20.407204"
+    },
+    {
+      "source": "hackernews",
+      "title": "JSIR: A High-Level IR for JavaScript",
+      "summary": "Article URL: https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456\nComments URL: https://news.ycombinator.com/item?id=47683376\nPoints: 40\n# Comments: 9",
+      "link": "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456",
+      "published": "Wed, 08 Apr 2026 00:59:05 +0000",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-04-08T07:05:20.407233"
     },
     {
       "source": "hackernews",
       "title": "Xilem – An experimental Rust native UI framework",
-      "summary": "Article URL: https://github.com/linebender/xilem\nComments URL: https://news.ycombinator.com/item?id=47682719\nPoints: 11\n# Comments: 0",
+      "summary": "Article URL: https://github.com/linebender/xilem\nComments URL: https://news.ycombinator.com/item?id=47682719\nPoints: 71\n# Comments: 19",
       "link": "https://github.com/linebender/xilem",
       "published": "Tue, 07 Apr 2026 23:36:15 +0000",
       "keywords": [
@@ -163,44 +203,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-08T01:20:24.745754"
-    },
-    {
-      "source": "hackernews",
-      "title": "US and Iran agree to provisional ceasefire",
-      "summary": "https://www.reuters.com/world/iran-war-live-tehran-rejects-c...\n\nComments URL: https://news.ycombinator.com/item?id=47682276\nPoints: 98\n# Comments: 203",
-      "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "published": "Tue, 07 Apr 2026 22:41:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-08T01:20:24.745792"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bitcoin and quantum computing",
-      "summary": "Article URL: https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html\nComments URL: https://news.ycombinator.com/item?id=47681274\nPoints: 92\n# Comments: 56",
-      "link": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
-      "published": "Tue, 07 Apr 2026 20:56:23 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2026-04-08T01:20:24.745824"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
-      "summary": "An interactive map of Tolkien’s Middle-earth, with events from across the legendarium plotted as markers.I have been commuting a fair bit between the East and West coast, and thanks to American Airlines' free onboard WiFi, I was able to vibe-code a full interactive map of Middle-earth right from my ",
-      "link": "https://middle-earth-interactive-map.web.app/",
-      "published": "Tue, 07 Apr 2026 20:42:37 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.745933"
+      "crawled_at": "2026-04-08T07:05:20.407267"
     },
     {
       "source": "arstechnica",
@@ -213,7 +216,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-08T01:20:24.874459"
+      "crawled_at": "2026-04-08T07:05:20.498264"
     },
     {
       "source": "arstechnica",
@@ -226,7 +229,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.874488"
+      "crawled_at": "2026-04-08T07:05:20.498291"
     },
     {
       "source": "arstechnica",
@@ -238,7 +241,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.874508"
+      "crawled_at": "2026-04-08T07:05:20.498311"
     },
     {
       "source": "arstechnica",
@@ -251,7 +254,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.874530"
+      "crawled_at": "2026-04-08T07:05:20.498332"
     },
     {
       "source": "arstechnica",
@@ -263,7 +266,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.874552"
+      "crawled_at": "2026-04-08T07:05:20.498354"
     },
     {
       "source": "wired",
@@ -277,7 +280,7 @@
         "iPhone"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.968392"
+      "crawled_at": "2026-04-08T07:05:20.598921"
     },
     {
       "source": "wired",
@@ -293,7 +296,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.968427"
+      "crawled_at": "2026-04-08T07:05:20.598954"
     },
     {
       "source": "wired",
@@ -309,7 +312,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-08T01:20:24.968457"
+      "crawled_at": "2026-04-08T07:05:20.598983"
     },
     {
       "source": "wired",
@@ -321,7 +324,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-08T01:20:24.968501"
+      "crawled_at": "2026-04-08T07:05:20.599025"
     },
     {
       "source": "wired",
@@ -331,7 +334,7 @@
       "published": "Tue, 07 Apr 2026 18:03:40 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-08T01:20:24.968527"
+      "crawled_at": "2026-04-08T07:05:20.599049"
     }
   ]
 }
