@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T01:10:41.162670",
+  "last_updated": "2026-04-09T07:09:12.867068",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-09T01:10:39.433912"
+      "crawled_at": "2026-04-09T07:09:10.010698"
     },
     {
       "source": "techcrunch",
@@ -26,11 +26,11 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:39.433966"
+      "crawled_at": "2026-04-09T07:09:10.010764"
     },
     {
       "source": "techcrunch",
-      "title": "AI agent Poke makes setting up automations as easy as sending a text",
+      "title": "Poke makes using AI agents as easy as sending a text",
       "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
       "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "published": "Wed, 08 Apr 2026 21:05:13 +0000",
@@ -38,7 +38,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.433995"
+      "crawled_at": "2026-04-09T07:09:10.010794"
     },
     {
       "source": "techcrunch",
@@ -51,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.434022"
+      "crawled_at": "2026-04-09T07:09:10.010834"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,7 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.434047"
+      "crawled_at": "2026-04-09T07:09:10.010860"
     },
     {
       "source": "theverge",
@@ -81,7 +81,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.623238"
+      "crawled_at": "2026-04-09T07:09:10.126003"
     },
     {
       "source": "theverge",
@@ -94,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.623285"
+      "crawled_at": "2026-04-09T07:09:10.126050"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.623332"
+      "crawled_at": "2026-04-09T07:09:10.126096"
     },
     {
       "source": "theverge",
@@ -122,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.623363"
+      "crawled_at": "2026-04-09T07:09:10.126127"
     },
     {
       "source": "theverge",
@@ -136,12 +136,50 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:39.623392"
+      "crawled_at": "2026-04-09T07:09:10.126156"
+    },
+    {
+      "source": "hackernews",
+      "title": "Process Manager for Autonomous AI Agents",
+      "summary": "Article URL: https://botctl.dev/\nComments URL: https://news.ycombinator.com/item?id=47699814\nPoints: 4\n# Comments: 0",
+      "link": "https://botctl.dev/",
+      "published": "Thu, 09 Apr 2026 06:00:55 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-09T07:09:12.307199"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open Source Security at Astral",
+      "summary": "Article URL: https://astral.sh/blog/open-source-security-at-astral\nComments URL: https://news.ycombinator.com/item?id=47699181\nPoints: 110\n# Comments: 13",
+      "link": "https://astral.sh/blog/open-source-security-at-astral",
+      "published": "Thu, 09 Apr 2026 04:11:55 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-04-09T07:09:12.307238"
+    },
+    {
+      "source": "hackernews",
+      "title": "Newly created Polymarket accounts win big on well-timed Iran ceasefire bets",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire\nComments URL: https://news.ycombinator.com/item?id=47698082\nPoints: 118\n# Comments: 87",
+      "link": "https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire",
+      "published": "Thu, 09 Apr 2026 00:55:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-09T07:09:12.307281"
     },
     {
       "source": "hackernews",
       "title": "LittleSnitch for Linux",
-      "summary": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 44\n# Comments: 15",
+      "summary": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 499\n# Comments: 157",
       "link": "https://obdev.at/products/littlesnitch-linux/index.html",
       "published": "Thu, 09 Apr 2026 00:26:08 +0000",
       "keywords": [
@@ -149,20 +187,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:40.750975"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Tired of logic in useEffect, I built a class-based React state manager",
-      "summary": "Article URL: https://thales.me/posts/why-i-built-snapstate/\nComments URL: https://news.ycombinator.com/item?id=47696760\nPoints: 16\n# Comments: 26",
-      "link": "https://thales.me/posts/why-i-built-snapstate/",
-      "published": "Wed, 08 Apr 2026 21:53:36 +0000",
-      "keywords": [
-        "React",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:40.751021"
+      "crawled_at": "2026-04-09T07:09:12.307315"
     },
     {
       "source": "hackernews",
@@ -178,32 +203,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:40.751089"
+      "crawled_at": "2026-04-09T07:09:12.307381"
     },
     {
-      "source": "hackernews",
-      "title": "John Deere to pay $99M in right-to-repair settlement",
-      "summary": "Article URL: https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement\nComments URL: https://news.ycombinator.com/item?id=47696035\nPoints: 161\n# Comments: 44",
-      "link": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-      "published": "Wed, 08 Apr 2026 20:46:27 +0000",
+      "source": "arstechnica",
+      "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
+      "summary": "\"I think the biggest value here is the PR. I mean, it's getting the public excited.\"",
+      "link": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
+      "published": "Thu, 09 Apr 2026 03:44:24 +0000",
       "keywords": [
-        "AI",
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:40.751122"
-    },
-    {
-      "source": "hackernews",
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "summary": "Article URL: https://werwolv.net/posts/usb_for_sw_devs/\nComments URL: https://news.ycombinator.com/item?id=47695012\nPoints: 173\n# Comments: 23",
-      "link": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "published": "Wed, 08 Apr 2026 19:23:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-09T01:10:40.751153"
+      "category": "Tech News",
+      "crawled_at": "2026-04-09T07:09:12.719867"
     },
     {
       "source": "arstechnica",
@@ -213,7 +227,7 @@
       "published": "Wed, 08 Apr 2026 22:00:11 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:40.950130"
+      "crawled_at": "2026-04-09T07:09:12.719906"
     },
     {
       "source": "arstechnica",
@@ -228,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:40.950162"
+      "crawled_at": "2026-04-09T07:09:12.719931"
     },
     {
       "source": "arstechnica",
@@ -241,7 +255,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-09T01:10:40.950189"
+      "crawled_at": "2026-04-09T07:09:12.719956"
     },
     {
       "source": "arstechnica",
@@ -254,89 +268,61 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:40.950218"
-    },
-    {
-      "source": "arstechnica",
-      "title": "How our digital devices are putting our right to privacy at risk",
-      "summary": "Law professor Andrew Guthrie Ferguson chats with Ars about his new book, Your Data Will Be Used Against You.",
-      "link": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-      "published": "Wed, 08 Apr 2026 19:17:30 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:40.950245"
+      "crawled_at": "2026-04-09T07:09:12.719986"
     },
     {
       "source": "wired",
-      "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
-      "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
-      "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-      "published": "Wed, 08 Apr 2026 22:27:26 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:41.162433"
-    },
-    {
-      "source": "wired",
-      "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover",
-      "summary": "After weeks of disruption, a ceasefire is easing pressure on the Strait of Hormuz. But backlogs, infrastructure damage, and delayed supply mean the system won’t return to normal overnight.",
-      "link": "https://www.wired.com/story/the-strait-of-hormuz-reopens-but-global-shipping-will-take-months-to-recover/",
-      "published": "Wed, 08 Apr 2026 19:33:57 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:41.162478"
-    },
-    {
-      "source": "wired",
-      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-      "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
-      "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-      "published": "Wed, 08 Apr 2026 18:51:09 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:41.162508"
-    },
-    {
-      "source": "wired",
-      "title": "‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread",
-      "summary": "In Lebanon, nearly 1 in 5 people has been displaced by Israeli attacks, leaving the government to manage a modern crisis without modern digital infrastructure.",
-      "link": "https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/",
-      "published": "Wed, 08 Apr 2026 18:43:39 +0000",
+      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "Thu, 09 Apr 2026 05:00:00 +0000",
       "keywords": [
         "Go",
-        "Git",
+        "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-09T01:10:41.162552"
+      "category": "Programming",
+      "crawled_at": "2026-04-09T07:09:12.866872"
     },
     {
       "source": "wired",
-      "title": "The US Army Is Building Its Own Chatbot for Combat",
-      "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
-      "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
-      "published": "Wed, 08 Apr 2026 18:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-09T01:10:41.162576"
+      "title": "20% Off LG Promo Code & Coupons | April 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Thu, 09 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-09T07:09:12.866905"
+    },
+    {
+      "source": "wired",
+      "title": "NZXT Discount Codes: 50% Off in April 2026",
+      "summary": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
+      "published": "Thu, 09 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-09T07:09:12.866926"
+    },
+    {
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | April 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this April.",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "published": "Thu, 09 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-09T07:09:12.866949"
+    },
+    {
+      "source": "wired",
+      "title": "Vimeo Promo Codes and Deals: Save Up to 40%",
+      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
+      "published": "Thu, 09 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-09T07:09:12.866971"
     }
   ]
 }
