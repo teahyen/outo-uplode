@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T01:21:22.181176",
+  "last_updated": "2026-04-10T07:14:17.404798",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.431328"
+      "crawled_at": "2026-04-10T07:14:16.459278"
     },
     {
       "source": "techcrunch",
@@ -30,7 +30,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.431361"
+      "crawled_at": "2026-04-10T07:14:16.459311"
     },
     {
       "source": "techcrunch",
@@ -42,7 +42,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:21.431393"
+      "crawled_at": "2026-04-10T07:14:16.459342"
     },
     {
       "source": "techcrunch",
@@ -56,7 +56,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-10T01:21:21.431446"
+      "crawled_at": "2026-04-10T07:14:16.459395"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.431468"
+      "crawled_at": "2026-04-10T07:14:16.459419"
     },
     {
       "source": "theverge",
@@ -84,7 +84,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.615291"
+      "crawled_at": "2026-04-10T07:14:16.652124"
     },
     {
       "source": "theverge",
@@ -98,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.615340"
+      "crawled_at": "2026-04-10T07:14:16.652175"
     },
     {
       "source": "theverge",
@@ -113,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.615376"
+      "crawled_at": "2026-04-10T07:14:16.652211"
     },
     {
       "source": "theverge",
@@ -127,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.615406"
+      "crawled_at": "2026-04-10T07:14:16.652242"
     },
     {
       "source": "theverge",
@@ -141,71 +141,84 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.615443"
+      "crawled_at": "2026-04-10T07:14:16.652274"
     },
     {
       "source": "hackernews",
-      "title": "How the Trivy supply chain attack harvested credentials from secrets managers",
-      "summary": "Article URL: https://vaultproof.dev/blog/trivy-supply-chain-attack\nComments URL: https://news.ycombinator.com/item?id=47710919\nPoints: 10\n# Comments: 2",
-      "link": "https://vaultproof.dev/blog/trivy-supply-chain-attack",
-      "published": "Thu, 09 Apr 2026 22:10:53 +0000",
+      "title": "The tool that won't let AI say anything it can't cite",
+      "summary": "Article URL: https://github.com/grainulation/grainulator\nComments URL: https://news.ycombinator.com/item?id=47714239\nPoints: 23\n# Comments: 3",
+      "link": "https://github.com/grainulation/grainulator",
+      "published": "Fri, 10 Apr 2026 06:09:47 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-10T07:14:16.993040"
+    },
+    {
+      "source": "hackernews",
+      "title": "YouTube locked my accounts and I can't cancel my subscription",
+      "summary": "Article URL: https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html\nComments URL: https://news.ycombinator.com/item?id=47713839\nPoints: 27\n# Comments: 11",
+      "link": "https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html",
+      "published": "Fri, 10 Apr 2026 05:03:22 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.827045"
+      "crawled_at": "2026-04-10T07:14:16.993080"
     },
     {
       "source": "hackernews",
-      "title": "Many African families spend fortunes burying their dead",
-      "summary": "Article URL: https://davidoks.blog/p/how-funerals-keep-africa-poor\nComments URL: https://news.ycombinator.com/item?id=47710907\nPoints: 108\n# Comments: 81",
-      "link": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-      "published": "Thu, 09 Apr 2026 22:10:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:21.827088"
-    },
-    {
-      "source": "hackernews",
-      "title": "BunnyCDN has been silently losing our production files for 15 months",
-      "summary": "Article URL: https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/\nComments URL: https://news.ycombinator.com/item?id=47710845\nPoints: 97\n# Comments: 21",
-      "link": "https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/",
-      "published": "Thu, 09 Apr 2026 22:04:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:21.827129"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Training Example Lie Bracket",
-      "summary": "Article URL: https://pbement.com/posts/lie_brackets/\nComments URL: https://news.ycombinator.com/item?id=47710782\nPoints: 12\n# Comments: 8",
-      "link": "https://pbement.com/posts/lie_brackets/",
-      "published": "Thu, 09 Apr 2026 21:59:28 +0000",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer\nComments URL: https://news.ycombinator.com/item?id=47713744\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer",
+      "published": "Fri, 10 Apr 2026 04:43:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:21.827154"
+      "crawled_at": "2026-04-10T07:14:16.993109"
     },
     {
       "source": "hackernews",
-      "title": "Microsoft is employing dark patterns to goad users into paying for storage?",
-      "summary": "Article URL: https://lzon.ca/posts/other/microsoft-user-abuse/\nComments URL: https://news.ycombinator.com/item?id=47710149\nPoints: 207\n# Comments: 111",
-      "link": "https://lzon.ca/posts/other/microsoft-user-abuse/",
-      "published": "Thu, 09 Apr 2026 21:09:12 +0000",
+      "title": "Afrika Bambaataa, hip-hop pioneer, has died",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c2evppm30p7o\nComments URL: https://news.ycombinator.com/item?id=47713584\nPoints: 79\n# Comments: 10",
+      "link": "https://www.bbc.co.uk/news/articles/c2evppm30p7o",
+      "published": "Fri, 10 Apr 2026 04:17:28 +0000",
       "keywords": [
-        "Go",
-        "Microsoft",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:21.827189"
+      "crawled_at": "2026-04-10T07:14:16.993141"
+    },
+    {
+      "source": "hackernews",
+      "title": "Installing OpenBSD on the Pomera DM250{,XY?}",
+      "summary": "Article URL: https://jcs.org/2026/04/09/openbsd-dm250\nComments URL: https://news.ycombinator.com/item?id=47713265\nPoints: 9\n# Comments: 1",
+      "link": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "published": "Fri, 10 Apr 2026 03:29:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-10T07:14:16.993171"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "summary": "After leaks on Artemis I and II, Orion's next flight to the Moon will need new valves.",
+      "link": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
+      "published": "Fri, 10 Apr 2026 00:55:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-10T07:14:17.187638"
     },
     {
       "source": "arstechnica",
@@ -217,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.010547"
+      "crawled_at": "2026-04-10T07:14:17.187703"
     },
     {
       "source": "arstechnica",
@@ -231,7 +244,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:22.010574"
+      "crawled_at": "2026-04-10T07:14:17.187727"
     },
     {
       "source": "arstechnica",
@@ -243,7 +256,7 @@
         "React"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.010611"
+      "crawled_at": "2026-04-10T07:14:17.187764"
     },
     {
       "source": "arstechnica",
@@ -255,87 +268,63 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.010660"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ugandan chimps split into two factions, then killed rivals",
-      "summary": "Rare event suggests relational dynamics may play a role in collective violence, along with cultural markers.",
-      "link": "https://arstechnica.com/science/2026/04/ugandan-chimps-split-into-two-factions-then-killed-rivals/",
-      "published": "Thu, 09 Apr 2026 19:21:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.010693"
+      "crawled_at": "2026-04-10T07:14:17.187798"
     },
     {
       "source": "wired",
-      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-      "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
-      "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-      "published": "Fri, 10 Apr 2026 00:19:53 +0000",
+      "title": "Surfshark Promo Codes: 87% Off | April 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:22.180978"
+      "category": "Programming",
+      "crawled_at": "2026-04-10T07:14:17.404590"
     },
     {
       "source": "wired",
-      "title": "China Is Cracking Down on Scams. Just Not the Ones Hitting Americans",
-      "summary": "As Beijing clamps down on fraud at home, researchers say crime syndicates are shifting their focus to victims elsewhere.",
-      "link": "https://www.wired.com/story/made-in-china-inside-chinas-selective-war-on-the-scam-economy/",
-      "published": "Thu, 09 Apr 2026 19:14:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.181019"
+      "title": "Naturepedic Promo Codes and Deals: 20% Off",
+      "summary": "Shop the Naturepedic sale this April.",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-10T07:14:17.404617"
     },
     {
       "source": "wired",
-      "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
-      "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
-      "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
-      "published": "Thu, 09 Apr 2026 18:00:00 +0000",
+      "title": "20% Off Sephora Promo Code | April 2026",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "link": "https://www.wired.com/story/sephora-promo-code/",
+      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "REST",
-        "Startup",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:22.181045"
+      "category": "Programming",
+      "crawled_at": "2026-04-10T07:14:17.404658"
     },
     {
       "source": "wired",
-      "title": "Save $20 on This Already Inexpensive Wireless Mic Set",
-      "summary": "Take your smartphone videos to the next level with impressive audio quality in a tiny package.",
-      "link": "https://www.wired.com/story/dji-mic-mini-deal-426/",
-      "published": "Thu, 09 Apr 2026 17:31:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-10T01:21:22.181073"
+      "title": "Hungryroot Coupon Codes: 30% Off This April",
+      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "link": "https://www.wired.com/story/hungryroot-promo-code/",
+      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-10T07:14:17.404691"
     },
     {
       "source": "wired",
-      "title": "John Deere Is Paying Farmers $99 Million for Allegedly Monopolizing Repair",
-      "summary": "The tractor maker is paying for its years as the central opponent of right-to-repair. Consumer advocates say it’s still not enough.",
-      "link": "https://www.wired.com/story/john-deere-is-paying-farmers-99-million-for-allegedly-monopolizing-repair/",
-      "published": "Thu, 09 Apr 2026 17:27:32 +0000",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "link": "https://www.wired.com/story/govee-discount-code/",
+      "published": "Fri, 10 Apr 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "Go"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-10T01:21:22.181102"
+      "category": "Programming",
+      "crawled_at": "2026-04-10T07:14:17.404712"
     }
   ]
 }
