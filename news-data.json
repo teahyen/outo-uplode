@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T06:48:14.185263",
+  "last_updated": "2026-04-11T12:33:07.829721",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.468084"
+      "crawled_at": "2026-04-11T12:33:07.111168"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.468155"
+      "crawled_at": "2026-04-11T12:33:07.111219"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.468190"
+      "crawled_at": "2026-04-11T12:33:07.111251"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.468218"
+      "crawled_at": "2026-04-11T12:33:07.111277"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,34 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.468256"
+      "crawled_at": "2026-04-11T12:33:07.111314"
+    },
+    {
+      "source": "theverge",
+      "title": "The new show making fun of tech bros",
+      "summary": "Hi, friends! Welcome to Installer No. 123, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, which Artemis photo did you make your wallpaper, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Altman and",
+      "link": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+      "published": "2026-04-11T08:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-11T12:33:07.265018"
+    },
+    {
+      "source": "theverge",
+      "title": "Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?",
+      "summary": "Earlier this year, a relatively unknown startup from Finland made a startling announcement: It had finally solved solid-state batteries. Not only that, but Donut Lab, a spinoff of Verge Motorcycles, said that its solid-state battery - long considered the \"Holy Grail of batteries\" for their high-dens",
+      "link": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
+      "published": "2026-04-11T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-11T12:33:07.265077"
     },
     {
       "source": "theverge",
@@ -83,7 +110,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.561428"
+      "crawled_at": "2026-04-11T12:33:07.265113"
     },
     {
       "source": "theverge",
@@ -98,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.561485"
+      "crawled_at": "2026-04-11T12:33:07.265159"
     },
     {
       "source": "theverge",
@@ -110,54 +137,43 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.561535"
+      "crawled_at": "2026-04-11T12:33:07.265207"
     },
     {
-      "source": "theverge",
-      "title": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
-      "summary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider Program (WIP) less confusing, with Dev and Canary testing rings simplified into a new Experimental Ch",
-      "link": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
-      "published": "2026-04-10T14:00:00-04:00",
+      "source": "hackernews",
+      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "summary": "Article URL: https://www.xda-developers.com/frances-government-ditching-windows-for-linux/\nComments URL: https://news.ycombinator.com/item?id=47728653\nPoints: 70\n# Comments: 34",
+      "link": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "published": "Sat, 11 Apr 2026 08:25:14 +0000",
       "keywords": [
-        "Microsoft",
+        "Go",
         "Windows",
+        "Linux",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-11T06:48:13.561579"
+      "category": "Programming",
+      "crawled_at": "2026-04-11T12:33:07.553466"
     },
     {
-      "source": "theverge",
-      "title": "My go-to electric screwdriver is on sale for over 50 percent off today",
-      "summary": "Fanttik, like Hoto, is quickly becoming a household name. The tool brand’s cordless wares are quiet, capable, and certainly more stylish than anything you’d find at your local Ace Hardware or neighborhood tool library. The S1 Pro electric screwdriver is a great example of the company’s penchant for ",
-      "link": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
-      "published": "2026-04-10T13:43:17-04:00",
+      "source": "hackernews",
+      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+      "summary": "https://pardonned.comInspired by the videos of Liz Oyer, I wanted to be able to verify her claims and just look up all the pardons more easily.Tech Stack: \n Playwright - to sccrape the DOJ website\n SQLite - local database\n Astro 6 - Build out a static website from the sqlite dbAll code is open sourc",
+      "link": "https://news.ycombinator.com/item?id=47727960",
+      "published": "Sat, 11 Apr 2026 06:19:25 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR"
+        "Database",
+        "SQL",
+        "Git",
+        "GitHub"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.561639"
+      "crawled_at": "2026-04-11T12:33:07.553525"
     },
     {
       "source": "hackernews",
-      "title": "Tesla's supervised self-driving software gets Dutch okay, first in Europe",
-      "summary": "Article URL: https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/\nComments URL: https://news.ycombinator.com/item?id=47727974\nPoints: 5\n# Comments: 0",
-      "link": "https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/",
-      "published": "Sat, 11 Apr 2026 06:22:01 +0000",
-      "keywords": [
-        "Go",
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.785810"
-    },
-    {
-      "source": "hackernews",
-      "title": "20 Years on AWS and Never Not My Job",
-      "summary": "Article URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html\nComments URL: https://news.ycombinator.com/item?id=47727711\nPoints: 60\n# Comments: 4",
+      "title": "20 years on AWS and never not my job",
+      "summary": "Article URL: https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html\nComments URL: https://news.ycombinator.com/item?id=47727711\nPoints: 175\n# Comments: 35",
       "link": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
       "published": "Sat, 11 Apr 2026 05:31:10 +0000",
       "keywords": [
@@ -165,38 +181,24 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-11T06:48:13.785847"
+      "crawled_at": "2026-04-11T12:33:07.553558"
     },
     {
       "source": "hackernews",
       "title": "Productive Procrastination",
-      "summary": "Article URL: https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/\nComments URL: https://news.ycombinator.com/item?id=47727659\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/\nComments URL: https://news.ycombinator.com/item?id=47727659\nPoints: 43\n# Comments: 18",
       "link": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
       "published": "Sat, 11 Apr 2026 05:21:21 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.785883"
-    },
-    {
-      "source": "hackernews",
-      "title": "Great at gaming? US air traffic control wants you to apply",
-      "summary": "Article URL: https://www.bbc.com/news/articles/ce84rvx0e6do\nComments URL: https://news.ycombinator.com/item?id=47727575\nPoints: 5\n# Comments: 2",
-      "link": "https://www.bbc.com/news/articles/ce84rvx0e6do",
-      "published": "Sat, 11 Apr 2026 05:04:17 +0000",
-      "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.785910"
+      "crawled_at": "2026-04-11T12:33:07.553596"
     },
     {
       "source": "hackernews",
       "title": "Quien – A better WHOIS lookup tool",
-      "summary": "Article URL: https://github.com/retlehs/quien/\nComments URL: https://news.ycombinator.com/item?id=47727076\nPoints: 18\n# Comments: 5",
+      "summary": "Article URL: https://github.com/retlehs/quien/\nComments URL: https://news.ycombinator.com/item?id=47727076\nPoints: 51\n# Comments: 17",
       "link": "https://github.com/retlehs/quien/",
       "published": "Sat, 11 Apr 2026 03:31:30 +0000",
       "keywords": [
@@ -205,7 +207,23 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.785949"
+      "crawled_at": "2026-04-11T12:33:07.553634"
+    },
+    {
+      "source": "arstechnica",
+      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+      "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
+      "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+      "published": "Sat, 11 Apr 2026 11:15:17 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-11T12:33:07.709187"
     },
     {
       "source": "arstechnica",
@@ -218,7 +236,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.977723"
+      "crawled_at": "2026-04-11T12:33:07.709220"
     },
     {
       "source": "arstechnica",
@@ -230,7 +248,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.977759"
+      "crawled_at": "2026-04-11T12:33:07.709251"
     },
     {
       "source": "arstechnica",
@@ -242,7 +260,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:13.977782"
+      "crawled_at": "2026-04-11T12:33:07.709272"
     },
     {
       "source": "arstechnica",
@@ -255,84 +273,71 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-11T06:48:13.977804"
+      "crawled_at": "2026-04-11T12:33:07.709294"
     },
     {
-      "source": "arstechnica",
-      "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
-      "summary": "Algorithms, not drivers, are deciding how hard to accelerate, and that's no good.",
-      "link": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
-      "published": "Fri, 10 Apr 2026 19:07:46 +0000",
+      "source": "wired",
+      "title": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
+      "summary": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
+      "link": "https://www.wired.com/review/zuvi-colorbox/",
+      "published": "Sat, 11 Apr 2026 12:11:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-11T12:33:07.829524"
+    },
+    {
+      "source": "wired",
+      "title": "MacBook Neo vs. MacBook Air: Which One Should You Buy?",
+      "summary": "After conducting long-term testing on both the MacBook Neo and MacBook Air, I have a good idea who should buy which laptop.",
+      "link": "https://www.wired.com/story/macbook-neo-vs-macbook-air/",
+      "published": "Sat, 11 Apr 2026 11:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-11T12:33:07.829551"
+    },
+    {
+      "source": "wired",
+      "title": "Best Electric Cargo Bikes (2026): Urban Arrow, Lectric, Tern, and More",
+      "summary": "You don't need a car to tote around kids and cup holders. I rode cargo ebikes for miles to find the best one for your buck.",
+      "link": "https://www.wired.com/story/best-electric-cargo-bikes/",
+      "published": "Sat, 11 Apr 2026 11:00:00 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:13.977831"
+      "crawled_at": "2026-04-11T12:33:07.829582"
     },
     {
       "source": "wired",
-      "title": "Artemis II Astronauts Safely Return to Earth After Historic Flight Around the Moon",
-      "summary": "After traveling a greater distance from Earth than any humans before them, the astronauts of Artemis II have safely returned home.",
-      "link": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
-      "published": "Sat, 11 Apr 2026 00:08:17 +0000",
+      "title": "Your Push Notifications Aren’t Safe From the FBI",
+      "summary": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+      "published": "Sat, 11 Apr 2026 10:30:00 +0000",
       "keywords": [
+        "Crypto",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:14.185028"
+      "category": "Blockchain",
+      "crawled_at": "2026-04-11T12:33:07.829622"
     },
     {
       "source": "wired",
-      "title": "Home Depot Spring Black Friday (2026): Best Tool and Grill Deals",
-      "summary": "Home Depot's spring sale offers deals on some of WIRED's favorite grills, plus \"buy one get one free\" deals on tools from Ryobi, DeWalt, and Milwaukee.",
-      "link": "https://www.wired.com/story/home-depot-spring-black-friday-deals-2026/",
-      "published": "Fri, 10 Apr 2026 19:31:26 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:14.185066"
-    },
-    {
-      "source": "wired",
-      "title": "Motorola’s Souped-Up Folding Phone Is Almost Half Off",
-      "summary": "Amazon has the Razr Ultra marked down by $600 for a limited time.",
-      "link": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
-      "published": "Fri, 10 Apr 2026 18:14:38 +0000",
+      "title": "Flight Path Data Shows How Mosquitoes Target Humans",
+      "summary": "Scientists have quantified what draws mosquitoes to people—which could help make better, life-saving bug traps.",
+      "link": "https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/",
+      "published": "Sat, 11 Apr 2026 10:00:00 +0000",
       "keywords": [
-        "Amazon",
+        "AWS",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-11T06:48:14.185102"
-    },
-    {
-      "source": "wired",
-      "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
-      "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
-      "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "published": "Fri, 10 Apr 2026 18:08:37 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Security",
-        "Cybersecurity",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:14.185162"
-    },
-    {
-      "source": "wired",
-      "title": "The Future of the Artemis Program Is Riding on Reentry",
-      "summary": "Entire space programs have been canceled after a failure in the reentry phase. In the final test for Artemis II, astronauts will travel at 32 times the speed of sound as they return from the moon.",
-      "link": "https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/",
-      "published": "Fri, 10 Apr 2026 18:07:45 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-11T06:48:14.185193"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-04-11T12:33:07.829652"
     }
   ]
 }
