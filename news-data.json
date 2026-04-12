@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-12T01:24:55.468746",
+  "last_updated": "2026-04-12T07:02:20.579396",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+      "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+      "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+      "published": "Sun, 12 Apr 2026 03:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-12T07:02:19.057882"
+    },
     {
       "source": "techcrunch",
       "title": "Kalshi wins temporary pause in Arizona criminal case",
@@ -14,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:53.680232"
+      "crawled_at": "2026-04-12T07:02:19.057920"
     },
     {
       "source": "techcrunch",
@@ -26,7 +42,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:53.680279"
+      "crawled_at": "2026-04-12T07:02:19.057957"
     },
     {
       "source": "techcrunch",
@@ -41,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:53.680316"
+      "crawled_at": "2026-04-12T07:02:19.057992"
     },
     {
       "source": "techcrunch",
@@ -55,20 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:53.680341"
-    },
-    {
-      "source": "techcrunch",
-      "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-      "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
-      "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-      "published": "Sat, 11 Apr 2026 00:44:17 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:53.680380"
+      "crawled_at": "2026-04-12T07:02:19.058017"
     },
     {
       "source": "theverge",
@@ -81,7 +84,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-12T01:24:53.841441"
+      "crawled_at": "2026-04-12T07:02:19.113270"
     },
     {
       "source": "theverge",
@@ -96,7 +99,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:53.841511"
+      "crawled_at": "2026-04-12T07:02:19.113339"
     },
     {
       "source": "theverge",
@@ -108,7 +111,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-12T01:24:53.841558"
+      "crawled_at": "2026-04-12T07:02:19.113385"
     },
     {
       "source": "theverge",
@@ -123,7 +126,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:53.841598"
+      "crawled_at": "2026-04-12T07:02:19.113443"
     },
     {
       "source": "theverge",
@@ -139,73 +142,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:53.841640"
+      "crawled_at": "2026-04-12T07:02:19.113486"
     },
     {
       "source": "hackernews",
-      "title": "Midnight Captain – A midnight commander inspired file manager",
-      "summary": "Article URL: https://github.com/duguyue100/midnight-captain\nComments URL: https://news.ycombinator.com/item?id=47734912\nPoints: 4\n# Comments: 3",
-      "link": "https://github.com/duguyue100/midnight-captain",
-      "published": "Sat, 11 Apr 2026 23:37:43 +0000",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "summary": "Article URL: https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional\nComments URL: https://news.ycombinator.com/item?id=47736298\nPoints: 71\n# Comments: 38",
+      "link": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "published": "Sun, 12 Apr 2026 05:08:03 +0000",
       "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.188544"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "summary": "Article URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html\nComments URL: https://news.ycombinator.com/item?id=47733971\nPoints: 138\n# Comments: 76",
-      "link": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "published": "Sat, 11 Apr 2026 20:58:48 +0000",
-      "keywords": [
-        "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-12T01:24:55.188586"
+      "crawled_at": "2026-04-12T07:02:20.399125"
     },
     {
       "source": "hackernews",
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "summary": "Article URL: https://zenodo.org/records/19513269\nComments URL: https://news.ycombinator.com/item?id=47733561\nPoints: 131\n# Comments: 65",
-      "link": "https://zenodo.org/records/19513269",
-      "published": "Sat, 11 Apr 2026 20:08:46 +0000",
+      "title": "Why meaningful days look like nothing while you are living them",
+      "summary": "Article URL: https://pilgrima.ge/p/the-grand-line\nComments URL: https://news.ycombinator.com/item?id=47735810\nPoints: 18\n# Comments: 7",
+      "link": "https://pilgrima.ge/p/the-grand-line",
+      "published": "Sun, 12 Apr 2026 03:04:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.188629"
+      "crawled_at": "2026-04-12T07:02:20.399166"
     },
     {
       "source": "hackernews",
-      "title": "Dark Castle",
-      "summary": "Article URL: https://darkcastle.co.uk/\nComments URL: https://news.ycombinator.com/item?id=47733521\nPoints: 113\n# Comments: 15",
-      "link": "https://darkcastle.co.uk/",
-      "published": "Sat, 11 Apr 2026 20:01:59 +0000",
+      "title": "Building a Z-Machine in the worst possible language – Whitebeard's Realm",
+      "summary": "Article URL: https://whitebeard.blog/posts/building-a-z-machine-in-elm/\nComments URL: https://news.ycombinator.com/item?id=47735779\nPoints: 18\n# Comments: 0",
+      "link": "https://whitebeard.blog/posts/building-a-z-machine-in-elm/",
+      "published": "Sun, 12 Apr 2026 02:57:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.188659"
+      "crawled_at": "2026-04-12T07:02:20.399213"
     },
     {
       "source": "hackernews",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "summary": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/\nComments URL: https://news.ycombinator.com/item?id=47733217\nPoints: 206\n# Comments: 57",
-      "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "published": "Sat, 11 Apr 2026 19:15:56 +0000",
+      "title": "How a dancer with ALS used brainwaves to perform live",
+      "summary": "Article URL: https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/\nComments URL: https://news.ycombinator.com/item?id=47735581\nPoints: 27\n# Comments: 1",
+      "link": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+      "published": "Sun, 12 Apr 2026 02:09:13 +0000",
       "keywords": [
         "AI",
-        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.188685"
+      "crawled_at": "2026-04-12T07:02:20.399244"
+    },
+    {
+      "source": "hackernews",
+      "title": "The End of Eleventy",
+      "summary": "Article URL: https://brennan.day/the-end-of-eleventy/\nComments URL: https://news.ycombinator.com/item?id=47735535\nPoints: 126\n# Comments: 70",
+      "link": "https://brennan.day/the-end-of-eleventy/",
+      "published": "Sun, 12 Apr 2026 01:55:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-12T07:02:20.399275"
     },
     {
       "source": "arstechnica",
@@ -221,7 +219,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.336826"
+      "crawled_at": "2026-04-12T07:02:20.477879"
     },
     {
       "source": "arstechnica",
@@ -234,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.336860"
+      "crawled_at": "2026-04-12T07:02:20.477912"
     },
     {
       "source": "arstechnica",
@@ -246,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.336890"
+      "crawled_at": "2026-04-12T07:02:20.477942"
     },
     {
       "source": "arstechnica",
@@ -258,7 +256,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.336912"
+      "crawled_at": "2026-04-12T07:02:20.477964"
     },
     {
       "source": "arstechnica",
@@ -271,7 +269,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-04-12T01:24:55.336934"
+      "crawled_at": "2026-04-12T07:02:20.477985"
     },
     {
       "source": "wired",
@@ -283,7 +281,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.468564"
+      "crawled_at": "2026-04-12T07:02:20.579209"
     },
     {
       "source": "wired",
@@ -295,7 +293,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.468591"
+      "crawled_at": "2026-04-12T07:02:20.579236"
     },
     {
       "source": "wired",
@@ -308,7 +306,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T01:24:55.468613"
+      "crawled_at": "2026-04-12T07:02:20.579259"
     },
     {
       "source": "wired",
@@ -321,7 +319,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T01:24:55.468643"
+      "crawled_at": "2026-04-12T07:02:20.579289"
     },
     {
       "source": "wired",
@@ -334,7 +332,7 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-04-12T01:24:55.468677"
+      "crawled_at": "2026-04-12T07:02:20.579323"
     }
   ]
 }
