@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-04-12T18:32:14.301700",
+  "last_updated": "2026-04-13T01:27:19.136735",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "published": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T01:27:18.411386"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-13T01:27:18.411432"
+    },
     {
       "source": "techcrunch",
       "title": "X says it’s reducing payments to clickbait accounts",
@@ -14,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.525521"
+      "crawled_at": "2026-04-13T01:27:18.411469"
     },
     {
       "source": "techcrunch",
@@ -27,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.525555"
+      "crawled_at": "2026-04-13T01:27:18.411496"
     },
     {
       "source": "techcrunch",
@@ -40,36 +67,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.525589"
+      "crawled_at": "2026-04-13T01:27:18.411531"
     },
     {
-      "source": "techcrunch",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
-      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
+      "source": "theverge",
+      "title": "Room for the Moon is thrillingly weird experimental pop",
+      "summary": "For obvious reasons, I've had Moon on the mind all week. So I was trying to figure out what I should recommend this week that would thematically fit. Brian Eno's Apollo: Atmospheres and Soundtracks is incredible, and if you haven't listened to it, go do that now. But it also seemed a bit on the [&#8",
+      "link": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "published": "2026-04-12T16:00:00-04:00",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
+        "Go"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.525611"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
-      "summary": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.",
-      "link": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
-      "published": "Sun, 12 Apr 2026 14:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.525635"
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T01:27:18.543009"
     },
     {
       "source": "theverge",
@@ -84,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.700724"
+      "crawled_at": "2026-04-13T01:27:18.543087"
     },
     {
       "source": "theverge",
@@ -96,7 +106,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:13.700779"
+      "crawled_at": "2026-04-13T01:27:18.543134"
     },
     {
       "source": "theverge",
@@ -109,7 +119,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-04-12T18:32:13.700836"
+      "crawled_at": "2026-04-13T01:27:18.543192"
     },
     {
       "source": "theverge",
@@ -122,83 +132,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.700874"
+      "crawled_at": "2026-04-13T01:27:18.543232"
     },
     {
-      "source": "theverge",
-      "title": "How AT&#038;T created the most iconic phone ever",
-      "summary": "For years, even decades, virtually everyone in the United States had the same phone. Nobody really thought about it, it didn't even matter what it was called - it was just The Phone. Well, The Phone was called the Western Electric 500, and when landline phones ruled the world, the Western Electric 5",
-      "link": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
-      "published": "2026-04-12T09:28:46-04:00",
+      "source": "hackernews",
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "summary": "Article URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\nComments URL: https://news.ycombinator.com/item?id=47745284\nPoints: 35\n# Comments: 38",
+      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "published": "Sun, 12 Apr 2026 22:38:45 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:13.700915"
+      "crawled_at": "2026-04-13T01:27:18.805508"
     },
     {
       "source": "hackernews",
-      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps",
-      "summary": "Article URL: https://maps.apple.com/frame?center=33.723388%2C35.614698&amp;span=1.983925%2C4.004193\nComments URL: https://news.ycombinator.com/item?id=47742680\nPoints: 29\n# Comments: 2",
-      "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
-      "published": "Sun, 12 Apr 2026 18:19:02 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-12T18:32:13.944231"
-    },
-    {
-      "source": "hackernews",
-      "title": "Are sugar substitutes healthier than the real thing?",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing\nComments URL: https://news.ycombinator.com/item?id=47742460\nPoints: 8\n# Comments: 1",
-      "link": "https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing",
-      "published": "Sun, 12 Apr 2026 17:55:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:13.944280"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "summary": "Hi HN!I recently switched from a Fedora/GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar tha",
-      "link": "https://boringbar.app/",
-      "published": "Sun, 12 Apr 2026 17:25:44 +0000",
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels\nComments URL: https://news.ycombinator.com/item?id=47745120\nPoints: 101\n# Comments: 16",
+      "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+      "published": "Sun, 12 Apr 2026 22:13:22 +0000",
       "keywords": [
         "AI",
-        "Windows",
-        "Linux",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:13.944402"
+      "crawled_at": "2026-04-13T01:27:18.805548"
     },
     {
       "source": "hackernews",
-      "title": "Reading Is Magic",
-      "summary": "Article URL: https://samkriss.substack.com/p/reading-is-magic\nComments URL: https://news.ycombinator.com/item?id=47742002\nPoints: 17\n# Comments: 2",
-      "link": "https://samkriss.substack.com/p/reading-is-magic",
-      "published": "Sun, 12 Apr 2026 17:06:31 +0000",
+      "title": "A Perfectable Programming Language",
+      "summary": "Article URL: https://alok.github.io/lean-pages/perfectable-lean/\nComments URL: https://news.ycombinator.com/item?id=47744540\nPoints: 44\n# Comments: 8",
+      "link": "https://alok.github.io/lean-pages/perfectable-lean/",
+      "published": "Sun, 12 Apr 2026 21:11:24 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:13.944436"
+      "category": "Programming",
+      "crawled_at": "2026-04-13T01:27:18.805580"
     },
     {
       "source": "hackernews",
-      "title": "EasyPost (YC S13) Is Hiring",
-      "summary": "Article URL: https://www.easypost.com/careers\nComments URL: https://news.ycombinator.com/item?id=47741953\nPoints: 0\n# Comments: 0",
-      "link": "https://www.easypost.com/careers",
-      "published": "Sun, 12 Apr 2026 17:01:26 +0000",
+      "title": "Uncharted island soon to appear on nautical charts",
+      "summary": "Article URL: https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html\nComments URL: https://news.ycombinator.com/item?id=47744132\nPoints: 38\n# Comments: 14",
+      "link": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
+      "published": "Sun, 12 Apr 2026 20:30:11 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:13.944467"
+      "category": "Mobile",
+      "crawled_at": "2026-04-13T01:27:18.805620"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "summary": "Article URL: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t\nComments URL: https://news.ycombinator.com/item?id=47743730\nPoints: 287\n# Comments: 132",
+      "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "published": "Sun, 12 Apr 2026 19:53:08 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-13T01:27:18.805655"
     },
     {
       "source": "arstechnica",
@@ -211,7 +210,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:14.126347"
+      "crawled_at": "2026-04-13T01:27:18.969312"
     },
     {
       "source": "arstechnica",
@@ -227,7 +226,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:14.126382"
+      "crawled_at": "2026-04-13T01:27:18.969352"
     },
     {
       "source": "arstechnica",
@@ -240,7 +239,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:14.126408"
+      "crawled_at": "2026-04-13T01:27:18.969380"
     },
     {
       "source": "arstechnica",
@@ -252,7 +251,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:14.126436"
+      "crawled_at": "2026-04-13T01:27:18.969410"
     },
     {
       "source": "arstechnica",
@@ -264,7 +263,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:14.126457"
+      "crawled_at": "2026-04-13T01:27:18.969431"
     },
     {
       "source": "wired",
@@ -277,7 +276,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:14.301488"
+      "crawled_at": "2026-04-13T01:27:19.136477"
     },
     {
       "source": "wired",
@@ -290,7 +289,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-12T18:32:14.301519"
+      "crawled_at": "2026-04-13T01:27:19.136513"
     },
     {
       "source": "wired",
@@ -302,7 +301,7 @@
         "Microsoft"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-04-12T18:32:14.301551"
+      "crawled_at": "2026-04-13T01:27:19.136548"
     },
     {
       "source": "wired",
@@ -314,7 +313,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:14.301586"
+      "crawled_at": "2026-04-13T01:27:19.136584"
     },
     {
       "source": "wired",
@@ -326,7 +325,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-12T18:32:14.301616"
+      "crawled_at": "2026-04-13T01:27:19.136616"
     }
   ]
 }
