@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-04-13T01:27:19.136735",
+  "last_updated": "2026-04-13T07:46:38.119585",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The largest orbital compute cluster is open for business",
+      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "published": "Mon, 13 Apr 2026 07:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-04-13T07:46:37.385486"
+    },
     {
       "source": "techcrunch",
       "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
@@ -14,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.411386"
+      "crawled_at": "2026-04-13T07:46:37.385529"
     },
     {
       "source": "techcrunch",
@@ -27,7 +39,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-13T01:27:18.411432"
+      "crawled_at": "2026-04-13T07:46:37.385563"
     },
     {
       "source": "techcrunch",
@@ -41,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.411469"
+      "crawled_at": "2026-04-13T07:46:37.385596"
     },
     {
       "source": "techcrunch",
@@ -54,20 +66,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.411496"
-    },
-    {
-      "source": "techcrunch",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "Sun, 12 Apr 2026 15:07:08 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.411531"
+      "crawled_at": "2026-04-13T07:46:37.385621"
     },
     {
       "source": "theverge",
@@ -79,7 +78,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:18.543009"
+      "crawled_at": "2026-04-13T07:46:37.456446"
     },
     {
       "source": "theverge",
@@ -94,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.543087"
+      "crawled_at": "2026-04-13T07:46:37.456500"
     },
     {
       "source": "theverge",
@@ -106,7 +105,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:18.543134"
+      "crawled_at": "2026-04-13T07:46:37.456544"
     },
     {
       "source": "theverge",
@@ -119,7 +118,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-04-13T01:27:18.543192"
+      "crawled_at": "2026-04-13T07:46:37.456598"
     },
     {
       "source": "theverge",
@@ -132,72 +131,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.543232"
+      "crawled_at": "2026-04-13T07:46:37.456635"
     },
     {
       "source": "hackernews",
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "summary": "Article URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\nComments URL: https://news.ycombinator.com/item?id=47745284\nPoints: 35\n# Comments: 38",
-      "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "published": "Sun, 12 Apr 2026 22:38:45 +0000",
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "summary": "Article URL: https://www.viktorcessan.com/the-economics-of-software-teams/\nComments URL: https://news.ycombinator.com/item?id=47748064\nPoints: 62\n# Comments: 24",
+      "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "published": "Mon, 13 Apr 2026 05:45:32 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:18.805508"
+      "crawled_at": "2026-04-13T07:46:37.927464"
     },
     {
       "source": "hackernews",
-      "title": "Tech valuations are back to pre-AI boom levels",
-      "summary": "Article URL: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels\nComments URL: https://news.ycombinator.com/item?id=47745120\nPoints: 101\n# Comments: 16",
-      "link": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-      "published": "Sun, 12 Apr 2026 22:13:22 +0000",
+      "title": "X Randomly Banning Users for \"Inauthentic Behavior\"",
+      "summary": "Article URL: https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/\nComments URL: https://news.ycombinator.com/item?id=47748036\nPoints: 40\n# Comments: 30",
+      "link": "https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/",
+      "published": "Mon, 13 Apr 2026 05:39:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T07:46:37.927510"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Canonical Generalization of OBDD",
+      "summary": "Article URL: https://arxiv.org/abs/2604.05537\nComments URL: https://news.ycombinator.com/item?id=47747595\nPoints: 8\n# Comments: 2",
+      "link": "https://arxiv.org/abs/2604.05537",
+      "published": "Mon, 13 Apr 2026 04:26:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T07:46:37.927543"
+    },
+    {
+      "source": "hackernews",
+      "title": "Haunt, the 70s text adventure game, is now playable on a website",
+      "summary": "Article URL: https://haunt.madebywindmill.com\nComments URL: https://news.ycombinator.com/item?id=47747248\nPoints: 52\n# Comments: 14",
+      "link": "https://haunt.madebywindmill.com",
+      "published": "Mon, 13 Apr 2026 03:31:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T07:46:37.927576"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "summary": "Article URL: https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end\nComments URL: https://news.ycombinator.com/item?id=47747017\nPoints: 150\n# Comments: 135",
+      "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "published": "Mon, 13 Apr 2026 02:53:10 +0000",
       "keywords": [
         "AI",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.805548"
-    },
-    {
-      "source": "hackernews",
-      "title": "A Perfectable Programming Language",
-      "summary": "Article URL: https://alok.github.io/lean-pages/perfectable-lean/\nComments URL: https://news.ycombinator.com/item?id=47744540\nPoints: 44\n# Comments: 8",
-      "link": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "published": "Sun, 12 Apr 2026 21:11:24 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-13T01:27:18.805580"
-    },
-    {
-      "source": "hackernews",
-      "title": "Uncharted island soon to appear on nautical charts",
-      "summary": "Article URL: https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html\nComments URL: https://news.ycombinator.com/item?id=47744132\nPoints: 38\n# Comments: 14",
-      "link": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
-      "published": "Sun, 12 Apr 2026 20:30:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T01:27:18.805620"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "summary": "Article URL: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t\nComments URL: https://news.ycombinator.com/item?id=47743730\nPoints: 287\n# Comments: 132",
-      "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "published": "Sun, 12 Apr 2026 19:53:08 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T01:27:18.805655"
+      "crawled_at": "2026-04-13T07:46:37.927603"
     },
     {
       "source": "arstechnica",
@@ -210,7 +206,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.969312"
+      "crawled_at": "2026-04-13T07:46:38.024833"
     },
     {
       "source": "arstechnica",
@@ -226,7 +222,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.969352"
+      "crawled_at": "2026-04-13T07:46:38.024869"
     },
     {
       "source": "arstechnica",
@@ -239,7 +235,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:18.969380"
+      "crawled_at": "2026-04-13T07:46:38.024896"
     },
     {
       "source": "arstechnica",
@@ -251,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:18.969410"
+      "crawled_at": "2026-04-13T07:46:38.024925"
     },
     {
       "source": "arstechnica",
@@ -263,7 +259,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:18.969431"
+      "crawled_at": "2026-04-13T07:46:38.024945"
     },
     {
       "source": "wired",
@@ -276,7 +272,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:19.136477"
+      "crawled_at": "2026-04-13T07:46:38.119358"
     },
     {
       "source": "wired",
@@ -289,7 +285,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T01:27:19.136513"
+      "crawled_at": "2026-04-13T07:46:38.119410"
     },
     {
       "source": "wired",
@@ -301,7 +297,7 @@
         "Microsoft"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-04-13T01:27:19.136548"
+      "crawled_at": "2026-04-13T07:46:38.119445"
     },
     {
       "source": "wired",
@@ -313,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:19.136584"
+      "crawled_at": "2026-04-13T07:46:38.119480"
     },
     {
       "source": "wired",
@@ -325,7 +321,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T01:27:19.136616"
+      "crawled_at": "2026-04-13T07:46:38.119512"
     }
   ]
 }
