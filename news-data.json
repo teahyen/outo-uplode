@@ -1,202 +1,237 @@
 {
-  "last_updated": "2026-04-13T12:59:18.362724",
+  "last_updated": "2026-04-13T18:59:52.799646",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
-      "summary": "Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" account.",
-      "link": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
-      "published": "Mon, 13 Apr 2026 12:15:00 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T12:59:16.662870"
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "published": "Mon, 13 Apr 2026 18:55:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:50.138968"
     },
     {
       "source": "techcrunch",
-      "title": "The largest orbital compute cluster is open for business",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "published": "Mon, 13 Apr 2026 07:01:00 +0000",
+      "title": "FBI announces takedown of phishing operation that targeted thousands of victims",
+      "summary": "Cybercriminals allegedly used the W3LL phishing kit to target more than 17,000 victims worldwide, stealing their passwords and multi-factor authentication codes.",
+      "link": "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/",
+      "published": "Mon, 13 Apr 2026 18:41:50 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-04-13T12:59:16.662918"
+      "category": "Programming",
+      "crawled_at": "2026-04-13T18:59:50.139013"
     },
     {
       "source": "techcrunch",
-      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "published": "Sun, 12 Apr 2026 21:14:38 +0000",
+      "title": "Booking.com confirms hackers accessed customers’ data",
+      "summary": "The travel giant notified customers that their personal data, including names, emails, email addresses, and phone numbers may have been accessed in a security incident.",
+      "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
+      "published": "Mon, 13 Apr 2026 17:02:31 +0000",
       "keywords": [
         "AI",
+        "Security",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:50.139051"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference.",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "published": "Mon, 13 Apr 2026 15:22:29 +0000",
+      "keywords": [
+        "AI",
+        "IPO"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:50.139078"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hack at Anodot leaves over a dozen breached companies facing extortion",
+      "summary": "The data breach at Anodot, which affects customers like Rockstar Games, is the latest hack aimed at stealing data from a large number of corporate giants.",
+      "link": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/",
+      "published": "Mon, 13 Apr 2026 14:46:36 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:50.139105"
+    },
+    {
+      "source": "theverge",
+      "title": "The Apple Watch Series 11 has returned to best-ever price",
+      "summary": "If you’re still holding onto an older Apple Watch, now might be a good time to upgrade. Right now, the 42mm Apple Watch Series 11 with GPS is on sale for around $299 ($100 off) at Amazon, Best Buy, and Target, which is its best price to date. If you prefer a larger size, the [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
+      "published": "2026-04-13T14:48:17-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-13T18:59:50.337000"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
+      "summary": "Microsoft's new Xbox chief, Asha Sharma, has signaled that Xbox Game Pass pricing is about to change. In an internal memo to Xbox employees, obtained by The Verge, Sharma admits that \"Game Pass has become too expensive for players\" and that Microsoft needs \"a better value equation.\" \"Game Pass is ce",
+      "link": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+      "published": "2026-04-13T13:39:51-04:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:50.337058"
+    },
+    {
+      "source": "theverge",
+      "title": "You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts",
+      "summary": "If you're having trouble deciding on a color for a new MacBook Neo, you might not have to choose just one. The folks over at MacWorld found that Apple doesn't appear to limit the colors of spare parts you can buy for your Neo, potentially allowing you to deck out your indigo laptop with pink-tinted ",
+      "link": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
+      "published": "2026-04-13T13:08:31-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-13T18:59:50.337105"
+    },
+    {
+      "source": "theverge",
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a mo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "published": "2026-04-13T12:21:08-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
         "Anthropic",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:16.662953"
+      "crawled_at": "2026-04-13T18:59:50.337151"
     },
     {
-      "source": "techcrunch",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T12:59:16.662987"
-    },
-    {
-      "source": "techcrunch",
-      "title": "X says it’s reducing payments to clickbait accounts",
-      "summary": "X is cutting back on payments to accounts that are “flooding the timeline” with clickbait and rapid-fire news aggregation, according to its head of product Nikita Bier",
-      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-      "published": "Sun, 12 Apr 2026 17:02:20 +0000",
+      "source": "theverge",
+      "title": "Slate raises $650 million to make its budget electric truck",
+      "summary": "Slate Auto, the EV startup backed by Jeff Bezos, raised $650 million to fund its effort to build an affordable electric pickup truck expected to start in the mid-$20,000s. The company plans on delivering its first EV later this year. The Series C round was led by TWG Global, headed by Guggenheim Par",
+      "link": "https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos",
+      "published": "2026-04-13T11:45:46-04:00",
       "keywords": [
         "AI",
-        "API",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:16.663022"
-    },
-    {
-      "source": "theverge",
-      "title": "Roblox will need age verification to make sure you’re at least 9 years old",
-      "summary": "Roblox is about to make a big change to how you can access games on its platform: If you want to play any game that's intended for users nine or older, you will have to complete an age verification process. The shift is happening as part of a rollout of new Roblox Kids and Roblox [&#8230;]",
-      "link": "https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts",
-      "published": "2026-04-13T08:15:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T12:59:16.760309"
-    },
-    {
-      "source": "theverge",
-      "title": "Roblox has games again",
-      "summary": "Roblox is making a subtle but notable change. After swapping the word \"game\" for \"experience\" all over its website and mobile apps in 2021 while the Epic Games v. Apple trial was taking place, Roblox is getting more comfortable with using the term \"games\" once again. \"Over time, we've learned that '",
-      "link": "https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections",
-      "published": "2026-04-13T08:15:00-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:16.760355"
-    },
-    {
-      "source": "theverge",
-      "title": "Did Neuralink make the wrong bet?",
-      "summary": "Elon Musk promised Neuralink would bring superhuman abilities and minds merged with AI. Then he fueled a runaway hype train for his brain implant technology, which ended up with a grisly record for implants in monkeys and some success with human subjects. But for all of the hype, he's still further ",
-      "link": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
-      "published": "2026-04-13T07:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:16.760388"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
-      "summary": "Microsoft has started testing its own virtual mouse cursor inside its Xbox mode for Windows-based handhelds. The new Gamepad Cursor option provides a quick way to turn the left stick of a handheld like the Xbox Ally X into a virtual mouse. While Asus has its own cursor as part of Armory Crate, Micro",
-      "link": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
-      "published": "2026-04-13T06:29:17-04:00",
-      "keywords": [
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-13T12:59:16.760433"
-    },
-    {
-      "source": "theverge",
-      "title": "Sam Altman reportedly targeted in second attack",
-      "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, ci",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-      "published": "2026-04-13T05:25:57-04:00",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T12:59:16.760479"
+      "crawled_at": "2026-04-13T18:59:50.337185"
     },
     {
       "source": "hackernews",
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "summary": "Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/\nComments URL: https://news.ycombinator.com/item?id=47751032\nPoints: 5\n# Comments: 0",
-      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-      "published": "Mon, 13 Apr 2026 12:29:39 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.083114"
-    },
-    {
-      "source": "hackernews",
-      "title": "I went to America's worst national parks so you don't have to",
-      "summary": "Article URL: https://substack.com/home/post/p-193626949\nComments URL: https://news.ycombinator.com/item?id=47751029\nPoints: 26\n# Comments: 3",
-      "link": "https://substack.com/home/post/p-193626949",
-      "published": "Mon, 13 Apr 2026 12:29:35 +0000",
+      "title": "Austerity Creates Fascism",
+      "summary": "Article URL: https://pluralistic.net/2026/04/12/always-great/\nComments URL: https://news.ycombinator.com/item?id=47756081\nPoints: 7\n# Comments: 1",
+      "link": "https://pluralistic.net/2026/04/12/always-great/",
+      "published": "Mon, 13 Apr 2026 18:29:37 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T12:59:18.083159"
+      "crawled_at": "2026-04-13T18:59:52.497925"
     },
     {
       "source": "hackernews",
-      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "summary": "Article URL: https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html\nComments URL: https://news.ycombinator.com/item?id=47750821\nPoints: 8\n# Comments: 2",
-      "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-      "published": "Mon, 13 Apr 2026 12:05:35 +0000",
+      "title": "Evaluation of Claude Mythos Preview's cyber capabilities",
+      "summary": "Article URL: https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\nComments URL: https://news.ycombinator.com/item?id=47755805\nPoints: 13\n# Comments: 5",
+      "link": "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities",
+      "published": "Mon, 13 Apr 2026 18:08:14 +0000",
       "keywords": [
         "AI",
-        "Git",
+        "Claude",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.083190"
+      "crawled_at": "2026-04-13T18:59:52.497966"
     },
     {
       "source": "hackernews",
-      "title": "Android now stops you sharing your location in photos",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/\nComments URL: https://news.ycombinator.com/item?id=47750669\nPoints: 72\n# Comments: 31",
-      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "published": "Mon, 13 Apr 2026 11:48:15 +0000",
+      "title": "'Yes to fields of wheat, no to fields of iron': how Denmark soured on solar",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections\nComments URL: https://news.ycombinator.com/item?id=47755734\nPoints: 24\n# Comments: 21",
+      "link": "https://www.theguardian.com/world/2026/mar/20/solar-power-renewable-energy-denmark-backlash-national-elections",
+      "published": "Mon, 13 Apr 2026 18:02:36 +0000",
       "keywords": [
-        "Android",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-13T12:59:18.083225"
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T18:59:52.498010"
     },
     {
       "source": "hackernews",
-      "title": "Point Cloud Allemansrätten",
-      "summary": "Article URL: https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/\nComments URL: https://news.ycombinator.com/item?id=47750259\nPoints: 6\n# Comments: 0",
-      "link": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
-      "published": "Mon, 13 Apr 2026 10:55:10 +0000",
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "summary": "Article URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\nComments URL: https://news.ycombinator.com/item?id=47755629\nPoints: 101\n# Comments: 27",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "published": "Mon, 13 Apr 2026 17:54:39 +0000",
       "keywords": [
-        "Git",
-        "Cloud",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-13T12:59:18.083262"
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T18:59:52.498050"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Rational Conclusion of Doomerism Is Violence",
+      "summary": "Article URL: https://www.campbellramble.ai/p/the-rational-conclusion\nComments URL: https://news.ycombinator.com/item?id=47754606\nPoints: 59\n# Comments: 78",
+      "link": "https://www.campbellramble.ai/p/the-rational-conclusion",
+      "published": "Mon, 13 Apr 2026 16:37:10 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:52.498079"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Slate Auto raises $650 million as production gets closer and closer",
+      "summary": "The Slate Truck will start in the \"mid-$20,000s\" when it goes on sale in late 2026.",
+      "link": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/",
+      "published": "Mon, 13 Apr 2026 14:35:29 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:52.631538"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "summary": "The Meta chief is personally involved in training and testing his animated AI.",
+      "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+      "published": "Mon, 13 Apr 2026 13:52:46 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:52.631569"
     },
     {
       "source": "arstechnica",
@@ -210,7 +245,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.243717"
+      "crawled_at": "2026-04-13T18:59:52.631600"
     },
     {
       "source": "arstechnica",
@@ -223,7 +258,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.243750"
+      "crawled_at": "2026-04-13T18:59:52.631622"
     },
     {
       "source": "arstechnica",
@@ -239,98 +274,71 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.243779"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The Artemis II mission has ended. Where does NASA go from here?",
-      "summary": "\"The work ahead is greater than the work behind us.\"",
-      "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-      "published": "Sat, 11 Apr 2026 03:24:21 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-13T12:59:18.243806"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Four astronauts are back home after a daring ride around the Moon",
-      "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
-      "link": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-      "published": "Sat, 11 Apr 2026 01:21:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-13T12:59:18.243835"
+      "crawled_at": "2026-04-13T18:59:52.631649"
     },
     {
       "source": "wired",
-      "title": "The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics",
-      "summary": "Water filters promise the moon—but only some back up their claims. Here are the best filtered-water pitchers for those who prefer their water free of heavy metals and forever chemicals.",
-      "link": "https://www.wired.com/story/best-water-filter-pitchers/",
-      "published": "Mon, 13 Apr 2026 11:37:00 +0000",
+      "title": "Staunch Trump Supporters Are Now Asking if He’s the Antichrist",
+      "summary": "The Iran war and a series of social media posts, including one depicting Trump as Jesus Christ, have some conservative commentators and fans suspecting the president may be the antichrist.",
+      "link": "https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist/",
+      "published": "Mon, 13 Apr 2026 17:17:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-13T18:59:52.799427"
+    },
+    {
+      "source": "wired",
+      "title": "Top iRestore Deals for Hair Growth and LED Therapy Devices",
+      "summary": "Today, iRestore is offering up to $900 off select devices and up to $1,550 off bundles.",
+      "link": "https://www.wired.com/story/irestore-anniversary-sale-2026/",
+      "published": "Mon, 13 Apr 2026 16:29:39 +0000",
+      "keywords": [
+        "AI",
+        "REST"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-13T18:59:52.799458"
+    },
+    {
+      "source": "wired",
+      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+      "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+      "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+      "published": "Mon, 13 Apr 2026 16:01:30 +0000",
       "keywords": [
         "AI",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.362452"
+      "crawled_at": "2026-04-13T18:59:52.799487"
     },
     {
       "source": "wired",
-      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
-      "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
-      "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
-      "published": "Mon, 13 Apr 2026 11:00:00 +0000",
+      "title": "What Is the Best Fitness Tracker in 2026? Garmin, Oura, More",
+      "summary": "With almost ten years of hands-on testing, WIRED knows what separates the best fitness trackers from the rest.",
+      "link": "https://www.wired.com/gallery/best-fitness-tracker/",
+      "published": "Mon, 13 Apr 2026 15:35:31 +0000",
       "keywords": [
+        "REST",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-13T12:59:18.362502"
+      "crawled_at": "2026-04-13T18:59:52.799516"
     },
     {
       "source": "wired",
-      "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
-      "summary": "Last April, a hacker hijacked crosswalk announcements to mimic Mark Zuckerberg and Elon Musk. Records obtained by WIRED reveal how unprepared local authorities were.",
-      "link": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
-      "published": "Mon, 13 Apr 2026 10:30:00 +0000",
+      "title": "You Should Be More Freaked Out by Shingles",
+      "summary": "The viral infection leaves millions with chronic pain, increased stroke risk, and lifelong nerve damage—yet vaccination rates remain dangerously low.",
+      "link": "https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/",
+      "published": "Mon, 13 Apr 2026 14:00:00 +0000",
       "keywords": [
-        "AI",
-        "Hack",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.362530"
-    },
-    {
-      "source": "wired",
-      "title": "AI Agents Are Coming for Your Dating Life",
-      "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
-      "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
-      "published": "Mon, 13 Apr 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.362558"
-    },
-    {
-      "source": "wired",
-      "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
-      "summary": "Bike shop mechanics have lost fingers and their shirts while repairing ebikes of dubious origins. Make sure yours is repairable and third-party certified.",
-      "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/",
-      "published": "Sun, 12 Apr 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-13T12:59:18.362582"
+      "crawled_at": "2026-04-13T18:59:52.799547"
     }
   ]
 }
