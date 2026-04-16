@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T01:27:35.426030",
+  "last_updated": "2026-04-16T07:17:44.586892",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.680693"
+      "crawled_at": "2026-04-16T07:17:38.517599"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "Tesla"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-16T01:27:34.680728"
+      "crawled_at": "2026-04-16T07:17:38.517635"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.680756"
+      "crawled_at": "2026-04-16T07:17:38.517662"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.680790"
+      "crawled_at": "2026-04-16T07:17:38.517696"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.680815"
+      "crawled_at": "2026-04-16T07:17:38.517725"
     },
     {
       "source": "theverge",
@@ -83,7 +83,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-16T01:27:34.768196"
+      "crawled_at": "2026-04-16T07:17:38.727918"
     },
     {
       "source": "theverge",
@@ -98,7 +98,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-16T01:27:34.768261"
+      "crawled_at": "2026-04-16T07:17:38.727982"
     },
     {
       "source": "theverge",
@@ -111,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.768302"
+      "crawled_at": "2026-04-16T07:17:38.728023"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:34.768352"
+      "crawled_at": "2026-04-16T07:17:38.728072"
     },
     {
       "source": "theverge",
@@ -137,69 +137,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:34.768384"
+      "crawled_at": "2026-04-16T07:17:38.728105"
     },
     {
       "source": "hackernews",
-      "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
-      "summary": "Article URL: https://zenodo.org/records/19600206\nComments URL: https://news.ycombinator.com/item?id=47786836\nPoints: 6\n# Comments: 1",
-      "link": "https://zenodo.org/records/19600206",
-      "published": "Wed, 15 Apr 2026 23:42:06 +0000",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead\nComments URL: https://news.ycombinator.com/item?id=47789607\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+      "published": "Thu, 16 Apr 2026 07:01:29 +0000",
       "keywords": [
         "AI",
-        "Neural Network",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:35.216704"
+      "crawled_at": "2026-04-16T07:17:44.147632"
     },
     {
       "source": "hackernews",
-      "title": "YouTube now lets you turn off Shorts",
-      "summary": "Article URL: https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes\nComments URL: https://news.ycombinator.com/item?id=47786791\nPoints: 112\n# Comments: 47",
-      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "published": "Wed, 15 Apr 2026 23:36:56 +0000",
+      "title": "Sal Khan's AI revolution hasn't happened yet",
+      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/\nComments URL: https://news.ycombinator.com/item?id=47788845\nPoints: 40\n# Comments: 42",
+      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "published": "Thu, 16 Apr 2026 05:05:44 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T07:17:44.147668"
+    },
+    {
+      "source": "hackernews",
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+      "summary": "Full disclosure - I formerly worked for Grafana Labs.The size of this Grafana Mimir deployment would rank it in the top echelon of customers. The irony is that this may be a $0 revenue user for Grafana Labs.\n\nComments URL: https://news.ycombinator.com/item?id=47788818\nPoints: 24\n# Comments: 6",
+      "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "published": "Thu, 16 Apr 2026 05:01:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.216747"
+      "crawled_at": "2026-04-16T07:17:44.147714"
     },
     {
       "source": "hackernews",
-      "title": "I made a terminal pager",
-      "summary": "Article URL: https://theleo.zone/posts/pager/\nComments URL: https://news.ycombinator.com/item?id=47786164\nPoints: 53\n# Comments: 8",
-      "link": "https://theleo.zone/posts/pager/",
-      "published": "Wed, 15 Apr 2026 22:27:54 +0000",
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "summary": "Article URL: https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service\nComments URL: https://news.ycombinator.com/item?id=47788633\nPoints: 25\n# Comments: 3",
+      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "published": "Thu, 16 Apr 2026 04:22:56 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.216779"
+      "crawled_at": "2026-04-16T07:17:44.147751"
     },
     {
       "source": "hackernews",
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "summary": "Article URL: https://www.bbc.com/news/technology-39576394\nComments URL: https://news.ycombinator.com/item?id=47785948\nPoints: 53\n# Comments: 36",
-      "link": "https://www.bbc.com/news/technology-39576394",
-      "published": "Wed, 15 Apr 2026 22:05:44 +0000",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "summary": "Article URL: https://darkbloom.dev\nComments URL: https://news.ycombinator.com/item?id=47788542\nPoints: 138\n# Comments: 74",
+      "link": "https://darkbloom.dev",
+      "published": "Thu, 16 Apr 2026 04:06:39 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.216813"
-    },
-    {
-      "source": "hackernews",
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "summary": "Article URL: https://www.mcdonalds.co.jp/en/menu/burger/\nComments URL: https://news.ycombinator.com/item?id=47785738\nPoints: 203\n# Comments: 122",
-      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "published": "Wed, 15 Apr 2026 21:48:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.216847"
+      "crawled_at": "2026-04-16T07:17:44.147792"
     },
     {
       "source": "arstechnica",
@@ -211,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.312368"
+      "crawled_at": "2026-04-16T07:17:44.342886"
     },
     {
       "source": "arstechnica",
@@ -223,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.312403"
+      "crawled_at": "2026-04-16T07:17:44.342921"
     },
     {
       "source": "arstechnica",
@@ -236,7 +237,7 @@
         "Database"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.312431"
+      "crawled_at": "2026-04-16T07:17:44.342949"
     },
     {
       "source": "arstechnica",
@@ -250,7 +251,7 @@
         "Windows"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-16T01:27:35.312457"
+      "crawled_at": "2026-04-16T07:17:44.342974"
     },
     {
       "source": "arstechnica",
@@ -264,75 +265,63 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:35.312486"
+      "crawled_at": "2026-04-16T07:17:44.343003"
     },
     {
       "source": "wired",
-      "title": "‘Avatar: Aang, The Last Airbender’ Leaked Online. Some Fans Say Paramount Deserves the Fallout",
-      "summary": "After the full movie leaked, animators mourned the chance to release their work as intended. Others feel the leak is justified in light of Paramount’s marketing blunders and association with Trump.",
-      "link": "https://www.wired.com/story/the-last-airbender-leak-fans-say-paramount-deserves-fallout/",
-      "published": "Wed, 15 Apr 2026 22:53:44 +0000",
+      "title": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "link": "https://www.wired.com/story/birdfy-discount-code/",
+      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:35.425800"
+      "category": "Programming",
+      "crawled_at": "2026-04-16T07:17:44.586544"
     },
     {
       "source": "wired",
-      "title": "NASA Wants to Put Nuclear Reactors on the Moon",
-      "summary": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
-      "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
-      "published": "Wed, 15 Apr 2026 18:55:52 +0000",
-      "keywords": [
-        "React",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.425841"
-    },
-    {
-      "source": "wired",
-      "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-      "summary": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-      "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-      "published": "Wed, 15 Apr 2026 18:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T01:27:35.425866"
-    },
-    {
-      "source": "wired",
-      "title": "Microsoft Surface PCs Are Getting Big Price Hikes, and the Cheaper Models Are Going Away",
-      "summary": "The price increases range from $200 to $300, and Microsoft doesn’t sell a sub-$1,000 Surface anymore. The rising cost of consumer tech is a common theme in 2026.",
-      "link": "https://www.wired.com/story/microsoft-surface-price-hikes-cheaper-models-going-away/",
-      "published": "Wed, 15 Apr 2026 17:28:30 +0000",
+      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
       "keywords": [
         "Go",
-        "Microsoft",
+        "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-16T01:27:35.425908"
+      "category": "Programming",
+      "crawled_at": "2026-04-16T07:17:44.586600"
     },
     {
       "source": "wired",
-      "title": "Why Amazon Is Buying Globalstar—and What It Means for Your iPhone",
-      "summary": "Amazon is paying more than $11 billion for a small satellite company.",
-      "link": "https://www.wired.com/story/why-amazon-is-buying-globalstar-and-what-it-means-for-your-iphone/",
-      "published": "Wed, 15 Apr 2026 16:19:40 +0000",
-      "keywords": [
-        "Amazon",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-16T01:27:35.425937"
+      "title": "50% Off Home Depot Promo Codes | April 2026",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this April.",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-16T07:17:44.586639"
+    },
+    {
+      "source": "wired",
+      "title": "Therabody Promo Codes: 15% Off April 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-16T07:17:44.586693"
+    },
+    {
+      "source": "wired",
+      "title": "50% Off DoorDash Promo Code | April 2026",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-16T07:17:44.586739"
     }
   ]
 }
