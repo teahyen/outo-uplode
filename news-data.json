@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-04-16T07:17:44.586892",
+  "last_updated": "2026-04-16T13:03:27.403105",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Canva’s AI assistant can now call various tools to make designs for you",
+      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "published": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T13:03:26.717696"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Fashion retailer Express left customers’ personal data and order details exposed to the internet",
+      "summary": "Retail giant Express was publicly spilling customer information to the open web. The bug is now fixed after TechCrunch alerted Express, but the company would not say if it plans to notify customers.",
+      "link": "https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/",
+      "published": "Thu, 16 Apr 2026 12:39:56 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T13:03:26.717734"
+    },
+    {
+      "source": "techcrunch",
+      "title": "This simulation startup wants to be the Cursor for physical AI",
+      "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "published": "Thu, 16 Apr 2026 12:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T13:03:26.717755"
+    },
+    {
+      "source": "techcrunch",
+      "title": "DeepL, known for text translation, now wants to translate your voice",
+      "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
+      "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+      "published": "Thu, 16 Apr 2026 08:00:00 +0000",
+      "keywords": [
+        "Microsoft"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:26.717781"
+    },
     {
       "source": "techcrunch",
       "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
@@ -16,191 +67,153 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.517599"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Ford EV and tech chief leaving automaker",
-      "summary": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
-      "link": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
-      "published": "Wed, 15 Apr 2026 21:52:05 +0000",
-      "keywords": [
-        "Apple",
-        "Tesla"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-16T07:17:38.517635"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Wait, could they still actually break up Live Nation?",
-      "summary": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
-      "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
-      "published": "Wed, 15 Apr 2026 21:38:09 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.517662"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
-      "summary": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly.",
-      "link": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
-      "published": "Wed, 15 Apr 2026 21:05:21 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.517696"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.517725"
+      "crawled_at": "2026-04-16T13:03:26.717800"
     },
     {
       "source": "theverge",
-      "title": "YouTube now lets you turn off Shorts",
-      "summary": "YouTube's time management settings now have an option to put a zero-minute time limit on Shorts, effectively removing them from your app in Android and iOS. The option is an update to the Shorts timer YouTube originally announced in October; the lowest previous option was 15 minutes. The feature was",
-      "link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "published": "2026-04-15T18:18:36-04:00",
+      "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
+      "summary": "Meta is the next tech company to hike up hardware prices due to the global memory shortage. Beginning April 19th, Meta's 128GB Quest 3S VR headset will cost $349.99, the 256GB Quest 3S will cost $449.99, and the Quest 3 will cost $599.99. Those are increases of $50 for both Quest 3S models and $100 ",
+      "link": "https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage",
+      "published": "2026-04-16T09:00:00-04:00",
       "keywords": [
-        "Android",
-        "iOS",
+        "Meta",
+        "VR",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-16T07:17:38.727918"
+      "category": "Hardware",
+      "crawled_at": "2026-04-16T13:03:26.776585"
     },
     {
       "source": "theverge",
-      "title": "Ford’s EV and software chief Doug Field is leaving the company",
-      "summary": "Ford is shaking things up as it relates to its EV and software teams. Doug Field, who left Apple five years ago to helm Ford's multibillion-dollar bet on electric vehicles and software, is stepping down next month. Getting a promotion will be Alan Clarke, the ex-Tesla engineer who now leads Ford's C",
-      "link": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
-      "published": "2026-04-15T16:05:00-04:00",
+      "title": "Intel&#8217;s cheaper Panther Lake chips are for budget-friendly laptops",
+      "summary": "Intel is announcing a family of cheaper Panther Lake laptop processors called the Core Series 3 line. They're built on the same Intel 18A process as the higher-end Core Ultra Series 3 family of chips, but they have less of just about everything spec-wise. The Core Series 3 (non-Ultra) line encompass",
+      "link": "https://www.theverge.com/tech/913026/intel-core-series-3-panther-lake-18a-budget-chips-specs",
+      "published": "2026-04-16T09:00:00-04:00",
       "keywords": [
-        "Go",
-        "Apple",
-        "Tesla",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-16T07:17:38.727982"
+      "category": "Hardware",
+      "crawled_at": "2026-04-16T13:03:26.776631"
     },
     {
       "source": "theverge",
-      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. ",
-      "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-      "published": "2026-04-15T15:50:31-04:00",
+      "title": "DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos",
+      "summary": "Following months of leaks, DJI has announced the fourth version of its handheld stabilized vlogger camera. Unlike the Osmo Pocket 3 that debuted way back in September 2023 with major upgrades like a 1-inch sensor and a larger rotating touchscreen, the new Osmo Pocket 4 features similar hardware with",
+      "link": "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion",
+      "published": "2026-04-16T08:00:00-04:00",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.728023"
+      "category": "Hardware",
+      "crawled_at": "2026-04-16T13:03:26.776684"
     },
     {
       "source": "theverge",
-      "title": "Ticketmaster is an illegal monopoly, jury finds",
-      "summary": "Live Nation-Ticketmaster is an illegal monopolist, a Manhattan jury found, according to Bloomberg. The jury found the company liable on three counts: illegally monopolizing the market for live event ticketing, amphitheaters, and tying its concert promotions business with the use of its venues, Bloom",
-      "link": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
-      "published": "2026-04-15T15:09:17-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:38.728072"
-    },
-    {
-      "source": "theverge",
-      "title": "FTC pushes ad agencies into dropping brand safety rules",
-      "summary": "The Federal Trade Commission (FTC) and a group of eight states have announced a proposed settlement with big ad agencies that will prevent them from working together to avoid certain platforms like X based on their political viewpoints. In a complaint, the FTC argues that ad agencies violated antitr",
-      "link": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
-      "published": "2026-04-15T15:00:23-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:38.728105"
-    },
-    {
-      "source": "hackernews",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead\nComments URL: https://news.ycombinator.com/item?id=47789607\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "published": "Thu, 16 Apr 2026 07:01:29 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:44.147632"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sal Khan's AI revolution hasn't happened yet",
-      "summary": "Article URL: https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/\nComments URL: https://news.ycombinator.com/item?id=47788845\nPoints: 40\n# Comments: 42",
-      "link": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-      "published": "Thu, 16 Apr 2026 05:05:44 +0000",
+      "title": "Govee’s new LED Lightwall comes with its own self-standing frame",
+      "summary": "Govee has announced an upgraded version of its hanging Curtain Lights Pro that can instead be used nearly anywhere you have access to an outlet or large battery. At $449.99, Govee's new Lightwall is more than twice as expensive as the $199.99 Curtain Lights Pro, but comes with more LEDs in a denser ",
+      "link": "https://www.theverge.com/tech/912668/govee-lightwall-color-changing-led-aluminum-frame-smart-home",
+      "published": "2026-04-16T08:00:00-04:00",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:44.147668"
+      "crawled_at": "2026-04-16T13:03:26.776719"
+    },
+    {
+      "source": "theverge",
+      "title": "Spotify just won $322 million from music pirates it can&#8217;t find",
+      "summary": "Spotify and the three major labels have won a $322 million default judgement against Anna's Archive, the open-source library and pirate activist group that planned to publicly release millions of music files scraped from Spotify's platform. The judgment comes after the unknown operator of Anna's Arc",
+      "link": "https://www.theverge.com/policy/913007/spotify-annas-archive-music-scraping-lawsuit-judgement",
+      "published": "2026-04-16T07:27:42-04:00",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T13:03:26.776748"
     },
     {
       "source": "hackernews",
-      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "summary": "Full disclosure - I formerly worked for Grafana Labs.The size of this Grafana Mimir deployment would rank it in the top echelon of customers. The irony is that this may be a $0 revenue user for Grafana Labs.\n\nComments URL: https://news.ycombinator.com/item?id=47788818\nPoints: 24\n# Comments: 6",
-      "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "published": "Thu, 16 Apr 2026 05:01:05 +0000",
+      "title": "Show HN: 48 absurd web projects – one every month",
+      "summary": "A year ago I posted here about a small experiment:\nhttps://news.ycombinator.com/item?id=44162363I build one absurd web project every month and publish it on https://absurd.websiteI kept going.There are now 48 projects.The idea is still the same - I build mostly unnecessary web projects that sit some",
+      "link": "https://news.ycombinator.com/item?id=47792026",
+      "published": "Thu, 16 Apr 2026 12:29:33 +0000",
+      "keywords": [
+        "Go",
+        "REST",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-16T13:03:27.196569"
+    },
+    {
+      "source": "hackernews",
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "summary": "Article URL: https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262\nComments URL: https://news.ycombinator.com/item?id=47791871\nPoints: 99\n# Comments: 58",
+      "link": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "published": "Thu, 16 Apr 2026 12:13:30 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "API",
+        "REST",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-16T13:03:27.196612"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple accelerates eco progress with highest-ever recycled materials",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/\nComments URL: https://news.ycombinator.com/item?id=47791855\nPoints: 5\n# Comments: 1",
+      "link": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+      "published": "Thu, 16 Apr 2026 12:11:17 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-16T13:03:27.196647"
+    },
+    {
+      "source": "hackernews",
+      "title": "The noise we make is hurting animals. Can we learn to shut up?",
+      "summary": "Article URL: https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/\nComments URL: https://news.ycombinator.com/item?id=47791507\nPoints: 28\n# Comments: 24",
+      "link": "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
+      "published": "Thu, 16 Apr 2026 11:25:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.147714"
+      "crawled_at": "2026-04-16T13:03:27.196679"
     },
     {
       "source": "hackernews",
-      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-      "summary": "Article URL: https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service\nComments URL: https://news.ycombinator.com/item?id=47788633\nPoints: 25\n# Comments: 3",
-      "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-      "published": "Thu, 16 Apr 2026 04:22:56 +0000",
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+      "summary": "Article URL: https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf\nComments URL: https://news.ycombinator.com/item?id=47791282\nPoints: 28\n# Comments: 5",
+      "link": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+      "published": "Thu, 16 Apr 2026 10:57:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.147751"
+      "crawled_at": "2026-04-16T13:03:27.196713"
     },
     {
-      "source": "hackernews",
-      "title": "Darkbloom – Private inference on idle Macs",
-      "summary": "Article URL: https://darkbloom.dev\nComments URL: https://news.ycombinator.com/item?id=47788542\nPoints: 138\n# Comments: 74",
-      "link": "https://darkbloom.dev",
-      "published": "Thu, 16 Apr 2026 04:06:39 +0000",
+      "source": "arstechnica",
+      "title": "The race to Shackleton Crater is on—will Jeff Bezos or China get there first?",
+      "summary": "US and Chinese landers could be operating in close proximity on the Moon later this year.",
+      "link": "https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/",
+      "published": "Thu, 16 Apr 2026 11:00:26 +0000",
       "keywords": [
+        "Hack",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.147792"
+      "category": "Security",
+      "crawled_at": "2026-04-16T13:03:27.315438"
     },
     {
       "source": "arstechnica",
@@ -212,7 +225,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.342886"
+      "crawled_at": "2026-04-16T13:03:27.315478"
     },
     {
       "source": "arstechnica",
@@ -224,7 +237,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.342921"
+      "crawled_at": "2026-04-16T13:03:27.315502"
     },
     {
       "source": "arstechnica",
@@ -237,7 +250,7 @@
         "Database"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-16T07:17:44.342949"
+      "crawled_at": "2026-04-16T13:03:27.315523"
     },
     {
       "source": "arstechnica",
@@ -251,77 +264,67 @@
         "Windows"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-16T07:17:44.342974"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
-      "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-      "published": "Wed, 15 Apr 2026 19:34:33 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-16T07:17:44.343003"
+      "crawled_at": "2026-04-16T13:03:27.315543"
     },
     {
       "source": "wired",
-      "title": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
-      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-      "link": "https://www.wired.com/story/birdfy-discount-code/",
-      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
+      "title": "Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown",
+      "summary": "Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hardline immigration enforcement agenda.",
+      "link": "https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/",
+      "published": "Thu, 16 Apr 2026 13:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-04-16T07:17:44.586544"
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:27.402925"
     },
     {
       "source": "wired",
-      "title": "Google Workspace Promo Code: Up to 14% Off in 2026",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "link": "https://www.wired.com/story/google-workspace-promo-code/",
-      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
+      "title": "The 10 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
+      "summary": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
+      "link": "https://www.wired.com/gallery/best-magsafe-grips/",
+      "published": "Thu, 16 Apr 2026 12:30:00 +0000",
       "keywords": [
-        "Go",
-        "Google",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-04-16T07:17:44.586600"
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:27.402957"
     },
     {
       "source": "wired",
-      "title": "50% Off Home Depot Promo Codes | April 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this April.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-16T07:17:44.586639"
+      "title": "Smart Plug Guide (2026): When You Should and Shouldn’t Use One",
+      "summary": "Smart plugs can add controls to any outlet, but they aren’t perfect for everything. Here’s our guide to using one and which ones to buy.",
+      "link": "https://www.wired.com/story/do-you-need-a-smart-plug/",
+      "published": "Thu, 16 Apr 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:27.402990"
     },
     {
       "source": "wired",
-      "title": "Therabody Promo Codes: 15% Off April 2026",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-16T07:17:44.586693"
+      "title": "LG Sound Suite Review: Big Sound for Larger Rooms",
+      "summary": "The Dolby Atmos soundbar setup rivals the best from Samsung and Sonos.",
+      "link": "https://www.wired.com/review/lg-sound-suite-2026/",
+      "published": "Thu, 16 Apr 2026 11:33:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:27.403012"
     },
     {
       "source": "wired",
-      "title": "50% Off DoorDash Promo Code | April 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "published": "Thu, 16 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-16T07:17:44.586739"
+      "title": "Best MacBook Accessories (2026): Chargers, Covers, Keyboards, and More",
+      "summary": "From charging adapters to external monitors, I’ve gathered the absolute best peripherals for your MacBook.",
+      "link": "https://www.wired.com/gallery/best-macbook-accessories/",
+      "published": "Thu, 16 Apr 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-16T13:03:27.403041"
     }
   ]
 }
