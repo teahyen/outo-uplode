@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-17T01:25:07.912380",
+  "last_updated": "2026-04-17T07:17:55.787831",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
+      "summary": "The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.",
+      "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
+      "published": "Fri, 17 Apr 2026 02:55:06 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-17T07:17:55.019151"
+    },
     {
       "source": "techcrunch",
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.074948"
+      "crawled_at": "2026-04-17T07:17:55.019188"
     },
     {
       "source": "techcrunch",
@@ -27,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.074983"
+      "crawled_at": "2026-04-17T07:17:55.019216"
     },
     {
       "source": "techcrunch",
@@ -41,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.075016"
+      "crawled_at": "2026-04-17T07:17:55.019248"
     },
     {
       "source": "techcrunch",
@@ -55,22 +69,7 @@
         "Funding"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.075042"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-      "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "published": "Thu, 16 Apr 2026 20:26:44 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.075097"
+      "crawled_at": "2026-04-17T07:17:55.019274"
     },
     {
       "source": "theverge",
@@ -82,7 +81,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-17T01:25:05.187329"
+      "crawled_at": "2026-04-17T07:17:55.188526"
     },
     {
       "source": "theverge",
@@ -98,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.187374"
+      "crawled_at": "2026-04-17T07:17:55.188575"
     },
     {
       "source": "theverge",
@@ -113,7 +112,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.187407"
+      "crawled_at": "2026-04-17T07:17:55.188613"
     },
     {
       "source": "theverge",
@@ -126,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.187439"
+      "crawled_at": "2026-04-17T07:17:55.188647"
     },
     {
       "source": "theverge",
@@ -139,72 +138,82 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:05.187469"
+      "crawled_at": "2026-04-17T07:17:55.188682"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
-      "summary": "I built MCP servers for my oscilloscope and SPICE simulator so Claude Code can close the loop between simulation and real hardware.\n\nComments URL: https://news.ycombinator.com/item?id=47801255\nPoints: 6\n# Comments: 2",
-      "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "published": "Fri, 17 Apr 2026 00:37:47 +0000",
-      "keywords": [
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.595679"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
-      "summary": "Article URL: https://www.bbc.com/news/articles/clyrd818gd2o\nComments URL: https://news.ycombinator.com/item?id=47800839\nPoints: 107\n# Comments: 56",
-      "link": "https://www.bbc.com/news/articles/clyrd818gd2o",
-      "published": "Thu, 16 Apr 2026 23:29:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.595725"
-    },
-    {
-      "source": "hackernews",
-      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
-      "summary": "Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html\nComments URL: https://news.ycombinator.com/item?id=47800765\nPoints: 32\n# Comments: 24",
-      "link": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
-      "published": "Thu, 16 Apr 2026 23:17:47 +0000",
+      "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/\nComments URL: https://news.ycombinator.com/item?id=47802394\nPoints: 27\n# Comments: 5",
+      "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+      "published": "Fri, 17 Apr 2026 04:13:52 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.595757"
+      "crawled_at": "2026-04-17T07:17:55.472181"
     },
     {
       "source": "hackernews",
-      "title": "Everything we like is a psyop",
-      "summary": "Article URL: https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/\nComments URL: https://news.ycombinator.com/item?id=47800738\nPoints: 72\n# Comments: 34",
-      "link": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
-      "published": "Thu, 16 Apr 2026 23:15:33 +0000",
+      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+      "summary": "Article URL: https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day\nComments URL: https://news.ycombinator.com/item?id=47802330\nPoints: 40\n# Comments: 19",
+      "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+      "published": "Fri, 17 Apr 2026 03:59:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.595790"
+      "crawled_at": "2026-04-17T07:17:55.472251"
     },
     {
       "source": "hackernews",
-      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
-      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit\nComments URL: https://news.ycombinator.com/item?id=47800166\nPoints: 90\n# Comments: 16",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-      "published": "Thu, 16 Apr 2026 22:08:53 +0000",
+      "title": "Human Accelerated Region 1",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Human_accelerated_region_1\nComments URL: https://news.ycombinator.com/item?id=47802312\nPoints: 27\n# Comments: 3",
+      "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+      "published": "Fri, 17 Apr 2026 03:55:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T07:17:55.472304"
+    },
+    {
+      "source": "hackernews",
+      "title": "Discourse Is Not Going Closed Source",
+      "summary": "Article URL: https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/\nComments URL: https://news.ycombinator.com/item?id=47802233\nPoints: 82\n# Comments: 28",
+      "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "published": "Fri, 17 Apr 2026 03:36:26 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T07:17:55.472358"
+    },
+    {
+      "source": "hackernews",
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer\nComments URL: https://news.ycombinator.com/item?id=47802016\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "published": "Fri, 17 Apr 2026 02:53:16 +0000",
       "keywords": [
         "AI",
-        "AWS",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.595820"
+      "crawled_at": "2026-04-17T07:17:55.472401"
+    },
+    {
+      "source": "arstechnica",
+      "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+      "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+      "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+      "published": "Fri, 17 Apr 2026 03:15:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T07:17:55.618538"
     },
     {
       "source": "arstechnica",
@@ -216,7 +225,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.766708"
+      "crawled_at": "2026-04-17T07:17:55.618571"
     },
     {
       "source": "arstechnica",
@@ -226,7 +235,7 @@
       "published": "Thu, 16 Apr 2026 21:33:33 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.766744"
+      "crawled_at": "2026-04-17T07:17:55.618601"
     },
     {
       "source": "arstechnica",
@@ -241,7 +250,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.766765"
+      "crawled_at": "2026-04-17T07:17:55.618623"
     },
     {
       "source": "arstechnica",
@@ -254,85 +263,62 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.766793"
+      "crawled_at": "2026-04-17T07:17:55.618651"
     },
     {
-      "source": "arstechnica",
-      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-      "summary": "New tool builds on deepset’s Haystack toward a “decentralized open source AI ecosystem.”",
-      "link": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-      "published": "Thu, 16 Apr 2026 20:43:46 +0000",
+      "source": "wired",
+      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.766823"
+      "crawled_at": "2026-04-17T07:17:55.787552"
     },
     {
       "source": "wired",
-      "title": "Dark Matter May Be Made of Black Holes From Another Universe",
-      "summary": "A model of the cyclic universe suggests that dark matter could be a population of black holes predating the Big Bang.",
-      "link": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
-      "published": "Thu, 16 Apr 2026 19:50:02 +0000",
+      "title": "Nike Promo Codes and Deals: 30% Off",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-17T07:17:55.787583"
+    },
+    {
+      "source": "wired",
+      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary": "Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T07:17:55.787627"
+    },
+    {
+      "source": "wired",
+      "title": "50% Off Blue Apron Promo Codes | April 2026",
+      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+      "link": "https://www.wired.com/story/blue-apron-coupon/",
+      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-17T07:17:55.787653"
+    },
+    {
+      "source": "wired",
+      "title": "TopResume Free Review, Discounts & Packages for 2026",
+      "summary": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
+      "link": "https://www.wired.com/story/topresume-discount-code/",
+      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.912160"
-    },
-    {
-      "source": "wired",
-      "title": "Europe’s Online Age Verification App Is Here",
-      "summary": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
-      "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
-      "published": "Thu, 16 Apr 2026 18:54:20 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.912207"
-    },
-    {
-      "source": "wired",
-      "title": "The Online Fiction Boom Reimagining China’s History",
-      "summary": "Chinese fantasy novels reimagine the past with modern tech and ideology. A new book argues they also help reinforce authoritarian politics.",
-      "link": "https://www.wired.com/story/made-in-china-what-chinas-sci-fi-boom-is-really-selling/",
-      "published": "Thu, 16 Apr 2026 18:17:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T01:25:07.912248"
-    },
-    {
-      "source": "wired",
-      "title": "The Battle for OpenAI’s Soul",
-      "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here’s what to know.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "published": "Thu, 16 Apr 2026 18:00:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.912276"
-    },
-    {
-      "source": "wired",
-      "title": "The UK Launches Its $675 Million Sovereign AI Fund",
-      "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
-      "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
-      "published": "Thu, 16 Apr 2026 17:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T01:25:07.912300"
+      "crawled_at": "2026-04-17T07:17:55.787684"
     }
   ]
 }
