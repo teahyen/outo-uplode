@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T07:17:55.787831",
+  "last_updated": "2026-04-17T12:54:15.559957",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.019151"
+      "crawled_at": "2026-04-17T12:54:14.802787"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.019188"
+      "crawled_at": "2026-04-17T12:54:14.802826"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.019216"
+      "crawled_at": "2026-04-17T12:54:14.802853"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.019248"
+      "crawled_at": "2026-04-17T12:54:14.802887"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,34 @@
         "Funding"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.019274"
+      "crawled_at": "2026-04-17T12:54:14.802912"
+    },
+    {
+      "source": "theverge",
+      "title": "The creative software industry has declared war on Adobe",
+      "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. The Creative Cloud provider's suite of design tools have been considered the industry standard for decades - despite unpopular decisions to fully embrace generative AI and ab",
+      "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "published": "2026-04-17T08:51:16-04:00",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-17T12:54:14.982754"
+    },
+    {
+      "source": "theverge",
+      "title": "A giant cell tower is going to space this weekend",
+      "summary": "This weekend's scheduled Blue Origin rocket launch is rather momentous. Success would signal an end to SpaceX's monopoly on reusable orbital launch vehicles, and set up a three-way race to make that \"No Service\" indicator on your phone disappear forever. On Sunday morning, Jeff Bezos' massive New Gl",
+      "link": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
+      "published": "2026-04-17T07:25:37-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-17T12:54:14.982813"
     },
     {
       "source": "theverge",
@@ -81,7 +108,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-17T07:17:55.188526"
+      "crawled_at": "2026-04-17T12:54:14.982871"
     },
     {
       "source": "theverge",
@@ -97,12 +124,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.188575"
+      "crawled_at": "2026-04-17T12:54:14.982905"
     },
     {
       "source": "theverge",
       "title": "Ballmer gives $80 million to NPR, with strings attached",
-      "summary": "Connie Ballmer, wife of former Microsoft CEO Steve Ballmer and co-founder of the Ballmer Group, has given $80 million to NPR. That's roughly seven years' worth of government funding ($11.2m) after Trump and Congress cut funds for public media, but only a fraction of NPR's full annual budget of $300 ",
+      "summary": "Connie Ballmer, wife of former Microsoft CEO Steve Ballmer and cofounder of the Ballmer Group, has given $80 million to NPR. That's roughly seven years' worth of government funding ($11.2m) after Trump and Congress cut funds for public media, but only a fraction of NPR's full annual budget of $300 m",
       "link": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
       "published": "2026-04-16T16:30:55-04:00",
       "keywords": [
@@ -112,108 +139,94 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.188613"
-    },
-    {
-      "source": "theverge",
-      "title": "Netflix embraces vertical video with major mobile app update",
-      "summary": "Netflix announced on Thursday that it will be launching a redesigned mobile app, which will include a vertical video feed, at the end of April. \"This redesign will better reflect our expanding entertainment offering and make it easier for members to engage how and when they want,\" the company said i",
-      "link": "https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video",
-      "published": "2026-04-16T16:29:56-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.188647"
-    },
-    {
-      "source": "theverge",
-      "title": "Netflix cofounder Reed Hastings is officially leaving the company",
-      "summary": "Netflix cofounder and chairman Reed Hastings plans to leave the company after nearly 30 years. The news comes as part of Netflix's Q1 2026 earnings results released on Thursday, which says Hastings \"will not stand for re-election to our Board when his current term expires at the Annual Meeting in Ju",
-      "link": "https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026",
-      "published": "2026-04-16T16:23:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.188682"
+      "crawled_at": "2026-04-17T12:54:14.982940"
     },
     {
       "source": "hackernews",
-      "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/\nComments URL: https://news.ycombinator.com/item?id=47802394\nPoints: 27\n# Comments: 5",
-      "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
-      "published": "Fri, 17 Apr 2026 04:13:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.472181"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
-      "summary": "Article URL: https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day\nComments URL: https://news.ycombinator.com/item?id=47802330\nPoints: 40\n# Comments: 19",
-      "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
-      "published": "Fri, 17 Apr 2026 03:59:22 +0000",
+      "title": "Isaac Asimov: The Last Question",
+      "summary": "Article URL: https://hex.ooo/library/last_question.html\nComments URL: https://news.ycombinator.com/item?id=47804965\nPoints: 29\n# Comments: 4",
+      "link": "https://hex.ooo/library/last_question.html",
+      "published": "Fri, 17 Apr 2026 12:01:19 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.472251"
+      "crawled_at": "2026-04-17T12:54:15.250698"
     },
     {
       "source": "hackernews",
-      "title": "Human Accelerated Region 1",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Human_accelerated_region_1\nComments URL: https://news.ycombinator.com/item?id=47802312\nPoints: 27\n# Comments: 3",
-      "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
-      "published": "Fri, 17 Apr 2026 03:55:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.472304"
-    },
-    {
-      "source": "hackernews",
-      "title": "Discourse Is Not Going Closed Source",
-      "summary": "Article URL: https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/\nComments URL: https://news.ycombinator.com/item?id=47802233\nPoints: 82\n# Comments: 28",
-      "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-      "published": "Fri, 17 Apr 2026 03:36:26 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.472358"
-    },
-    {
-      "source": "hackernews",
-      "title": "Substrate AI Is Hiring Harness Engineers",
-      "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer\nComments URL: https://news.ycombinator.com/item?id=47802016\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-      "published": "Fri, 17 Apr 2026 02:53:16 +0000",
+      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+      "summary": "Article URL: https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/\nComments URL: https://news.ycombinator.com/item?id=47804708\nPoints: 41\n# Comments: 18",
+      "link": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "published": "Fri, 17 Apr 2026 11:22:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.472401"
+      "crawled_at": "2026-04-17T12:54:15.250739"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "summary": "Article URL: https://www.iqiipi.com/the-quiet-colossus.html\nComments URL: https://news.ycombinator.com/item?id=47803844\nPoints: 130\n# Comments: 71",
+      "link": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "published": "Fri, 17 Apr 2026 08:51:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.250776"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+      "summary": "Article URL: https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint\nComments URL: https://news.ycombinator.com/item?id=47803745\nPoints: 82\n# Comments: 23",
+      "link": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+      "published": "Fri, 17 Apr 2026 08:32:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.250820"
+    },
+    {
+      "source": "hackernews",
+      "title": "FIM – Linux framebuffer image viewer",
+      "summary": "Article URL: https://www.nongnu.org/fbi-improved/\nComments URL: https://news.ycombinator.com/item?id=47803323\nPoints: 86\n# Comments: 39",
+      "link": "https://www.nongnu.org/fbi-improved/",
+      "published": "Fri, 17 Apr 2026 07:20:46 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.250863"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
+      "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "published": "Fri, 17 Apr 2026 11:00:50 +0000",
+      "keywords": [
+        "Crypto",
+        "AR"
+      ],
+      "category": "Blockchain",
+      "crawled_at": "2026-04-17T12:54:15.390948"
     },
     {
       "source": "arstechnica",
       "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
-      "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+      "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy",
       "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
       "published": "Fri, 17 Apr 2026 03:15:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.618538"
+      "crawled_at": "2026-04-17T12:54:15.390987"
     },
     {
       "source": "arstechnica",
@@ -225,7 +238,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.618571"
+      "crawled_at": "2026-04-17T12:54:15.391010"
     },
     {
       "source": "arstechnica",
@@ -235,7 +248,7 @@
       "published": "Thu, 16 Apr 2026 21:33:33 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.618601"
+      "crawled_at": "2026-04-17T12:54:15.391041"
     },
     {
       "source": "arstechnica",
@@ -250,75 +263,67 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.618623"
-    },
-    {
-      "source": "arstechnica",
-      "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-      "summary": "\"If you had given us the keys to the lander, we would have taken it down.\"",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-      "published": "Thu, 16 Apr 2026 21:00:38 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.618651"
+      "crawled_at": "2026-04-17T12:54:15.391062"
     },
     {
       "source": "wired",
-      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
-      "link": "https://www.wired.com/story/foreo-promo-code/",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
+      "title": "Coolfly Aura Review: More Angles, Fewer Advantages",
+      "summary": "Coolfly’s Aura is colorful, clever, and flexible, but its signature feature ends up being more hassle than help.",
+      "link": "https://www.wired.com/review/coolfly-aura-smart-bird-feeder/",
+      "published": "Fri, 17 Apr 2026 12:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.559649"
+    },
+    {
+      "source": "wired",
+      "title": "Best Bluetooth Speakers (2026): JBL, Sonos, Bose, and More",
+      "summary": "These are our favorite portable speakers of all shapes and sizes, from clip-ons to a massive boom box.",
+      "link": "https://www.wired.com/gallery/best-bluetooth-speakers/",
+      "published": "Fri, 17 Apr 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.559704"
+    },
+    {
+      "source": "wired",
+      "title": "The Best MagSafe Accessories (for Android, Too!): Chargers, Wallets, and More",
+      "summary": "MagSafe accessories make your phone feel uniquely yours. These are our favorites, including Android-friendly Qi2 picks.",
+      "link": "https://www.wired.com/gallery/best-magsafe-accessories/",
+      "published": "Fri, 17 Apr 2026 11:33:00 +0000",
+      "keywords": [
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-17T12:54:15.559735"
+    },
+    {
+      "source": "wired",
+      "title": "How Can Astronauts Tell How Fast They’re Going?",
+      "summary": "Weirdly, spaceships have no direct way to gauge their own speed. Luckily, we can use some physics tricks to figure it out.",
+      "link": "https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/",
+      "published": "Fri, 17 Apr 2026 11:00:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-17T12:54:15.559773"
+    },
+    {
+      "source": "wired",
+      "title": "Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K",
+      "summary": "The Spectral:ON CF 8 is a do-it-all, full-carbon electric mountain bike with an 800-Wh battery and under $4,500. Yes, please!",
+      "link": "https://www.wired.com/review/canyon-spectralon-cf-8/",
+      "published": "Fri, 17 Apr 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T07:17:55.787552"
-    },
-    {
-      "source": "wired",
-      "title": "Nike Promo Codes and Deals: 30% Off",
-      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-17T07:17:55.787583"
-    },
-    {
-      "source": "wired",
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary": "Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.787627"
-    },
-    {
-      "source": "wired",
-      "title": "50% Off Blue Apron Promo Codes | April 2026",
-      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-      "link": "https://www.wired.com/story/blue-apron-coupon/",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-17T07:17:55.787653"
-    },
-    {
-      "source": "wired",
-      "title": "TopResume Free Review, Discounts & Packages for 2026",
-      "summary": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
-      "link": "https://www.wired.com/story/topresume-discount-code/",
-      "published": "Fri, 17 Apr 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T07:17:55.787684"
+      "crawled_at": "2026-04-17T12:54:15.559797"
     }
   ]
 }
