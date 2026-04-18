@@ -1,71 +1,114 @@
 {
-  "last_updated": "2026-04-17T18:41:54.952371",
+  "last_updated": "2026-04-18T01:18:39.551744",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
-      "summary": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
-      "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-      "published": "Fri, 17 Apr 2026 17:48:46 +0000",
+      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "published": "Fri, 17 Apr 2026 22:34:02 +0000",
       "keywords": [
         "AI",
-        "AWS",
-        "Security",
-        "Cybersecurity",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:38.822755"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "published": "Fri, 17 Apr 2026 20:38:17 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:38.822802"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+      "summary": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
+      "link": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+      "published": "Fri, 17 Apr 2026 20:16:13 +0000",
+      "keywords": [
+        "Go",
         "Hack"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.319525"
+      "category": "Security",
+      "crawled_at": "2026-04-18T01:18:38.822841"
     },
     {
       "source": "techcrunch",
-      "title": "Zoom teams up with World to verify humans in meetings",
-      "summary": "Zoom will show a badge on verified participants' tile.",
-      "link": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
-      "published": "Fri, 17 Apr 2026 17:15:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.319563"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Gigs turns your concert history into a personal live music archive",
-      "summary": "New iPhone app Gigs uses AI to turn old tickets, screenshots, and emails into a personal concert archive with stats, memories, and more.",
-      "link": "https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/",
-      "published": "Fri, 17 Apr 2026 16:55:45 +0000",
-      "keywords": [
-        "AI",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.319592"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why",
-      "summary": "The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.",
-      "link": "https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/",
-      "published": "Fri, 17 Apr 2026 16:15:50 +0000",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "published": "Fri, 17 Apr 2026 19:17:26 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.319629"
+      "crawled_at": "2026-04-18T01:18:38.822865"
     },
     {
       "source": "techcrunch",
-      "title": "Uber will now pick up your returns from your doorstep",
-      "summary": "The new returns feature is the company's latest effort to become an everything app.",
-      "link": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/",
-      "published": "Fri, 17 Apr 2026 15:02:00 +0000",
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
       "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-04-17T18:41:54.319657"
+      "category": "Programming",
+      "crawled_at": "2026-04-18T01:18:38.822896"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "published": "2026-04-17T17:13:25-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:38.936966"
+    },
+    {
+      "source": "theverge",
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial s",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "published": "2026-04-17T16:42:47-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:38.937030"
+    },
+    {
+      "source": "theverge",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy ne",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "published": "2026-04-17T16:14:21-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Go",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:38.937078"
     },
     {
       "source": "theverge",
@@ -78,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.514692"
+      "crawled_at": "2026-04-18T01:18:38.937113"
     },
     {
       "source": "theverge",
@@ -92,108 +135,104 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.514734"
+      "crawled_at": "2026-04-18T01:18:38.937144"
     },
     {
-      "source": "theverge",
-      "title": "Our new favorite budget phones",
-      "summary": "Over the last few months, every phone maker under the sun has refreshed its lineups, especially at the affordable end, with no major budget phone launches now expected until next year. That made it the perfect time to go back and reassess The Verge's recommendations for the best budget phones you ca",
-      "link": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
-      "published": "2026-04-17T11:58:07-04:00",
+      "source": "hackernews",
+      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
+      "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 13\n# Comments: 10",
+      "link": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+      "published": "Fri, 17 Apr 2026 22:53:18 +0000",
       "keywords": [
-        "Go",
+        "AI",
         "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.514776"
-    },
-    {
-      "source": "theverge",
-      "title": "The best budget smartphones you can buy",
-      "summary": "Some of us take a kind of “eat to live” rather than a “live to eat” approach to gadgets. They’re tools that help you get things done, not something you want to invest a lot of time or money in. If that’s you — and there’s no judgment here from a certifiable gadget nerd — [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones",
-      "published": "2026-04-17T11:55:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-17T18:41:54.514826"
-    },
-    {
-      "source": "theverge",
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"encourage customers to add more food to their orders,\" according to The Wall Street Journal. Followin",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "published": "2026-04-17T11:46:37-04:00",
-      "keywords": [
-        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.514858"
+      "crawled_at": "2026-04-18T01:18:39.208289"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "summary": "Article URL: https://github.com/smol-machines/smolvm\nComments URL: https://news.ycombinator.com/item?id=47808268\nPoints: 18\n# Comments: 13",
-      "link": "https://github.com/smol-machines/smolvm",
-      "published": "Fri, 17 Apr 2026 17:18:58 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.612805"
-    },
-    {
-      "source": "hackernews",
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=47808047\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
-      "published": "Fri, 17 Apr 2026 17:01:13 +0000",
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinato",
+      "link": "https://www.nature.com/articles/d41586-026-01204-5",
+      "published": "Fri, 17 Apr 2026 22:30:28 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.612851"
+      "crawled_at": "2026-04-18T01:18:39.208355"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "summary": "Article URL: https://github.com/paniclock/paniclock/\nComments URL: https://news.ycombinator.com/item?id=47807809\nPoints: 29\n# Comments: 12",
-      "link": "https://github.com/paniclock/paniclock/",
-      "published": "Fri, 17 Apr 2026 16:38:44 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.612895"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hyperscalers have already outspent most famous US megaprojects",
-      "summary": "Article URL: https://twitter.com/finmoorhouse/status/2044933442236776794\nComments URL: https://news.ycombinator.com/item?id=47807619\nPoints: 48\n# Comments: 40",
-      "link": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-      "published": "Fri, 17 Apr 2026 16:23:22 +0000",
+      "title": "A simplified model of Fil-C",
+      "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 105\n# Comments: 51",
+      "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "published": "Fri, 17 Apr 2026 21:38:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.612932"
+      "crawled_at": "2026-04-18T01:18:39.208390"
     },
     {
       "source": "hackernews",
-      "title": "Detecting DOSBox from Within the Box",
-      "summary": "Article URL: https://datagirl.xyz/posts/dos_inside_the_box.html\nComments URL: https://news.ycombinator.com/item?id=47807503\nPoints: 7\n# Comments: 0",
-      "link": "https://datagirl.xyz/posts/dos_inside_the_box.html",
-      "published": "Fri, 17 Apr 2026 16:13:26 +0000",
+      "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+      "summary": "Article URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead\nComments URL: https://news.ycombinator.com/item?id=47810507\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+      "published": "Fri, 17 Apr 2026 21:00:08 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.612964"
+      "crawled_at": "2026-04-18T01:18:39.208431"
+    },
+    {
+      "source": "hackernews",
+      "title": "Even \"cat readme.txt\" is not safe",
+      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not\nComments URL: https://news.ycombinator.com/item?id=47809190\nPoints: 78\n# Comments: 40",
+      "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+      "published": "Fri, 17 Apr 2026 18:43:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-18T01:18:39.208463"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "published": "Fri, 17 Apr 2026 21:28:35 +0000",
+      "keywords": [
+        "AI",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T01:18:39.318226"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
+      "summary": "Probation for man who used stolen logins and posted private info on social media.",
+      "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+      "published": "Fri, 17 Apr 2026 19:31:48 +0000",
+      "keywords": [
+        "Go",
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-04-18T01:18:39.318271"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+      "summary": "She's well qualified but will need to navigate RFK Jr.'s anti-vaccine agenda.",
+      "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+      "published": "Fri, 17 Apr 2026 19:19:47 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-04-18T01:18:39.318301"
     },
     {
       "source": "arstechnica",
@@ -205,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.831674"
+      "crawled_at": "2026-04-18T01:18:39.318335"
     },
     {
       "source": "arstechnica",
@@ -215,45 +254,23 @@
       "published": "Fri, 17 Apr 2026 18:08:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.831714"
+      "crawled_at": "2026-04-18T01:18:39.318365"
     },
     {
-      "source": "arstechnica",
-      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
-      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
-      "link": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
-      "published": "Fri, 17 Apr 2026 17:42:42 +0000",
-      "keywords": [
-        "Amazon"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-17T18:41:54.831748"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer",
-      "summary": "\"The world that was, doesn't exist. It's just us, trying to hold onto what was.\"",
-      "link": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/",
-      "published": "Fri, 17 Apr 2026 17:32:55 +0000",
+      "source": "wired",
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+      "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "published": "Fri, 17 Apr 2026 19:56:42 +0000",
       "keywords": [
         "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.831771"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
-      "summary": "\"I've been thinking about reentry for three straight years.\"",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-      "published": "Fri, 17 Apr 2026 16:59:44 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.831792"
+      "crawled_at": "2026-04-18T01:18:39.551476"
     },
     {
       "source": "wired",
@@ -263,7 +280,7 @@
       "published": "Fri, 17 Apr 2026 17:14:51 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.952131"
+      "crawled_at": "2026-04-18T01:18:39.551522"
     },
     {
       "source": "wired",
@@ -276,7 +293,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-17T18:41:54.952163"
+      "crawled_at": "2026-04-18T01:18:39.551549"
     },
     {
       "source": "wired",
@@ -288,7 +305,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.952209"
+      "crawled_at": "2026-04-18T01:18:39.551596"
     },
     {
       "source": "wired",
@@ -298,17 +315,7 @@
       "published": "Fri, 17 Apr 2026 13:19:40 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.952244"
-    },
-    {
-      "source": "wired",
-      "title": "Coolfly Aura Review: More Angles, Fewer Advantages",
-      "summary": "Coolfly’s Aura is colorful, clever, and flexible, but its signature feature ends up being more hassle than help.",
-      "link": "https://www.wired.com/review/coolfly-aura-smart-bird-feeder/",
-      "published": "Fri, 17 Apr 2026 12:30:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-04-17T18:41:54.952279"
+      "crawled_at": "2026-04-18T01:18:39.551633"
     }
   ]
 }
