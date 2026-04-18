@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-18T01:18:39.551744",
+  "last_updated": "2026-04-18T06:55:17.536496",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+      "summary": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
+      "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+      "published": "Sat, 18 Apr 2026 05:20:11 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-18T06:55:14.651823"
+    },
     {
       "source": "techcrunch",
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.822755"
+      "crawled_at": "2026-04-18T06:55:14.651875"
     },
     {
       "source": "techcrunch",
@@ -28,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.822802"
+      "crawled_at": "2026-04-18T06:55:14.651912"
     },
     {
       "source": "techcrunch",
@@ -41,7 +55,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-18T01:18:38.822841"
+      "crawled_at": "2026-04-18T06:55:14.651949"
     },
     {
       "source": "techcrunch",
@@ -54,17 +68,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.822865"
-    },
-    {
-      "source": "techcrunch",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-18T01:18:38.822896"
+      "crawled_at": "2026-04-18T06:55:14.651973"
     },
     {
       "source": "theverge",
@@ -78,7 +82,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.936966"
+      "crawled_at": "2026-04-18T06:55:14.810329"
     },
     {
       "source": "theverge",
@@ -92,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.937030"
+      "crawled_at": "2026-04-18T06:55:14.810379"
     },
     {
       "source": "theverge",
@@ -108,7 +112,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.937078"
+      "crawled_at": "2026-04-18T06:55:14.810428"
     },
     {
       "source": "theverge",
@@ -121,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.937113"
+      "crawled_at": "2026-04-18T06:55:14.810464"
     },
     {
       "source": "theverge",
@@ -135,20 +139,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:38.937144"
+      "crawled_at": "2026-04-18T06:55:14.810498"
     },
     {
       "source": "hackernews",
-      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
-      "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 13\n# Comments: 10",
-      "link": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
-      "published": "Fri, 17 Apr 2026 22:53:18 +0000",
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "summary": "I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO.One reason for this is that standard interval",
+      "link": "https://victorpoughon.github.io/interval-calculator/",
+      "published": "Sat, 18 Apr 2026 01:15:43 +0000",
       "keywords": [
         "AI",
+        "TypeScript",
+        "Go",
+        "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:39.208289"
+      "crawled_at": "2026-04-18T06:55:17.215481"
+    },
+    {
+      "source": "hackernews",
+      "title": "Casus Belli Engineering",
+      "summary": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/\nComments URL: https://news.ycombinator.com/item?id=47812331\nPoints: 27\n# Comments: 5",
+      "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+      "published": "Sat, 18 Apr 2026 01:14:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-18T06:55:17.215529"
     },
     {
       "source": "hackernews",
@@ -160,19 +179,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.208355"
+      "crawled_at": "2026-04-18T06:55:17.215588"
     },
     {
       "source": "hackernews",
       "title": "A simplified model of Fil-C",
-      "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 105\n# Comments: 51",
+      "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 155\n# Comments: 78",
       "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
       "published": "Fri, 17 Apr 2026 21:38:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.208390"
+      "crawled_at": "2026-04-18T06:55:17.215622"
     },
     {
       "source": "hackernews",
@@ -184,19 +203,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.208431"
-    },
-    {
-      "source": "hackernews",
-      "title": "Even \"cat readme.txt\" is not safe",
-      "summary": "Article URL: https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not\nComments URL: https://news.ycombinator.com/item?id=47809190\nPoints: 78\n# Comments: 40",
-      "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-      "published": "Fri, 17 Apr 2026 18:43:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.208463"
+      "crawled_at": "2026-04-18T06:55:17.215663"
     },
     {
       "source": "arstechnica",
@@ -209,7 +216,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:39.318226"
+      "crawled_at": "2026-04-18T06:55:17.350001"
     },
     {
       "source": "arstechnica",
@@ -222,7 +229,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-04-18T01:18:39.318271"
+      "crawled_at": "2026-04-18T06:55:17.350045"
     },
     {
       "source": "arstechnica",
@@ -232,7 +239,7 @@
       "published": "Fri, 17 Apr 2026 19:19:47 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.318301"
+      "crawled_at": "2026-04-18T06:55:17.350076"
     },
     {
       "source": "arstechnica",
@@ -244,7 +251,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.318335"
+      "crawled_at": "2026-04-18T06:55:17.350111"
     },
     {
       "source": "arstechnica",
@@ -254,7 +261,7 @@
       "published": "Fri, 17 Apr 2026 18:08:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.318365"
+      "crawled_at": "2026-04-18T06:55:17.350142"
     },
     {
       "source": "wired",
@@ -270,7 +277,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:39.551476"
+      "crawled_at": "2026-04-18T06:55:17.536249"
     },
     {
       "source": "wired",
@@ -280,7 +287,7 @@
       "published": "Fri, 17 Apr 2026 17:14:51 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.551522"
+      "crawled_at": "2026-04-18T06:55:17.536295"
     },
     {
       "source": "wired",
@@ -293,7 +300,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-18T01:18:39.551549"
+      "crawled_at": "2026-04-18T06:55:17.536321"
     },
     {
       "source": "wired",
@@ -305,7 +312,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.551596"
+      "crawled_at": "2026-04-18T06:55:17.536367"
     },
     {
       "source": "wired",
@@ -315,7 +322,7 @@
       "published": "Fri, 17 Apr 2026 13:19:40 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-18T01:18:39.551633"
+      "crawled_at": "2026-04-18T06:55:17.536403"
     }
   ]
 }
