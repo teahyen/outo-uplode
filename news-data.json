@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-04-21T01:25:06.914644",
+  "last_updated": "2026-04-21T07:20:48.146546",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
       "title": "Who is John Ternus, the incoming Apple CEO?",
-      "summary": "After 15 years, Tim Cook will hand off his role as Apple CEO to John Ternus, senior vice president of hardware engineering.",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
       "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
       "published": "Tue, 21 Apr 2026 01:02:04 +0000",
       "keywords": [
+        "AI",
         "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-21T01:25:02.683734"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-21T07:20:47.430057"
     },
     {
       "source": "techcrunch",
@@ -29,7 +30,7 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:02.683789"
+      "crawled_at": "2026-04-21T07:20:47.430094"
     },
     {
       "source": "techcrunch",
@@ -43,7 +44,7 @@
         "iOS"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-21T01:25:02.683846"
+      "crawled_at": "2026-04-21T07:20:47.430134"
     },
     {
       "source": "techcrunch",
@@ -56,7 +57,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-21T01:25:02.683915"
+      "crawled_at": "2026-04-21T07:20:47.430183"
     },
     {
       "source": "techcrunch",
@@ -69,7 +70,34 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:02.683978"
+      "crawled_at": "2026-04-21T07:20:47.430223"
+    },
+    {
+      "source": "theverge",
+      "title": "PlayStation&#8217;s age-gating restrictions are coming to UK consoles",
+      "summary": "Sony is starting to comply with the UK's Online Safety Act by notifying PlayStation players of its age verification requirements today. PS4 and PS5 owners in the UK and Ireland won't be able to participate in voice chats, messaging, parties, or other third-party communication services from June unle",
+      "link": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+      "published": "2026-04-21T03:11:34-04:00",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-21T07:20:47.516718"
+    },
+    {
+      "source": "theverge",
+      "title": "Dyson’s back with a travel-size Supersonic hairdryer",
+      "summary": "Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel is meant for people on the go - whether that's a business trip or a jaunt to the",
+      "link": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+      "published": "2026-04-21T00:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-21T07:20:47.516772"
     },
     {
       "source": "theverge",
@@ -83,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:03.100400"
+      "crawled_at": "2026-04-21T07:20:47.516817"
     },
     {
       "source": "theverge",
@@ -97,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:03.100454"
+      "crawled_at": "2026-04-21T07:20:47.516881"
     },
     {
       "source": "theverge",
@@ -111,101 +139,84 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-21T01:25:03.100497"
+      "crawled_at": "2026-04-21T07:20:47.516923"
     },
     {
-      "source": "theverge",
-      "title": "Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO",
-      "summary": "Apple CEO Tim Cook has written a letter to the community as he prepares to step down from his role in September. \"This is not goodbye. But at this moment of transition, I wanted to take the opportunity to say thank you,\" Cook writes. As part of the shift, John Ternus, Apple's senior vice president [",
-      "link": "https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community",
-      "published": "2026-04-20T17:42:36-04:00",
+      "source": "hackernews",
+      "title": "Less human AI agents, please",
+      "summary": "Article URL: https://nial.se/blog/less-human-ai-agents-please/\nComments URL: https://news.ycombinator.com/item?id=47845429\nPoints: 5\n# Comments: 1",
+      "link": "https://nial.se/blog/less-human-ai-agents-please/",
+      "published": "Tue, 21 Apr 2026 06:58:08 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-21T07:20:47.796114"
+    },
+    {
+      "source": "hackernews",
+      "title": "Using Changesets in a polyglot monorepo",
+      "summary": "Article URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/\nComments URL: https://news.ycombinator.com/item?id=47845274\nPoints: 4\n# Comments: 0",
+      "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
+      "published": "Tue, 21 Apr 2026 06:25:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-21T07:20:47.796159"
+    },
+    {
+      "source": "hackernews",
+      "title": "Louis Zocchi, inventor of the d100, has died",
+      "summary": "Article URL: https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice\nComments URL: https://news.ycombinator.com/item?id=47845231\nPoints: 11\n# Comments: 1",
+      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+      "published": "Tue, 21 Apr 2026 06:19:15 +0000",
       "keywords": [
         "Go",
-        "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-21T01:25:03.100536"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple names Johny Srouji as chief hardware officer",
-      "summary": "Apple has appointed Johny Srouji as its new chief hardware officer, \"effective immediately,\" according to an announcement on Monday. He is stepping into the shoes of current hardware engineering head John Ternus, who will replace Tim Cook as CEO in September, while Cook becomes the chairman of the b",
-      "link": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook",
-      "published": "2026-04-20T17:05:59-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:03.100569"
+      "category": "Tech News",
+      "crawled_at": "2026-04-21T07:20:47.796199"
     },
     {
       "source": "hackernews",
-      "title": "How to Make a Fast Dynamic Language Interpreter",
-      "summary": "Article URL: https://zef-lang.dev/implementation\nComments URL: https://news.ycombinator.com/item?id=47843194\nPoints: 8\n# Comments: 0",
-      "link": "https://zef-lang.dev/implementation",
-      "published": "Tue, 21 Apr 2026 00:48:07 +0000",
+      "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
+      "summary": "Article URL: https://aadamjacobscollection.org/\nComments URL: https://news.ycombinator.com/item?id=47845187\nPoints: 3\n# Comments: 0",
+      "link": "https://aadamjacobscollection.org/",
+      "published": "Tue, 21 Apr 2026 06:12:41 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.549957"
+      "crawled_at": "2026-04-21T07:20:47.796235"
     },
     {
       "source": "hackernews",
-      "title": "Even 'uncensored' models can't say what they want",
-      "summary": "Article URL: https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html\nComments URL: https://news.ycombinator.com/item?id=47842021\nPoints: 90\n# Comments: 69",
-      "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
-      "published": "Mon, 20 Apr 2026 22:43:29 +0000",
+      "title": "Types and Neural Networks",
+      "summary": "Article URL: https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html\nComments URL: https://news.ycombinator.com/item?id=47845111\nPoints: 5\n# Comments: 1",
+      "link": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+      "published": "Tue, 21 Apr 2026 05:59:53 +0000",
       "keywords": [
-        "AI",
+        "Neural Network",
+        "VR",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:06.549994"
+      "crawled_at": "2026-04-21T07:20:47.796263"
     },
     {
-      "source": "hackernews",
-      "title": "Monero Community Crowdfunding System",
-      "summary": "Article URL: https://ccs.getmonero.org/ideas/\nComments URL: https://news.ycombinator.com/item?id=47841149\nPoints: 53\n# Comments: 28",
-      "link": "https://ccs.getmonero.org/ideas/",
-      "published": "Mon, 20 Apr 2026 21:33:15 +0000",
+      "source": "arstechnica",
+      "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
+      "summary": "Problems with the ground system would have \"put current GPS military and civilian capabilities at risk.\"",
+      "link": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
+      "published": "Tue, 21 Apr 2026 02:27:52 +0000",
       "keywords": [
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-04-21T01:25:06.550027"
-    },
-    {
-      "source": "hackernews",
-      "title": "Jujutsu megamerges for fun and profit",
-      "summary": "Article URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit\nComments URL: https://news.ycombinator.com/item?id=47841129\nPoints: 114\n# Comments: 26",
-      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "published": "Mon, 20 Apr 2026 21:32:10 +0000",
-      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.550061"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "summary": "Article URL: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/\nComments URL: https://news.ycombinator.com/item?id=47840980\nPoints: 156\n# Comments: 71",
-      "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "published": "Mon, 20 Apr 2026 21:20:52 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:06.550101"
+      "crawled_at": "2026-04-21T07:20:47.971339"
     },
     {
       "source": "arstechnica",
@@ -218,7 +229,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:06.689216"
+      "crawled_at": "2026-04-21T07:20:47.971368"
     },
     {
       "source": "arstechnica",
@@ -230,7 +241,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-21T01:25:06.689248"
+      "crawled_at": "2026-04-21T07:20:47.971395"
     },
     {
       "source": "arstechnica",
@@ -242,7 +253,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.689297"
+      "crawled_at": "2026-04-21T07:20:47.971424"
     },
     {
       "source": "arstechnica",
@@ -254,19 +265,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.689327"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Robot runner handily beats humans in half-marathon, setting new record",
-      "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
-      "link": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-      "published": "Mon, 20 Apr 2026 17:56:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.689356"
+      "crawled_at": "2026-04-21T07:20:47.971451"
     },
     {
       "source": "wired",
@@ -278,7 +277,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T01:25:06.914408"
+      "crawled_at": "2026-04-21T07:20:48.146299"
     },
     {
       "source": "wired",
@@ -288,7 +287,7 @@
       "published": "Mon, 20 Apr 2026 21:38:00 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-04-21T01:25:06.914446"
+      "crawled_at": "2026-04-21T07:20:48.146338"
     },
     {
       "source": "wired",
@@ -302,7 +301,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:06.914484"
+      "crawled_at": "2026-04-21T07:20:48.146376"
     },
     {
       "source": "wired",
@@ -314,7 +313,7 @@
         "Crypto"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-04-21T01:25:06.914522"
+      "crawled_at": "2026-04-21T07:20:48.146415"
     },
     {
       "source": "wired",
@@ -328,7 +327,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T01:25:06.914549"
+      "crawled_at": "2026-04-21T07:20:48.146442"
     }
   ]
 }
