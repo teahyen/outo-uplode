@@ -1,277 +1,302 @@
 {
-  "last_updated": "2026-04-21T18:57:42.260349",
+  "last_updated": "2026-04-22T01:23:45.649134",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "summary": "The AI industry's mudslinging continues.",
-      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "published": "Tue, 21 Apr 2026 18:51:52 +0000",
+      "title": "Redwood Materials lays off 10% in restructuring to chase energy storage business",
+      "summary": "The company is restructuring some teams to accommodate a booming energy storage business, according to emails viewed by TechCrunch.",
+      "link": "https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/",
+      "published": "Wed, 22 Apr 2026 00:37:33 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
-        "AR"
+        "REST"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.329884"
+      "crawled_at": "2026-04-22T01:23:42.743023"
     },
     {
       "source": "techcrunch",
-      "title": "A look at Tim Cook’s 15-year legacy as CEO of Apple",
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "published": "Tue, 21 Apr 2026 23:45:21 +0000",
+      "keywords": [
+        "AI",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:42.743072"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "published": "Tue, 21 Apr 2026 23:26:45 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:42.743108"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "summary": "Only Elon would do this before an IPO.",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "published": "Tue, 21 Apr 2026 22:58:22 +0000",
+      "keywords": [
+        "Startup",
+        "IPO",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-04-22T01:23:42.743135"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
       "summary": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse.",
-      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/",
-      "published": "Tue, 21 Apr 2026 17:40:20 +0000",
+      "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+      "published": "Tue, 21 Apr 2026 21:09:09 +0000",
       "keywords": [
         "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-21T18:56:33.329933"
+      "crawled_at": "2026-04-22T01:23:42.743179"
     },
     {
-      "source": "techcrunch",
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "published": "Tue, 21 Apr 2026 17:11:01 +0000",
+      "source": "theverge",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. Buying this startup that's focused on AI coding could help xAI's tools com",
+      "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "published": "2026-04-21T18:45:37-04:00",
+      "keywords": [
+        "AI",
+        "Startup",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:42.832079"
+    },
+    {
+      "source": "theverge",
+      "title": "We translated the Palantir manifesto for actual human beings",
+      "summary": "Palantir CEO Alex Karp is a man in charge of one of the most important and frightening companies in the world. Karp's new book, cowritten with Nicholas Zamiska, is called The Technological Republic. After claiming \"because we get asked a lot,\" Palantir posted a 22-point summary of the book that read",
+      "link": "https://www.theverge.com/policy/915237/palantir-manifesto",
+      "published": "2026-04-21T17:06:21-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.329979"
+      "crawled_at": "2026-04-22T01:23:42.832127"
     },
     {
-      "source": "techcrunch",
-      "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
-      "summary": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox.",
-      "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
-      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
+      "source": "theverge",
+      "title": "ISS astronauts are getting new laptops",
+      "summary": "Even astronauts need to level up their laptops once in a while - including the crew of Expedition 74 on board the ISS, which NASA announced last week is in the process of some computer upgrades. According to NASA, the crew met on Friday to review plans to \"first replace network servers then activate",
+      "link": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+      "published": "2026-04-21T16:12:02-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T01:23:42.832172"
+    },
+    {
+      "source": "theverge",
+      "title": "Tim Cook was an innovator — just not the Jobs kind",
+      "summary": "Under Steve Jobs, Apple released the groundbreaking products that defined the company. But the company wouldn't be what it is today without Tim Cook's reign of ruthless efficiency. Jobs' legacy has long been written at this point. He was stubborn, unpleasant, and a generational visionary. He pushed ",
+      "link": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
+      "published": "2026-04-21T15:15:00-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-22T01:23:42.832230"
+    },
+    {
+      "source": "theverge",
+      "title": "AI backlash is coming for elections",
+      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues",
+      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "published": "2026-04-21T15:00:05-04:00",
       "keywords": [
         "AI",
-        "Go",
         "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.330014"
+      "crawled_at": "2026-04-22T01:23:42.832264"
     },
     {
-      "source": "techcrunch",
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
+      "source": "hackernews",
+      "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
+      "summary": "Article URL: https://www.wheresyoured.at/news-anthropic-removes-pro-cc/\nComments URL: https://news.ycombinator.com/item?id=47855832\nPoints: 22\n# Comments: 5",
+      "link": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
+      "published": "Tue, 21 Apr 2026 22:56:09 +0000",
       "keywords": [
-        "AI"
+        "Anthropic",
+        "Claude",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.330040"
+      "crawled_at": "2026-04-22T01:23:45.248755"
     },
     {
-      "source": "theverge",
-      "title": "Framework’s Laptop 13 Pro launch event",
-      "summary": "Framework CEO Nirav Patel is showing off his company&#8217;s latest modular, repairable laptops in San Francisco today. The headliner is the new Laptop 13 Pro, which is its first machine fully machined out of aluminum, and Patel says its goal is to be “the MacBook Pro for Linux users.” Read on below",
-      "link": "https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event",
-      "published": "2026-04-21T14:41:08-04:00",
+      "source": "hackernews",
+      "title": "Claude Code to be removed from Pro Tier?",
+      "summary": "https://x.com/TheAmolAvasare/status/2046725498592722972https://xcancel.com/TheAmolAvasare/status/204672549859272297...\n\nComments URL: https://news.ycombinator.com/item?id=47855565\nPoints: 240\n# Comments: 160",
+      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "published": "Tue, 21 Apr 2026 22:36:24 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:45.248796"
+    },
+    {
+      "source": "hackernews",
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "summary": "https://www.reuters.com/technology/spacex-says-it-has-option...https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...\n\nComments URL: https://news.ycombinator.com/item?id=47855293\nPoints: 192\n# Comments",
+      "link": "https://twitter.com/spacex/status/2046713419978453374",
+      "published": "Tue, 21 Apr 2026 22:13:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T01:23:45.248849"
+    },
+    {
+      "source": "hackernews",
+      "title": "Zindex – Diagram Infrastructure for Agents",
+      "summary": "Article URL: https://zindex.ai/\nComments URL: https://news.ycombinator.com/item?id=47854116\nPoints: 31\n# Comments: 11",
+      "link": "https://zindex.ai/",
+      "published": "Tue, 21 Apr 2026 20:27:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:45.248882"
+    },
+    {
+      "source": "hackernews",
+      "title": "ChatGPT Images 2.0",
+      "summary": "Livestream: https://openai.com/live/System card: https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...\n\nComments URL: https://news.ycombinator.com/item?id=47852835\nPoints: 394\n# Comments: 392",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "published": "Tue, 21 Apr 2026 18:50:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:45.248932"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+      "summary": "The proposed Pentagon drone investment rivals Ukraine’s entire military budget.",
+      "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+      "published": "Tue, 21 Apr 2026 21:57:54 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Linux",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.689699"
+      "crawled_at": "2026-04-22T01:23:45.493683"
     },
     {
-      "source": "theverge",
-      "title": "X makes it 1,900 percent more expensive to post links",
-      "summary": "Posting links to X through custom social media software just got a lot more expensive. On Monday, X significantly increased how much it costs to post a URL via the X API, which is what third-party tools use to hook into the platform. It now costs $0.20 when a link is posted, up from $0.01. [&#8230;]",
-      "link": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
-      "published": "2026-04-21T14:27:18-04:00",
-      "keywords": [
-        "Go",
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:56:33.689758"
-    },
-    {
-      "source": "theverge",
-      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
-      "summary": "Every time we review a Framework laptop, we find familiar pros and cons. They're truly upgradable, incredibly repairable, but we always wish the battery lasted longer. We always wish the build quality were top notch. Today, Framework is announcing what could be the answer: the Framework Laptop 13 Pr",
-      "link": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
-      "published": "2026-04-21T14:08:00-04:00",
+      "source": "arstechnica",
+      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+      "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+      "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "published": "Tue, 21 Apr 2026 21:40:41 +0000",
       "keywords": [
         "AI",
-        "Linux",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:56:33.689803"
-    },
-    {
-      "source": "theverge",
-      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
-      "summary": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised last August, you'll be able to turn the Framework Laptop 16's GPU modules into external ones instea",
-      "link": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-      "published": "2026-04-21T14:07:24-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-04-21T18:56:33.689861"
-    },
-    {
-      "source": "theverge",
-      "title": "Framework is building a better couch keyboard because everyone hates the Logitech one",
-      "summary": "If you have a wireless keyboard with a touchpad that lets you control your PC from across the room, chances are it's a Logitech K400. Framework CEO Nirav Patel is betting that you hate using it - enough to buy Framework's spin on the idea when it arrives later this year. He says that Logitech's [&#8",
-      "link": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one",
-      "published": "2026-04-21T14:06:29-04:00",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:56:33.689908"
-    },
-    {
-      "source": "hackernews",
-      "title": "Framework Laptop 13 Pro",
-      "summary": "Article URL: https://frame.work/laptop13pro\nComments URL: https://news.ycombinator.com/item?id=47852177\nPoints: 114\n# Comments: 41",
-      "link": "https://frame.work/laptop13pro",
-      "published": "Tue, 21 Apr 2026 18:00:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.041491"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "summary": "Article URL: https://github.com/calcom/cal.diy\nComments URL: https://news.ycombinator.com/item?id=47852155\nPoints: 12\n# Comments: 0",
-      "link": "https://github.com/calcom/cal.diy",
-      "published": "Tue, 21 Apr 2026 17:58:21 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.041550"
-    },
-    {
-      "source": "hackernews",
-      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr\nComments URL: https://news.ycombinator.com/item?id=47851948\nPoints: 40\n# Comments: 8",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
-      "published": "Tue, 21 Apr 2026 17:40:39 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.041589"
-    },
-    {
-      "source": "hackernews",
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "summary": "Article URL: https://britannica11.org/\nComments URL: https://news.ycombinator.com/item?id=47851885\nPoints: 49\n# Comments: 30",
-      "link": "https://britannica11.org/",
-      "published": "Tue, 21 Apr 2026 17:33:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.041639"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "summary": "Vercel April 2026 security incident - https://news.ycombinator.com/item?id=47824463 - April 2026 (485 comments)A Roblox cheat and one AI tool brought down Vercel's platform - https://news.ycombinator.com/item?id=47844431 - April 2026 (145 comments)\n\nComments URL: https://news.ycombinator.com/item?id",
-      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "published": "Tue, 21 Apr 2026 17:14:35 +0000",
-      "keywords": [
-        "AI",
+        "Anthropic",
         "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.041679"
+      "crawled_at": "2026-04-22T01:23:45.493718"
     },
     {
       "source": "arstechnica",
-      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
-      "summary": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
-      "link": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
-      "published": "Tue, 21 Apr 2026 18:18:27 +0000",
-      "keywords": [
-        "Microsoft"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.145174"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop",
-      "summary": "Laptop includes Core Ultra Series 3 CPUs, a bigger battery, and a touchscreen.",
-      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/",
-      "published": "Tue, 21 Apr 2026 18:15:15 +0000",
+      "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
+      "summary": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
+      "link": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
+      "published": "Tue, 21 Apr 2026 21:28:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.145211"
+      "crawled_at": "2026-04-22T01:23:45.493749"
     },
     {
       "source": "arstechnica",
-      "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
-      "summary": "A lower-end Ryzen AI 340 CPU option will also bring the price down, for now.",
-      "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
-      "published": "Tue, 21 Apr 2026 18:15:03 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.145235"
+      "title": "Silo S3 teaser hints at the wasteland's origins",
+      "summary": "\"Before we can know how it will all end, we need to understand how it all began.\"",
+      "link": "https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/",
+      "published": "Tue, 21 Apr 2026 20:53:06 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T01:23:45.493777"
     },
     {
       "source": "arstechnica",
-      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
-      "link": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-      "published": "Tue, 21 Apr 2026 18:06:06 +0000",
+      "title": "Framework's CEO on the RAM crisis and creating a \"MacBook Pro for Linux users\"",
+      "summary": "\"We actually have slightly more Linux users than Windows users.\"",
+      "link": "https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/",
+      "published": "Tue, 21 Apr 2026 20:22:20 +0000",
       "keywords": [
-        "AI",
-        "AWS",
-        "Amazon",
-        "AR"
+        "Windows",
+        "Linux"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.145267"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-      "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
-      "link": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-      "published": "Tue, 21 Apr 2026 17:00:04 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.145296"
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T01:23:45.493806"
     },
     {
       "source": "wired",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+      "title": "Framework Has a Better, More Take-Apartable Laptop",
+      "summary": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model.",
+      "link": "https://www.wired.com/story/framework-laptop-13-pro/",
+      "published": "Tue, 21 Apr 2026 19:09:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T01:23:45.648788"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+      "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+      "published": "Tue, 21 Apr 2026 19:00:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T01:23:45.648840"
+    },
+    {
+      "source": "wired",
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
       "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
       "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
       "published": "Tue, 21 Apr 2026 18:30:00 +0000",
@@ -283,7 +308,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.260117"
+      "crawled_at": "2026-04-22T01:23:45.648874"
     },
     {
       "source": "wired",
@@ -296,7 +321,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.260155"
+      "crawled_at": "2026-04-22T01:23:45.648904"
     },
     {
       "source": "wired",
@@ -309,32 +334,7 @@
         "Meta"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-21T18:57:42.260186"
-    },
-    {
-      "source": "wired",
-      "title": "TAG Heuer Has Dropped New Polylight-Powered F1s",
-      "summary": "The five new Formula 1 watches are driven by light—and we have a definite favorite.",
-      "link": "https://www.wired.com/story/tag-heuer-has-dropped-new-pastel-powered-f1s/",
-      "published": "Tue, 21 Apr 2026 16:02:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-21T18:57:42.260219"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Casio Watches You Can Wear Anywhere",
-      "summary": "From calculators to simple daily beaters, these are my favorite Casio watches on sale today.",
-      "link": "https://www.wired.com/gallery/best-casio-watches/",
-      "published": "Tue, 21 Apr 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-21T18:57:42.260241"
+      "crawled_at": "2026-04-22T01:23:45.648963"
     }
   ]
 }
