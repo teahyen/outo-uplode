@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T01:23:45.649134",
+  "last_updated": "2026-04-22T07:18:39.927972",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "REST"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.743023"
+      "crawled_at": "2026-04-22T07:18:37.084800"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.743072"
+      "crawled_at": "2026-04-22T07:18:37.085122"
     },
     {
       "source": "techcrunch",
@@ -39,21 +39,23 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.743108"
+      "crawled_at": "2026-04-22T07:18:37.085170"
     },
     {
       "source": "techcrunch",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
-      "summary": "Only Elon would do this before an IPO.",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
       "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
       "published": "Tue, 21 Apr 2026 22:58:22 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
         "Startup",
-        "IPO",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-04-22T01:23:42.743135"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T07:18:37.085212"
     },
     {
       "source": "techcrunch",
@@ -66,7 +68,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-22T01:23:42.743179"
+      "crawled_at": "2026-04-22T07:18:37.085256"
     },
     {
       "source": "theverge",
@@ -81,7 +83,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.832079"
+      "crawled_at": "2026-04-22T07:18:37.264444"
     },
     {
       "source": "theverge",
@@ -94,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.832127"
+      "crawled_at": "2026-04-22T07:18:37.264488"
     },
     {
       "source": "theverge",
@@ -106,7 +108,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:42.832172"
+      "crawled_at": "2026-04-22T07:18:37.264532"
     },
     {
       "source": "theverge",
@@ -119,7 +121,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-22T01:23:42.832230"
+      "crawled_at": "2026-04-22T07:18:37.264589"
     },
     {
       "source": "theverge",
@@ -133,75 +135,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:42.832264"
+      "crawled_at": "2026-04-22T07:18:37.264623"
     },
     {
       "source": "hackernews",
-      "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
-      "summary": "Article URL: https://www.wheresyoured.at/news-anthropic-removes-pro-cc/\nComments URL: https://news.ycombinator.com/item?id=47855832\nPoints: 22\n# Comments: 5",
-      "link": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
-      "published": "Tue, 21 Apr 2026 22:56:09 +0000",
+      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+      "summary": "Article URL: https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/\nComments URL: https://news.ycombinator.com/item?id=47858246\nPoints: 110\n# Comments: 31",
+      "link": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "published": "Wed, 22 Apr 2026 02:49:40 +0000",
       "keywords": [
-        "Anthropic",
-        "Claude",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.248755"
+      "category": "Mobile",
+      "crawled_at": "2026-04-22T07:18:39.615326"
     },
     {
       "source": "hackernews",
-      "title": "Claude Code to be removed from Pro Tier?",
-      "summary": "https://x.com/TheAmolAvasare/status/2046725498592722972https://xcancel.com/TheAmolAvasare/status/204672549859272297...\n\nComments URL: https://news.ycombinator.com/item?id=47855565\nPoints: 240\n# Comments: 160",
-      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "published": "Tue, 21 Apr 2026 22:36:24 +0000",
+      "title": "Kuri – Zig based agent-browser alternative",
+      "summary": "Article URL: https://github.com/justrach/kuri\nComments URL: https://news.ycombinator.com/item?id=47857964\nPoints: 13\n# Comments: 2",
+      "link": "https://github.com/justrach/kuri",
+      "published": "Wed, 22 Apr 2026 02:15:38 +0000",
       "keywords": [
-        "Claude",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.248796"
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T07:18:39.615396"
+    },
+    {
+      "source": "hackernews",
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "summary": "Article URL: https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/\nComments URL: https://news.ycombinator.com/item?id=47857509\nPoints: 70\n# Comments: 6",
+      "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "published": "Wed, 22 Apr 2026 01:25:04 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T07:18:39.615442"
+    },
+    {
+      "source": "hackernews",
+      "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+      "summary": "Article URL: https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as\nComments URL: https://news.ycombinator.com/item?id=47856535\nPoints: 117\n# Comments: 71",
+      "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "published": "Tue, 21 Apr 2026 23:53:45 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-22T07:18:39.615479"
     },
     {
       "source": "hackernews",
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "summary": "https://www.reuters.com/technology/spacex-says-it-has-option...https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...\n\nComments URL: https://news.ycombinator.com/item?id=47855293\nPoints: 192\n# Comments",
+      "summary": "https://www.reuters.com/technology/spacex-says-it-has-option...https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...\n\nComments URL: https://news.ycombinator.com/item?id=47855293\nPoints: 516\n# Comments",
       "link": "https://twitter.com/spacex/status/2046713419978453374",
       "published": "Tue, 21 Apr 2026 22:13:18 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:45.248849"
-    },
-    {
-      "source": "hackernews",
-      "title": "Zindex – Diagram Infrastructure for Agents",
-      "summary": "Article URL: https://zindex.ai/\nComments URL: https://news.ycombinator.com/item?id=47854116\nPoints: 31\n# Comments: 11",
-      "link": "https://zindex.ai/",
-      "published": "Tue, 21 Apr 2026 20:27:37 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.248882"
-    },
-    {
-      "source": "hackernews",
-      "title": "ChatGPT Images 2.0",
-      "summary": "Livestream: https://openai.com/live/System card: https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...\n\nComments URL: https://news.ycombinator.com/item?id=47852835\nPoints: 394\n# Comments: 392",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "published": "Tue, 21 Apr 2026 18:50:00 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.248932"
+      "crawled_at": "2026-04-22T07:18:39.615530"
     },
     {
       "source": "arstechnica",
@@ -215,7 +211,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.493683"
+      "crawled_at": "2026-04-22T07:18:39.737856"
     },
     {
       "source": "arstechnica",
@@ -230,7 +226,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.493718"
+      "crawled_at": "2026-04-22T07:18:39.737886"
     },
     {
       "source": "arstechnica",
@@ -242,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:45.493749"
+      "crawled_at": "2026-04-22T07:18:39.737916"
     },
     {
       "source": "arstechnica",
@@ -252,7 +248,7 @@
       "published": "Tue, 21 Apr 2026 20:53:06 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:45.493777"
+      "crawled_at": "2026-04-22T07:18:39.737943"
     },
     {
       "source": "arstechnica",
@@ -265,76 +261,61 @@
         "Linux"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:45.493806"
+      "crawled_at": "2026-04-22T07:18:39.737970"
     },
     {
       "source": "wired",
-      "title": "Framework Has a Better, More Take-Apartable Laptop",
-      "summary": "The company announced its new Framework Laptop 13 Pro, along with updates to its 16-inch model.",
-      "link": "https://www.wired.com/story/framework-laptop-13-pro/",
-      "published": "Tue, 21 Apr 2026 19:09:11 +0000",
+      "title": "Valvoline Coupons & Promo Codes for April 2026",
+      "summary": "Unlock significant savings on Valvoline oil changes and auto services. We've gathered all the top Valvoline coupons and promo codes for April 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "published": "Wed, 22 Apr 2026 06:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-22T07:18:39.927779"
+    },
+    {
+      "source": "wired",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "published": "Wed, 22 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-22T07:18:39.927822"
+    },
+    {
+      "source": "wired",
+      "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in April 2026",
+      "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+      "link": "https://www.wired.com/story/tempo-meals-promo-code/",
+      "published": "Wed, 22 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-22T07:18:39.927849"
+    },
+    {
+      "source": "wired",
+      "title": "HBO Max Promo Code: 50% Off | April",
+      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+      "link": "https://www.wired.com/story/max-promo-code/",
+      "published": "Wed, 22 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-22T07:18:39.927872"
+    },
+    {
+      "source": "wired",
+      "title": "Walmart Promo Codes: 65% Off",
+      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "published": "Wed, 22 Apr 2026 06:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-22T01:23:45.648788"
-    },
-    {
-      "source": "wired",
-      "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-      "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it’s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
-      "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-      "published": "Tue, 21 Apr 2026 19:00:00 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.648840"
-    },
-    {
-      "source": "wired",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "published": "Tue, 21 Apr 2026 18:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Security",
-        "Cybersecurity",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.648874"
-    },
-    {
-      "source": "wired",
-      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
-      "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
-      "published": "Tue, 21 Apr 2026 17:35:12 +0000",
-      "keywords": [
-        "AI",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-22T01:23:45.648904"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
-      "summary": "A lawsuit from the Consumer Federation of America accuses Meta of misleading consumers about its efforts to combat scams advertisements on its platforms.",
-      "link": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/",
-      "published": "Tue, 21 Apr 2026 16:24:41 +0000",
-      "keywords": [
-        "AWS",
-        "Meta"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-22T01:23:45.648963"
+      "category": "Programming",
+      "crawled_at": "2026-04-22T07:18:39.927892"
     }
   ]
 }
