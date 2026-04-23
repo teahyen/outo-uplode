@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-04-23T01:28:59.051307",
+  "last_updated": "2026-04-23T07:20:33.770335",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "published": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "keywords": [
+        "AI",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-23T07:20:33.074493"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
+      "summary": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
+      "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
+      "published": "Thu, 23 Apr 2026 04:17:52 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-23T07:20:33.074540"
+    },
     {
       "source": "techcrunch",
       "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
@@ -16,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.342380"
+      "crawled_at": "2026-04-23T07:20:33.074582"
     },
     {
       "source": "techcrunch",
@@ -31,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.342415"
+      "crawled_at": "2026-04-23T07:20:33.074608"
     },
     {
       "source": "techcrunch",
@@ -44,32 +71,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.342467"
+      "crawled_at": "2026-04-23T07:20:33.074654"
     },
     {
-      "source": "techcrunch",
-      "title": "Hands on with X’s new AI-powered custom feeds",
-      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-      "published": "Wed, 22 Apr 2026 22:25:53 +0000",
+      "source": "theverge",
+      "title": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
+      "summary": "On Wednesday, President Donald Trump claimed to have secured the release of eight Iranian women condemned to execution for protesting the regime. Only the night before, he had posted on Truth Social about the imminent executions of these women, quoting a screenshot that included a collage of eight g",
+      "link": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
+      "published": "2026-04-22T21:53:24-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.342497"
-    },
-    {
-      "source": "techcrunch",
-      "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
-      "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
-      "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
-      "published": "Wed, 22 Apr 2026 21:37:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.342540"
+      "crawled_at": "2026-04-23T07:20:33.159625"
     },
     {
       "source": "theverge",
@@ -83,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.438331"
+      "crawled_at": "2026-04-23T07:20:33.159673"
     },
     {
       "source": "theverge",
@@ -98,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.438370"
+      "crawled_at": "2026-04-23T07:20:33.159705"
     },
     {
       "source": "theverge",
@@ -112,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.438404"
+      "crawled_at": "2026-04-23T07:20:33.159736"
     },
     {
       "source": "theverge",
@@ -125,89 +140,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.438435"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
-      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "published": "2026-04-22T16:09:02-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.438468"
+      "crawled_at": "2026-04-23T07:20:33.159768"
     },
     {
       "source": "hackernews",
-      "title": "Approximating Hyperbolic Tangent",
-      "summary": "Article URL: https://jtomschroeder.com/blog/approximating-tanh/\nComments URL: https://news.ycombinator.com/item?id=47870709\nPoints: 14\n# Comments: 3",
-      "link": "https://jtomschroeder.com/blog/approximating-tanh/",
-      "published": "Wed, 22 Apr 2026 23:46:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-23T01:28:58.702043"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bring your own Agent to MS Teams",
-      "summary": "Article URL: https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/\nComments URL: https://news.ycombinator.com/item?id=47870108\nPoints: 12\n# Comments: 2",
-      "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-      "published": "Wed, 22 Apr 2026 22:25:28 +0000",
-      "keywords": [
-        "Microsoft",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.702086"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Neon King of New Orleans",
-      "summary": "Article URL: https://gardenandgun.com/new-orleans-neon-king\nComments URL: https://news.ycombinator.com/item?id=47869496\nPoints: 26\n# Comments: 3",
-      "link": "https://gardenandgun.com/new-orleans-neon-king",
-      "published": "Wed, 22 Apr 2026 21:26:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.702119"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "summary": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/\nComments URL: https://news.ycombinator.com/item?id=47868867\nPoints: 334\n# Comments: 88",
-      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "published": "Wed, 22 Apr 2026 20:27:31 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-23T01:28:58.702158"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-      "summary": "Article URL: https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard\nComments URL: https://news.ycombinator.com/item?id=47868832\nPoints: 46\n# Comments: 15",
-      "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-      "published": "Wed, 22 Apr 2026 20:24:05 +0000",
+      "title": "Ars Technica: Our newsroom AI policy",
+      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=47872452\nPoints: 16\n# Comments: 5",
+      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "published": "Thu, 23 Apr 2026 05:14:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.702190"
+      "crawled_at": "2026-04-23T07:20:33.517588"
+    },
+    {
+      "source": "hackernews",
+      "title": "I am building a cloud",
+      "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud\nComments URL: https://news.ycombinator.com/item?id=47872324\nPoints: 173\n# Comments: 47",
+      "link": "https://crawshaw.io/blog/building-a-cloud",
+      "published": "Thu, 23 Apr 2026 04:44:19 +0000",
+      "keywords": [
+        "AWS",
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-04-23T07:20:33.517624"
+    },
+    {
+      "source": "hackernews",
+      "title": "Borrow-checking without type-checking",
+      "summary": "Article URL: https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/\nComments URL: https://news.ycombinator.com/item?id=47871817\nPoints: 46\n# Comments: 9",
+      "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
+      "published": "Thu, 23 Apr 2026 02:55:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T07:20:33.517662"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
+      "summary": "Article URL: https://openreview.net/pdf?id=C1bkDPqvDW\nComments URL: https://news.ycombinator.com/item?id=47871800\nPoints: 22\n# Comments: 0",
+      "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
+      "published": "Thu, 23 Apr 2026 02:52:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T07:20:33.517695"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "summary": "Article URL: https://tempest.homemade.systems\nComments URL: https://news.ycombinator.com/item?id=47871195\nPoints: 58\n# Comments: 22",
+      "link": "https://tempest.homemade.systems",
+      "published": "Thu, 23 Apr 2026 01:02:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T07:20:33.517730"
     },
     {
       "source": "arstechnica",
@@ -220,7 +216,7 @@
         "Crypto"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.811777"
+      "crawled_at": "2026-04-23T07:20:33.650093"
     },
     {
       "source": "arstechnica",
@@ -233,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.811810"
+      "crawled_at": "2026-04-23T07:20:33.650127"
     },
     {
       "source": "arstechnica",
@@ -246,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:58.811830"
+      "crawled_at": "2026-04-23T07:20:33.650147"
     },
     {
       "source": "arstechnica",
@@ -259,7 +255,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-23T01:28:58.811883"
+      "crawled_at": "2026-04-23T07:20:33.650181"
     },
     {
       "source": "arstechnica",
@@ -269,73 +265,62 @@
       "published": "Wed, 22 Apr 2026 20:06:49 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T01:28:58.811915"
+      "crawled_at": "2026-04-23T07:20:33.650210"
     },
     {
       "source": "wired",
-      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-      "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
-      "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
-      "published": "Wed, 22 Apr 2026 22:11:15 +0000",
+      "title": "Hoka Coupon Codes: 30% Off | April 2026",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for April 2026.",
+      "link": "https://www.wired.com/story/hoka-coupon-code/",
+      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-23T07:20:33.770079"
+    },
+    {
+      "source": "wired",
+      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | April 2026",
+      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "link": "https://www.wired.com/story/verizon-promo-code/",
+      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-23T01:28:59.051114"
+      "category": "Programming",
+      "crawled_at": "2026-04-23T07:20:33.770115"
     },
     {
       "source": "wired",
-      "title": "US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose",
-      "summary": "Mark Moran, an underdog Senate candidate from Virginia, claims he wanted to get caught violating the prediction market platform’s rules.",
-      "link": "https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/",
-      "published": "Wed, 22 Apr 2026 21:49:19 +0000",
+      "title": "Dermstore Promo Codes: 25% Off",
+      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "link": "https://www.wired.com/story/dermstore-promo-code/",
+      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:59.051153"
+      "crawled_at": "2026-04-23T07:20:33.770139"
     },
     {
       "source": "wired",
-      "title": "Scientists Gave Cocaine to Salmon and You Will Absolutely Believe What Happened Next",
-      "summary": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that, as in the lab, fish on cocaine do not act like normal fish.",
-      "link": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
-      "published": "Wed, 22 Apr 2026 21:34:03 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:59.051181"
+      "title": "Chirp Discount Codes and Deals: Save Up to 67%",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
+      "link": "https://www.wired.com/story/chirp-discount-code/",
+      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-23T07:20:33.770164"
     },
     {
       "source": "wired",
-      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-      "published": "Wed, 22 Apr 2026 18:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:59.051208"
-    },
-    {
-      "source": "wired",
-      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
-      "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-      "published": "Wed, 22 Apr 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T01:28:59.051238"
+      "title": "15% Off Adidas Promo Code | April 2026",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "link": "https://www.wired.com/story/adidas-promo-code/",
+      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-23T07:20:33.770187"
     }
   ]
 }
