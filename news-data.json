@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-04-23T07:20:33.770335",
+  "last_updated": "2026-04-23T12:58:52.460167",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say",
+      "summary": "The Citizen Lab found two separate surveillance vendors abusing the backbone of cellular networks to spy on several victims across the world.",
+      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "published": "Thu, 23 Apr 2026 12:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:51.531895"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+      "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:51.531938"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
+      "summary": "Topics can range from \"School,\" \"Entertainment,\" and \"Lifestyle\" to \"Travel,\" \"Writing,\" and \"Health and Wellbeing,\" among others, Meta says.",
+      "link": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "published": "Thu, 23 Apr 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-23T12:58:51.531966"
+    },
     {
       "source": "techcrunch",
       "title": "India’s app market is booming — but global platforms are capturing most of the gains",
@@ -14,7 +52,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.074493"
+      "crawled_at": "2026-04-23T12:58:51.531996"
     },
     {
       "source": "techcrunch",
@@ -27,51 +65,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.074540"
+      "crawled_at": "2026-04-23T12:58:51.532019"
     },
     {
-      "source": "techcrunch",
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "published": "Wed, 22 Apr 2026 23:56:52 +0000",
+      "source": "theverge",
+      "title": "Tim Cook’s departure is the start of a new era at Apple",
+      "summary": "Apple is about to become a very different company. This September, Apple CEO Tim Cook is stepping down and will be replaced by John Ternus, the current head of hardware. But the shift is bigger than just a CEO transition - it's the most significant move yet into a world where Apple's executive team ",
+      "link": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
+      "published": "2026-04-23T08:00:00-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-23T12:58:51.691115"
+    },
+    {
+      "source": "theverge",
+      "title": "Govee’s new colorful outdoor lights are its first with solar power",
+      "summary": "Govee announced its first solar-powered lights today. They include a 6W panel with an integrated 4,800mAh battery that can be recharged with a single full day of sunlight (though if the weather's looking a little overcast, you can still charge it over USB-C). The Govee Outdoor Solar String Lights ar",
+      "link": "https://www.theverge.com/tech/916707/govee-outdoor-solar-string-lights-battery-rechargeable-pricing-availability",
+      "published": "2026-04-23T08:00:00-04:00",
       "keywords": [
         "AI",
         "Go",
-        "REST",
-        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.074582"
+      "crawled_at": "2026-04-23T12:58:51.691168"
     },
     {
-      "source": "techcrunch",
-      "title": "Google updates Workspace to make AI your new office intern",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "published": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "source": "theverge",
+      "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+      "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we f",
+      "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+      "published": "2026-04-23T07:34:18-04:00",
+      "keywords": [
+        "Microsoft"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-04-23T12:58:51.691223"
+    },
+    {
+      "source": "theverge",
+      "title": "Honor’s new phones look like iPhones for Android",
+      "summary": "Honor has announced the 600 and 600 Pro, which it calls \"accessible flagships,\" and they look… familiar. Especially in that orange. The Pro makes the iPhone comparison especially obvious thanks to its triple rear camera - it even has the same flash layout - while the 600 is just a hair subtler becau",
+      "link": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
+      "published": "2026-04-23T04:00:57-04:00",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
+        "iPhone",
+        "Android",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.074608"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-      "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-      "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
-      "published": "Wed, 22 Apr 2026 22:39:58 +0000",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.074654"
+      "crawled_at": "2026-04-23T12:58:51.691261"
     },
     {
       "source": "theverge",
@@ -84,126 +132,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.159625"
-    },
-    {
-      "source": "theverge",
-      "title": "Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD",
-      "summary": "Tesla vehicles with the company's Hardware 3 (HW3) computer actually won't receive unsupervised Full Self-Driving (FSD), CEO Elon Musk said on Wednesday's Q1 2026 earnings call. Approximately 4 million Tesla vehicles operate on the HW3 platform, meaning that a significant chunk of Tesla owners - inc",
-      "link": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
-      "published": "2026-04-22T18:38:31-04:00",
-      "keywords": [
-        "AI",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.159673"
-    },
-    {
-      "source": "theverge",
-      "title": "X is going to let Grok curate your timeline",
-      "summary": "X is putting its AI chatbot, Grok, in charge of your timeline. In an announcement on Wednesday, X product head Nikita Bier says Premium subscribers on iOS can get early access to a feature that allows users to pin specific topics to their home tab, which Grok will then use to curate the posts you [&",
-      "link": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
-      "published": "2026-04-22T16:49:38-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.159705"
-    },
-    {
-      "source": "theverge",
-      "title": "Tesla&#8217;s revenue rises again as it prepares for more AI and robotics",
-      "summary": "Tesla released its 2026 first-quarter financial earnings today, providing another look at the progress of Elon Musk's $1 trillion bet to transform his company into a leader of AI and robotics. Tesla said it earned $477 million in net income on $22.4 billion in revenue in the quarter that ended in Ap",
-      "link": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
-      "published": "2026-04-22T16:36:17-04:00",
-      "keywords": [
-        "AI",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.159736"
-    },
-    {
-      "source": "theverge",
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"strikin",
-      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "published": "2026-04-22T16:29:05-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.159768"
+      "crawled_at": "2026-04-23T12:58:51.691298"
     },
     {
       "source": "hackernews",
-      "title": "Ars Technica: Our newsroom AI policy",
-      "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=47872452\nPoints: 16\n# Comments: 5",
-      "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "published": "Thu, 23 Apr 2026 05:14:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.517588"
-    },
-    {
-      "source": "hackernews",
-      "title": "I am building a cloud",
-      "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud\nComments URL: https://news.ycombinator.com/item?id=47872324\nPoints: 173\n# Comments: 47",
-      "link": "https://crawshaw.io/blog/building-a-cloud",
-      "published": "Thu, 23 Apr 2026 04:44:19 +0000",
-      "keywords": [
-        "AWS",
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-23T07:20:33.517624"
-    },
-    {
-      "source": "hackernews",
-      "title": "Borrow-checking without type-checking",
-      "summary": "Article URL: https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/\nComments URL: https://news.ycombinator.com/item?id=47871817\nPoints: 46\n# Comments: 9",
-      "link": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
-      "published": "Thu, 23 Apr 2026 02:55:17 +0000",
+      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "summary": "Article URL: https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/\nComments URL: https://news.ycombinator.com/item?id=47874814\nPoints: 28\n# Comments: 3",
+      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+      "published": "Thu, 23 Apr 2026 12:12:03 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.517662"
+      "crawled_at": "2026-04-23T12:58:52.040376"
     },
     {
       "source": "hackernews",
-      "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
-      "summary": "Article URL: https://openreview.net/pdf?id=C1bkDPqvDW\nComments URL: https://news.ycombinator.com/item?id=47871800\nPoints: 22\n# Comments: 0",
-      "link": "https://openreview.net/pdf?id=C1bkDPqvDW",
-      "published": "Thu, 23 Apr 2026 02:52:00 +0000",
+      "title": "Jiga (YC W21) Is Hiring",
+      "summary": "Article URL: https://jiga.io/about-us/\nComments URL: https://news.ycombinator.com/item?id=47874734\nPoints: 0\n# Comments: 0",
+      "link": "https://jiga.io/about-us/",
+      "published": "Thu, 23 Apr 2026 12:02:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.517695"
+      "crawled_at": "2026-04-23T12:58:52.040414"
     },
     {
       "source": "hackernews",
-      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
-      "summary": "Article URL: https://tempest.homemade.systems\nComments URL: https://news.ycombinator.com/item?id=47871195\nPoints: 58\n# Comments: 22",
-      "link": "https://tempest.homemade.systems",
-      "published": "Thu, 23 Apr 2026 01:02:32 +0000",
+      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "summary": "Article URL: https://github.com/russellromney/honker\nComments URL: https://news.ycombinator.com/item?id=47874647\nPoints: 22\n# Comments: 3",
+      "link": "https://github.com/russellromney/honker",
+      "published": "Thu, 23 Apr 2026 11:53:11 +0000",
+      "keywords": [
+        "SQL",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:52.040461"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/\nComments URL: https://news.ycombinator.com/item?id=47874631\nPoints: 17\n# Comments: 1",
+      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "published": "Thu, 23 Apr 2026 11:50:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.517730"
+      "crawled_at": "2026-04-23T12:58:52.040499"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Built a daily game where you sort historical events chronologically",
+      "summary": "Article URL: https://hisorty.app/\nComments URL: https://news.ycombinator.com/item?id=47873966\nPoints: 11\n# Comments: 8",
+      "link": "https://hisorty.app/",
+      "published": "Thu, 23 Apr 2026 10:14:46 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-23T12:58:52.040525"
     },
     {
       "source": "arstechnica",
@@ -216,7 +209,7 @@
         "Crypto"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.650093"
+      "crawled_at": "2026-04-23T12:58:52.224104"
     },
     {
       "source": "arstechnica",
@@ -229,7 +222,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.650127"
+      "crawled_at": "2026-04-23T12:58:52.224138"
     },
     {
       "source": "arstechnica",
@@ -242,7 +235,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.650147"
+      "crawled_at": "2026-04-23T12:58:52.224157"
     },
     {
       "source": "arstechnica",
@@ -255,7 +248,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-23T07:20:33.650181"
+      "crawled_at": "2026-04-23T12:58:52.224191"
     },
     {
       "source": "arstechnica",
@@ -265,62 +258,68 @@
       "published": "Wed, 22 Apr 2026 20:06:49 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-23T07:20:33.650210"
+      "crawled_at": "2026-04-23T12:58:52.224221"
     },
     {
       "source": "wired",
-      "title": "Hoka Coupon Codes: 30% Off | April 2026",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for April 2026.",
-      "link": "https://www.wired.com/story/hoka-coupon-code/",
-      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-23T07:20:33.770079"
-    },
-    {
-      "source": "wired",
-      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | April 2026",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "link": "https://www.wired.com/story/verizon-promo-code/",
-      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "title": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
+      "summary": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
+      "link": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/",
+      "published": "Thu, 23 Apr 2026 12:29:00 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-04-23T07:20:33.770115"
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:52.459953"
     },
     {
       "source": "wired",
-      "title": "Dermstore Promo Codes: 25% Off",
-      "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
-      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+      "summary": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for 1 year, but the company doesn't know yet how much it will charge for access after that.",
+      "link": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-23T07:20:33.770139"
+      "crawled_at": "2026-04-23T12:58:52.460006"
     },
     {
       "source": "wired",
-      "title": "Chirp Discount Codes and Deals: Save Up to 67%",
-      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "link": "https://www.wired.com/story/chirp-discount-code/",
-      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-23T07:20:33.770164"
+      "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "summary": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+      "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "published": "Thu, 23 Apr 2026 11:11:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-23T12:58:52.460030"
     },
     {
       "source": "wired",
-      "title": "15% Off Adidas Promo Code | April 2026",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "published": "Thu, 23 Apr 2026 06:00:00 +0000",
+      "title": "Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+      "summary": "The fitness trackers I'd recommend to beginners, athletes, and kids.",
+      "link": "https://www.wired.com/story/best-fitbit/",
+      "published": "Thu, 23 Apr 2026 11:00:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-04-23T07:20:33.770187"
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:52.460057"
+    },
+    {
+      "source": "wired",
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+      "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "published": "Thu, 23 Apr 2026 10:33:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-23T12:58:52.460079"
     }
   ]
 }
