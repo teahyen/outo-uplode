@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-04-25T01:21:16.928181",
+  "last_updated": "2026-04-25T07:01:23.360980",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+      "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+      "published": "Sat, 25 Apr 2026 03:30:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-04-25T07:01:21.344784"
+    },
     {
       "source": "techcrunch",
       "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:15.643377"
+      "crawled_at": "2026-04-25T07:01:21.344855"
     },
     {
       "source": "techcrunch",
@@ -24,7 +37,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:15.643421"
+      "crawled_at": "2026-04-25T07:01:21.344891"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:15.643465"
+      "crawled_at": "2026-04-25T07:01:21.344931"
     },
     {
       "source": "techcrunch",
@@ -52,20 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:15.643493"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-      "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:15.643518"
+      "crawled_at": "2026-04-25T07:01:21.344958"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "Windows"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.297515"
+      "crawled_at": "2026-04-25T07:01:21.461991"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.297566"
+      "crawled_at": "2026-04-25T07:01:21.462039"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.297619"
+      "crawled_at": "2026-04-25T07:01:21.462088"
     },
     {
       "source": "theverge",
@@ -119,7 +119,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-25T01:21:16.297661"
+      "crawled_at": "2026-04-25T07:01:21.462127"
     },
     {
       "source": "theverge",
@@ -133,77 +133,85 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-25T01:21:16.297715"
+      "crawled_at": "2026-04-25T07:01:21.462181"
     },
     {
       "source": "hackernews",
-      "title": "The bull case for graph DBs in law",
-      "summary": "Article URL: https://alanyahya.com/writing/bull-case-graph-dbs-law\nComments URL: https://news.ycombinator.com/item?id=47897043\nPoints: 3\n# Comments: 0",
-      "link": "https://alanyahya.com/writing/bull-case-graph-dbs-law",
-      "published": "Fri, 24 Apr 2026 23:24:56 +0000",
+      "title": "Oxford All Souls College General Examination (2025) [pdf]",
+      "summary": "Article URL: https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf\nComments URL: https://news.ycombinator.com/item?id=47898680\nPoints: 37\n# Comments: 25",
+      "link": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
+      "published": "Sat, 25 Apr 2026 04:36:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.548002"
+      "crawled_at": "2026-04-25T07:01:23.063170"
     },
     {
       "source": "hackernews",
-      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "summary": "Article URL: https://github.com/manankharwar/fusioncore\nComments URL: https://news.ycombinator.com/item?id=47896670\nPoints: 12\n# Comments: 3",
-      "link": "https://github.com/manankharwar/fusioncore",
-      "published": "Fri, 24 Apr 2026 22:36:38 +0000",
+      "title": "Turbo Vision 2.0 – a modern port",
+      "summary": "Article URL: https://github.com/magiblot/tvision\nComments URL: https://news.ycombinator.com/item?id=47898597\nPoints: 76\n# Comments: 11",
+      "link": "https://github.com/magiblot/tvision",
+      "published": "Sat, 25 Apr 2026 04:18:01 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-04-25T01:21:16.548041"
+      "category": "Tech News",
+      "crawled_at": "2026-04-25T07:01:23.063219"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: I've built a nice home server OS",
-      "summary": "ohai!I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers.It's a free, immutable Linux system purpose-built to live-boot straight into a working Docker Engine, thereby shortcutting the need for installation, configuration, and maintenance.  Its simple design m",
-      "link": "https://lightwhale.asklandd.dk/",
-      "published": "Fri, 24 Apr 2026 21:42:26 +0000",
+      "title": "Firefox Has Integrated Brave's Adblock Engine",
+      "summary": "Article URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/\nComments URL: https://news.ycombinator.com/item?id=47897891\nPoints: 147\n# Comments: 64",
+      "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "published": "Sat, 25 Apr 2026 01:47:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-25T07:01:23.063256"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "summary": "Article URL: https://alash3al.github.io/stash?_v01\nComments URL: https://news.ycombinator.com/item?id=47897790\nPoints: 17\n# Comments: 1",
+      "link": "https://alash3al.github.io/stash?_v01",
+      "published": "Sat, 25 Apr 2026 01:24:40 +0000",
       "keywords": [
         "AI",
-        "Docker",
-        "REST",
-        "Linux",
-        "AR"
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.548096"
+      "crawled_at": "2026-04-25T07:01:23.063284"
     },
     {
       "source": "hackernews",
-      "title": "Generalised plusequals",
-      "summary": "Article URL: https://leontrolski.github.io/alt.html\nComments URL: https://news.ycombinator.com/item?id=47896086\nPoints: 4\n# Comments: 0",
-      "link": "https://leontrolski.github.io/alt.html",
-      "published": "Fri, 24 Apr 2026 21:34:25 +0000",
+      "title": "(Blender) Cosmology with Geometry Nodes",
+      "summary": "Article URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/\nComments URL: https://news.ycombinator.com/item?id=47897706\nPoints: 30\n# Comments: 0",
+      "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "published": "Sat, 25 Apr 2026 01:08:14 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.548129"
+      "crawled_at": "2026-04-25T07:01:23.063318"
     },
     {
-      "source": "hackernews",
-      "title": "Google Flow Music",
-      "summary": "Article URL: https://www.flowmusic.app/\nComments URL: https://news.ycombinator.com/item?id=47895765\nPoints: 91\n# Comments: 62",
-      "link": "https://www.flowmusic.app/",
-      "published": "Fri, 24 Apr 2026 21:01:50 +0000",
+      "source": "arstechnica",
+      "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
+      "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+      "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+      "published": "Sat, 25 Apr 2026 02:52:37 +0000",
       "keywords": [
-        "Go",
-        "Google",
-        "AR"
+        "Go"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-04-25T01:21:16.548157"
+      "category": "Tech News",
+      "crawled_at": "2026-04-25T07:01:23.242229"
     },
     {
       "source": "arstechnica",
@@ -219,7 +227,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-04-25T01:21:16.740479"
+      "crawled_at": "2026-04-25T07:01:23.242264"
     },
     {
       "source": "arstechnica",
@@ -231,7 +239,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-25T01:21:16.740525"
+      "crawled_at": "2026-04-25T07:01:23.242298"
     },
     {
       "source": "arstechnica",
@@ -241,7 +249,7 @@
       "published": "Fri, 24 Apr 2026 19:30:14 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.740558"
+      "crawled_at": "2026-04-25T07:01:23.242328"
     },
     {
       "source": "arstechnica",
@@ -254,19 +262,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.740581"
+      "crawled_at": "2026-04-25T07:01:23.242350"
     },
     {
-      "source": "arstechnica",
-      "title": "In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules",
-      "summary": "Treatment options are tricky. The teen opted to live with the masses.",
-      "link": "https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/",
-      "published": "Fri, 24 Apr 2026 18:44:53 +0000",
+      "source": "wired",
+      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "link": "https://www.wired.com/story/altra-promo-code/",
+      "published": "Sat, 25 Apr 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.740609"
+      "category": "Programming",
+      "crawled_at": "2026-04-25T07:01:23.360742"
     },
     {
       "source": "wired",
@@ -278,7 +286,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.927942"
+      "crawled_at": "2026-04-25T07:01:23.360788"
     },
     {
       "source": "wired",
@@ -290,7 +298,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.927987"
+      "crawled_at": "2026-04-25T07:01:23.360843"
     },
     {
       "source": "wired",
@@ -304,7 +312,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.928022"
+      "crawled_at": "2026-04-25T07:01:23.360877"
     },
     {
       "source": "wired",
@@ -316,20 +324,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-25T01:21:16.928053"
-    },
-    {
-      "source": "wired",
-      "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
-      "summary": "A US surveillance program that lets the FBI view Americans’ communications without a warrant is up for renewal. A new bill aims to address mounting lawmaker concerns—with smoke and mirrors.",
-      "link": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
-      "published": "Fri, 24 Apr 2026 15:10:03 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-25T01:21:16.928087"
+      "crawled_at": "2026-04-25T07:01:23.360906"
     }
   ]
 }
