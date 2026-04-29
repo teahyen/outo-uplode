@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-29T01:55:21.613004",
+  "last_updated": "2026-04-29T07:58:35.820595",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "How one venture firm is investing in an increasingly fragmented world",
+      "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+      "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+      "published": "Wed, 29 Apr 2026 03:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "VC",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-04-29T07:58:34.145154"
+    },
     {
       "source": "techcrunch",
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -13,7 +27,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.703597"
+      "crawled_at": "2026-04-29T07:58:34.145190"
     },
     {
       "source": "techcrunch",
@@ -29,7 +43,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.703631"
+      "crawled_at": "2026-04-29T07:58:34.145216"
     },
     {
       "source": "techcrunch",
@@ -42,7 +56,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.703656"
+      "crawled_at": "2026-04-29T07:58:34.145240"
     },
     {
       "source": "techcrunch",
@@ -54,23 +68,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.703679"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-      "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "published": "Tue, 28 Apr 2026 18:15:00 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.703716"
+      "crawled_at": "2026-04-29T07:58:34.145262"
     },
     {
       "source": "theverge",
@@ -82,7 +80,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-29T01:55:20.884251"
+      "crawled_at": "2026-04-29T07:58:34.223415"
     },
     {
       "source": "theverge",
@@ -94,7 +92,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-04-29T01:55:20.884300"
+      "crawled_at": "2026-04-29T07:58:34.223464"
     },
     {
       "source": "theverge",
@@ -107,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.884355"
+      "crawled_at": "2026-04-29T07:58:34.223501"
     },
     {
       "source": "theverge",
@@ -122,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.884388"
+      "crawled_at": "2026-04-29T07:58:34.223547"
     },
     {
       "source": "theverge",
@@ -135,76 +133,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:20.884420"
+      "crawled_at": "2026-04-29T07:58:34.223592"
     },
     {
       "source": "hackernews",
-      "title": "Fuck Off AI Music",
-      "summary": "Article URL: http://fuckoffaimusic.com/\nComments URL: https://news.ycombinator.com/item?id=47942952\nPoints: 5\n# Comments: 0",
-      "link": "http://fuckoffaimusic.com/",
-      "published": "Wed, 29 Apr 2026 01:03:41 +0000",
+      "title": "Wire to Replace Signal as Standard in the Bundestag",
+      "summary": "Article URL: https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html\nComments URL: https://news.ycombinator.com/item?id=47945192\nPoints: 10\n# Comments: 2",
+      "link": "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html",
+      "published": "Wed, 29 Apr 2026 07:31:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.292634"
-    },
-    {
-      "source": "hackernews",
-      "title": "We decreased our LLM costs with Opus",
-      "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs\nComments URL: https://news.ycombinator.com/item?id=47942903\nPoints: 21\n# Comments: 0",
-      "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "published": "Wed, 29 Apr 2026 00:57:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.292669"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude system prompt bug wastes user money and bricks managed agents",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/49363\nComments URL: https://news.ycombinator.com/item?id=47942492\nPoints: 78\n# Comments: 22",
-      "link": "https://github.com/anthropics/claude-code/issues/49363",
-      "published": "Tue, 28 Apr 2026 23:59:57 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude",
         "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.292700"
+      "category": "Tech News",
+      "crawled_at": "2026-04-29T07:58:35.449336"
     },
     {
       "source": "hackernews",
-      "title": "ChatGPT serves ads. Here's the full attribution loop",
-      "summary": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\nComments URL: https://news.ycombinator.com/item?id=47942437\nPoints: 123\n# Comments: 67",
-      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "published": "Tue, 28 Apr 2026 23:54:14 +0000",
+      "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+      "summary": "Article URL: https://dl.acm.org/doi/abs/10.1145/3767295.3803591\nComments URL: https://news.ycombinator.com/item?id=47944931\nPoints: 10\n# Comments: 0",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+      "published": "Wed, 29 Apr 2026 06:47:53 +0000",
       "keywords": [
-        "ChatGPT",
-        "GPT",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.292728"
+      "category": "Tech News",
+      "crawled_at": "2026-04-29T07:58:35.449379"
     },
     {
       "source": "hackernews",
-      "title": "Claude for Creative Work",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-for-creative-work\nComments URL: https://news.ycombinator.com/item?id=47942386\nPoints: 38\n# Comments: 29",
-      "link": "https://www.anthropic.com/news/claude-for-creative-work",
-      "published": "Tue, 28 Apr 2026 23:46:56 +0000",
+      "title": "Germany Overtakes US in Ammunition Production Capacity",
+      "summary": "Article URL: https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409\nComments URL: https://news.ycombinator.com/item?id=47944924\nPoints: 49\n# Comments: 22",
+      "link": "https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409",
+      "published": "Wed, 29 Apr 2026 06:46:42 +0000",
       "keywords": [
-        "Anthropic",
-        "Claude",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.292754"
+      "category": "Tech News",
+      "crawled_at": "2026-04-29T07:58:35.449417"
+    },
+    {
+      "source": "hackernews",
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "summary": "Article URL: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle\nComments URL: https://news.ycombinator.com/item?id=47944864\nPoints: 21\n# Comments: 3",
+      "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "published": "Wed, 29 Apr 2026 06:38:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-29T07:58:35.449452"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bugs Rust won't catch",
+      "summary": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/\nComments URL: https://news.ycombinator.com/item?id=47943499\nPoints: 204\n# Comments: 74",
+      "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "published": "Wed, 29 Apr 2026 02:19:11 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-04-29T07:58:35.449478"
     },
     {
       "source": "arstechnica",
@@ -216,7 +207,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-29T01:55:21.469999"
+      "crawled_at": "2026-04-29T07:58:35.634845"
     },
     {
       "source": "arstechnica",
@@ -228,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-29T01:55:21.470032"
+      "crawled_at": "2026-04-29T07:58:35.634879"
     },
     {
       "source": "arstechnica",
@@ -238,7 +229,7 @@
       "published": "Tue, 28 Apr 2026 19:57:13 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-29T01:55:21.470060"
+      "crawled_at": "2026-04-29T07:58:35.634907"
     },
     {
       "source": "arstechnica",
@@ -250,7 +241,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-29T01:55:21.470089"
+      "crawled_at": "2026-04-29T07:58:35.634936"
     },
     {
       "source": "arstechnica",
@@ -264,7 +255,17 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.470110"
+      "crawled_at": "2026-04-29T07:58:35.634958"
+    },
+    {
+      "source": "wired",
+      "title": "20% Off LG Promo Code & Coupons | May 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 29 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-29T07:58:35.820376"
     },
     {
       "source": "wired",
@@ -278,7 +279,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.612801"
+      "crawled_at": "2026-04-29T07:58:35.820422"
     },
     {
       "source": "wired",
@@ -292,7 +293,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.612839"
+      "crawled_at": "2026-04-29T07:58:35.820456"
     },
     {
       "source": "wired",
@@ -305,7 +306,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.612871"
+      "crawled_at": "2026-04-29T07:58:35.820487"
     },
     {
       "source": "wired",
@@ -319,20 +320,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.612898"
-    },
-    {
-      "source": "wired",
-      "title": "The UK’s Answer to Darpa Wants to Rewire the Human Brain",
-      "summary": "ARIA has a billion-dollar budget and big aspirations for tackling everything from epilepsy to Alzheimer's.",
-      "link": "https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/",
-      "published": "Tue, 28 Apr 2026 17:58:29 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-29T01:55:21.612924"
+      "crawled_at": "2026-04-29T07:58:35.820515"
     }
   ]
 }
