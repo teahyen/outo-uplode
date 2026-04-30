@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-04-30T01:55:25.285518",
+  "last_updated": "2026-04-30T08:01:30.819025",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "published": "Thu, 30 Apr 2026 03:58:22 +0000",
+      "keywords": [
+        "AI",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-30T08:01:28.871335"
+    },
     {
       "source": "techcrunch",
       "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
@@ -16,7 +30,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:05.119044"
+      "crawled_at": "2026-04-30T08:01:28.871385"
     },
     {
       "source": "techcrunch",
@@ -32,7 +46,7 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.119092"
+      "crawled_at": "2026-04-30T08:01:28.871424"
     },
     {
       "source": "techcrunch",
@@ -47,7 +61,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.119121"
+      "crawled_at": "2026-04-30T08:01:28.871452"
     },
     {
       "source": "techcrunch",
@@ -60,23 +74,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.119149"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta is still burning money on AR/VR",
-      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-      "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Meta",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.119174"
+      "crawled_at": "2026-04-30T08:01:28.871479"
     },
     {
       "source": "theverge",
@@ -86,7 +84,7 @@
       "published": "2026-04-29T20:01:24-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:05.214719"
+      "crawled_at": "2026-04-30T08:01:29.015055"
     },
     {
       "source": "theverge",
@@ -99,7 +97,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:05.214791"
+      "crawled_at": "2026-04-30T08:01:29.015143"
     },
     {
       "source": "theverge",
@@ -113,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.214829"
+      "crawled_at": "2026-04-30T08:01:29.015183"
     },
     {
       "source": "theverge",
@@ -128,7 +126,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-04-30T01:55:05.214869"
+      "crawled_at": "2026-04-30T08:01:29.015227"
     },
     {
       "source": "theverge",
@@ -143,75 +141,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:05.214910"
+      "crawled_at": "2026-04-30T08:01:29.015271"
     },
     {
       "source": "hackernews",
-      "title": "Claude.ai and API Unavailable",
-      "summary": "Article URL: https://status.claude.com/incidents/2gf1jpyty350\nComments URL: https://news.ycombinator.com/item?id=47956895\nPoints: 70\n# Comments: 51",
-      "link": "https://status.claude.com/incidents/2gf1jpyty350",
-      "published": "Thu, 30 Apr 2026 01:21:03 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.028955"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude.ai Down Again?",
-      "summary": "Please run /login · API Error: 403 {\"type\":\"error\",\"error\":{\"type\":\"permission_error\",\"message\":\"Account is no longer a member of the organization associated with this token.\"}}Can't reach Claude\nCheck your connection.\n\nComments URL: https://news.ycombinator.com/item?id=47956890\nPoints: 7\n# Comments",
-      "link": "https://news.ycombinator.com/item?id=47956890",
-      "published": "Thu, 30 Apr 2026 01:20:39 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.029002"
-    },
-    {
-      "source": "hackernews",
-      "title": "Be Alexandra Elbakyan",
-      "summary": "Article URL: https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m\nComments URL: https://news.ycombinator.com/item?id=47955655\nPoints: 96\n# Comments: 8",
-      "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-      "published": "Wed, 29 Apr 2026 22:39:34 +0000",
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9718\nComments URL: https://news.ycombinator.com/item?id=47958942\nPoints: 30\n# Comments: 15",
+      "link": "https://scottaaronson.blog/?p=9718",
+      "published": "Thu, 30 Apr 2026 06:30:30 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.029038"
+      "crawled_at": "2026-04-30T08:01:30.283108"
     },
     {
       "source": "hackernews",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=47955226\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "published": "Wed, 29 Apr 2026 21:50:57 +0000",
+      "title": "Monad Tutorials Timeline",
+      "summary": "Article URL: https://wiki.haskell.org/Monad_tutorials_timeline\nComments URL: https://news.ycombinator.com/item?id=47958106\nPoints: 22\n# Comments: 3",
+      "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "published": "Thu, 30 Apr 2026 04:28:07 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-30T08:01:30.283165"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lessons from Building an OTel Normalizer for GenAI",
+      "summary": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1\nComments URL: https://news.ycombinator.com/item?id=47958081\nPoints: 4\n# Comments: 0",
+      "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+      "published": "Thu, 30 Apr 2026 04:23:40 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-04-30T08:01:30.283194"
+    },
+    {
+      "source": "hackernews",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "summary": "Article URL: https://burrito.bio/essays/biology-is-a-burrito\nComments URL: https://news.ycombinator.com/item?id=47957714\nPoints: 74\n# Comments: 11",
+      "link": "https://burrito.bio/essays/biology-is-a-burrito",
+      "published": "Thu, 30 Apr 2026 03:24:41 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-04-30T08:01:30.283229"
+    },
+    {
+      "source": "hackernews",
+      "title": "Where the goblins came from",
+      "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 466\n# Comments: 239",
+      "link": "https://openai.com/index/where-the-goblins-came-from/",
+      "published": "Thu, 30 Apr 2026 03:21:04 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.029077"
-    },
-    {
-      "source": "hackernews",
-      "title": "Vera: a programming language designed for machines to write",
-      "summary": "Article URL: https://github.com/aallan/vera\nComments URL: https://news.ycombinator.com/item?id=47955118\nPoints: 45\n# Comments: 29",
-      "link": "https://github.com/aallan/vera",
-      "published": "Wed, 29 Apr 2026 21:41:32 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-04-30T01:55:25.029105"
+      "category": "AI/ML",
+      "crawled_at": "2026-04-30T08:01:30.283255"
     },
     {
       "source": "arstechnica",
@@ -223,7 +217,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.155659"
+      "crawled_at": "2026-04-30T08:01:30.650409"
     },
     {
       "source": "arstechnica",
@@ -237,7 +231,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.155735"
+      "crawled_at": "2026-04-30T08:01:30.650443"
     },
     {
       "source": "arstechnica",
@@ -250,7 +244,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.155761"
+      "crawled_at": "2026-04-30T08:01:30.650467"
     },
     {
       "source": "arstechnica",
@@ -263,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.155793"
+      "crawled_at": "2026-04-30T08:01:30.650499"
     },
     {
       "source": "arstechnica",
@@ -275,7 +269,17 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.155823"
+      "crawled_at": "2026-04-30T08:01:30.650532"
+    },
+    {
+      "source": "wired",
+      "title": "Nike Promo Codes and Deals: 30% Off",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "published": "Thu, 30 Apr 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-04-30T08:01:30.818769"
     },
     {
       "source": "wired",
@@ -290,7 +294,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.285242"
+      "crawled_at": "2026-04-30T08:01:30.818811"
     },
     {
       "source": "wired",
@@ -302,7 +306,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.285293"
+      "crawled_at": "2026-04-30T08:01:30.818856"
     },
     {
       "source": "wired",
@@ -315,7 +319,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.285321"
+      "crawled_at": "2026-04-30T08:01:30.818884"
     },
     {
       "source": "wired",
@@ -327,20 +331,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-04-30T01:55:25.285356"
-    },
-    {
-      "source": "wired",
-      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
-      "link": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-      "published": "Wed, 29 Apr 2026 17:23:52 +0000",
-      "keywords": [
-        "AI",
-        "REST"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-04-30T01:55:25.285383"
+      "crawled_at": "2026-04-30T08:01:30.818920"
     }
   ]
 }
