@@ -1,7 +1,66 @@
 {
-  "last_updated": "2026-05-01T12:53:23.957508",
+  "last_updated": "2026-05-01T18:55:33.909459",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+      "link": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "published": "Fri, 01 May 2026 18:23:04 +0000",
+      "keywords": [
+        "Anthropic",
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:31.149507"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Go",
+        "AWS",
+        "Microsoft"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:31.149544"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ubuntu services hit by outages after DDoS attack",
+      "summary": "A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-based operating system.",
+      "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
+      "published": "Fri, 01 May 2026 15:00:14 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Linux"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:31.149569"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Musk v. Altman is just getting started",
+      "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg",
+      "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "published": "Fri, 01 May 2026 14:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:31.149613"
+    },
     {
       "source": "techcrunch",
       "title": "People are finally using Reddit’s search",
@@ -13,261 +72,231 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.149819"
+      "crawled_at": "2026-05-01T18:55:31.149636"
     },
     {
-      "source": "techcrunch",
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
-      "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "published": "Fri, 01 May 2026 02:00:00 +0000",
+      "source": "theverge",
+      "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
+      "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you’re looking ",
+      "link": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
+      "published": "2026-05-01T14:42:24-04:00",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:31.221235"
+    },
+    {
+      "source": "theverge",
+      "title": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
+      "summary": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's price, or ask Amazon's AI assistant Rufus. The expansion comes just weeks ahead o",
+      "link": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
+      "published": "2026-05-01T13:55:22-04:00",
       "keywords": [
         "AI",
-        "ChatGPT",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:31.221276"
+    },
+    {
+      "source": "theverge",
+      "title": "Dreame — the vacuum company — just ‘launched’ its own phones",
+      "summary": "Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at its own Next event, which took place in California this week, though both had previously been revealed",
+      "link": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
+      "published": "2026-05-01T13:55:08-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:31.221321"
+    },
+    {
+      "source": "theverge",
+      "title": "This accessory can snap a Steam Controller to your phone — or almost anything else",
+      "summary": "Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Controller to your phone - as well as Mechanism's lineup of accessories, including mounts for hanging handhe",
+      "link": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
+      "published": "2026-05-01T13:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:31.221381"
+    },
+    {
+      "source": "theverge",
+      "title": "Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;",
+      "summary": "The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a player's underperformance or injury, Sports Business Journal reports. In their letter, the unions cite",
+      "link": "https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets",
+      "published": "2026-05-01T12:57:27-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-01T18:55:31.221419"
+    },
+    {
+      "source": "hackernews",
+      "title": "A statement about why RightsCon 2026 will not take place in Zambia",
+      "summary": "Article URL: https://www.rightscon.org/rc26-statement/\nComments URL: https://news.ycombinator.com/item?id=47978386\nPoints: 6\n# Comments: 0",
+      "link": "https://www.rightscon.org/rc26-statement/",
+      "published": "Fri, 01 May 2026 18:38:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:33.713071"
+    },
+    {
+      "source": "hackernews",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "summary": "Article URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\nComments URL: https://news.ycombinator.com/item?id=47978370\nPoints: 9\n# Comments: 1",
+      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "published": "Fri, 01 May 2026 18:37:47 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:33.713116"
+    },
+    {
+      "source": "hackernews",
+      "title": "It's Possible to Learn in Our Sleep. Should We?",
+      "summary": "Article URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we\nComments URL: https://news.ycombinator.com/item?id=47977748\nPoints: 4\n# Comments: 1",
+      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "published": "Fri, 01 May 2026 17:47:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:33.713148"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AI CAD Harness",
+      "summary": "Hi HN, I'm Zach, one of the co-founders of Adam (https://adam.new).We've been on HN twice before with text-to-CAD/3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but serious mechanical engineers don't want a black box that spits out an STL. They wa",
+      "link": "https://fusion.adam.new/install",
+      "published": "Fri, 01 May 2026 17:43:53 +0000",
+      "keywords": [
+        "AI",
         "GPT",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.149862"
-    },
-    {
-      "source": "techcrunch",
-      "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-      "summary": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.",
-      "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-      "published": "Thu, 30 Apr 2026 23:59:15 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.149894"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-      "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-      "link": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-      "published": "Thu, 30 Apr 2026 23:58:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.149941"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "published": "Thu, 30 Apr 2026 23:07:56 +0000",
-      "keywords": [
-        "AI",
         "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.149998"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, th",
-      "link": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "published": "2026-05-01T07:18:54-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "Microsoft"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.349880"
-    },
-    {
-      "source": "theverge",
-      "title": "Dyson finally made a better robot, but a worse vacuum",
-      "summary": "I'm deeply conflicted about the Dyson Spot + Scrub Ai robot vacuum and mop. It's the company's best robotic floor cleaner to date, with excellent mopping performance, good navigation and obstacle detection, and a multifunction dock that takes much of the busywork off your hands. But Dyson's first at",
-      "link": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
-      "published": "2026-05-01T07:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.349951"
-    },
-    {
-      "source": "theverge",
-      "title": "Dyson put someone else’s motor in its robot vacuum",
-      "summary": "Dyson, a company built on engineering high-speed motors, has confirmed to The Verge that its newest robot vacuum doesn't use a Dyson motor. The recently launched Spot &#38; Scrub Ai robot vacuum and mop was \"co-engineered,\" Nathan Lawson McLean, senior design manager at Dyson, told The Verge. Accord",
-      "link": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
-      "published": "2026-05-01T07:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.350003"
-    },
-    {
-      "source": "theverge",
-      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-      "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testi",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-      "published": "2026-04-30T18:59:51-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.350034"
-    },
-    {
-      "source": "theverge",
-      "title": "Roblox’s daily users continue to drop as age checks slow growth",
-      "summary": "Roblox's daily active users continued to slip last quarter due in part to its rollout of age checks on its platform. According to its latest earnings report, Roblox currently has 132 million daily active users globally, down from 144 million at the end of last year, which was a drop from 152 million",
-      "link": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-      "published": "2026-04-30T17:25:15-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.350072"
-    },
-    {
-      "source": "hackernews",
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "summary": "Article URL: https://www.pagetable.com/?p=1854\nComments URL: https://news.ycombinator.com/item?id=47973755\nPoints: 10\n# Comments: 1",
-      "link": "https://www.pagetable.com/?p=1854",
-      "published": "Fri, 01 May 2026 11:58:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.587025"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Site Mogging",
-      "summary": "Hi HN,I've been playing around with Cloudflare's Browser Run and Workers AI to create this funny \"website vs website\"-website.Google's Gemma 4b model is actually quite good at vision.\n\nComments URL: https://news.ycombinator.com/item?id=47973559\nPoints: 10\n# Comments: 5",
-      "link": "https://sitemogging.com",
-      "published": "Fri, 01 May 2026 11:32:48 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Cloud",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.587068"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "summary": "Article URL: https://xcancel.com/aaronp613/status/2049986504617820551\nComments URL: https://news.ycombinator.com/item?id=47973378\nPoints: 54\n# Comments: 23",
-      "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
-      "published": "Fri, 01 May 2026 11:08:32 +0000",
-      "keywords": [
         "Claude",
-        "Apple",
-        "AR"
+        "Python"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.587098"
+      "crawled_at": "2026-05-01T18:55:33.713307"
     },
     {
       "source": "hackernews",
-      "title": "Your Website Is Not for You",
-      "summary": "Article URL: https://websmith.studio/blog/your-website-is-not-for-you/\nComments URL: https://news.ycombinator.com/item?id=47973376\nPoints: 58\n# Comments: 30",
-      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "published": "Fri, 01 May 2026 11:08:20 +0000",
+      "title": "Show HN: My Private GitHub on Postgres",
+      "summary": "Article URL: https://github.com/calebwin/gitgres\nComments URL: https://news.ycombinator.com/item?id=47977659\nPoints: 19\n# Comments: 7",
+      "link": "https://github.com/calebwin/gitgres",
+      "published": "Fri, 01 May 2026 17:40:15 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:33.713347"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Senators ban themselves from prediction markets after candidates bet on own races",
+      "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
+      "published": "Fri, 01 May 2026 17:51:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.587131"
-    },
-    {
-      "source": "hackernews",
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-      "summary": "Article URL: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/\nComments URL: https://news.ycombinator.com/item?id=47973108\nPoints: 74\n# Comments: 45",
-      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "published": "Fri, 01 May 2026 10:28:12 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.587162"
+      "crawled_at": "2026-05-01T18:55:33.821358"
     },
     {
       "source": "arstechnica",
-      "title": "There's a lot of hype about Chinese EVs—is any of it true?",
-      "summary": "In addition to being full of screens, China now wants its cars to be packed with AI.",
-      "link": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
-      "published": "Fri, 01 May 2026 11:00:15 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.765339"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Trump nominates Fox News doctor to be the next surgeon general",
-      "summary": "Trump lashes out at Cassidy while announcing his new nomination.",
-      "link": "https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/",
-      "published": "Thu, 30 Apr 2026 22:09:36 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.765376"
-    },
-    {
-      "source": "arstechnica",
-      "title": "US falls below Ukraine in press freedom as global autocracy takes hold",
-      "summary": "\"In 25 years, the average score... has never been so low.\"",
-      "link": "https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/",
-      "published": "Thu, 30 Apr 2026 21:53:48 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.765399"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Russia cloaks launch schedule after spaceport falls in Ukraine's sights",
-      "summary": "\"We had serious inbound attempts to the cosmodrome that day.\"",
-      "link": "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
-      "published": "Thu, 30 Apr 2026 21:35:02 +0000",
+      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+      "published": "Fri, 01 May 2026 17:36:29 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.765420"
+      "crawled_at": "2026-05-01T18:55:33.821388"
     },
     {
       "source": "arstechnica",
-      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-      "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-      "link": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-      "published": "Thu, 30 Apr 2026 21:11:51 +0000",
+      "title": "Amazon stuck with months of repairs after drone strikes on data centers",
+      "summary": "AWS stops billing Middle East cloud customers as repairs to war damage drag on.",
+      "link": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+      "published": "Fri, 01 May 2026 17:09:59 +0000",
       "keywords": [
         "AI",
-        "OpenAI"
+        "AWS",
+        "Amazon",
+        "Cloud",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.765441"
+      "crawled_at": "2026-05-01T18:55:33.821408"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Scorpions go terminator mode and reinforce their weapons with metal",
+      "summary": "Different hunting patterns seem to dictate different distributions of metal.",
+      "link": "https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/",
+      "published": "Fri, 01 May 2026 16:24:45 +0000",
+      "keywords": [
+        "Go",
+        "Meta"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-01T18:55:33.821431"
+    },
+    {
+      "source": "arstechnica",
+      "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+      "summary": "New results suggest Mythos' cyber threat isn't \"a breakthrough specific to one model.\"",
+      "link": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+      "published": "Fri, 01 May 2026 15:32:27 +0000",
+      "keywords": [
+        "GPT",
+        "Security",
+        "Cybersecurity"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:33.821449"
+    },
+    {
+      "source": "wired",
+      "title": "The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled",
+      "summary": "Access Now, the group that organizes RightsCon, says Zambian officials asked it to exclude Taiwanese participants if it wanted the event to proceed as planned.",
+      "link": "https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/",
+      "published": "Fri, 01 May 2026 16:49:22 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:33.909160"
+    },
+    {
+      "source": "wired",
+      "title": "You Found Satoshi? Let’s See the Receipts",
+      "summary": "Two new projects, including one from a Pulitzer-winning reporter, claim they’ve solved the mystery of Bitcoin’s creator. So why does the hunt continue?",
+      "link": "https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/",
+      "published": "Fri, 01 May 2026 15:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-01T18:55:33.909195"
     },
     {
       "source": "wired",
@@ -280,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.957226"
+      "crawled_at": "2026-05-01T18:55:33.909221"
     },
     {
       "source": "wired",
@@ -292,7 +321,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.957260"
+      "crawled_at": "2026-05-01T18:55:33.909243"
     },
     {
       "source": "wired",
@@ -305,31 +334,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.957291"
-    },
-    {
-      "source": "wired",
-      "title": "Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing",
-      "summary": "This all-in-one indoor-outdoor projector from Anker is compact, affordable, and water-resistant—but not cinema quality.",
-      "link": "https://www.wired.com/review/soundcore-nebula-p1/",
-      "published": "Fri, 01 May 2026 10:03:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-01T12:53:23.957341"
-    },
-    {
-      "source": "wired",
-      "title": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
-      "summary": "Osteoarthritis has no cure, but researchers have developed new therapies that help aging or damaged joints repair themselves in a matter of weeks.",
-      "link": "https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/",
-      "published": "Fri, 01 May 2026 09:30:00 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-01T12:53:23.957368"
+      "crawled_at": "2026-05-01T18:55:33.909266"
     }
   ]
 }
