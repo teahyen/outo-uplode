@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:17:55.492485",
+  "last_updated": "2026-05-02T12:43:40.814783",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-02T07:17:53.746279"
+      "crawled_at": "2026-05-02T12:43:40.066532"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-02T07:17:53.746349"
+      "crawled_at": "2026-05-02T12:43:40.066613"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.746376"
+      "crawled_at": "2026-05-02T12:43:40.066642"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.746400"
+      "crawled_at": "2026-05-02T12:43:40.066666"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,30 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:53.746433"
+      "crawled_at": "2026-05-02T12:43:40.066697"
+    },
+    {
+      "source": "theverge",
+      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the ",
+      "link": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "published": "2026-05-02T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-02T12:43:40.190078"
+    },
+    {
+      "source": "theverge",
+      "title": "The things we’re building",
+      "summary": "Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read all the old editions at the Installer homepage.) Happy Ruthless Self-Promotion Week! We're dedicating alm",
+      "link": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "published": "2026-05-02T08:00:00-04:00",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-05-02T12:43:40.190139"
     },
     {
       "source": "theverge",
@@ -84,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.864230"
+      "crawled_at": "2026-05-02T12:43:40.190181"
     },
     {
       "source": "theverge",
@@ -99,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.864276"
+      "crawled_at": "2026-05-02T12:43:40.190232"
     },
     {
       "source": "theverge",
@@ -113,98 +136,91 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.864311"
+      "crawled_at": "2026-05-02T12:43:40.190266"
     },
     {
-      "source": "theverge",
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hig",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "published": "2026-05-01T15:14:51-04:00",
+      "source": "hackernews",
+      "title": "GameStop Preparing Offer for eBay",
+      "summary": "Article URL: https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de\nComments URL: https://news.ycombinator.com/item?id=47985271\nPoints: 16\n# Comments: 3",
+      "link": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
+      "published": "Sat, 02 May 2026 10:55:25 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-02T12:43:40.633471"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+      "summary": "I searched for a simple, self-hosted journal app for my girlfriend and everything I found was either too\ncomplex, too feature-heavy, too feature-less for what I needed or required trusting a cloud service.So I built Piruetas (it means pirouettes in Spanish - she chose the name btw).It's a day-per-pa",
+      "link": "https://piruet.app",
+      "published": "Sat, 02 May 2026 10:42:55 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Docker",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-02T12:43:40.633562"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural language, the AI generates Python code, executes it locally, and the whole conversation",
+      "link": "https://mljar.com/",
+      "published": "Sat, 02 May 2026 10:21:31 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "AR"
+        "Python",
+        "Windows",
+        "Linux"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:53.864344"
-    },
-    {
-      "source": "theverge",
-      "title": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
-      "summary": "From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, particularly the new Birdfy Feeder Metal 2 (4K), which is on sale for $259.99 ($50 off). If you’re looking ",
-      "link": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
-      "published": "2026-05-01T14:42:24-04:00",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:53.864405"
+      "crawled_at": "2026-05-02T12:43:40.633686"
     },
     {
       "source": "hackernews",
-      "title": "Spirit Airlines Is Winding Down All Operations",
-      "summary": "Article URL: https://www.spiritrestructuring.com/\nComments URL: https://news.ycombinator.com/item?id=47983873\nPoints: 15\n# Comments: 12",
-      "link": "https://www.spiritrestructuring.com/",
-      "published": "Sat, 02 May 2026 06:28:00 +0000",
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "summary": "Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/\nComments URL: https://news.ycombinator.com/item?id=47984852\nPoints: 57\n# Comments: 16",
+      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "published": "Sat, 02 May 2026 09:30:49 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-02T12:43:40.633725"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "summary": "Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 / ANSI/IES RP-8 / CJJ 45 / IES-IDA MLO, and (the part I most want to show off her",
+      "link": "https://iesna.eu/?wasm=skyglow_demo",
+      "published": "Sat, 02 May 2026 09:08:18 +0000",
       "keywords": [
         "AI",
-        "REST",
-        "AR"
+        "Rust",
+        "Go",
+        "Git",
+        "GitHub"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:55.196750"
+      "crawled_at": "2026-05-02T12:43:40.633864"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-      "summary": "Article URL: https://mathstick.github.io\nComments URL: https://news.ycombinator.com/item?id=47983485\nPoints: 3\n# Comments: 3",
-      "link": "https://mathstick.github.io",
-      "published": "Sat, 02 May 2026 05:04:39 +0000",
+      "source": "arstechnica",
+      "title": "Infrasound waves stop kitchen fires, but can they replace sprinklers?",
+      "summary": "Acoustic fire suppression goes commercial.",
+      "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
+      "published": "Sat, 02 May 2026 11:30:26 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
+        "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.196797"
-    },
-    {
-      "source": "hackernews",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer\nComments URL: https://news.ycombinator.com/item?id=47983385\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-      "published": "Sat, 02 May 2026 04:43:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.196837"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why does it take so long to release black fan versions?",
-      "summary": "Article URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\nComments URL: https://news.ycombinator.com/item?id=47983352\nPoints: 83\n# Comments: 22",
-      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "published": "Sat, 02 May 2026 04:38:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.196879"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask.com has closed",
-      "summary": "Article URL: https://www.ask.com/\nComments URL: https://news.ycombinator.com/item?id=47983226\nPoints: 202\n# Comments: 102",
-      "link": "https://www.ask.com/",
-      "published": "Sat, 02 May 2026 04:12:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.196909"
+      "crawled_at": "2026-05-02T12:43:40.722818"
     },
     {
       "source": "arstechnica",
@@ -217,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:55.353844"
+      "crawled_at": "2026-05-02T12:43:40.722856"
     },
     {
       "source": "arstechnica",
@@ -233,7 +249,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T07:17:55.353875"
+      "crawled_at": "2026-05-02T12:43:40.722880"
     },
     {
       "source": "arstechnica",
@@ -245,7 +261,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.353906"
+      "crawled_at": "2026-05-02T12:43:40.722909"
     },
     {
       "source": "arstechnica",
@@ -257,73 +273,72 @@
         "Vulnerability"
       ],
       "category": "Security",
-      "crawled_at": "2026-05-02T07:17:55.353932"
+      "crawled_at": "2026-05-02T12:43:40.722934"
     },
     {
-      "source": "arstechnica",
-      "title": "Senators ban themselves from prediction markets after candidates bet on own races",
-      "summary": "Senator decries \"blatant, brazen corruption,\" wants to target Trump admin next.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
-      "published": "Fri, 01 May 2026 17:51:24 +0000",
+      "source": "wired",
+      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
+      "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
+      "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+      "published": "Sat, 02 May 2026 11:30:00 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-05-02T12:43:40.814565"
+    },
+    {
+      "source": "wired",
+      "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "published": "Sat, 02 May 2026 10:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-02T12:43:40.814605"
+    },
+    {
+      "source": "wired",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "published": "Sat, 02 May 2026 10:30:00 +0000",
+      "keywords": [
+        "Anthropic",
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-02T12:43:40.814643"
+    },
+    {
+      "source": "wired",
+      "title": "Apple AirPods Max 2 Review: The Best Over-Ears for iOS",
+      "summary": "If you're an iPhone user, the Apple AirPods Max 2 are still the best over-ear headphones you can buy.",
+      "link": "https://www.wired.com/review/apple-airpods-max-2/",
+      "published": "Sat, 02 May 2026 10:14:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-02T12:43:40.814665"
+    },
+    {
+      "source": "wired",
+      "title": "Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker",
+      "summary": "The owl-shaped Ottocast Cabin Care adapter turns your vehicle's CarPlay screen into a back seat camera.",
+      "link": "https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/",
+      "published": "Sat, 02 May 2026 10:08:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T07:17:55.353961"
-    },
-    {
-      "source": "wired",
-      "title": "Therabody Promo Codes: 15% Off May 2026",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "link": "https://www.wired.com/story/therabody-promo-code/",
-      "published": "Sat, 02 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T07:17:55.492297"
-    },
-    {
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | May 2026",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "published": "Sat, 02 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T07:17:55.492329"
-    },
-    {
-      "source": "wired",
-      "title": "Surfshark Promo Codes: 87% Off | May 2026",
-      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "link": "https://www.wired.com/story/surfshark-coupon/",
-      "published": "Sat, 02 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T07:17:55.492353"
-    },
-    {
-      "source": "wired",
-      "title": "20% Off Brooks Promo Code & Deals for | May 2026",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "published": "Sat, 02 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T07:17:55.492378"
-    },
-    {
-      "source": "wired",
-      "title": "Columbia Promo Codes: \t15% Off | May2026",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "published": "Sat, 02 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T07:17:55.492405"
+      "crawled_at": "2026-05-02T12:43:40.814695"
     }
   ]
 }
