@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-02T01:45:42.565609",
+  "last_updated": "2026-05-02T07:17:55.492485",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "summary": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "published": "Sat, 02 May 2026 06:36:28 +0000",
+      "keywords": [
+        "VC",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-05-02T07:17:53.746279"
+    },
     {
       "source": "techcrunch",
       "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
@@ -13,7 +26,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-02T01:45:40.792946"
+      "crawled_at": "2026-05-02T07:17:53.746349"
     },
     {
       "source": "techcrunch",
@@ -27,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.792981"
+      "crawled_at": "2026-05-02T07:17:53.746376"
     },
     {
       "source": "techcrunch",
@@ -42,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.793006"
+      "crawled_at": "2026-05-02T07:17:53.746400"
     },
     {
       "source": "techcrunch",
@@ -56,23 +69,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:40.793039"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "published": "Fri, 01 May 2026 16:02:36 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "AWS",
-        "Microsoft"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.793067"
+      "crawled_at": "2026-05-02T07:17:53.746433"
     },
     {
       "source": "theverge",
@@ -87,7 +84,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.906541"
+      "crawled_at": "2026-05-02T07:17:53.864230"
     },
     {
       "source": "theverge",
@@ -102,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.906583"
+      "crawled_at": "2026-05-02T07:17:53.864276"
     },
     {
       "source": "theverge",
@@ -116,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.906615"
+      "crawled_at": "2026-05-02T07:17:53.864311"
     },
     {
       "source": "theverge",
@@ -130,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:40.906645"
+      "crawled_at": "2026-05-02T07:17:53.864344"
     },
     {
       "source": "theverge",
@@ -143,68 +140,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:40.906704"
+      "crawled_at": "2026-05-02T07:17:53.864405"
     },
     {
       "source": "hackernews",
-      "title": "Good developers learn to program. Most courses teach a language",
-      "summary": "Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language\nComments URL: https://news.ycombinator.com/item?id=47981995\nPoints: 7\n# Comments: 1",
-      "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
-      "published": "Sat, 02 May 2026 00:14:33 +0000",
+      "title": "Spirit Airlines Is Winding Down All Operations",
+      "summary": "Article URL: https://www.spiritrestructuring.com/\nComments URL: https://news.ycombinator.com/item?id=47983873\nPoints: 15\n# Comments: 12",
+      "link": "https://www.spiritrestructuring.com/",
+      "published": "Sat, 02 May 2026 06:28:00 +0000",
       "keywords": [
-        "Go",
+        "AI",
+        "REST",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-02T01:45:42.258669"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-02T07:17:55.196750"
     },
     {
       "source": "hackernews",
-      "title": "Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987",
-      "summary": "Article URL: https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026\nComments URL: https://news.ycombinator.com/item?id=47981800\nPoints: 7\n# Comments: 2",
-      "link": "https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026",
-      "published": "Fri, 01 May 2026 23:44:18 +0000",
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "summary": "Article URL: https://mathstick.github.io\nComments URL: https://news.ycombinator.com/item?id=47983485\nPoints: 3\n# Comments: 3",
+      "link": "https://mathstick.github.io",
+      "published": "Sat, 02 May 2026 05:04:39 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-02T07:17:55.196797"
+    },
+    {
+      "source": "hackernews",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer\nComments URL: https://news.ycombinator.com/item?id=47983385\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "published": "Sat, 02 May 2026 04:43:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.258717"
+      "crawled_at": "2026-05-02T07:17:55.196837"
     },
     {
       "source": "hackernews",
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\nComments URL: https://news.ycombinator.com/item?id=47981669\nPoints: 21\n# Comments: 4",
-      "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "published": "Fri, 01 May 2026 23:24:10 +0000",
+      "title": "Why does it take so long to release black fan versions?",
+      "summary": "Article URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\nComments URL: https://news.ycombinator.com/item?id=47983352\nPoints: 83\n# Comments: 22",
+      "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "published": "Sat, 02 May 2026 04:38:04 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.258756"
+      "crawled_at": "2026-05-02T07:17:55.196879"
     },
     {
       "source": "hackernews",
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "summary": "Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\nComments URL: https://news.ycombinator.com/item?id=47979839\nPoints: 187\n# Comments: 156",
-      "link": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "published": "Fri, 01 May 2026 20:26:24 +0000",
+      "title": "Ask.com has closed",
+      "summary": "Article URL: https://www.ask.com/\nComments URL: https://news.ycombinator.com/item?id=47983226\nPoints: 202\n# Comments: 102",
+      "link": "https://www.ask.com/",
+      "published": "Sat, 02 May 2026 04:12:35 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.258821"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ti-84 Evo",
-      "summary": "Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\nComments URL: https://news.ycombinator.com/item?id=47979583\nPoints: 280\n# Comments: 276",
-      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "published": "Fri, 01 May 2026 20:06:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.258859"
+      "crawled_at": "2026-05-02T07:17:55.196909"
     },
     {
       "source": "arstechnica",
@@ -217,7 +217,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:42.368570"
+      "crawled_at": "2026-05-02T07:17:55.353844"
     },
     {
       "source": "arstechnica",
@@ -233,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:42.368600"
+      "crawled_at": "2026-05-02T07:17:55.353875"
     },
     {
       "source": "arstechnica",
@@ -245,7 +245,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.368631"
+      "crawled_at": "2026-05-02T07:17:55.353906"
     },
     {
       "source": "arstechnica",
@@ -257,7 +257,7 @@
         "Vulnerability"
       ],
       "category": "Security",
-      "crawled_at": "2026-05-02T01:45:42.368657"
+      "crawled_at": "2026-05-02T07:17:55.353932"
     },
     {
       "source": "arstechnica",
@@ -269,76 +269,61 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.368685"
+      "crawled_at": "2026-05-02T07:17:55.353961"
     },
     {
       "source": "wired",
-      "title": "Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars",
-      "summary": "As adult riders report new age-verification checks, the self-driving car company says it’s continuing to “refine” its system in places where kids aren’t allowed to ride alone.",
-      "link": "https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/",
-      "published": "Fri, 01 May 2026 22:25:42 +0000",
+      "title": "Therabody Promo Codes: 15% Off May 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Sat, 02 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-02T07:17:55.492297"
+    },
+    {
+      "source": "wired",
+      "title": "30% Off Canon Promo Codes | May 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "published": "Sat, 02 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-02T07:17:55.492329"
+    },
+    {
+      "source": "wired",
+      "title": "Surfshark Promo Codes: 87% Off | May 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "published": "Sat, 02 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.565401"
+      "category": "Programming",
+      "crawled_at": "2026-05-02T07:17:55.492353"
     },
     {
       "source": "wired",
-      "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-      "summary": "ChatGPT’s new privacy policy states how the company uses cookies for tracking, to turn free users into paying subscribers.",
-      "link": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-      "published": "Fri, 01 May 2026 21:46:46 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:42.565437"
+      "title": "20% Off Brooks Promo Code & Deals for | May 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "link": "https://www.wired.com/story/brooks-promo-code/",
+      "published": "Sat, 02 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-02T07:17:55.492378"
     },
     {
       "source": "wired",
-      "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-      "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have been patched—but many machines remain at risk.",
-      "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
-      "published": "Fri, 01 May 2026 20:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "Linux"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:42.565472"
-    },
-    {
-      "source": "wired",
-      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-      "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-      "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-      "published": "Fri, 01 May 2026 20:25:28 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Funding",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-02T01:45:42.565501"
-    },
-    {
-      "source": "wired",
-      "title": "This Eye-Catching Indoor Garden Is 20 Percent Off Right Now",
-      "summary": "Lettuce Grow’s Farmstand is sure to impress, and it’s 20 percent off for Mother’s Day.",
-      "link": "https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/",
-      "published": "Fri, 01 May 2026 19:05:53 +0000",
+      "title": "Columbia Promo Codes: \t15% Off | May2026",
+      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "link": "https://www.wired.com/story/columbia-promo-code/",
+      "published": "Sat, 02 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-02T01:45:42.565534"
+      "category": "Programming",
+      "crawled_at": "2026-05-02T07:17:55.492405"
     }
   ]
 }
