@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T07:46:03.261433",
+  "last_updated": "2026-05-03T12:43:21.836316",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.627901"
+      "crawled_at": "2026-05-03T12:43:21.128389"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.627956"
+      "crawled_at": "2026-05-03T12:43:21.128424"
     },
     {
       "source": "techcrunch",
@@ -37,7 +37,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.628027"
+      "crawled_at": "2026-05-03T12:43:21.128467"
     },
     {
       "source": "techcrunch",
@@ -50,7 +50,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.628068"
+      "crawled_at": "2026-05-03T12:43:21.128491"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.628121"
+      "crawled_at": "2026-05-03T12:43:21.128523"
+    },
+    {
+      "source": "theverge",
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of g",
+      "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "published": "2026-05-03T08:00:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-03T12:43:21.213713"
     },
     {
       "source": "theverge",
@@ -78,7 +91,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.740211"
+      "crawled_at": "2026-05-03T12:43:21.213758"
     },
     {
       "source": "theverge",
@@ -93,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.740267"
+      "crawled_at": "2026-05-03T12:43:21.213804"
     },
     {
       "source": "theverge",
@@ -106,7 +119,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.740320"
+      "crawled_at": "2026-05-03T12:43:21.213854"
     },
     {
       "source": "theverge",
@@ -118,25 +131,54 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-03T07:46:02.740371"
+      "crawled_at": "2026-05-03T12:43:21.213905"
     },
     {
-      "source": "theverge",
-      "title": "Playing Esoteric Ebb is like rolling the dice with a great DM",
-      "summary": "It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodeg&#229;rd. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons &#38; Dragons: You play as a cleric wandering around a small town who's trying to figure out, among other things, the ",
-      "link": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
-      "published": "2026-05-02T08:00:00-04:00",
+      "source": "hackernews",
+      "title": "Systemd-manager-TUI: A TUI application for managing systemd services",
+      "summary": "Article URL: https://github.com/Matheus-git/systemd-manager-tui\nComments URL: https://news.ycombinator.com/item?id=47995649\nPoints: 25\n# Comments: 7",
+      "link": "https://github.com/Matheus-git/systemd-manager-tui",
+      "published": "Sun, 03 May 2026 10:55:30 +0000",
       "keywords": [
-        "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:02.740406"
+      "category": "Mobile",
+      "crawled_at": "2026-05-03T12:43:21.637519"
+    },
+    {
+      "source": "hackernews",
+      "title": "Investors pile into clean energy as Iran war drives push for energy security",
+      "summary": "Article URL: https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a\nComments URL: https://news.ycombinator.com/item?id=47995125\nPoints: 36\n# Comments: 19",
+      "link": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+      "published": "Sun, 03 May 2026 09:26:48 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-03T12:43:21.637560"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
+      "summary": "Article URL: https://github.com/bring-shrubbery/ml-sharp-web\nComments URL: https://news.ycombinator.com/item?id=47995037\nPoints: 39\n# Comments: 3",
+      "link": "https://github.com/bring-shrubbery/ml-sharp-web",
+      "published": "Sun, 03 May 2026 09:14:56 +0000",
+      "keywords": [
+        "Apple",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-03T12:43:21.637594"
     },
     {
       "source": "hackernews",
       "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 18\n# Comments: 6",
+      "summary": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 154\n# Comments: 163",
       "link": "https://acai.sh/blog/specsmaxxing",
       "published": "Sun, 03 May 2026 06:33:38 +0000",
       "keywords": [
@@ -144,59 +186,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.938331"
+      "crawled_at": "2026-05-03T12:43:21.637628"
     },
     {
       "source": "hackernews",
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPoints: 232\n# Comments: 106",
-      "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "published": "Sun, 03 May 2026 04:05:28 +0000",
+      "title": "AI, Intimacy, and the Data You Never Meant to Share",
+      "summary": "Article URL: https://fshot.org/techzone/the-algorithm-knows.php\nComments URL: https://news.ycombinator.com/item?id=47992802\nPoints: 41\n# Comments: 2",
+      "link": "https://fshot.org/techzone/the-algorithm-knows.php",
+      "published": "Sun, 03 May 2026 02:42:43 +0000",
       "keywords": [
-        "GPT",
-        "Claude",
+        "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:02.938371"
-    },
-    {
-      "source": "hackernews",
-      "title": "Windows API is Successful Cross-Platform API (2024)",
-      "summary": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 69\n# Comments: 63",
-      "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-      "published": "Sun, 03 May 2026 02:53:29 +0000",
-      "keywords": [
-        "API",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.938409"
-    },
-    {
-      "source": "hackernews",
-      "title": "Open source does not imply open community",
-      "summary": "Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/\nComments URL: https://news.ycombinator.com/item?id=47992772\nPoints: 139\n# Comments: 35",
-      "link": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "published": "Sun, 03 May 2026 02:36:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.938445"
-    },
-    {
-      "source": "hackernews",
-      "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
-      "summary": "Article URL: https://www.newsonjapan.com/article/149075.php\nComments URL: https://news.ycombinator.com/item?id=47992446\nPoints: 28\n# Comments: 3",
-      "link": "https://www.newsonjapan.com/article/149075.php",
-      "published": "Sun, 03 May 2026 01:38:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:02.938496"
+      "crawled_at": "2026-05-03T12:43:21.637655"
     },
     {
       "source": "arstechnica",
@@ -208,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:03.081129"
+      "crawled_at": "2026-05-03T12:43:21.727195"
     },
     {
       "source": "arstechnica",
@@ -220,7 +224,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:03.081161"
+      "crawled_at": "2026-05-03T12:43:21.727226"
     },
     {
       "source": "arstechnica",
@@ -233,7 +237,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:03.081191"
+      "crawled_at": "2026-05-03T12:43:21.727258"
     },
     {
       "source": "arstechnica",
@@ -249,7 +253,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T07:46:03.081214"
+      "crawled_at": "2026-05-03T12:43:21.727281"
     },
     {
       "source": "arstechnica",
@@ -261,57 +265,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T07:46:03.081243"
+      "crawled_at": "2026-05-03T12:43:21.727309"
     },
     {
       "source": "wired",
-      "title": "Limited Time: TurboTax Full Service Coupons This May",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Sun, 03 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:03.261252"
+      "title": "Asus Zenbook A16 (2026) Review: Savor the Power, Ignore the Beige",
+      "summary": "This $2,000 Asus laptop delivers breathtaking performance thanks to Qualcomm's Snapdragon X2 Elite Extreme, but at the cost of nearly everything else.",
+      "link": "https://www.wired.com/review/asus-zenbook-a16-2026/",
+      "published": "Sun, 03 May 2026 11:30:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-03T12:43:21.836120"
     },
     {
       "source": "wired",
-      "title": "Ulta Promo Codes: Up to 50% Off in May",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Sun, 03 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:03.261282"
+      "title": "15 Best Gifts for Plant Lovers and Gardeners (2026)",
+      "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+      "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners/",
+      "published": "Sun, 03 May 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-03T12:43:21.836156"
     },
     {
       "source": "wired",
-      "title": "Top Rover Promo Codes and Referral Deals for May 2026",
-      "summary": "Score your Rover promo code for 2026.",
-      "link": "https://www.wired.com/story/rover-promo-code/",
-      "published": "Sun, 03 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:03.261303"
+      "title": "How to Track Your Luggage (2026): AirTag, Pebblebee, CaseSafe",
+      "summary": "A Bluetooth tracker can prevent vacation hell, aka arriving at the beach sans bathing suit. Here are our travel tips for using one.",
+      "link": "https://www.wired.com/story/how-to-track-your-luggage/",
+      "published": "Sun, 03 May 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-03T12:43:21.836182"
     },
     {
       "source": "wired",
-      "title": "Castlery Promo Code: 15% Off in May 2026",
-      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "link": "https://www.wired.com/story/castlery-promo-code/",
-      "published": "Sun, 03 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:03.261327"
+      "title": "Best Travel Tote Bags for Every Kind of Excursion (2026): Away, Le Pliage, Topo Designs",
+      "summary": "These hardworking travel totes handle everything from a work trip to a weekend getaway.",
+      "link": "https://www.wired.com/gallery/best-travel-tote/",
+      "published": "Sun, 03 May 2026 10:32:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-03T12:43:21.836211"
     },
     {
       "source": "wired",
-      "title": "Skullcandy Discount Code: 30% Off | May 2026",
-      "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-      "link": "https://www.wired.com/story/skullcandy-discount-code/",
-      "published": "Sun, 03 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-03T07:46:03.261357"
+      "title": "KitchenAid Artisan Plus Stand Mixer Review: Tiny Additions, Big Difference",
+      "summary": "The kitchen appliance titan changed up its beloved base-model stand mixer for the first time in over 70 years. It was worth the wait.",
+      "link": "https://www.wired.com/review/kitchenaid-artisan-plus-stand-mixer/",
+      "published": "Sun, 03 May 2026 09:33:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-03T12:43:21.836235"
     }
   ]
 }
