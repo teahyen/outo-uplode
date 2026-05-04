@@ -1,10 +1,24 @@
 {
-  "last_updated": "2026-05-03T18:41:40.803981",
+  "last_updated": "2026-05-04T01:49:44.894270",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "published": "Sun, 03 May 2026 20:16:51 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-04T01:49:44.124326"
+    },
+    {
+      "source": "techcrunch",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
       "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "published": "Sun, 03 May 2026 18:00:09 +0000",
@@ -13,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:39.952177"
+      "crawled_at": "2026-05-04T01:49:44.124400"
     },
     {
       "source": "techcrunch",
@@ -23,7 +37,7 @@
       "published": "Sun, 03 May 2026 16:05:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:39.952249"
+      "crawled_at": "2026-05-04T01:49:44.124446"
     },
     {
       "source": "techcrunch",
@@ -33,7 +47,7 @@
       "published": "Sun, 03 May 2026 13:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:39.952285"
+      "crawled_at": "2026-05-04T01:49:44.124481"
     },
     {
       "source": "techcrunch",
@@ -46,19 +60,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:39.952306"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Farewell, Jeeves: Ask.com shuts down",
-      "summary": "Owner IAC says it's discontinuing its search business.",
-      "link": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
-      "published": "Sat, 02 May 2026 21:11:28 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:39.952331"
+      "crawled_at": "2026-05-04T01:49:44.124502"
     },
     {
       "source": "theverge",
@@ -71,7 +73,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.106445"
+      "crawled_at": "2026-05-04T01:49:44.242726"
     },
     {
       "source": "theverge",
@@ -85,7 +87,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.106497"
+      "crawled_at": "2026-05-04T01:49:44.242773"
     },
     {
       "source": "theverge",
@@ -99,7 +101,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.106557"
+      "crawled_at": "2026-05-04T01:49:44.242833"
     },
     {
       "source": "theverge",
@@ -112,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.106598"
+      "crawled_at": "2026-05-04T01:49:44.242874"
     },
     {
       "source": "theverge",
@@ -125,69 +127,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.106636"
+      "crawled_at": "2026-05-04T01:49:44.242913"
     },
     {
       "source": "hackernews",
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "summary": "Article URL: https://partyon.xyz/@nullagent/116499715071759135\nComments URL: https://news.ycombinator.com/item?id=47999636\nPoints: 5\n# Comments: 1",
-      "link": "https://partyon.xyz/@nullagent/116499715071759135",
-      "published": "Sun, 03 May 2026 18:03:14 +0000",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 95\n# Comments: 36",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "published": "Sun, 03 May 2026 23:59:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.523535"
+      "crawled_at": "2026-05-04T01:49:44.585960"
     },
     {
       "source": "hackernews",
-      "title": "I Recreated the Apple Lisa Computer Inside an FPGA – The LisaFPGA Project",
-      "summary": "Article URL: https://www.youtube.com/watch?v=8jNQDcpHc68\nComments URL: https://news.ycombinator.com/item?id=47999460\nPoints: 4\n# Comments: 0",
-      "link": "https://www.youtube.com/watch?v=8jNQDcpHc68",
-      "published": "Sun, 03 May 2026 17:45:47 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-03T18:41:40.523583"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Oscars Just Banned AI from Winning Acting and Writing Awards",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740\nComments URL: https://news.ycombinator.com/item?id=47999346\nPoints: 24\n# Comments: 6",
-      "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
-      "published": "Sun, 03 May 2026 17:34:15 +0000",
+      "title": "Let's Buy Spirit Air",
+      "summary": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 102\n# Comments: 67",
+      "link": "https://letsbuyspiritair.com/",
+      "published": "Sun, 03 May 2026 23:36:11 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.523616"
+      "crawled_at": "2026-05-04T01:49:44.585992"
     },
     {
       "source": "hackernews",
-      "title": "What Chromium versions are major browsers are on?",
-      "summary": "Article URL: https://chromium-drift.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=47999006\nPoints: 72\n# Comments: 20",
-      "link": "https://chromium-drift.pages.dev/",
-      "published": "Sun, 03 May 2026 17:05:58 +0000",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions\nComments URL: https://news.ycombinator.com/item?id=48002607\nPoints: 52\n# Comments: 11",
+      "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "published": "Sun, 03 May 2026 23:12:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.523650"
+      "crawled_at": "2026-05-04T01:49:44.586027"
     },
     {
       "source": "hackernews",
-      "title": "Physical buttons outperform touchscreens in new cars (2023)",
-      "summary": "Article URL: https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/\nComments URL: https://news.ycombinator.com/item?id=47998990\nPoints: 7\n# Comments: 1",
-      "link": "https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/",
-      "published": "Sun, 03 May 2026 17:05:02 +0000",
+      "title": "Agentic Coding Is a Trap",
+      "summary": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap\nComments URL: https://news.ycombinator.com/item?id=48002442\nPoints: 130\n# Comments: 93",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "published": "Sun, 03 May 2026 22:52:07 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.523687"
+      "crawled_at": "2026-05-04T01:49:44.586060"
+    },
+    {
+      "source": "hackernews",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "summary": "Article URL: https://github.com/aattaran/deepclaude\nComments URL: https://news.ycombinator.com/item?id=48002136\nPoints: 161\n# Comments: 71",
+      "link": "https://github.com/aattaran/deepclaude",
+      "published": "Sun, 03 May 2026 22:13:20 +0000",
+      "keywords": [
+        "Claude",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-04T01:49:44.586096"
     },
     {
       "source": "arstechnica",
@@ -199,7 +203,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.658339"
+      "crawled_at": "2026-05-04T01:49:44.692898"
     },
     {
       "source": "arstechnica",
@@ -211,7 +215,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.658372"
+      "crawled_at": "2026-05-04T01:49:44.692931"
     },
     {
       "source": "arstechnica",
@@ -224,7 +228,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.658404"
+      "crawled_at": "2026-05-04T01:49:44.692962"
     },
     {
       "source": "arstechnica",
@@ -240,7 +244,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.658427"
+      "crawled_at": "2026-05-04T01:49:44.692986"
     },
     {
       "source": "arstechnica",
@@ -252,7 +256,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.658456"
+      "crawled_at": "2026-05-04T01:49:44.693015"
     },
     {
       "source": "wired",
@@ -265,7 +269,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.803731"
+      "crawled_at": "2026-05-04T01:49:44.894079"
     },
     {
       "source": "wired",
@@ -277,7 +281,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-03T18:41:40.803770"
+      "crawled_at": "2026-05-04T01:49:44.894115"
     },
     {
       "source": "wired",
@@ -290,7 +294,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.803795"
+      "crawled_at": "2026-05-04T01:49:44.894144"
     },
     {
       "source": "wired",
@@ -302,7 +306,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-03T18:41:40.803825"
+      "crawled_at": "2026-05-04T01:49:44.894173"
     },
     {
       "source": "wired",
@@ -315,7 +319,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-03T18:41:40.803850"
+      "crawled_at": "2026-05-04T01:49:44.894196"
     }
   ]
 }
