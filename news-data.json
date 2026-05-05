@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-05T01:50:12.373175",
+  "last_updated": "2026-05-05T07:52:25.378924",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "published": "Tue, 05 May 2026 03:31:54 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T07:52:24.663512"
+    },
     {
       "source": "techcrunch",
       "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
@@ -15,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.429977"
+      "crawled_at": "2026-05-05T07:52:24.663549"
     },
     {
       "source": "techcrunch",
@@ -31,7 +43,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.430015"
+      "crawled_at": "2026-05-05T07:52:24.663578"
     },
     {
       "source": "techcrunch",
@@ -46,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.430048"
+      "crawled_at": "2026-05-05T07:52:24.663610"
     },
     {
       "source": "techcrunch",
@@ -58,23 +70,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.430078"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Katie Haun raises $1B for new venture funds",
-      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
-      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-      "published": "Mon, 04 May 2026 19:12:15 +0000",
-      "keywords": [
-        "AI",
-        "Blockchain",
-        "Crypto",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.430107"
+      "crawled_at": "2026-05-05T07:52:24.663638"
     },
     {
       "source": "theverge",
@@ -86,7 +82,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:07.658960"
+      "crawled_at": "2026-05-05T07:52:24.760780"
     },
     {
       "source": "theverge",
@@ -98,7 +94,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.659008"
+      "crawled_at": "2026-05-05T07:52:24.760821"
     },
     {
       "source": "theverge",
@@ -112,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.659052"
+      "crawled_at": "2026-05-05T07:52:24.760864"
     },
     {
       "source": "theverge",
@@ -126,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:07.659091"
+      "crawled_at": "2026-05-05T07:52:24.760904"
     },
     {
       "source": "theverge",
@@ -138,75 +134,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:07.659154"
+      "crawled_at": "2026-05-05T07:52:24.760958"
     },
     {
       "source": "hackernews",
-      "title": "Bun is being ported from Zig to Rust",
-      "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 63\n# Comments: 25",
-      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "published": "Tue, 05 May 2026 01:08:17 +0000",
+      "title": "Async Rust never left the MVP state",
+      "summary": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\nComments URL: https://news.ycombinator.com/item?id=48019163\nPoints: 19\n# Comments: 1",
+      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "published": "Tue, 05 May 2026 07:26:03 +0000",
       "keywords": [
         "Rust",
-        "Git",
-        "GitHub",
+        "Go",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-05-05T01:50:12.019379"
+      "crawled_at": "2026-05-05T07:52:25.185635"
     },
     {
       "source": "hackernews",
-      "title": "Y Combinator's Stake in OpenAI (0.6%)",
-      "summary": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai\nComments URL: https://news.ycombinator.com/item?id=48016534\nPoints: 21\n# Comments: 0",
-      "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "published": "Tue, 05 May 2026 00:09:01 +0000",
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html\nComments URL: https://news.ycombinator.com/item?id=48019025\nPoints: 11\n# Comments: 2",
+      "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "published": "Tue, 05 May 2026 07:05:25 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.019414"
+      "category": "Programming",
+      "crawled_at": "2026-05-05T07:52:25.185674"
     },
     {
       "source": "hackernews",
-      "title": "SprintiQ – open-source sprint planning for Claude Code",
-      "summary": "Article URL: https://github.com/SprintiQ-Incorporated/sprintiq\nComments URL: https://news.ycombinator.com/item?id=48016016\nPoints: 4\n# Comments: 0",
-      "link": "https://github.com/SprintiQ-Incorporated/sprintiq",
-      "published": "Mon, 04 May 2026 22:52:48 +0000",
-      "keywords": [
-        "Claude",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.019453"
-    },
-    {
-      "source": "hackernews",
-      "title": "Agent Skills",
-      "summary": "Article URL: https://addyosmani.com/blog/agent-skills/\nComments URL: https://news.ycombinator.com/item?id=48015397\nPoints: 108\n# Comments: 33",
-      "link": "https://addyosmani.com/blog/agent-skills/",
-      "published": "Mon, 04 May 2026 21:40:42 +0000",
+      "title": "Kids bypass age verification with fake moustaches",
+      "summary": "Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/\nComments URL: https://news.ycombinator.com/item?id=48018080\nPoints: 64\n# Comments: 30",
+      "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "published": "Tue, 05 May 2026 04:36:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.019485"
+      "crawled_at": "2026-05-05T07:52:25.185712"
     },
     {
       "source": "hackernews",
-      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis\nComments URL: https://news.ycombinator.com/item?id=48015218\nPoints: 95\n# Comments: 80",
-      "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
-      "published": "Mon, 04 May 2026 21:25:55 +0000",
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "summary": "Article URL: https://walzr.com/empty-screenings\nComments URL: https://news.ycombinator.com/item?id=48018066\nPoints: 125\n# Comments: 99",
+      "link": "https://walzr.com/empty-screenings",
+      "published": "Tue, 05 May 2026 04:33:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.019526"
+      "crawled_at": "2026-05-05T07:52:25.185746"
+    },
+    {
+      "source": "hackernews",
+      "title": "2-D Mathematical Curves",
+      "summary": "Article URL: https://www.2dcurves.com/\nComments URL: https://news.ycombinator.com/item?id=48018034\nPoints: 18\n# Comments: 0",
+      "link": "https://www.2dcurves.com/",
+      "published": "Tue, 05 May 2026 04:27:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T07:52:25.185776"
     },
     {
       "source": "arstechnica",
@@ -218,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.161499"
+      "crawled_at": "2026-05-05T07:52:25.272841"
     },
     {
       "source": "arstechnica",
@@ -231,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.161539"
+      "crawled_at": "2026-05-05T07:52:25.272880"
     },
     {
       "source": "arstechnica",
@@ -244,7 +234,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.161563"
+      "crawled_at": "2026-05-05T07:52:25.272904"
     },
     {
       "source": "arstechnica",
@@ -257,7 +247,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.161586"
+      "crawled_at": "2026-05-05T07:52:25.272926"
     },
     {
       "source": "arstechnica",
@@ -270,70 +260,65 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.161611"
+      "crawled_at": "2026-05-05T07:52:25.272951"
     },
     {
       "source": "wired",
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "published": "Mon, 04 May 2026 23:19:52 +0000",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "published": "Tue, 05 May 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-05T07:52:25.378733"
+    },
+    {
+      "source": "wired",
+      "title": "Meta Quest Promo Codes: $50 Off | May 2026",
+      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published": "Tue, 05 May 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "AR"
+        "Meta",
+        "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.372913"
+      "crawled_at": "2026-05-05T07:52:25.378763"
     },
     {
       "source": "wired",
-      "title": "What the Spirit Airlines Implosion Means for Your Vacation",
-      "summary": "The news isn’t good.",
-      "link": "https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/",
-      "published": "Mon, 04 May 2026 23:00:55 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T01:50:12.372944"
+      "title": "B&H Photo Promo Codes and Deals This May",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "published": "Tue, 05 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-05T07:52:25.378785"
     },
     {
       "source": "wired",
-      "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement",
-      "summary": "Are you eligible for a payout? Probably, but it might take a while and will likely be pretty small.",
-      "link": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
-      "published": "Mon, 04 May 2026 21:22:03 +0000",
+      "title": "Exclusive Lovehoney Discount Codes: 15% Off",
+      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "published": "Tue, 05 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.372981"
+      "category": "Programming",
+      "crawled_at": "2026-05-05T07:52:25.378820"
     },
     {
       "source": "wired",
-      "title": "7 Best Smart Locks (2026) for Front Doors, Side Doors, and Even Garages",
-      "summary": "Upgrade your locks with fingerprint-scanning or a keypad, whether it’s at the front door or a sliding glass entryway.",
-      "link": "https://www.wired.com/story/best-smart-locks/",
-      "published": "Mon, 04 May 2026 19:42:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T01:50:12.373020"
-    },
-    {
-      "source": "wired",
-      "title": "Best Mother’s Day Deals on Mom-Approved Gifts (2026)",
-      "summary": "Give Mom the best and save some cash in the process with these legitimate discounts on WIRED-approved gifts.",
-      "link": "https://www.wired.com/story/mothers-day-deals-2026/",
-      "published": "Mon, 04 May 2026 17:22:43 +0000",
-      "keywords": [
-        "Git"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-05T01:50:12.373052"
+      "title": "Layla Sleep Coupon: Save Up to $600 in May 2026",
+      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
+      "link": "https://www.wired.com/story/layla-sleep-coupon/",
+      "published": "Tue, 05 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-05T07:52:25.378846"
     }
   ]
 }
