@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-05T07:52:25.378924",
+  "last_updated": "2026-05-05T13:09:04.218945",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
+      "summary": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
+      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
+      "published": "Tue, 05 May 2026 13:00:00 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T13:09:03.543632"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
+      "summary": "The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.",
+      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
+      "published": "Tue, 05 May 2026 12:35:46 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.543678"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
+      "summary": "The startup has put a spin on repurposing EV batteries, CEO Edward Chiang told TechCrunch.",
+      "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
+      "published": "Tue, 05 May 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.543714"
+    },
     {
       "source": "techcrunch",
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -12,7 +52,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.663512"
+      "crawled_at": "2026-05-05T13:09:03.543745"
     },
     {
       "source": "techcrunch",
@@ -27,176 +67,159 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.663549"
+      "crawled_at": "2026-05-05T13:09:03.543773"
     },
     {
-      "source": "techcrunch",
-      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
-      "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-      "published": "Mon, 04 May 2026 22:21:32 +0000",
+      "source": "theverge",
+      "title": "Inside the lab where Ford is trying to crack the code on cheap EVs",
+      "summary": "Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regarded as one of the more successful electric pickup trucks to date. The climate surrounding electric vehi",
+      "link": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach",
+      "published": "2026-05-05T09:00:00-04:00",
       "keywords": [
-        "AI",
         "Go",
-        "Security",
-        "Cybersecurity",
-        "Hack"
+        "REST",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.663578"
+      "category": "Programming",
+      "crawled_at": "2026-05-05T13:09:03.596880"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "published": "Mon, 04 May 2026 21:53:21 +0000",
+      "source": "theverge",
+      "title": "Bose takes a swing at Sonos with its new home speakers",
+      "summary": "Last Thursday, in a staged home on the Upper West Side of Manhattan, I sat on a couch that was a bit too low and a tad too deep in front of a small, beige-colored smart speaker sitting on the middle of a trio of arched midcentury storage cabinets. On either side of the smart [&#8230;]",
+      "link": "https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen",
+      "published": "2026-05-05T08:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T13:09:03.596938"
+    },
+    {
+      "source": "theverge",
+      "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+      "summary": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"general themes and visual cues,\" including he",
+      "link": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+      "published": "2026-05-05T07:00:00-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
-        "IPO",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.663610"
+      "crawled_at": "2026-05-05T13:09:03.596973"
     },
     {
-      "source": "techcrunch",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "published": "Mon, 04 May 2026 19:12:49 +0000",
+      "source": "theverge",
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recogni",
+      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "published": "2026-05-05T06:08:33-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.597008"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft is finally ditching the junk MSN feed in Windows widgets",
+      "summary": "Microsoft is finally giving up on showing the junk feed of MSN news when you open the widgets feature in Windows 11. After allowing Windows 11 users to disable the MSN feed more than two years ago, Microsoft says it will soon hide it by default as part of an effort to make widgets \"quiet [&#8230;]",
+      "link": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
+      "published": "2026-05-05T05:46:52-04:00",
+      "keywords": [
+        "Go",
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T13:09:03.597050"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Product Graveyard",
+      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard\nComments URL: https://news.ycombinator.com/item?id=48021968\nPoints: 6\n# Comments: 1",
+      "link": "https://tooldirectory.ai/ai-graveyard",
+      "published": "Tue, 05 May 2026 13:00:47 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.839012"
+    },
+    {
+      "source": "hackernews",
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "summary": "Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/\nComments URL: https://news.ycombinator.com/item?id=48021561\nPoints: 47\n# Comments: 27",
+      "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+      "published": "Tue, 05 May 2026 12:28:28 +0000",
+      "keywords": [
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-05T13:09:03.839055"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I built a new word game, Wordtrak",
+      "summary": "Hi HN! Looking for feedback on this 1v1 and daily word dueling game I've built over the last few months.Play here: https://wordtrak.com/Or on iOS here: https://apps.apple.com/us/app/wordtrak/id6760442363 (Android version soon!)\n\nComments URL: https://news.ycombinator.com/item?id=48021420\nPoints: 6\n#",
+      "link": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+      "published": "Tue, 05 May 2026 12:14:17 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "Android",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.839093"
+    },
+    {
+      "source": "hackernews",
+      "title": "When everyone has AI and the company still learns nothing",
+      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\nComments URL: https://news.ycombinator.com/item?id=48020063\nPoints: 86\n# Comments: 58",
+      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "published": "Tue, 05 May 2026 09:30:22 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.839123"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 440\n# Comments: 416",
+      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "published": "Tue, 05 May 2026 07:34:55 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:03.839151"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Why Reddit blocked my daily visit to its mobile website",
+      "summary": "Reddit REALLY wants you to use its app.",
+      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+      "published": "Tue, 05 May 2026 11:20:08 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.663638"
-    },
-    {
-      "source": "theverge",
-      "title": "The 40 best Mother’s Day gift ideas for 2026",
-      "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks are d",
-      "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
-      "published": "2026-05-04T20:10:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:24.760780"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve just imported 50 tons of game consoles in two days",
-      "summary": "We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of \"Game Consoles\" into the United States in the two-day period between May 1st and April 30th, according to import records viewed by The Verge. That's on top of [&",
-      "link": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
-      "published": "2026-05-04T19:58:44-04:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.760821"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high sc",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "published": "2026-05-04T19:49:33-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.760864"
-    },
-    {
-      "source": "theverge",
-      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
-      "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week before the Trump administration took over,",
-      "link": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
-      "published": "2026-05-04T18:11:17-04:00",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:24.760904"
-    },
-    {
-      "source": "theverge",
-      "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
-      "summary": "When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single spot, and now through May 7th, it’s on sale at Best Buy and directly from Skylight for $259.99 ($40 of",
-      "link": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
-      "published": "2026-05-04T16:45:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:24.760958"
-    },
-    {
-      "source": "hackernews",
-      "title": "Async Rust never left the MVP state",
-      "summary": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\nComments URL: https://news.ycombinator.com/item?id=48019163\nPoints: 19\n# Comments: 1",
-      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "published": "Tue, 05 May 2026 07:26:03 +0000",
-      "keywords": [
-        "Rust",
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.185635"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html\nComments URL: https://news.ycombinator.com/item?id=48019025\nPoints: 11\n# Comments: 2",
-      "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "published": "Tue, 05 May 2026 07:05:25 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.185674"
-    },
-    {
-      "source": "hackernews",
-      "title": "Kids bypass age verification with fake moustaches",
-      "summary": "Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/\nComments URL: https://news.ycombinator.com/item?id=48018080\nPoints: 64\n# Comments: 30",
-      "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "published": "Tue, 05 May 2026 04:36:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.185712"
-    },
-    {
-      "source": "hackernews",
-      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-      "summary": "Article URL: https://walzr.com/empty-screenings\nComments URL: https://news.ycombinator.com/item?id=48018066\nPoints: 125\n# Comments: 99",
-      "link": "https://walzr.com/empty-screenings",
-      "published": "Tue, 05 May 2026 04:33:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.185746"
-    },
-    {
-      "source": "hackernews",
-      "title": "2-D Mathematical Curves",
-      "summary": "Article URL: https://www.2dcurves.com/\nComments URL: https://news.ycombinator.com/item?id=48018034\nPoints: 18\n# Comments: 0",
-      "link": "https://www.2dcurves.com/",
-      "published": "Tue, 05 May 2026 04:27:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.185776"
+      "crawled_at": "2026-05-05T13:09:04.059580"
     },
     {
       "source": "arstechnica",
@@ -208,7 +231,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.272841"
+      "crawled_at": "2026-05-05T13:09:04.059614"
     },
     {
       "source": "arstechnica",
@@ -221,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.272880"
+      "crawled_at": "2026-05-05T13:09:04.059649"
     },
     {
       "source": "arstechnica",
@@ -234,7 +257,7 @@
         "GPT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:25.272904"
+      "crawled_at": "2026-05-05T13:09:04.059690"
     },
     {
       "source": "arstechnica",
@@ -247,78 +270,75 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:25.272926"
+      "crawled_at": "2026-05-05T13:09:04.059732"
     },
     {
-      "source": "arstechnica",
-      "title": "F1 in Miami: That's what it looks like when an upgrade works",
-      "summary": "2026's Formula 1 championship now looks far from a foregone thing.",
-      "link": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
-      "published": "Mon, 04 May 2026 17:47:05 +0000",
+      "source": "wired",
+      "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
+      "summary": "The new Lifestyle Ultra Speaker, Ultra Soundbar, and Ultra Subwoofer introduce a cozier look.",
+      "link": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
+      "published": "Tue, 05 May 2026 12:00:00 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T07:52:25.272951"
+      "crawled_at": "2026-05-05T13:09:04.218715"
     },
     {
       "source": "wired",
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "published": "Tue, 05 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.378733"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Quest Promo Codes: $50 Off | May 2026",
-      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "published": "Tue, 05 May 2026 05:00:00 +0000",
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "summary": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+      "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "published": "Tue, 05 May 2026 11:59:20 +0000",
       "keywords": [
         "AI",
-        "Meta",
-        "VR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T07:52:25.378763"
-    },
-    {
-      "source": "wired",
-      "title": "B&H Photo Promo Codes and Deals This May",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "published": "Tue, 05 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.378785"
-    },
-    {
-      "source": "wired",
-      "title": "Exclusive Lovehoney Discount Codes: 15% Off",
-      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "link": "https://www.wired.com/story/lovehoney-discount-code/",
-      "published": "Tue, 05 May 2026 05:00:00 +0000",
-      "keywords": [
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.378820"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:04.218747"
     },
     {
       "source": "wired",
-      "title": "Layla Sleep Coupon: Save Up to $600 in May 2026",
-      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
-      "link": "https://www.wired.com/story/layla-sleep-coupon/",
-      "published": "Tue, 05 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T07:52:25.378846"
+      "title": "Murena /e/OS Tablet Review: Privacy for a Price",
+      "summary": "Murena's /e/OS tablet offers an iPadOS- and Google-free, privacy-friendly tablet experience, but you'll have to pay for it.",
+      "link": "https://www.wired.com/review/murena-volla-tablet/",
+      "published": "Tue, 05 May 2026 11:32:00 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T13:09:04.218780"
+    },
+    {
+      "source": "wired",
+      "title": "The iPhone That Never Was",
+      "summary": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be.",
+      "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
+      "published": "Tue, 05 May 2026 11:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-05T13:09:04.218820"
+    },
+    {
+      "source": "wired",
+      "title": "9 Best Portable Power Stations (2026): Power Capacity, Portability, Camping, and More",
+      "summary": "Whether you’re going off-grid or safeguarding against blackouts, these beefy, WIRED-tested batteries can keep the lights on.",
+      "link": "https://www.wired.com/gallery/best-portable-power-stations/",
+      "published": "Tue, 05 May 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T13:09:04.218852"
     }
   ]
 }
