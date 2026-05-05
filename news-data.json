@@ -1,120 +1,223 @@
 {
-  "last_updated": "2026-05-05T13:09:04.218945",
+  "last_updated": "2026-05-05T19:03:24.200284",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
-      "summary": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
-      "link": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
-      "published": "Tue, 05 May 2026 13:00:00 +0000",
-      "keywords": [
-        "Amazon"
-      ],
+      "title": "Threads finally brings messaging to the web",
+      "summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
+      "link": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
+      "published": "Tue, 05 May 2026 18:34:20 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:03.543632"
+      "crawled_at": "2026-05-05T19:03:23.410252"
     },
     {
       "source": "techcrunch",
-      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
-      "summary": "The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.",
-      "link": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
-      "published": "Tue, 05 May 2026 12:35:46 +0000",
+      "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+      "summary": "Arnell joins Gebbia’s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services.",
+      "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+      "published": "Tue, 05 May 2026 18:09:03 +0000",
       "keywords": [
         "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.543678"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
-      "summary": "The startup has put a spin on repurposing EV batteries, CEO Edward Chiang told TechCrunch.",
-      "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
-      "published": "Tue, 05 May 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.543714"
-    },
-    {
-      "source": "techcrunch",
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "published": "Tue, 05 May 2026 03:31:54 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.543745"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
-      "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
-      "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
-      "published": "Tue, 05 May 2026 00:13:30 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "IPO",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.543773"
-    },
-    {
-      "source": "theverge",
-      "title": "Inside the lab where Ford is trying to crack the code on cheap EVs",
-      "summary": "Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regarded as one of the more successful electric pickup trucks to date. The climate surrounding electric vehi",
-      "link": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach",
-      "published": "2026-05-05T09:00:00-04:00",
-      "keywords": [
         "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.410299"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "published": "Tue, 05 May 2026 17:46:10 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.410332"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "published": "Tue, 05 May 2026 17:00:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.410358"
+    },
+    {
+      "source": "techcrunch",
+      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "published": "Tue, 05 May 2026 15:49:55 +0000",
+      "keywords": [
+        "AI",
         "REST",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-05T13:09:03.596880"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.410390"
     },
     {
       "source": "theverge",
-      "title": "Bose takes a swing at Sonos with its new home speakers",
-      "summary": "Last Thursday, in a staged home on the Upper West Side of Manhattan, I sat on a couch that was a bit too low and a tad too deep in front of a small, beige-colored smart speaker sitting on the middle of a trio of arched midcentury storage cabinets. On either side of the smart [&#8230;]",
-      "link": "https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen",
-      "published": "2026-05-05T08:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:03.596938"
-    },
-    {
-      "source": "theverge",
-      "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
-      "summary": "Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system will scan photos and videos posted to its platforms for \"general themes and visual cues,\" including he",
-      "link": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
-      "published": "2026-05-05T07:00:00-04:00",
+      "title": "Threads is finally getting DMs on the web",
+      "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but plans to make the feature \"available to more people soon.\" In your DM page on the web, you can see your inbox and [&#8230;",
+      "link": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
+      "published": "2026-05-05T14:30:42-04:00",
       "keywords": [
         "AI",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.596973"
+      "crawled_at": "2026-05-05T19:03:23.562420"
     },
     {
       "source": "theverge",
-      "title": "Google DeepMind workers are unionizing over AI military contracts",
-      "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recogni",
-      "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
-      "published": "2026-05-05T06:08:33-04:00",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "published": "2026-05-05T13:28:52-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AWS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.562482"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\"",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "published": "2026-05-05T13:00:00-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.562528"
+    },
+    {
+      "source": "theverge",
+      "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+      "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmill",
+      "link": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "published": "2026-05-05T12:52:38-04:00",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:23.562568"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft’s new Xbox shake-up is all about platform changes",
+      "summary": "Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly requested Xbox console features, reducing the price of Game Pass, and moving Microsoft Gaming back to Xbox, Sharma is now reorganizing the Xbox platform tea",
+      "link": "https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes",
+      "published": "2026-05-05T12:46:39-04:00",
+      "keywords": [
+        "Microsoft",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T19:03:23.562624"
+    },
+    {
+      "source": "hackernews",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 44\n# Comments: 22",
+      "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "published": "Tue, 05 May 2026 18:13:47 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:24.015352"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on the same five muted pastels. Painters spent centuries figuring out color and we",
+      "link": "https://paletteinspiration.com/",
+      "published": "Tue, 05 May 2026 18:13:14 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-05T19:03:24.015426"
+    },
+    {
+      "source": "hackernews",
+      "title": "Clarification on the Notepad++ Trademark Issue",
+      "summary": "Article URL: https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48026206\nPoints: 82\n# Comments: 23",
+      "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+      "published": "Tue, 05 May 2026 18:04:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T19:03:24.015464"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2604.26752\nComments URL: https://news.ycombinator.com/item?id=48026021\nPoints: 36\n# Comments: 5",
+      "link": "https://arxiv.org/abs/2604.26752",
+      "published": "Tue, 05 May 2026 17:52:31 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T19:03:24.015498"
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "summary": "Article URL: https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/\nComments URL: https://news.ycombinator.com/item?id=48025828\nPoints: 20\n# Comments: 2",
+      "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+      "published": "Tue, 05 May 2026 17:38:17 +0000",
+      "keywords": [
+        "Go",
+        "Crypto",
+        "Security",
+        "Cybersecurity",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-05T19:03:24.015531"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+      "link": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "published": "Tue, 05 May 2026 17:17:25 +0000",
       "keywords": [
         "AI",
         "Go",
@@ -122,155 +225,78 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.597008"
+      "crawled_at": "2026-05-05T19:03:24.107576"
     },
     {
-      "source": "theverge",
-      "title": "Microsoft is finally ditching the junk MSN feed in Windows widgets",
-      "summary": "Microsoft is finally giving up on showing the junk feed of MSN news when you open the widgets feature in Windows 11. After allowing Windows 11 users to disable the MSN feed more than two years ago, Microsoft says it will soon hide it by default as part of an effort to make widgets \"quiet [&#8230;]",
-      "link": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
-      "published": "2026-05-05T05:46:52-04:00",
+      "source": "arstechnica",
+      "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+      "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+      "published": "Tue, 05 May 2026 17:07:32 +0000",
       "keywords": [
-        "Go",
-        "Microsoft",
-        "Windows",
-        "AR"
+        "AWS"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:03.597050"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-05-05T19:03:24.107608"
     },
     {
-      "source": "hackernews",
-      "title": "AI Product Graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard\nComments URL: https://news.ycombinator.com/item?id=48021968\nPoints: 6\n# Comments: 1",
-      "link": "https://tooldirectory.ai/ai-graveyard",
-      "published": "Tue, 05 May 2026 13:00:47 +0000",
+      "source": "arstechnica",
+      "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
+      "summary": "We tour Ford’s top-secret Electric Vehicle Development Center in California.",
+      "link": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+      "published": "Tue, 05 May 2026 15:39:21 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-05T19:03:24.107649"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Charlize Theron is a bewitching Circe in Odyssey trailer",
+      "summary": "\"You're a man who needs to control his fate. But you cannot control this.\"",
+      "link": "https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/",
+      "published": "Tue, 05 May 2026 15:20:24 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.839012"
+      "crawled_at": "2026-05-05T19:03:24.107671"
     },
     {
-      "source": "hackernews",
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "summary": "Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/\nComments URL: https://news.ycombinator.com/item?id=48021561\nPoints: 47\n# Comments: 27",
-      "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "published": "Tue, 05 May 2026 12:28:28 +0000",
+      "source": "arstechnica",
+      "title": "Musk's Europe gamble: Will others follow the Dutch and approve FSD?",
+      "summary": "The Dutch road authority will ask other EU regulators to approve the driver assist.",
+      "link": "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
+      "published": "Tue, 05 May 2026 15:09:58 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-05-05T19:03:24.107697"
+    },
+    {
+      "source": "wired",
+      "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
+      "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
+      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
+      "published": "Tue, 05 May 2026 15:34:33 +0000",
       "keywords": [
-        "Apple",
-        "iOS",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-05T13:09:03.839055"
+      "crawled_at": "2026-05-05T19:03:24.199931"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: I built a new word game, Wordtrak",
-      "summary": "Hi HN! Looking for feedback on this 1v1 and daily word dueling game I've built over the last few months.Play here: https://wordtrak.com/Or on iOS here: https://apps.apple.com/us/app/wordtrak/id6760442363 (Android version soon!)\n\nComments URL: https://news.ycombinator.com/item?id=48021420\nPoints: 6\n#",
-      "link": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
-      "published": "Tue, 05 May 2026 12:14:17 +0000",
+      "source": "wired",
+      "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
+      "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
+      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
+      "published": "Tue, 05 May 2026 15:10:19 +0000",
       "keywords": [
-        "AI",
+        "REST",
         "Apple",
-        "Android",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.839093"
-    },
-    {
-      "source": "hackernews",
-      "title": "When everyone has AI and the company still learns nothing",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\nComments URL: https://news.ycombinator.com/item?id=48020063\nPoints: 86\n# Comments: 58",
-      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "published": "Tue, 05 May 2026 09:30:22 +0000",
-      "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.839123"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 440\n# Comments: 416",
-      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "published": "Tue, 05 May 2026 07:34:55 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:03.839151"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "summary": "Reddit REALLY wants you to use its app.",
-      "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
-      "published": "Tue, 05 May 2026 11:20:08 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:04.059580"
-    },
-    {
-      "source": "arstechnica",
-      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
-      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
-      "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-      "published": "Mon, 04 May 2026 21:38:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:04.059614"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Canadian election databases use \"canary traps\"—and they work",
-      "summary": "Intentional errors can be useful.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
-      "published": "Mon, 04 May 2026 19:45:57 +0000",
-      "keywords": [
-        "Database",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:04.059649"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Influential study touting ChatGPT in education retracted over red flags",
-      "summary": "The retracted study on ChatGPT in education was already cited hundreds of times.",
-      "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
-      "published": "Mon, 04 May 2026 19:03:39 +0000",
-      "keywords": [
-        "ChatGPT",
-        "GPT"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:04.059690"
-    },
-    {
-      "source": "arstechnica",
-      "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-      "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-      "published": "Mon, 04 May 2026 17:57:46 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:04.059732"
+      "category": "Mobile",
+      "crawled_at": "2026-05-05T19:03:24.199980"
     },
     {
       "source": "wired",
@@ -282,12 +308,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:04.218715"
+      "crawled_at": "2026-05-05T19:03:24.200019"
     },
     {
       "source": "wired",
       "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "summary": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings.",
+      "summary": "UK staff of Google’s AI research lab hope to block the use of the company’s artificial intelligence models in military settings.",
       "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
       "published": "Tue, 05 May 2026 11:59:20 +0000",
       "keywords": [
@@ -297,7 +323,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:04.218747"
+      "crawled_at": "2026-05-05T19:03:24.200049"
     },
     {
       "source": "wired",
@@ -310,35 +336,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-05T13:09:04.218780"
-    },
-    {
-      "source": "wired",
-      "title": "The iPhone That Never Was",
-      "summary": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be.",
-      "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
-      "published": "Tue, 05 May 2026 11:00:00 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-05T13:09:04.218820"
-    },
-    {
-      "source": "wired",
-      "title": "9 Best Portable Power Stations (2026): Power Capacity, Portability, Camping, and More",
-      "summary": "Whether you’re going off-grid or safeguarding against blackouts, these beefy, WIRED-tested batteries can keep the lights on.",
-      "link": "https://www.wired.com/gallery/best-portable-power-stations/",
-      "published": "Tue, 05 May 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-05T13:09:04.218852"
+      "crawled_at": "2026-05-05T19:03:24.200080"
     }
   ]
 }
