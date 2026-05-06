@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-06T01:49:32.870163",
+  "last_updated": "2026-05-06T13:27:23.893609",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
+      "summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
+      "link": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+      "published": "Wed, 06 May 2026 12:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.182557"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made comp",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "published": "Wed, 06 May 2026 06:47:12 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T13:27:23.182612"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "published": "Wed, 06 May 2026 06:34:32 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T13:27:23.182645"
+    },
     {
       "source": "techcrunch",
       "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
@@ -13,7 +53,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-06T01:49:32.015386"
+      "crawled_at": "2026-05-06T13:27:23.182675"
     },
     {
       "source": "techcrunch",
@@ -27,180 +67,143 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.015427"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
-      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
-      "link": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
-      "published": "Tue, 05 May 2026 23:05:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.015488"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems.",
-      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "published": "Tue, 05 May 2026 22:57:41 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.015521"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
-      "link": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
-      "published": "Tue, 05 May 2026 22:31:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.015560"
+      "crawled_at": "2026-05-06T13:27:23.182720"
     },
     {
       "source": "theverge",
-      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
-      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "published": "2026-05-05T17:46:04-04:00",
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search q",
+      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "published": "2026-05-06T09:00:30-04:00",
       "keywords": [
         "AI",
+        "Rust",
         "Go",
         "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.162851"
+      "crawled_at": "2026-05-06T13:27:23.312112"
     },
     {
       "source": "theverge",
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
-      "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "published": "2026-05-05T17:18:23-04:00",
+      "title": "It’s time to let my iPhone Mini go",
+      "summary": "It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. And as painful as it is to admit this, after using it again for a couple of weeks, I think it's time to put my [&#8230;]",
+      "link": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+      "published": "2026-05-06T09:00:00-04:00",
       "keywords": [
         "AI",
-        "AWS",
-        "Apple",
-        "iPhone"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.162898"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked ",
-      "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "published": "2026-05-05T15:54:37-04:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
+        "Go",
+        "iPhone",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.162931"
+      "crawled_at": "2026-05-06T13:27:23.312161"
     },
     {
       "source": "theverge",
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expecte",
-      "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "published": "2026-05-05T15:45:30-04:00",
+      "title": "The Remarkable Paper Pure is the best digital notepad I&#8217;ve ever used",
+      "summary": "Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell.&#160; The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premium color E Ink tablets. As with Remarkable’s first two digital notepads, the Paper Pure features a blac",
+      "link": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
+      "published": "2026-05-06T08:00:00-04:00",
       "keywords": [
-        "AI",
-        "Apple",
-        "iOS",
+        "Git",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.162964"
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.312218"
     },
     {
       "source": "theverge",
-      "title": "Threads is finally getting DMs on the web",
-      "summary": "Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's \"testing\" DMs on the web now, but plans to make the feature \"available to more people soon.\" In your DM page on the web, you can see your inbox and [&#8230;",
-      "link": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
-      "published": "2026-05-05T14:30:42-04:00",
+      "title": "Remarkable’s next E Ink digital notepad skips the color screen",
+      "summary": "Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features an upgraded version of the black-and-white E Ink display found in the Remarkable 2 that launched over ",
+      "link": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
+      "published": "2026-05-06T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.312273"
+    },
+    {
+      "source": "theverge",
+      "title": "Energizer’s new coin batteries won’t cause ingestion burns if swallowed",
+      "summary": "Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion burns if swallowed. Its Ultimate Child Shield line includes three sizes available starting today - 2032, 2025, and 2016 - that are commonly used in devices like remotes, we",
+      "link": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
+      "published": "2026-05-06T08:00:00-04:00",
       "keywords": [
         "AI",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.162991"
+      "crawled_at": "2026-05-06T13:27:23.312314"
     },
     {
       "source": "hackernews",
-      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-      "summary": "Article URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\nComments URL: https://news.ycombinator.com/item?id=48029334\nPoints: 132\n# Comments: 40",
-      "link": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-      "published": "Tue, 05 May 2026 22:07:18 +0000",
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "summary": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48035223\nPoints: 0\n# Comments: 0",
+      "link": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "published": "Wed, 06 May 2026 12:00:24 +0000",
       "keywords": [
         "AI",
-        "AWS",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.656664"
+      "crawled_at": "2026-05-06T13:27:23.572255"
     },
     {
       "source": "hackernews",
-      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "summary": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market\nComments URL: https://news.ycombinator.com/item?id=48029114\nPoints: 207\n# Comments: 92",
-      "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-      "published": "Tue, 05 May 2026 21:50:21 +0000",
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "summary": "Article URL: https://catstret.ch/202605/srss-hipster202510/\nComments URL: https://news.ycombinator.com/item?id=48034762\nPoints: 46\n# Comments: 5",
+      "link": "https://catstret.ch/202605/srss-hipster202510/",
+      "published": "Wed, 06 May 2026 10:53:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.656736"
+      "crawled_at": "2026-05-06T13:27:23.572298"
     },
     {
       "source": "hackernews",
-      "title": "Write some software, give it away for free",
-      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\nComments URL: https://news.ycombinator.com/item?id=48028842\nPoints: 132\n# Comments: 97",
-      "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "published": "Tue, 05 May 2026 21:26:50 +0000",
+      "title": "Show HN: Red Squares – GitHub outages as contributions",
+      "summary": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 375\n# Comments: 76",
+      "link": "https://red-squares.cian.lol/",
+      "published": "Wed, 06 May 2026 10:28:40 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.572342"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 107\n# Comments: 23",
+      "link": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "published": "Wed, 06 May 2026 06:31:29 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.572381"
+    },
+    {
+      "source": "hackernews",
+      "title": "Knitting bullshit",
+      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 185\n# Comments: 87",
+      "link": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "published": "Wed, 06 May 2026 05:13:58 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.656776"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why most product tours get skipped",
-      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped\nComments URL: https://news.ycombinator.com/item?id=48028546\nPoints: 68\n# Comments: 57",
-      "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "published": "Tue, 05 May 2026 21:05:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.656812"
-    },
-    {
-      "source": "hackernews",
-      "title": ".de TLD offline due to DNSSEC?",
-      "summary": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 529\n# Comments: 244",
-      "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "published": "Tue, 05 May 2026 20:16:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.656844"
+      "crawled_at": "2026-05-06T13:27:23.572412"
     },
     {
       "source": "arstechnica",
@@ -214,7 +217,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.763920"
+      "crawled_at": "2026-05-06T13:27:23.736830"
     },
     {
       "source": "arstechnica",
@@ -226,7 +229,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.763950"
+      "crawled_at": "2026-05-06T13:27:23.736860"
     },
     {
       "source": "arstechnica",
@@ -239,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.763973"
+      "crawled_at": "2026-05-06T13:27:23.736883"
     },
     {
       "source": "arstechnica",
@@ -251,7 +254,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.763995"
+      "crawled_at": "2026-05-06T13:27:23.736906"
     },
     {
       "source": "arstechnica",
@@ -264,73 +267,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.764024"
+      "crawled_at": "2026-05-06T13:27:23.736934"
     },
     {
       "source": "wired",
-      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk and subsequent efforts to remove several board members.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-      "published": "Tue, 05 May 2026 23:24:58 +0000",
+      "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
+      "summary": "This new app tracks every time you swipe your card at a cool restaurant—and tells all your friends.",
+      "link": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
+      "published": "Wed, 06 May 2026 13:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Go",
+        "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T01:49:32.869818"
+      "crawled_at": "2026-05-06T13:27:23.893394"
     },
     {
       "source": "wired",
-      "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
-      "summary": "Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.",
-      "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
-      "published": "Tue, 05 May 2026 21:05:40 +0000",
+      "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
+      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "published": "Wed, 06 May 2026 12:35:00 +0000",
       "keywords": [
-        "REST",
+        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.869862"
+      "crawled_at": "2026-05-06T13:27:23.893431"
     },
     {
       "source": "wired",
-      "title": "The Italian Dubbing of ‘The Devil Wears Prada 2’ Has Stirred Up a Surprising Controversy",
-      "summary": "The voice actors from the original film have returned for the sequel—and not everyone is happy about it.",
-      "link": "https://www.wired.com/story/the-italian-dubbing-of-the-devil-wears-prada-2-has-stirred-up-a-surprising-controversy/",
-      "published": "Tue, 05 May 2026 15:34:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-06T01:49:32.869901"
-    },
-    {
-      "source": "wired",
-      "title": "Pornhub Restores Access for UK Adults Who Use Apple’s Age Verification",
-      "summary": "The porn giant blocked its content from new UK users in February but says device-based age verification is more secure than third-party sites.",
-      "link": "https://www.wired.com/story/pornhub-restores-access-for-uk-adults-who-use-apples-age-verification/",
-      "published": "Tue, 05 May 2026 15:10:19 +0000",
-      "keywords": [
-        "REST",
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-06T01:49:32.869941"
-    },
-    {
-      "source": "wired",
-      "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
-      "summary": "The new Lifestyle Ultra Speaker, Ultra Soundbar, and Ultra Subwoofer introduce a cozier look.",
-      "link": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
-      "published": "Tue, 05 May 2026 12:00:00 +0000",
+      "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
+      "summary": "After six years, the ReMarkable 2 gets a replacement in the form of the ReMarkable Paper Pure.",
+      "link": "https://www.wired.com/review/remarkable-paper-pure/",
+      "published": "Wed, 06 May 2026 12:02:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T01:49:32.869977"
+      "crawled_at": "2026-05-06T13:27:23.893459"
+    },
+    {
+      "source": "wired",
+      "title": "Best Indoor Security Cameras (2026): For Homes and Apartments",
+      "summary": "Cameras can offer peace of mind, but choose carefully before inviting one into your home.",
+      "link": "https://www.wired.com/gallery/best-security-cameras/",
+      "published": "Wed, 06 May 2026 11:32:00 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-06T13:27:23.893487"
+    },
+    {
+      "source": "wired",
+      "title": "Best Webcams (2026): My Honest Take After Testing the Best",
+      "summary": "I tested all the major webcams across the price spectrum in attempts to find the very best. Here's what I learned.",
+      "link": "https://www.wired.com/story/best-webcams/",
+      "published": "Wed, 06 May 2026 11:02:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T13:27:23.893516"
     }
   ]
 }
