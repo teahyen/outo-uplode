@@ -1,337 +1,341 @@
 {
-  "last_updated": "2026-05-06T13:27:23.893609",
+  "last_updated": "2026-05-06T19:19:22.345003",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
-      "summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
-      "link": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
-      "published": "Wed, 06 May 2026 12:00:00 +0000",
+      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "published": "Wed, 06 May 2026 19:10:09 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "IPO"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:20.404066"
+    },
+    {
+      "source": "techcrunch",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "published": "Wed, 06 May 2026 18:23:54 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:20.404101"
+    },
+    {
+      "source": "techcrunch",
+      "title": "DOJ says ransomware gang tapped into Russian government databases",
+      "summary": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
+      "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+      "published": "Wed, 06 May 2026 18:20:21 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Database",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:20.404129"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+      "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
+      "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+      "published": "Wed, 06 May 2026 18:05:41 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "API",
+        "Hack",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:20.404169"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "published": "Wed, 06 May 2026 17:23:08 +0000",
+      "keywords": [],
+      "category": "Hardware",
+      "crawled_at": "2026-05-06T19:19:20.404213"
+    },
+    {
+      "source": "theverge",
+      "title": "The latest Tile Pro is down to $25 — its best price of the year",
+      "summary": "If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of the best on the market, and it’s on sale for $24.99 ($10 off) at Amazon and directly from Tile. While ",
+      "link": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
+      "published": "2026-05-06T15:00:00-04:00",
+      "keywords": [
+        "Go",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-05-06T19:19:20.549441"
+    },
+    {
+      "source": "theverge",
+      "title": "What we’re hearing about the new homepage",
+      "summary": "We’ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the “actually this rules,” the “please undo this immediately,” the bug reports, the feature ideas, and yes, the eternal request for dark mode. We appreciate it. A lot of you took the ",
+      "link": "https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage",
+      "published": "2026-05-06T14:05:13-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-06T19:19:20.549501"
+    },
+    {
+      "source": "theverge",
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a ne",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "published": "2026-05-06T13:55:53-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Rust",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:20.549545"
+    },
+    {
+      "source": "theverge",
+      "title": "The 44 best last-minute Mother’s Day gift ideas for 2026",
+      "summary": "Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so we've rounded up practical gadgets and little luxuries that can lighten her load. This year's picks ar",
+      "link": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
+      "published": "2026-05-06T13:34:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T19:19:20.549597"
+    },
+    {
+      "source": "theverge",
+      "title": "Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire",
+      "summary": "Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employees tomorrow, sources at Microsoft tell me the company has posted them on its internal HR website a littl",
+      "link": "https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details",
+      "published": "2026-05-06T13:22:19-04:00",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T19:19:20.549648"
+    },
+    {
+      "source": "hackernews",
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "summary": "Article URL: https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/\nComments URL: https://news.ycombinator.com/item?id=48039739\nPoints: 63\n# Comments: 41",
+      "link": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+      "published": "Wed, 06 May 2026 18:25:06 +0000",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T19:19:22.005700"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 27\n# Comments: 15",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "published": "Wed, 06 May 2026 17:59:33 +0000",
+      "keywords": [
+        "Go",
+        "Google Cloud",
+        "Security",
+        "Google",
+        "Cloud"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-05-06T19:19:22.005742"
+    },
+    {
+      "source": "hackernews",
+      "title": "Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2",
+      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0022316626001902\nComments URL: https://news.ycombinator.com/item?id=48038873\nPoints: 20\n# Comments: 19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022316626001902",
+      "published": "Wed, 06 May 2026 17:23:49 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T19:19:22.005782"
+    },
+    {
+      "source": "hackernews",
+      "title": "Going Full Time on Open Source",
+      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 53\n# Comments: 4",
+      "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "published": "Wed, 06 May 2026 17:22:49 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.182557"
+      "crawled_at": "2026-05-06T19:19:22.005816"
     },
     {
-      "source": "techcrunch",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made comp",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "published": "Wed, 06 May 2026 06:47:12 +0000",
+      "source": "hackernews",
+      "title": "From Supabase to Clerk to Better Auth",
+      "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 72\n# Comments: 24",
+      "link": "https://blog.val.town/better-auth",
+      "published": "Wed, 06 May 2026 17:19:34 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-06T19:19:22.005847"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
+      "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
+      "published": "Wed, 06 May 2026 17:20:06 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "AWS",
+        "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.182612"
+      "crawled_at": "2026-05-06T19:19:22.155480"
     },
     {
-      "source": "techcrunch",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "published": "Wed, 06 May 2026 06:34:32 +0000",
+      "source": "arstechnica",
+      "title": "Google DeepMind partners with EVE Online for AI model testing",
+      "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
+      "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+      "published": "Wed, 06 May 2026 16:56:49 +0000",
       "keywords": [
         "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.182645"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-      "summary": "The Silicon Valley AV startup has not started driverless testing yet.",
-      "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-      "published": "Wed, 06 May 2026 00:07:47 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-05-06T13:27:23.182675"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "published": "Tue, 05 May 2026 23:50:10 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.182720"
-    },
-    {
-      "source": "theverge",
-      "title": "Google&#8217;s AI search summaries will now quote Reddit",
-      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search q",
-      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "published": "2026-05-06T09:00:30-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
         "Go",
         "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.312112"
-    },
-    {
-      "source": "theverge",
-      "title": "It’s time to let my iPhone Mini go",
-      "summary": "It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. And as painful as it is to admit this, after using it again for a couple of weeks, I think it's time to put my [&#8230;]",
-      "link": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
-      "published": "2026-05-06T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.312161"
-    },
-    {
-      "source": "theverge",
-      "title": "The Remarkable Paper Pure is the best digital notepad I&#8217;ve ever used",
-      "summary": "Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell.&#160; The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premium color E Ink tablets. As with Remarkable’s first two digital notepads, the Paper Pure features a blac",
-      "link": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
-      "published": "2026-05-06T08:00:00-04:00",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.312218"
-    },
-    {
-      "source": "theverge",
-      "title": "Remarkable’s next E Ink digital notepad skips the color screen",
-      "summary": "Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features an upgraded version of the black-and-white E Ink display found in the Remarkable 2 that launched over ",
-      "link": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
-      "published": "2026-05-06T08:00:00-04:00",
-      "keywords": [
-        "Go",
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.312273"
-    },
-    {
-      "source": "theverge",
-      "title": "Energizer’s new coin batteries won’t cause ingestion burns if swallowed",
-      "summary": "Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion burns if swallowed. Its Ultimate Child Shield line includes three sizes available starting today - 2032, 2025, and 2016 - that are commonly used in devices like remotes, we",
-      "link": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
-      "published": "2026-05-06T08:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.312314"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
-      "summary": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48035223\nPoints: 0\n# Comments: 0",
-      "link": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-      "published": "Wed, 06 May 2026 12:00:24 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.572255"
-    },
-    {
-      "source": "hackernews",
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "summary": "Article URL: https://catstret.ch/202605/srss-hipster202510/\nComments URL: https://news.ycombinator.com/item?id=48034762\nPoints: 46\n# Comments: 5",
-      "link": "https://catstret.ch/202605/srss-hipster202510/",
-      "published": "Wed, 06 May 2026 10:53:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.572298"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "summary": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 375\n# Comments: 76",
-      "link": "https://red-squares.cian.lol/",
-      "published": "Wed, 06 May 2026 10:28:40 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.572342"
-    },
-    {
-      "source": "hackernews",
-      "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 107\n# Comments: 23",
-      "link": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "published": "Wed, 06 May 2026 06:31:29 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.572381"
-    },
-    {
-      "source": "hackernews",
-      "title": "Knitting bullshit",
-      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 185\n# Comments: 87",
-      "link": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "published": "Wed, 06 May 2026 05:13:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.572412"
+      "crawled_at": "2026-05-06T19:19:22.155508"
     },
     {
       "source": "arstechnica",
-      "title": "OpenAI president forced to read his personal diary entries to jury",
-      "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-      "published": "Tue, 05 May 2026 22:28:12 +0000",
+      "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
+      "summary": "What's going on with those satellites, anyway?",
+      "link": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/",
+      "published": "Wed, 06 May 2026 16:42:30 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "AR"
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.736830"
+      "crawled_at": "2026-05-06T19:19:22.155530"
     },
     {
       "source": "arstechnica",
-      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
-      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
-      "link": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
-      "published": "Tue, 05 May 2026 21:41:32 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.736860"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
-      "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
-      "published": "Tue, 05 May 2026 20:58:56 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.736883"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "published": "Tue, 05 May 2026 19:46:15 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.736906"
-    },
-    {
-      "source": "arstechnica",
-      "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
-      "summary": "Kennedy has made—and continues to make—many false claims about SSRIs.",
-      "link": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
-      "published": "Tue, 05 May 2026 19:32:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.736934"
-    },
-    {
-      "source": "wired",
-      "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
-      "summary": "This new app tracks every time you swipe your card at a cool restaurant—and tells all your friends.",
-      "link": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
-      "published": "Wed, 06 May 2026 13:00:00 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-06T13:27:23.893394"
-    },
-    {
-      "source": "wired",
-      "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "published": "Wed, 06 May 2026 12:35:00 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
+      "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
+      "summary": "FDA has suppressed studies on COVID-19 vaccines and Shingrix, a shingles vaccine.",
+      "link": "https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/",
+      "published": "Wed, 06 May 2026 16:19:58 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.893431"
+      "crawled_at": "2026-05-06T19:19:22.155558"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+      "summary": "Also, 5-hour usage limits will double for Pro and Max users of Claude Code.",
+      "link": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+      "published": "Wed, 06 May 2026 16:15:27 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:22.155579"
     },
     {
       "source": "wired",
-      "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
-      "summary": "After six years, the ReMarkable 2 gets a replacement in the form of the ReMarkable Paper Pure.",
-      "link": "https://www.wired.com/review/remarkable-paper-pure/",
-      "published": "Wed, 06 May 2026 12:02:00 +0000",
+      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+      "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+      "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "published": "Wed, 06 May 2026 18:28:52 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:22.344798"
+    },
+    {
+      "source": "wired",
+      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+      "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "published": "Wed, 06 May 2026 18:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:22.344838"
+    },
+    {
+      "source": "wired",
+      "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
+      "summary": "A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month.",
+      "link": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
+      "published": "Wed, 06 May 2026 17:35:06 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.893459"
+      "crawled_at": "2026-05-06T19:19:22.344872"
     },
     {
       "source": "wired",
-      "title": "Best Indoor Security Cameras (2026): For Homes and Apartments",
-      "summary": "Cameras can offer peace of mind, but choose carefully before inviting one into your home.",
-      "link": "https://www.wired.com/gallery/best-security-cameras/",
-      "published": "Wed, 06 May 2026 11:32:00 +0000",
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+      "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
+      "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "published": "Wed, 06 May 2026 16:51:12 +0000",
       "keywords": [
-        "Security",
-        "AR"
+        "AI",
+        "Anthropic"
       ],
-      "category": "Security",
-      "crawled_at": "2026-05-06T13:27:23.893487"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:22.344901"
     },
     {
       "source": "wired",
-      "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-      "summary": "I tested all the major webcams across the price spectrum in attempts to find the very best. Here's what I learned.",
-      "link": "https://www.wired.com/story/best-webcams/",
-      "published": "Wed, 06 May 2026 11:02:00 +0000",
+      "title": "Hackers Hate AI Slop Even More Than You Do",
+      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+      "published": "Wed, 06 May 2026 15:49:12 +0000",
       "keywords": [
+        "AI",
+        "Hack",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-06T13:27:23.893516"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-06T19:19:22.344931"
     }
   ]
 }
