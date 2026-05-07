@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-07T08:13:03.933154",
+  "last_updated": "2026-05-07T13:26:02.406076",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "published": "Thu, 07 May 2026 12:20:04 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-07T13:26:01.517332"
+    },
     {
       "source": "techcrunch",
       "title": "Five architects of the AI economy explain where the wheels are coming off",
@@ -13,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.202490"
+      "crawled_at": "2026-05-07T13:26:01.517374"
     },
     {
       "source": "techcrunch",
@@ -27,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.202527"
+      "crawled_at": "2026-05-07T13:26:01.517401"
     },
     {
       "source": "techcrunch",
@@ -42,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.202564"
+      "crawled_at": "2026-05-07T13:26:01.517431"
     },
     {
       "source": "techcrunch",
@@ -55,20 +67,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.202595"
+      "crawled_at": "2026-05-07T13:26:01.517460"
     },
     {
-      "source": "techcrunch",
-      "title": "Is xAI a neocloud now?",
-      "summary": "xAI's real business may be more about building data centers than training AI models.",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "published": "Wed, 06 May 2026 21:32:55 +0000",
+      "source": "theverge",
+      "title": "Inside Dreame’s wild launch event — packed with products no one can buy",
+      "summary": "Hundreds of influencers, media folks, and a few C-list celebs (sorry, Woz) filled the cavernous halls of the San Francisco Palace of Fine Arts last week. They were assembled for Dreame's launch event, ostensibly into both America and a much bigger ecosystem of products. Across the four-day showcase,",
+      "link": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
+      "published": "2026-05-07T09:15:32-04:00",
       "keywords": [
-        "AI",
-        "Cloud"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.202617"
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:01.760417"
     },
     {
       "source": "theverge",
@@ -82,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.349513"
+      "crawled_at": "2026-05-07T13:26:01.760465"
     },
     {
       "source": "theverge",
@@ -95,7 +106,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-05-07T08:13:03.349566"
+      "crawled_at": "2026-05-07T13:26:01.760503"
     },
     {
       "source": "theverge",
@@ -110,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.349601"
+      "crawled_at": "2026-05-07T13:26:01.760534"
     },
     {
       "source": "theverge",
@@ -124,84 +135,92 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.349647"
+      "crawled_at": "2026-05-07T13:26:01.760576"
     },
     {
-      "source": "theverge",
-      "title": "The latest Tile Pro is down to $25 — its best price of the year",
-      "summary": "If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of the best on the market, and it’s on sale for $24.99 ($10 off) at Amazon and directly from Tile. While ",
-      "link": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
-      "published": "2026-05-06T15:00:00-04:00",
+      "source": "hackernews",
+      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "summary": "Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems\nComments URL: https://news.ycombinator.com/item?id=48048339\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+      "published": "Thu, 07 May 2026 12:01:13 +0000",
       "keywords": [
+        "GPT",
         "Go",
-        "Amazon",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-05-07T08:13:03.349700"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-07T13:26:02.126795"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-      "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 9\n# Comments: 0",
-      "link": "https://github.com/darkrishabh/agent-skills-eval",
-      "published": "Thu, 07 May 2026 06:12:25 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.612126"
-    },
-    {
-      "source": "hackernews",
-      "title": "Building the TD4 4-Bit CPU",
-      "summary": "Article URL: https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html\nComments URL: https://news.ycombinator.com/item?id=48045384\nPoints: 14\n# Comments: 6",
-      "link": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "published": "Thu, 07 May 2026 04:25:43 +0000",
+      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 104\n# Comments: 65",
+      "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
+      "published": "Thu, 07 May 2026 11:10:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.612173"
+      "crawled_at": "2026-05-07T13:26:02.126840"
     },
     {
       "source": "hackernews",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 31\n# Comments: 19",
-      "link": "https://arxiv.org/abs/2605.03546",
-      "published": "Thu, 07 May 2026 03:46:15 +0000",
+      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+      "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 67\n# Comments: 34",
+      "link": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+      "published": "Thu, 07 May 2026 11:08:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.612208"
+      "crawled_at": "2026-05-07T13:26:02.126880"
     },
     {
       "source": "hackernews",
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 73\n# Comments: 28",
-      "link": "https://aniket.foo/posts/20260505-netboot/",
-      "published": "Thu, 07 May 2026 03:13:24 +0000",
-      "keywords": [
-        "Linux",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.612243"
-    },
-    {
-      "source": "hackernews",
-      "title": "Permacomputing Principles",
-      "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 116\n# Comments: 46",
-      "link": "https://permacomputing.net/principles/",
-      "published": "Thu, 07 May 2026 02:18:23 +0000",
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 35\n# Comments: 6",
+      "link": "https://ahk.cardor.dev",
+      "published": "Thu, 07 May 2026 10:45:59 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.612274"
+      "crawled_at": "2026-05-07T13:26:02.126914"
+    },
+    {
+      "source": "hackernews",
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 79\n# Comments: 10",
+      "link": "https://unsloth.ai/blog/nvidia-collab",
+      "published": "Thu, 07 May 2026 07:15:11 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-07T13:26:02.126940"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Is your Porsche Taycan too slow at the Nürbugring? You need this Manthey Kit.",
+      "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
+      "link": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
+      "published": "Thu, 07 May 2026 12:00:01 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:02.281121"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Former NASA chief takes helm of national security space firm",
+      "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
+      "link": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
+      "published": "Thu, 07 May 2026 11:00:17 +0000",
+      "keywords": [
+        "Security"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-07T13:26:02.281172"
     },
     {
       "source": "arstechnica",
@@ -213,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-07T08:13:03.753718"
+      "crawled_at": "2026-05-07T13:26:02.281214"
     },
     {
       "source": "arstechnica",
@@ -229,7 +248,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.753750"
+      "crawled_at": "2026-05-07T13:26:02.281237"
     },
     {
       "source": "arstechnica",
@@ -242,87 +261,65 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.753774"
+      "crawled_at": "2026-05-07T13:26:02.281258"
     },
     {
-      "source": "arstechnica",
-      "title": "Court strikes down FCC anti-discrimination rule opposed by Internet providers",
-      "summary": "Chairman Brendan Carr celebrates FCC court loss in case over Biden-era rule.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/court-strikes-down-fcc-anti-discrimination-rule-opposed-by-internet-providers/",
-      "published": "Wed, 06 May 2026 21:33:39 +0000",
+      "source": "wired",
+      "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
+      "summary": "Sleep Number’s new model leans plush, but its smart support might convert even die-hard firmness fans.",
+      "link": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
+      "published": "Thu, 07 May 2026 12:07:00 +0000",
       "keywords": [
-        "AI",
         "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:02.405872"
+    },
+    {
+      "source": "wired",
+      "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
+      "summary": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options.",
+      "link": "https://www.wired.com/gallery/best-printers/",
+      "published": "Thu, 07 May 2026 11:33:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:02.405913"
+    },
+    {
+      "source": "wired",
+      "title": "Best Bug Spray (2026), Tested and Reviewed",
+      "summary": "Our writer tried some of the most popular insect repellents during runs, hikes, and evening walks. These are the ones we recommend.",
+      "link": "https://www.wired.com/story/best-bug-sprays/",
+      "published": "Thu, 07 May 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:02.405942"
+    },
+    {
+      "source": "wired",
+      "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
+      "summary": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
+      "link": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
+      "published": "Thu, 07 May 2026 11:02:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-07T13:26:02.405970"
+    },
+    {
+      "source": "wired",
+      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+      "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+      "published": "Thu, 07 May 2026 11:00:00 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.753798"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-      "summary": "Trump forced to admit Biden was right on AI safety testing.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-      "published": "Wed, 06 May 2026 21:20:14 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-07T08:13:03.753818"
-    },
-    {
-      "source": "wired",
-      "title": "Vimeo Promo Code: 40% Off This May 2026",
-      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-      "link": "https://www.wired.com/story/vimeo-promo-code/",
-      "published": "Thu, 07 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-07T08:13:03.932953"
-    },
-    {
-      "source": "wired",
-      "title": "Walmart Promo Codes: 65% Off",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "published": "Thu, 07 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-07T08:13:03.932983"
-    },
-    {
-      "source": "wired",
-      "title": "Groupon Promo Codes: 60% Off in May 2026",
-      "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "link": "https://www.wired.com/story/groupon-promo-code/",
-      "published": "Thu, 07 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-07T08:13:03.933010"
-    },
-    {
-      "source": "wired",
-      "title": "HP Discount Codes: 60% Off May 2026",
-      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "published": "Thu, 07 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-07T08:13:03.933031"
-    },
-    {
-      "source": "wired",
-      "title": "Maytag Promo Codes: 15% Off Appliances",
-      "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-      "link": "https://www.wired.com/story/maytag-promo-code/",
-      "published": "Thu, 07 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-07T08:13:03.933056"
+      "crawled_at": "2026-05-07T13:26:02.406003"
     }
   ]
 }
