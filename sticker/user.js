@@ -105,8 +105,10 @@ async function loadHistory() {
 
     listEl.innerHTML = history.map(item => `
       <div class="history-item">
-        <span class="history-date">${formatDate(item.date)}</span>
-        <span class="history-stars-row">${'⭐'.repeat(Math.min(item.count, 5))}</span>
+        <div class="history-info">
+          <span class="history-date">${formatDate(item.date)}</span>
+          ${item.reason ? `<span class="history-reason">${escHtml(item.reason)}</span>` : ''}
+        </div>
         <span class="history-count-badge">⭐ ${item.count}개</span>
       </div>
     `).join('');
@@ -127,6 +129,14 @@ function formatDate(dateStr) {
   const days = ['일','월','화','수','목','금','토'];
   const dow = days[d.getDay()];
   return `${y}년 ${m}월 ${day}일 (${dow})`;
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
 }
 
 document.getElementById('history-refresh-btn').addEventListener('click', () => {

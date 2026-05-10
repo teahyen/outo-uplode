@@ -264,18 +264,27 @@ body {
 }
 .history-item:hover { transform: translateX(3px); }
 
-.history-date {
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--text);
+.history-info {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.history-date {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--text);
   white-space: nowrap;
 }
 
-.history-stars-row {
-  font-size: 18px;
-  letter-spacing: 1px;
-  flex-shrink: 0;
+.history-reason {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .history-count-badge {

@@ -2,9 +2,14 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>스티커 관리자</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest-admin.json">
+  <meta name="theme-color" content="#7C3AED">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="스티커관리">
   <link rel="stylesheet" href="admin.css">
 </head>
 <body>
@@ -84,7 +89,6 @@
         <div class="card">
           <h2 class="card-title">스티커 등록</h2>
 
-          <!-- 프리셋 선택 드롭다운 -->
           <div class="field">
             <button type="button" class="preset-toggle-btn" id="preset-toggle-btn">
               <span>📋 프리셋 선택</span>
@@ -97,13 +101,11 @@
             </div>
           </div>
 
-          <!-- 칭찬 사유 -->
           <div class="field">
             <label for="add-reason-text">칭찬 사유</label>
             <textarea id="add-reason-text" rows="3" placeholder="칭찬 사유를 직접 입력하거나 위에서 프리셋을 선택하세요..."></textarea>
           </div>
 
-          <!-- 스티커 개수 (별점) -->
           <div class="field">
             <label>스티커 개수</label>
             <div class="star-rating" id="star-rating">
@@ -211,5 +213,10 @@
 
   <script src="config.js"></script>
   <script src="admin.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./sw.js');
+    }
+  </script>
 </body>
 </html>
