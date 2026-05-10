@@ -40,7 +40,102 @@ body {
 .user-header {
   background: linear-gradient(135deg, #7C3AED 0%, #4F46E5 100%);
   padding: 22px 24px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.header-install-btn {
+  background: rgba(255,255,255,.2);
+  color: white;
+  border: 1px solid rgba(255,255,255,.4);
+  border-radius: 8px;
+  padding: 7px 13px;
+  font-size: 12.5px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: inherit;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background .15s;
+}
+.header-install-btn:active { background: rgba(255,255,255,.35); }
+
+/* ── 설치 배너 ── */
+#install-banner {
+  background: linear-gradient(135deg, #6D28D9 0%, #4338CA 100%);
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+
+.install-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.install-banner-icon {
+  width: 34px;
+  height: 41px;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,.25));
+}
+
+.install-banner-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  color: white;
+}
+
+.install-banner-text strong {
+  font-size: 13.5px;
+  font-weight: 800;
+}
+
+.install-banner-text span {
+  font-size: 11px;
+  opacity: .85;
+}
+
+.install-confirm-btn {
+  background: white;
+  color: #7C3AED;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 13.5px;
+  font-weight: 700;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: inherit;
+  transition: transform .1s;
+}
+.install-confirm-btn:active { transform: scale(.96); }
+
+.install-dismiss-btn {
+  background: rgba(255,255,255,.2);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  width: 28px;
+  height: 28px;
+  font-size: 13px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-family: inherit;
+  transition: background .15s;
+}
+.install-dismiss-btn:hover { background: rgba(255,255,255,.3); }
 
 .user-header-title {
   display: flex;

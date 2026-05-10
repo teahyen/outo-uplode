@@ -18,6 +18,37 @@ document.querySelectorAll('.user-tab-btn').forEach(btn => {
   });
 });
 
+/* ── PWA 설치 ── */
+let deferredPrompt = null;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  document.getElementById('install-banner').style.display = 'block';
+  document.getElementById('header-install-btn').style.display = 'flex';
+});
+
+async function triggerInstall() {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  await deferredPrompt.userChoice;
+  deferredPrompt = null;
+  document.getElementById('install-banner').style.display = 'none';
+  document.getElementById('header-install-btn').style.display = 'none';
+}
+
+document.getElementById('install-btn').addEventListener('click', triggerInstall);
+document.getElementById('header-install-btn').addEventListener('click', triggerInstall);
+document.getElementById('install-dismiss-btn').addEventListener('click', () => {
+  document.getElementById('install-banner').style.display = 'none';
+});
+
+window.addEventListener('appinstalled', () => {
+  document.getElementById('install-banner').style.display = 'none';
+  document.getElementById('header-install-btn').style.display = 'none';
+  deferredPrompt = null;
+});
+
 /* ── 현황 탭 ── */
 async function loadStatus() {
   try {
