@@ -4,10 +4,11 @@
 
 const API_URL = (typeof CONFIG !== 'undefined') ? CONFIG.APPS_SCRIPT_URL : '';
 
-let authToken      = sessionStorage.getItem('admin_token');
-let allRecords     = [];
-let presets        = [];
-let selectedCount  = 1;
+let authToken       = sessionStorage.getItem('admin_token');
+let allRecords      = [];
+let presets         = [];   // [{ text, count }]
+let selectedCount   = 1;
+let newPresetCount  = 1;
 let presetPanelOpen = false;
 
 /* =================== 초기화 =================== */
@@ -46,6 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('preset-toggle-btn').addEventListener('click', togglePresetPanel);
 
   initStarRating();
+  initNewPresetStarRating();
 });
 
 /* =================== 인증 =================== */
@@ -110,7 +112,10 @@ async function loadPresets() {
   try {
     const res = await apiGet('getPresets');
     if (res.success) {
-      presets = res.presets;
+      // 서버가 문자열 배열을 반환하는 경우에도 호환 처리
+      presets = (res.presets || []).map(p =>
+        typeof p === 'string' ? { text: p, count: 1 } : { text: p.text, count: parseInt(p.count, 10) || 1 }
+      );
       renderPresets();
       updatePresetChips();
     }
@@ -144,8 +149,11 @@ function renderPresets() {
   }
   listEl.innerHTML = presets.map(p => `
     <div class="preset-item">
-      <span>${escHtml(p)}</span>
-      <button class="btn btn-danger btn-sm" data-preset="${escAttr(p)}" onclick="deletePreset(this)">삭제</button>
+      <div class="preset-item-info">
+        <span class="preset-item-text">${escHtml(p.text)}</span>
+        <span class="preset-item-count">${'★'.repeat(p.count)} ${p.count}개</span>
+      </div>
+      <button class="btn btn-danger btn-sm" data-preset="${escAttr(p.text)}" onclick="deletePreset(this)">삭제</button>
     </div>
   `).join('');
 }
@@ -157,7 +165,9 @@ function updatePresetChips() {
     return;
   }
   chipsEl.innerHTML = presets.map(p => `
-    <button type="button" class="preset-chip" data-preset="${escAttr(p)}" onclick="selectPreset(this)">${escHtml(p)}</button>
+    <button type="button" class="preset-chip" data-preset="${escAttr(p.text)}" data-count="${p.count}" onclick="selectPreset(this)">
+      ${escHtml(p.text)}<span class="chip-stars"> ${'★'.repeat(p.count)}</span>
+    </button>
   `).join('');
 }
 
@@ -212,7 +222,11 @@ function togglePresetPanel() {
 
 function selectPreset(chipEl) {
   const preset = chipEl.dataset.preset;
+  const count  = parseInt(chipEl.dataset.count, 10) || 1;
   document.getElementById('add-reason-text').value = preset;
+  selectedCount = count;
+  updateStarDisplay();
+  document.getElementById('star-count-label').textContent = count;
   presetPanelOpen = false;
   document.getElementById('preset-panel').style.display = 'none';
   document.getElementById('toggle-arrow').classList.remove('open');
@@ -254,6 +268,40 @@ function updateStarDisplay() {
   document.querySelectorAll('#star-rating .star').forEach(s => {
     const v = parseInt(s.dataset.value, 10);
     s.classList.toggle('filled', v <= selectedCount);
+    s.classList.remove('preview');
+  });
+}
+
+/* =================== 프리셋 별점 =================== */
+function initNewPresetStarRating() {
+  const stars = document.querySelectorAll('#new-preset-star-rating .mini-star');
+
+  stars.forEach(star => {
+    star.addEventListener('click', () => {
+      newPresetCount = parseInt(star.dataset.value, 10);
+      updateNewPresetStarDisplay();
+      document.getElementById('new-preset-star-label').textContent = newPresetCount;
+    });
+
+    star.addEventListener('mouseenter', () => {
+      const hoverVal = parseInt(star.dataset.value, 10);
+      stars.forEach(s => {
+        const v = parseInt(s.dataset.value, 10);
+        s.classList.remove('filled', 'preview');
+        if (v <= newPresetCount) s.classList.add('filled');
+        if (v > newPresetCount && v <= hoverVal) s.classList.add('preview');
+      });
+    });
+  });
+
+  document.getElementById('new-preset-star-rating').addEventListener('mouseleave', updateNewPresetStarDisplay);
+  updateNewPresetStarDisplay();
+}
+
+function updateNewPresetStarDisplay() {
+  document.querySelectorAll('#new-preset-star-rating .mini-star').forEach(s => {
+    const v = parseInt(s.dataset.value, 10);
+    s.classList.toggle('filled', v <= newPresetCount);
     s.classList.remove('preview');
   });
 }
@@ -340,13 +388,16 @@ async function addPreset() {
 
   hideMsg(errEl); hideMsg(sucEl);
   if (!text) { showMsg(errEl, '프리셋 내용을 입력해주세요.', false); return; }
-  if (presets.includes(text)) { showMsg(errEl, '이미 동일한 프리셋이 존재합니다.', false); return; }
+  if (presets.some(p => p.text === text)) { showMsg(errEl, '이미 동일한 프리셋이 존재합니다.', false); return; }
 
   setLoading(btn, true, '추가 중...');
   try {
-    const res = await apiPost({ action: 'addPreset', preset: text, token: authToken });
+    const res = await apiPost({ action: 'addPreset', preset: text, count: newPresetCount, token: authToken });
     if (res.success) {
       document.getElementById('new-preset-text').value = '';
+      newPresetCount = 1;
+      updateNewPresetStarDisplay();
+      document.getElementById('new-preset-star-label').textContent = '1';
       showMsg(sucEl, '✅ 프리셋이 추가되었습니다!', true);
       await loadPresets();
     } else {
