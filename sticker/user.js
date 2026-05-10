@@ -106,8 +106,8 @@ async function loadHistory() {
     listEl.innerHTML = history.map(item => `
       <div class="history-item">
         <div class="history-info">
-          <span class="history-date">${formatDate(item.date)}</span>
           ${item.reason ? `<span class="history-reason">${escHtml(item.reason)}</span>` : ''}
+          <span class="history-date">${formatDate(item.date)}</span>
         </div>
         <span class="history-count-badge">⭐ ${item.count}개</span>
       </div>
