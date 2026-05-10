@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>스티커 관리자</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="admin.css">
 </head>
 <body>
@@ -11,7 +12,9 @@
   <!-- ===== 로그인 화면 ===== -->
   <div id="login-screen">
     <div class="login-card">
-      <div class="login-logo">⭐</div>
+      <div class="login-logo">
+        <img src="icon.svg" alt="칭찬스티커" width="72" height="86">
+      </div>
       <h1>관리자 로그인</h1>
       <p>스티커 관리 시스템 관리자 전용 페이지입니다</p>
       <form id="login-form" autocomplete="off">
@@ -34,7 +37,7 @@
     <header class="header">
       <div class="header-inner">
         <div class="header-title">
-          <span class="header-icon">⭐</span>
+          <img src="icon.svg" alt="칭찬스티커" class="header-icon-img">
           <span>스티커 관리 시스템</span>
         </div>
         <button class="btn btn-ghost btn-sm" id="logout-btn">로그아웃</button>
@@ -145,10 +148,22 @@
         <div class="card">
           <h2 class="card-title">프리셋 관리</h2>
           <p class="section-desc">프리셋은 스티커 등록 시 선택할 수 있는 미리 작성된 칭찬 사유입니다.<br>스프레드시트의 <strong>칭찬 목록</strong> 시트에 직접 추가해도 됩니다.</p>
-          <div class="add-row">
+          <div class="field">
+            <label for="new-preset-text">프리셋 내용</label>
             <input type="text" id="new-preset-text" placeholder="새 프리셋 내용을 입력하세요...">
-            <button class="btn btn-primary" id="new-preset-btn">추가</button>
           </div>
+          <div class="field">
+            <label>기본 스티커 개수</label>
+            <div class="mini-star-rating" id="new-preset-star-rating">
+              <button type="button" class="mini-star filled" data-value="1">★</button>
+              <button type="button" class="mini-star" data-value="2">★</button>
+              <button type="button" class="mini-star" data-value="3">★</button>
+              <button type="button" class="mini-star" data-value="4">★</button>
+              <button type="button" class="mini-star" data-value="5">★</button>
+            </div>
+            <p class="star-hint"><span id="new-preset-star-label">1</span>개 선택됨</p>
+          </div>
+          <button class="btn btn-primary" id="new-preset-btn">추가</button>
           <div class="msg error-msg" id="preset-error" style="display:none"></div>
           <div class="msg success-msg" id="preset-success" style="display:none"></div>
           <div id="preset-list" class="preset-list">
