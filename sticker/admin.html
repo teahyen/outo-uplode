@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>스티커 관리자</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+  <!-- ===== 로그인 화면 ===== -->
+  <div id="login-screen">
+    <div class="login-card">
+      <div class="login-logo">⭐</div>
+      <h1>관리자 로그인</h1>
+      <p>스티커 관리 시스템 관리자 전용 페이지입니다</p>
+      <form id="login-form" autocomplete="off">
+        <div class="field">
+          <label for="pw-input">비밀번호</label>
+          <input type="password" id="pw-input" placeholder="비밀번호를 입력하세요" autofocus>
+        </div>
+        <div class="msg error-msg" id="login-error" style="display:none"></div>
+        <button type="submit" class="btn btn-primary full-width" id="login-btn">로그인</button>
+      </form>
+      <div class="setup-notice" id="setup-notice" style="display:none">
+        <strong>⚙️ 설정 필요</strong><br>
+        config.js에서 Apps Script URL을 설정해주세요.
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 관리자 대시보드 ===== -->
+  <div id="dashboard" style="display:none">
+    <header class="header">
+      <div class="header-inner">
+        <div class="header-title">
+          <span class="header-icon">⭐</span>
+          <span>스티커 관리 시스템</span>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="logout-btn">로그아웃</button>
+      </div>
+    </header>
+
+    <main class="main">
+
+      <!-- 요약 카드 -->
+      <div class="summary-grid">
+        <div class="summary-card total">
+          <div class="summary-icon">🌟</div>
+          <div class="summary-body">
+            <div class="summary-num" id="count-total">-</div>
+            <div class="summary-label">전체 스티커</div>
+          </div>
+        </div>
+        <div class="summary-card available">
+          <div class="summary-icon">✨</div>
+          <div class="summary-body">
+            <div class="summary-num" id="count-available">-</div>
+            <div class="summary-label">사용 가능</div>
+          </div>
+        </div>
+        <div class="summary-card used">
+          <div class="summary-icon">🎯</div>
+          <div class="summary-body">
+            <div class="summary-num" id="count-used">-</div>
+            <div class="summary-label">사용 완료</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 탭 버튼 -->
+      <div class="tab-bar">
+        <button class="tab-btn active" data-tab="add">➕ 스티커 등록</button>
+        <button class="tab-btn" data-tab="use">🎯 스티커 사용</button>
+        <button class="tab-btn" data-tab="presets">📋 프리셋 관리</button>
+        <button class="tab-btn" data-tab="records">📊 칭찬 기록</button>
+      </div>
+
+      <!-- ─── 탭: 스티커 등록 ─── -->
+      <div class="tab-pane active" id="pane-add">
+        <div class="card">
+          <h2 class="card-title">스티커 등록</h2>
+
+          <div class="field">
+            <label>사유 입력 방법</label>
+            <div class="radio-row">
+              <label class="radio-item">
+                <input type="radio" name="reason-mode" value="manual" checked>
+                <span>직접 입력</span>
+              </label>
+              <label class="radio-item">
+                <input type="radio" name="reason-mode" value="preset">
+                <span>프리셋 선택</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="field" id="field-manual">
+            <label for="add-reason-text">칭찬 사유</label>
+            <textarea id="add-reason-text" rows="3" placeholder="칭찬 사유를 입력하세요..."></textarea>
+          </div>
+
+          <div class="field" id="field-preset" style="display:none">
+            <label for="add-reason-select">프리셋 선택</label>
+            <select id="add-reason-select">
+              <option value="">-- 프리셋을 선택하세요 --</option>
+            </select>
+            <p class="field-hint" id="no-preset-hint" style="display:none">
+              프리셋이 없습니다. <a href="#" onclick="switchTab('presets'); return false;">프리셋 관리</a>에서 추가해주세요.
+            </p>
+          </div>
+
+          <div class="msg error-msg" id="add-error" style="display:none"></div>
+          <div class="msg success-msg" id="add-success" style="display:none"></div>
+          <button class="btn btn-primary" id="add-btn">등록하기</button>
+        </div>
+      </div>
+
+      <!-- ─── 탭: 스티커 사용 ─── -->
+      <div class="tab-pane" id="pane-use" style="display:none">
+        <div class="card">
+          <h2 class="card-title">스티커 사용</h2>
+          <div class="info-row">
+            현재 사용 가능한 스티커: <strong id="use-available">-</strong>개
+          </div>
+          <div class="field">
+            <label for="use-count">사용 개수</label>
+            <input type="number" id="use-count" min="1" placeholder="몇 개를 사용할까요?">
+          </div>
+          <div class="field">
+            <label for="use-reason">사용 사유</label>
+            <textarea id="use-reason" rows="3" placeholder="사용 사유를 입력하세요..."></textarea>
+          </div>
+          <div class="msg error-msg" id="use-error" style="display:none"></div>
+          <div class="msg success-msg" id="use-success" style="display:none"></div>
+          <button class="btn btn-secondary" id="use-btn">사용 등록</button>
+        </div>
+      </div>
+
+      <!-- ─── 탭: 프리셋 관리 ─── -->
+      <div class="tab-pane" id="pane-presets" style="display:none">
+        <div class="card">
+          <h2 class="card-title">프리셋 관리</h2>
+          <p class="section-desc">프리셋은 스티커 등록 시 선택할 수 있는 미리 작성된 칭찬 사유입니다.<br>스프레드시트의 <strong>칭찬 목록</strong> 시트에 직접 추가해도 됩니다.</p>
+          <div class="add-row">
+            <input type="text" id="new-preset-text" placeholder="새 프리셋 내용을 입력하세요...">
+            <button class="btn btn-primary" id="new-preset-btn">추가</button>
+          </div>
+          <div class="msg error-msg" id="preset-error" style="display:none"></div>
+          <div class="msg success-msg" id="preset-success" style="display:none"></div>
+          <div id="preset-list" class="preset-list">
+            <p class="empty-msg">로딩 중...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── 탭: 칭찬 기록 ─── -->
+      <div class="tab-pane" id="pane-records" style="display:none">
+        <div class="card">
+          <div class="card-header-row">
+            <h2 class="card-title">칭찬 기록</h2>
+            <button class="btn btn-ghost btn-sm" id="refresh-btn">🔄 새로고침</button>
+          </div>
+          <div class="filter-row">
+            <label class="checkbox-label">
+              <input type="checkbox" id="filter-unused">
+              <span>미사용 스티커만 보기</span>
+            </label>
+          </div>
+          <div class="table-wrap">
+            <table class="records-table">
+              <thead>
+                <tr>
+                  <th>순서</th>
+                  <th>등록 날짜</th>
+                  <th>사유</th>
+                  <th>사용 날짜</th>
+                  <th>사용 사유</th>
+                  <th>상태</th>
+                </tr>
+              </thead>
+              <tbody id="records-body">
+                <tr><td colspan="6" class="empty-msg">로딩 중...</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="records-summary" id="records-summary" style="display:none"></div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="admin.js"></script>
+</body>
+</html>
