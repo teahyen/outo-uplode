@@ -4,9 +4,11 @@
 
 const API_URL = (typeof CONFIG !== 'undefined') ? CONFIG.APPS_SCRIPT_URL : '';
 
-let authToken  = sessionStorage.getItem('admin_token');
-let allRecords = [];
-let presets    = [];
+let authToken      = sessionStorage.getItem('admin_token');
+let allRecords     = [];
+let presets        = [];
+let selectedCount  = 1;
+let presetPanelOpen = false;
 
 /* =================== 초기화 =================== */
 document.addEventListener('DOMContentLoaded', () => {
@@ -33,10 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
   });
 
-  document.querySelectorAll('input[name="reason-mode"]').forEach(radio => {
-    radio.addEventListener('change', onReasonModeChange);
-  });
-
   document.getElementById('add-btn').addEventListener('click', addSticker);
   document.getElementById('use-btn').addEventListener('click', useStickers);
   document.getElementById('new-preset-btn').addEventListener('click', addPreset);
@@ -45,6 +43,9 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   document.getElementById('refresh-btn').addEventListener('click', loadRecords);
   document.getElementById('filter-unused').addEventListener('change', renderRecords);
+  document.getElementById('preset-toggle-btn').addEventListener('click', togglePresetPanel);
+
+  initStarRating();
 });
 
 /* =================== 인증 =================== */
@@ -111,7 +112,7 @@ async function loadPresets() {
     if (res.success) {
       presets = res.presets;
       renderPresets();
-      updatePresetSelect();
+      updatePresetChips();
     }
   } catch (e) {
     document.getElementById('preset-list').innerHTML = '<p class="empty-msg">프리셋을 불러오지 못했습니다.</p>';
@@ -149,21 +150,15 @@ function renderPresets() {
   `).join('');
 }
 
-function updatePresetSelect() {
-  const sel  = document.getElementById('add-reason-select');
-  const hint = document.getElementById('no-preset-hint');
-  sel.innerHTML = '<option value="">-- 프리셋을 선택하세요 --</option>';
+function updatePresetChips() {
+  const chipsEl = document.getElementById('preset-chips');
   if (!presets.length) {
-    hint.style.display = 'block';
-  } else {
-    hint.style.display = 'none';
-    presets.forEach(p => {
-      const opt = document.createElement('option');
-      opt.value = p;
-      opt.textContent = p;
-      sel.appendChild(opt);
-    });
+    chipsEl.innerHTML = '<p class="empty-msg small">등록된 프리셋이 없습니다.<br><a href="#" onclick="switchTab(\'presets\'); return false;">프리셋 관리</a>에서 추가해주세요.</p>';
+    return;
   }
+  chipsEl.innerHTML = presets.map(p => `
+    <button type="button" class="preset-chip" data-preset="${escAttr(p)}" onclick="selectPreset(this)">${escHtml(p)}</button>
+  `).join('');
 }
 
 function renderRecords() {
@@ -208,37 +203,80 @@ function switchTab(tab) {
   });
 }
 
-function onReasonModeChange(e) {
-  const isPreset = e.target.value === 'preset';
-  document.getElementById('field-manual').style.display = isPreset ? 'none' : 'block';
-  document.getElementById('field-preset').style.display = isPreset ? 'block' : 'none';
+/* =================== 프리셋 패널 =================== */
+function togglePresetPanel() {
+  presetPanelOpen = !presetPanelOpen;
+  document.getElementById('preset-panel').style.display = presetPanelOpen ? 'block' : 'none';
+  document.getElementById('toggle-arrow').classList.toggle('open', presetPanelOpen);
+}
+
+function selectPreset(chipEl) {
+  const preset = chipEl.dataset.preset;
+  document.getElementById('add-reason-text').value = preset;
+  presetPanelOpen = false;
+  document.getElementById('preset-panel').style.display = 'none';
+  document.getElementById('toggle-arrow').classList.remove('open');
+  chipEl.style.background = 'var(--primary)';
+  chipEl.style.color = 'white';
+  setTimeout(() => { chipEl.style.background = ''; chipEl.style.color = ''; }, 300);
+}
+
+/* =================== 별점 (스티커 개수) =================== */
+function initStarRating() {
+  const stars = document.querySelectorAll('#star-rating .star');
+
+  stars.forEach(star => {
+    star.addEventListener('click', () => {
+      selectedCount = parseInt(star.dataset.value, 10);
+      updateStarDisplay();
+      document.getElementById('star-count-label').textContent = selectedCount;
+    });
+
+    star.addEventListener('mouseenter', () => {
+      const hoverVal = parseInt(star.dataset.value, 10);
+      stars.forEach(s => {
+        const v = parseInt(s.dataset.value, 10);
+        s.classList.remove('filled', 'preview');
+        if (v <= selectedCount) s.classList.add('filled');
+        if (v > selectedCount && v <= hoverVal) s.classList.add('preview');
+      });
+    });
+  });
+
+  document.getElementById('star-rating').addEventListener('mouseleave', () => {
+    updateStarDisplay();
+  });
+
+  updateStarDisplay();
+}
+
+function updateStarDisplay() {
+  document.querySelectorAll('#star-rating .star').forEach(s => {
+    const v = parseInt(s.dataset.value, 10);
+    s.classList.toggle('filled', v <= selectedCount);
+    s.classList.remove('preview');
+  });
 }
 
 /* =================== 스티커 등록 =================== */
 async function addSticker() {
-  const mode  = document.querySelector('input[name="reason-mode"]:checked').value;
-  const errEl = document.getElementById('add-error');
-  const sucEl = document.getElementById('add-success');
-  const btn   = document.getElementById('add-btn');
+  const reason = document.getElementById('add-reason-text').value.trim();
+  const errEl  = document.getElementById('add-error');
+  const sucEl  = document.getElementById('add-success');
+  const btn    = document.getElementById('add-btn');
 
   hideMsg(errEl); hideMsg(sucEl);
-
-  let reason = '';
-  if (mode === 'manual') {
-    reason = document.getElementById('add-reason-text').value.trim();
-    if (!reason) { showMsg(errEl, '칭찬 사유를 입력해주세요.', false); return; }
-  } else {
-    reason = document.getElementById('add-reason-select').value;
-    if (!reason) { showMsg(errEl, '프리셋을 선택해주세요.', false); return; }
-  }
+  if (!reason) { showMsg(errEl, '칭찬 사유를 입력해주세요.', false); return; }
 
   setLoading(btn, true, '등록 중...');
   try {
-    const res = await apiPost({ action: 'addSticker', reason, token: authToken });
+    const res = await apiPost({ action: 'addSticker', reason, count: selectedCount, token: authToken });
     if (res.success) {
-      document.getElementById('add-reason-text').value  = '';
-      document.getElementById('add-reason-select').value = '';
-      showMsg(sucEl, '✅ 스티커가 성공적으로 등록되었습니다!', true);
+      document.getElementById('add-reason-text').value = '';
+      selectedCount = 1;
+      updateStarDisplay();
+      document.getElementById('star-count-label').textContent = '1';
+      showMsg(sucEl, `✅ 스티커 ${res.added}개가 성공적으로 등록되었습니다!`, true);
       loadSummary();
       loadRecords();
     } else {
@@ -301,7 +339,6 @@ async function addPreset() {
   const btn   = document.getElementById('new-preset-btn');
 
   hideMsg(errEl); hideMsg(sucEl);
-
   if (!text) { showMsg(errEl, '프리셋 내용을 입력해주세요.', false); return; }
   if (presets.includes(text)) { showMsg(errEl, '이미 동일한 프리셋이 존재합니다.', false); return; }
 

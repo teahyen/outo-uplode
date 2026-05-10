@@ -81,33 +81,36 @@
         <div class="card">
           <h2 class="card-title">스티커 등록</h2>
 
+          <!-- 프리셋 선택 드롭다운 -->
           <div class="field">
-            <label>사유 입력 방법</label>
-            <div class="radio-row">
-              <label class="radio-item">
-                <input type="radio" name="reason-mode" value="manual" checked>
-                <span>직접 입력</span>
-              </label>
-              <label class="radio-item">
-                <input type="radio" name="reason-mode" value="preset">
-                <span>프리셋 선택</span>
-              </label>
+            <button type="button" class="preset-toggle-btn" id="preset-toggle-btn">
+              <span>📋 프리셋 선택</span>
+              <span class="toggle-arrow" id="toggle-arrow">▼</span>
+            </button>
+            <div class="preset-panel" id="preset-panel" style="display:none">
+              <div id="preset-chips" class="preset-chips">
+                <p class="empty-msg small">등록된 프리셋이 없습니다.<br><a href="#" onclick="switchTab('presets'); return false;">프리셋 관리</a>에서 추가해주세요.</p>
+              </div>
             </div>
           </div>
 
-          <div class="field" id="field-manual">
+          <!-- 칭찬 사유 -->
+          <div class="field">
             <label for="add-reason-text">칭찬 사유</label>
-            <textarea id="add-reason-text" rows="3" placeholder="칭찬 사유를 입력하세요..."></textarea>
+            <textarea id="add-reason-text" rows="3" placeholder="칭찬 사유를 직접 입력하거나 위에서 프리셋을 선택하세요..."></textarea>
           </div>
 
-          <div class="field" id="field-preset" style="display:none">
-            <label for="add-reason-select">프리셋 선택</label>
-            <select id="add-reason-select">
-              <option value="">-- 프리셋을 선택하세요 --</option>
-            </select>
-            <p class="field-hint" id="no-preset-hint" style="display:none">
-              프리셋이 없습니다. <a href="#" onclick="switchTab('presets'); return false;">프리셋 관리</a>에서 추가해주세요.
-            </p>
+          <!-- 스티커 개수 (별점) -->
+          <div class="field">
+            <label>스티커 개수</label>
+            <div class="star-rating" id="star-rating">
+              <button type="button" class="star filled" data-value="1">★</button>
+              <button type="button" class="star" data-value="2">★</button>
+              <button type="button" class="star" data-value="3">★</button>
+              <button type="button" class="star" data-value="4">★</button>
+              <button type="button" class="star" data-value="5">★</button>
+            </div>
+            <p class="star-hint"><span id="star-count-label">1</span>개 선택됨</p>
           </div>
 
           <div class="msg error-msg" id="add-error" style="display:none"></div>
