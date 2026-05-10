@@ -3,5 +3,5 @@
 // Apps Script 배포 후 받은 URL로 교체하세요
 // =====================================================
 const CONFIG = {
-  APPS_SCRIPT_URL: 'YOUR_APPS_SCRIPT_WEB_APP_URL_HERE'
+  APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbyzUloReHMuWrSqVGpQwTSsYmvaT2-tAsNTD_jnp8epKyPMmBghh-3jgJRU1ZmT_MU/exec'
 };
