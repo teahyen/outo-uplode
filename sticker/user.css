@@ -223,6 +223,30 @@ body {
   font-weight: 500;
 }
 
+/* ===================== 받은 스티커 목록 ===================== */
+.unused-section {
+  margin-top: 20px;
+}
+
+.unused-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.unused-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.no-reason {
+  color: var(--text-muted) !important;
+  font-weight: 500 !important;
+  font-style: italic;
+}
+
 /* ===================== 사용 기록 탭 ===================== */
 .history-card {
   background: white;

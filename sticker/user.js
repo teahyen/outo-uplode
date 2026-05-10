@@ -144,5 +144,40 @@ document.getElementById('history-refresh-btn').addEventListener('click', () => {
   loadHistory();
 });
 
+/* ── 받은 스티커 목록 ── */
+async function loadUnusedStickers() {
+  const listEl  = document.getElementById('unused-list');
+  const errorEl = document.getElementById('unused-error');
+  listEl.innerHTML = '<p class="loading-msg">로딩 중...</p>';
+  errorEl.style.display = 'none';
+
+  try {
+    const data = await apiFetch({ action: 'getUnusedStickers' });
+    if (!data.success) throw new Error(data.error || 'fail');
+
+    const stickers = data.stickers ?? [];
+    if (stickers.length === 0) {
+      listEl.innerHTML = '<p class="empty-msg">아직 받은 스티커가 없어요.</p>';
+      return;
+    }
+
+    listEl.innerHTML = stickers.map(item => `
+      <div class="history-item">
+        <div class="history-info">
+          ${item.reason ? `<span class="history-reason">${escHtml(item.reason)}</span>` : '<span class="history-reason no-reason">칭찬 사유 없음</span>'}
+          <span class="history-date">${formatDate(item.date)}</span>
+        </div>
+        <span class="history-count-badge">⭐ ${item.count}개</span>
+      </div>
+    `).join('');
+  } catch (e) {
+    listEl.innerHTML = '';
+    errorEl.style.display = 'block';
+  }
+}
+
+document.getElementById('unused-refresh-btn').addEventListener('click', loadUnusedStickers);
+
 /* ── 초기 로드 ── */
 loadStatus();
+loadUnusedStickers();
