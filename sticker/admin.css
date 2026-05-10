@@ -56,9 +56,12 @@ body {
 }
 
 .login-logo {
-  font-size: 52px;
-  margin-bottom: 16px;
-  filter: drop-shadow(0 2px 8px rgba(124,58,237,.3));
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+.login-logo img {
+  filter: drop-shadow(0 4px 12px rgba(124,58,237,.35));
 }
 
 .login-card h1 {
@@ -116,6 +119,7 @@ body {
 }
 
 .header-icon { font-size: 22px; }
+.header-icon-img { width: 28px; height: 34px; object-fit: contain; }
 
 /* ===================== 메인 ===================== */
 .main {
@@ -433,6 +437,14 @@ textarea { resize: vertical; min-height: 80px; }
 }
 .preset-chip:active { transform: scale(.96); }
 
+.chip-stars {
+  font-size: 11px;
+  color: #F59E0B;
+  margin-left: 2px;
+  letter-spacing: 1px;
+}
+.preset-chip:hover .chip-stars { color: #FDE68A; }
+
 .empty-msg.small { padding: 8px 4px; font-size: 13px; text-align: left; }
 .empty-msg.small a { color: var(--primary); text-decoration: none; }
 .empty-msg.small a:hover { text-decoration: underline; }
@@ -474,13 +486,6 @@ textarea { resize: vertical; min-height: 80px; }
 .star-hint span { font-weight: 700; color: var(--primary); }
 
 /* ===================== 프리셋 관리 ===================== */
-.add-row {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 4px;
-}
-.add-row input { flex: 1; }
-
 .preset-list {
   display: flex;
   flex-direction: column;
@@ -500,11 +505,56 @@ textarea { resize: vertical; min-height: 80px; }
   border: 1px solid var(--border);
   gap: 12px;
 }
-.preset-item span {
-  font-size: 14px;
+
+.preset-item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
   flex: 1;
+  min-width: 0;
+}
+
+.preset-item-text {
+  font-size: 14px;
+  color: var(--text);
   word-break: break-all;
 }
+
+.preset-item-count {
+  font-size: 12px;
+  color: #D97706;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+/* ===================== 미니 별점 (프리셋 추가) ===================== */
+.mini-star-rating {
+  display: flex;
+  gap: 2px;
+  margin-top: 4px;
+}
+
+.mini-star {
+  font-size: 26px;
+  color: #D1D5DB;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 3px;
+  line-height: 1;
+  font-family: inherit;
+  transition: color .12s, transform .1s;
+  -webkit-text-stroke: 1px #D1D5DB;
+}
+.mini-star.filled {
+  color: #F59E0B;
+  -webkit-text-stroke: 1px #D97706;
+}
+.mini-star.preview {
+  color: #FCD34D;
+  -webkit-text-stroke: 1px #F59E0B;
+}
+.mini-star:active { transform: scale(.88); }
 
 /* ===================== 필터 ===================== */
 .filter-row { margin-bottom: 16px; }
@@ -579,4 +629,5 @@ textarea { resize: vertical; min-height: 80px; }
   .main { padding: 20px 16px 40px; }
   .tab-btn { padding: 9px 10px; font-size: 12.5px; }
   .star { font-size: 30px; }
+  .mini-star { font-size: 22px; }
 }
