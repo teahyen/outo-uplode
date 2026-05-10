@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>칭찬 스티커</title>
+  <link rel="stylesheet" href="user.css">
+</head>
+<body>
+  <div class="page">
+
+    <header class="user-header">
+      <div class="user-header-title">
+        <span class="user-header-icon">⭐</span>
+        <span>칭찬 스티커</span>
+      </div>
+    </header>
+
+    <!-- 탭 바 -->
+    <div class="user-tab-bar">
+      <button class="user-tab-btn active" data-tab="status">스티커 현황</button>
+      <button class="user-tab-btn" data-tab="history">사용 기록</button>
+    </div>
+
+    <main class="user-main">
+
+      <!-- ── 탭 1: 스티커 현황 ── -->
+      <div class="user-tab-pane" id="user-pane-status">
+        <div class="status-card">
+          <p class="status-label">사용 가능한 칭찬 스티커</p>
+          <div class="status-big">
+            <span class="status-number" id="available-count">·</span>
+            <span class="status-unit">개</span>
+          </div>
+          <div class="star-display" id="star-display"></div>
+          <div class="status-sub">
+            <div class="status-sub-item">
+              <span class="sub-num" id="total-count">-</span>
+              <span class="sub-label">전체 획득</span>
+            </div>
+            <div class="status-sub-divider"></div>
+            <div class="status-sub-item">
+              <span class="sub-num used" id="used-count">-</span>
+              <span class="sub-label">사용 완료</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="error-banner" id="status-error" style="display:none">
+          데이터를 불러오지 못했습니다. 잠시 후 다시 시도해주세요.
+        </div>
+      </div>
+
+      <!-- ── 탭 2: 사용 기록 ── -->
+      <div class="user-tab-pane" id="user-pane-history" style="display:none">
+        <div class="history-card">
+          <div class="history-header">
+            <h2 class="history-title">스티커 사용 기록</h2>
+            <button class="refresh-btn" id="history-refresh-btn">🔄</button>
+          </div>
+          <div id="history-list">
+            <p class="loading-msg">로딩 중...</p>
+          </div>
+        </div>
+
+        <div class="error-banner" id="history-error" style="display:none">
+          기록을 불러오지 못했습니다. 잠시 후 다시 시도해주세요.
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="user.js"></script>
+</body>
+</html>
