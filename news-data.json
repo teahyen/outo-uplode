@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-05-10T18:44:08.853833",
+  "last_updated": "2026-05-11T02:01:15.944522",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Get ready for the whisper-filled office of the future",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "published": "Sun, 10 May 2026 21:15:30 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-11T02:01:14.980990"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "published": "Sun, 10 May 2026 20:40:41 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-11T02:01:14.981033"
+    },
     {
       "source": "techcrunch",
       "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
@@ -10,7 +35,7 @@
       "published": "Sun, 10 May 2026 18:08:54 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.126498"
+      "crawled_at": "2026-05-11T02:01:14.981080"
     },
     {
       "source": "techcrunch",
@@ -24,7 +49,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.126536"
+      "crawled_at": "2026-05-11T02:01:14.981108"
     },
     {
       "source": "techcrunch",
@@ -38,33 +63,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.126567"
+      "crawled_at": "2026-05-11T02:01:14.981136"
     },
     {
-      "source": "techcrunch",
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
-      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "published": "Sun, 10 May 2026 15:13:07 +0000",
+      "source": "theverge",
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [",
+      "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "published": "2026-05-10T16:42:08-04:00",
       "keywords": [
-        "Startup",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-05-10T18:44:08.126596"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "published": "Sun, 10 May 2026 02:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.126621"
+      "category": "Tech News",
+      "crawled_at": "2026-05-11T02:01:15.194723"
     },
     {
       "source": "theverge",
@@ -77,7 +88,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.226033"
+      "crawled_at": "2026-05-11T02:01:15.194795"
     },
     {
       "source": "theverge",
@@ -90,7 +101,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.226085"
+      "crawled_at": "2026-05-11T02:01:15.194833"
     },
     {
       "source": "theverge",
@@ -102,7 +113,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.226135"
+      "crawled_at": "2026-05-11T02:01:15.194881"
     },
     {
       "source": "theverge",
@@ -114,82 +125,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.226179"
-    },
-    {
-      "source": "theverge",
-      "title": "Vivo’s X300 Ultra has the best cameras in any phone",
-      "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
-      "link": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
-      "published": "2026-05-10T07:00:00-04:00",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.226233"
+      "crawled_at": "2026-05-11T02:01:15.194927"
     },
     {
       "source": "hackernews",
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 117\n# Comments: 9",
-      "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "published": "Sun, 10 May 2026 17:54:02 +0000",
+      "title": "I'm going back to writing code by hand",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 19\n# Comments: 3",
+      "link": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "published": "Mon, 11 May 2026 01:23:51 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-05-10T18:44:08.647456"
+      "category": "Programming",
+      "crawled_at": "2026-05-11T02:01:15.431450"
     },
     {
       "source": "hackernews",
-      "title": "Incident CVE-2024-Yikes",
-      "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 39\n# Comments: 4",
-      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "published": "Sun, 10 May 2026 17:43:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.647498"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
-      "summary": "Article URL: https://tracesofhumanity.org/hello-world/\nComments URL: https://news.ycombinator.com/item?id=48085782\nPoints: 38\n# Comments: 7",
-      "link": "https://tracesofhumanity.org/hello-world/",
-      "published": "Sun, 10 May 2026 17:15:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.647531"
-    },
-    {
-      "source": "hackernews",
-      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
-      "summary": "Article URL: https://janrosenow.substack.com/p/spain-just-became-one-of-europes\nComments URL: https://news.ycombinator.com/item?id=48085330\nPoints: 39\n# Comments: 12",
-      "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-      "published": "Sun, 10 May 2026 16:31:51 +0000",
+      "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+      "summary": "Article URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/\nComments URL: https://news.ycombinator.com/item?id=48089531\nPoints: 16\n# Comments: 11",
+      "link": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+      "published": "Mon, 11 May 2026 00:10:34 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.647559"
+      "crawled_at": "2026-05-11T02:01:15.431491"
     },
     {
       "source": "hackernews",
-      "title": "GitHub is sinking",
-      "summary": "Article URL: https://dbushell.com/2026/04/29/github-is-sinking/\nComments URL: https://news.ycombinator.com/item?id=48085095\nPoints: 92\n# Comments: 65",
-      "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
-      "published": "Sun, 10 May 2026 16:07:26 +0000",
+      "title": "You Need AI That Reduces Maintenance Costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 19\n# Comments: 3",
+      "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "published": "Sun, 10 May 2026 23:39:55 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-11T02:01:15.431522"
+    },
+    {
+      "source": "hackernews",
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 67\n# Comments: 42",
+      "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "published": "Sun, 10 May 2026 23:36:48 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-11T02:01:15.431555"
+    },
+    {
+      "source": "hackernews",
+      "title": "Running local models on an M4 with 24GB memory",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 76\n# Comments: 42",
+      "link": "https://jola.dev/posts/running-local-models-on-m4",
+      "published": "Sun, 10 May 2026 23:09:10 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.647590"
+      "crawled_at": "2026-05-11T02:01:15.431588"
     },
     {
       "source": "arstechnica",
@@ -202,7 +202,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.749252"
+      "crawled_at": "2026-05-11T02:01:15.663050"
     },
     {
       "source": "arstechnica",
@@ -214,7 +214,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-10T18:44:08.749288"
+      "crawled_at": "2026-05-11T02:01:15.663087"
     },
     {
       "source": "arstechnica",
@@ -226,7 +226,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.749318"
+      "crawled_at": "2026-05-11T02:01:15.663114"
     },
     {
       "source": "arstechnica",
@@ -238,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.749343"
+      "crawled_at": "2026-05-11T02:01:15.663139"
     },
     {
       "source": "arstechnica",
@@ -250,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.749369"
+      "crawled_at": "2026-05-11T02:01:15.663176"
     },
     {
       "source": "wired",
@@ -262,7 +262,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-10T18:44:08.853571"
+      "crawled_at": "2026-05-11T02:01:15.944280"
     },
     {
       "source": "wired",
@@ -275,7 +275,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-10T18:44:08.853608"
+      "crawled_at": "2026-05-11T02:01:15.944317"
     },
     {
       "source": "wired",
@@ -285,7 +285,7 @@
       "published": "Sun, 10 May 2026 10:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.853647"
+      "crawled_at": "2026-05-11T02:01:15.944356"
     },
     {
       "source": "wired",
@@ -297,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.853684"
+      "crawled_at": "2026-05-11T02:01:15.944392"
     },
     {
       "source": "wired",
@@ -309,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-10T18:44:08.853718"
+      "crawled_at": "2026-05-11T02:01:15.944424"
     }
   ]
 }
