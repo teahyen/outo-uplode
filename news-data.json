@@ -1,208 +1,209 @@
 {
-  "last_updated": "2026-05-12T08:23:33.744869",
+  "last_updated": "2026-05-12T13:51:26.680821",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "published": "Tue, 12 May 2026 04:52:35 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:29.964380"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "published": "Tue, 12 May 2026 00:09:01 +0000",
+      "title": "Instructure strikes deal with hackers who breached it twice",
+      "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
+      "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "published": "Tue, 12 May 2026 13:34:04 +0000",
       "keywords": [
         "AI",
-        "Startup",
-        "IPO",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:29.964413"
+      "crawled_at": "2026-05-12T13:51:18.546659"
     },
     {
       "source": "techcrunch",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "published": "Mon, 11 May 2026 23:04:10 +0000",
-      "keywords": [
-        "AI",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:29.964443"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-      "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-      "published": "Mon, 11 May 2026 21:59:34 +0000",
-      "keywords": [
-        "Go",
-        "Apple",
-        "Google",
-        "iPhone",
-        "Android"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-12T08:23:29.964475"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-      "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-      "published": "Mon, 11 May 2026 17:38:32 +0000",
+      "title": "Dessn raises $6M for its production focused design tool",
+      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
       "keywords": [
         "AI",
         "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:29.964498"
+      "crawled_at": "2026-05-12T13:51:18.546693"
     },
     {
-      "source": "theverge",
-      "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
-      "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with pe",
-      "link": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
-      "published": "2026-05-12T02:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:30.042404"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "published": "2026-05-11T19:05:01-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Claude",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:30.042449"
-    },
-    {
-      "source": "theverge",
-      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-      "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the ",
-      "link": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-      "published": "2026-05-11T18:40:20-04:00",
-      "keywords": [
-        "AR"
-      ],
+      "source": "techcrunch",
+      "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
+      "summary": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
+      "link": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:30.042499"
+      "crawled_at": "2026-05-12T13:51:18.546731"
     },
     {
-      "source": "theverge",
-      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collabor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "published": "2026-05-11T18:19:15-04:00",
+      "source": "techcrunch",
+      "title": "AI is turning connected cars into pothole-finding machines",
+      "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+      "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:30.042532"
+      "crawled_at": "2026-05-12T13:51:18.546757"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
+      "summary": "Spotify's new feature will show you the number of unique songs that you listened to until now",
+      "link": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
+      "published": "Tue, 12 May 2026 12:44:00 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-05-12T13:51:18.546795"
     },
     {
       "source": "theverge",
-      "title": "Govee’s new portable smart lamp is on sale for the first time",
-      "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Ama",
-      "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
-      "published": "2026-05-11T15:56:28-04:00",
+      "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
+      "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta an",
+      "link": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
+      "published": "2026-05-12T09:34:12-04:00",
       "keywords": [
-        "Go",
+        "AI",
         "Amazon",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:30.042589"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-12T13:51:18.823349"
     },
     {
-      "source": "hackernews",
-      "title": "Screenshots of Old Desktop OSes",
-      "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 89\n# Comments: 22",
-      "link": "http://www.typewritten.org/Media/",
-      "published": "Tue, 12 May 2026 05:11:24 +0000",
+      "source": "theverge",
+      "title": "Waymo recalls robotaxis for driving on flooded roads",
+      "summary": "Waymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. In documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned comp",
+      "link": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
+      "published": "2026-05-12T09:32:39-04:00",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:33.566761"
-    },
-    {
-      "source": "hackernews",
-      "title": "Extremely Low Frequencies",
-      "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 55\n# Comments: 1",
-      "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "published": "Tue, 12 May 2026 03:59:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:33.566803"
-    },
-    {
-      "source": "hackernews",
-      "title": "Software Internals Book Club",
-      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 82\n# Comments: 13",
-      "link": "https://eatonphil.com/bookclub.html",
-      "published": "Tue, 12 May 2026 02:28:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:33.566856"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude Platform on AWS",
-      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 123\n# Comments: 56",
-      "link": "https://claude.com/blog/claude-platform-on-aws",
-      "published": "Tue, 12 May 2026 01:24:29 +0000",
-      "keywords": [
-        "Claude",
-        "AWS",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:33.566884"
+      "crawled_at": "2026-05-12T13:51:18.823399"
+    },
+    {
+      "source": "theverge",
+      "title": "Canvas owner reaches &#8216;agreement&#8217; with hackers to secure stolen data",
+      "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. The ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly",
+      "link": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+      "published": "2026-05-12T09:23:10-04:00",
+      "keywords": [
+        "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-12T13:51:18.823437"
+    },
+    {
+      "source": "theverge",
+      "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
+      "summary": "Spotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service. The ",
+      "link": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
+      "published": "2026-05-12T08:15:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-12T13:51:18.823493"
+    },
+    {
+      "source": "theverge",
+      "title": "How to watch Google’s Android Show: I/O Edition today",
+      "summary": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference. When the Android Show will happen and where you can watch it Android ",
+      "link": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
+      "published": "2026-05-12T07:00:00-04:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-12T13:51:18.823540"
     },
     {
       "source": "hackernews",
-      "title": "They Live (1988) inspired Adblocker",
-      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 187\n# Comments: 49",
-      "link": "https://github.com/davmlaw/they_live_adblocker",
-      "published": "Tue, 12 May 2026 00:37:54 +0000",
+      "title": "UnDUNE II",
+      "summary": "Article URL: https://liquidream.itch.io/undune2\nComments URL: https://news.ycombinator.com/item?id=48107404\nPoints: 19\n# Comments: 1",
+      "link": "https://liquidream.itch.io/undune2",
+      "published": "Tue, 12 May 2026 12:38:45 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:33.566915"
+      "crawled_at": "2026-05-12T13:51:26.278275"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't hijack my mouse pointer",
+      "summary": "Article URL: https://ruky.me/dont-hijack-my-pointer/\nComments URL: https://news.ycombinator.com/item?id=48107027\nPoints: 31\n# Comments: 30",
+      "link": "https://ruky.me/dont-hijack-my-pointer/",
+      "published": "Tue, 12 May 2026 12:00:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-12T13:51:26.278317"
+    },
+    {
+      "source": "hackernews",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "summary": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship\nComments URL: https://news.ycombinator.com/item?id=48107024\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "published": "Tue, 12 May 2026 12:00:46 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-12T13:51:26.278349"
+    },
+    {
+      "source": "hackernews",
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 185\n# Comments: 130",
+      "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "published": "Tue, 12 May 2026 11:00:07 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-12T13:51:26.278389"
+    },
+    {
+      "source": "hackernews",
+      "title": "Coursera and Udemy are now one company",
+      "summary": "Article URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/\nComments URL: https://news.ycombinator.com/item?id=48106367\nPoints: 77\n# Comments: 24",
+      "link": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
+      "published": "Tue, 12 May 2026 10:37:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-12T13:51:26.278427"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
+      "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
+      "link": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
+      "published": "Tue, 12 May 2026 11:00:34 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-12T13:51:26.444219"
     },
     {
       "source": "arstechnica",
@@ -216,7 +217,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-05-12T08:23:33.662963"
+      "crawled_at": "2026-05-12T13:51:26.444255"
     },
     {
       "source": "arstechnica",
@@ -226,7 +227,7 @@
       "published": "Mon, 11 May 2026 22:01:57 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-12T08:23:33.662995"
+      "crawled_at": "2026-05-12T13:51:26.444283"
     },
     {
       "source": "arstechnica",
@@ -239,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:33.663020"
+      "crawled_at": "2026-05-12T13:51:26.444306"
     },
     {
       "source": "arstechnica",
@@ -252,72 +253,67 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:33.663050"
+      "crawled_at": "2026-05-12T13:51:26.444336"
     },
     {
-      "source": "arstechnica",
-      "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
-      "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
-      "link": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
-      "published": "Mon, 11 May 2026 18:12:43 +0000",
+      "source": "wired",
+      "title": "Some Women Are Obsessively Testing Their Vaginas to Optimize Them",
+      "summary": "Biohacker Bryan Johnson recently bragged about his girlfriend's “top 1%” vagina as the at-home vaginal microbiome test industry is thriving. But experts are skeptical.",
+      "link": "https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/",
+      "published": "Tue, 12 May 2026 11:00:00 +0000",
+      "keywords": [
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-12T13:51:26.680568"
+    },
+    {
+      "source": "wired",
+      "title": "Why Soccer Still Defies Statistical Analysis",
+      "summary": "Sarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data.",
+      "link": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
+      "published": "Tue, 12 May 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-12T13:51:26.680609"
+    },
+    {
+      "source": "wired",
+      "title": "The Creators of ‘Hacks’ Really, Really, Really Hate AI",
+      "summary": "Ahead of the hit show’s finale, cocreators Paul W. Downs and Lucia Aniello talk about media consolidation, the perils of censorship, and why they find AI “deeply disturbing.”",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/",
+      "published": "Tue, 12 May 2026 10:30:00 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-12T08:23:33.663072"
+      "crawled_at": "2026-05-12T13:51:26.680643"
     },
     {
       "source": "wired",
-      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for April 2026",
-      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "link": "https://www.wired.com/story/noom-promo-code/",
-      "published": "Tue, 12 May 2026 05:00:00 +0000",
+      "title": "Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support",
+      "summary": "The Lifestudio Grand Plus isn’t without quirks, but the ultrashort-throw home cinema projector delivers a rich picture quality in movies and games, up to a 150-inch screen size.",
+      "link": "https://www.wired.com/review/epson-lifestudio-grand-plus/",
+      "published": "Tue, 12 May 2026 10:30:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-12T08:23:33.744679"
+      "category": "Tech News",
+      "crawled_at": "2026-05-12T13:51:26.680685"
     },
     {
       "source": "wired",
-      "title": "OnePlus Promo Code: $70 Off | 2026",
-      "summary": "Save 30% with a OnePlus coupon this 2026, plus save up to 10% on earbuds, phones, and more.",
-      "link": "https://www.wired.com/story/oneplus-promo-code/",
-      "published": "Tue, 12 May 2026 05:00:00 +0000",
+      "title": "Beatbot Pool-Cleaning Robots Are on Sale",
+      "summary": "Automate your pool cleaning with these surface-skimming, wall-scrubbing robots.",
+      "link": "https://www.wired.com/story/beatbot-deals-may-2026/",
+      "published": "Tue, 12 May 2026 10:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-12T08:23:33.744706"
-    },
-    {
-      "source": "wired",
-      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
-      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "published": "Tue, 12 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-12T08:23:33.744727"
-    },
-    {
-      "source": "wired",
-      "title": "Hoka Coupon Codes: 30% Off | May 2026",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
-      "link": "https://www.wired.com/story/hoka-coupon-code/",
-      "published": "Tue, 12 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-12T08:23:33.744759"
-    },
-    {
-      "source": "wired",
-      "title": "50% Off Home Depot Promo Codes | May 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Tue, 12 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-12T08:23:33.744781"
+      "category": "Tech News",
+      "crawled_at": "2026-05-12T13:51:26.680711"
     }
   ]
 }
