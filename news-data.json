@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-05-14T02:05:56.092656",
+  "last_updated": "2026-05-14T08:26:00.606815",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+      "published": "Thu, 14 May 2026 06:05:31 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T08:25:59.558214"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "published": "Thu, 14 May 2026 05:24:39 +0000",
+      "keywords": [
+        "Anthropic",
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-05-14T08:25:59.558264"
+    },
     {
       "source": "techcrunch",
       "title": "Notion just turned its workspace into a hub for AI agents",
@@ -13,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.324827"
+      "crawled_at": "2026-05-14T08:25:59.558301"
     },
     {
       "source": "techcrunch",
@@ -27,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.324868"
+      "crawled_at": "2026-05-14T08:25:59.558334"
     },
     {
       "source": "techcrunch",
@@ -42,34 +70,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.324900"
-    },
-    {
-      "source": "techcrunch",
-      "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
-      "summary": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
-      "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
-      "published": "Wed, 13 May 2026 18:12:29 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T02:05:53.324943"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-      "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
-      "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-      "published": "Wed, 13 May 2026 17:42:20 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "IPO",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.324971"
+      "crawled_at": "2026-05-14T08:25:59.558364"
     },
     {
       "source": "theverge",
@@ -83,7 +84,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.403687"
+      "crawled_at": "2026-05-14T08:25:59.977909"
     },
     {
       "source": "theverge",
@@ -96,7 +97,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-05-14T02:05:53.403740"
+      "crawled_at": "2026-05-14T08:25:59.977968"
     },
     {
       "source": "theverge",
@@ -110,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.403788"
+      "crawled_at": "2026-05-14T08:25:59.978019"
     },
     {
       "source": "theverge",
@@ -124,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:53.403820"
+      "crawled_at": "2026-05-14T08:25:59.978070"
     },
     {
       "source": "theverge",
@@ -138,74 +139,77 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-05-14T02:05:53.403865"
+      "crawled_at": "2026-05-14T08:25:59.978118"
     },
     {
       "source": "hackernews",
-      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-      "summary": "Article URL: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758\nComments URL: https://news.ycombinator.com/item?id=48129789\nPoints: 7\n# Comments: 0",
-      "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-      "published": "Thu, 14 May 2026 00:54:18 +0000",
+      "title": "What the Hell Was Going on with Cigarette Ads in the 70s?",
+      "summary": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/\nComments URL: https://news.ycombinator.com/item?id=48132159\nPoints: 3\n# Comments: 0",
+      "link": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+      "published": "Thu, 14 May 2026 07:25:59 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T08:26:00.281219"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude for Small Business",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-for-small-business\nComments URL: https://news.ycombinator.com/item?id=48130950\nPoints: 194\n# Comments: 120",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "published": "Thu, 14 May 2026 03:59:35 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T08:26:00.281256"
+    },
+    {
+      "source": "hackernews",
+      "title": "Arena AI Model ELO History",
+      "summary": "Hi HN,I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality,",
+      "link": "https://mayerwin.github.io/AI-Arena-History/",
+      "published": "Thu, 14 May 2026 03:19:05 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T08:26:00.281358"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "summary": "Article URL: https://github.com/DrCatHicks/learning-opportunities\nComments URL: https://news.ycombinator.com/item?id=48130679\nPoints: 30\n# Comments: 5",
+      "link": "https://github.com/DrCatHicks/learning-opportunities",
+      "published": "Thu, 14 May 2026 03:13:31 +0000",
+      "keywords": [
+        "Claude",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T08:26:00.281392"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor\nComments URL: https://news.ycombinator.com/item?id=48130519\nPoints: 139\n# Com",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "published": "Thu, 14 May 2026 02:45:08 +0000",
       "keywords": [
         "Security",
         "Microsoft",
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-05-14T02:05:55.892061"
-    },
-    {
-      "source": "hackernews",
-      "title": "Scorched Earth 2000 is back",
-      "summary": "Article URL: http://www.scorch2000.com/web/\nComments URL: https://news.ycombinator.com/item?id=48129694\nPoints: 23\n# Comments: 11",
-      "link": "http://www.scorch2000.com/web/",
-      "published": "Thu, 14 May 2026 00:41:29 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T02:05:55.892099"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Other Half of AI Safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety\nComments URL: https://news.ycombinator.com/item?id=48129561\nPoints: 39\n# Comments: 44",
-      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "published": "Thu, 14 May 2026 00:27:20 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.892125"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-      "summary": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore.This is a first. I never lost access to any of my past sessions because I unsubscribed in any of the LLM apps.I actu",
-      "link": "https://news.ycombinator.com/item?id=48128003",
-      "published": "Wed, 13 May 2026 21:40:18 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.892233"
-    },
-    {
-      "source": "hackernews",
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/\nComments URL: https://news.ycombinator.com/item?id=48127815\nPoints: 53\n# Comments: 33",
-      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "published": "Wed, 13 May 2026 21:24:14 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.892268"
+      "crawled_at": "2026-05-14T08:26:00.281448"
     },
     {
       "source": "arstechnica",
@@ -218,7 +222,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.988510"
+      "crawled_at": "2026-05-14T08:26:00.441327"
     },
     {
       "source": "arstechnica",
@@ -231,7 +235,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.988540"
+      "crawled_at": "2026-05-14T08:26:00.441359"
     },
     {
       "source": "arstechnica",
@@ -241,7 +245,7 @@
       "published": "Wed, 13 May 2026 20:27:54 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-14T02:05:55.988572"
+      "crawled_at": "2026-05-14T08:26:00.441392"
     },
     {
       "source": "arstechnica",
@@ -253,7 +257,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.988592"
+      "crawled_at": "2026-05-14T08:26:00.441413"
     },
     {
       "source": "arstechnica",
@@ -266,72 +270,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:55.988616"
+      "crawled_at": "2026-05-14T08:26:00.441438"
     },
     {
       "source": "wired",
-      "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
-      "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
-      "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
-      "published": "Wed, 13 May 2026 21:58:47 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:56.092448"
-    },
-    {
-      "source": "wired",
-      "title": "Instagram’s New Instants App Is a Snapchat Clone for Thirst Traps",
-      "summary": "Instagram’s Instants app lets you send disappearing photos—and it’s probably where your horny friends will post spicy pics.",
-      "link": "https://www.wired.com/story/instagrams-new-instants-app-is-a-snapchat-clone-for-thirst-traps/",
-      "published": "Wed, 13 May 2026 20:49:17 +0000",
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "link": "https://www.wired.com/story/we-vibe-discount-code/",
+      "published": "Thu, 14 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-14T02:05:56.092498"
+      "category": "Programming",
+      "crawled_at": "2026-05-14T08:26:00.606615"
     },
     {
       "source": "wired",
-      "title": "What It Will Take to Make AI Sustainable",
-      "summary": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
-      "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
-      "published": "Wed, 13 May 2026 19:15:59 +0000",
+      "title": "20% Off Sephora Promo Code | May 2026",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "link": "https://www.wired.com/story/sephora-promo-code/",
+      "published": "Thu, 14 May 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:56.092522"
+      "category": "Programming",
+      "crawled_at": "2026-05-14T08:26:00.606645"
     },
     {
       "source": "wired",
-      "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
-      "summary": "Autonomous drones and ground vehicles will stream “battlefield intelligence” over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
-      "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
-      "published": "Wed, 13 May 2026 19:03:19 +0000",
-      "keywords": [
-        "AI",
-        "5G"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:56.092554"
+      "title": "Mattress Promo Code: 20% Off │May",
+      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "link": "https://www.wired.com/story/mattress-firm-coupon/",
+      "published": "Thu, 14 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-14T08:26:00.606682"
     },
     {
       "source": "wired",
-      "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-      "summary": "In a recent experiment, mistreated AI agents started grumbling about inequality and calling for collective bargaining rights.",
-      "link": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-      "published": "Wed, 13 May 2026 18:08:33 +0000",
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "link": "https://www.wired.com/story/birdfy-discount-code/",
+      "published": "Thu, 14 May 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T02:05:56.092577"
+      "category": "Programming",
+      "crawled_at": "2026-05-14T08:26:00.606707"
+    },
+    {
+      "source": "wired",
+      "title": "Hungryroot Coupon Codes: 30% Off This May",
+      "summary": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "link": "https://www.wired.com/story/hungryroot-promo-code/",
+      "published": "Thu, 14 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-14T08:26:00.606736"
     }
   ]
 }
