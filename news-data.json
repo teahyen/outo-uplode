@@ -1,271 +1,314 @@
 {
-  "last_updated": "2026-05-14T13:27:25.428158",
+  "last_updated": "2026-05-14T19:26:19.431972",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
-      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "published": "Thu, 14 May 2026 06:05:31 +0000",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "published": "Thu, 14 May 2026 19:12:03 +0000",
       "keywords": [
         "AI",
-        "Meta",
+        "OpenAI",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.689475"
+      "crawled_at": "2026-05-14T19:26:18.582148"
     },
     {
       "source": "techcrunch",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "published": "Thu, 14 May 2026 05:24:39 +0000",
-      "keywords": [
-        "Anthropic",
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-05-14T13:27:24.689529"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "published": "Thu, 14 May 2026 19:05:01 +0000",
       "keywords": [
         "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.689568"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-      "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "published": "Wed, 13 May 2026 19:49:42 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.689599"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-      "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "published": "Wed, 13 May 2026 19:28:06 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
         "Claude",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.689629"
+      "crawled_at": "2026-05-14T19:26:18.582184"
+    },
+    {
+      "source": "techcrunch",
+      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+      "summary": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+      "published": "Thu, 14 May 2026 18:56:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-14T19:26:18.582218"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "published": "Thu, 14 May 2026 16:30:02 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:18.582241"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI says hackers stole some data after latest code security issue",
+      "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "published": "Thu, 14 May 2026 16:25:20 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Security",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:18.582276"
     },
     {
       "source": "theverge",
-      "title": "Dell and RAMageddon are watering down the Alienware brand",
-      "summary": "I remember a time when Alienware refused to make a thinner laptop - the company didn't want to compromise on its builds. But today, Dell is slapping the Alienware name on a piece of hardware that sounds utterly watered down. It's partly RAMageddon's fault. The new five-pound Alienware 15 is supposed",
-      "link": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-      "published": "2026-05-14T09:00:00-04:00",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t",
+      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "published": "2026-05-14T15:00:00-04:00",
       "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:18.744225"
+    },
+    {
+      "source": "theverge",
+      "title": "Linux devs are fighting the new age-gated internet",
+      "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It ",
+      "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "published": "2026-05-14T14:58:00-04:00",
+      "keywords": [
+        "Android",
+        "iOS",
+        "Linux",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-14T19:26:18.744289"
+    },
+    {
+      "source": "theverge",
+      "title": "Use this map to find the data centers in your backyard",
+      "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The",
+      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "published": "2026-05-14T13:40:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:18.744337"
+    },
+    {
+      "source": "theverge",
+      "title": "Subnautica 2 is having a huge launch on Steam",
+      "summary": "Subnautica 2, the new underwater survival game from Unknown Worlds, took less than an hour to rocket up Steam's charts. The game has already sold more than one million copies, according to a press release, and as of this writing, Steam's charts show that Subnautica 2 is currently the fourth-most pla",
+      "link": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
+      "published": "2026-05-14T12:22:49-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T19:26:18.744410"
+    },
+    {
+      "source": "theverge",
+      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
+      "summary": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnoblog published the images today, showing a",
+      "link": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+      "published": "2026-05-14T11:49:47-04:00",
+      "keywords": [
+        "Microsoft",
+        "Cloud",
         "AR",
         "Gaming"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-14T13:27:24.860214"
-    },
-    {
-      "source": "theverge",
-      "title": "The Razr Fold is stuck in the middle",
-      "summary": "For a phone that gets a lot right, the Motorola Razr Fold is frustratingly hard to recommend. The Razr Fold is the company's first book-style foldable, and it enters the US market with something not currently available on the competition: truly excellent battery life that rivals the best slab-style ",
-      "link": "https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery",
-      "published": "2026-05-14T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.860256"
-    },
-    {
-      "source": "theverge",
-      "title": "AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones",
-      "summary": "AT&#38;T, T-Mobile, and Verizon have agreed to work together under a new joint venture that aims to end wireless dead zones in the US. The partnership was announced today as an \"agreement in principle,\" but if finalized would see the three carrier companies pooling their ground-based spectrum resour",
-      "link": "https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage",
-      "published": "2026-05-14T08:48:49-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:24.860291"
-    },
-    {
-      "source": "theverge",
-      "title": "Insta360’s new viewfinder turns the action cam into a retro shooter",
-      "summary": "The pill-shaped Insta360 Go 3S 4K action camera launched in June 2024 as an updated version of the 2.7K Go 3 that debuted a year prior. While last year’s Go Ultra introduced a redesign with a larger sensor and higher frame rates, the Go 3S has stuck around as a smaller but still very capable [&#8230",
-      "link": "https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory",
-      "published": "2026-05-14T08:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:24.860366"
-    },
-    {
-      "source": "theverge",
-      "title": "I’m obsessed with Forza Horizon 6, and I’ve barely even raced",
-      "summary": "For the last week, I've spent every evening unwinding by speeding through the Japanese countryside, blaring Babymetal as I take in the sights. Forza Horizon 6 is ostensibly a racing game, one in which you play an up-and-coming driver intent on making a name for themselves. But, like the rest of the ",
-      "link": "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc",
-      "published": "2026-05-14T08:00:00-04:00",
-      "keywords": [
-        "REST",
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:24.860421"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-05-14T19:26:18.744485"
     },
     {
       "source": "hackernews",
-      "title": "New York, California pension leaders oppose 'extreme' SpaceX control structure",
-      "summary": "Article URL: https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/\nComments URL: https://news.ycombinator.com/item?id=48134389\nPoints: 29\n# Comments: 28",
-      "link": "https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/",
-      "published": "Thu, 14 May 2026 12:21:55 +0000",
+      "title": "The Power of a Free Popsicle (2018)",
+      "summary": "Article URL: https://www.gsb.stanford.edu/insights/power-free-popsicle\nComments URL: https://news.ycombinator.com/item?id=48139316\nPoints: 11\n# Comments: 0",
+      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "published": "Thu, 14 May 2026 18:33:47 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.160510"
+      "crawled_at": "2026-05-14T19:26:19.135986"
     },
     {
       "source": "hackernews",
-      "title": "The Siri for Families Apple Will Never Build",
-      "summary": "Article URL: https://taoofmac.com/space/blog/2026/05/14/1220\nComments URL: https://news.ycombinator.com/item?id=48134084\nPoints: 22\n# Comments: 5",
-      "link": "https://taoofmac.com/space/blog/2026/05/14/1220",
-      "published": "Thu, 14 May 2026 11:47:47 +0000",
+      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+      "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/\nComments URL: https://news.ycombinator.com/item?id=48139220\nPoints: 13\n# Comments: 0",
+      "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+      "published": "Thu, 14 May 2026 18:25:10 +0000",
+      "keywords": [
+        "Startup",
+        "Linux",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-05-14T19:26:19.136073"
+    },
+    {
+      "source": "hackernews",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "summary": "Article URL: https://blog.calif.io/p/first-public-kernel-memory-corruption\nComments URL: https://news.ycombinator.com/item?id=48139219\nPoints: 22\n# Comments: 4",
+      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "published": "Thu, 14 May 2026 18:25:09 +0000",
       "keywords": [
         "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-14T13:27:25.160550"
+      "crawled_at": "2026-05-14T19:26:19.136121"
     },
     {
       "source": "hackernews",
-      "title": "Myths about /dev/urandom (2014)",
-      "summary": "Article URL: https://www.2uo.de/myths-about-urandom/\nComments URL: https://news.ycombinator.com/item?id=48133908\nPoints: 17\n# Comments: 17",
-      "link": "https://www.2uo.de/myths-about-urandom/",
-      "published": "Thu, 14 May 2026 11:26:22 +0000",
+      "title": "God Damn AI is making me dumb",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 144\n# Comments: 86",
+      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "published": "Thu, 14 May 2026 18:19:28 +0000",
       "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.160582"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:19.136149"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Running the second public ODoH relay",
-      "summary": "Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple's iCloud Private Relay (paid, iOS-only). The protocol that doesn’t require one - ODoH - had basically one well-known public relay operator (Frank Denis on Fastly Compute, default in dnscrypt-proxy). I buil",
-      "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "published": "Thu, 14 May 2026 10:44:50 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iOS",
-        "Cloud",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.160636"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pipes, Forks, and Zombies",
-      "summary": "Article URL: https://cs61.seas.harvard.edu/wiki/2017/Shell3/\nComments URL: https://news.ycombinator.com/item?id=48133493\nPoints: 3\n# Comments: 0",
-      "link": "https://cs61.seas.harvard.edu/wiki/2017/Shell3/",
-      "published": "Thu, 14 May 2026 10:37:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.160668"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-      "summary": "Xi meeting may force Trump to pivot on semiconductor tariffs and Taiwan.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-      "published": "Thu, 14 May 2026 11:00:58 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.286661"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-      "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
-      "link": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
-      "published": "Wed, 13 May 2026 21:48:27 +0000",
+      "title": "You Don't Align an AI, You Align with It",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it\nComments URL: https://news.ycombinator.com/item?id=48139144\nPoints: 11\n# Comments: 2",
+      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "published": "Thu, 14 May 2026 18:19:13 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.286695"
+      "crawled_at": "2026-05-14T19:26:19.136176"
     },
     {
       "source": "arstechnica",
-      "title": "FCC angers small carriers by helping AT&T and Starlink buy EchoStar spectrum",
-      "summary": "Approval is no surprise after FCC chair pressured EchoStar to sell licenses.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/fcc-angers-small-carriers-by-helping-att-and-starlink-buy-echostar-spectrum/",
-      "published": "Wed, 13 May 2026 20:44:38 +0000",
+      "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+      "summary": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
+      "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+      "published": "Thu, 14 May 2026 18:55:54 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.286719"
+      "category": "Hardware",
+      "crawled_at": "2026-05-14T19:26:19.287675"
     },
     {
       "source": "arstechnica",
-      "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
-      "summary": "Distinct form of tooth protein in Homo erectus shows up in Denisovans&#8212;and us.",
-      "link": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
-      "published": "Wed, 13 May 2026 20:27:54 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.286749"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Foiled plot tried to sneak 49 lbs of cocaine into Australia via Xerox printers",
-      "summary": "The drugs had an estimated worth of over $9 million USD.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/foiled-plot-tried-to-sneak-49-lbs-of-cocaine-into-australia-via-xerox-printers/",
-      "published": "Wed, 13 May 2026 20:06:09 +0000",
+      "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
+      "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+      "published": "Thu, 14 May 2026 18:45:01 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.286769"
+      "crawled_at": "2026-05-14T19:26:19.287704"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "published": "Thu, 14 May 2026 18:32:01 +0000",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T19:26:19.287735"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+      "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
+      "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+      "published": "Thu, 14 May 2026 17:28:43 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-14T19:26:19.287765"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Vaporware or not? Aptera assembles its first five validation models.",
+      "summary": "The three-wheel, two-seat EV has been in development since 2006.",
+      "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+      "published": "Thu, 14 May 2026 17:06:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T19:26:19.287792"
+    },
+    {
+      "source": "wired",
+      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
+      "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
+      "published": "Thu, 14 May 2026 19:04:47 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T19:26:19.431769"
+    },
+    {
+      "source": "wired",
+      "title": "Early Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026/",
+      "published": "Thu, 14 May 2026 18:59:33 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-14T19:26:19.431803"
+    },
+    {
+      "source": "wired",
+      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
+      "summary": "It's one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
+      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
+      "published": "Thu, 14 May 2026 17:45:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-14T19:26:19.431834"
     },
     {
       "source": "wired",
@@ -278,7 +321,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.427948"
+      "crawled_at": "2026-05-14T19:26:19.431867"
     },
     {
       "source": "wired",
@@ -290,43 +333,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.427984"
-    },
-    {
-      "source": "wired",
-      "title": "Gen Z Is Pioneering a New Understanding of Truth",
-      "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It’s significantly shifting how they understand what’s true.",
-      "link": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
-      "published": "Thu, 14 May 2026 11:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.428028"
-    },
-    {
-      "source": "wired",
-      "title": "Klipsch the Fives II Speakers Review for Music, Movies, More (2026)",
-      "summary": "These bookshelf speakers are excellent for music playback, but you'll want to stick with a soundbar for theater-shaking surround sound.",
-      "link": "https://www.wired.com/review/klipsch-the-fives-ii/",
-      "published": "Thu, 14 May 2026 10:32:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T13:27:25.428060"
-    },
-    {
-      "source": "wired",
-      "title": "HelloFresh Meal Kit Review (2026): Vast Options, Good Execution",
-      "summary": "The HelloFresh meal kit has harnessed AI and modern logistics to field the most impressively gigantic menu I have ever seen. Recipe times are still lies, though.",
-      "link": "https://www.wired.com/review/hellofresh-meal-kit-2026/",
-      "published": "Thu, 14 May 2026 10:02:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T13:27:25.428084"
+      "crawled_at": "2026-05-14T19:26:19.431894"
     }
   ]
 }
