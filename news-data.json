@@ -1,220 +1,252 @@
 {
-  "last_updated": "2026-05-14T19:26:19.431972",
+  "last_updated": "2026-05-15T02:03:51.992472",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
-      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "published": "Thu, 14 May 2026 19:12:03 +0000",
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "Here's what the biggest tech court case of the year is all about.",
+      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "published": "Thu, 14 May 2026 22:47:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:50.344539"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "published": "Thu, 14 May 2026 21:30:44 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.582148"
+      "crawled_at": "2026-05-15T02:03:50.344982"
     },
     {
       "source": "techcrunch",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "published": "Thu, 14 May 2026 19:05:01 +0000",
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "published": "Thu, 14 May 2026 20:58:55 +0000",
       "keywords": [
         "AI",
-        "Claude",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T02:03:50.345018"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+      "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+      "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "published": "Thu, 14 May 2026 20:43:03 +0000",
+      "keywords": [
+        "AI",
+        "Funding",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.582184"
+      "crawled_at": "2026-05-15T02:03:50.345053"
     },
     {
       "source": "techcrunch",
-      "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
-      "summary": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
-      "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
-      "published": "Thu, 14 May 2026 18:56:43 +0000",
+      "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+      "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+      "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+      "published": "Thu, 14 May 2026 20:23:03 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-14T19:26:18.582218"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "published": "Thu, 14 May 2026 16:30:02 +0000",
-      "keywords": [
-        "AI",
         "Go",
+        "Startup",
+        "VC",
         "IPO",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.582241"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI says hackers stole some data after latest code security issue",
-      "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-      "published": "Thu, 14 May 2026 16:25:20 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Security",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.582276"
+      "category": "Startup",
+      "crawled_at": "2026-05-15T02:03:50.345094"
     },
     {
       "source": "theverge",
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t",
-      "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "published": "2026-05-14T15:00:00-04:00",
+      "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+      "summary": "Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next year. The RDX was announced earlier this year as Honda's first SUV to feature the next-gen version of i",
+      "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+      "published": "2026-05-14T18:46:55-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:50.477839"
+    },
+    {
+      "source": "theverge",
+      "title": "Closing time",
+      "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "published": "2026-05-14T18:21:46-04:00",
       "keywords": [
         "AI",
-        "Anthropic",
-        "Claude",
-        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.744225"
+      "crawled_at": "2026-05-15T02:03:50.477877"
     },
     {
       "source": "theverge",
-      "title": "Linux devs are fighting the new age-gated internet",
-      "summary": "In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial platforms like iOS and Android - one of numerous plans to age-gate the internet through users' devices. It ",
-      "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
-      "published": "2026-05-14T14:58:00-04:00",
+      "title": "Metroid Prime 4: Beyond got its first big discount",
+      "summary": "The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off). The game looks surprisingly good on the 2017 hardware, but runs way better on the Switch 2 with the a",
+      "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+      "published": "2026-05-14T17:38:45-04:00",
       "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-05-15T02:03:50.477920"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+      "summary": "Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature in WhatsApp, Messenger, Instagram and with \"native Android and iOS messaging,\" Meta says. The feature, ",
+      "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
+      "published": "2026-05-14T17:08:46-04:00",
+      "keywords": [
+        "Meta",
         "Android",
         "iOS",
-        "Linux",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-14T19:26:18.744289"
-    },
-    {
-      "source": "theverge",
-      "title": "Use this map to find the data centers in your backyard",
-      "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The",
-      "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-      "published": "2026-05-14T13:40:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:18.744337"
-    },
-    {
-      "source": "theverge",
-      "title": "Subnautica 2 is having a huge launch on Steam",
-      "summary": "Subnautica 2, the new underwater survival game from Unknown Worlds, took less than an hour to rocket up Steam's charts. The game has already sold more than one million copies, according to a press release, and as of this writing, Steam's charts show that Subnautica 2 is currently the fourth-most pla",
-      "link": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
-      "published": "2026-05-14T12:22:49-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:18.744410"
-    },
-    {
-      "source": "theverge",
-      "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
-      "summary": "I revealed earlier this year that Microsoft was working on a new Xbox controller that includes Wi-Fi to connect direct to Xbox Cloud Gaming servers. It now looks like that controller has leaked, thanks to some new images from Brazil's Anatel regulator. Tecnoblog published the images today, showing a",
-      "link": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
-      "published": "2026-05-14T11:49:47-04:00",
-      "keywords": [
-        "Microsoft",
-        "Cloud",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-05-14T19:26:18.744485"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Power of a Free Popsicle (2018)",
-      "summary": "Article URL: https://www.gsb.stanford.edu/insights/power-free-popsicle\nComments URL: https://news.ycombinator.com/item?id=48139316\nPoints: 11\n# Comments: 0",
-      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "published": "Thu, 14 May 2026 18:33:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.135986"
-    },
-    {
-      "source": "hackernews",
-      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
-      "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/\nComments URL: https://news.ycombinator.com/item?id=48139220\nPoints: 13\n# Comments: 0",
-      "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-      "published": "Thu, 14 May 2026 18:25:10 +0000",
-      "keywords": [
-        "Startup",
-        "Linux",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-05-14T19:26:19.136073"
-    },
-    {
-      "source": "hackernews",
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "summary": "Article URL: https://blog.calif.io/p/first-public-kernel-memory-corruption\nComments URL: https://news.ycombinator.com/item?id=48139219\nPoints: 22\n# Comments: 4",
-      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "published": "Thu, 14 May 2026 18:25:09 +0000",
-      "keywords": [
-        "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-14T19:26:19.136121"
+      "crawled_at": "2026-05-15T02:03:50.477962"
+    },
+    {
+      "source": "theverge",
+      "title": "Behold, the Elon Musk jackass trophy",
+      "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "published": "2026-05-14T16:59:23-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T02:03:50.477992"
     },
     {
       "source": "hackernews",
-      "title": "God Damn AI is making me dumb",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 144\n# Comments: 86",
-      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "published": "Thu, 14 May 2026 18:19:28 +0000",
+      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+      "summary": "Article URL: https://github.com/AliAmmar15/Velonus\nComments URL: https://news.ycombinator.com/item?id=48143235\nPoints: 3\n# Comments: 0",
+      "link": "https://github.com/AliAmmar15/Velonus",
+      "published": "Fri, 15 May 2026 01:02:05 +0000",
       "keywords": [
-        "AI",
-        "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:19.136149"
+      "category": "Mobile",
+      "crawled_at": "2026-05-15T02:03:51.628592"
     },
     {
       "source": "hackernews",
-      "title": "You Don't Align an AI, You Align with It",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it\nComments URL: https://news.ycombinator.com/item?id=48139144\nPoints: 11\n# Comments: 2",
-      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "published": "Thu, 14 May 2026 18:19:13 +0000",
+      "title": "Elevated error rates on Opus 4.7",
+      "summary": "Article URL: https://status.claude.com/incidents/8z7l5zcy0v3b\nComments URL: https://news.ycombinator.com/item?id=48142964\nPoints: 46\n# Comments: 33",
+      "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "published": "Fri, 15 May 2026 00:22:53 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T02:03:51.628627"
+    },
+    {
+      "source": "hackernews",
+      "title": "Have a Coherent AI Policy",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=48142553\nPoints: 38\n# Comments: 25",
+      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "published": "Thu, 14 May 2026 23:24:45 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:19.136176"
+      "crawled_at": "2026-05-15T02:03:51.628655"
+    },
+    {
+      "source": "hackernews",
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\nComments URL: https://news.ycombinator.com/item?id=48142193\nPoints: 88\n# Comments: 29",
+      "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "published": "Thu, 14 May 2026 22:38:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:51.628695"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\nComments URL: https://news.ycombinator.com/item?id=48142188\nPoints: 98\n# Comments: 31",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "published": "Thu, 14 May 2026 22:37:40 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T02:03:51.628728"
     },
     {
       "source": "arstechnica",
-      "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
+      "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+      "summary": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"",
+      "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+      "published": "Thu, 14 May 2026 21:32:29 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:51.784034"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Fired hacker twins forget to end Teams recording, capture own crimes",
+      "summary": "One little mystery—solved.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/",
+      "published": "Thu, 14 May 2026 21:02:53 +0000",
+      "keywords": [
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-05-15T02:03:51.784069"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cell phone users can't stop incriminating themselves",
+      "summary": "People confide almost everything to their phones.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/",
+      "published": "Thu, 14 May 2026 19:27:50 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:51.784096"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+      "summary": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
+      "link": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+      "published": "Thu, 14 May 2026 19:17:28 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:51.784131"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs",
       "summary": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
       "link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
       "published": "Thu, 14 May 2026 18:55:54 +0000",
@@ -222,58 +254,60 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-14T19:26:19.287675"
+      "crawled_at": "2026-05-15T02:03:51.784178"
     },
     {
-      "source": "arstechnica",
-      "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-      "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
-      "published": "Thu, 14 May 2026 18:45:01 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:19.287704"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "published": "Thu, 14 May 2026 18:32:01 +0000",
-      "keywords": [
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.287735"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
-      "summary": "Made-up therapy referrals, incorrect prescriptions among the common mistakes.",
-      "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
-      "published": "Thu, 14 May 2026 17:28:43 +0000",
+      "source": "wired",
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "published": "Fri, 15 May 2026 00:49:53 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "OpenAI",
+        "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:19.287765"
+      "crawled_at": "2026-05-15T02:03:51.992247"
     },
     {
-      "source": "arstechnica",
-      "title": "Vaporware or not? Aptera assembles its first five validation models.",
-      "summary": "The three-wheel, two-seat EV has been in development since 2006.",
-      "link": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
-      "published": "Thu, 14 May 2026 17:06:23 +0000",
+      "source": "wired",
+      "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+      "summary": "There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.",
+      "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+      "published": "Thu, 14 May 2026 21:00:29 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.287792"
+      "crawled_at": "2026-05-15T02:03:51.992288"
+    },
+    {
+      "source": "wired",
+      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "published": "Thu, 14 May 2026 20:27:34 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T02:03:51.992321"
+    },
+    {
+      "source": "wired",
+      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
+      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
+      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
+      "published": "Thu, 14 May 2026 20:20:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T02:03:51.992358"
     },
     {
       "source": "wired",
@@ -283,57 +317,7 @@
       "published": "Thu, 14 May 2026 19:04:47 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.431769"
-    },
-    {
-      "source": "wired",
-      "title": "Early Memorial Day Tech Deals: Sony, Apple, Beats (2026)",
-      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-      "link": "https://www.wired.com/story/memorial-day-tech-deals-2026/",
-      "published": "Thu, 14 May 2026 18:59:33 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-14T19:26:19.431803"
-    },
-    {
-      "source": "wired",
-      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
-      "summary": "It's one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
-      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
-      "published": "Thu, 14 May 2026 17:45:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.431834"
-    },
-    {
-      "source": "wired",
-      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
-      "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn’t exist—then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
-      "link": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
-      "published": "Thu, 14 May 2026 12:52:28 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-14T19:26:19.431867"
-    },
-    {
-      "source": "wired",
-      "title": "InstaFarm Automated Indoor Microgreens Garden Review: Easy Being Green",
-      "summary": "The InstaFarm makes growing your own microgreens practical at home.",
-      "link": "https://www.wired.com/review/instafarm-automated-indoor-microgreens-garden/",
-      "published": "Thu, 14 May 2026 11:02:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-14T19:26:19.431894"
+      "crawled_at": "2026-05-15T02:03:51.992404"
     }
   ]
 }
