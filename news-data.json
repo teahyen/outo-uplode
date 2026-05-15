@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T02:03:51.992472",
+  "last_updated": "2026-05-15T08:37:18.059990",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:50.344539"
+      "crawled_at": "2026-05-15T08:37:17.539249"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:50.344982"
+      "crawled_at": "2026-05-15T08:37:17.539305"
     },
     {
       "source": "techcrunch",
@@ -38,7 +38,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:50.345018"
+      "crawled_at": "2026-05-15T08:37:17.539329"
     },
     {
       "source": "techcrunch",
@@ -52,12 +52,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:50.345053"
+      "crawled_at": "2026-05-15T08:37:17.539361"
     },
     {
       "source": "techcrunch",
       "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
-      "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+      "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.",
       "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
       "published": "Thu, 14 May 2026 20:23:03 +0000",
       "keywords": [
@@ -68,7 +68,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-15T02:03:50.345094"
+      "crawled_at": "2026-05-15T08:37:17.539403"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:50.477839"
+      "crawled_at": "2026-05-15T08:37:17.704087"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:50.477877"
+      "crawled_at": "2026-05-15T08:37:17.704133"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-15T02:03:50.477920"
+      "crawled_at": "2026-05-15T08:37:17.704193"
     },
     {
       "source": "theverge",
@@ -121,7 +121,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-15T02:03:50.477962"
+      "crawled_at": "2026-05-15T08:37:17.704236"
     },
     {
       "source": "theverge",
@@ -135,72 +135,73 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:50.477992"
+      "crawled_at": "2026-05-15T08:37:17.704268"
     },
     {
       "source": "hackernews",
-      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
-      "summary": "Article URL: https://github.com/AliAmmar15/Velonus\nComments URL: https://news.ycombinator.com/item?id=48143235\nPoints: 3\n# Comments: 0",
-      "link": "https://github.com/AliAmmar15/Velonus",
-      "published": "Fri, 15 May 2026 01:02:05 +0000",
+      "title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
+      "summary": "Is it possible? Do you know success cases w/o spending 20+k $ on auditors? My customers bombards me with question about certification of my app Perfect Wiki, I need help with finding the best way to show them that my app could be trusted.\n\nComments URL: https://news.ycombinator.com/item?id=48145524\n",
+      "link": "https://news.ycombinator.com/item?id=48145524",
+      "published": "Fri, 15 May 2026 07:18:23 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "Rust",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-15T02:03:51.628592"
+      "category": "Programming",
+      "crawled_at": "2026-05-15T08:37:17.801065"
     },
     {
       "source": "hackernews",
-      "title": "Elevated error rates on Opus 4.7",
-      "summary": "Article URL: https://status.claude.com/incidents/8z7l5zcy0v3b\nComments URL: https://news.ycombinator.com/item?id=48142964\nPoints: 46\n# Comments: 33",
-      "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
-      "published": "Fri, 15 May 2026 00:22:53 +0000",
+      "title": "How Claude Code works in large codebases",
+      "summary": "Article URL: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start\nComments URL: https://news.ycombinator.com/item?id=48144494\nPoints: 158\n# Comments: 109",
+      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "published": "Fri, 15 May 2026 04:15:31 +0000",
       "keywords": [
         "Claude",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:51.628627"
+      "crawled_at": "2026-05-15T08:37:17.801109"
     },
     {
       "source": "hackernews",
-      "title": "Have a Coherent AI Policy",
-      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=48142553\nPoints: 38\n# Comments: 25",
-      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-      "published": "Thu, 14 May 2026 23:24:45 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:51.628655"
-    },
-    {
-      "source": "hackernews",
-      "title": "More than sixty percent of the United States is experiencing drought conditions",
-      "summary": "Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\nComments URL: https://news.ycombinator.com/item?id=48142193\nPoints: 88\n# Comments: 29",
-      "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-      "published": "Thu, 14 May 2026 22:38:18 +0000",
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "summary": "Article URL: https://dylan.gr/1775146616\nComments URL: https://news.ycombinator.com/item?id=48144490\nPoints: 39\n# Comments: 24",
+      "link": "https://dylan.gr/1775146616",
+      "published": "Fri, 15 May 2026 04:15:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.628695"
+      "crawled_at": "2026-05-15T08:37:17.801145"
     },
     {
       "source": "hackernews",
-      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\nComments URL: https://news.ycombinator.com/item?id=48142188\nPoints: 98\n# Comments: 31",
-      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-      "published": "Thu, 14 May 2026 22:37:40 +0000",
+      "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+      "summary": "Article URL: https://github.com/pike00/coldkey\nComments URL: https://news.ycombinator.com/item?id=48144410\nPoints: 16\n# Comments: 5",
+      "link": "https://github.com/pike00/coldkey",
+      "published": "Fri, 15 May 2026 04:02:09 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-15T08:37:17.801206"
+    },
+    {
+      "source": "hackernews",
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "summary": "Article URL: https://www.tristandc.com/government/news-2026-05-11-airdrop.php\nComments URL: https://news.ycombinator.com/item?id=48144380\nPoints: 94\n# Comments: 16",
+      "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "published": "Fri, 15 May 2026 03:56:14 +0000",
       "keywords": [
         "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:51.628728"
+      "crawled_at": "2026-05-15T08:37:17.801235"
     },
     {
       "source": "arstechnica",
@@ -210,7 +211,7 @@
       "published": "Thu, 14 May 2026 21:32:29 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.784034"
+      "crawled_at": "2026-05-15T08:37:17.900650"
     },
     {
       "source": "arstechnica",
@@ -222,7 +223,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-05-15T02:03:51.784069"
+      "crawled_at": "2026-05-15T08:37:17.900689"
     },
     {
       "source": "arstechnica",
@@ -232,7 +233,7 @@
       "published": "Thu, 14 May 2026 19:27:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.784096"
+      "crawled_at": "2026-05-15T08:37:17.900717"
     },
     {
       "source": "arstechnica",
@@ -242,7 +243,7 @@
       "published": "Thu, 14 May 2026 19:17:28 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.784131"
+      "crawled_at": "2026-05-15T08:37:17.900753"
     },
     {
       "source": "arstechnica",
@@ -254,70 +255,66 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-15T02:03:51.784178"
+      "crawled_at": "2026-05-15T08:37:17.900782"
     },
     {
       "source": "wired",
-      "title": "The Real Losers of the Musk v. Altman Trial",
-      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "published": "Fri, 15 May 2026 00:49:53 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:51.992247"
-    },
-    {
-      "source": "wired",
-      "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
-      "summary": "There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.",
-      "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
-      "published": "Thu, 14 May 2026 21:00:29 +0000",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "published": "Fri, 15 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.992288"
+      "category": "Programming",
+      "crawled_at": "2026-05-15T08:37:18.059764"
     },
     {
       "source": "wired",
-      "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
-      "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
-      "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
-      "published": "Thu, 14 May 2026 20:27:34 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T02:03:51.992321"
-    },
-    {
-      "source": "wired",
-      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
-      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models have already started.",
-      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026/",
-      "published": "Thu, 14 May 2026 20:20:06 +0000",
+      "title": "Bose Promo Code: 40% Off for May 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "link": "https://www.wired.com/story/bose-coupon-code/",
+      "published": "Fri, 15 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.992358"
+      "category": "Programming",
+      "crawled_at": "2026-05-15T08:37:18.059795"
     },
     {
       "source": "wired",
-      "title": "Trump’s Tech Posse in China, Who’s Winning in Musk v. Altman, and Hantavirus Conspiracy Theories",
-      "summary": "Today on Uncanny Valley, we discuss how Donald Trump’s visit to China could influence conversations between world leaders at a moment when the economic and foreign policy stakes couldn’t be higher.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-tech-posse-china-musk-v-altman-trial-hantavirus-conspiracy-theories/",
-      "published": "Thu, 14 May 2026 19:04:47 +0000",
+      "title": "Therabody Promo Codes: 15% Off May 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Fri, 15 May 2026 05:00:00 +0000",
       "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T02:03:51.992404"
+      "category": "Programming",
+      "crawled_at": "2026-05-15T08:37:18.059833"
+    },
+    {
+      "source": "wired",
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "summary": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "link": "https://www.wired.com/story/govee-discount-code/",
+      "published": "Fri, 15 May 2026 05:00:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-15T08:37:18.059854"
+    },
+    {
+      "source": "wired",
+      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "published": "Fri, 15 May 2026 05:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-15T08:37:18.059878"
     }
   ]
 }
