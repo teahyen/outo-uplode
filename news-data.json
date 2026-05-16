@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-05-15T19:14:31.652505",
+  "last_updated": "2026-05-16T01:55:58.672360",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+      "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
+      "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+      "published": "Fri, 15 May 2026 20:30:20 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-16T01:55:57.868002"
+    },
+    {
+      "source": "techcrunch",
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+      "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+      "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "published": "Fri, 15 May 2026 20:25:35 +0000",
+      "keywords": [
+        "AI",
+        "VC",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-16T01:55:57.868036"
+    },
     {
       "source": "techcrunch",
       "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
@@ -13,60 +41,84 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.714266"
+      "crawled_at": "2026-05-16T01:55:57.868478"
     },
     {
       "source": "techcrunch",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
       "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
       "published": "Fri, 15 May 2026 18:14:44 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.714319"
+      "crawled_at": "2026-05-16T01:55:57.868526"
     },
     {
       "source": "techcrunch",
       "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-      "summary": "Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+      "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
       "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
       "published": "Fri, 15 May 2026 17:13:26 +0000",
       "keywords": [
         "Tesla"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:30.714355"
+      "crawled_at": "2026-05-16T01:55:57.868596"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "published": "Fri, 15 May 2026 16:00:00 +0000",
+      "source": "theverge",
+      "title": "Xbox is now XBOX",
+      "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX, and the company has now renamed its X a",
+      "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "published": "2026-05-15T19:10:13-04:00",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-16T01:55:57.997170"
+    },
+    {
+      "source": "theverge",
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there ",
+      "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "published": "2026-05-15T18:25:00-04:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-16T01:55:57.997216"
+    },
+    {
+      "source": "theverge",
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+      "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first te",
+      "link": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "published": "2026-05-15T17:14:45-04:00",
+      "keywords": [
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-16T01:55:57.997262"
+    },
+    {
+      "source": "theverge",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
+      "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "published": "2026-05-15T16:38:19-04:00",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.714382"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
-      "summary": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
-      "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
-      "published": "Fri, 15 May 2026 15:45:53 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.714420"
+      "crawled_at": "2026-05-16T01:55:57.997294"
     },
     {
       "source": "theverge",
@@ -78,195 +130,155 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:30.814732"
+      "crawled_at": "2026-05-16T01:55:57.997337"
     },
     {
-      "source": "theverge",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "published": "2026-05-15T14:21:35-04:00",
+      "source": "hackernews",
+      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+      "summary": "Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/\nComments URL: https://news.ycombinator.com/item?id=48155690\nPoints: 52\n# Comments: 11",
+      "link": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "published": "Sat, 16 May 2026 00:36:02 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.814774"
-    },
-    {
-      "source": "theverge",
-      "title": "One of Intel’s fastest desktop CPUs is $50 off",
-      "summary": "The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus show the processor giving AMD’s pricier X3D cache-equipped Ryzen 9000-series CPUs a run for their money",
-      "link": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
-      "published": "2026-05-15T13:46:20-04:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-05-15T19:14:30.814830"
-    },
-    {
-      "source": "theverge",
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "published": "2026-05-15T13:09:16-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Claude"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:30.814871"
-    },
-    {
-      "source": "theverge",
-      "title": "Does Trump Mobile know how many stripes are on the American flag?",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has b",
-      "link": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
-      "published": "2026-05-15T12:47:16-04:00",
-      "keywords": [
-        "Go",
-        "IoT",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-15T19:14:30.814912"
+      "crawled_at": "2026-05-16T01:55:58.392514"
     },
     {
       "source": "hackernews",
-      "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
-      "summary": "Article URL: https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/\nComments URL: https://news.ycombinator.com/item?id=48151863\nPoints: 11\n# Comments: 1",
-      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-      "published": "Fri, 15 May 2026 18:11:03 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.190429"
-    },
-    {
-      "source": "hackernews",
-      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html\nComments URL: https://news.ycombinator.com/item?id=48151767\nPoints: 27\n# Comments: 26",
-      "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "published": "Fri, 15 May 2026 18:00:43 +0000",
+      "title": "I broke AppLovin's mediation cipher protocol",
+      "summary": "Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/\nComments URL: https://news.ycombinator.com/item?id=48155678\nPoints: 5\n# Comments: 0",
+      "link": "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/",
+      "published": "Sat, 16 May 2026 00:35:01 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.190475"
+      "category": "Mobile",
+      "crawled_at": "2026-05-16T01:55:58.392602"
     },
     {
       "source": "hackernews",
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "summary": "Article URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/\nComments URL: https://news.ycombinator.com/item?id=48151383\nPoints: 121\n# Comments: 61",
-      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "published": "Fri, 15 May 2026 17:28:24 +0000",
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable event logs that converge in memory. Put my all into it. Let me know what you thi",
+      "link": "https://ljtn.github.io/epiq/",
+      "published": "Sat, 16 May 2026 00:18:03 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Apple",
-        "Google",
-        "AR"
+        "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.190510"
+      "crawled_at": "2026-05-16T01:55:58.392664"
     },
     {
       "source": "hackernews",
-      "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-      "summary": "Article URL: https://github.com/bahdotsh/feedr\nComments URL: https://news.ycombinator.com/item?id=48151317\nPoints: 9\n# Comments: 4",
-      "link": "https://github.com/bahdotsh/feedr",
-      "published": "Fri, 15 May 2026 17:22:53 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.190575"
-    },
-    {
-      "source": "hackernews",
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "summary": "Article URL: https://github.com/gdevic/FPGA-Calculator\nComments URL: https://news.ycombinator.com/item?id=48151237\nPoints: 34\n# Comments: 4",
-      "link": "https://github.com/gdevic/FPGA-Calculator",
-      "published": "Fri, 15 May 2026 17:15:58 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.190613"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Preprint server arXiv will ban submitters of AI-generated hallucinations",
-      "summary": "One of the site's moderators described the new policy on social media.",
-      "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-      "published": "Fri, 15 May 2026 18:25:53 +0000",
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "summary": "Article URL: https://dynomight.net/p2p-meth/\nComments URL: https://news.ycombinator.com/item?id=48155324\nPoints: 44\n# Comments: 19",
+      "link": "https://dynomight.net/p2p-meth/",
+      "published": "Fri, 15 May 2026 23:37:32 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.529973"
+      "crawled_at": "2026-05-16T01:55:58.392694"
     },
     {
-      "source": "arstechnica",
-      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-      "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-      "published": "Fri, 15 May 2026 18:13:33 +0000",
+      "source": "hackernews",
+      "title": "Erlang/OTP 29.0",
+      "summary": "Article URL: https://www.erlang.org/news/188\nComments URL: https://news.ycombinator.com/item?id=48155297\nPoints: 95\n# Comments: 4",
+      "link": "https://www.erlang.org/news/188",
+      "published": "Fri, 15 May 2026 23:33:32 +0000",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Apple"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.530009"
+      "category": "Tech News",
+      "crawled_at": "2026-05-16T01:55:58.392724"
     },
     {
       "source": "arstechnica",
-      "title": "Volkswagen shows its first electric GTI; there's no chance of US sales",
-      "summary": "The ID. Polo GTI takes plenty of inspiration from the original Golf GTI of 1976.",
-      "link": "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
-      "published": "Fri, 15 May 2026 17:55:55 +0000",
+      "title": "Russia pressures university students to become wartime drone pilots",
+      "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+      "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+      "published": "Fri, 15 May 2026 22:19:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-16T01:55:58.539624"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "published": "Fri, 15 May 2026 21:51:24 +0000",
+      "keywords": [
+        "Anthropic"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-16T01:55:58.539668"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "summary": "WHO announced today that the operation to safely transfer passengers is complete.",
+      "link": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+      "published": "Fri, 15 May 2026 21:31:53 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-16T01:55:58.539699"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Review: Good Omens finale sticks the landing",
+      "summary": "Truncated third season feels rushed, but also gives us a fitting end to a love story for the ages.",
+      "link": "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
+      "published": "Fri, 15 May 2026 21:17:19 +0000",
       "keywords": [
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.530040"
+      "crawled_at": "2026-05-16T01:55:58.539726"
     },
     {
       "source": "arstechnica",
-      "title": "Making cement from a different type of rock could clean up emissions",
-      "summary": "Limestone might not be the only source for Portland cement.",
-      "link": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
-      "published": "Fri, 15 May 2026 17:06:59 +0000",
-      "keywords": [],
+      "title": "Solar power production undercut by coal pollution",
+      "summary": "Each year, some of the power solar could have produced is blocked by aerosols.",
+      "link": "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
+      "published": "Fri, 15 May 2026 20:36:05 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.530067"
+      "crawled_at": "2026-05-16T01:55:58.539752"
     },
     {
-      "source": "arstechnica",
-      "title": "Bill to block publishers from killing online games advances in California",
-      "summary": "Publishers would have to offer \"independent\" play patch or refunds after server shutdowns.",
-      "link": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "published": "Fri, 15 May 2026 16:35:54 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "The Best Outdoor Deals From the REI Anniversary Sale 2026",
+      "summary": "It’s the best time of year to pick up all the outdoor gadgets, tents, sleeping bags, and other gear you’ll need for summer fun.",
+      "link": "https://www.wired.com/story/rei-anniversary-sale-2026/",
+      "published": "Fri, 15 May 2026 20:57:08 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.530095"
+      "crawled_at": "2026-05-16T01:55:58.672063"
+    },
+    {
+      "source": "wired",
+      "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
+      "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
+      "link": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
+      "published": "Fri, 15 May 2026 19:51:16 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "Tesla",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-16T01:55:58.672111"
     },
     {
       "source": "wired",
@@ -279,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.652280"
+      "crawled_at": "2026-05-16T01:55:58.672144"
     },
     {
       "source": "wired",
@@ -295,7 +307,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-15T19:14:31.652317"
+      "crawled_at": "2026-05-16T01:55:58.672176"
     },
     {
       "source": "wired",
@@ -305,31 +317,7 @@
       "published": "Fri, 15 May 2026 16:52:26 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-05-15T19:14:31.652358"
-    },
-    {
-      "source": "wired",
-      "title": "Companies Keep Slashing Employees’ Benefits for the Worst Reasons",
-      "summary": "Workers are getting worse health care, parental leave, and retirement benefits, showing once and for all that your job doesn’t love you back.",
-      "link": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
-      "published": "Fri, 15 May 2026 15:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.652397"
-    },
-    {
-      "source": "wired",
-      "title": "Best Early Memorial Day Deals: Garmin, Birdfy, Breville (2026)",
-      "summary": "Memorial Day isn’t until May 26, but sales on our favorite gear have already started.",
-      "link": "https://www.wired.com/story/best-memorial-day-deals-2026/",
-      "published": "Fri, 15 May 2026 14:26:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-15T19:14:31.652429"
+      "crawled_at": "2026-05-16T01:55:58.672212"
     }
   ]
 }
