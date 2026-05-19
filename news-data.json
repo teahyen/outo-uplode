@@ -1,11 +1,52 @@
 {
-  "last_updated": "2026-05-18T19:22:38.997962",
+  "last_updated": "2026-05-19T02:10:05.364266",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
+      "title": "OSHA probing worker death at SpaceX’s Starbase site",
+      "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+      "link": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+      "published": "Mon, 18 May 2026 21:55:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-19T02:10:02.706737"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "published": "Mon, 18 May 2026 21:29:31 +0000",
+      "keywords": [
+        "AI",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:02.706798"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "published": "Mon, 18 May 2026 19:27:52 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "API"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:02.706841"
+    },
+    {
+      "source": "techcrunch",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "published": "Mon, 18 May 2026 17:34:43 +0000",
       "keywords": [
@@ -14,11 +55,11 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.065948"
+      "crawled_at": "2026-05-19T02:10:02.706870"
     },
     {
       "source": "techcrunch",
-      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
       "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
       "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
       "published": "Mon, 18 May 2026 16:32:33 +0000",
@@ -28,46 +69,46 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.066520"
+      "crawled_at": "2026-05-19T02:10:02.706909"
     },
     {
-      "source": "techcrunch",
-      "title": "Kin Health raises $9M to build an AI notetaker for patients",
-      "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
-      "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-      "published": "Mon, 18 May 2026 15:26:00 +0000",
+      "source": "theverge",
+      "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+      "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
+      "link": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "published": "2026-05-18T21:10:12-04:00",
       "keywords": [
-        "AI",
+        "5G",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-19T02:10:02.839802"
+    },
+    {
+      "source": "theverge",
+      "title": "Volvo teases a new affordable EV to replace discontinued EX30",
+      "summary": "Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous to park indoors. But its discontinuation didn't spell the end of Volvo's efforts to sell more affordabl",
+      "link": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "published": "2026-05-18T16:41:09-04:00",
+      "keywords": [
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.066573"
+      "category": "Tech News",
+      "crawled_at": "2026-05-19T02:10:02.839862"
     },
     {
-      "source": "techcrunch",
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "published": "Mon, 18 May 2026 14:56:47 +0000",
+      "source": "theverge",
+      "title": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+      "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the",
+      "link": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+      "published": "2026-05-18T15:28:42-04:00",
       "keywords": [
-        "AI",
-        "Amazon"
+        "iOS",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.066606"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-      "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
-      "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-      "published": "Mon, 18 May 2026 13:42:19 +0000",
-      "keywords": [
-        "AI",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.066633"
+      "category": "Mobile",
+      "crawled_at": "2026-05-19T02:10:02.839912"
     },
     {
       "source": "theverge",
@@ -81,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.248826"
+      "crawled_at": "2026-05-19T02:10:02.839941"
     },
     {
       "source": "theverge",
@@ -97,113 +138,111 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-18T19:22:38.248881"
-    },
-    {
-      "source": "theverge",
-      "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
-      "summary": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to tackle spills and stains on tile and other surfaces, and right now, it’s availab",
-      "link": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
-      "published": "2026-05-18T14:32:25-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.248930"
-    },
-    {
-      "source": "theverge",
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "published": "2026-05-18T13:49:49-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.248972"
-    },
-    {
-      "source": "theverge",
-      "title": "Elon Musk loses his case against Sam Altman",
-      "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-      "published": "2026-05-18T13:39:32-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.249002"
+      "crawled_at": "2026-05-19T02:10:02.839982"
     },
     {
       "source": "hackernews",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 8\n# Comments: 1",
-      "link": "https://odyssey.ml/introducing-agora-1",
-      "published": "Mon, 18 May 2026 18:43:30 +0000",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 101\n# Comments: 63",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "published": "Mon, 18 May 2026 23:18:10 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:05.090037"
+    },
+    {
+      "source": "hackernews",
+      "title": "Click (2016)",
+      "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 198\n# Comments: 42",
+      "link": "https://clickclickclick.click/",
+      "published": "Mon, 18 May 2026 23:03:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-19T02:10:05.090078"
+    },
+    {
+      "source": "hackernews",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 22\n# Comments: 10",
+      "link": "https://arxiv.org/abs/2601.10160",
+      "published": "Mon, 18 May 2026 21:29:13 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:05.090107"
+    },
+    {
+      "source": "hackernews",
+      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 134\n# Comments: 61",
+      "link": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+      "published": "Mon, 18 May 2026 19:50:09 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.609622"
+      "crawled_at": "2026-05-19T02:10:05.090154"
     },
     {
       "source": "hackernews",
-      "title": "Haiku OS runs on M1 Macs now",
-      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 55\n# Comments: 21",
-      "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-      "published": "Mon, 18 May 2026 18:30:55 +0000",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 226\n# Comments: 91",
+      "link": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "published": "Mon, 18 May 2026 19:28:59 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.609658"
-    },
-    {
-      "source": "hackernews",
-      "title": "Haiku OS runs on M1 Macs now",
-      "summary": "Article URL: https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/\nComments URL: https://news.ycombinator.com/item?id=48183379\nPoints: 18\n# Comments: 4",
-      "link": "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/",
-      "published": "Mon, 18 May 2026 18:17:21 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.609686"
-    },
-    {
-      "source": "hackernews",
-      "title": "At least 100 deaths reported in Ebola outbreak in DR Congo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cq6pz60p996o\nComments URL: https://news.ycombinator.com/item?id=48183060\nPoints: 62\n# Comments: 22",
-      "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
-      "published": "Mon, 18 May 2026 17:57:13 +0000",
-      "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.609721"
+      "crawled_at": "2026-05-19T02:10:05.090194"
     },
     {
-      "source": "hackernews",
-      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-      "summary": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 19\n# Comments: 2",
-      "link": "https://modal.com/blog/truly-serverless-gpus",
-      "published": "Mon, 18 May 2026 17:56:26 +0000",
+      "source": "arstechnica",
+      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+      "summary": "CDC is working to move the infected American and six others to Germany.",
+      "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+      "published": "Mon, 18 May 2026 20:41:14 +0000",
       "keywords": [
+        "REST",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-05-18T19:22:38.609757"
+      "category": "Tech News",
+      "crawled_at": "2026-05-19T02:10:05.275065"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+      "published": "Mon, 18 May 2026 20:27:15 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:05.275104"
+    },
+    {
+      "source": "arstechnica",
+      "title": "One Mars spacecraft, two senators, and a cloud of questions",
+      "summary": "\"I think there's plenty of fire lit under them already.\"",
+      "link": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
+      "published": "Mon, 18 May 2026 19:49:00 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-05-19T02:10:05.275129"
     },
     {
       "source": "arstechnica",
@@ -216,7 +255,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.781571"
+      "crawled_at": "2026-05-19T02:10:05.275158"
     },
     {
       "source": "arstechnica",
@@ -229,46 +268,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.781601"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Pompeii victim ID'd as a likely doctor",
-      "summary": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
-      "link": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
-      "published": "Mon, 18 May 2026 18:03:32 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.781625"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Guy Gardner makes a cameo in new Lanterns teaser",
-      "summary": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
-      "link": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
-      "published": "Mon, 18 May 2026 17:36:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.781653"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
-      "summary": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
-      "link": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
-      "published": "Mon, 18 May 2026 17:26:15 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.781673"
+      "crawled_at": "2026-05-19T02:10:05.275180"
     },
     {
       "source": "wired",
@@ -280,7 +280,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.997739"
+      "crawled_at": "2026-05-19T02:10:05.364012"
     },
     {
       "source": "wired",
@@ -295,7 +295,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-18T19:22:38.997770"
+      "crawled_at": "2026-05-19T02:10:05.364044"
+    },
+    {
+      "source": "wired",
+      "title": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
+      "summary": "Leica’s first home entertainment projector is pricey, but like the company’s cameras, the image quality is worth the splurge.",
+      "link": "https://www.wired.com/review/review-leica-cine-play-1/",
+      "published": "Mon, 18 May 2026 14:33:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-19T02:10:05.364081"
     },
     {
       "source": "wired",
@@ -307,7 +319,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.997812"
+      "crawled_at": "2026-05-19T02:10:05.364115"
     },
     {
       "source": "wired",
@@ -322,19 +334,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-18T19:22:38.997842"
-    },
-    {
-      "source": "wired",
-      "title": "The Backward Logic of Chickenpox Parties",
-      "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
-      "link": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
-      "published": "Mon, 18 May 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-18T19:22:38.997873"
+      "crawled_at": "2026-05-19T02:10:05.364145"
     }
   ]
 }
