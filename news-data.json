@@ -1,13 +1,131 @@
 {
-  "last_updated": "2026-05-20T08:51:14.992432",
+  "last_updated": "2026-05-20T14:32:15.500231",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
-      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "published": "Wed, 20 May 2026 05:45:00 +0000",
+      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "published": "Wed, 20 May 2026 14:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.424737"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+      "link": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "published": "Wed, 20 May 2026 14:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-20T14:32:12.424791"
+    },
+    {
+      "source": "techcrunch",
+      "title": "GitHub says hackers stole data from thousands of internal repositories",
+      "summary": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
+      "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+      "published": "Wed, 20 May 2026 13:25:58 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.424818"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "published": "Wed, 20 May 2026 13:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.424839"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Quartermaster is building a maritime hive mind",
+      "summary": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
+      "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+      "published": "Wed, 20 May 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.424863"
+    },
+    {
+      "source": "theverge",
+      "title": "It&#8217;s make or break time for AI labeling systems",
+      "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting thei",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "published": "2026-05-20T10:12:54-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.645163"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump Mobile may be leaking customer addresses",
+      "summary": "Just as the T1 Phone is seemingly on the verge of release, Trump Mobile has been accused of insecurely storing customer data, leaving addresses and phone numbers vulnerable. The alleged leak has also revealed how many T1 Phone orders were apparently placed, and it's far fewer than viral figures have",
+      "link": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
+      "published": "2026-05-20T10:06:19-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.645209"
+    },
+    {
+      "source": "theverge",
+      "title": "Insta360’s Mic Pro uses a three microphone array for improved recordings",
+      "summary": "After initially revealing its unique design at NAB 2026 last month with few technical details, Insta360 has announced and launched its new wireless Mic Pro system featuring a couple of industry firsts. While the Mic Pro transmitters that can directly connect to devices over Bluetooth are available i",
+      "link": "https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array",
+      "published": "2026-05-20T10:04:42-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.645269"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump is waging a silent war on legal immigration",
+      "summary": "When the member states of the United Nations reviewed their Global Compact on Migration earlier this month, one country was conspicuously absent from the discussions: the United States. In a post on X explaining its reasoning, the State Department said it objects to global \"efforts to facilitate rep",
+      "link": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
+      "published": "2026-05-20T10:00:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:12.645304"
+    },
+    {
+      "source": "theverge",
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "published": "2026-05-20T09:24:22-04:00",
       "keywords": [
         "AI",
         "Go",
@@ -15,197 +133,96 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.210201"
+      "crawled_at": "2026-05-20T14:32:12.645346"
     },
     {
-      "source": "techcrunch",
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "published": "Tue, 19 May 2026 21:33:30 +0000",
+      "source": "hackernews",
+      "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen\nComments URL: https://news.ycombinator.com/item?id=48207251\nPoints: 44\n# Comments: 14",
+      "link": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen",
+      "published": "Wed, 20 May 2026 13:19:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T14:32:15.060694"
+    },
+    {
+      "source": "hackernews",
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "summary": "Article URL: https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html\nComments URL: https://news.ycombinator.com/item?id=48207004\nPoints: 232\n# Comments: 209",
+      "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "published": "Wed, 20 May 2026 13:02:30 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.210243"
+      "crawled_at": "2026-05-20T14:32:15.060737"
     },
     {
-      "source": "techcrunch",
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-      "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "published": "Tue, 19 May 2026 21:25:31 +0000",
+      "source": "hackernews",
+      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+      "summary": "Article URL: https://www.alqst.org/ar/posts/1190\nComments URL: https://news.ycombinator.com/item?id=48206768\nPoints: 287\n# Comments: 94",
+      "link": "https://www.alqst.org/ar/posts/1190",
+      "published": "Wed, 20 May 2026 12:43:41 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T14:32:15.060775"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+      "summary": "Article URL: https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/\nComments URL: https://news.ycombinator.com/item?id=48206640\nPoints: 101\n# Comments: 71",
+      "link": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+      "published": "Wed, 20 May 2026 12:30:58 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.210276"
+      "crawled_at": "2026-05-20T14:32:15.060805"
     },
     {
-      "source": "techcrunch",
-      "title": "How to use Google’s new AI agents to go beyond your standard searches",
-      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "published": "Tue, 19 May 2026 21:16:25 +0000",
+      "source": "hackernews",
+      "title": "Saying Goodbye to Asm.js",
+      "summary": "Article URL: https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html\nComments URL: https://news.ycombinator.com/item?id=48206340\nPoints: 56\n# Comments: 21",
+      "link": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "published": "Wed, 20 May 2026 12:01:56 +0000",
       "keywords": [
-        "AI",
         "Go",
-        "Google",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.210308"
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T14:32:15.060839"
     },
     {
-      "source": "techcrunch",
-      "title": "Discord enables end-to-end encrypted voice and video calling for every user",
-      "summary": "Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.",
-      "link": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/",
-      "published": "Tue, 19 May 2026 21:14:08 +0000",
+      "source": "arstechnica",
+      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
+      "summary": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
+      "published": "Wed, 20 May 2026 13:10:15 +0000",
       "keywords": [
         "Go"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:07.210345"
+      "category": "Hardware",
+      "crawled_at": "2026-05-20T14:32:15.213896"
     },
     {
-      "source": "theverge",
-      "title": "Samsung workers set to strike at worst possible time",
-      "summary": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday, and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already cons",
-      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "published": "2026-05-20T04:49:01-04:00",
+      "source": "arstechnica",
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
+      "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "published": "Wed, 20 May 2026 11:00:34 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.296106"
-    },
-    {
-      "source": "theverge",
-      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
-      "summary": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nard&#242; Ring in southern Ital",
-      "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
-      "published": "2026-05-19T23:30:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:07.296184"
-    },
-    {
-      "source": "theverge",
-      "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
-      "summary": "Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sports scores, Wear OS 7 will get the iPhone-style Live Updates that were introduced on Android last year",
-      "link": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
-      "published": "2026-05-19T19:24:36-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "iPhone",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.296221"
-    },
-    {
-      "source": "theverge",
-      "title": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
-      "summary": "I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1st to lock in a lifetime subscription at today's rates - before it triples the price to $750. Plex [&#8",
-      "link": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
-      "published": "2026-05-19T19:03:48-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:07.296268"
-    },
-    {
-      "source": "theverge",
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look",
-      "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "published": "2026-05-19T18:16:02-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:07.296313"
-    },
-    {
-      "source": "hackernews",
-      "title": "Everything in C is undefined behavior",
-      "summary": "Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\nComments URL: https://news.ycombinator.com/item?id=48203698\nPoints: 141\n# Comments: 102",
-      "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "published": "Wed, 20 May 2026 06:07:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.723855"
-    },
-    {
-      "source": "hackernews",
-      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
-      "summary": "Article URL: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/\nComments URL: https://news.ycombinator.com/item?id=48203536\nPoints: 35\n# Comments: 2",
-      "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
-      "published": "Wed, 20 May 2026 05:43:51 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-05-20T08:51:14.723899"
-    },
-    {
-      "source": "hackernews",
-      "title": "There's no earthly way of knowing which direction we are going",
-      "summary": "Article URL: https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going\nComments URL: https://news.ycombinator.com/item?id=48203484\nPoints: 32\n# Comments: 17",
-      "link": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
-      "published": "Wed, 20 May 2026 05:33:06 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.723941"
-    },
-    {
-      "source": "hackernews",
-      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-      "summary": "Article URL: https://andlukyane.com//blog/minimax-m27-workflows\nComments URL: https://news.ycombinator.com/item?id=48203249\nPoints: 17\n# Comments: 0",
-      "link": "https://andlukyane.com//blog/minimax-m27-workflows",
-      "published": "Wed, 20 May 2026 04:51:42 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.723977"
-    },
-    {
-      "source": "hackernews",
-      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan\nComments URL: https://news.ycombinator.com/item?id=48202047\nPoints: 65\n# Comments: 9",
-      "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-      "published": "Wed, 20 May 2026 01:43:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.724015"
+      "crawled_at": "2026-05-20T14:32:15.213926"
     },
     {
       "source": "arstechnica",
@@ -217,7 +234,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.829946"
+      "crawled_at": "2026-05-20T14:32:15.213956"
     },
     {
       "source": "arstechnica",
@@ -229,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.829983"
+      "crawled_at": "2026-05-20T14:32:15.213986"
     },
     {
       "source": "arstechnica",
@@ -241,88 +258,67 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T08:51:14.830004"
+      "crawled_at": "2026-05-20T14:32:15.214005"
     },
     {
-      "source": "arstechnica",
-      "title": "\"I'll buy 10 of those\"—NASA science chief yearns for mass-produced satellites",
-      "summary": "\"How in the hell do I get more science into space? That is my goal.\"",
-      "link": "https://arstechnica.com/space/2026/05/ill-buy-10-of-those-nasa-science-chief-yearns-for-mass-produced-satellites/",
-      "published": "Tue, 19 May 2026 20:43:31 +0000",
+      "source": "wired",
+      "title": "‘Perfect Storm’: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
+      "summary": "One health provider who works on the ground says that basic medical equipment like masks and hand sanitizers are in short supply due to funding cuts.",
+      "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
+      "published": "Wed, 20 May 2026 13:16:22 +0000",
       "keywords": [
-        "Go",
+        "AI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T14:32:15.499227"
+    },
+    {
+      "source": "wired",
+      "title": "Ride1Up Roadster Review (2026): An Ebike That Feels Like a Bike",
+      "summary": "This lightweight commuter ebike feels a lot like a regular bike would feel if I had bionic legs. I wish there were more mechanics for it.",
+      "link": "https://www.wired.com/review/ride1up-roadster-ebike-review/",
+      "published": "Wed, 20 May 2026 12:33:00 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.830042"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Plex's 200% Lifetime Pass price hike tries forcing users to another subscription",
-      "summary": "Plex says that it has considered getting rid of Lifetime Passes.",
-      "link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
-      "published": "Tue, 19 May 2026 19:52:01 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.830070"
+      "crawled_at": "2026-05-20T14:32:15.499281"
     },
     {
       "source": "wired",
-      "title": "Dell Coupon Codes: 20% Off for May 2026",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published": "Wed, 20 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-20T08:51:14.992205"
-    },
-    {
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for May 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Wed, 20 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-20T08:51:14.992239"
-    },
-    {
-      "source": "wired",
-      "title": "NordVPN Coupons and Deals: 77% Off in May 2026",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "link": "https://www.wired.com/story/nordvpn-coupon/",
-      "published": "Wed, 20 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-20T08:51:14.992262"
-    },
-    {
-      "source": "wired",
-      "title": "Herman Miller Promo Code & Discounts: Save up to 40% in May 2026",
-      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture this month.",
-      "link": "https://www.wired.com/story/herman-miller-promo-code/",
-      "published": "Wed, 20 May 2026 05:00:00 +0000",
+      "title": "Hypershell X Ultra S Review: The Best Exoskeleton Yet",
+      "summary": "With its clever new algorithm, the latest Hypershell exoskeleton powers your legs without making you feel like a puppet on a string.",
+      "link": "https://www.wired.com/review/hypershell-x-ultra-s/",
+      "published": "Wed, 20 May 2026 12:20:00 +0000",
       "keywords": [
         "Go"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-20T08:51:14.992297"
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T14:32:15.499315"
     },
     {
       "source": "wired",
-      "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "link": "https://www.wired.com/story/sony-promo-code/",
-      "published": "Wed, 20 May 2026 05:00:00 +0000",
+      "title": "How to Upgrade Weber and Kamado Joe Into Smart Grills",
+      "summary": "You don't need to buy a smart grill to make perfect meat. You can buy a dumb grill and send it to school with smart upgrades.",
+      "link": "https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/",
+      "published": "Wed, 20 May 2026 11:32:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T08:51:14.992339"
+      "crawled_at": "2026-05-20T14:32:15.499345"
+    },
+    {
+      "source": "wired",
+      "title": "Everything to Look for When Buying a New Laptop in 2026",
+      "summary": "Shopping for a laptop can be infuriating. Here’s how to sift through the acronyms, storage options, and extra features to find the best one for you.",
+      "link": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
+      "published": "Wed, 20 May 2026 11:01:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T14:32:15.500101"
     }
   ]
 }
