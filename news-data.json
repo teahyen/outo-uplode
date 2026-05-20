@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-05-20T02:08:47.144570",
+  "last_updated": "2026-05-20T08:51:14.992432",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+      "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+      "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+      "published": "Wed, 20 May 2026 05:45:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T08:51:07.210201"
+    },
     {
       "source": "techcrunch",
       "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -15,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.473641"
+      "crawled_at": "2026-05-20T08:51:07.210243"
     },
     {
       "source": "techcrunch",
@@ -30,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.473678"
+      "crawled_at": "2026-05-20T08:51:07.210276"
     },
     {
       "source": "techcrunch",
@@ -45,7 +60,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.473705"
+      "crawled_at": "2026-05-20T08:51:07.210308"
     },
     {
       "source": "techcrunch",
@@ -57,19 +72,34 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:45.473733"
+      "crawled_at": "2026-05-20T08:51:07.210345"
     },
     {
-      "source": "techcrunch",
-      "title": "Mach Industries just spent $50M to solve a major defense tech problem",
-      "summary": "Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.",
-      "link": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/",
-      "published": "Tue, 19 May 2026 21:09:56 +0000",
+      "source": "theverge",
+      "title": "Samsung workers set to strike at worst possible time",
+      "summary": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday, and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already cons",
+      "link": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "published": "2026-05-20T04:49:01-04:00",
       "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-20T08:51:07.296106"
+    },
+    {
+      "source": "theverge",
+      "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+      "summary": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nard&#242; Ring in southern Ital",
+      "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+      "published": "2026-05-19T23:30:00-04:00",
+      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:45.473762"
+      "crawled_at": "2026-05-20T08:51:07.296184"
     },
     {
       "source": "theverge",
@@ -85,7 +115,7 @@
         "Android"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.549336"
+      "crawled_at": "2026-05-20T08:51:07.296221"
     },
     {
       "source": "theverge",
@@ -97,7 +127,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:45.549385"
+      "crawled_at": "2026-05-20T08:51:07.296268"
     },
     {
       "source": "theverge",
@@ -112,111 +142,82 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.549425"
-    },
-    {
-      "source": "theverge",
-      "title": "We react to Google I/O 2026",
-      "summary": "What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity is near. The Vergecast went live right after the show, with senior AI reporter Hayden Field joining me",
-      "link": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-      "published": "2026-05-19T17:48:26-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "React",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:45.549451"
-    },
-    {
-      "source": "theverge",
-      "title": "The future of Google is a search box that does everything",
-      "summary": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to google for you - I think it wants to do everything for you, all from a search box. Take the trusty Goog",
-      "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "published": "2026-05-19T17:24:14-04:00",
-      "keywords": [
-        "Rust",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-20T02:08:45.549479"
+      "crawled_at": "2026-05-20T08:51:07.296313"
     },
     {
       "source": "hackernews",
-      "title": "Railway Blocked by Google Cloud",
-      "summary": "Article URL: https://status.railway.com/?date=20260519\nComments URL: https://news.ycombinator.com/item?id=48201484\nPoints: 134\n# Comments: 37",
-      "link": "https://status.railway.com/?date=20260519",
-      "published": "Wed, 20 May 2026 00:23:54 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google Cloud",
-        "Google",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:46.977902"
-    },
-    {
-      "source": "hackernews",
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "summary": "Article URL: https://twitter.com/github/status/2056884788179726685\nComments URL: https://news.ycombinator.com/item?id=48201316\nPoints: 131\n# Comments: 25",
-      "link": "https://twitter.com/github/status/2056884788179726685",
-      "published": "Wed, 20 May 2026 00:01:18 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:46.977942"
-    },
-    {
-      "source": "hackernews",
-      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks\nComments URL: https://news.ycombinator.com/item?id=48200569\nPoints: 121\n# Comments: 71",
-      "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "published": "Tue, 19 May 2026 22:30:31 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:46.977974"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/\nComments URL: https://news.ycombinator.com/item?id=48198291\nPoints: 200\n# Comments: 103",
-      "link": "https://openai.com/index/advancing-content-provenance/",
-      "published": "Tue, 19 May 2026 19:34:30 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:46.978009"
-    },
-    {
-      "source": "hackernews",
-      "title": "Dumb ways for an open source project to die",
-      "summary": "Article URL: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html\nComments URL: https://news.ycombinator.com/item?id=48198127\nPoints: 154\n# Comments: 86",
-      "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "published": "Tue, 19 May 2026 19:22:56 +0000",
+      "title": "Everything in C is undefined behavior",
+      "summary": "Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\nComments URL: https://news.ycombinator.com/item?id=48203698\nPoints: 141\n# Comments: 102",
+      "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "published": "Wed, 20 May 2026 06:07:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:46.978037"
+      "crawled_at": "2026-05-20T08:51:14.723855"
+    },
+    {
+      "source": "hackernews",
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "summary": "Article URL: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/\nComments URL: https://news.ycombinator.com/item?id=48203536\nPoints: 35\n# Comments: 2",
+      "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "published": "Wed, 20 May 2026 05:43:51 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-05-20T08:51:14.723899"
+    },
+    {
+      "source": "hackernews",
+      "title": "There's no earthly way of knowing which direction we are going",
+      "summary": "Article URL: https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going\nComments URL: https://news.ycombinator.com/item?id=48203484\nPoints: 32\n# Comments: 17",
+      "link": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
+      "published": "Wed, 20 May 2026 05:33:06 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T08:51:14.723941"
+    },
+    {
+      "source": "hackernews",
+      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+      "summary": "Article URL: https://andlukyane.com//blog/minimax-m27-workflows\nComments URL: https://news.ycombinator.com/item?id=48203249\nPoints: 17\n# Comments: 0",
+      "link": "https://andlukyane.com//blog/minimax-m27-workflows",
+      "published": "Wed, 20 May 2026 04:51:42 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T08:51:14.723977"
+    },
+    {
+      "source": "hackernews",
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan\nComments URL: https://news.ycombinator.com/item?id=48202047\nPoints: 65\n# Comments: 9",
+      "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "published": "Wed, 20 May 2026 01:43:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T08:51:14.724015"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
+      "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
+      "link": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
+      "published": "Wed, 20 May 2026 07:00:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-20T08:51:14.829946"
     },
     {
       "source": "arstechnica",
@@ -228,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:47.063058"
+      "crawled_at": "2026-05-20T08:51:14.829983"
     },
     {
       "source": "arstechnica",
@@ -240,7 +241,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:47.063082"
+      "crawled_at": "2026-05-20T08:51:14.830004"
     },
     {
       "source": "arstechnica",
@@ -253,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:47.063114"
+      "crawled_at": "2026-05-20T08:51:14.830042"
     },
     {
       "source": "arstechnica",
@@ -263,90 +264,65 @@
       "published": "Tue, 19 May 2026 19:52:01 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:47.063136"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-      "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
-      "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-      "published": "Tue, 19 May 2026 18:55:56 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:47.063154"
+      "crawled_at": "2026-05-20T08:51:14.830070"
     },
     {
       "source": "wired",
-      "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-      "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
-      "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-      "published": "Tue, 19 May 2026 22:53:04 +0000",
+      "title": "Dell Coupon Codes: 20% Off for May 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Wed, 20 May 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "REST",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:47.144346"
+      "category": "Programming",
+      "crawled_at": "2026-05-20T08:51:14.992205"
     },
     {
       "source": "wired",
-      "title": "California’s Wildfire Season Is Already Overactive",
-      "summary": "Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter.",
-      "link": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
-      "published": "Tue, 19 May 2026 22:20:37 +0000",
+      "title": "LG Promo Codes and Coupons for May 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 20 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-20T08:51:14.992239"
+    },
+    {
+      "source": "wired",
+      "title": "NordVPN Coupons and Deals: 77% Off in May 2026",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "link": "https://www.wired.com/story/nordvpn-coupon/",
+      "published": "Wed, 20 May 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-20T08:51:14.992262"
+    },
+    {
+      "source": "wired",
+      "title": "Herman Miller Promo Code & Discounts: Save up to 40% in May 2026",
+      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture this month.",
+      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "published": "Wed, 20 May 2026 05:00:00 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-20T08:51:14.992297"
+    },
+    {
+      "source": "wired",
+      "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
+      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "link": "https://www.wired.com/story/sony-promo-code/",
+      "published": "Wed, 20 May 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:47.144383"
-    },
-    {
-      "source": "wired",
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
-      "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "published": "Tue, 19 May 2026 20:00:48 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:47.144405"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-      "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
-      "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-      "published": "Tue, 19 May 2026 19:00:46 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-20T02:08:47.144432"
-    },
-    {
-      "source": "wired",
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-20T02:08:47.144457"
+      "crawled_at": "2026-05-20T08:51:14.992339"
     }
   ]
 }
