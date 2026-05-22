@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-05-22T02:10:25.344612",
+  "last_updated": "2026-05-22T08:46:52.419018",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+      "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "published": "Fri, 22 May 2026 06:41:28 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-22T08:46:48.696088"
+    },
     {
       "source": "techcrunch",
       "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
@@ -10,7 +23,7 @@
       "published": "Fri, 22 May 2026 00:37:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.753958"
+      "crawled_at": "2026-05-22T08:46:48.696134"
     },
     {
       "source": "techcrunch",
@@ -23,7 +36,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.753998"
+      "crawled_at": "2026-05-22T08:46:48.696162"
     },
     {
       "source": "techcrunch",
@@ -36,7 +49,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-22T02:10:24.754404"
+      "crawled_at": "2026-05-22T08:46:48.696552"
     },
     {
       "source": "techcrunch",
@@ -46,17 +59,7 @@
       "published": "Thu, 21 May 2026 21:13:23 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.754450"
-    },
-    {
-      "source": "techcrunch",
-      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-      "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-      "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-      "published": "Thu, 21 May 2026 21:00:42 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.754480"
+      "crawled_at": "2026-05-22T08:46:48.696598"
     },
     {
       "source": "theverge",
@@ -69,7 +72,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.896016"
+      "crawled_at": "2026-05-22T08:46:48.827337"
     },
     {
       "source": "theverge",
@@ -82,7 +85,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.896069"
+      "crawled_at": "2026-05-22T08:46:48.827408"
     },
     {
       "source": "theverge",
@@ -95,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.896107"
+      "crawled_at": "2026-05-22T08:46:48.827457"
     },
     {
       "source": "theverge",
@@ -111,7 +114,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.896148"
+      "crawled_at": "2026-05-22T08:46:48.827513"
     },
     {
       "source": "theverge",
@@ -124,26 +127,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.896183"
+      "crawled_at": "2026-05-22T08:46:48.827552"
     },
     {
       "source": "hackernews",
-      "title": "The IBM-ification of Google?",
-      "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/\nComments URL: https://news.ycombinator.com/item?id=48230049\nPoints: 63\n# Comments: 60",
-      "link": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
-      "published": "Thu, 21 May 2026 23:30:10 +0000",
+      "title": "Deepfakes Tore a High School Apart",
+      "summary": "Article URL: https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/\nComments URL: https://news.ycombinator.com/item?id=48233177\nPoints: 20\n# Comments: 3",
+      "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+      "published": "Fri, 22 May 2026 07:52:15 +0000",
       "keywords": [
-        "Go",
-        "Google",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-22T08:46:52.177354"
+    },
+    {
+      "source": "hackernews",
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 52\n# Comments: 4",
+      "link": "https://arxiv.org/abs/2605.19269",
+      "published": "Fri, 22 May 2026 04:54:33 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.990941"
+      "crawled_at": "2026-05-22T08:46:52.177397"
+    },
+    {
+      "source": "hackernews",
+      "title": "Slumber a TUI HTTP Client",
+      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 53\n# Comments: 24",
+      "link": "https://slumber.lucaspickering.me",
+      "published": "Fri, 22 May 2026 04:29:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-22T08:46:52.177428"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cleve Moler has died",
+      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 81\n# Comments: 4",
+      "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "published": "Fri, 22 May 2026 02:35:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-22T08:46:52.177461"
     },
     {
       "source": "hackernews",
       "title": "The memory shortage is causing a repricing of consumer electronics",
-      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 97\n# Comments: 67",
+      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 173\n# Comments: 186",
       "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
       "published": "Thu, 21 May 2026 21:55:56 +0000",
       "keywords": [
@@ -151,43 +189,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.990987"
+      "crawled_at": "2026-05-22T08:46:52.177490"
     },
     {
-      "source": "hackernews",
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 71\n# Comments: 49",
-      "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "published": "Thu, 21 May 2026 20:56:36 +0000",
+      "source": "arstechnica",
+      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+      "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
+      "link": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+      "published": "Fri, 22 May 2026 02:05:37 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.991025"
-    },
-    {
-      "source": "hackernews",
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 57\n# Comments: 5",
-      "link": "https://arxiv.org/abs/2605.12460",
-      "published": "Thu, 21 May 2026 19:37:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:24.991054"
-    },
-    {
-      "source": "hackernews",
-      "title": "Using Kagi Search with Low Vision",
-      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 131\n# Comments: 20",
-      "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "published": "Thu, 21 May 2026 19:32:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:24.991088"
+      "crawled_at": "2026-05-22T08:46:52.288350"
     },
     {
       "source": "arstechnica",
@@ -200,7 +214,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-22T02:10:25.173166"
+      "crawled_at": "2026-05-22T08:46:52.288395"
     },
     {
       "source": "arstechnica",
@@ -213,7 +227,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:25.173197"
+      "crawled_at": "2026-05-22T08:46:52.288419"
     },
     {
       "source": "arstechnica",
@@ -223,7 +237,7 @@
       "published": "Thu, 21 May 2026 21:10:01 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:25.173227"
+      "crawled_at": "2026-05-22T08:46:52.288455"
     },
     {
       "source": "arstechnica",
@@ -235,86 +249,61 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:25.173255"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Zillow loses thousands of listings in fight over “hidden” homes",
-      "summary": "Zillow asked for a preliminary injunction as real estate industry fight heats up.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
-      "published": "Thu, 21 May 2026 18:35:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:25.173289"
+      "crawled_at": "2026-05-22T08:46:52.288492"
     },
     {
       "source": "wired",
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "published": "Fri, 22 May 2026 00:04:25 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:25.344389"
-    },
-    {
-      "source": "wired",
-      "title": "What to Do in LA if You’re Here for Business (2025)",
-      "summary": "A tech industry guide to where to stay, eat, work, and play while visiting LA.",
-      "link": "https://www.wired.com/story/los-angeles-tech-travel-guide/",
-      "published": "Thu, 21 May 2026 21:47:47 +0000",
+      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "link": "https://www.wired.com/story/nike-promo-code/",
+      "published": "Fri, 22 May 2026 05:00:00 +0000",
       "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-22T02:10:25.344430"
+      "category": "Programming",
+      "crawled_at": "2026-05-22T08:46:52.418827"
     },
     {
       "source": "wired",
-      "title": "‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says",
-      "summary": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC alleges the “tech” was just pricey email lists.",
-      "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
-      "published": "Thu, 21 May 2026 21:35:52 +0000",
+      "title": "Google Workspace Promo Codes: 14% Off for May",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "link": "https://www.wired.com/story/google-workspace-promo-code/",
+      "published": "Fri, 22 May 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:25.344466"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-      "published": "Thu, 21 May 2026 20:44:53 +0000",
-      "keywords": [
-        "AI",
         "Go",
         "Google",
-        "Meta",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:25.344497"
+      "category": "Programming",
+      "crawled_at": "2026-05-22T08:46:52.418864"
     },
     {
       "source": "wired",
-      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-      "summary": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
-      "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
-      "published": "Thu, 21 May 2026 20:17:04 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-22T02:10:25.344521"
+      "title": "Chewy Promo Codes: $20 Off May 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published": "Fri, 22 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-22T08:46:52.418888"
+    },
+    {
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off May 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published": "Fri, 22 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-22T08:46:52.418912"
+    },
+    {
+      "source": "wired",
+      "title": "30% Off Samsung Promo Code | May 2026",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "published": "Fri, 22 May 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-05-22T08:46:52.418935"
     }
   ]
 }
