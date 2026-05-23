@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:04:14.068510",
+  "last_updated": "2026-05-23T12:57:35.936952",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.380844"
+      "crawled_at": "2026-05-23T12:57:32.177796"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.380890"
+      "crawled_at": "2026-05-23T12:57:32.177840"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.380928"
+      "crawled_at": "2026-05-23T12:57:32.177879"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.380955"
+      "crawled_at": "2026-05-23T12:57:32.177906"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,35 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.380991"
+      "crawled_at": "2026-05-23T12:57:32.177941"
+    },
+    {
+      "source": "theverge",
+      "title": "I have a new go-to browser",
+      "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) This week, I've mostly been sick, which has meant nearly a full rewatch of Pa",
+      "link": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+      "published": "2026-05-23T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:32.276485"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
+      "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "published": "2026-05-23T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-23T12:57:32.276540"
     },
     {
       "source": "theverge",
@@ -83,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.593981"
+      "crawled_at": "2026-05-23T12:57:32.276578"
     },
     {
       "source": "theverge",
@@ -95,7 +123,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.594061"
+      "crawled_at": "2026-05-23T12:57:32.276624"
     },
     {
       "source": "theverge",
@@ -111,93 +139,94 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.594103"
+      "crawled_at": "2026-05-23T12:57:32.276665"
     },
     {
-      "source": "theverge",
-      "title": "Elon, stop trying to make Grok happen",
-      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI'",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-      "published": "2026-05-22T13:17:06-04:00",
+      "source": "hackernews",
+      "title": "I Miss Terry Pratchett",
+      "summary": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/\nComments URL: https://news.ycombinator.com/item?id=48247127\nPoints: 4\n# Comments: 0",
+      "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "published": "Sat, 23 May 2026 12:35:28 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:35.679615"
+    },
+    {
+      "source": "hackernews",
+      "title": "80386 Microcode Disassembled",
+      "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/\nComments URL: https://news.ycombinator.com/item?id=48247004\nPoints: 29\n# Comments: 3",
+      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "published": "Sat, 23 May 2026 12:11:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-23T12:57:35.679654"
+    },
+    {
+      "source": "hackernews",
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "summary": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 16\n# Comments: 6",
+      "link": "https://horace.io/brrr_intro.html",
+      "published": "Sat, 23 May 2026 11:50:22 +0000",
+      "keywords": [
+        "Go",
+        "Deep Learning",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:35.679701"
+    },
+    {
+      "source": "hackernews",
+      "title": "DHS Quits Granting Green Cards–Almost",
+      "summary": "Article URL: https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely\nComments URL: https://news.ycombinator.com/item?id=48246735\nPoints: 28\n# Comments: 7",
+      "link": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
+      "published": "Sat, 23 May 2026 11:18:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:35.679748"
+    },
+    {
+      "source": "hackernews",
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "summary": "Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/\nComments URL: https://news.ycombinator.com/item?id=48246614\nPoints: 80\n# Comments: 44",
+      "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "published": "Sat, 23 May 2026 10:57:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:35.679790"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
+      "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
+      "link": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "published": "Sat, 23 May 2026 11:30:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-23T12:57:35.819343"
+    },
+    {
+      "source": "arstechnica",
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
+      "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "published": "Sat, 23 May 2026 11:00:25 +0000",
+      "keywords": [
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.594135"
-    },
-    {
-      "source": "theverge",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything [&",
-      "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "published": "2026-05-22T12:50:38-04:00",
-      "keywords": [
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.594179"
-    },
-    {
-      "source": "hackernews",
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son\nComments URL: https://news.ycombinator.com/item?id=48245571\nPoints: 7\n# Comments: 0",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "published": "Sat, 23 May 2026 07:34:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.716211"
-    },
-    {
-      "source": "hackernews",
-      "title": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
-      "summary": "Article URL: https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/\nComments URL: https://news.ycombinator.com/item?id=48245362\nPoints: 16\n# Comments: 2",
-      "link": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-      "published": "Sat, 23 May 2026 06:54:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.716265"
-    },
-    {
-      "source": "hackernews",
-      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-      "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 129\n# Comments: 37",
-      "link": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-      "published": "Sat, 23 May 2026 00:34:25 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-23T08:04:13.716309"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sleep research led to a new sleep apnea drug",
-      "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 142\n# Comments: 90",
-      "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "published": "Fri, 22 May 2026 22:05:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.716350"
-    },
-    {
-      "source": "hackernews",
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 380\n# Comments: 130",
-      "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "published": "Fri, 22 May 2026 21:36:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.716387"
+      "crawled_at": "2026-05-23T12:57:35.819389"
     },
     {
       "source": "arstechnica",
@@ -209,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.895754"
+      "crawled_at": "2026-05-23T12:57:35.819422"
     },
     {
       "source": "arstechnica",
@@ -222,7 +251,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.895790"
+      "crawled_at": "2026-05-23T12:57:35.819451"
     },
     {
       "source": "arstechnica",
@@ -237,87 +266,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:13.895814"
+      "crawled_at": "2026-05-23T12:57:35.819473"
     },
     {
-      "source": "arstechnica",
-      "title": "Trump FCC asks public to comment on whether ABC's The View is a news show",
-      "summary": "FCC seeks opinions on whether ABC show's decisions are \"based on newsworthiness.\"",
-      "link": "https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/",
-      "published": "Fri, 22 May 2026 21:10:46 +0000",
+      "source": "wired",
+      "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
+      "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
+      "link": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
+      "published": "Sat, 23 May 2026 11:01:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.895843"
+      "crawled_at": "2026-05-23T12:57:35.936655"
     },
     {
-      "source": "arstechnica",
-      "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
-      "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
-      "link": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
-      "published": "Fri, 22 May 2026 19:39:04 +0000",
+      "source": "wired",
+      "title": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
+      "summary": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
+      "link": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
+      "published": "Sat, 23 May 2026 11:00:00 +0000",
+      "keywords": [
+        "Crypto",
+        "AR"
+      ],
+      "category": "Blockchain",
+      "crawled_at": "2026-05-23T12:57:35.936722"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
+      "summary": "We’ve tested almost a dozen options that handle everything from scheduling and weather changes to water conservation, so you don’t have to.",
+      "link": "https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/",
+      "published": "Sat, 23 May 2026 10:38:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:13.895879"
+      "crawled_at": "2026-05-23T12:57:35.936773"
     },
     {
       "source": "wired",
-      "title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
-      "summary": "The measure is part of a European Union–led strategy to eliminate all drunk-driving-related deaths and injuries by 2050.",
-      "link": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
-      "published": "Sat, 23 May 2026 07:00:00 +0000",
+      "title": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
+      "summary": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "published": "Sat, 23 May 2026 10:30:00 +0000",
       "keywords": [
+        "Go",
+        "REST",
+        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:14.068287"
+      "crawled_at": "2026-05-23T12:57:35.936816"
     },
     {
       "source": "wired",
-      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
-      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
-      "link": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
-      "published": "Sat, 23 May 2026 06:54:00 +0000",
+      "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
+      "link": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
+      "published": "Sat, 23 May 2026 10:00:00 +0000",
       "keywords": [
+        "AI",
         "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-23T08:04:14.068333"
-    },
-    {
-      "source": "wired",
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "link": "https://www.wired.com/story/lowes-promo-code/",
-      "published": "Sat, 23 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-23T08:04:14.068367"
-    },
-    {
-      "source": "wired",
-      "title": "Ulta Promo Codes: Up to 50% Off in May",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Sat, 23 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-23T08:04:14.068392"
-    },
-    {
-      "source": "wired",
-      "title": "Valvoline Coupons & Promo Codes for May 2026",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "published": "Sat, 23 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-23T08:04:14.068417"
+      "crawled_at": "2026-05-23T12:57:35.936848"
     }
   ]
 }
