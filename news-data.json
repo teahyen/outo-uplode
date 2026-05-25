@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-05-25T09:45:32.879967",
+  "last_updated": "2026-05-25T14:31:05.958544",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "published": "Mon, 25 May 2026 14:30:00 +0000",
+      "keywords": [
+        "Startup",
+        "VC",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-25T14:31:05.006976"
+    },
+    {
+      "source": "techcrunch",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "published": "Mon, 25 May 2026 14:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T14:31:05.007021"
+    },
     {
       "source": "techcrunch",
       "title": "Everyone is navigating AI security in real time — even Google",
@@ -15,7 +41,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-25T09:45:30.959209"
+      "crawled_at": "2026-05-25T14:31:05.007334"
     },
     {
       "source": "techcrunch",
@@ -29,7 +55,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:30.959266"
+      "crawled_at": "2026-05-25T14:31:05.007385"
     },
     {
       "source": "techcrunch",
@@ -41,31 +67,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:30.959309"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "published": "Sun, 24 May 2026 16:05:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:30.959344"
-    },
-    {
-      "source": "techcrunch",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "published": "Sun, 24 May 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-25T09:45:30.959373"
+      "crawled_at": "2026-05-25T14:31:05.007424"
     },
     {
       "source": "theverge",
@@ -77,7 +79,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:31.140895"
+      "crawled_at": "2026-05-25T14:31:05.174714"
     },
     {
       "source": "theverge",
@@ -90,7 +92,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-25T09:45:31.140935"
+      "crawled_at": "2026-05-25T14:31:05.174779"
     },
     {
       "source": "theverge",
@@ -106,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-25T09:45:31.140977"
+      "crawled_at": "2026-05-25T14:31:05.174844"
     },
     {
       "source": "theverge",
@@ -120,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-25T09:45:31.141008"
+      "crawled_at": "2026-05-25T14:31:05.174893"
     },
     {
       "source": "theverge",
@@ -134,71 +136,97 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:31.141081"
+      "crawled_at": "2026-05-25T14:31:05.174974"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-      "summary": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imag",
-      "link": "https://www.tinyvolt.com/geomatic",
-      "published": "Mon, 25 May 2026 08:25:00 +0000",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=48266906\nPoints: 4\n# Comments: 0",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "Mon, 25 May 2026 13:56:39 +0000",
       "keywords": [
-        "React",
+        "AI",
+        "REST",
+        "Security",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.562360"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T14:31:05.587934"
     },
     {
       "source": "hackernews",
-      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
-      "summary": "Article URL: https://www.atlasobscura.com/articles/blankets-summer-hot\nComments URL: https://news.ycombinator.com/item?id=48263711\nPoints: 28\n# Comments: 14",
-      "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
-      "published": "Mon, 25 May 2026 05:33:31 +0000",
+      "title": "2026 HIPAA Security Rule Update",
+      "summary": "Article URL: https://medcurity.com/hipaa-security-rule-2026-update/\nComments URL: https://news.ycombinator.com/item?id=48266895\nPoints: 10\n# Comments: 0",
+      "link": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "published": "Mon, 25 May 2026 13:55:28 +0000",
       "keywords": [
+        "Security",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.562407"
+      "category": "Security",
+      "crawled_at": "2026-05-25T14:31:05.587972"
     },
     {
       "source": "hackernews",
-      "title": "Jira Is Turing-Complete",
-      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 172\n# Comments: 73",
-      "link": "https://seriot.ch/computation/jira.html",
-      "published": "Mon, 25 May 2026 03:54:14 +0000",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/\nComments URL: https://news.ycombinator.com/item?id=48266485\nPoints: 91\n# Comments: 27",
+      "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "published": "Mon, 25 May 2026 13:17:58 +0000",
       "keywords": [
-        "IoT",
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.562440"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T14:31:05.588004"
     },
     {
       "source": "hackernews",
-      "title": "The Eternal Sloptember",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\nComments URL: https://news.ycombinator.com/item?id=48263238\nPoints: 325\n# Comments: 257",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "published": "Mon, 25 May 2026 03:47:24 +0000",
+      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/\nComments URL: https://news.ycombinator.com/item?id=48266435\nPoints: 13\n# Comments: 2",
+      "link": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "published": "Mon, 25 May 2026 13:12:40 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.562475"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T14:31:05.588034"
     },
     {
       "source": "hackernews",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 163\n# Comments: 79",
-      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "published": "Sun, 24 May 2026 19:10:26 +0000",
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+      "summary": "Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback\nComments URL: https://news.ycombinator.com/item?id=48266422\nPoints: 8\n# Comments: 0",
+      "link": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "published": "Mon, 25 May 2026 13:09:53 +0000",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T14:31:05.588077"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+      "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "published": "Mon, 25 May 2026 12:00:15 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T14:31:05.754942"
+    },
+    {
+      "source": "arstechnica",
+      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
+      "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
+      "link": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+      "published": "Mon, 25 May 2026 11:22:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.562515"
+      "crawled_at": "2026-05-25T14:31:05.754989"
     },
     {
       "source": "arstechnica",
@@ -208,7 +236,7 @@
       "published": "Sun, 24 May 2026 11:15:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.704330"
+      "crawled_at": "2026-05-25T14:31:05.755019"
     },
     {
       "source": "arstechnica",
@@ -220,7 +248,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.704373"
+      "crawled_at": "2026-05-25T14:31:05.755055"
     },
     {
       "source": "arstechnica",
@@ -232,86 +260,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.704403"
+      "crawled_at": "2026-05-25T14:31:05.755083"
     },
     {
-      "source": "arstechnica",
-      "title": "China’s shark finning could lead to US seafood sanctions",
-      "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
-      "link": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-      "published": "Sat, 23 May 2026 11:00:25 +0000",
+      "source": "wired",
+      "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
+      "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
+      "link": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
+      "published": "Mon, 25 May 2026 13:38:18 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.704437"
+      "crawled_at": "2026-05-25T14:31:05.958315"
     },
     {
-      "source": "arstechnica",
-      "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-      "summary": "\"This capability is not common for satellites conducting typical missions.\"",
-      "link": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-      "published": "Fri, 22 May 2026 22:50:23 +0000",
+      "source": "wired",
+      "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
+      "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
+      "link": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
+      "published": "Mon, 25 May 2026 11:30:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T14:31:05.958348"
+    },
+    {
+      "source": "wired",
+      "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
+      "summary": "Say what you will about the brand's leggings, but you'll never convince me to hate this marvel of a carryall.",
+      "link": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
+      "published": "Mon, 25 May 2026 11:01:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-25T09:45:32.704466"
+      "crawled_at": "2026-05-25T14:31:05.958379"
     },
     {
       "source": "wired",
-      "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
-      "summary": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
-      "link": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
-      "published": "Mon, 25 May 2026 09:00:00 +0000",
+      "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
+      "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers.",
+      "link": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+      "published": "Mon, 25 May 2026 11:00:00 +0000",
       "keywords": [
+        "Microsoft",
+        "Windows"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T14:31:05.958419"
+    },
+    {
+      "source": "wired",
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "published": "Mon, 25 May 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "API",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-05-25T09:45:32.879784"
-    },
-    {
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | May 2026",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "published": "Mon, 25 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-25T09:45:32.879813"
-    },
-    {
-      "source": "wired",
-      "title": "HP Discount Codes: 60% Off May 2026",
-      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "published": "Mon, 25 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-25T09:45:32.879837"
-    },
-    {
-      "source": "wired",
-      "title": "Design Within Reach Promo Codes: 30% Off | 2026",
-      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-      "link": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "published": "Mon, 25 May 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-05-25T09:45:32.879861"
-    },
-    {
-      "source": "wired",
-      "title": "Shark Promo Codes for This May",
-      "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-      "link": "https://www.wired.com/story/shark-promo-code/",
-      "published": "Mon, 25 May 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-25T09:45:32.879894"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T14:31:05.958440"
     }
   ]
 }
