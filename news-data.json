@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-05-24T18:59:27.283579",
+  "last_updated": "2026-05-25T02:14:44.158208",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "summary": "We're in the transition period -- all of us.",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "published": "Sun, 24 May 2026 21:39:21 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-25T02:14:43.558486"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "published": "Sun, 24 May 2026 19:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T02:14:43.558546"
+    },
     {
       "source": "techcrunch",
       "title": "6 kitchen gadgets that make adulting feel easier",
@@ -12,7 +41,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:26.752851"
+      "crawled_at": "2026-05-25T02:14:43.558589"
     },
     {
       "source": "techcrunch",
@@ -22,7 +51,7 @@
       "published": "Sun, 24 May 2026 16:05:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:26.752902"
+      "crawled_at": "2026-05-25T02:14:43.558625"
     },
     {
       "source": "techcrunch",
@@ -36,36 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:26.752935"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
-      "link": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-      "published": "Sun, 24 May 2026 13:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:26.752966"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "published": "Sat, 23 May 2026 20:03:13 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "REST",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:26.752996"
+      "crawled_at": "2026-05-25T02:14:43.558656"
     },
     {
       "source": "theverge",
@@ -77,7 +77,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:26.948429"
+      "crawled_at": "2026-05-25T02:14:43.777441"
     },
     {
       "source": "theverge",
@@ -90,7 +90,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:26.948470"
+      "crawled_at": "2026-05-25T02:14:43.777490"
     },
     {
       "source": "theverge",
@@ -106,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:26.948512"
+      "crawled_at": "2026-05-25T02:14:43.777536"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:26.948544"
+      "crawled_at": "2026-05-25T02:14:43.777570"
     },
     {
       "source": "theverge",
@@ -134,71 +134,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:26.948600"
+      "crawled_at": "2026-05-25T02:14:43.777629"
+    },
+    {
+      "source": "hackernews",
+      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 123\n# Comments: 80",
+      "link": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "published": "Sun, 24 May 2026 19:12:46 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-05-25T02:14:43.884255"
+    },
+    {
+      "source": "hackernews",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 59\n# Comments: 31",
+      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "published": "Sun, 24 May 2026 19:10:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T02:14:43.884308"
+    },
+    {
+      "source": "hackernews",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 96\n# Comments: 88",
+      "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "published": "Sun, 24 May 2026 18:39:10 +0000",
+      "keywords": [
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-25T02:14:43.884359"
+    },
+    {
+      "source": "hackernews",
+      "title": "Migrating from Go to Rust",
+      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 134\n# Comments: 132",
+      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "published": "Sun, 24 May 2026 18:31:42 +0000",
+      "keywords": [
+        "Rust",
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-25T02:14:43.884389"
     },
     {
       "source": "hackernews",
       "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 3\n# Comments: 0",
+      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 29\n# Comments: 0",
       "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
       "published": "Sun, 24 May 2026 17:18:52 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.035367"
-    },
-    {
-      "source": "hackernews",
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "published": "Sun, 24 May 2026 17:00:46 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:27.035403"
-    },
-    {
-      "source": "hackernews",
-      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-      "summary": "Article URL: https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver\nComments URL: https://news.ycombinator.com/item?id=48258736\nPoints: 47\n# Comments: 42",
-      "link": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
-      "published": "Sun, 24 May 2026 16:36:26 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:27.035432"
-    },
-    {
-      "source": "hackernews",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 116\n# Comments: 117",
-      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "published": "Sun, 24 May 2026 16:31:29 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:27.035460"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ruby for Good",
-      "summary": "Article URL: https://ti.to/codeforgood/rubyforgood\nComments URL: https://news.ycombinator.com/item?id=48258254\nPoints: 60\n# Comments: 19",
-      "link": "https://ti.to/codeforgood/rubyforgood",
-      "published": "Sun, 24 May 2026 15:49:19 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-24T18:59:27.035485"
+      "crawled_at": "2026-05-25T02:14:43.884428"
     },
     {
       "source": "arstechnica",
@@ -208,7 +209,7 @@
       "published": "Sun, 24 May 2026 11:15:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.178113"
+      "crawled_at": "2026-05-25T02:14:44.043820"
     },
     {
       "source": "arstechnica",
@@ -220,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.178156"
+      "crawled_at": "2026-05-25T02:14:44.043870"
     },
     {
       "source": "arstechnica",
@@ -232,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.178186"
+      "crawled_at": "2026-05-25T02:14:44.043900"
     },
     {
       "source": "arstechnica",
@@ -245,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.178220"
+      "crawled_at": "2026-05-25T02:14:44.043934"
     },
     {
       "source": "arstechnica",
@@ -257,7 +258,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.178248"
+      "crawled_at": "2026-05-25T02:14:44.043964"
     },
     {
       "source": "wired",
@@ -269,7 +270,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.283357"
+      "crawled_at": "2026-05-25T02:14:44.157908"
     },
     {
       "source": "wired",
@@ -281,7 +282,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.283404"
+      "crawled_at": "2026-05-25T02:14:44.157962"
     },
     {
       "source": "wired",
@@ -294,7 +295,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-24T18:59:27.283434"
+      "crawled_at": "2026-05-25T02:14:44.157995"
     },
     {
       "source": "wired",
@@ -304,7 +305,7 @@
       "published": "Sun, 24 May 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.283460"
+      "crawled_at": "2026-05-25T02:14:44.158023"
     },
     {
       "source": "wired",
@@ -316,7 +317,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-24T18:59:27.283500"
+      "crawled_at": "2026-05-25T02:14:44.158065"
     }
   ]
 }
