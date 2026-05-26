@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T02:05:42.110216",
+  "last_updated": "2026-05-26T09:33:08.605991",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.204284"
+      "crawled_at": "2026-05-26T09:33:06.901851"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.204340"
+      "crawled_at": "2026-05-26T09:33:06.901900"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.204371"
+      "crawled_at": "2026-05-26T09:33:06.901931"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-26T02:05:41.204407"
+      "crawled_at": "2026-05-26T09:33:06.901967"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.204441"
+      "crawled_at": "2026-05-26T09:33:06.902001"
+    },
+    {
+      "source": "theverge",
+      "title": "A battery-powered Starlink Mini is likely on the way",
+      "summary": "Code in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responders, and anyone who wants fast, low-latency internet from al",
+      "link": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "published": "2026-05-26T04:55:51-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-26T09:33:07.160333"
     },
     {
       "source": "theverge",
@@ -79,7 +91,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.415465"
+      "crawled_at": "2026-05-26T09:33:07.160417"
     },
     {
       "source": "theverge",
@@ -92,7 +104,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.415537"
+      "crawled_at": "2026-05-26T09:33:07.160469"
     },
     {
       "source": "theverge",
@@ -106,7 +118,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.415574"
+      "crawled_at": "2026-05-26T09:33:07.160506"
     },
     {
       "source": "theverge",
@@ -118,88 +130,75 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.415617"
+      "crawled_at": "2026-05-26T09:33:07.160550"
     },
     {
-      "source": "theverge",
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered wa",
-      "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "published": "2026-05-25T11:05:07-04:00",
+      "source": "hackernews",
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 78\n# Comments: 20",
+      "link": "https://dynip.dev/",
+      "published": "Tue, 26 May 2026 07:35:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-26T09:33:08.313877"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125\n\nComments URL: https://news.ycombinator.com/item?id=48275508\nPoints: 100\n# Comments: 63",
+      "link": "https://news.ycombinator.com/item?id=48275508",
+      "published": "Tue, 26 May 2026 05:49:35 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.415661"
+      "crawled_at": "2026-05-26T09:33:08.313918"
     },
     {
       "source": "hackernews",
-      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 64\n# Comments: 22",
-      "link": "https://support.apple.com/en-us/127115",
-      "published": "Mon, 25 May 2026 23:40:40 +0000",
+      "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
+      "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 7\n# Comments: 1",
+      "link": "https://github.com/andreoliwa/logseq-doctor",
+      "published": "Tue, 26 May 2026 05:43:25 +0000",
       "keywords": [
-        "Claude",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.740098"
-    },
-    {
-      "source": "hackernews",
-      "title": "Performance of Rust Language [pdf]",
-      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 11\n# Comments: 1",
-      "link": "https://github.com/yugr/rust-slides/",
-      "published": "Mon, 25 May 2026 23:37:31 +0000",
-      "keywords": [
-        "Rust",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-05-26T02:05:41.740133"
+      "category": "Tech News",
+      "crawled_at": "2026-05-26T09:33:08.313958"
     },
     {
       "source": "hackernews",
-      "title": "Nobody cracks open a programming book anymore",
-      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 88\n# Comments: 112",
-      "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "published": "Mon, 25 May 2026 23:21:57 +0000",
+      "title": "The User Is Visibly Frustrated",
+      "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 139\n# Comments: 110",
+      "link": "https://pscanf.com/s/354/",
+      "published": "Tue, 26 May 2026 04:39:03 +0000",
       "keywords": [
+        "Rust",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-05-26T02:05:41.740163"
+      "crawled_at": "2026-05-26T09:33:08.313985"
     },
     {
       "source": "hackernews",
-      "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 141\n# Comments: 43",
-      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "published": "Mon, 25 May 2026 23:16:59 +0000",
+      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 134\n# Comments: 72",
+      "link": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "published": "Tue, 26 May 2026 03:56:09 +0000",
       "keywords": [
-        "AI",
-        "AWS",
+        "Go",
+        "Google",
+        "Amazon",
+        "5G",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.740190"
-    },
-    {
-      "source": "hackernews",
-      "title": "Every Frontier AI Is INTJ",
-      "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/\nComments URL: https://news.ycombinator.com/item?id=48272755\nPoints: 15\n# Comments: 5",
-      "link": "https://zonted.com/posts/every-ai-is-intj/",
-      "published": "Mon, 25 May 2026 22:43:16 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.740214"
+      "category": "Programming",
+      "crawled_at": "2026-05-26T09:33:08.314017"
     },
     {
       "source": "arstechnica",
@@ -212,7 +211,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-26T02:05:41.901374"
+      "crawled_at": "2026-05-26T09:33:08.488318"
     },
     {
       "source": "arstechnica",
@@ -222,7 +221,7 @@
       "published": "Mon, 25 May 2026 12:00:15 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.901411"
+      "crawled_at": "2026-05-26T09:33:08.488358"
     },
     {
       "source": "arstechnica",
@@ -234,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.901452"
+      "crawled_at": "2026-05-26T09:33:08.488401"
     },
     {
       "source": "arstechnica",
@@ -244,7 +243,7 @@
       "published": "Sun, 24 May 2026 11:15:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.901480"
+      "crawled_at": "2026-05-26T09:33:08.488431"
     },
     {
       "source": "arstechnica",
@@ -256,7 +255,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:41.901539"
+      "crawled_at": "2026-05-26T09:33:08.488467"
+    },
+    {
+      "source": "wired",
+      "title": "Cearvol’s Wave Design Fights Off Hearing Loss and Aging Stigma",
+      "summary": "Cearvol’s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
+      "link": "https://www.wired.com/review/review-cearvol-wave-lite/",
+      "published": "Tue, 26 May 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-26T09:33:08.605676"
     },
     {
       "source": "wired",
@@ -268,7 +280,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:42.109963"
+      "crawled_at": "2026-05-26T09:33:08.605722"
     },
     {
       "source": "wired",
@@ -278,7 +290,7 @@
       "published": "Mon, 25 May 2026 17:32:55 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:42.110015"
+      "crawled_at": "2026-05-26T09:33:08.605761"
     },
     {
       "source": "wired",
@@ -291,7 +303,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-26T02:05:42.110046"
+      "crawled_at": "2026-05-26T09:33:08.605791"
     },
     {
       "source": "wired",
@@ -303,20 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:42.110083"
-    },
-    {
-      "source": "wired",
-      "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
-      "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
-      "link": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
-      "published": "Mon, 25 May 2026 13:38:18 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-26T02:05:42.110116"
+      "crawled_at": "2026-05-26T09:33:08.605828"
     }
   ]
 }
