@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T02:04:26.598128",
+  "last_updated": "2026-05-29T09:32:58.799163",
   "news_count": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "published": "Fri, 29 May 2026 01:22:16 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:22.681189"
+      "crawled_at": "2026-05-29T09:32:55.978883"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:22.681236"
+      "crawled_at": "2026-05-29T09:32:55.978931"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:22.681266"
+      "crawled_at": "2026-05-29T09:32:55.978961"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-29T02:04:22.681298"
+      "crawled_at": "2026-05-29T09:32:55.978993"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:22.681325"
+      "crawled_at": "2026-05-29T09:32:55.979020"
+    },
+    {
+      "source": "theverge",
+      "title": "Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor",
+      "summary": "While Blue Origin investigates the root cause behind last night's spectacular explosion of its New Glenn rocket, it's already clear that this will be a major setback for NASA's Moon base plans and Amazon's fledgling Leo space internet constellation. The incident occurred at about 9pm at Blue Origin'",
+      "link": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
+      "published": "2026-05-29T04:03:45-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-29T09:32:56.069528"
     },
     {
       "source": "theverge",
@@ -82,7 +95,7 @@
         "Gaming"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-29T02:04:22.821672"
+      "crawled_at": "2026-05-29T09:32:56.069600"
     },
     {
       "source": "theverge",
@@ -96,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:22.821716"
+      "crawled_at": "2026-05-29T09:32:56.069639"
     },
     {
       "source": "theverge",
@@ -109,7 +122,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:22.821760"
+      "crawled_at": "2026-05-29T09:32:56.069681"
     },
     {
       "source": "theverge",
@@ -122,82 +135,89 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:22.821813"
+      "crawled_at": "2026-05-29T09:32:56.069732"
     },
     {
-      "source": "theverge",
-      "title": "The line between games and movies keeps getting blurrier",
-      "summary": "The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a way that feels disconnected from the story itself and at a plodding pace. But First Light does somethi",
-      "link": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games",
-      "published": "2026-05-28T14:03:51-04:00",
+      "source": "hackernews",
+      "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+      "summary": "Article URL: https://www.phoronix.com/review/cache-aware-scheduling-hedt\nComments URL: https://news.ycombinator.com/item?id=48320639\nPoints: 5\n# Comments: 0",
+      "link": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+      "published": "Fri, 29 May 2026 08:36:32 +0000",
       "keywords": [
+        "SQL",
+        "PostgreSQL",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:22.821857"
+      "crawled_at": "2026-05-29T09:32:58.604934"
     },
     {
       "source": "hackernews",
-      "title": "Where are the economies of scale in homebuilding?",
-      "summary": "Article URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale\nComments URL: https://news.ycombinator.com/item?id=48317339\nPoints: 12\n# Comments: 1",
-      "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "published": "Fri, 29 May 2026 00:16:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.296502"
-    },
-    {
-      "source": "hackernews",
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 8\n# Comments: 2",
-      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "published": "Fri, 29 May 2026 00:09:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.296549"
-    },
-    {
-      "source": "hackernews",
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\nComments URL: https://news.ycombinator.com/item?id=48317093\nPoints: 72\n# Comments: 20",
-      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "published": "Thu, 28 May 2026 23:42:47 +0000",
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/\nComments URL: https://news.ycombinator.com/item?id=48319968\nPoints: 36\n# Comments: 37",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "published": "Fri, 29 May 2026 07:05:31 +0000",
       "keywords": [
         "AI",
-        "AWS",
-        "Startup",
+        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.296604"
+      "crawled_at": "2026-05-29T09:32:58.604977"
     },
     {
       "source": "hackernews",
-      "title": "Garnix (A Nix CI) is shutting down",
-      "summary": "Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895\nComments URL: https://news.ycombinator.com/item?id=48317043\nPoints: 32\n# Comments: 12",
-      "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "published": "Thu, 28 May 2026 23:36:41 +0000",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "summary": "Article URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\nComments URL: https://news.ycombinator.com/item?id=48319509\nPoints: 144\n# Comments: 69",
+      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "published": "Fri, 29 May 2026 05:45:36 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-29T09:32:58.605015"
+    },
+    {
+      "source": "hackernews",
+      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "summary": "Article URL: https://github.com/HeidiSQL/HeidiSQL\nComments URL: https://news.ycombinator.com/item?id=48318568\nPoints: 14\n# Comments: 3",
+      "link": "https://github.com/HeidiSQL/HeidiSQL",
+      "published": "Fri, 29 May 2026 03:14:39 +0000",
+      "keywords": [
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-29T09:32:58.605061"
+    },
+    {
+      "source": "hackernews",
+      "title": "Let's compile Quake like it's 1997",
+      "summary": "Article URL: https://fabiensanglard.net/compile_like_1997/\nComments URL: https://news.ycombinator.com/item?id=48318522\nPoints: 21\n# Comments: 7",
+      "link": "https://fabiensanglard.net/compile_like_1997/",
+      "published": "Fri, 29 May 2026 03:07:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.296645"
+      "crawled_at": "2026-05-29T09:32:58.605094"
     },
     {
-      "source": "hackernews",
-      "title": "The Silent Critic",
-      "summary": "Article URL: https://www.tft.io/the-silent-critic/\nComments URL: https://news.ycombinator.com/item?id=48316958\nPoints: 8\n# Comments: 2",
-      "link": "https://www.tft.io/the-silent-critic/",
-      "published": "Thu, 28 May 2026 23:25:51 +0000",
+      "source": "arstechnica",
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "summary": "New Glenn was due to play a starring role in NASA's Artemis Program.",
+      "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "published": "Fri, 29 May 2026 02:21:08 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.296677"
+      "category": "Mobile",
+      "crawled_at": "2026-05-29T09:32:58.698966"
     },
     {
       "source": "arstechnica",
@@ -209,7 +229,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.458495"
+      "crawled_at": "2026-05-29T09:32:58.699001"
     },
     {
       "source": "arstechnica",
@@ -222,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.458527"
+      "crawled_at": "2026-05-29T09:32:58.699026"
     },
     {
       "source": "arstechnica",
@@ -234,7 +254,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.458552"
+      "crawled_at": "2026-05-29T09:32:58.699048"
     },
     {
       "source": "arstechnica",
@@ -246,86 +266,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.458579"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Researchers develop a new process to get lithium out of rocks",
-      "summary": "If it scales up, it can help us diversify our sources of a key element.",
-      "link": "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
-      "published": "Thu, 28 May 2026 19:30:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.458606"
+      "crawled_at": "2026-05-29T09:32:58.699075"
     },
     {
       "source": "wired",
-      "title": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
-      "summary": "Claims about low testosterone and false accusations of veganism might play well to the online far right, but will they win an election?",
-      "link": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
-      "published": "Thu, 28 May 2026 23:49:53 +0000",
+      "title": "AirDoctor Coupon Codes: 40% Off | June 2026",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for May 2026.",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "published": "Fri, 29 May 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.597862"
+      "crawled_at": "2026-05-29T09:32:58.798979"
     },
     {
       "source": "wired",
-      "title": "The $6 Billion Chinese Startup Trying to Build Hands for Every Robot",
-      "summary": "LinkerBot makes dexterous robotic hands for as little as $600. It wants to become the standard for humanoids and automated factories—and eventually replace human labor altogether.",
-      "link": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
-      "published": "Thu, 28 May 2026 19:14:31 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-05-29T02:04:26.597910"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook",
-      "summary": "Meta’s upcoming Instagram Plus and Facebook Plus subscriptions are the latest example of the company seeing what works elsewhere and mimicking it.",
-      "link": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
-      "published": "Thu, 28 May 2026 19:09:17 +0000",
+      "title": "Meta Quest Promo Codes and Coupons for June 2026",
+      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published": "Fri, 29 May 2026 05:00:00 +0000",
       "keywords": [
         "AI",
         "Meta",
-        "AR"
+        "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.597944"
+      "crawled_at": "2026-05-29T09:32:58.799008"
     },
     {
       "source": "wired",
-      "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
-      "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
-      "link": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
-      "published": "Thu, 28 May 2026 16:59:33 +0000",
+      "title": "Target Promo Code: $50 Off | June 2026",
+      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+      "link": "https://www.wired.com/story/target-promo-code/",
+      "published": "Fri, 29 May 2026 05:00:00 +0000",
       "keywords": [
-        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-29T09:32:58.799031"
+    },
+    {
+      "source": "wired",
+      "title": "eBay Coupons: 20% Off in June 2026",
+      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+      "link": "https://www.wired.com/story/ebay-coupon-code/",
+      "published": "Fri, 29 May 2026 05:00:00 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-29T02:04:26.597990"
+      "crawled_at": "2026-05-29T09:32:58.799059"
     },
     {
       "source": "wired",
-      "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
-      "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-      "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
-      "published": "Thu, 28 May 2026 15:00:00 +0000",
+      "title": "Bartesian Discount Codes: 35% Off",
+      "summary": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "link": "https://www.wired.com/story/bartesian-discount-code/",
+      "published": "Fri, 29 May 2026 05:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-29T02:04:26.598017"
+      "crawled_at": "2026-05-29T09:32:58.799084"
     }
   ]
 }
