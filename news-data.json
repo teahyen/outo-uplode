@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-05-30T01:59:10.445671",
+  "last_updated": "2026-05-30T08:14:42.558807",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+      "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+      "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+      "published": "Sat, 30 May 2026 02:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-30T08:14:40.828441"
+    },
     {
       "source": "techcrunch",
       "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
@@ -12,7 +27,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:07.741123"
+      "crawled_at": "2026-05-30T08:14:40.828508"
     },
     {
       "source": "techcrunch",
@@ -26,7 +41,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-30T01:59:07.741174"
+      "crawled_at": "2026-05-30T08:14:40.828544"
     },
     {
       "source": "techcrunch",
@@ -39,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:07.741237"
+      "crawled_at": "2026-05-30T08:14:40.828579"
     },
     {
       "source": "techcrunch",
@@ -52,20 +67,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:07.741272"
-    },
-    {
-      "source": "techcrunch",
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs i",
-      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "published": "Fri, 29 May 2026 17:57:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:07.741336"
+      "crawled_at": "2026-05-30T08:14:40.828610"
     },
     {
       "source": "theverge",
@@ -79,7 +81,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-30T01:59:07.884309"
+      "crawled_at": "2026-05-30T08:14:40.887986"
     },
     {
       "source": "theverge",
@@ -92,7 +94,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:07.884391"
+      "crawled_at": "2026-05-30T08:14:40.888090"
     },
     {
       "source": "theverge",
@@ -104,7 +106,7 @@
         "Linux"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-05-30T01:59:07.884448"
+      "crawled_at": "2026-05-30T08:14:40.888146"
     },
     {
       "source": "theverge",
@@ -118,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:07.884482"
+      "crawled_at": "2026-05-30T08:14:40.888178"
     },
     {
       "source": "theverge",
@@ -130,67 +132,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:07.884538"
+      "crawled_at": "2026-05-30T08:14:40.888232"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "summary": "Article URL: https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released\nComments URL: https://news.ycombinator.com/item?id=48333096\nPoints: 6\n# Comments: 0",
+      "link": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+      "published": "Sat, 30 May 2026 06:00:32 +0000",
+      "keywords": [
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-30T08:14:42.367303"
+    },
+    {
+      "source": "hackernews",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "summary": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 79\n# Comments: 62",
+      "link": "https://www.perryts.com/",
+      "published": "Sat, 30 May 2026 03:14:25 +0000",
+      "keywords": [
+        "TypeScript",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-05-30T08:14:42.367339"
+    },
+    {
+      "source": "hackernews",
+      "title": "Naphtha shortages in Japan",
+      "summary": "Article URL: https://www.nippon.com/en/japan-data/h02783/\nComments URL: https://news.ycombinator.com/item?id=48331786\nPoints: 104\n# Comments: 63",
+      "link": "https://www.nippon.com/en/japan-data/h02783/",
+      "published": "Sat, 30 May 2026 02:20:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-30T08:14:42.367372"
     },
     {
       "source": "hackernews",
       "title": "Ember.js 7.0",
-      "summary": "Article URL: https://blog.emberjs.com/ember-released-7-0/\nComments URL: https://news.ycombinator.com/item?id=48330902\nPoints: 10\n# Comments: 2",
+      "summary": "Article URL: https://blog.emberjs.com/ember-released-7-0/\nComments URL: https://news.ycombinator.com/item?id=48330902\nPoints: 64\n# Comments: 14",
       "link": "https://blog.emberjs.com/ember-released-7-0/",
       "published": "Fri, 29 May 2026 23:57:45 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.172008"
+      "crawled_at": "2026-05-30T08:14:42.367403"
     },
     {
       "source": "hackernews",
       "title": "What Is a Dickover?",
-      "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 91\n# Comments: 34",
+      "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 309\n# Comments: 119",
       "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
       "published": "Fri, 29 May 2026 23:54:22 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.172051"
-    },
-    {
-      "source": "hackernews",
-      "title": "MCP is dead?",
-      "summary": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead\nComments URL: https://news.ycombinator.com/item?id=48330436\nPoints: 79\n# Comments: 67",
-      "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "published": "Fri, 29 May 2026 22:56:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.172085"
-    },
-    {
-      "source": "hackernews",
-      "title": "Free full BGP feed. IPv4 and IPv6",
-      "summary": "Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/\nComments URL: https://news.ycombinator.com/item?id=48330088\nPoints: 23\n# Comments: 7",
-      "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "published": "Fri, 29 May 2026 22:21:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.172118"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Last Technical Interview",
-      "summary": "Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564\nComments URL: https://news.ycombinator.com/item?id=48328405\nPoints: 51\n# Comments: 17",
-      "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "published": "Fri, 29 May 2026 19:58:56 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.172153"
+      "crawled_at": "2026-05-30T08:14:42.367434"
     },
     {
       "source": "arstechnica",
@@ -202,7 +206,7 @@
         "Funding"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-30T01:59:10.311542"
+      "crawled_at": "2026-05-30T08:14:42.463082"
     },
     {
       "source": "arstechnica",
@@ -212,7 +216,7 @@
       "published": "Fri, 29 May 2026 21:17:09 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.311586"
+      "crawled_at": "2026-05-30T08:14:42.463116"
     },
     {
       "source": "arstechnica",
@@ -222,7 +226,7 @@
       "published": "Fri, 29 May 2026 18:46:33 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-05-30T01:59:10.311615"
+      "crawled_at": "2026-05-30T08:14:42.463144"
     },
     {
       "source": "arstechnica",
@@ -232,7 +236,7 @@
       "published": "Fri, 29 May 2026 18:35:38 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.311645"
+      "crawled_at": "2026-05-30T08:14:42.463172"
     },
     {
       "source": "arstechnica",
@@ -245,7 +249,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:10.311668"
+      "crawled_at": "2026-05-30T08:14:42.463193"
     },
     {
       "source": "wired",
@@ -257,7 +261,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-30T01:59:10.445383"
+      "crawled_at": "2026-05-30T08:14:42.558591"
     },
     {
       "source": "wired",
@@ -272,7 +276,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:10.445429"
+      "crawled_at": "2026-05-30T08:14:42.558630"
     },
     {
       "source": "wired",
@@ -287,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:10.445469"
+      "crawled_at": "2026-05-30T08:14:42.558666"
     },
     {
       "source": "wired",
@@ -301,7 +305,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:10.445505"
+      "crawled_at": "2026-05-30T08:14:42.558700"
     },
     {
       "source": "wired",
@@ -316,7 +320,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-30T01:59:10.445538"
+      "crawled_at": "2026-05-30T08:14:42.558731"
     }
   ]
 }
