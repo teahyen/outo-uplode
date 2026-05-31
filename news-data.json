@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-05-31T08:32:39.679374",
+  "last_updated": "2026-05-31T13:11:11.077431",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "link": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "published": "Sun, 31 May 2026 13:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-31T13:11:09.302726"
+    },
     {
       "source": "techcrunch",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -13,7 +25,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-31T08:32:38.949779"
+      "crawled_at": "2026-05-31T13:11:09.302767"
     },
     {
       "source": "techcrunch",
@@ -25,7 +37,7 @@
         "REST"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:38.949841"
+      "crawled_at": "2026-05-31T13:11:09.302802"
     },
     {
       "source": "techcrunch",
@@ -35,7 +47,7 @@
       "published": "Sat, 30 May 2026 17:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:38.949877"
+      "crawled_at": "2026-05-31T13:11:09.302851"
     },
     {
       "source": "techcrunch",
@@ -51,21 +63,46 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-31T08:32:38.949913"
+      "crawled_at": "2026-05-31T13:11:09.302886"
     },
     {
-      "source": "techcrunch",
-      "title": "Meta is reportedly developing an AI pendant",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "published": "Sat, 30 May 2026 15:59:58 +0000",
+      "source": "theverge",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought ev",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "published": "2026-05-31T09:00:00-04:00",
       "keywords": [
         "AI",
-        "Meta",
+        "Crypto",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-31T08:32:38.949934"
+      "crawled_at": "2026-05-31T13:11:09.443705"
+    },
+    {
+      "source": "theverge",
+      "title": "User-replaceable batteries are coming back in a big way",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about gadgets and smartphones, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2023, the European Union a",
+      "link": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation",
+      "published": "2026-05-31T08:00:00-04:00",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-31T13:11:09.443768"
+    },
+    {
+      "source": "theverge",
+      "title": "The Mercedes CLA offers great EV specs for an average price",
+      "summary": "Despite headwinds from the current administration, automakers continue to release well-equipped EVs with bigger battery packs and increasingly faster charging speeds. For those who want to travel further between plugging in, the future is still bright, just slightly tinted. But there haven't been ma",
+      "link": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
+      "published": "2026-05-31T07:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-31T13:11:09.443835"
     },
     {
       "source": "theverge",
@@ -77,7 +114,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.026032"
+      "crawled_at": "2026-05-31T13:11:09.443883"
     },
     {
       "source": "theverge",
@@ -89,59 +126,55 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-05-31T08:32:39.026086"
+      "crawled_at": "2026-05-31T13:11:09.443930"
     },
     {
-      "source": "theverge",
-      "title": "Microsoft is threatening legal action for disclosing exploits",
-      "summary": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security r",
-      "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
-      "published": "2026-05-30T11:19:50-04:00",
-      "keywords": [
-        "Go",
-        "Security",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-05-31T08:32:39.026126"
-    },
-    {
-      "source": "theverge",
-      "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
-      "summary": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.99 ($520 off) — its best price of the year — while S",
-      "link": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
-      "published": "2026-05-30T11:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-05-31T08:32:39.026169"
-    },
-    {
-      "source": "theverge",
-      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
-      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you. Here's the new Steam Controller performing the \"Ground Theme\" from Super Mario Bros. 2: Here is \"Still Alive\" from Portal - fitting for [",
-      "link": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
-      "published": "2026-05-30T10:02:51-04:00",
+      "source": "hackernews",
+      "title": "Backpressure is all you need",
+      "summary": "Article URL: https://www.lucasfcosta.com/blog/backpressure-is-all-you-need\nComments URL: https://news.ycombinator.com/item?id=48345090\nPoints: 12\n# Comments: 6",
+      "link": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "published": "Sun, 31 May 2026 12:11:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.026210"
+      "crawled_at": "2026-05-31T13:11:10.777270"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dav2d",
+      "summary": "Article URL: https://jbkempf.com/blog/2026/dav2d/\nComments URL: https://news.ycombinator.com/item?id=48344961\nPoints: 96\n# Comments: 19",
+      "link": "https://jbkempf.com/blog/2026/dav2d/",
+      "published": "Sun, 31 May 2026 11:44:45 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-31T13:11:10.777310"
+    },
+    {
+      "source": "hackernews",
+      "title": "London's Free Roof Terraces",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html\nComments URL: https://news.ycombinator.com/item?id=48343714\nPoints: 129\n# Comments: 53",
+      "link": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "published": "Sun, 31 May 2026 07:16:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-05-31T13:11:10.777348"
     },
     {
       "source": "hackernews",
       "title": "The Website Specification",
-      "summary": "Article URL: https://specification.website/\nComments URL: https://news.ycombinator.com/item?id=48343683\nPoints: 76\n# Comments: 21",
+      "summary": "Article URL: https://specification.website/\nComments URL: https://news.ycombinator.com/item?id=48343683\nPoints: 248\n# Comments: 98",
       "link": "https://specification.website/",
       "published": "Sun, 31 May 2026 07:09:50 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.473282"
+      "crawled_at": "2026-05-31T13:11:10.777381"
     },
     {
       "source": "hackernews",
@@ -153,45 +186,32 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.473323"
+      "crawled_at": "2026-05-31T13:11:10.777416"
     },
     {
-      "source": "hackernews",
-      "title": "The ~500kB NBSDGames 6 managed to be published ahead of GTA 6",
-      "summary": "Article URL: https://github.com/abakh/nbsdgames/releases\nComments URL: https://news.ycombinator.com/item?id=48343445\nPoints: 5\n# Comments: 1",
-      "link": "https://github.com/abakh/nbsdgames/releases",
-      "published": "Sun, 31 May 2026 06:18:28 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.473358"
-    },
-    {
-      "source": "hackernews",
-      "title": "Avian Visitors",
-      "summary": "Article URL: https://theodore.net/projects/AvianVisitors/\nComments URL: https://news.ycombinator.com/item?id=48343424\nPoints: 23\n# Comments: 0",
-      "link": "https://theodore.net/projects/AvianVisitors/",
-      "published": "Sun, 31 May 2026 06:13:59 +0000",
+      "source": "arstechnica",
+      "title": "On its 40th anniversary, we reassess 1986's SpaceCamp",
+      "summary": "Is it a hidden gem, a cult classic, or hopelessly dumb? We vote \"all of the above.\"",
+      "link": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+      "published": "Sun, 31 May 2026 11:15:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.473389"
+      "crawled_at": "2026-05-31T13:11:10.910452"
     },
     {
-      "source": "hackernews",
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "summary": "Article URL: https://arxiv.org/abs/1709.08492\nComments URL: https://news.ycombinator.com/item?id=48343287\nPoints: 22\n# Comments: 0",
-      "link": "https://arxiv.org/abs/1709.08492",
-      "published": "Sun, 31 May 2026 05:30:18 +0000",
+      "source": "arstechnica",
+      "title": "They call it stupid hot for a reason: Heat muddles animal brains",
+      "summary": "As temperatures rise, some creatures pick fights while others struggle to learn.",
+      "link": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
+      "published": "Sun, 31 May 2026 10:00:07 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.473422"
+      "category": "AI/ML",
+      "crawled_at": "2026-05-31T13:11:10.910483"
     },
     {
       "source": "arstechnica",
@@ -201,7 +221,7 @@
       "published": "Sat, 30 May 2026 11:00:05 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.568092"
+      "crawled_at": "2026-05-31T13:11:10.910514"
     },
     {
       "source": "arstechnica",
@@ -213,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.568129"
+      "crawled_at": "2026-05-31T13:11:10.910547"
     },
     {
       "source": "arstechnica",
@@ -225,90 +245,72 @@
         "Funding"
       ],
       "category": "Startup",
-      "crawled_at": "2026-05-31T08:32:39.568158"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
-      "summary": "The US has previously built specialized facilities just for this purpose.",
-      "link": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
-      "published": "Fri, 29 May 2026 21:17:09 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.568186"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Botnet of more than 17 million devices dismantled",
-      "summary": "The botnet was reportedly tied to a Russia-based residential proxy network.",
-      "link": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-      "published": "Fri, 29 May 2026 18:46:33 +0000",
-      "keywords": [],
-      "category": "Hardware",
-      "crawled_at": "2026-05-31T08:32:39.568211"
+      "crawled_at": "2026-05-31T13:11:10.910575"
     },
     {
       "source": "wired",
-      "title": "Keychron K2 HE Concrete Edition Review: Rock-Solid Typing",
-      "summary": "Keychron's K2 HE Concrete Edition sounds like a cute gimmick, but as I discovered, there's a really solid keyboard beyond the absurd choice of materials.",
-      "link": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
-      "published": "Sat, 30 May 2026 11:00:00 +0000",
+      "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
+      "summary": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
+      "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
+      "published": "Sun, 31 May 2026 11:01:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.679152"
-    },
-    {
-      "source": "wired",
-      "title": "‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth",
-      "summary": "Kane Parsons was just 16 years old when he created a viral YouTube horror series based on a 4chan meme. Now he’s ready to conquer the big screen.",
-      "link": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
-      "published": "Sat, 30 May 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.679203"
-    },
-    {
-      "source": "wired",
-      "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-      "summary": "With inflation and gas prices rising, I’m trying to save money wherever I can. I tested Tello’s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
-      "link": "https://www.wired.com/review/tello-mobile-custom-plans/",
-      "published": "Sat, 30 May 2026 10:39:00 +0000",
-      "keywords": [
-        "AI",
-        "Go"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-31T08:32:39.679237"
+      "crawled_at": "2026-05-31T13:11:11.077201"
     },
     {
       "source": "wired",
-      "title": "Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow",
-      "summary": "Plus: A ransomware group is now stealing data in person, BusPatrol wants to hand its license plate surveillance data to the cops, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-      "published": "Sat, 30 May 2026 10:30:00 +0000",
+      "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
+      "summary": "Find out whether a single Wi-Fi router or a mesh system makes the most sense for your home network.",
+      "link": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
+      "published": "Sun, 31 May 2026 10:34:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-05-31T13:11:11.077243"
+    },
+    {
+      "source": "wired",
+      "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+      "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi.",
+      "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+      "published": "Sun, 31 May 2026 10:01:00 +0000",
       "keywords": [
         "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-05-31T13:11:11.077270"
+    },
+    {
+      "source": "wired",
+      "title": "Best Unlimited Phone Plan: T-Mobile, AT&T, Verizon Compared",
+      "summary": "I sifted through the fine print and figured out how to score the best deal right now on all the major carriers.",
+      "link": "https://www.wired.com/story/best-unlimited-phone-plans/",
+      "published": "Sun, 31 May 2026 09:31:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-05-31T13:11:11.077298"
+    },
+    {
+      "source": "wired",
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+      "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "published": "Sun, 31 May 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Machine Learning",
         "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-05-31T08:32:39.679269"
-    },
-    {
-      "source": "wired",
-      "title": "Quilts Are Better Than Sleeping Bags",
-      "summary": "Tired of sleeping like a mummy in a bag? Improve your backcountry sleep and carry less weight with an ultralight quilt.",
-      "link": "https://www.wired.com/story/quilts-are-better-than-sleeping-bags/",
-      "published": "Sat, 30 May 2026 10:04:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-05-31T08:32:39.679298"
+      "crawled_at": "2026-05-31T13:11:11.077337"
     }
   ]
 }
