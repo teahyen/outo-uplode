@@ -1,221 +1,269 @@
 {
-  "last_updated": "2026-06-01T17:14:34.237841",
+  "last_updated": "2026-06-01T21:19:39.288659",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
-      "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
-      "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
-      "published": "Mon, 01 Jun 2026 16:42:22 +0000",
+      "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+      "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+      "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+      "published": "Mon, 01 Jun 2026 20:26:08 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-01T21:19:38.657936"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
       "keywords": [
         "AI",
-        "API",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AWS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.658011"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
+      "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "published": "Mon, 01 Jun 2026 18:34:32 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.658047"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "published": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "keywords": [
+        "IPO"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-06-01T21:19:38.658089"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "summary": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+      "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "published": "Mon, 01 Jun 2026 17:50:18 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.658114"
+    },
+    {
+      "source": "theverge",
+      "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+      "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint Martin, as reported earlie",
+      "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+      "published": "2026-06-01T16:59:14-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.725735"
+    },
+    {
+      "source": "theverge",
+      "title": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
+      "summary": "If you&#8217;re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you&#8217;ll be exploring on your own. The Pebblebee Halo combines those two gadgets into one, and it&#8217;s currently on sale for $49.99 ($10 off) at Amazon, which",
+      "link": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
+      "published": "2026-06-01T16:30:06-04:00",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-01T21:19:38.725807"
+    },
+    {
+      "source": "theverge",
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up un",
+      "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "published": "2026-06-01T16:02:31-04:00",
+      "keywords": [
+        "Apple",
+        "Windows",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-01T21:19:38.725861"
+    },
+    {
+      "source": "theverge",
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on ",
+      "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "published": "2026-06-01T16:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.725899"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The",
+      "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "published": "2026-06-01T15:20:47-04:00",
+      "keywords": [
+        "AI",
+        "Hack",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.378593"
+      "crawled_at": "2026-06-01T21:19:38.725950"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic files to go public",
-      "summary": "The company said Monday it has filed confidentially for an IPO.",
-      "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "source": "hackernews",
+      "title": "Alphabet Announces $80B Equity Capital Raise to Expand AI Infra and Compute",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx\nComments URL: https://news.ycombinator.com/item?id=48362515\nPoints: 18\n# Comments: 5",
+      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "published": "Mon, 01 Jun 2026 20:55:15 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
-        "Go",
-        "IPO"
+        "API",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.378624"
+      "crawled_at": "2026-06-01T21:19:38.951397"
     },
     {
-      "source": "techcrunch",
-      "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
-      "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
-      "link": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
-      "published": "Mon, 01 Jun 2026 16:09:56 +0000",
+      "source": "hackernews",
+      "title": "Debug Project",
+      "summary": "Article URL: https://debug.com/\nComments URL: https://news.ycombinator.com/item?id=48362347\nPoints: 10\n# Comments: 0",
+      "link": "https://debug.com/",
+      "published": "Mon, 01 Jun 2026 20:40:13 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:30.378964"
+      "crawled_at": "2026-06-01T21:19:38.951435"
     },
     {
-      "source": "techcrunch",
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-      "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "source": "hackernews",
+      "title": "GitHub and the crime against software",
+      "summary": "Article URL: https://eblog.fly.dev/githubbad.html\nComments URL: https://news.ycombinator.com/item?id=48361064\nPoints: 130\n# Comments: 45",
+      "link": "https://eblog.fly.dev/githubbad.html",
+      "published": "Mon, 01 Jun 2026 18:54:55 +0000",
       "keywords": [
         "AI",
-        "Go",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.951461"
+    },
+    {
+      "source": "hackernews",
+      "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
+      "summary": "Article URL: https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo\nComments URL: https://news.ycombinator.com/item?id=48360933\nPoints: 38\n# Comments: 7",
+      "link": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
+      "published": "Mon, 01 Jun 2026 18:44:09 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AWS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:38.951494"
+    },
+    {
+      "source": "hackernews",
+      "title": "GrapheneOS Speech Services version 2 released",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released\nComments URL: https://news.ycombinator.com/item?id=48360871\nPoints: 32\n# Comments: 7",
+      "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+      "published": "Mon, 01 Jun 2026 18:39:53 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T21:19:38.951531"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+      "summary": "Even Danish researchers think it's bizarre.",
+      "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+      "published": "Mon, 01 Jun 2026 19:07:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T21:19:39.168994"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+      "summary": "Altman has an \"utter disregard\" for human lives, Florida AG says.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+      "published": "Mon, 01 Jun 2026 18:52:19 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:39.169024"
+    },
+    {
+      "source": "arstechnica",
+      "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+      "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+      "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+      "published": "Mon, 01 Jun 2026 17:41:47 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T21:19:39.169047"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+      "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+      "link": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+      "published": "Mon, 01 Jun 2026 17:17:55 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
         "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.379002"
-    },
-    {
-      "source": "techcrunch",
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "published": "Mon, 01 Jun 2026 14:49:10 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.379036"
-    },
-    {
-      "source": "theverge",
-      "title": "Anthropic has officially filed to go public",
-      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fu",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-      "published": "2026-06-01T12:40:38-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "IPO"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.486046"
-    },
-    {
-      "source": "theverge",
-      "title": "Sony’s new fight stick and gaming monitor launch in August",
-      "summary": "Sony is sharing new details about some of its upcoming gaming-focused hardware, including pricing and August launch dates for its FlexStrike fight stick and its 27-inch monitor. The FlexStrike fight stick will be available starting August 6th - the same day as the new PlayStation-published fighting ",
-      "link": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
-      "published": "2026-06-01T12:36:18-04:00",
-      "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.486124"
-    },
-    {
-      "source": "theverge",
-      "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-      "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn&#8217;t just feature the big tentpole shows; there will be a bunch of smaller events, too, and they might feature some promisin",
-      "link": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-      "published": "2026-06-01T11:30:00-04:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:30.486175"
-    },
-    {
-      "source": "theverge",
-      "title": "An affordable, long-lasting AirTag alternative is $15 right now",
-      "summary": "There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen’s FineTrack 2 glows in the dark, and it has a loud 110-decibel alarm when you need to find it. It’s ju",
-      "link": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
-      "published": "2026-06-01T11:24:32-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.486215"
-    },
-    {
-      "source": "theverge",
-      "title": "The next big career move for young Hollywood? Reading audio smut",
-      "summary": "Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has made it very clear that more than a few young people do, in fact, like their entertainment a [&#8230;]",
-      "link": "https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus",
-      "published": "2026-06-01T11:00:12-04:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:30.486246"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md\nComments URL: https://news.ycombinator.com/item?id=48359232\nPoints: 17\n# Comments: 3",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "published": "Mon, 01 Jun 2026 16:41:49 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:33.916428"
-    },
-    {
-      "source": "hackernews",
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/\nComments URL: https://news.ycombinator.com/item?id=48359130\nPoints: 109\n# Comments: 41",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "published": "Mon, 01 Jun 2026 16:33:59 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:33.916468"
-    },
-    {
-      "source": "hackernews",
-      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
-      "summary": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 115\n# Comments: 20",
-      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
-      "keywords": [
-        "Go",
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:33.916504"
-    },
-    {
-      "source": "hackernews",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "summary": "Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec\nComments URL: https://news.ycombinator.com/item?id=48358646\nPoints: 143\n# Comments: 92",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "published": "Mon, 01 Jun 2026 16:00:40 +0000",
-      "keywords": [
-        "Anthropic",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:33.916538"
-    },
-    {
-      "source": "hackernews",
-      "title": "Can You Stop a Hypersonic Missile?",
-      "summary": "Article URL: https://protortyp.github.io/posts/can-you-stop-a-hypersonic/\nComments URL: https://news.ycombinator.com/item?id=48358515\nPoints: 31\n# Comments: 19",
-      "link": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
-      "published": "Mon, 01 Jun 2026 15:51:30 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:33.916572"
+      "crawled_at": "2026-06-01T21:19:39.169069"
     },
     {
       "source": "arstechnica",
@@ -225,58 +273,23 @@
       "published": "Mon, 01 Jun 2026 17:02:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:34.073195"
+      "crawled_at": "2026-06-01T21:19:39.169094"
     },
     {
-      "source": "arstechnica",
-      "title": "ROG Xbox Ally X20 adds OLED screen, control upgrades",
-      "summary": "But the hardware refresh is tethered to a bundle with pricey AR glasses.",
-      "link": "https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/",
-      "published": "Mon, 01 Jun 2026 16:04:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-01T17:14:34.073230"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
-      "summary": "Nvidia's new chips will power laptop workstations and mini desktop PCs at first.",
-      "link": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
-      "published": "Mon, 01 Jun 2026 14:47:22 +0000",
-      "keywords": [
-        "Windows",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-01T17:14:34.073259"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-      "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
-      "link": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-      "published": "Mon, 01 Jun 2026 13:32:16 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:34.073281"
-    },
-    {
-      "source": "arstechnica",
-      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-      "summary": "I tried to explain OpenAI’s solution more clearly than OpenAI did.",
-      "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-      "published": "Mon, 01 Jun 2026 11:00:00 +0000",
+      "source": "wired",
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "published": "Mon, 01 Jun 2026 17:17:58 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "IPO",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:34.073309"
+      "crawled_at": "2026-06-01T21:19:39.288416"
     },
     {
       "source": "wired",
@@ -288,7 +301,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-06-01T17:14:34.237578"
+      "crawled_at": "2026-06-01T21:19:39.288455"
     },
     {
       "source": "wired",
@@ -298,7 +311,7 @@
       "published": "Mon, 01 Jun 2026 11:06:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:34.237637"
+      "crawled_at": "2026-06-01T21:19:39.288500"
     },
     {
       "source": "wired",
@@ -311,7 +324,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T17:14:34.237673"
+      "crawled_at": "2026-06-01T21:19:39.288533"
     },
     {
       "source": "wired",
@@ -323,19 +336,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:34.237716"
-    },
-    {
-      "source": "wired",
-      "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
-      "summary": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune.",
-      "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
-      "published": "Mon, 01 Jun 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T17:14:34.237754"
+      "crawled_at": "2026-06-01T21:19:39.288575"
     }
   ]
 }
