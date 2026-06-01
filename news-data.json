@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-06-01T02:36:25.096142",
+  "last_updated": "2026-06-01T11:06:38.472477",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+      "summary": "The Seoul-based rocket startup is developing its own launch vehicles and engines.",
+      "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T11:06:37.620508"
+    },
     {
       "source": "techcrunch",
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -12,7 +26,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.336156"
+      "crawled_at": "2026-06-01T11:06:37.620538"
     },
     {
       "source": "techcrunch",
@@ -24,7 +38,7 @@
         "REST"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.336205"
+      "crawled_at": "2026-06-01T11:06:37.620576"
     },
     {
       "source": "techcrunch",
@@ -38,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.336237"
+      "crawled_at": "2026-06-01T11:06:37.620605"
     },
     {
       "source": "techcrunch",
@@ -51,25 +65,53 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.336268"
+      "crawled_at": "2026-06-01T11:06:37.620634"
     },
     {
-      "source": "techcrunch",
-      "title": "Making sense of the debate over AI psychosis",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "published": "Sun, 31 May 2026 15:30:00 +0000",
+      "source": "theverge",
+      "title": "Asus just announced the OLED Xbox Ally X of my dreams",
+      "summary": "If you asked me what I'd change about the Xbox Ally X handheld - aside from fixing Windows, I mean - I'd tell you two key things. First, give me a bigger, better screen. Even a little bit bigger, so games feel less claustrophobic and with less ugly bezel. Second, get rid of the \"Library\" [&#8230;]",
+      "link": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
+      "published": "2026-06-01T06:00:00-04:00",
+      "keywords": [
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T11:06:37.751417"
+    },
+    {
+      "source": "theverge",
+      "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+      "summary": "Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying again. Microsoft and Nvidia have just announced the Surface Laptop Ultra, a computer with a new Arm-based",
+      "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "published": "2026-06-01T00:36:41-04:00",
       "keywords": [
         "AI",
+        "Microsoft",
+        "Windows",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.336292"
+      "crawled_at": "2026-06-01T11:06:37.751460"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+      "summary": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first in a family of chip",
+      "link": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "published": "2026-06-01T00:28:53-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-01T11:06:37.751517"
     },
     {
       "source": "theverge",
       "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
-      "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping pricetags (or no pricetags at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new pr",
+      "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise:",
       "link": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
       "published": "2026-05-31T20:00:00-04:00",
       "keywords": [
@@ -77,7 +119,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.459589"
+      "crawled_at": "2026-06-01T11:06:37.751558"
     },
     {
       "source": "theverge",
@@ -92,112 +134,70 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.459639"
-    },
-    {
-      "source": "theverge",
-      "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
-      "summary": "Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for back-to-school shopping; it'll start at $699 for every",
-      "link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
-      "published": "2026-05-31T19:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.459700"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple’s strategy for smart glasses is the same as smart watches",
-      "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and",
-      "link": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
-      "published": "2026-05-31T17:33:11-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.459743"
-    },
-    {
-      "source": "theverge",
-      "title": "How to watch Nvidia&#8217;s Computex keynote",
-      "summary": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a partnership with Microsoft a",
-      "link": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
-      "published": "2026-05-31T16:20:35-04:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.459775"
+      "crawled_at": "2026-06-01T11:06:37.751590"
     },
     {
       "source": "hackernews",
-      "title": "Chuwi Minibook X: the netbook we deserve",
-      "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/\nComments URL: https://news.ycombinator.com/item?id=48350598\nPoints: 96\n# Comments: 81",
-      "link": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "published": "Sun, 31 May 2026 22:59:50 +0000",
+      "title": "Why are large language models so terrible at video games?",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-video-games-llms-togelius\nComments URL: https://news.ycombinator.com/item?id=48354405\nPoints: 17\n# Comments: 20",
+      "link": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+      "published": "Mon, 01 Jun 2026 09:14:26 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T11:06:38.134511"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cessation of public development of Kefir C compiler",
+      "summary": "Article URL: https://kefir.protopopov.lv/posts/announce2.html\nComments URL: https://news.ycombinator.com/item?id=48354224\nPoints: 31\n# Comments: 2",
+      "link": "https://kefir.protopopov.lv/posts/announce2.html",
+      "published": "Mon, 01 Jun 2026 08:52:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.752055"
+      "crawled_at": "2026-06-01T11:06:38.134555"
     },
     {
       "source": "hackernews",
-      "title": "It's Not Just X. It's Y",
-      "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/\nComments URL: https://news.ycombinator.com/item?id=48350149\nPoints: 107\n# Comments: 89",
-      "link": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "published": "Sun, 31 May 2026 21:57:48 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.752094"
-    },
-    {
-      "source": "hackernews",
-      "title": "'Backrooms' Stuns with $81M Debut",
-      "summary": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/\nComments URL: https://news.ycombinator.com/item?id=48348864\nPoints: 160\n# Comments: 80",
-      "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-      "published": "Sun, 31 May 2026 19:27:44 +0000",
+      "title": "Blorp Language",
+      "summary": "Article URL: https://blorp-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48353694\nPoints: 8\n# Comments: 1",
+      "link": "https://blorp-lang.org/",
+      "published": "Mon, 01 Jun 2026 07:35:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.752136"
+      "crawled_at": "2026-06-01T11:06:38.134586"
     },
     {
       "source": "hackernews",
-      "title": "The History of \"Prisencolinensinainciusol\"",
-      "summary": "Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/\nComments URL: https://news.ycombinator.com/item?id=48348737\nPoints: 27\n# Comments: 8",
-      "link": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
-      "published": "Sun, 31 May 2026 19:14:23 +0000",
+      "title": "Rift: Better Alternative to Git Worktrees",
+      "summary": "Article URL: https://github.com/anomalyco/rift\nComments URL: https://news.ycombinator.com/item?id=48353427\nPoints: 43\n# Comments: 19",
+      "link": "https://github.com/anomalyco/rift",
+      "published": "Mon, 01 Jun 2026 06:53:27 +0000",
       "keywords": [
-        "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.752170"
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T11:06:38.134618"
     },
     {
       "source": "hackernews",
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "summary": "Article URL: https://twitter.com/i/status/2060746160558543217\nComments URL: https://news.ycombinator.com/item?id=48348578\nPoints: 390\n# Comments: 191",
-      "link": "https://twitter.com/i/status/2060746160558543217",
-      "published": "Sun, 31 May 2026 18:57:48 +0000",
+      "title": "A 10 year old Xeon is all you need",
+      "summary": "Article URL: https://point.free/blog/gemma-4-on-a-2016-xeon/\nComments URL: https://news.ycombinator.com/item?id=48353348\nPoints: 158\n# Comments: 61",
+      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "published": "Mon, 01 Jun 2026 06:38:42 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-06-01T02:36:24.752198"
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T11:06:38.134650"
     },
     {
       "source": "arstechnica",
@@ -209,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.946977"
+      "crawled_at": "2026-06-01T11:06:38.280424"
     },
     {
       "source": "arstechnica",
@@ -222,7 +222,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:24.947009"
+      "crawled_at": "2026-06-01T11:06:38.280454"
     },
     {
       "source": "arstechnica",
@@ -232,7 +232,7 @@
       "published": "Sat, 30 May 2026 11:00:05 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.947040"
+      "crawled_at": "2026-06-01T11:06:38.280484"
     },
     {
       "source": "arstechnica",
@@ -244,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:24.947072"
+      "crawled_at": "2026-06-01T11:06:38.280515"
     },
     {
       "source": "arstechnica",
@@ -256,70 +256,72 @@
         "Funding"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-01T02:36:24.947100"
+      "crawled_at": "2026-06-01T11:06:38.280541"
     },
     {
       "source": "wired",
-      "title": "Everyone Has Their Targets Set on the MacBook Neo",
-      "summary": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
-      "link": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
-      "published": "Sun, 31 May 2026 23:00:00 +0000",
-      "keywords": [
-        "Apple",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-01T02:36:25.095899"
-    },
-    {
-      "source": "wired",
-      "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
-      "summary": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
-      "link": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/",
-      "published": "Sun, 31 May 2026 11:01:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:25.095935"
-    },
-    {
-      "source": "wired",
-      "title": "Wi-Fi Router vs. Mesh System: Which Is Best for You?",
-      "summary": "Find out whether a single Wi-Fi router or a mesh system makes the most sense for your home network.",
-      "link": "https://www.wired.com/story/mesh-system-vs-wi-fi-router/",
-      "published": "Sun, 31 May 2026 10:34:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-06-01T02:36:25.095965"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
-      "summary": "Forget the pricey, postpaid cell plans and two-year contracts. Save with one of these WIRED-tested options from US Mobile, Boost, and Google Fi.",
-      "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
-      "published": "Sun, 31 May 2026 10:01:00 +0000",
+      "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+      "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
+      "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+      "published": "Mon, 01 Jun 2026 11:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-01T02:36:25.095990"
+      "crawled_at": "2026-06-01T11:06:38.472253"
     },
     {
       "source": "wired",
-      "title": "Best Unlimited Phone Plan: T-Mobile, AT&T, Verizon Compared",
-      "summary": "I sifted through the fine print and figured out how to score the best deal right now on all the major carriers.",
-      "link": "https://www.wired.com/story/best-unlimited-phone-plans/",
-      "published": "Sun, 31 May 2026 09:31:00 +0000",
+      "title": "‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
+      "summary": "Sellers of products with names like Boner Bears and DTF have voluntarily recalled their products after testing positive for the active ingredients in Viagra and Cialis.",
+      "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
+      "published": "Mon, 01 Jun 2026 10:30:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-01T02:36:25.096018"
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T11:06:38.472305"
+    },
+    {
+      "source": "wired",
+      "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
+      "summary": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune.",
+      "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
+      "published": "Mon, 01 Jun 2026 10:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-01T11:06:38.472345"
+    },
+    {
+      "source": "wired",
+      "title": "The Painful Truth About Long Covid",
+      "summary": "There might finally be a way forward for long Covid treatment—if only you were allowed to talk about it.",
+      "link": "https://www.wired.com/story/the-painful-truth-about-long-covid/",
+      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T11:06:38.472371"
+    },
+    {
+      "source": "wired",
+      "title": "Websites Can Now Spy on You Through Your Hard Drive",
+      "summary": "Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.",
+      "link": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+      "published": "Mon, 01 Jun 2026 09:30:00 +0000",
+      "keywords": [
+        "AI",
+        "JavaScript",
+        "Java",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-01T11:06:38.472394"
     }
   ]
 }
