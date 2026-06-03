@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-03T02:42:40.890840",
+  "last_updated": "2026-06-03T10:41:13.589997",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The world’s largest privately owned laser just turned on",
+      "summary": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
+      "link": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-06-03T10:41:11.746797"
+    },
     {
       "source": "techcrunch",
       "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-03T02:42:39.958988"
+      "crawled_at": "2026-06-03T10:41:11.746838"
     },
     {
       "source": "techcrunch",
@@ -26,7 +39,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-03T02:42:39.959036"
+      "crawled_at": "2026-06-03T10:41:11.746861"
     },
     {
       "source": "techcrunch",
@@ -38,7 +51,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-03T02:42:39.959075"
+      "crawled_at": "2026-06-03T10:41:11.746890"
     },
     {
       "source": "techcrunch",
@@ -50,20 +63,37 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:39.959100"
+      "crawled_at": "2026-06-03T10:41:11.746909"
     },
     {
-      "source": "techcrunch",
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "published": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "source": "theverge",
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, i",
+      "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "published": "2026-06-03T05:00:00-04:00",
       "keywords": [
         "AI",
-        "Microsoft"
+        "Go",
+        "Google",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:39.959127"
+      "crawled_at": "2026-06-03T10:41:11.927501"
+    },
+    {
+      "source": "theverge",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI",
+      "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "published": "2026-06-03T04:45:48-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-03T10:41:11.927539"
     },
     {
       "source": "theverge",
@@ -77,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.131543"
+      "crawled_at": "2026-06-03T10:41:11.927564"
     },
     {
       "source": "theverge",
@@ -90,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.131597"
+      "crawled_at": "2026-06-03T10:41:11.927601"
     },
     {
       "source": "theverge",
@@ -102,107 +132,92 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-03T02:42:40.131642"
-    },
-    {
-      "source": "theverge",
-      "title": "PlayStation State of Play June 2026: All the news and trailers",
-      "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It&#8217;s coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sony&#8217;s big bet o",
-      "link": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-      "published": "2026-06-02T16:40:00-04:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.131672"
-    },
-    {
-      "source": "theverge",
-      "title": "I held the next-gen handheld",
-      "summary": "Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card going MIA. But its Panther Lake laptop chip, the first on its all-important 18A",
-      "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-      "published": "2026-06-02T15:56:02-04:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-03T02:42:40.131713"
+      "crawled_at": "2026-06-03T10:41:11.927637"
     },
     {
       "source": "hackernews",
-      "title": "Roku LT Operating System open source distribution",
-      "summary": "Article URL: https://blog.roku.com/developer/roku-lt-os\nComments URL: https://news.ycombinator.com/item?id=48378495\nPoints: 7\n# Comments: 3",
-      "link": "https://blog.roku.com/developer/roku-lt-os",
-      "published": "Wed, 03 Jun 2026 01:13:38 +0000",
+      "title": "It is an amazing time for programmers",
+      "summary": "Article URL: https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers\nComments URL: https://news.ycombinator.com/item?id=48381211\nPoints: 62\n# Comments: 32",
+      "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+      "published": "Wed, 03 Jun 2026 08:00:14 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-03T10:41:13.393955"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+      "summary": "Article URL: https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans\nComments URL: https://news.ycombinator.com/item?id=48380516\nPoints: 31\n# Comments: 35",
+      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "published": "Wed, 03 Jun 2026 06:04:36 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-03T10:41:13.393989"
+    },
+    {
+      "source": "hackernews",
+      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "summary": "Article URL: https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/\nComments URL: https://news.ycombinator.com/item?id=48380395\nPoints: 10\n# Comments: 2",
+      "link": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+      "published": "Wed, 03 Jun 2026 05:49:31 +0000",
+      "keywords": [
+        "API",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-06-03T02:42:40.337920"
+      "crawled_at": "2026-06-03T10:41:13.394016"
     },
     {
       "source": "hackernews",
-      "title": "I Don't Want My Search Engine to Think for Me",
-      "summary": "Article URL: https://searchzee.com/blog/search-without-ai-summaries\nComments URL: https://news.ycombinator.com/item?id=48378099\nPoints: 57\n# Comments: 49",
-      "link": "https://searchzee.com/blog/search-without-ai-summaries",
-      "published": "Wed, 03 Jun 2026 00:29:07 +0000",
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 98\n# Comments: 28",
+      "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "published": "Wed, 03 Jun 2026 03:47:56 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-03T10:41:13.394046"
+    },
+    {
+      "source": "hackernews",
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device\nComments URL: https://news.ycombinator.com/item?id=48379664\nPoints: 42\n# Comments: 9",
+      "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "published": "Wed, 03 Jun 2026 03:47:21 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.337956"
-    },
-    {
-      "source": "hackernews",
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report\nComments URL: https://news.ycombinator.com/item?id=48377854\nPoints: 58\n# Comments: 48",
-      "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-      "published": "Tue, 02 Jun 2026 23:55:04 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.337986"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...\n\nComments URL: https://news.ycombinator.com/item?id=48377761\nPoints: 104\n# Comments: 102",
-      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "published": "Tue, 02 Jun 2026 23:43:12 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.338013"
-    },
-    {
-      "source": "hackernews",
-      "title": "LLMs are not the black box you were promised",
-      "summary": "Article URL: https://www.jay.ai/blog/llms-are-not-a-black-box\nComments URL: https://news.ycombinator.com/item?id=48377631\nPoints: 48\n# Comments: 28",
-      "link": "https://www.jay.ai/blog/llms-are-not-a-black-box",
-      "published": "Tue, 02 Jun 2026 23:27:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.338038"
+      "crawled_at": "2026-06-03T10:41:13.394070"
     },
     {
       "source": "arstechnica",
-      "title": "Male bowerbirds hope to dazzle females with bright human-made items",
+      "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+      "summary": "\"Everyone is in a place where it’s no fun to be there.\"",
+      "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
+      "published": "Wed, 03 Jun 2026 10:00:07 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-03T10:41:13.522675"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Male bowerbirds prefer to dazzle females with bright human-made items",
       "summary": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
       "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
       "published": "Tue, 02 Jun 2026 23:05:31 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-03T02:42:40.746959"
+      "crawled_at": "2026-06-03T10:41:13.522711"
     },
     {
       "source": "arstechnica",
@@ -217,7 +232,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-06-03T02:42:40.746992"
+      "crawled_at": "2026-06-03T10:41:13.522732"
     },
     {
       "source": "arstechnica",
@@ -231,7 +246,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-03T02:42:40.747019"
+      "crawled_at": "2026-06-03T10:41:13.522752"
     },
     {
       "source": "arstechnica",
@@ -245,84 +260,75 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.747042"
-    },
-    {
-      "source": "arstechnica",
-      "title": "If I had a hammer... it might actually be a rhino tooth",
-      "summary": "Neanderthals had some wild stuff in their toolkits.",
-      "link": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/",
-      "published": "Tue, 02 Jun 2026 19:54:14 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-06-03T02:42:40.747066"
+      "crawled_at": "2026-06-03T10:41:13.522770"
     },
     {
       "source": "wired",
-      "title": "Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn",
-      "summary": "A government committee says that the country’s growing dependence on the data analytics company is a serious liability.",
-      "link": "https://www.wired.com/story/uk-government-palantir-warning-report/",
-      "published": "Tue, 02 Jun 2026 23:05:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-03T02:42:40.890630"
-    },
-    {
-      "source": "wired",
-      "title": "He Blew the Whistle on DOGE. Then His Brakes Were Cut",
-      "summary": "A federal IT staffer filed a complaint about DOGE, then went public. Shortly after Elon Musk boosted a post calling his claims false, his brake lines were cut. Now he’s suing for defamation.",
-      "link": "https://www.wired.com/story/he-blew-the-whistle-on-doge-then-his-brakes-were-cut/",
-      "published": "Tue, 02 Jun 2026 19:16:01 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.890669"
-    },
-    {
-      "source": "wired",
-      "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-      "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-      "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "title": "A Crash Course in Mountain Bike Suspension (2026)",
+      "summary": "How your front fork and rear shock work, so you can hurt less and have more fun.",
+      "link": "https://www.wired.com/story/what-is-bike-suspension/",
+      "published": "Wed, 03 Jun 2026 10:38:00 +0000",
       "keywords": [
         "AI",
-        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.890698"
+      "crawled_at": "2026-06-03T10:41:13.589816"
     },
     {
       "source": "wired",
-      "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling",
-      "summary": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s calling you is who they appear to be.",
-      "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
-      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-03T10:41:13.589851"
+    },
+    {
+      "source": "wired",
+      "title": "Data Center Operators Are Trying to Fix Their Water Use Problems",
+      "summary": "Google, Microsoft, and other hyperscalers have come under scrutiny for their impact on water quality and availability.",
+      "link": "https://www.wired.com/story/data-center-operators-fix-water-use-problems/",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AI",
         "Go",
         "Google",
-        "Android",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-03T02:42:40.890730"
+      "crawled_at": "2026-06-03T10:41:13.589872"
     },
     {
       "source": "wired",
-      "title": "Partiful Is Putting Ticket Payments on Its Platform",
-      "summary": "In the social event planner’s first major move toward monetization, Partiful is getting ticketing directly in the app.",
-      "link": "https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/",
-      "published": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "title": "Monica Lewinsky Has Always Hated Notifications",
+      "summary": "The writer and anti-bullying activist is on social media, but to protect her nervous system, she prefers not to be alerted.",
+      "link": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
+      "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-03T10:41:13.589895"
+    },
+    {
+      "source": "wired",
+      "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
+      "summary": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
+      "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
+      "published": "Wed, 03 Jun 2026 09:59:00 +0000",
       "keywords": [
+        "Go",
+        "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-03T02:42:40.890763"
+      "crawled_at": "2026-06-03T10:41:13.589917"
     }
   ]
 }
