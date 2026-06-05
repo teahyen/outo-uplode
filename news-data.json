@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-06-05T09:27:59.062467",
+  "last_updated": "2026-06-05T14:22:48.354752",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "published": "Fri, 05 Jun 2026 13:03:10 +0000",
+      "keywords": [
+        "AI",
+        "5G"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-05T14:22:47.709354"
+    },
     {
       "source": "techcrunch",
       "title": "Mira Murati steps back into the spotlight, carefully",
@@ -13,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.260053"
+      "crawled_at": "2026-06-05T14:22:47.709389"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.260096"
+      "crawled_at": "2026-06-05T14:22:47.709427"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.260431"
+      "crawled_at": "2026-06-05T14:22:47.709680"
     },
     {
       "source": "techcrunch",
@@ -52,156 +65,167 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.260473"
+      "crawled_at": "2026-06-05T14:22:47.709714"
     },
     {
-      "source": "techcrunch",
-      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
-      "summary": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
-      "link": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
-      "published": "Thu, 04 Jun 2026 21:44:09 +0000",
+      "source": "theverge",
+      "title": "MAHA wants to make cotton the new beef tallow",
+      "summary": "In between beef tallow fries, raw milk, and vaccine denialism, Make America Healthy Again figureheads have set their sights on another slice of life: our clothing. \"The MAHA movement doesn't stop with what we EAT - It's also about what we WEAR,\" Secretary of Agriculture Brooke Rollins said in a post",
+      "link": "https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics",
+      "published": "2026-06-05T10:13:21-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-05T14:22:47.834416"
+    },
+    {
+      "source": "theverge",
+      "title": "What do you mean my new smart scale is ‘built for GLP-1 users’?",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, I walked into the basement of a midtown gym. Smoothies and healthy s",
+      "link": "https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health",
+      "published": "2026-06-05T10:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:47.834489"
+    },
+    {
+      "source": "theverge",
+      "title": "Can AI tell if your script will make a hit film?",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "published": "2026-06-05T09:57:31-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-05T14:22:47.834526"
+    },
+    {
+      "source": "theverge",
+      "title": "Why isn’t the Trump phone made in the USA?",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, I'm investigating where it might have been built - and why it definitely wasn't the US. Almost a year after its announcement, the Trump phone ",
+      "link": "https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china",
+      "published": "2026-06-05T09:33:12-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:47.834580"
+    },
+    {
+      "source": "theverge",
+      "title": "This chunky little tablet got my kid to clean up his toys",
+      "summary": "Never underestimate the power that a cheap tablet holds over a kid under six. The Skylight Buddy is a device with one job: to be a cute little guy that helps your kid track routines and chores. It's $139.99, plus an optional subscription. And to my surprise, even though it offers a pretty limited se",
+      "link": "https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review",
+      "published": "2026-06-05T09:00:00-04:00",
+      "keywords": [
+        "Go",
+        "REST"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-05T14:22:47.834624"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ad Blocker Test – Check If Your Ad Blocker Works",
+      "summary": "Article URL: https://adblock.turtlecute.org/\nComments URL: https://news.ycombinator.com/item?id=48411542\nPoints: 5\n# Comments: 0",
+      "link": "https://adblock.turtlecute.org/",
+      "published": "Fri, 05 Jun 2026 12:33:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.110076"
+    },
+    {
+      "source": "hackernews",
+      "title": "Programmers will document for Claude, but not for each other",
+      "summary": "Article URL: https://blog.plover.com/2026/03/09/#documentation-wins-2\nComments URL: https://news.ycombinator.com/item?id=48411510\nPoints: 61\n# Comments: 57",
+      "link": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "published": "Fri, 05 Jun 2026 12:30:17 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-05T14:22:48.110116"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "summary": "Article URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=48411227\nPoints: 0\n# Comments: 0",
+      "link": "https://nango.dev/careers",
+      "published": "Fri, 05 Jun 2026 12:00:18 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.110152"
+    },
+    {
+      "source": "hackernews",
+      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+      "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy\nComments URL: https://news.ycombinator.com/item?id=48410602\nPoints: 64\n# Comments: 40",
+      "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "published": "Fri, 05 Jun 2026 10:44:48 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.110196"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "summary": "Hi HN,Not sure if anyone would be interested.But, just wanted to share that I've been maintaining my small tool called 'lowfat' that helps me filters some of my verbose CLI output.It's a single binary, works as an agent hook or a shell wrapper. \nIt has a plugin system to customize filters per comman",
+      "link": "https://github.com/zdk/lowfat",
+      "published": "Fri, 05 Jun 2026 09:10:42 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Docker",
+        "REST",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-05T14:22:48.110439"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
+      "summary": "“Why don’t we just frickin’ call Apple?”",
+      "link": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
+      "published": "Fri, 05 Jun 2026 11:15:29 +0000",
       "keywords": [
         "Apple",
-        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-05T09:27:58.260510"
+      "crawled_at": "2026-06-05T14:22:48.220315"
     },
     {
-      "source": "theverge",
-      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
-      "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardw",
-      "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-      "published": "2026-06-04T18:48:53-04:00",
+      "source": "arstechnica",
+      "title": "Review: AMD's Radeon RX 9070 GRE is a disappointing way to spend $549",
+      "summary": "The superior RX 9070 also launched for $549 just over a year ago.",
+      "link": "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
+      "published": "Fri, 05 Jun 2026 11:00:55 +0000",
       "keywords": [
-        "AI",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.367503"
-    },
-    {
-      "source": "theverge",
-      "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
-      "summary": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse.",
-      "link": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-      "published": "2026-06-04T16:07:31-04:00",
-      "keywords": [
-        "AI",
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.367544"
-    },
-    {
-      "source": "theverge",
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 1",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "published": "2026-06-04T14:38:04-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.367605"
-    },
-    {
-      "source": "theverge",
-      "title": "Google is letting social media stars customize their search result page",
-      "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least 100,000 YouTube subs",
-      "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-      "published": "2026-06-04T14:32:23-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.367641"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
-      "summary": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a huge slate of franchises through Prime Vide",
-      "link": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
-      "published": "2026-06-04T13:01:15-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Amazon",
-        "iOS",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.367681"
-    },
-    {
-      "source": "hackernews",
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "summary": "Article URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/\nComments URL: https://news.ycombinator.com/item?id=48409675\nPoints: 7\n# Comments: 1",
-      "link": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "published": "Fri, 05 Jun 2026 08:33:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.743424"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "summary": "Article URL: https://arxiv.org/abs/2606.03673\nComments URL: https://news.ycombinator.com/item?id=48409664\nPoints: 3\n# Comments: 0",
-      "link": "https://arxiv.org/abs/2606.03673",
-      "published": "Fri, 05 Jun 2026 08:32:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.743465"
-    },
-    {
-      "source": "hackernews",
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "summary": "Article URL: https://github.com/geo-tp/ESP32-Bit-Pirate\nComments URL: https://news.ycombinator.com/item?id=48409306\nPoints: 17\n# Comments: 10",
-      "link": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "published": "Fri, 05 Jun 2026 07:40:04 +0000",
-      "keywords": [
-        "Hack",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-05T09:27:58.743498"
-    },
-    {
-      "source": "hackernews",
-      "title": "Changing How We Develop Ladybird",
-      "summary": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/\nComments URL: https://news.ycombinator.com/item?id=48409191\nPoints: 126\n# Comments: 61",
-      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "published": "Fri, 05 Jun 2026 07:26:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.743531"
-    },
-    {
-      "source": "hackernews",
-      "title": "There's no escaping it: an exploration of ANSI codes",
-      "summary": "Article URL: https://blog.safia.rocks/2025/12/22/ansi-codes/\nComments URL: https://news.ycombinator.com/item?id=48408995\nPoints: 5\n# Comments: 3",
-      "link": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-      "published": "Fri, 05 Jun 2026 07:02:14 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-06-05T09:27:58.743559"
+      "category": "Mobile",
+      "crawled_at": "2026-06-05T14:22:48.220350"
     },
     {
       "source": "arstechnica",
@@ -213,7 +237,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.897331"
+      "crawled_at": "2026-06-05T14:22:48.220386"
     },
     {
       "source": "arstechnica",
@@ -225,7 +249,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-05T09:27:58.897368"
+      "crawled_at": "2026-06-05T14:22:48.220417"
     },
     {
       "source": "arstechnica",
@@ -238,89 +262,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.897394"
+      "crawled_at": "2026-06-05T14:22:48.220441"
     },
     {
-      "source": "arstechnica",
-      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-      "summary": "By targeting large numbers of users, attackers increased their chances of success.",
-      "link": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-      "published": "Thu, 04 Jun 2026 20:02:04 +0000",
+      "source": "wired",
+      "title": "EveryPlate Meal Kit Review (2026): Low Cost, Simplicity, Flavor",
+      "summary": "EveryPlate is an actual budget meal kit whose plates taste delicious. Options and ingredients are fewer, but simplicity can also be a virtue.",
+      "link": "https://www.wired.com/review/everyplate-meal-kit-review-2026/",
+      "published": "Fri, 05 Jun 2026 11:04:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.354521"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+      "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "published": "Fri, 05 Jun 2026 10:30:00 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
+        "Anthropic",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.897416"
+      "crawled_at": "2026-06-05T14:22:48.354566"
     },
     {
-      "source": "arstechnica",
-      "title": "Elon Musk tries again to escape FTC audits of X data handling",
-      "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-      "published": "Thu, 04 Jun 2026 19:49:12 +0000",
+      "source": "wired",
+      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+      "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+      "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+      "published": "Fri, 05 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Rust",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:58.897437"
+      "crawled_at": "2026-06-05T14:22:48.354588"
     },
     {
       "source": "wired",
-      "title": "AI Has Come for Serif Fonts",
-      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
-      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-      "published": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-05T09:27:59.062277"
-    },
-    {
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | June 2026",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this June.",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "published": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-05T09:27:59.062308"
-    },
-    {
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for June 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-05T09:27:59.062332"
-    },
-    {
-      "source": "wired",
-      "title": "The Motley Fool Promo Code: $200 Off on Stock Advisor June 2026",
-      "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-      "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
-      "published": "Fri, 05 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-05T09:27:59.062357"
-    },
-    {
-      "source": "wired",
-      "title": "Dell Coupon Codes: 20% Off for June 2026",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published": "Fri, 05 Jun 2026 05:00:00 +0000",
+      "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
+      "summary": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
+      "link": "https://www.wired.com/story/best-pool-accessories/",
+      "published": "Fri, 05 Jun 2026 09:33:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-06-05T09:27:59.062388"
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.354617"
+    },
+    {
+      "source": "wired",
+      "title": "‘Doo-Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers",
+      "summary": "An “urban explorer” tells WIRED their mother checked in to make sure they weren’t one of the people seen scurrying out of a manhole with their friends.",
+      "link": "https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/",
+      "published": "Fri, 05 Jun 2026 09:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-05T14:22:48.354661"
     }
   ]
 }
