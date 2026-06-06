@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T02:03:41.924877",
+  "last_updated": "2026-06-06T08:22:14.341284",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.073506"
+      "crawled_at": "2026-06-06T08:22:13.644843"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-06T02:03:41.073554"
+      "crawled_at": "2026-06-06T08:22:13.644897"
     },
     {
       "source": "techcrunch",
@@ -44,7 +44,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-06-06T02:03:41.073600"
+      "crawled_at": "2026-06-06T08:22:13.644949"
     },
     {
       "source": "techcrunch",
@@ -58,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.073630"
+      "crawled_at": "2026-06-06T08:22:13.644987"
     },
     {
       "source": "techcrunch",
@@ -72,7 +72,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.073653"
+      "crawled_at": "2026-06-06T08:22:13.645016"
     },
     {
       "source": "theverge",
@@ -86,7 +86,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.303432"
+      "crawled_at": "2026-06-06T08:22:13.843093"
     },
     {
       "source": "theverge",
@@ -99,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.303471"
+      "crawled_at": "2026-06-06T08:22:13.843140"
     },
     {
       "source": "theverge",
@@ -111,7 +111,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.303517"
+      "crawled_at": "2026-06-06T08:22:13.843189"
     },
     {
       "source": "theverge",
@@ -124,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.303561"
+      "crawled_at": "2026-06-06T08:22:13.843237"
     },
     {
       "source": "theverge",
@@ -136,71 +136,76 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.303618"
+      "crawled_at": "2026-06-06T08:22:13.843298"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: ABC Classic 100 Rankings visualised",
-      "summary": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I also kind of like that it requires a bit of exploration in the current form.Some of the code is a bit clu",
-      "link": "https://classic100.gotski.workers.dev/",
-      "published": "Sat, 06 Jun 2026 01:32:09 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-06-06T02:03:41.593091"
-    },
-    {
-      "source": "hackernews",
-      "title": "The intracies of modern camera lens repair (2024)",
-      "summary": "Article URL: https://salvagedcircuitry.com/sigma-45mm.html\nComments URL: https://news.ycombinator.com/item?id=48420148\nPoints: 32\n# Comments: 0",
-      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "published": "Sat, 06 Jun 2026 00:33:26 +0000",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: 303\n# Comments: 83",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "published": "Sat, 06 Jun 2026 04:38:36 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
+        "Anthropic",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.593125"
+      "crawled_at": "2026-06-06T08:22:14.121138"
     },
     {
       "source": "hackernews",
-      "title": "The perils of UUID primary keys in SQLite",
-      "summary": "Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html\nComments URL: https://news.ycombinator.com/item?id=48419571\nPoints: 20\n# Comments: 10",
-      "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-      "published": "Fri, 05 Jun 2026 23:13:12 +0000",
-      "keywords": [
-        "SQL",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.593162"
-    },
-    {
-      "source": "hackernews",
-      "title": "Transformers are inherently succinct",
-      "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.\n\nComments URL: https://news.ycombinator.com/item?id=48416635\nPoints: 89\n# Comments: 30",
-      "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "published": "Fri, 05 Jun 2026 18:50:26 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.593190"
-    },
-    {
-      "source": "hackernews",
-      "title": "Aging and Eye Problems",
-      "summary": "Article URL: https://ldstephens.net/posts/aging-and-eye-problems/\nComments URL: https://news.ycombinator.com/item?id=48416392\nPoints: 52\n# Comments: 24",
-      "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
-      "published": "Fri, 05 Jun 2026 18:30:31 +0000",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "summary": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\nComments URL: https://news.ycombinator.com/item?id=48421171\nPoints: 57\n# Comments: 16",
+      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "published": "Sat, 06 Jun 2026 03:41:32 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.593221"
+      "crawled_at": "2026-06-06T08:22:14.121189"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lockdown Mode",
+      "summary": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode\nComments URL: https://news.ycombinator.com/item?id=48421145\nPoints: 49\n# Comments: 23",
+      "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "published": "Sat, 06 Jun 2026 03:36:15 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-06T08:22:14.121217"
+    },
+    {
+      "source": "hackernews",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391\nComments URL: https://news.ycombinator.com/item?id=48421079\nPoints: 77\n# Comments: 20",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "published": "Sat, 06 Jun 2026 03:23:47 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-06T08:22:14.121246"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.I’ll probably make a lot of enemies by saying this, but ",
+      "link": "https://news.ycombinator.com/item?id=48420827",
+      "published": "Sat, 06 Jun 2026 02:31:51 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-06T08:22:14.121350"
     },
     {
       "source": "arstechnica",
@@ -210,7 +215,7 @@
       "published": "Fri, 05 Jun 2026 22:36:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.798328"
+      "crawled_at": "2026-06-06T08:22:14.190079"
     },
     {
       "source": "arstechnica",
@@ -222,7 +227,7 @@
         "Vulnerability"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-06T02:03:41.798364"
+      "crawled_at": "2026-06-06T08:22:14.190118"
     },
     {
       "source": "arstechnica",
@@ -236,7 +241,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-06T02:03:41.798394"
+      "crawled_at": "2026-06-06T08:22:14.190148"
     },
     {
       "source": "arstechnica",
@@ -249,7 +254,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.798418"
+      "crawled_at": "2026-06-06T08:22:14.190173"
     },
     {
       "source": "arstechnica",
@@ -264,7 +269,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.798444"
+      "crawled_at": "2026-06-06T08:22:14.190199"
     },
     {
       "source": "wired",
@@ -276,7 +281,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.924646"
+      "crawled_at": "2026-06-06T08:22:14.340985"
     },
     {
       "source": "wired",
@@ -290,7 +295,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.924674"
+      "crawled_at": "2026-06-06T08:22:14.341018"
     },
     {
       "source": "wired",
@@ -300,7 +305,7 @@
       "published": "Fri, 05 Jun 2026 18:16:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.924707"
+      "crawled_at": "2026-06-06T08:22:14.341052"
     },
     {
       "source": "wired",
@@ -312,7 +317,7 @@
         "Git"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-06T02:03:41.924753"
+      "crawled_at": "2026-06-06T08:22:14.341103"
     },
     {
       "source": "wired",
@@ -324,7 +329,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-06T02:03:41.924785"
+      "crawled_at": "2026-06-06T08:22:14.341137"
     }
   ]
 }
