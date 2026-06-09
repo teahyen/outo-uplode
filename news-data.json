@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-09T01:59:30.163298",
+  "last_updated": "2026-06-09T08:57:18.301185",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "published": "Tue, 09 Jun 2026 05:07:17 +0000",
+      "keywords": [
+        "IPO"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-06-09T08:57:16.191695"
+    },
     {
       "source": "techcrunch",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
@@ -14,17 +26,17 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.239400"
+      "crawled_at": "2026-06-09T08:57:16.191739"
     },
     {
       "source": "techcrunch",
-      "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
       "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
       "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
       "published": "Tue, 09 Jun 2026 00:45:56 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-09T01:59:28.239438"
+      "crawled_at": "2026-06-09T08:57:16.191780"
     },
     {
       "source": "techcrunch",
@@ -38,7 +50,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.239466"
+      "crawled_at": "2026-06-09T08:57:16.191812"
     },
     {
       "source": "techcrunch",
@@ -51,23 +63,21 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.239506"
+      "crawled_at": "2026-06-09T08:57:16.191844"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "published": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "source": "theverge",
+      "title": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+      "summary": "Donut Lab's solid-state battery claims have been thoroughly debunked by Ryan Inis Hughes on his popular Ziroth YouTube channel. According to Hughes, Donut Lab has engaged in deliberate, calculated deception by claiming to have a solid-state battery ready for mass production. In reality, it's nothing",
+      "link": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+      "published": "2026-06-09T04:40:51-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
         "Go",
-        "IPO"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.239527"
+      "crawled_at": "2026-06-09T08:57:16.699768"
     },
     {
       "source": "theverge",
@@ -82,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.393056"
+      "crawled_at": "2026-06-09T08:57:16.699815"
     },
     {
       "source": "theverge",
@@ -96,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.393104"
+      "crawled_at": "2026-06-09T08:57:16.699858"
     },
     {
       "source": "theverge",
@@ -112,7 +122,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.393130"
+      "crawled_at": "2026-06-09T08:57:16.699887"
     },
     {
       "source": "theverge",
@@ -126,92 +136,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:28.393163"
-    },
-    {
-      "source": "theverge",
-      "title": "Where was tvOS 27 at WWDC?",
-      "summary": "Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphic listing all current Apple OSes next to a big \"27,\" was any mention of tvOS. The whole structure of th",
-      "link": "https://www.theverge.com/tech/946329/tvos-27-absent-wwdc",
-      "published": "2026-06-08T18:04:42-04:00",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-06-09T01:59:28.393191"
+      "crawled_at": "2026-06-09T08:57:16.699926"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Mach – A compiled systems language looking for contributions",
-      "summary": "Hi HN,I'm the creator of Mach (https://github.com/octalide/mach or https://machlang.org). Two days ago, we finally achieved full self hosting. I wanted to make a post here to show off the language since this is a big milestone for us.## TL;DR about the language for those curious:- There are no exter",
-      "link": "https://github.com/octalide/mach",
-      "published": "Mon, 08 Jun 2026 23:05:20 +0000",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/\nComments URL: https://news.ycombinator.com/item?id=48457830\nPoints: 65\n# Comments: 17",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "published": "Tue, 09 Jun 2026 07:33:16 +0000",
       "keywords": [
         "AI",
-        "Rust",
+        "Hack",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-09T08:57:18.015776"
+    },
+    {
+      "source": "hackernews",
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966\nComments URL: https://news.ycombinator.com/item?id=48457181\nPoints: 82\n# Comments: 23",
+      "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "published": "Tue, 09 Jun 2026 06:14:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-09T08:57:18.015823"
+    },
+    {
+      "source": "hackernews",
+      "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+      "summary": "Article URL: https://loro.dev/blog/mergeable-containers\nComments URL: https://news.ycombinator.com/item?id=48456555\nPoints: 18\n# Comments: 2",
+      "link": "https://loro.dev/blog/mergeable-containers",
+      "published": "Tue, 09 Jun 2026 04:48:10 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-09T08:57:18.015851"
+    },
+    {
+      "source": "hackernews",
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "summary": "Article URL: https://blog.aheymans.xyz/post/thinkpad_x61/\nComments URL: https://news.ycombinator.com/item?id=48456245\nPoints: 63\n# Comments: 20",
+      "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "published": "Tue, 09 Jun 2026 04:06:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-09T08:57:18.015883"
+    },
+    {
+      "source": "hackernews",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=48456015\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "published": "Tue, 09 Jun 2026 03:34:00 +0000",
+      "keywords": [
         "Go",
-        "Git",
-        "GitHub"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.798380"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
-      "summary": "Hi HN! We’re Jimmy and Ray. Jimmy is a Thiel Fellow with a Ph. D. from MIT who has worked on programming tools for 15 years; Ray became VP of Sales at a $2B company when he was 19 and has built side-businesses vibe-coding.Last year, we set to answer the question “If AI can write code 100x faster, th",
-      "link": "https://www.cc.dev/",
-      "published": "Mon, 08 Jun 2026 22:10:18 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "REST",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.798604"
-    },
-    {
-      "source": "hackernews",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "summary": "Article URL: https://openai.com/index/openai-submits-confidential-s-1/\nComments URL: https://news.ycombinator.com/item?id=48452317\nPoints: 297\n# Comments: 208",
-      "link": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "published": "Mon, 08 Jun 2026 21:22:43 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.798631"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple bets cheaper AI will woo small developers",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\nComments URL: https://news.ycombinator.com/item?id=48452000\nPoints: 12\n# Comments: 5",
-      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "published": "Mon, 08 Jun 2026 21:02:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.798654"
-    },
-    {
-      "source": "hackernews",
-      "title": "FrontierCode",
-      "summary": "Article URL: https://cognition.ai/blog/frontier-code\nComments URL: https://news.ycombinator.com/item?id=48451723\nPoints: 97\n# Comments: 20",
-      "link": "https://cognition.ai/blog/frontier-code",
-      "published": "Mon, 08 Jun 2026 20:45:03 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.798673"
+      "category": "Tech News",
+      "crawled_at": "2026-06-09T08:57:18.015925"
     },
     {
       "source": "arstechnica",
@@ -226,7 +216,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.955755"
+      "crawled_at": "2026-06-09T08:57:18.169897"
     },
     {
       "source": "arstechnica",
@@ -238,7 +228,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:29.955780"
+      "crawled_at": "2026-06-09T08:57:18.169927"
     },
     {
       "source": "arstechnica",
@@ -251,7 +241,7 @@
         "Apple"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-06-09T01:59:29.955800"
+      "crawled_at": "2026-06-09T08:57:18.169951"
     },
     {
       "source": "arstechnica",
@@ -264,7 +254,7 @@
         "iOS"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-09T01:59:29.955828"
+      "crawled_at": "2026-06-09T08:57:18.169983"
     },
     {
       "source": "arstechnica",
@@ -277,84 +267,59 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-09T01:59:29.955853"
+      "crawled_at": "2026-06-09T08:57:18.170011"
     },
     {
       "source": "wired",
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-      "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-      "published": "Mon, 08 Jun 2026 21:31:58 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:30.163100"
+      "title": "1Password Coupon: Score a Free Trial in June 2026",
+      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+      "link": "https://www.wired.com/story/1password-coupon/",
+      "published": "Tue, 09 Jun 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-06-09T08:57:18.300967"
     },
     {
       "source": "wired",
-      "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
-      "summary": "Social media posts questioning the integrity of LA’s mayoral election were labeled “paid partnerships.” Then Kalshi and Polymarket told creators to delete them.",
-      "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
-      "published": "Mon, 08 Jun 2026 21:23:27 +0000",
+      "title": "HelloFresh Promo Codes: 55% Off for June 2026",
+      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in June 2026. Discover our best codes and discounts to let you save time and money.",
+      "link": "https://www.wired.com/story/hellofresh-coupon/",
+      "published": "Tue, 09 Jun 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-06-09T08:57:18.301000"
+    },
+    {
+      "source": "wired",
+      "title": "OnePlus Promo Codes: 30% Off June 2026",
+      "summary": "Save 30% with a OnePlus coupon in June 2026, plus save up to 10% on earbuds, phones, and more.",
+      "link": "https://www.wired.com/story/oneplus-promo-code/",
+      "published": "Tue, 09 Jun 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:30.163140"
+      "category": "Programming",
+      "crawled_at": "2026-06-09T08:57:18.301024"
     },
     {
       "source": "wired",
-      "title": "Everything Apple Announced at WWDC 2026",
-      "summary": "Updates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple’s products.",
-      "link": "https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/",
-      "published": "Mon, 08 Jun 2026 20:00:10 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Google",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:30.163164"
+      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for June 2026",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "link": "https://www.wired.com/story/noom-promo-code/",
+      "published": "Tue, 09 Jun 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-06-09T08:57:18.301051"
     },
     {
       "source": "wired",
-      "title": "Apple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
-      "summary": "Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
-      "link": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/",
-      "published": "Mon, 08 Jun 2026 18:40:32 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:30.163190"
-    },
-    {
-      "source": "wired",
-      "title": "Apple’s New Siri AI Is Ready to Get Personal",
-      "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
-      "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-      "published": "Mon, 08 Jun 2026 18:17:44 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-09T01:59:30.163213"
+      "title": "Tuft & Needle Promo Codes: 30% Off | June 2026",
+      "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
+      "link": "https://www.wired.com/story/tuft-and-needle-promo-code/",
+      "published": "Tue, 09 Jun 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-06-09T08:57:18.301072"
     }
   ]
 }
