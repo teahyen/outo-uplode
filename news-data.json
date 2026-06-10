@@ -1,271 +1,312 @@
 {
-  "last_updated": "2026-06-10T14:50:22.058480",
+  "last_updated": "2026-06-10T20:09:13.613907",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "published": "Wed, 10 Jun 2026 14:48:01 +0000",
+      "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+      "summary": "North Koreans hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+      "link": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "published": "Wed, 10 Jun 2026 19:57:04 +0000",
       "keywords": [
+        "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:12.938620"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Wing drone delivery might not be a novelty anymore",
+      "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+      "link": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+      "published": "Wed, 10 Jun 2026 19:52:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-10T20:09:12.938660"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
+      "summary": "The media giant is pushing to expand its mobile and gaming business.",
+      "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
+      "published": "Wed, 10 Jun 2026 17:13:02 +0000",
+      "keywords": [
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-10T20:09:12.939076"
+    },
+    {
+      "source": "techcrunch",
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "published": "Wed, 10 Jun 2026 17:07:35 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:12.939118"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+      "link": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "published": "Wed, 10 Jun 2026 16:43:11 +0000",
+      "keywords": [
+        "Go",
         "IPO",
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-10T14:50:18.264616"
+      "crawled_at": "2026-06-10T20:09:12.939153"
     },
     {
-      "source": "techcrunch",
-      "title": "Pinterest bets on creators with Amazon Storefront integration",
-      "summary": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.",
-      "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
-      "published": "Wed, 10 Jun 2026 14:34:45 +0000",
-      "keywords": [
-        "REST",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:18.264669"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "published": "Wed, 10 Jun 2026 14:31:30 +0000",
+      "source": "theverge",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to t",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "published": "2026-06-10T14:43:34-04:00",
       "keywords": [
         "AI",
-        "Startup",
-        "AR"
+        "Anthropic",
+        "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:18.264697"
-    },
-    {
-      "source": "techcrunch",
-      "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-      "summary": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.",
-      "link": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
-      "published": "Wed, 10 Jun 2026 14:13:02 +0000",
-      "keywords": [
-        "Security"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-10T14:50:18.264729"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "Funding",
-        "VC",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:18.264757"
+      "crawled_at": "2026-06-10T20:09:13.114213"
     },
     {
       "source": "theverge",
-      "title": "Valve is phasing out physical Steam gift cards due to scammers",
-      "summary": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run out, citing scammers who \"continue to have an impact on Steam customers and other unsuspecting individ",
-      "link": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
-      "published": "2026-06-10T10:10:38-04:00",
-      "keywords": [
-        "REST",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:18.334234"
-    },
-    {
-      "source": "theverge",
-      "title": "Five questions for the duo behind The Pelley Minutes",
-      "summary": "Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may only be 60 minutes long, but Pelley racked up nearly 37,000 minutes in his 37-year long career, reporting",
-      "link": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
-      "published": "2026-06-10T10:06:17-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:18.334290"
-    },
-    {
-      "source": "theverge",
-      "title": "The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck",
-      "summary": "Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on October 9th. The follow-up takes place 17 years after the events portrayed in the original film and follows a",
-      "link": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
-      "published": "2026-06-10T10:02:44-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:18.334326"
-    },
-    {
-      "source": "theverge",
-      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
-      "summary": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 at Walmart, presumably for a limited time. If you have an iPhone, these are the best wireless earbuds",
-      "link": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
-      "published": "2026-06-10T10:00:06-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:18.334368"
-    },
-    {
-      "source": "theverge",
-      "title": "I’m relieved Siri AI isn’t trying to be a health coach",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can expect our next issue a",
-      "link": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
-      "published": "2026-06-10T10:00:00-04:00",
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from gradua",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "published": "2026-06-10T13:45:11-04:00",
       "keywords": [
         "AI",
         "Go",
+        "Google",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:18.334408"
+      "crawled_at": "2026-06-10T20:09:13.114260"
     },
     {
-      "source": "hackernews",
-      "title": "Britain Became as Poor as Mississippi",
-      "summary": "Article URL: https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/\nComments URL: https://news.ycombinator.com/item?id=48476751\nPoints: 24\n# Comments: 9",
-      "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
-      "published": "Wed, 10 Jun 2026 14:23:12 +0000",
+      "source": "theverge",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for ",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "published": "2026-06-10T13:38:00-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:21.847418"
+      "crawled_at": "2026-06-10T20:09:13.114296"
     },
     {
-      "source": "hackernews",
-      "title": "GnuCash is right. It's also why I built my own finance app",
-      "summary": "Article URL: https://k-id.app/blog/gnucash-is-right/\nComments URL: https://news.ycombinator.com/item?id=48476514\nPoints: 12\n# Comments: 11",
-      "link": "https://k-id.app/blog/gnucash-is-right/",
-      "published": "Wed, 10 Jun 2026 14:06:22 +0000",
+      "source": "theverge",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model.",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "published": "2026-06-10T13:20:36-04:00",
       "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.114336"
+    },
+    {
+      "source": "theverge",
+      "title": "You can just tell the Instagram algorithm what you want now",
+      "summary": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across all the major parts of Instagram,\" according to Instagram boss Adam Mosseri. Right now, the feature ",
+      "link": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell",
+      "published": "2026-06-10T13:06:10-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "REST",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-10T14:50:21.847458"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.114368"
     },
     {
       "source": "hackernews",
-      "title": "Notes on DeepSeek",
-      "summary": "Article URL: https://twitter.com/NikoMcCarty/status/2064686557400100884\nComments URL: https://news.ycombinator.com/item?id=48476474\nPoints: 20\n# Comments: 6",
-      "link": "https://twitter.com/NikoMcCarty/status/2064686557400100884",
-      "published": "Wed, 10 Jun 2026 14:03:40 +0000",
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade\nComments URL: https://news.ycombinator.com/item?id=48481126\nPoints: 21\n# Comments: 1",
+      "link": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "published": "Wed, 10 Jun 2026 19:06:50 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-10T20:09:13.352868"
+    },
+    {
+      "source": "hackernews",
+      "title": "ΠFS",
+      "summary": "Article URL: https://github.com/philipl/pifs\nComments URL: https://news.ycombinator.com/item?id=48480978\nPoints: 8\n# Comments: 0",
+      "link": "https://github.com/philipl/pifs",
+      "published": "Wed, 10 Jun 2026 18:54:54 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-10T20:09:13.352921"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "summary": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated\nComments URL: https://news.ycombinator.com/item?id=48480852\nPoints: 64\n# Comments: 16",
+      "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "published": "Wed, 10 Jun 2026 18:45:20 +0000",
+      "keywords": [
+        "Anthropic",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-10T20:09:13.352963"
+    },
+    {
+      "source": "hackernews",
+      "title": "Policy on the AI Exponential",
+      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential\nComments URL: https://news.ycombinator.com/item?id=48480719\nPoints: 68\n# Comments: 50",
+      "link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "published": "Wed, 10 Jun 2026 18:36:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.352990"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
+      "summary": "https://gwern.net/doc/economics/automation/1989-david.pdf\n\nComments URL: https://news.ycombinator.com/item?id=48479996\nPoints: 19\n# Comments: 3",
+      "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+      "published": "Wed, 10 Jun 2026 17:47:46 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:21.847490"
+      "crawled_at": "2026-06-10T20:09:13.353026"
     },
     {
-      "source": "hackernews",
-      "title": "PgDog is funded and coming to a database near you",
-      "summary": "Article URL: https://pgdog.dev/blog/our-funding-announcement\nComments URL: https://news.ycombinator.com/item?id=48476466\nPoints: 33\n# Comments: 18",
-      "link": "https://pgdog.dev/blog/our-funding-announcement",
-      "published": "Wed, 10 Jun 2026 14:02:59 +0000",
+      "source": "arstechnica",
+      "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "published": "Wed, 10 Jun 2026 19:29:21 +0000",
       "keywords": [
-        "Funding",
-        "Database",
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.474491"
+    },
+    {
+      "source": "arstechnica",
+      "title": "We managed to glean some interesting details about the Artemis III mission",
+      "summary": "\"I was on the phone with Blue Origin leadership that night, all the next day, all through the weekend.\"",
+      "link": "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
+      "published": "Wed, 10 Jun 2026 17:31:13 +0000",
+      "keywords": [
+        "AI",
+        "REST",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-06-10T14:50:21.847521"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.474525"
     },
     {
-      "source": "hackernews",
-      "title": "A €0.01 bank transfer could compromise a banking AI agent",
-      "summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/\nComments URL: https://news.ycombinator.com/item?id=48476136\nPoints: 5\n# Comments: 1",
-      "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "published": "Wed, 10 Jun 2026 13:39:11 +0000",
+      "source": "arstechnica",
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "published": "Wed, 10 Jun 2026 17:19:31 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-10T20:09:13.474549"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
+      "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
+      "link": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
+      "published": "Wed, 10 Jun 2026 17:04:47 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:21.847557"
+      "crawled_at": "2026-06-10T20:09:13.474579"
     },
     {
       "source": "arstechnica",
-      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
-      "summary": "Violent threats against lawmakers have also surged on Facebook.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-      "published": "Wed, 10 Jun 2026 13:31:37 +0000",
+      "title": "OB-GYNs release their own vaccine schedule, rejecting RFK Jr.'s meddling",
+      "summary": "Thirteen other medical groups have already endorsed the independent schedule.",
+      "link": "https://arstechnica.com/health/2026/06/bucking-rfk-jr-ob-gyns-release-vaccine-guidance-that-conflicts-with-cdc/",
+      "published": "Wed, 10 Jun 2026 16:52:36 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-10T20:09:13.474608"
+    },
+    {
+      "source": "wired",
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "summary": "Colleagues discussed the incident on internal message boards, according to documents seen by WIRED.",
+      "link": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "published": "Wed, 10 Jun 2026 19:49:26 +0000",
       "keywords": [
         "AI",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:21.945521"
+      "crawled_at": "2026-06-10T20:09:13.613622"
     },
     {
-      "source": "arstechnica",
-      "title": "GM Energy introduces V2G support and new energy storage battery chemistry",
-      "summary": "There are more than a quarter of a million V2G-capable GM EVs on the roads already.",
-      "link": "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
-      "published": "Wed, 10 Jun 2026 13:13:33 +0000",
+      "source": "wired",
+      "title": "The Best USB-C Cables (2026): for Smartphones, Tablets, and Laptops",
+      "summary": "Unravel the tangled world of cords and find the ones you need to charge your gadgets and transfer data.",
+      "link": "https://www.wired.com/gallery/best-usb-c-cables/",
+      "published": "Wed, 10 Jun 2026 18:29:45 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:21.945557"
+      "crawled_at": "2026-06-10T20:09:13.613660"
     },
     {
-      "source": "arstechnica",
-      "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-      "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
-      "published": "Tue, 09 Jun 2026 21:05:39 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:21.945581"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
-      "link": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-      "published": "Tue, 09 Jun 2026 20:56:52 +0000",
-      "keywords": [
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-10T14:50:21.945609"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Three key vital signs make up the \"urban pulse\" of a city",
-      "summary": "Cities are dynamic, not static grids, and urbanization is a \"spiky,\" cyclical, and asynchronous process.",
-      "link": "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-      "published": "Tue, 09 Jun 2026 20:35:22 +0000",
+      "source": "wired",
+      "title": "Donald Trump Is Ready for Fight Night. So Are Donors",
+      "summary": "The UFC event on the White House’s South Lawn is the president’s birthday gift to himself. Sources expect it to be a lobbying extravaganza.",
+      "link": "https://www.wired.com/story/donald-trump-ufc-white-house-south-lawn/",
+      "published": "Wed, 10 Jun 2026 17:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:21.945638"
+      "crawled_at": "2026-06-10T20:09:13.613708"
     },
     {
       "source": "wired",
@@ -279,7 +320,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-10T14:50:22.058257"
+      "crawled_at": "2026-06-10T20:09:13.613737"
     },
     {
       "source": "wired",
@@ -289,46 +330,7 @@
       "published": "Wed, 10 Jun 2026 13:39:32 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:22.058307"
-    },
-    {
-      "source": "wired",
-      "title": "Digital Notebook Throwdown (2026): Kindle Scribe, ReMarkable Paper Pure",
-      "summary": "The newest Kindle Scribe means there are now three digital notebooks you can buy in the $400 price range. Here’s which one you should get.",
-      "link": "https://www.wired.com/story/affordable-digital-notebook-comparison-2026/",
-      "published": "Wed, 10 Jun 2026 13:04:00 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:22.058349"
-    },
-    {
-      "source": "wired",
-      "title": "What’s the Best Kindle of 2026? (So Far)",
-      "summary": "I’ve tried every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "published": "Wed, 10 Jun 2026 13:02:00 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-10T14:50:22.058378"
-    },
-    {
-      "source": "wired",
-      "title": "Best iPad Accessories (2026): Keyboards, Cases, Styli",
-      "summary": "Kit out your Apple tablet with our favorite stands, cases, keyboards, and styli.",
-      "link": "https://www.wired.com/gallery/best-ipad-accessories/",
-      "published": "Wed, 10 Jun 2026 11:28:00 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-10T14:50:22.058405"
+      "crawled_at": "2026-06-10T20:09:13.613776"
     }
   ]
 }
