@@ -1,264 +1,324 @@
 {
-  "last_updated": "2026-06-12T14:31:28.993094",
+  "last_updated": "2026-06-12T19:50:41.602909",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "SpaceX IPO: Everything you need to know",
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "summary": "A SpaceX-Tesla merger seems inevitable.",
+      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+      "published": "Fri, 12 Jun 2026 19:28:31 +0000",
+      "keywords": [
+        "Tesla"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-12T19:50:38.854710"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-      "published": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "published": "Fri, 12 Jun 2026 18:36:19 +0000",
       "keywords": [
         "IPO",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-12T14:31:27.977895"
+      "crawled_at": "2026-06-12T19:50:38.854765"
     },
     {
       "source": "techcrunch",
-      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-      "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-      "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-      "published": "Fri, 12 Jun 2026 11:43:32 +0000",
+      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
+      "published": "Fri, 12 Jun 2026 18:20:50 +0000",
+      "keywords": [
+        "IPO",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-06-12T19:50:38.854813"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "published": "Fri, 12 Jun 2026 17:38:11 +0000",
       "keywords": [
         "AI",
+        "Funding",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:27.978326"
+      "crawled_at": "2026-06-12T19:50:38.854848"
     },
     {
       "source": "techcrunch",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "published": "Fri, 12 Jun 2026 17:26:08 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Go",
+        "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:27.978392"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-      "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-      "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-      "published": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:27.978440"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "published": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:27.978491"
+      "crawled_at": "2026-06-12T19:50:38.854877"
     },
     {
       "source": "theverge",
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "published": "2026-06-12T10:03:39-04:00",
+      "title": "The world’s first trillionaire is a killer",
+      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did",
+      "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
+      "published": "2026-06-12T14:46:40-04:00",
       "keywords": [
         "AI",
-        "Startup",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:28.159113"
-    },
-    {
-      "source": "theverge",
-      "title": "SpaceX is now public",
-      "summary": "SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on June 12th at the take-it-or-leave-it price of $135-per-share - though most retail investors will likely p",
-      "link": "https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk",
-      "published": "2026-06-12T09:54:49-04:00",
-      "keywords": [
-        "AI",
+        "Go",
         "IPO",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:28.159159"
+      "crawled_at": "2026-06-12T19:50:39.003369"
     },
     {
       "source": "theverge",
-      "title": "Sorry, the Ooni pizza oven is totally worth it",
-      "summary": "Summer is approaching, which means it's time to enjoy some gloriously warm weather beside the grill. But let me pitch you on an alternative: Instead of the usual burgers, hot dogs, and kebabs, what if you made pizza? I've been doing this for a few years now, and while I still love to grill, it [&#82",
-      "link": "https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs",
-      "published": "2026-06-12T09:30:00-04:00",
+      "title": "Siri is good now??",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#823",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "published": "2026-06-12T13:17:04-04:00",
       "keywords": [
-        "AR"
+        "Go",
+        "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-12T14:31:28.159202"
+      "crawled_at": "2026-06-12T19:50:39.003420"
     },
     {
       "source": "theverge",
-      "title": "BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports",
-      "summary": "Just in time for Le Mans, BMW is pulling the cover off its new M performance concept built on the Bavarian automaker's Neue Klasse next-generation architecture. The concept is the debut of a new design language for BMW's M division, signaling a shift toward a more electrified future. The company say",
-      "link": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev",
-      "published": "2026-06-12T09:00:00-04:00",
+      "title": "A trillion dollars is a stupid amount of money",
+      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in ",
+      "link": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
+      "published": "2026-06-12T12:26:29-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:39.003456"
+    },
+    {
+      "source": "theverge",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "published": "2026-06-12T12:24:39-04:00",
+      "keywords": [
+        "AI",
+        "IPO",
+        "Tesla",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:39.003489"
+    },
+    {
+      "source": "theverge",
+      "title": "I held the Trump phone",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an unexpected in-person encounter with the T1. You see a lot of interesting phones whe",
+      "link": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
+      "published": "2026-06-12T12:05:00-04:00",
+      "keywords": [
+        "Go",
+        "REST"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-12T19:50:39.003531"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/\nComments URL: https://news.ycombinator.com/item?id=48507836\nPoints: 58\n# Comments: 12",
+      "link": "https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/",
+      "published": "Fri, 12 Jun 2026 18:40:47 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.159258"
-    },
-    {
-      "source": "theverge",
-      "title": "The Nintendo DS is still the best gaming handheld for travel",
-      "summary": "Even with the looming specter of rising prices, there's never been a better time for portable gaming. The Steam Deck has ushered in a new era of handheld PCs, the Analogue Pocket and other Game Boy-style remakes are making retro games more approachable than ever, the Playdate has led to an alternate",
-      "link": "https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel",
-      "published": "2026-06-12T08:30:00-04:00",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-12T14:31:28.159303"
+      "crawled_at": "2026-06-12T19:50:41.302015"
     },
     {
       "source": "hackernews",
-      "title": "WASI 0.3.0 Released",
-      "summary": "Article URL: https://github.com/WebAssembly/WASI/releases/tag/v0.3.0\nComments URL: https://news.ycombinator.com/item?id=48504063\nPoints: 15\n# Comments: 0",
-      "link": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-      "published": "Fri, 12 Jun 2026 13:51:15 +0000",
+      "title": "I Won't Buy You a Coffee",
+      "summary": "Article URL: https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/\nComments URL: https://news.ycombinator.com/item?id=48507783\nPoints: 54\n# Comments: 39",
+      "link": "https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/",
+      "published": "Fri, 12 Jun 2026 18:37:25 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-12T19:50:41.302056"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cosmodial Sky Atlas",
+      "summary": "Article URL: https://killedbyapixel.github.io/Cosmodial/\nComments URL: https://news.ycombinator.com/item?id=48507571\nPoints: 11\n# Comments: 1",
+      "link": "https://killedbyapixel.github.io/Cosmodial/",
+      "published": "Fri, 12 Jun 2026 18:20:17 +0000",
+      "keywords": [
+        "API",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.613867"
+      "crawled_at": "2026-06-12T19:50:41.302089"
     },
     {
       "source": "hackernews",
-      "title": "SpaceX's president is floating a Tesla merger as the company begins trading",
-      "summary": "Article URL: https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226\nComments URL: https://news.ycombinator.com/item?id=48504013\nPoints: 48\n# Comments: 38",
-      "link": "https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226",
-      "published": "Fri, 12 Jun 2026 13:47:21 +0000",
-      "keywords": [
-        "IPO",
-        "Tesla",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-12T14:31:28.613914"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci\nComments URL: https://news.ycombinator.com/item?id=48503717\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "published": "Fri, 12 Jun 2026 13:14:18 +0000",
+      "title": "I Am Not a Reverse Centaur",
+      "summary": "Article URL: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\nComments URL: https://news.ycombinator.com/item?id=48507282\nPoints: 112\n# Comments: 71",
+      "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "published": "Fri, 12 Jun 2026 17:53:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.613954"
+      "crawled_at": "2026-06-12T19:50:41.302122"
     },
     {
       "source": "hackernews",
-      "title": "Encrypted Spaces An architecture for collaborative applications",
-      "summary": "Article URL: https://encryptedspaces.org/\nComments URL: https://news.ycombinator.com/item?id=48503219\nPoints: 6\n# Comments: 0",
-      "link": "https://encryptedspaces.org/",
-      "published": "Fri, 12 Jun 2026 12:22:07 +0000",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "summary": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=48507278\nPoints: 97\n# Comments: 93",
+      "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "published": "Fri, 12 Jun 2026 17:52:46 +0000",
       "keywords": [
+        "ChatGPT",
+        "GPT",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-12T14:31:28.613988"
-    },
-    {
-      "source": "hackernews",
-      "title": "Maxproof",
-      "summary": "Article URL: https://arxiv.org/abs/2606.13473\nComments URL: https://news.ycombinator.com/item?id=48503014\nPoints: 62\n# Comments: 3",
-      "link": "https://arxiv.org/abs/2606.13473",
-      "published": "Fri, 12 Jun 2026 12:00:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.614018"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:41.302150"
     },
     {
       "source": "arstechnica",
-      "title": "Cameras, sensors, and 3D body scans: All the tech helping eliminate blown calls",
-      "summary": "This World Cup, refs will use digital twins of each player to view plays from every angle.",
-      "link": "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
-      "published": "Fri, 12 Jun 2026 11:45:18 +0000",
+      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+      "published": "Fri, 12 Jun 2026 18:03:29 +0000",
       "keywords": [
-        "Git"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.804310"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
-      "summary": "Outbreak responses are still playing catch-up as US works to isolate itself.",
-      "link": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
-      "published": "Fri, 12 Jun 2026 11:30:23 +0000",
-      "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.804349"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:41.469329"
     },
     {
       "source": "arstechnica",
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "summary": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
-      "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "published": "Fri, 12 Jun 2026 11:15:41 +0000",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "published": "Fri, 12 Jun 2026 17:18:49 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:41.469360"
+    },
+    {
+      "source": "arstechnica",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "published": "Fri, 12 Jun 2026 16:51:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-12T19:50:41.469384"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
+      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "published": "Fri, 12 Jun 2026 16:34:36 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-06-12T19:50:41.469410"
+    },
+    {
+      "source": "arstechnica",
+      "title": "RFK Jr. melts down over NYT report, admits he blacklists reporters",
+      "summary": "NYT reported Kennedy is disengaged. Kennedy's response seems to show NYT is right.",
+      "link": "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
+      "published": "Fri, 12 Jun 2026 16:19:44 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-12T19:50:41.469438"
+    },
+    {
+      "source": "wired",
+      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
+      "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
+      "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
+      "published": "Fri, 12 Jun 2026 18:03:25 +0000",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:28.804379"
+      "crawled_at": "2026-06-12T19:50:41.602649"
     },
     {
-      "source": "arstechnica",
-      "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
-      "summary": "Failure raises questions about how Verizon prepares refurbished phones for new users.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
-      "published": "Fri, 12 Jun 2026 11:00:41 +0000",
+      "source": "wired",
+      "title": "Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards",
+      "summary": "A cottage industry of celebrity figurines, blinking screens, and other DIY gadgets is helping drivers bypass Tesla's distracted-driving controls.",
+      "link": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/",
+      "published": "Fri, 12 Jun 2026 17:57:34 +0000",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-12T19:50:41.602701"
+    },
+    {
+      "source": "wired",
+      "title": "Elon Musk Is the World’s First Trillionaire",
+      "summary": "SpaceX’s stock market debut has thrust the richest man in the universe into an unexplored frontier of wealth.",
+      "link": "https://www.wired.com/story/elon-musk-is-the-worlds-first-trillionaire-wow/",
+      "published": "Fri, 12 Jun 2026 17:54:45 +0000",
       "keywords": [
         "AI",
+        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:28.804403"
+      "crawled_at": "2026-06-12T19:50:41.602730"
     },
     {
-      "source": "arstechnica",
-      "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
-      "summary": "\"If I needed to fly on another vehicle, what would that look like?\"",
-      "link": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
-      "published": "Fri, 12 Jun 2026 11:00:13 +0000",
+      "source": "wired",
+      "title": "China Didn’t Make Americans Hate Data Centers",
+      "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+      "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "published": "Fri, 12 Jun 2026 17:17:10 +0000",
       "keywords": [
         "AI",
-        "IPO"
+        "OpenAI",
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-12T14:31:28.804425"
+      "crawled_at": "2026-06-12T19:50:41.602762"
     },
     {
       "source": "wired",
@@ -272,55 +332,7 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-06-12T14:31:28.992867"
-    },
-    {
-      "source": "wired",
-      "title": "A White Supremacist Youth Group Helped Orchestrate the Belfast Riots",
-      "summary": "After Elon Musk and Tommy Robinson stoked anger over a horrific knife attack in Belfast, a youth group linked to a global neo-Nazi movement quietly orchestrated anti-immigrant riots.",
-      "link": "https://www.wired.com/story/a-white-supremacist-youth-group-helped-orchestrate-the-belfast-riots/",
-      "published": "Fri, 12 Jun 2026 13:21:00 +0000",
-      "keywords": [
-        "IoT"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.992914"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best Digital Notebooks (2026): ReMarkable, Kobo, Kindle",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "published": "Fri, 12 Jun 2026 12:07:00 +0000",
-      "keywords": [
-        "Git",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.992944"
-    },
-    {
-      "source": "wired",
-      "title": "4 Best Floodlight Security Cameras (2026) After Thorough Testing",
-      "summary": "Light up and secure your driveway, backyard, or porch with a floodlight security camera.",
-      "link": "https://www.wired.com/gallery/best-floodlight-security-cameras/",
-      "published": "Fri, 12 Jun 2026 11:30:00 +0000",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-12T14:31:28.992968"
-    },
-    {
-      "source": "wired",
-      "title": "Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike",
-      "summary": "The pedal-assist can be jerky, but the throttle offers smooth, powerful acceleration.",
-      "link": "https://www.wired.com/review/pedal-electric-h-t/",
-      "published": "Fri, 12 Jun 2026 11:02:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-06-12T14:31:28.992995"
+      "crawled_at": "2026-06-12T19:50:41.602812"
     }
   ]
 }
