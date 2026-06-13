@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-13T08:45:19.485470",
+  "last_updated": "2026-06-13T13:22:40.385847",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "published": "Sat, 13 Jun 2026 11:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-13T13:22:39.693104"
+    },
     {
       "source": "techcrunch",
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -14,7 +26,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-13T08:45:17.595649"
+      "crawled_at": "2026-06-13T13:22:39.693182"
     },
     {
       "source": "techcrunch",
@@ -30,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.595702"
+      "crawled_at": "2026-06-13T13:22:39.693234"
     },
     {
       "source": "techcrunch",
@@ -43,7 +55,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-13T08:45:17.595749"
+      "crawled_at": "2026-06-13T13:22:39.693293"
     },
     {
       "source": "techcrunch",
@@ -56,157 +68,153 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.595799"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.595838"
+      "crawled_at": "2026-06-13T13:22:39.693341"
     },
     {
       "source": "theverge",
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "summary": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribu",
-      "link": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-      "published": "2026-06-12T21:32:18-04:00",
+      "title": "My yard is dying, so I made an app for that",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "published": "2026-06-13T09:00:00-04:00",
       "keywords": [
-        "AI",
-        "VR",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.801198"
-    },
-    {
-      "source": "theverge",
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "summary": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range p",
-      "link": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-      "published": "2026-06-12T16:02:48-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Android",
         "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.801244"
-    },
-    {
-      "source": "theverge",
-      "title": "The world’s first trillionaire is a killer",
-      "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did",
-      "link": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-      "published": "2026-06-12T14:46:40-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "IPO",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.801290"
-    },
-    {
-      "source": "theverge",
-      "title": "Siri is good now??",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#823",
-      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "published": "2026-06-12T13:17:04-04:00",
-      "keywords": [
-        "Go",
-        "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-13T08:45:17.801328"
+      "crawled_at": "2026-06-13T13:22:39.764855"
     },
     {
       "source": "theverge",
-      "title": "A trillion dollars is a stupid amount of money",
-      "summary": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in ",
-      "link": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
-      "published": "2026-06-12T12:26:29-04:00",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "published": "2026-06-13T08:55:49-04:00",
+      "keywords": [
+        "Anthropic",
+        "Go",
+        "Security"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-06-13T13:22:39.764906"
+    },
+    {
+      "source": "theverge",
+      "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+      "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to collect items and keys to fight bosses and gather magical M",
+      "link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+      "published": "2026-06-13T08:00:00-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:17.801360"
+      "crawled_at": "2026-06-13T13:22:39.764940"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "published": "2026-06-13T08:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "Google",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-13T13:22:39.764980"
+    },
+    {
+      "source": "theverge",
+      "title": "A better way to manage all your screenshots",
+      "summary": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This week, I've been preparing for a month of getting absolutely nothing done during",
+      "link": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+      "published": "2026-06-13T08:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-13T13:22:39.765020"
     },
     {
       "source": "hackernews",
-      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "summary": "Article URL: https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/\nComments URL: https://news.ycombinator.com/item?id=48514560\nPoints: 49\n# Comments: 8",
-      "link": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
-      "published": "Sat, 13 Jun 2026 07:45:39 +0000",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "summary": "Article URL: https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko\nComments URL: https://news.ycombinator.com/item?id=48516573\nPoints: 9\n# Comments: 0",
+      "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "published": "Sat, 13 Jun 2026 12:20:05 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-13T13:22:40.178478"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "summary": "Article URL: https://hallucinate.site/gallery\nComments URL: https://news.ycombinator.com/item?id=48516510\nPoints: 27\n# Comments: 6",
+      "link": "https://hallucinate.site/gallery",
+      "published": "Sat, 13 Jun 2026 12:11:35 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T08:45:19.108541"
+      "crawled_at": "2026-06-13T13:22:40.178531"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "summary": "Article URL: https://github.com/vladignatyev/brain-map-skill\nComments URL: https://news.ycombinator.com/item?id=48514124\nPoints: 3\n# Comments: 0",
-      "link": "https://github.com/vladignatyev/brain-map-skill",
-      "published": "Sat, 13 Jun 2026 06:43:42 +0000",
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "summary": "Article URL: https://github.com/tensorzero/tensorzero\nComments URL: https://news.ycombinator.com/item?id=48516504\nPoints: 3\n# Comments: 1",
+      "link": "https://github.com/tensorzero/tensorzero",
+      "published": "Sat, 13 Jun 2026 12:10:47 +0000",
       "keywords": [
         "AI",
+        "Go",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.108578"
+      "crawled_at": "2026-06-13T13:22:40.178560"
     },
     {
       "source": "hackernews",
-      "title": "Leaving Mozilla",
-      "summary": "Article URL: https://blog.unitedheroes.net/5751\nComments URL: https://news.ycombinator.com/item?id=48513806\nPoints: 84\n# Comments: 16",
-      "link": "https://blog.unitedheroes.net/5751",
-      "published": "Sat, 13 Jun 2026 05:57:14 +0000",
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "summary": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500\nComments URL: https://news.ycombinator.com/item?id=48516379\nPoints: 51\n# Comments: 5",
+      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "published": "Sat, 13 Jun 2026 11:55:30 +0000",
       "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T08:45:19.108611"
+      "crawled_at": "2026-06-13T13:22:40.178597"
     },
     {
       "source": "hackernews",
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "summary": "Article URL: https://koenvangilst.nl/lab/claude-fable-shepherds-dog\nComments URL: https://news.ycombinator.com/item?id=48513728\nPoints: 56\n# Comments: 49",
-      "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "published": "Sat, 13 Jun 2026 05:44:46 +0000",
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it",
+      "link": "https://github.com/Paca-AI/paca",
+      "published": "Sat, 13 Jun 2026 09:44:25 +0000",
       "keywords": [
         "AI",
-        "Claude",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.108639"
+      "crawled_at": "2026-06-13T13:22:40.178654"
     },
     {
-      "source": "hackernews",
-      "title": "There is a shadow hanging over this Fable thing",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow\nComments URL: https://news.ycombinator.com/item?id=48513536\nPoints: 200\n# Comments: 179",
-      "link": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-      "published": "Sat, 13 Jun 2026 05:16:41 +0000",
+      "source": "arstechnica",
+      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+      "summary": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
+      "link": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+      "published": "Sat, 13 Jun 2026 11:18:42 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T08:45:19.108675"
+      "crawled_at": "2026-06-13T13:22:40.270260"
     },
     {
       "source": "arstechnica",
@@ -220,7 +228,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.292511"
+      "crawled_at": "2026-06-13T13:22:40.270292"
     },
     {
       "source": "arstechnica",
@@ -232,7 +240,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.292541"
+      "crawled_at": "2026-06-13T13:22:40.270314"
     },
     {
       "source": "arstechnica",
@@ -245,7 +253,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-13T08:45:19.292570"
+      "crawled_at": "2026-06-13T13:22:40.270341"
     },
     {
       "source": "arstechnica",
@@ -257,93 +265,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T08:45:19.292600"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "summary": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "published": "Fri, 12 Jun 2026 18:45:40 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.292621"
+      "crawled_at": "2026-06-13T13:22:40.270369"
     },
     {
       "source": "wired",
-      "title": "Here’s How AI Agents Can Protect EV Chargers",
-      "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
-      "link": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-      "published": "Sat, 13 Jun 2026 06:30:00 +0000",
+      "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
+      "summary": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
+      "link": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
+      "published": "Sat, 13 Jun 2026 11:33:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "REST"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.485147"
+      "category": "Tech News",
+      "crawled_at": "2026-06-13T13:22:40.385589"
     },
     {
       "source": "wired",
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "published": "Sat, 13 Jun 2026 02:26:10 +0000",
+      "title": "How Can Soccer Players Bend Their Shots in Midair?",
+      "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
+      "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
+      "published": "Sat, 13 Jun 2026 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Go",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.485202"
+      "crawled_at": "2026-06-13T13:22:40.385621"
     },
     {
       "source": "wired",
-      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
-      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-      "published": "Fri, 12 Jun 2026 23:45:26 +0000",
+      "title": "The FCC Wants to Kill Burner Phones",
+      "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
+      "published": "Sat, 13 Jun 2026 10:30:00 +0000",
       "keywords": [
         "AI",
-        "Hack",
-        "Meta",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.485245"
+      "crawled_at": "2026-06-13T13:22:40.385651"
     },
     {
       "source": "wired",
-      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-      "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
-      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-      "published": "Fri, 12 Jun 2026 21:16:25 +0000",
+      "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
+      "summary": "Whether you want to buy cheaper electricity, store solar energy, or guard against outages, EcoFlow’s home battery might be just what you need.",
+      "link": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
+      "published": "Sat, 13 Jun 2026 10:30:00 +0000",
       "keywords": [
         "AI",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.485290"
+      "crawled_at": "2026-06-13T13:22:40.385682"
     },
     {
       "source": "wired",
-      "title": "Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere",
-      "summary": "A Monster Energy–sponsored MMA show on the White House’s South Lawn was never going to be the height of dignity. But UFC Freedom 250 is failing to clear even the lowest bar.",
-      "link": "https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/",
-      "published": "Fri, 12 Jun 2026 18:03:25 +0000",
+      "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
+      "summary": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
+      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
+      "published": "Sat, 13 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
+        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T08:45:19.485335"
+      "crawled_at": "2026-06-13T13:22:40.385716"
     }
   ]
 }
