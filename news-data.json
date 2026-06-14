@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T08:59:52.227685",
+  "last_updated": "2026-06-14T13:25:56.570741",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.069599"
+      "crawled_at": "2026-06-14T13:25:55.850527"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.069650"
+      "crawled_at": "2026-06-14T13:25:55.850578"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.069676"
+      "crawled_at": "2026-06-14T13:25:55.850604"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.069704"
+      "crawled_at": "2026-06-14T13:25:55.850630"
     },
     {
       "source": "techcrunch",
@@ -69,7 +69,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.069728"
+      "crawled_at": "2026-06-14T13:25:55.850655"
+    },
+    {
+      "source": "theverge",
+      "title": "Solid-state batteries still aren’t ready, but gels are",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Lithium-ion b",
+      "link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+      "published": "2026-06-14T08:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-14T13:25:55.967714"
     },
     {
       "source": "theverge",
@@ -85,7 +97,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.358125"
+      "crawled_at": "2026-06-14T13:25:55.967772"
     },
     {
       "source": "theverge",
@@ -98,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.358197"
+      "crawled_at": "2026-06-14T13:25:55.967832"
     },
     {
       "source": "theverge",
@@ -110,7 +122,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.358245"
+      "crawled_at": "2026-06-14T13:25:55.967877"
     },
     {
       "source": "theverge",
@@ -124,25 +136,38 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-14T08:59:51.358303"
+      "crawled_at": "2026-06-14T13:25:55.967935"
     },
     {
-      "source": "theverge",
-      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
-      "summary": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to p",
-      "link": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
-      "published": "2026-06-13T12:00:00-04:00",
+      "source": "hackernews",
+      "title": "The Birth and Death of JavaScript (2014)",
+      "summary": "Article URL: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript\nComments URL: https://news.ycombinator.com/item?id=48526661\nPoints: 20\n# Comments: 6",
+      "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "published": "Sun, 14 Jun 2026 12:38:31 +0000",
       "keywords": [
-        "AI",
+        "JavaScript",
+        "Java",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.358350"
+      "category": "Programming",
+      "crawled_at": "2026-06-14T13:25:56.257517"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Earn a Billion Dollars",
+      "summary": "Article URL: https://paulgraham.com/earn.html\nComments URL: https://news.ycombinator.com/item?id=48526360\nPoints: 37\n# Comments: 78",
+      "link": "https://paulgraham.com/earn.html",
+      "published": "Sun, 14 Jun 2026 11:50:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-14T13:25:56.257559"
     },
     {
       "source": "hackernews",
       "title": "Don't trust large context windows",
-      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL: https://news.ycombinator.com/item?id=48524620\nPoints: 63\n# Comments: 47",
+      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL: https://news.ycombinator.com/item?id=48524620\nPoints: 158\n# Comments: 110",
       "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
       "published": "Sun, 14 Jun 2026 06:07:09 +0000",
       "keywords": [
@@ -151,55 +176,31 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-06-14T08:59:51.723993"
-    },
-    {
-      "source": "hackernews",
-      "title": "Consciousness likely not unique to earthlings, paper says",
-      "summary": "Article URL: https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says\nComments URL: https://news.ycombinator.com/item?id=48524447\nPoints: 30\n# Comments: 30",
-      "link": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
-      "published": "Sun, 14 Jun 2026 05:27:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.724047"
+      "crawled_at": "2026-06-14T13:25:56.257590"
     },
     {
       "source": "hackernews",
       "title": "Tribblix: The retro Illumos distribution",
-      "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 32\n# Comments: 9",
+      "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 55\n# Comments: 20",
       "link": "http://tribblix.org/",
       "published": "Sun, 14 Jun 2026 05:23:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.724081"
+      "crawled_at": "2026-06-14T13:25:56.257621"
     },
     {
       "source": "hackernews",
-      "title": "Phoenix LiveView 1.2 Released",
-      "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released\nComments URL: https://news.ycombinator.com/item?id=48524293\nPoints: 86\n# Comments: 15",
+      "title": "Phoenix LiveView 1.2",
+      "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released\nComments URL: https://news.ycombinator.com/item?id=48524293\nPoints: 145\n# Comments: 38",
       "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
       "published": "Sun, 14 Jun 2026 04:53:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.724116"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pac-Man, but you're the ghost",
-      "summary": "Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost\nComments URL: https://news.ycombinator.com/item?id=48524135\nPoints: 80\n# Comments: 36",
-      "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "published": "Sun, 14 Jun 2026 04:18:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.724150"
+      "crawled_at": "2026-06-14T13:25:56.257654"
     },
     {
       "source": "arstechnica",
@@ -211,7 +212,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.914536"
+      "crawled_at": "2026-06-14T13:25:56.459375"
     },
     {
       "source": "arstechnica",
@@ -223,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:51.914576"
+      "crawled_at": "2026-06-14T13:25:56.459431"
     },
     {
       "source": "arstechnica",
@@ -237,7 +238,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.914601"
+      "crawled_at": "2026-06-14T13:25:56.459457"
     },
     {
       "source": "arstechnica",
@@ -249,7 +250,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:51.914623"
+      "crawled_at": "2026-06-14T13:25:56.459479"
     },
     {
       "source": "arstechnica",
@@ -262,72 +263,69 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-14T08:59:51.914650"
+      "crawled_at": "2026-06-14T13:25:56.459506"
     },
     {
       "source": "wired",
-      "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
-      "summary": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
-      "link": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
-      "published": "Sat, 13 Jun 2026 11:33:00 +0000",
-      "keywords": [
-        "REST"
-      ],
+      "title": "20 Best Gifts for Men, Manly Men, and Menly Man Men (2026)",
+      "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "link": "https://www.wired.com/gallery/best-gifts-for-men-2026/",
+      "published": "Sun, 14 Jun 2026 11:36:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-14T08:59:52.227441"
+      "crawled_at": "2026-06-14T13:25:56.570494"
     },
     {
       "source": "wired",
-      "title": "How Can Soccer Players Bend Their Shots in Midair?",
-      "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-      "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-      "published": "Sat, 13 Jun 2026 11:00:00 +0000",
+      "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+      "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+      "link": "https://www.wired.com/story/the-best-gifts-for-plant-lovers-and-gardeners-2026/",
+      "published": "Sun, 14 Jun 2026 11:00:00 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:52.227472"
-    },
-    {
-      "source": "wired",
-      "title": "The FCC Wants to Kill Burner Phones",
-      "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-      "published": "Sat, 13 Jun 2026 10:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Microsoft",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:52.227502"
+      "category": "Mobile",
+      "crawled_at": "2026-06-14T13:25:56.570536"
     },
     {
       "source": "wired",
-      "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
-      "summary": "Whether you want to buy cheaper electricity, store solar energy, or guard against outages, EcoFlow’s home battery might be just what you need.",
-      "link": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
-      "published": "Sat, 13 Jun 2026 10:30:00 +0000",
+      "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
+      "summary": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outdoors.",
+      "link": "https://www.wired.com/review/suunto-spark/",
+      "published": "Sun, 14 Jun 2026 10:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:52.227533"
+      "crawled_at": "2026-06-14T13:25:56.570560"
     },
     {
       "source": "wired",
-      "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
-      "summary": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
-      "link": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
-      "published": "Sat, 13 Jun 2026 10:00:00 +0000",
+      "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren’t Oil Prices Higher?",
+      "summary": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked Strait of Hormuz. That number is impossible to verify.",
+      "link": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+      "published": "Sun, 14 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-14T08:59:52.227569"
+      "crawled_at": "2026-06-14T13:25:56.570595"
+    },
+    {
+      "source": "wired",
+      "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
+      "summary": "This handheld device combines red light therapy, microcurrents, sonic vibration, warmth, and a serum to support healthy hair growth.",
+      "link": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
+      "published": "Sun, 14 Jun 2026 09:35:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-14T13:25:56.570621"
     }
   ]
 }
