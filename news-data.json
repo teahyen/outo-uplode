@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-06-13T19:05:43.421896",
+  "last_updated": "2026-06-14T02:34:45.160539",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "published": "Sun, 14 Jun 2026 00:03:49 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-14T02:34:44.487484"
+    },
+    {
+      "source": "techcrunch",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "published": "Sat, 13 Jun 2026 20:42:31 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-14T02:34:44.487520"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Go",
+        "Security",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-14T02:34:44.487548"
+    },
     {
       "source": "techcrunch",
       "title": "OpenAI faces investigation from state attorneys general",
@@ -14,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.808861"
+      "crawled_at": "2026-06-14T02:34:44.487574"
     },
     {
       "source": "techcrunch",
@@ -27,49 +69,36 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.808923"
+      "crawled_at": "2026-06-14T02:34:44.487619"
     },
     {
-      "source": "techcrunch",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-      "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-      "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "published": "Sat, 13 Jun 2026 11:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.808953"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "published": "Sat, 13 Jun 2026 04:14:19 +0000",
-      "keywords": [
-        "Go",
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-13T19:05:42.808998"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "source": "theverge",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "published": "2026-06-13T17:39:26-04:00",
       "keywords": [
         "AI",
         "Anthropic",
-        "Rust",
-        "Go",
-        "AR"
+        "Security",
+        "Cybersecurity",
+        "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.809039"
+      "crawled_at": "2026-06-14T02:34:44.564924"
+    },
+    {
+      "source": "theverge",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutan",
+      "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "published": "2026-06-13T16:00:00-04:00",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-14T02:34:44.564988"
     },
     {
       "source": "theverge",
@@ -81,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T19:05:42.894423"
+      "crawled_at": "2026-06-14T02:34:44.565033"
     },
     {
       "source": "theverge",
@@ -95,7 +124,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-13T19:05:42.894512"
+      "crawled_at": "2026-06-14T02:34:44.565089"
     },
     {
       "source": "theverge",
@@ -108,100 +137,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.894561"
+      "crawled_at": "2026-06-14T02:34:44.565132"
     },
     {
-      "source": "theverge",
-      "title": "My first 24 hours with Siri AI on the Mac",
-      "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had [&#8230;]",
-      "link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
-      "published": "2026-06-13T11:00:00-04:00",
+      "source": "hackernews",
+      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/\nComments URL: https://news.ycombinator.com/item?id=48523271\nPoints: 34\n# Comments: 16",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "published": "Sun, 14 Jun 2026 01:23:45 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Apple",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:42.894593"
+      "crawled_at": "2026-06-14T02:34:44.764518"
     },
     {
-      "source": "theverge",
-      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
-      "summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG po",
-      "link": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
-      "published": "2026-06-13T10:00:00-04:00",
+      "source": "hackernews",
+      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "summary": "Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol\nComments URL: https://news.ycombinator.com/item?id=48523203\nPoints: 33\n# Comments: 2",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+      "published": "Sun, 14 Jun 2026 01:10:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-14T02:34:44.764562"
+    },
+    {
+      "source": "hackernews",
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "summary": "Article URL: https://juniperspring.org/posts/honda-evil-valet/\nComments URL: https://news.ycombinator.com/item?id=48523080\nPoints: 16\n# Comments: 1",
+      "link": "https://juniperspring.org/posts/honda-evil-valet/",
+      "published": "Sun, 14 Jun 2026 00:49:46 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T19:05:42.894653"
+      "crawled_at": "2026-06-14T02:34:44.764598"
     },
     {
       "source": "hackernews",
-      "title": "GameBoy Workboy",
-      "summary": "Article URL: https://tcrf.net/Workboy\nComments URL: https://news.ycombinator.com/item?id=48519552\nPoints: 21\n# Comments: 2",
-      "link": "https://tcrf.net/Workboy",
-      "published": "Sat, 13 Jun 2026 17:43:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-13T19:05:43.175570"
-    },
-    {
-      "source": "hackernews",
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/\nComments URL: https://news.ycombinator.com/item?id=48519519\nPoints: 16\n# Comments: 2",
-      "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-      "published": "Sat, 13 Jun 2026 17:39:14 +0000",
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "summary": "Article URL: https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html\nComments URL: https://news.ycombinator.com/item?id=48522675\nPoints: 35\n# Comments: 3",
+      "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "published": "Sat, 13 Jun 2026 23:52:19 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.175610"
+      "crawled_at": "2026-06-14T02:34:44.764627"
     },
     {
       "source": "hackernews",
-      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 146\n# Comments: 140",
-      "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "published": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life\nComments URL: https://news.ycombinator.com/item?id=48522486\nPoints: 95\n# Comments: 12",
+      "link": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "published": "Sat, 13 Jun 2026 23:22:05 +0000",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.175644"
-    },
-    {
-      "source": "hackernews",
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html\nComments URL: https://news.ycombinator.com/item?id=48519011\nPoints: 34\n# Comments: 3",
-      "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "published": "Sat, 13 Jun 2026 16:49:42 +0000",
-      "keywords": [
+        "React",
+        "Windows",
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-06-13T19:05:43.175682"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI Coding at Home Without Going Broke",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 94\n# Comments: 90",
-      "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "published": "Sat, 13 Jun 2026 16:45:03 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.175711"
+      "crawled_at": "2026-06-14T02:34:44.764661"
     },
     {
       "source": "arstechnica",
@@ -213,7 +215,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.326258"
+      "crawled_at": "2026-06-14T02:34:44.952150"
     },
     {
       "source": "arstechnica",
@@ -225,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T19:05:43.326298"
+      "crawled_at": "2026-06-14T02:34:44.952187"
     },
     {
       "source": "arstechnica",
@@ -239,7 +241,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.326322"
+      "crawled_at": "2026-06-14T02:34:44.952211"
     },
     {
       "source": "arstechnica",
@@ -251,7 +253,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.326344"
+      "crawled_at": "2026-06-14T02:34:44.952232"
     },
     {
       "source": "arstechnica",
@@ -264,7 +266,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-13T19:05:43.326370"
+      "crawled_at": "2026-06-14T02:34:44.952258"
     },
     {
       "source": "wired",
@@ -276,7 +278,7 @@
         "REST"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-13T19:05:43.421665"
+      "crawled_at": "2026-06-14T02:34:45.160329"
     },
     {
       "source": "wired",
@@ -288,7 +290,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.421696"
+      "crawled_at": "2026-06-14T02:34:45.160357"
     },
     {
       "source": "wired",
@@ -302,7 +304,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.421727"
+      "crawled_at": "2026-06-14T02:34:45.160386"
     },
     {
       "source": "wired",
@@ -315,7 +317,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.421758"
+      "crawled_at": "2026-06-14T02:34:45.160415"
     },
     {
       "source": "wired",
@@ -329,7 +331,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-13T19:05:43.421793"
+      "crawled_at": "2026-06-14T02:34:45.160447"
     }
   ]
 }
