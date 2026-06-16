@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-06-15T20:43:07.359879",
+  "last_updated": "2026-06-16T02:42:05.317982",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "published": "Mon, 15 Jun 2026 23:51:44 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:03.444267"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published": "Mon, 15 Jun 2026 21:50:21 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Go",
+        "React",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:03.444307"
+    },
     {
       "source": "techcrunch",
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
@@ -13,7 +44,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.627633"
+      "crawled_at": "2026-06-16T02:42:03.444337"
     },
     {
       "source": "techcrunch",
@@ -26,7 +57,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-15T20:43:05.627695"
+      "crawled_at": "2026-06-16T02:42:03.444373"
     },
     {
       "source": "techcrunch",
@@ -39,37 +70,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.627730"
+      "crawled_at": "2026-06-16T02:42:03.444398"
     },
     {
-      "source": "techcrunch",
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "published": "Mon, 15 Jun 2026 15:29:51 +0000",
-      "keywords": [
-        "Anthropic",
-        "Go",
-        "REST",
-        "Security",
-        "Cybersecurity"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-15T20:43:05.627779"
-    },
-    {
-      "source": "techcrunch",
-      "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
-      "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
-      "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-      "published": "Mon, 15 Jun 2026 14:45:03 +0000",
+      "source": "theverge",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including p",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "published": "2026-06-15T17:15:08-04:00",
       "keywords": [
         "AI",
-        "IPO",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.627808"
+      "crawled_at": "2026-06-16T02:42:03.579144"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Compulsion Games and Do",
+      "link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "published": "2026-06-15T17:13:35-04:00",
+      "keywords": [
+        "Microsoft",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-16T02:42:03.579188"
     },
     {
       "source": "theverge",
@@ -81,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:05.809875"
+      "crawled_at": "2026-06-16T02:42:03.579234"
     },
     {
       "source": "theverge",
@@ -94,7 +123,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:05.809941"
+      "crawled_at": "2026-06-16T02:42:03.579277"
     },
     {
       "source": "theverge",
@@ -108,97 +137,97 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.809983"
-    },
-    {
-      "source": "theverge",
-      "title": "The best early Amazon Prime Day deals so far",
-      "summary": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powere",
-      "link": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
-      "published": "2026-06-15T14:39:37-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.810023"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "published": "2026-06-15T14:10:27-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:05.810064"
+      "crawled_at": "2026-06-16T02:42:03.579310"
     },
     {
       "source": "hackernews",
-      "title": "I Love the Computer",
-      "summary": "Article URL: https://michaelenger.com/blog/i-love-the-computer/\nComments URL: https://news.ycombinator.com/item?id=48546441\nPoints: 12\n# Comments: 0",
-      "link": "https://michaelenger.com/blog/i-love-the-computer/",
-      "published": "Mon, 15 Jun 2026 20:14:15 +0000",
+      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+      "summary": "Article URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/\nComments URL: https://news.ycombinator.com/item?id=48548975\nPoints: 37\n# Comments: 14",
+      "link": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "published": "Tue, 16 Jun 2026 00:28:14 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-16T02:42:04.977945"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reviews have become expensive, rewrites have become cheap",
+      "summary": "Article URL: http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/\nComments URL: https://news.ycombinator.com/item?id=48548883\nPoints: 19\n# Comments: 12",
+      "link": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+      "published": "Tue, 16 Jun 2026 00:13:34 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:06.955139"
+      "crawled_at": "2026-06-16T02:42:04.977984"
     },
     {
       "source": "hackernews",
-      "title": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
-      "summary": "Article URL: https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083\nComments URL: https://news.ycombinator.com/item?id=48546358\nPoints: 16\n# Comments: 1",
-      "link": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
-      "published": "Mon, 15 Jun 2026 20:06:49 +0000",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "summary": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 174\n# Comments: 59",
+      "link": "https://www.richardosgood.com/posts/banned-book-library/",
+      "published": "Mon, 15 Jun 2026 22:37:55 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:06.955187"
+      "crawled_at": "2026-06-16T02:42:04.978013"
     },
     {
       "source": "hackernews",
-      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
-      "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/\nComments URL: https://news.ycombinator.com/item?id=48546306\nPoints: 27\n# Comments: 13",
-      "link": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
-      "published": "Mon, 15 Jun 2026 20:02:02 +0000",
+      "title": "Why I email complete strangers",
+      "summary": "Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/\nComments URL: https://news.ycombinator.com/item?id=48547566\nPoints: 79\n# Comments: 41",
+      "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "published": "Mon, 15 Jun 2026 21:57:10 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:04.978034"
+    },
+    {
+      "source": "hackernews",
+      "title": "Peopleless economy? Not technically impossible",
+      "summary": "Article URL: https://gmalandrakis.com/writings/ad-economicum.html\nComments URL: https://news.ycombinator.com/item?id=48547062\nPoints: 100\n# Comments: 182",
+      "link": "https://gmalandrakis.com/writings/ad-economicum.html",
+      "published": "Mon, 15 Jun 2026 21:10:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-16T02:42:04.978073"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+      "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
+      "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+      "published": "Mon, 15 Jun 2026 23:40:38 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:06.955220"
+      "crawled_at": "2026-06-16T02:42:05.184309"
     },
     {
-      "source": "hackernews",
-      "title": "A backdoor in a LinkedIn job offer",
-      "summary": "Article URL: https://roman.pt/posts/linkedin-backdoor/\nComments URL: https://news.ycombinator.com/item?id=48546294\nPoints: 54\n# Comments: 7",
-      "link": "https://roman.pt/posts/linkedin-backdoor/",
-      "published": "Mon, 15 Jun 2026 20:00:57 +0000",
+      "source": "arstechnica",
+      "title": "Heart protection from COVID shots remains amid updates, study finds",
+      "summary": "Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.",
+      "link": "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
+      "published": "Mon, 15 Jun 2026 21:04:26 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:06.955252"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Alaska Server",
-      "summary": "Article URL: https://serialport.org/blog/the-alaska-server/\nComments URL: https://news.ycombinator.com/item?id=48545293\nPoints: 15\n# Comments: 1",
-      "link": "https://serialport.org/blog/the-alaska-server/",
-      "published": "Mon, 15 Jun 2026 18:37:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:06.955283"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:05.184333"
     },
     {
       "source": "arstechnica",
@@ -208,7 +237,7 @@
       "published": "Mon, 15 Jun 2026 20:14:04 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:07.180534"
+      "crawled_at": "2026-06-16T02:42:05.184357"
     },
     {
       "source": "arstechnica",
@@ -220,7 +249,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:07.180576"
+      "crawled_at": "2026-06-16T02:42:05.184376"
     },
     {
       "source": "arstechnica",
@@ -232,33 +261,46 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:07.180619"
+      "crawled_at": "2026-06-16T02:42:05.184399"
     },
     {
-      "source": "arstechnica",
-      "title": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-      "summary": "Fox plans to take over Roku's streaming hardware, OS, and FAST services.",
-      "link": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-      "published": "Mon, 15 Jun 2026 18:29:47 +0000",
+      "source": "wired",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "published": "Tue, 16 Jun 2026 00:53:46 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:05.317820"
+    },
+    {
+      "source": "wired",
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "published": "Mon, 15 Jun 2026 21:33:46 +0000",
+      "keywords": [
+        "AI",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T02:42:05.317852"
+    },
+    {
+      "source": "wired",
+      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+      "link": "https://www.wired.com/story/the-best-fans-2026/",
+      "published": "Mon, 15 Jun 2026 20:46:39 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:07.180664"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-      "summary": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
-      "link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "published": "Mon, 15 Jun 2026 17:55:46 +0000",
-      "keywords": [
-        "Crypto",
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2026-06-15T20:43:07.180713"
+      "crawled_at": "2026-06-16T02:42:05.317871"
     },
     {
       "source": "wired",
@@ -270,7 +312,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:07.359659"
+      "crawled_at": "2026-06-16T02:42:05.317901"
     },
     {
       "source": "wired",
@@ -283,47 +325,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-15T20:43:07.359694"
-    },
-    {
-      "source": "wired",
-      "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
-      "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature.",
-      "link": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
-      "published": "Mon, 15 Jun 2026 10:30:00 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "iOS"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-15T20:43:07.359723"
-    },
-    {
-      "source": "wired",
-      "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
-      "summary": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup.",
-      "link": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
-      "published": "Mon, 15 Jun 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-15T20:43:07.359755"
-    },
-    {
-      "source": "wired",
-      "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
-      "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content.",
-      "link": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
-      "published": "Mon, 15 Jun 2026 10:00:00 +0000",
-      "keywords": [
-        "Crypto",
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-15T20:43:07.359792"
+      "crawled_at": "2026-06-16T02:42:05.317923"
     }
   ]
 }
