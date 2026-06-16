@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-16T02:42:05.317982",
+  "last_updated": "2026-06-16T10:51:30.859367",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "published": "Tue, 16 Jun 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T10:51:30.150706"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "published": "Tue, 16 Jun 2026 06:59:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T10:51:30.150744"
+    },
     {
       "source": "techcrunch",
       "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
@@ -15,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.444267"
+      "crawled_at": "2026-06-16T10:51:30.150774"
     },
     {
       "source": "techcrunch",
@@ -31,7 +61,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.444307"
+      "crawled_at": "2026-06-16T10:51:30.150807"
     },
     {
       "source": "techcrunch",
@@ -44,33 +74,35 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.444337"
+      "crawled_at": "2026-06-16T10:51:30.150838"
     },
     {
-      "source": "techcrunch",
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "published": "Mon, 15 Jun 2026 18:30:34 +0000",
-      "keywords": [
-        "IPO",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-16T02:42:03.444373"
-    },
-    {
-      "source": "techcrunch",
-      "title": "These are the countries moving to ban social media for children",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
-      "published": "Mon, 15 Jun 2026 17:41:02 +0000",
+      "source": "theverge",
+      "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
+      "summary": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the mid-1990s. Simpson and his team first set",
+      "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+      "published": "2026-06-16T05:00:00-04:00",
       "keywords": [
         "AI",
-        "AR"
+        "AR",
+        "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.444398"
+      "crawled_at": "2026-06-16T10:51:30.229420"
+    },
+    {
+      "source": "theverge",
+      "title": "Inside the fight over Claude Mythos 5",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "published": "2026-06-15T23:00:00-04:00",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "REST"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T10:51:30.229460"
     },
     {
       "source": "theverge",
@@ -84,7 +116,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.579144"
+      "crawled_at": "2026-06-16T10:51:30.229501"
     },
     {
       "source": "theverge",
@@ -98,7 +130,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-16T02:42:03.579188"
+      "crawled_at": "2026-06-16T10:51:30.229536"
     },
     {
       "source": "theverge",
@@ -110,98 +142,80 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:03.579234"
+      "crawled_at": "2026-06-16T10:51:30.229583"
     },
     {
-      "source": "theverge",
-      "title": "Amazon&#8217;s Smart Thermostat is on sale for just $58",
-      "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It&#8217;s down to just $57.99 at Amazon as a part of Amazon’s early Prime Day sale, which is the best price we",
-      "link": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
-      "published": "2026-06-15T15:33:28-04:00",
+      "source": "hackernews",
+      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+      "summary": "Article URL: https://trinket.strivemath.org/\nComments URL: https://news.ycombinator.com/item?id=48552723\nPoints: 11\n# Comments: 1",
+      "link": "https://trinket.strivemath.org/",
+      "published": "Tue, 16 Jun 2026 09:30:58 +0000",
       "keywords": [
-        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:03.579277"
+      "crawled_at": "2026-06-16T10:51:30.718747"
     },
     {
-      "source": "theverge",
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &#8220;Fable 5’s capabilit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "published": "2026-06-15T15:04:53-04:00",
+      "source": "hackernews",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "summary": "Article URL: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827\nComments URL: https://news.ycombinator.com/item?id=48552687\nPoints: 11\n# Comments: 1",
+      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "published": "Tue, 16 Jun 2026 09:26:09 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:03.579310"
-    },
-    {
-      "source": "hackernews",
-      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-      "summary": "Article URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/\nComments URL: https://news.ycombinator.com/item?id=48548975\nPoints: 37\n# Comments: 14",
-      "link": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-      "published": "Tue, 16 Jun 2026 00:28:14 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:04.977945"
-    },
-    {
-      "source": "hackernews",
-      "title": "Reviews have become expensive, rewrites have become cheap",
-      "summary": "Article URL: http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/\nComments URL: https://news.ycombinator.com/item?id=48548883\nPoints: 19\n# Comments: 12",
-      "link": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-      "published": "Tue, 16 Jun 2026 00:13:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:04.977984"
-    },
-    {
-      "source": "hackernews",
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "summary": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 174\n# Comments: 59",
-      "link": "https://www.richardosgood.com/posts/banned-book-library/",
-      "published": "Mon, 15 Jun 2026 22:37:55 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:04.978013"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why I email complete strangers",
-      "summary": "Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/\nComments URL: https://news.ycombinator.com/item?id=48547566\nPoints: 79\n# Comments: 41",
-      "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "published": "Mon, 15 Jun 2026 21:57:10 +0000",
-      "keywords": [
-        "AI",
-        "Go",
+        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:04.978034"
+      "crawled_at": "2026-06-16T10:51:30.718783"
     },
     {
       "source": "hackernews",
-      "title": "Peopleless economy? Not technically impossible",
-      "summary": "Article URL: https://gmalandrakis.com/writings/ad-economicum.html\nComments URL: https://news.ycombinator.com/item?id=48547062\nPoints: 100\n# Comments: 182",
-      "link": "https://gmalandrakis.com/writings/ad-economicum.html",
-      "published": "Mon, 15 Jun 2026 21:10:36 +0000",
+      "title": "Commodore Releases Flip Phone",
+      "summary": "Article URL: https://commodore.net/why-a-flip-phone/\nComments URL: https://news.ycombinator.com/item?id=48552614\nPoints: 35\n# Comments: 9",
+      "link": "https://commodore.net/why-a-flip-phone/",
+      "published": "Tue, 16 Jun 2026 09:15:31 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:04.978073"
+      "crawled_at": "2026-06-16T10:51:30.718809"
+    },
+    {
+      "source": "hackernews",
+      "title": "Understanding the rationale behind a rule when trying to circumvent it",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415\nComments URL: https://news.ycombinator.com/item?id=48551876\nPoints: 31\n# Comments: 6",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+      "published": "Tue, 16 Jun 2026 07:35:27 +0000",
+      "keywords": [
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-16T10:51:30.718839"
+    },
+    {
+      "source": "hackernews",
+      "title": "John Carmack on Fabrice Bellard",
+      "summary": "https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\n\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 292\n# Comments: 171",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "published": "Tue, 16 Jun 2026 04:58:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-16T10:51:30.718867"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Commodore’s newest gadget is a flip phone that blocks social media and browsers",
+      "summary": "Commodore's Call Back 8020 is a phone “where the customer is not the product.\"",
+      "link": "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
+      "published": "Tue, 16 Jun 2026 09:00:51 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-16T10:51:30.773565"
     },
     {
       "source": "arstechnica",
@@ -214,7 +228,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.184309"
+      "crawled_at": "2026-06-16T10:51:30.773591"
     },
     {
       "source": "arstechnica",
@@ -227,7 +241,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.184333"
+      "crawled_at": "2026-06-16T10:51:30.773610"
     },
     {
       "source": "arstechnica",
@@ -237,7 +251,7 @@
       "published": "Mon, 15 Jun 2026 20:14:04 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:05.184357"
+      "crawled_at": "2026-06-16T10:51:30.773633"
     },
     {
       "source": "arstechnica",
@@ -249,83 +263,71 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.184376"
+      "crawled_at": "2026-06-16T10:51:30.773652"
     },
     {
-      "source": "arstechnica",
-      "title": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
-      "summary": "The rocket's breakup likely generated 100 to 150 new pieces of space junk.",
-      "link": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
-      "published": "Mon, 15 Jun 2026 18:55:41 +0000",
+      "source": "wired",
+      "title": "Amazfit Cheetah 2 Ultra Smartwatch Review (2026): Solid Off-Road Performer",
+      "summary": "Amazfit’s trail running smartwatch delivers solid off-road performance at a bargain price compared to its competitors.",
+      "link": "https://www.wired.com/review/amazfit-cheetah-2-ultra/",
+      "published": "Tue, 16 Jun 2026 10:31:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-16T10:51:30.859165"
+    },
+    {
+      "source": "wired",
+      "title": "Streamer IShowSpeed Is Gen Z’s ESPN",
+      "summary": "At 21, Speed has pushed the limits of streaming by transforming a distinctly solo format into a global group chat. His song for this year’s World Cup is becoming the tournament’s unofficial anthem.",
+      "link": "https://www.wired.com/story/big-interview-ishowspeed-world-cup/",
+      "published": "Tue, 16 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:05.184399"
+      "crawled_at": "2026-06-16T10:51:30.859206"
     },
     {
       "source": "wired",
-      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-      "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
-      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
-      "published": "Tue, 16 Jun 2026 00:53:46 +0000",
-      "keywords": [
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.317820"
-    },
-    {
-      "source": "wired",
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "published": "Mon, 15 Jun 2026 21:33:46 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.317852"
-    },
-    {
-      "source": "wired",
-      "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
-      "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
-      "link": "https://www.wired.com/story/the-best-fans-2026/",
-      "published": "Mon, 15 Jun 2026 20:46:39 +0000",
+      "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
+      "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
+      "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+      "published": "Tue, 16 Jun 2026 09:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.317871"
+      "crawled_at": "2026-06-16T10:51:30.859232"
     },
     {
       "source": "wired",
-      "title": "TCL A65K Soundbar Review: Small Size, Big Sound",
-      "summary": "Don’t be fooled by the compact size of this soundbar. It’s a solid option for smaller TVs or spaces without having to sacrifice sound quality.",
-      "link": "https://www.wired.com/review/tcl-a65k-soundbar/",
-      "published": "Mon, 15 Jun 2026 19:57:40 +0000",
+      "title": "The Commodore Callback 8020 Is a Digital Detox Phone That Isn’t Dumb",
+      "summary": "With a retro look and T9 texting, the Commodore Callback 8020 smart flip phone taps into the nostalgic yearning for simpler days. It can run Spotify and Uber, but Instagram is blocked.",
+      "link": "https://www.wired.com/story/commodore-callback-8020-is-a-digital-detox-phone-that-isnt-dumb/",
+      "published": "Tue, 16 Jun 2026 09:00:00 +0000",
       "keywords": [
+        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-16T02:42:05.317901"
+      "crawled_at": "2026-06-16T10:51:30.859268"
     },
     {
       "source": "wired",
-      "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
-      "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fighting.",
-      "link": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/",
-      "published": "Mon, 15 Jun 2026 11:00:00 +0000",
+      "title": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
+      "summary": "With its music focus, no-AI content policy, and larger artist royalties, the hi-res streaming service is scooping up all sorts of switchers.",
+      "link": "https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/",
+      "published": "Tue, 16 Jun 2026 06:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-16T02:42:05.317923"
+      "crawled_at": "2026-06-16T10:51:30.859294"
     }
   ]
 }
