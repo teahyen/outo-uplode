@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T02:38:16.271928",
+  "last_updated": "2026-06-17T10:23:26.526496",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:15.564032"
+      "crawled_at": "2026-06-17T10:23:25.698986"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:15.564076"
+      "crawled_at": "2026-06-17T10:23:25.699029"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:15.564109"
+      "crawled_at": "2026-06-17T10:23:25.699060"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:15.564154"
+      "crawled_at": "2026-06-17T10:23:25.699134"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:15.564189"
+      "crawled_at": "2026-06-17T10:23:25.699172"
+    },
+    {
+      "source": "theverge",
+      "title": "The next humanoid robot might not look human at all",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "published": "2026-06-17T05:46:56-04:00",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-17T10:23:25.866189"
     },
     {
       "source": "theverge",
@@ -81,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:15.624104"
+      "crawled_at": "2026-06-17T10:23:25.866246"
     },
     {
       "source": "theverge",
@@ -97,7 +111,7 @@
         "Windows"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-17T02:38:15.624168"
+      "crawled_at": "2026-06-17T10:23:25.866306"
     },
     {
       "source": "theverge",
@@ -113,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:15.624203"
+      "crawled_at": "2026-06-17T10:23:25.866340"
     },
     {
       "source": "theverge",
@@ -128,85 +142,73 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-17T02:38:15.624241"
+      "crawled_at": "2026-06-17T10:23:25.866381"
     },
     {
-      "source": "theverge",
-      "title": "Verizon&#8217;s &#8216;Simplicity&#8217; flat-rate plan starts at $30 per month for new customers",
-      "summary": "Verizon is launching a new Simplicity plan that starts at $30 / month for new customers, or $45 / month for existing ones. In its announcement, Verizon says the plan drops activation and upgrade fees, while offering one flat price for each line. The $30 price for new customers is an \"initial promoti",
-      "link": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-      "published": "2026-06-16T13:19:35-04:00",
+      "source": "hackernews",
+      "title": "U.S. Science Is in Chaos",
+      "summary": "Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/\nComments URL: https://news.ycombinator.com/item?id=48568058\nPoints: 11\n# Comments: 1",
+      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "published": "Wed, 17 Jun 2026 09:54:21 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:15.624285"
+      "crawled_at": "2026-06-17T10:23:26.146625"
     },
     {
       "source": "hackernews",
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "summary": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\nComments URL: https://news.ycombinator.com/item?id=48564696\nPoints: 6\n# Comments: 0",
-      "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "published": "Wed, 17 Jun 2026 01:40:22 +0000",
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "summary": "Neural CAs model self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures l",
+      "link": "https://cells2pixels.github.io/",
+      "published": "Wed, 17 Jun 2026 09:28:36 +0000",
       "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.008679"
-    },
-    {
-      "source": "hackernews",
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\nComments URL: https://news.ycombinator.com/item?id=48563609\nPoints: 84\n# Comments: 20",
-      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "published": "Tue, 16 Jun 2026 23:15:44 +0000",
-      "keywords": [
-        "AI",
+        "Cloud",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.008721"
+      "crawled_at": "2026-06-17T10:23:26.146678"
     },
     {
       "source": "hackernews",
-      "title": "NLnet announces funding for 67 more open-source projects",
-      "summary": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html\nComments URL: https://news.ycombinator.com/item?id=48563569\nPoints: 74\n# Comments: 11",
-      "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
-      "published": "Tue, 16 Jun 2026 23:12:09 +0000",
+      "title": "Most of the CVE-2026-4020 attackers are the same client",
+      "summary": "Article URL: https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020\nComments URL: https://news.ycombinator.com/item?id=48567574\nPoints: 4\n# Comments: 0",
+      "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+      "published": "Wed, 17 Jun 2026 08:47:14 +0000",
       "keywords": [
-        "Funding",
+        "Cloud",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-06-17T02:38:16.008755"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-06-17T10:23:26.146710"
     },
     {
       "source": "hackernews",
-      "title": "Humiliating IIS servers for fun and jail time",
-      "summary": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\nComments URL: https://news.ycombinator.com/item?id=48563394\nPoints: 102\n# Comments: 17",
-      "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "published": "Tue, 16 Jun 2026 22:53:34 +0000",
+      "title": "Hacker News but for Independent Blogs",
+      "summary": "Article URL: https://bubbles.town/\nComments URL: https://news.ycombinator.com/item?id=48567155\nPoints: 67\n# Comments: 24",
+      "link": "https://bubbles.town/",
+      "published": "Wed, 17 Jun 2026 07:49:44 +0000",
+      "keywords": [
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-06-17T10:23:26.146739"
+    },
+    {
+      "source": "hackernews",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "summary": "Article URL: https://claude.com/blog/the-founders-playbook\nComments URL: https://news.ycombinator.com/item?id=48566832\nPoints: 81\n# Comments: 84",
+      "link": "https://claude.com/blog/the-founders-playbook",
+      "published": "Wed, 17 Jun 2026 07:04:42 +0000",
       "keywords": [
         "AI",
+        "Claude",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.008800"
-    },
-    {
-      "source": "hackernews",
-      "title": "GrapheneOS has been ported to Android 17",
-      "summary": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\nComments URL: https://news.ycombinator.com/item?id=48561654\nPoints: 415\n# Comments: 169",
-      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "published": "Tue, 16 Jun 2026 20:34:35 +0000",
-      "keywords": [
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-17T02:38:16.008839"
+      "crawled_at": "2026-06-17T10:23:26.146765"
     },
     {
       "source": "arstechnica",
@@ -219,7 +221,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.125241"
+      "crawled_at": "2026-06-17T10:23:26.317992"
     },
     {
       "source": "arstechnica",
@@ -231,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:16.125286"
+      "crawled_at": "2026-06-17T10:23:26.318039"
     },
     {
       "source": "arstechnica",
@@ -243,7 +245,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-17T02:38:16.125314"
+      "crawled_at": "2026-06-17T10:23:26.318083"
     },
     {
       "source": "arstechnica",
@@ -256,7 +258,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:16.125342"
+      "crawled_at": "2026-06-17T10:23:26.318111"
     },
     {
       "source": "arstechnica",
@@ -269,71 +271,66 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.125364"
+      "crawled_at": "2026-06-17T10:23:26.318134"
     },
     {
       "source": "wired",
-      "title": "Best Handheld Fans and Wearable Fans (2026)",
-      "summary": "Whether you’re at a festival, tennis match, or wedding, these hand fans and wearable cooling devices will make the heat way more bearable.",
-      "link": "https://www.wired.com/gallery/best-handheld-fans/",
-      "published": "Tue, 16 Jun 2026 23:48:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-17T02:38:16.271684"
-    },
-    {
-      "source": "wired",
-      "title": "Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society",
-      "summary": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers matchmaking.",
-      "link": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
-      "published": "Tue, 16 Jun 2026 20:21:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-17T02:38:16.271733"
-    },
-    {
-      "source": "wired",
-      "title": "Why the Reflecting Pool Is Full of Algae After Trump's Renovation",
-      "summary": "Warm weather has fueled a bloom that National Park Service workers are trying to kill using everything from hydrogen peroxide to nanobubbles ahead of July 4 celebrations.",
-      "link": "https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/",
-      "published": "Tue, 16 Jun 2026 18:14:59 +0000",
+      "title": "For Iran’s Athletes, There Is No Separating Sports From Politics",
+      "summary": "From defections and protests to moments of national pride, the 2026 World Cup arrives amid decades of tension between identity and the state.",
+      "link": "https://www.wired.com/story/iran-world-cup-sports-politics/",
+      "published": "Wed, 17 Jun 2026 10:15:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:16.271770"
+      "crawled_at": "2026-06-17T10:23:26.526262"
     },
     {
       "source": "wired",
-      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "published": "Tue, 16 Jun 2026 17:50:52 +0000",
+      "title": "Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV",
+      "summary": "It’s like Big Brother without any limits, or broadcast standards. WIRED goes on location—and on camera—with the cult hit.",
+      "link": "https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/",
+      "published": "Wed, 17 Jun 2026 10:00:00 +0000",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
         "Go",
-        "Hack"
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-17T10:23:26.526311"
+    },
+    {
+      "source": "wired",
+      "title": "AirDoctor Coupon Codes: 40% Off | June 2026",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "published": "Wed, 17 Jun 2026 05:00:00 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-17T02:38:16.271822"
+      "crawled_at": "2026-06-17T10:23:26.526336"
     },
     {
       "source": "wired",
-      "title": "Nimble’s New Modular Power Bank Can Be Shared With a Friend",
-      "summary": "Nimble’s thoughtfully designed SharePower is a modular power bank you can share with a friend.",
-      "link": "https://www.wired.com/story/nimble-sharepower-rave/",
-      "published": "Tue, 16 Jun 2026 17:44:27 +0000",
+      "title": "Norton Coupon Codes: Up to 58% Off",
+      "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "link": "https://www.wired.com/story/norton-coupon-code/",
+      "published": "Wed, 17 Jun 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-06-17T10:23:26.526368"
+    },
+    {
+      "source": "wired",
+      "title": "Bose Promo Code: 40% Off for June 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "link": "https://www.wired.com/story/bose-coupon-code/",
+      "published": "Wed, 17 Jun 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-17T02:38:16.271856"
+      "category": "Programming",
+      "crawled_at": "2026-06-17T10:23:26.526391"
     }
   ]
 }
