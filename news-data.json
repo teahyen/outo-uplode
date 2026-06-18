@@ -1,7 +1,58 @@
 {
-  "last_updated": "2026-06-18T10:02:44.110201",
+  "last_updated": "2026-06-18T14:43:51.595247",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Spotify’s reserved ticket sales to music superfans are now going live",
+      "summary": "Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
+      "link": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+      "published": "Thu, 18 Jun 2026 14:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:48.551168"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+      "summary": "Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.",
+      "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+      "published": "Thu, 18 Jun 2026 13:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-18T14:43:48.551215"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+      "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "published": "Thu, 18 Jun 2026 12:00:00 +0000",
+      "keywords": [
+        "React",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-18T14:43:48.551258"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+      "summary": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
+      "link": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "published": "Thu, 18 Jun 2026 11:59:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:48.551292"
+    },
     {
       "source": "techcrunch",
       "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
@@ -15,196 +66,150 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.682325"
+      "crawled_at": "2026-06-18T14:43:48.551354"
     },
     {
-      "source": "techcrunch",
-      "title": "How to turn off AI in your Google Docs",
-      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
-      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "published": "Thu, 18 Jun 2026 01:23:51 +0000",
+      "source": "theverge",
+      "title": "Google Calendar finally has more color options for events",
+      "summary": "Running out of color options for events in Google Calendar shouldn't be an issue going forward. The previous limit of 11 predefined colors has now been expanded to give users access to up to 200 custom colors for individual events across the native Calendar web and mobile apps, and the Calendar API.",
+      "link": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
+      "published": "2026-06-18T10:32:16-04:00",
       "keywords": [
-        "AI",
         "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.682363"
-    },
-    {
-      "source": "techcrunch",
-      "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-      "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
-      "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-      "published": "Wed, 17 Jun 2026 23:28:21 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.682390"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-      "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
-      "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-      "published": "Wed, 17 Jun 2026 21:30:50 +0000",
-      "keywords": [
-        "AI",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.682420"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-      "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "published": "Wed, 17 Jun 2026 20:32:52 +0000",
-      "keywords": [
         "API",
-        "IPO",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-18T10:02:42.682458"
-    },
-    {
-      "source": "theverge",
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "published": "2026-06-17T23:12:31-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.929109"
-    },
-    {
-      "source": "theverge",
-      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
-      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our ",
-      "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
-      "published": "2026-06-17T17:42:21-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.929154"
-    },
-    {
-      "source": "theverge",
-      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
-      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO says more features a",
-      "link": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
-      "published": "2026-06-17T16:43:28-04:00",
-      "keywords": [
-        "iOS",
+        "Google",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-18T10:02:42.929198"
+      "crawled_at": "2026-06-18T14:43:48.685806"
     },
     {
       "source": "theverge",
-      "title": "Epic wants to let you bring your Fortnite skins to other games",
-      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers mak",
-      "link": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
-      "published": "2026-06-17T15:09:00-04:00",
+      "title": "The midterms are going to be a data security nightmare",
+      "summary": "One messy database is threatening to disenfranchise thousands or even millions of registered voters, while leaving even more at risk of intimidation or data breaches, in the name of solving a problem that barely exists. As the 2026 midterm elections approach, election and privacy experts are soundin",
+      "link": "https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program",
+      "published": "2026-06-18T10:21:37-04:00",
       "keywords": [
-        "Meta",
-        "AR",
-        "Metaverse"
+        "Go",
+        "Security",
+        "Database",
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-06-18T10:02:42.929234"
+      "category": "Security",
+      "crawled_at": "2026-06-18T14:43:48.685864"
     },
     {
       "source": "theverge",
-      "title": "Anthropic got hit by export rules nobody understands",
-      "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "published": "2026-06-17T14:28:50-04:00",
+      "title": "The Verge’s guide to Amazon Prime Day 2026",
+      "summary": "Amazon Prime Day 2026 lifts off on June 23rd and will hopefully deliver the best deals of the summer. We’ve been covering the most notable pre-Prime Day discounts happening, and come next week, we’ll be bringing you many more deals — ones we can’t tell you about just yet. As usual, expect to see pri",
+      "link": "https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026",
+      "published": "2026-06-18T10:17:09-04:00",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-18T14:43:48.685919"
+    },
+    {
+      "source": "theverge",
+      "title": "The best robot vacuum deals available ahead of Prime Day",
+      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailers are offering early deals on several models we&#8217;ve tested from brands like Roborock, [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "published": "2026-06-18T10:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-18T14:43:48.685950"
+    },
+    {
+      "source": "theverge",
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new ",
+      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "published": "2026-06-18T10:00:00-04:00",
       "keywords": [
         "AI",
         "Anthropic",
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:42.929265"
+      "crawled_at": "2026-06-18T14:43:48.685991"
     },
     {
       "source": "hackernews",
-      "title": "I need your clothes, your boots, and your motorcycle",
-      "summary": "Article URL: https://rbelmont.mameworld.info/?p=1725\nComments URL: https://news.ycombinator.com/item?id=48582464\nPoints: 18\n# Comments: 2",
-      "link": "https://rbelmont.mameworld.info/?p=1725",
-      "published": "Thu, 18 Jun 2026 08:28:04 +0000",
+      "title": "Migrate from OpenClaw",
+      "summary": "Article URL: https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw\nComments URL: https://news.ycombinator.com/item?id=48586005\nPoints: 5\n# Comments: 1",
+      "link": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+      "published": "Thu, 18 Jun 2026 14:32:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:43.820591"
+      "crawled_at": "2026-06-18T14:43:51.194883"
     },
     {
       "source": "hackernews",
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change\nComments URL",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "published": "Thu, 18 Jun 2026 08:08:00 +0000",
-      "keywords": [
-        "Go",
-        "Security",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-18T10:02:43.820646"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Forge We Deserve",
-      "summary": "Article URL: https://btao.org/posts/2026-05-09-the-forge-we-deserve/\nComments URL: https://news.ycombinator.com/item?id=48582147\nPoints: 17\n# Comments: 17",
-      "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-      "published": "Thu, 18 Jun 2026 07:46:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:43.820680"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-      "summary": "Article URL: https://www.acma.gov.au/sms-sender-id-register\nComments URL: https://news.ycombinator.com/item?id=48581489\nPoints: 96\n# Comments: 55",
-      "link": "https://www.acma.gov.au/sms-sender-id-register",
-      "published": "Thu, 18 Jun 2026 06:23:24 +0000",
+      "title": "Drowning Doesn't Look Like Drowning (2021)",
+      "summary": "Article URL: https://gcaptain.com/drowning/\nComments URL: https://news.ycombinator.com/item?id=48584915\nPoints: 13\n# Comments: 0",
+      "link": "https://gcaptain.com/drowning/",
+      "published": "Thu, 18 Jun 2026 13:24:27 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:43.820727"
+      "crawled_at": "2026-06-18T14:43:51.194923"
     },
     {
       "source": "hackernews",
-      "title": "DeepSeek Introduces Vision",
-      "summary": "Article URL: https://chat.deepseek.com/\nComments URL: https://news.ycombinator.com/item?id=48581458\nPoints: 141\n# Comments: 64",
-      "link": "https://chat.deepseek.com/",
-      "published": "Thu, 18 Jun 2026 06:17:40 +0000",
+      "title": "Git platform built for agentic era",
+      "summary": "Article URL: https://gitlawb.com/node\nComments URL: https://news.ycombinator.com/item?id=48584873\nPoints: 6\n# Comments: 4",
+      "link": "https://gitlawb.com/node",
+      "published": "Thu, 18 Jun 2026 13:19:57 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:51.194956"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Alberta Eradicated Rats",
+      "summary": "Article URL: https://worksinprogress.co/issue/albertas-war-on-rats/\nComments URL: https://news.ycombinator.com/item?id=48584709\nPoints: 13\n# Comments: 3",
+      "link": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+      "published": "Thu, 18 Jun 2026 13:05:58 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:43.820760"
+      "crawled_at": "2026-06-18T14:43:51.194990"
+    },
+    {
+      "source": "hackernews",
+      "title": "Has W Social switched to closed source?",
+      "summary": "Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/\nComments URL: https://news.ycombinator.com/item?id=48584497\nPoints: 86\n# Comments: 43",
+      "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "published": "Thu, 18 Jun 2026 12:46:04 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:51.195031"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cosmonaut Aleksandr Samokutyaev, 56, is first former ISS crew member to die",
+      "summary": "Two expeditions, two spacewalks, 322 days in space.",
+      "link": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
+      "published": "Thu, 18 Jun 2026 14:34:36 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:51.438614"
     },
     {
       "source": "arstechnica",
@@ -217,7 +222,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:43.981519"
+      "crawled_at": "2026-06-18T14:43:51.438643"
     },
     {
       "source": "arstechnica",
@@ -231,7 +236,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-18T10:02:43.981552"
+      "crawled_at": "2026-06-18T14:43:51.438667"
     },
     {
       "source": "arstechnica",
@@ -243,7 +248,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-06-18T10:02:43.981582"
+      "crawled_at": "2026-06-18T14:43:51.438696"
     },
     {
       "source": "arstechnica",
@@ -253,72 +258,69 @@
       "published": "Wed, 17 Jun 2026 20:07:40 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:43.981611"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-      "link": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "published": "Wed, 17 Jun 2026 19:54:31 +0000",
-      "keywords": [],
-      "category": "Security",
-      "crawled_at": "2026-06-18T10:02:43.981636"
+      "crawled_at": "2026-06-18T14:43:51.438726"
     },
     {
       "source": "wired",
-      "title": "The Sperm-Maxxing Bros Are Actually Onto Something",
-      "summary": "Wellness influencers have stumbled onto a huge issue when it comes male fertility, though not every solution they're pitching is good advice.",
-      "link": "https://www.wired.com/story/sperm-maxxing-wellness-bros-mens-health/",
-      "published": "Thu, 18 Jun 2026 09:00:00 +0000",
+      "title": "Waymo Recalls Robotaxis Over Risk They'll Drive at Speed Into Freeway Construction Zones",
+      "summary": "The company's latest recall of 3,871 vehicles follows incidents of its autonomous cars prioritizing other hazards or failing to recognize closed construction zones altogether.",
+      "link": "https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/",
+      "published": "Thu, 18 Jun 2026 12:50:21 +0000",
       "keywords": [
-        "Go",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-18T14:43:51.594998"
+    },
+    {
+      "source": "wired",
+      "title": "Samsung The Frame Pro 2026 Review: Pricey But Worth It",
+      "summary": "The Frame Pro 2026 benefits from meaningful tweaks. AI audio and picture tuning work in tandem with a new anti-glare coating to deliver impressive benefits.",
+      "link": "https://www.wired.com/review/samsung-the-frame-pro-2026/",
+      "published": "Thu, 18 Jun 2026 12:01:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-18T14:43:51.595033"
+    },
+    {
+      "source": "wired",
+      "title": "Amazon’s Fire Tablets, Tested, So You Don’t Have To (2026)",
+      "summary": "Whether you need a travel-friendly slate or something affordable for the kids, we tested every model to find the right one for every occasion.",
+      "link": "https://www.wired.com/gallery/best-amazon-fire-tablet/",
+      "published": "Thu, 18 Jun 2026 11:36:00 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-18T14:43:51.595081"
+    },
+    {
+      "source": "wired",
+      "title": "13 Best Essential Oil Diffusers 2026: Tested and Reviewed",
+      "summary": "I tested over a dozen top home diffusers for scent strength, longevity, special features, and more. The Urpower Aroma is my favorite option for most people.",
+      "link": "https://www.wired.com/gallery/best-essential-oil-diffusers/",
+      "published": "Thu, 18 Jun 2026 11:02:00 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:44.109995"
+      "crawled_at": "2026-06-18T14:43:51.595117"
     },
     {
       "source": "wired",
-      "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
-      "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
-      "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-      "published": "Thu, 18 Jun 2026 06:00:00 +0000",
+      "title": "How to Watch the Knicks Parade on NYC Traffic Surveillance Cameras",
+      "summary": "Artist Morry Kolman will be livestreaming feeds of the NBA champions’ ticker-tape parade from NYC’s traffic cameras—and this time, the city’s Department of Transportation isn’t demanding he stop.",
+      "link": "https://www.wired.com/story/how-to-watch-the-knicks-parade-on-nyc-traffic-surveillance-cameras/",
+      "published": "Thu, 18 Jun 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-18T10:02:44.110047"
-    },
-    {
-      "source": "wired",
-      "title": "50% Off DoorDash Promo Code | June 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "published": "Thu, 18 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-18T10:02:44.110079"
-    },
-    {
-      "source": "wired",
-      "title": "Home Depot Promo Codes: 50% Off in June 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Thu, 18 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-18T10:02:44.110103"
-    },
-    {
-      "source": "wired",
-      "title": "Ulta Promo Codes: Up to 50% Off in June 2026",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Thu, 18 Jun 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-06-18T10:02:44.110125"
+      "crawled_at": "2026-06-18T14:43:51.595165"
     }
   ]
 }
