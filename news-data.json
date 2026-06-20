@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-06-20T13:24:49.249030",
+  "last_updated": "2026-06-20T19:07:11.678231",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Founders Fund’s outlier bet on humanely killed fish",
+      "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+      "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-20T19:07:11.015231"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "published": "Sat, 20 Jun 2026 16:39:57 +0000",
+      "keywords": [
+        "Anthropic",
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-20T19:07:11.015275"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "published": "Sat, 20 Jun 2026 15:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-20T19:07:11.015309"
+    },
     {
       "source": "techcrunch",
       "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
@@ -10,7 +49,7 @@
       "published": "Sat, 20 Jun 2026 00:47:44 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-06-20T13:24:47.410792"
+      "crawled_at": "2026-06-20T19:07:11.015353"
     },
     {
       "source": "techcrunch",
@@ -25,52 +64,48 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-20T13:24:47.410852"
+      "crawled_at": "2026-06-20T19:07:11.015393"
     },
     {
-      "source": "techcrunch",
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "summary": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, whic",
-      "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "published": "Fri, 19 Jun 2026 21:45:00 +0000",
+      "source": "theverge",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "published": "2026-06-20T14:46:48-04:00",
       "keywords": [
         "AI",
-        "Go",
-        "API",
-        "IPO",
+        "Database",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-20T13:24:47.410905"
+      "crawled_at": "2026-06-20T19:07:11.109301"
     },
     {
-      "source": "techcrunch",
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "summary": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digita",
-      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "published": "Fri, 19 Jun 2026 21:00:34 +0000",
+      "source": "theverge",
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production t",
+      "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "published": "2026-06-20T11:20:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-20T19:07:11.109356"
+    },
+    {
+      "source": "theverge",
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even ",
+      "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "published": "2026-06-20T10:00:00-04:00",
       "keywords": [
         "Go",
-        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:47.410966"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Every fusion startup that has raised over $100M",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-      "published": "Fri, 19 Jun 2026 16:50:58 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-20T13:24:47.410990"
+      "crawled_at": "2026-06-20T19:07:11.109404"
     },
     {
       "source": "theverge",
@@ -80,7 +115,7 @@
       "published": "2026-06-20T08:00:00-04:00",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-06-20T13:24:47.512444"
+      "crawled_at": "2026-06-20T19:07:11.109443"
     },
     {
       "source": "theverge",
@@ -93,110 +128,76 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:47.512517"
-    },
-    {
-      "source": "theverge",
-      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
-      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we ca",
-      "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
-      "published": "2026-06-19T17:28:39-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "5G",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:47.512565"
-    },
-    {
-      "source": "theverge",
-      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
-      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fl",
-      "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-      "published": "2026-06-19T14:41:48-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:47.512631"
-    },
-    {
-      "source": "theverge",
-      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-      "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe se",
-      "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "published": "2026-06-19T13:24:45-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-20T13:24:47.512690"
+      "crawled_at": "2026-06-20T19:07:11.109498"
     },
     {
       "source": "hackernews",
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones\nComments URL: https://news.ycombinator.com/item?id=48608591\nPoints: 14\n# Comments: 6",
-      "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "published": "Sat, 20 Jun 2026 11:58:32 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-20T13:24:48.862223"
-    },
-    {
-      "source": "hackernews",
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating\nComments URL: https://news.ycombinator.com/item?id=48608503\nPoints: 40\n# Comments: 11",
-      "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
-      "published": "Sat, 20 Jun 2026 11:43:29 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-20T13:24:48.862278"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "summary": "Article URL: https://bootimus.com\nComments URL: https://news.ycombinator.com/item?id=48608255\nPoints: 9\n# Comments: 1",
-      "link": "https://bootimus.com",
-      "published": "Sat, 20 Jun 2026 10:55:18 +0000",
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 123\n# Comments: 32",
+      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "published": "Sat, 20 Jun 2026 18:05:31 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-20T13:24:48.862313"
+      "crawled_at": "2026-06-20T19:07:11.360337"
     },
     {
       "source": "hackernews",
-      "title": "CSSQuake",
-      "summary": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 111\n# Comments: 20",
-      "link": "https://cssquake.com/",
-      "published": "Sat, 20 Jun 2026 10:49:53 +0000",
+      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
+      "summary": "I have a few projects on Github. I am receiving a lot of spam PRs and requests from vibe coders and bots. Most of them to prop up their profiles. The stars are obviously exaggerated too.What other platforms are you using for your projects?\n\nComments URL: https://news.ycombinator.com/item?id=48611303",
+      "link": "https://news.ycombinator.com/item?id=48611303",
+      "published": "Sat, 20 Jun 2026 17:52:07 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:48.862343"
+      "category": "Programming",
+      "crawled_at": "2026-06-20T19:07:11.360383"
     },
     {
       "source": "hackernews",
-      "title": "I Stored a Website in a Favicon",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 193\n# Comments: 75",
-      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "published": "Sat, 20 Jun 2026 05:33:59 +0000",
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260617032207.htm\nComments URL: https://news.ycombinator.com/item?id=48611083\nPoints: 44\n# Comments: 9",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "published": "Sat, 20 Jun 2026 17:27:36 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:48.862378"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-20T19:07:11.360413"
+    },
+    {
+      "source": "hackernews",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/\nComments URL: https://news.ycombinator.com/item?id=48610853\nPoints: 49\n# Comments: 7",
+      "link": "https://www.lispm.net/apps/uhf-x11/",
+      "published": "Sat, 20 Jun 2026 17:04:24 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-20T19:07:11.360443"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "summary": "Article URL: https://github.com/oven-sh/WebKit/pull/249\nComments URL: https://news.ycombinator.com/item?id=48610841\nPoints: 44\n# Comments: 30",
+      "link": "https://github.com/oven-sh/WebKit/pull/249",
+      "published": "Sat, 20 Jun 2026 17:02:49 +0000",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-06-20T19:07:11.360470"
     },
     {
       "source": "arstechnica",
@@ -206,7 +207,7 @@
       "published": "Sat, 20 Jun 2026 11:15:09 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.039749"
+      "crawled_at": "2026-06-20T19:07:11.564002"
     },
     {
       "source": "arstechnica",
@@ -219,7 +220,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-20T13:24:49.039789"
+      "crawled_at": "2026-06-20T19:07:11.564039"
     },
     {
       "source": "arstechnica",
@@ -231,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.039822"
+      "crawled_at": "2026-06-20T19:07:11.564070"
     },
     {
       "source": "arstechnica",
@@ -243,7 +244,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.039853"
+      "crawled_at": "2026-06-20T19:07:11.564100"
     },
     {
       "source": "arstechnica",
@@ -256,7 +257,7 @@
         "Microsoft"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-06-20T13:24:49.039878"
+      "crawled_at": "2026-06-20T19:07:11.564124"
     },
     {
       "source": "wired",
@@ -266,7 +267,7 @@
       "published": "Sat, 20 Jun 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.248799"
+      "crawled_at": "2026-06-20T19:07:11.678023"
     },
     {
       "source": "wired",
@@ -279,7 +280,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.248848"
+      "crawled_at": "2026-06-20T19:07:11.678068"
     },
     {
       "source": "wired",
@@ -291,7 +292,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-20T13:24:49.248891"
+      "crawled_at": "2026-06-20T19:07:11.678110"
     },
     {
       "source": "wired",
@@ -304,7 +305,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-20T13:24:49.248914"
+      "crawled_at": "2026-06-20T19:07:11.678131"
     },
     {
       "source": "wired",
@@ -319,7 +320,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-20T13:24:49.248938"
+      "crawled_at": "2026-06-20T19:07:11.678155"
     }
   ]
 }
