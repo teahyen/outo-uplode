@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-06-22T02:41:05.824190",
+  "last_updated": "2026-06-22T11:31:42.829851",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "summary": "Mach's approach differs sharply from some of its peers.",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "published": "Mon, 22 Jun 2026 05:31:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-22T11:31:42.147926"
+    },
     {
       "source": "techcrunch",
       "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
@@ -12,7 +24,7 @@
         "Claude"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:04.977561"
+      "crawled_at": "2026-06-22T11:31:42.147954"
     },
     {
       "source": "techcrunch",
@@ -25,7 +37,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:04.977792"
+      "crawled_at": "2026-06-22T11:31:42.147986"
     },
     {
       "source": "techcrunch",
@@ -37,7 +49,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:04.977846"
+      "crawled_at": "2026-06-22T11:31:42.148018"
     },
     {
       "source": "techcrunch",
@@ -50,23 +62,21 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:04.977876"
+      "crawled_at": "2026-06-22T11:31:42.148040"
     },
     {
-      "source": "techcrunch",
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "published": "Sun, 21 Jun 2026 14:40:28 +0000",
+      "source": "theverge",
+      "title": "Read this before you vibe-code another app",
+      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "published": "2026-06-22T07:00:00-04:00",
       "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "iOS",
+        "Go",
+        "SQL",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:04.977936"
+      "category": "Programming",
+      "crawled_at": "2026-06-22T11:31:42.202510"
     },
     {
       "source": "theverge",
@@ -78,7 +88,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.146324"
+      "crawled_at": "2026-06-22T11:31:42.202568"
     },
     {
       "source": "theverge",
@@ -90,7 +100,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.146394"
+      "crawled_at": "2026-06-22T11:31:42.202616"
     },
     {
       "source": "theverge",
@@ -103,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.146433"
+      "crawled_at": "2026-06-22T11:31:42.202645"
     },
     {
       "source": "theverge",
@@ -116,86 +126,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.146465"
-    },
-    {
-      "source": "theverge",
-      "title": "Electric air taxis are stuck in the courtroom",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it star",
-      "link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
-      "published": "2026-06-21T08:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.146497"
+      "crawled_at": "2026-06-22T11:31:42.202671"
     },
     {
       "source": "hackernews",
-      "title": "The Doom Justifies the Valuation",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\nComments URL: https://news.ycombinator.com/item?id=48624195\nPoints: 68\n# Comments: 60",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-      "published": "Mon, 22 Jun 2026 00:45:07 +0000",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28224\nComments URL: https://news.ycombinator.com/item?id=48626930\nPoints: 114\n# Comments: 68",
+      "link": "https://github.com/openai/codex/issues/28224",
+      "published": "Mon, 22 Jun 2026 07:30:17 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.443622"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-22T11:31:42.643145"
     },
     {
       "source": "hackernews",
-      "title": "1983 Northern Telecom Commodore Phone",
-      "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 19\n# Comments: 4",
-      "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-      "published": "Mon, 22 Jun 2026 00:34:33 +0000",
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "summary": "Article URL: https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time\nComments URL: https://news.ycombinator.com/item?id=48626918\nPoints: 30\n# Comments: 2",
+      "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+      "published": "Mon, 22 Jun 2026 07:29:17 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.443668"
+      "crawled_at": "2026-06-22T11:31:42.643185"
     },
     {
       "source": "hackernews",
-      "title": "Petition against Meta's employee training data collection for ML models",
-      "summary": "Article URL: https://mcipetition.com/\nComments URL: https://news.ycombinator.com/item?id=48623721\nPoints: 43\n# Comments: 30",
-      "link": "https://mcipetition.com/",
-      "published": "Sun, 21 Jun 2026 23:34:07 +0000",
+      "title": "GLM 5.2 vs. Opus",
+      "summary": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/\nComments URL: https://news.ycombinator.com/item?id=48626866\nPoints: 164\n# Comments: 140",
+      "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "published": "Mon, 22 Jun 2026 07:22:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-22T11:31:42.643211"
+    },
+    {
+      "source": "hackernews",
+      "title": "Deno Desktop",
+      "summary": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 468\n# Comments: 186",
+      "link": "https://docs.deno.com/runtime/desktop/",
+      "published": "Mon, 22 Jun 2026 05:38:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-22T11:31:42.643235"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sakana Fugu",
+      "summary": "Article URL: https://sakana.ai/fugu/\nComments URL: https://news.ycombinator.com/item?id=48624782\nPoints: 134\n# Comments: 80",
+      "link": "https://sakana.ai/fugu/",
+      "published": "Mon, 22 Jun 2026 02:08:18 +0000",
       "keywords": [
         "AI",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.443698"
-    },
-    {
-      "source": "hackernews",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\nComments URL: https://news.ycombinator.com/item?id=48623434\nPoints: 24\n# Comments: 2",
-      "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "published": "Sun, 21 Jun 2026 22:55:23 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.443732"
-    },
-    {
-      "source": "hackernews",
-      "title": "Simple hard way to conjugate Japanese verbs",
-      "summary": "Article URL: https://underreacted.leaflet.pub/3mmevu6woys27\nComments URL: https://news.ycombinator.com/item?id=48623419\nPoints: 43\n# Comments: 34",
-      "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-      "published": "Sun, 21 Jun 2026 22:53:50 +0000",
-      "keywords": [
-        "React",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.443767"
+      "crawled_at": "2026-06-22T11:31:42.643253"
     },
     {
       "source": "arstechnica",
@@ -205,7 +201,7 @@
       "published": "Sun, 21 Jun 2026 17:49:35 +0000",
       "keywords": [],
       "category": "Startup",
-      "crawled_at": "2026-06-22T02:41:05.642301"
+      "crawled_at": "2026-06-22T11:31:42.727734"
     },
     {
       "source": "arstechnica",
@@ -215,7 +211,7 @@
       "published": "Sun, 21 Jun 2026 10:00:11 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.642341"
+      "crawled_at": "2026-06-22T11:31:42.727767"
     },
     {
       "source": "arstechnica",
@@ -225,7 +221,7 @@
       "published": "Sat, 20 Jun 2026 11:15:09 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.642379"
+      "crawled_at": "2026-06-22T11:31:42.727796"
     },
     {
       "source": "arstechnica",
@@ -238,7 +234,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-22T02:41:05.642411"
+      "crawled_at": "2026-06-22T11:31:42.727820"
     },
     {
       "source": "arstechnica",
@@ -250,74 +246,68 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.642442"
+      "crawled_at": "2026-06-22T11:31:42.727845"
     },
     {
       "source": "wired",
-      "title": "Wooting 60HE v2: Peak Keyboard Perfection",
-      "summary": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
-      "link": "https://www.wired.com/review/review-wooting-60he-v2/",
-      "published": "Sun, 21 Jun 2026 11:01:00 +0000",
+      "title": "These Are the 12 Ikea Products the Company's Design Chief Personally Owns",
+      "summary": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it's not a Billy bookcase.)",
+      "link": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
+      "published": "Mon, 22 Jun 2026 10:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T02:41:05.823955"
+      "crawled_at": "2026-06-22T11:31:42.829649"
     },
     {
       "source": "wired",
-      "title": "The Best NAS Devices for Your Home After Months of Testing",
-      "summary": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
-      "link": "https://www.wired.com/story/best-nas-devices/",
-      "published": "Sun, 21 Jun 2026 10:30:00 +0000",
+      "title": "The UK Just Lost Its Sixth Prime Minister of the Decade",
+      "summary": "Keir Starmer's resignation on Monday morning paves the way for yet another leadership battle.",
+      "link": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/",
+      "published": "Mon, 22 Jun 2026 09:46:54 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-22T02:41:05.823998"
+      "category": "Tech News",
+      "crawled_at": "2026-06-22T11:31:42.829680"
     },
     {
       "source": "wired",
-      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-      "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-      "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-      "published": "Sun, 21 Jun 2026 10:30:00 +0000",
+      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+      "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+      "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+      "published": "Mon, 22 Jun 2026 09:30:00 +0000",
       "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "REST"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.824029"
+      "category": "Tech News",
+      "crawled_at": "2026-06-22T11:31:42.829722"
     },
     {
       "source": "wired",
-      "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
-      "summary": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
-      "link": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
-      "published": "Sun, 21 Jun 2026 10:30:00 +0000",
+      "title": "World Cup Scams Are Getting Harder to Spot",
+      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+      "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "published": "Mon, 22 Jun 2026 09:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.824059"
+      "crawled_at": "2026-06-22T11:31:42.829745"
     },
     {
       "source": "wired",
-      "title": "Buying a Used iPhone Makes More Sense Than Ever",
-      "summary": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it’ll last longer than ever.",
-      "link": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
-      "published": "Sun, 21 Jun 2026 10:00:00 +0000",
+      "title": "Priceline Promo Codes & Coupons: 10% Off June",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "link": "https://www.wired.com/story/priceline-promo-code/",
+      "published": "Mon, 22 Jun 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
-        "Apple",
-        "iPhone"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T02:41:05.824089"
+      "category": "Programming",
+      "crawled_at": "2026-06-22T11:31:42.829767"
     }
   ]
 }
