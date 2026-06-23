@@ -1,76 +1,99 @@
 {
-  "last_updated": "2026-06-22T20:32:10.328989",
+  "last_updated": "2026-06-23T02:07:14.551590",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "Tue, 23 Jun 2026 01:27:55 +0000",
       "keywords": [
         "AI",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.631976"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
-      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.632029"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-      "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
-      "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
-      "published": "Mon, 22 Jun 2026 19:25:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Tesla"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.632056"
-    },
-    {
-      "source": "techcrunch",
-      "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
-      "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
-      "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-      "published": "Mon, 22 Jun 2026 18:50:24 +0000",
-      "keywords": [
-        "AI",
-        "Security",
-        "Cybersecurity",
-        "Hack",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.632085"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "published": "Mon, 22 Jun 2026 18:49:44 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.632111"
+      "crawled_at": "2026-06-23T02:07:13.722593"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-23T02:07:13.722657"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+      "published": "Mon, 22 Jun 2026 22:59:57 +0000",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:13.722724"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+      "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+      "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+      "published": "Mon, 22 Jun 2026 22:43:12 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-06-23T02:07:13.722793"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The AI world is getting ‘loopy’",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "published": "Mon, 22 Jun 2026 20:53:11 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-23T02:07:13.722852"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "published": "2026-06-22T19:24:32-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-23T02:07:13.858398"
+    },
+    {
+      "source": "theverge",
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the hardware, and the company has already in",
+      "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "published": "2026-06-22T17:07:14-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-23T02:07:13.858454"
     },
     {
       "source": "theverge",
@@ -83,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.697882"
+      "crawled_at": "2026-06-23T02:07:13.858487"
     },
     {
       "source": "theverge",
@@ -96,7 +119,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-22T20:31:33.697963"
+      "crawled_at": "2026-06-23T02:07:13.858538"
     },
     {
       "source": "theverge",
@@ -110,165 +133,158 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:31:33.698014"
+      "crawled_at": "2026-06-23T02:07:13.858583"
     },
     {
-      "source": "theverge",
-      "title": "Google invests in A24 to build AI movie tools",
-      "summary": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 ",
-      "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
-      "published": "2026-06-22T13:18:13-04:00",
+      "source": "hackernews",
+      "title": "In Praise of Memcached",
+      "summary": "Article URL: https://jchri.st/blog/in-praise-of-memcached/\nComments URL: https://news.ycombinator.com/item?id=48638886\nPoints: 10\n# Comments: 0",
+      "link": "https://jchri.st/blog/in-praise-of-memcached/",
+      "published": "Tue, 23 Jun 2026 01:15:05 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:31:33.698048"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-      "summary": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it should be. Yes, it can sharpen low-res gr",
-      "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
-      "published": "2026-06-22T13:10:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:31:33.698091"
+      "crawled_at": "2026-06-23T02:07:14.282318"
     },
     {
       "source": "hackernews",
-      "title": "Jobs and Software Is Fucked",
-      "summary": "Article URL: https://urflow.bearblog.dev/jobs-and-software-is-fucked/\nComments URL: https://news.ycombinator.com/item?id=48635112\nPoints: 57\n# Comments: 23",
-      "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-      "published": "Mon, 22 Jun 2026 19:47:52 +0000",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/\nComments URL: https://news.ycombinator.com/item?id=48638660\nPoints: 86\n# Comments: 37",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "published": "Tue, 23 Jun 2026 00:47:32 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.057500"
+      "crawled_at": "2026-06-23T02:07:14.282370"
     },
     {
       "source": "hackernews",
-      "title": "SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
-      "summary": "Article URL: https://finance.yahoo.com/quote/SPCX/\nComments URL: https://news.ycombinator.com/item?id=48634931\nPoints: 33\n# Comments: 9",
-      "link": "https://finance.yahoo.com/quote/SPCX/",
-      "published": "Mon, 22 Jun 2026 19:33:55 +0000",
-      "keywords": [
-        "IPO",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-22T20:32:10.057541"
-    },
-    {
-      "source": "hackernews",
-      "title": "Japanese symbols that speak without words",
-      "summary": "Article URL: https://arun.is/blog/japan-symbols/\nComments URL: https://news.ycombinator.com/item?id=48634803\nPoints: 3\n# Comments: 0",
-      "link": "https://arun.is/blog/japan-symbols/",
-      "published": "Mon, 22 Jun 2026 19:22:37 +0000",
+      "title": "ytr: YouTube Radio for Emacs",
+      "summary": "Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs\nComments URL: https://news.ycombinator.com/item?id=48636380\nPoints: 61\n# Comments: 4",
+      "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "published": "Mon, 22 Jun 2026 21:21:08 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.057575"
+      "crawled_at": "2026-06-23T02:07:14.282403"
     },
     {
       "source": "hackernews",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "summary": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\nComments URL: https://news.ycombinator.com/item?id=48634787\nPoints: 11\n# Comments: 0",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "published": "Mon, 22 Jun 2026 19:21:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.057611"
-    },
-    {
-      "source": "hackernews",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero\nComments URL: https://news.ycombinator.com/item?id=48634778\nPoints: 5\n# Comments: 0",
-      "link": "https://github.com/dorukkumkumoglu/optocamzero",
-      "published": "Mon, 22 Jun 2026 19:19:55 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.057646"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
-      "summary": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
-      "link": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
-      "published": "Mon, 22 Jun 2026 19:02:45 +0000",
+      "title": "Runing GLM-5.2 on local hardware",
+      "summary": "Article URL: https://unsloth.ai/docs/models/glm-5.2\nComments URL: https://news.ycombinator.com/item?id=48636377\nPoints: 181\n# Comments: 81",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "published": "Mon, 22 Jun 2026 21:21:01 +0000",
       "keywords": [
         "AI",
-        "Rust"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:32:10.223587"
+      "crawled_at": "2026-06-23T02:07:14.282428"
     },
     {
-      "source": "arstechnica",
-      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
-      "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
-      "published": "Mon, 22 Jun 2026 17:10:52 +0000",
-      "keywords": [
-        "Tesla"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.223624"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Lucid lays off 1,500 workers in second big cut of the year",
-      "summary": "The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.",
-      "link": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
-      "published": "Mon, 22 Jun 2026 15:22:46 +0000",
+      "source": "hackernews",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=48636125\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "published": "Mon, 22 Jun 2026 21:00:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.223652"
+      "crawled_at": "2026-06-23T02:07:14.282462"
     },
     {
       "source": "arstechnica",
-      "title": "A US military exercise in space got underway with barely anyone noticing",
-      "summary": "The Space Force wants to cut the time to field new satellites from years to weeks, days, or hours.",
-      "link": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
-      "published": "Mon, 22 Jun 2026 15:18:23 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.223681"
-    },
-    {
-      "source": "arstechnica",
-      "title": "1,250 hp hybrid Corvette shatters the Pikes Peak production record",
-      "summary": "The high-altitude race is a unique test of car and driver.",
-      "link": "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
-      "published": "Mon, 22 Jun 2026 15:07:00 +0000",
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+      "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "published": "Mon, 22 Jun 2026 21:52:39 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.223708"
+      "crawled_at": "2026-06-23T02:07:14.419153"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+      "summary": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
+      "link": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
+      "published": "Mon, 22 Jun 2026 21:28:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:14.419189"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+      "summary": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
+      "link": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+      "published": "Mon, 22 Jun 2026 21:02:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:14.419219"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "summary": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "published": "Mon, 22 Jun 2026 20:10:34 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:14.419247"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "published": "Mon, 22 Jun 2026 19:16:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-06-23T02:07:14.419295"
+    },
+    {
+      "source": "wired",
+      "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "summary": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
+      "link": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+      "published": "Mon, 22 Jun 2026 22:15:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:14.551360"
+    },
+    {
+      "source": "wired",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "published": "Mon, 22 Jun 2026 21:08:09 +0000",
+      "keywords": [
+        "Meta"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-23T02:07:14.551400"
     },
     {
       "source": "wired",
       "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
       "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
       "published": "Mon, 22 Jun 2026 20:28:53 +0000",
       "keywords": [
@@ -276,7 +292,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:32:10.328733"
+      "crawled_at": "2026-06-23T02:07:14.551433"
     },
     {
       "source": "wired",
@@ -288,7 +304,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.328788"
+      "crawled_at": "2026-06-23T02:07:14.551474"
     },
     {
       "source": "wired",
@@ -302,36 +318,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:32:10.328818"
-    },
-    {
-      "source": "wired",
-      "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-      "summary": "We’ve trawled the depths of Amazon to find the best early Prime Day deals on gear we’ve tested.",
-      "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
-      "published": "Mon, 22 Jun 2026 17:01:33 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-22T20:32:10.328853"
-    },
-    {
-      "source": "wired",
-      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-      "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-      "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-      "published": "Mon, 22 Jun 2026 17:00:00 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Anthropic",
-        "Security"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-22T20:32:10.328889"
+      "crawled_at": "2026-06-23T02:07:14.551502"
     }
   ]
 }
