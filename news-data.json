@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-26T02:10:48.801493",
+  "last_updated": "2026-06-26T08:48:18.272616",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
       "keywords": [
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.115541"
+      "crawled_at": "2026-06-26T08:48:17.528988"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:47.115582"
+      "crawled_at": "2026-06-26T08:48:17.529025"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.119536"
+      "crawled_at": "2026-06-26T08:48:17.529450"
     },
     {
       "source": "techcrunch",
@@ -58,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.119572"
+      "crawled_at": "2026-06-26T08:48:17.529488"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,20 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-26T02:10:47.119604"
+      "crawled_at": "2026-06-26T08:48:17.529521"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump Mobile will take your $499 right now",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small n",
+      "link": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
+      "published": "2026-06-26T04:40:21-04:00",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T08:48:17.627663"
     },
     {
       "source": "theverge",
@@ -87,7 +100,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.275817"
+      "crawled_at": "2026-06-26T08:48:17.627713"
     },
     {
       "source": "theverge",
@@ -100,7 +113,7 @@
         "Gaming"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-26T02:10:47.275875"
+      "crawled_at": "2026-06-26T08:48:17.627756"
     },
     {
       "source": "theverge",
@@ -112,7 +125,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:47.275924"
+      "crawled_at": "2026-06-26T08:48:17.627800"
     },
     {
       "source": "theverge",
@@ -127,86 +140,71 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.275961"
-    },
-    {
-      "source": "theverge",
-      "title": "Framework has good news and bad news",
-      "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
-      "published": "2026-06-25T17:23:47-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Linux",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:47.275990"
+      "crawled_at": "2026-06-26T08:48:17.627832"
     },
     {
       "source": "hackernews",
-      "title": "A data race that doesn't compile",
-      "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 9\n# Comments: 3",
-      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-      "published": "Fri, 26 Jun 2026 01:33:15 +0000",
+      "title": "Why current LLM costs are not sustainable",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs\nComments URL: https://news.ycombinator.com/item?id=48683588\nPoints: 28\n# Comments: 7",
+      "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "published": "Fri, 26 Jun 2026 07:44:11 +0000",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T08:48:18.080980"
+    },
+    {
+      "source": "hackernews",
+      "title": "Micron locks in historically high memory prices for five years",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854\nComments URL: https://news.ycombinator.com/item?id=48683041\nPoints: 38\n# Comments: 21",
+      "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+      "published": "Fri, 26 Jun 2026 06:27:25 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.081031"
+    },
+    {
+      "source": "hackernews",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "summary": "Article URL: https://akrites.org/letter/\nComments URL: https://news.ycombinator.com/item?id=48682737\nPoints: 48\n# Comments: 19",
+      "link": "https://akrites.org/letter/",
+      "published": "Fri, 26 Jun 2026 05:40:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.081064"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why are we so obsessed with lawns?",
+      "summary": "Article URL: https://www.gardensillustrated.com/features/the-history-of-lawns\nComments URL: https://news.ycombinator.com/item?id=48682066\nPoints: 27\n# Comments: 37",
+      "link": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+      "published": "Fri, 26 Jun 2026 03:35:49 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.081098"
+    },
+    {
+      "source": "hackernews",
+      "title": "Libre Barcode Project",
+      "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 125\n# Comments: 13",
+      "link": "https://graphicore.github.io/librebarcode/",
+      "published": "Fri, 26 Jun 2026 03:12:42 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.560442"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI children's books, body horror edition",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition\nComments URL: https://news.ycombinator.com/item?id=48681250\nPoints: 9\n# Comments: 0",
-      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "published": "Fri, 26 Jun 2026 01:15:14 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.560478"
-    },
-    {
-      "source": "hackernews",
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 15\n# Comments: 4",
-      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "published": "Fri, 26 Jun 2026 01:10:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.560519"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 43\n# Comments: 8",
-      "link": "https://gchandbook.org/",
-      "published": "Thu, 25 Jun 2026 23:10:30 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.560554"
-    },
-    {
-      "source": "hackernews",
-      "title": "Military branches restore flu shot requirement after virus swept through base",
-      "summary": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/\nComments URL: https://news.ycombinator.com/item?id=48679934\nPoints: 134\n# Comments: 53",
-      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-      "published": "Thu, 25 Jun 2026 22:16:55 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.560597"
+      "category": "Programming",
+      "crawled_at": "2026-06-26T08:48:18.081125"
     },
     {
       "source": "arstechnica",
@@ -220,7 +218,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.636129"
+      "crawled_at": "2026-06-26T08:48:18.166514"
     },
     {
       "source": "arstechnica",
@@ -232,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.636176"
+      "crawled_at": "2026-06-26T08:48:18.166578"
     },
     {
       "source": "arstechnica",
@@ -245,7 +243,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.636199"
+      "crawled_at": "2026-06-26T08:48:18.166604"
     },
     {
       "source": "arstechnica",
@@ -261,7 +259,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.636223"
+      "crawled_at": "2026-06-26T08:48:18.166628"
     },
     {
       "source": "arstechnica",
@@ -275,77 +273,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.636245"
-    },
-    {
-      "source": "wired",
-      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-      "published": "Fri, 26 Jun 2026 00:49:13 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.801241"
-    },
-    {
-      "source": "wired",
-      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
-      "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
-      "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
-      "published": "Fri, 26 Jun 2026 00:07:57 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-26T02:10:48.801278"
-    },
-    {
-      "source": "wired",
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-      "published": "Thu, 25 Jun 2026 23:13:45 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Meta",
-        "Amazon",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.801310"
+      "crawled_at": "2026-06-26T08:48:18.166650"
     },
     {
       "source": "wired",
       "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
       "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
-      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
-      "published": "Thu, 25 Jun 2026 22:32:07 +0000",
+      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
+      "published": "Fri, 26 Jun 2026 08:22:47 +0000",
       "keywords": [
         "Go",
         "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T02:10:48.801349"
+      "crawled_at": "2026-06-26T08:48:18.272391"
     },
     {
       "source": "wired",
-      "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
-      "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
-      "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
-      "published": "Thu, 25 Jun 2026 22:31:21 +0000",
+      "title": "The 28 Best Prime Day Deals Under $100 in 2026",
+      "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
+      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
+      "published": "Fri, 26 Jun 2026 07:55:43 +0000",
       "keywords": [
-        "AI",
+        "Amazon",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T02:10:48.801399"
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.272429"
+    },
+    {
+      "source": "wired",
+      "title": "Get Up to 36% Off With the Best Prime Day Kindle Deals (2026): Paperwhite, Colorsoft, Kids",
+      "summary": "There’s no better time to get a Kindle than during Amazon's own sale event.",
+      "link": "https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/",
+      "published": "Fri, 26 Jun 2026 07:46:19 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.272466"
+    },
+    {
+      "source": "wired",
+      "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+      "summary": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
+      "link": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
+      "published": "Fri, 26 Jun 2026 07:43:58 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T08:48:18.272496"
+    },
+    {
+      "source": "wired",
+      "title": "19 Best Prime Day Apple Deals Up to 30% Off: iPad, Apple Watch, Mac, and More",
+      "summary": "Apple deals abound for Amazon Prime Day. We've rounded up the best deals on Apple Watches, iPhones, MacBooks, iPads, and accessories.",
+      "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
+      "published": "Fri, 26 Jun 2026 07:41:22 +0000",
+      "keywords": [
+        "Apple",
+        "Amazon",
+        "iPhone"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-26T08:48:18.272525"
     }
   ]
 }
