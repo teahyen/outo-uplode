@@ -1,327 +1,351 @@
 {
-  "last_updated": "2026-06-25T19:43:46.151513",
+  "last_updated": "2026-06-26T02:10:48.801493",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:47.115541"
+    },
+    {
+      "source": "techcrunch",
+      "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+      "summary": "YouTube Shorts is getting a makeover.",
+      "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+      "published": "Thu, 25 Jun 2026 22:02:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:47.115582"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Meta",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:47.119536"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Polymarket says hackers stole users’ funds",
+      "summary": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+      "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+      "published": "Thu, 25 Jun 2026 19:58:46 +0000",
+      "keywords": [
+        "AI",
+        "Hack",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:47.119572"
+    },
+    {
+      "source": "techcrunch",
       "title": "Xbox follows Apple with price increases",
-      "summary": "The price increase comes amid rising components costs.",
+      "summary": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
       "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
       "published": "Thu, 25 Jun 2026 19:39:55 +0000",
       "keywords": [
-        "Apple"
+        "Apple",
+        "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-25T19:43:45.150383"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Notion Mail shuts down amid agent takeover",
-      "summary": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "published": "Thu, 25 Jun 2026 19:14:46 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.150418"
-    },
-    {
-      "source": "techcrunch",
-      "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "summary": "Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.",
-      "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
-      "published": "Thu, 25 Jun 2026 17:52:05 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:45.150457"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "published": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.150753"
-    },
-    {
-      "source": "techcrunch",
-      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "published": "Thu, 25 Jun 2026 16:55:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.150799"
+      "crawled_at": "2026-06-26T02:10:47.119604"
     },
     {
       "source": "theverge",
-      "title": "The 16 best robot vacuum deals available during Prime Day",
-      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "published": "2026-06-25T14:47:26-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.347268"
-    },
-    {
-      "source": "theverge",
-      "title": "It&#8217;s a bad time to want a new computer",
-      "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems ",
-      "link": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
-      "published": "2026-06-25T14:20:17-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-25T19:43:45.347326"
-    },
-    {
-      "source": "theverge",
-      "title": "You won&#8217;t have long to get these iPad deals before Apple&#8217;s price hike",
-      "summary": "Apple just raised prices across its iPad and MacBook lineup. The good news is that many retailers are still selling their inventory at the old prices or far less, which means you can still score some of the best iPad deals we may see in awhile — if ever again. So if you&#8217;ve been thinking [&#823",
-      "link": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
-      "published": "2026-06-25T14:04:13-04:00",
+      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+      "summary": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With ",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "published": "2026-06-25T19:04:23-04:00",
       "keywords": [
         "AI",
         "Go",
         "Apple",
+        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.347371"
+      "crawled_at": "2026-06-26T02:10:47.275817"
     },
     {
       "source": "theverge",
-      "title": "Polestar has been muscled out of the US market",
-      "summary": "Polestar won't be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company's request for authorization under a new rule banning vehicles with software from China. In a press release, the company says the decision to retreat from the U",
-      "link": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
-      "published": "2026-06-25T13:58:37-04:00",
+      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+      "summary": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical butto",
+      "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "published": "2026-06-25T18:33:54-04:00",
       "keywords": [
-        "Go",
+        "Android",
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-26T02:10:47.275875"
+    },
+    {
+      "source": "theverge",
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "summary": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option tha",
+      "link": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+      "published": "2026-06-25T18:08:30-04:00",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:45.347415"
+      "crawled_at": "2026-06-26T02:10:47.275924"
     },
     {
       "source": "theverge",
-      "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-      "summary": "RAMageddon has come for computers. The price of memory chips, hard drives, and solid state storage has skyrocketed. That’s led to price increases on desktop and laptop RAM, SSDs, spinning hard drives, and pretty much everything that uses any of those things. Consoles are more expensive. Desktops are",
-      "link": "https://www.theverge.com/gadgets/956938/prime-day-deals-keyboards-mice-monitors-peripherals",
-      "published": "2026-06-25T13:47:20-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-25T19:43:45.347474"
-    },
-    {
-      "source": "hackernews",
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\nComments URL: https://news.ycombinator.com/item?id=48676256\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "published": "Thu, 25 Jun 2026 17:00:00 +0000",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "published": "2026-06-25T17:57:06-04:00",
       "keywords": [
         "AI",
-        "AR"
+        "GPT",
+        "OpenAI",
+        "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.927339"
+      "crawled_at": "2026-06-26T02:10:47.275961"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI. Fully free/local and OSS (https://github.com/inkeep/open-knowledge).We built this ",
-      "link": "https://github.com/inkeep/open-knowledge",
-      "published": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "source": "theverge",
+      "title": "Framework has good news and bad news",
+      "summary": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+      "published": "2026-06-25T17:23:47-04:00",
       "keywords": [
         "AI",
-        "Claude",
         "Go",
-        "REST",
-        "Google"
+        "Linux",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.927497"
+      "crawled_at": "2026-06-26T02:10:47.275990"
     },
     {
       "source": "hackernews",
-      "title": "Windows 10 quietly gets one more year of support and updates",
-      "summary": "Article URL: https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/\nComments URL: https://news.ycombinator.com/item?id=48675369\nPoints: 148\n# Comments: 115",
-      "link": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-      "published": "Thu, 25 Jun 2026 15:59:54 +0000",
+      "title": "A data race that doesn't compile",
+      "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 9\n# Comments: 3",
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "published": "Fri, 26 Jun 2026 01:33:15 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:48.560442"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI children's books, body horror edition",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition\nComments URL: https://news.ycombinator.com/item?id=48681250\nPoints: 9\n# Comments: 0",
+      "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "published": "Fri, 26 Jun 2026 01:15:14 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.560478"
+    },
+    {
+      "source": "hackernews",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 15\n# Comments: 4",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "published": "Fri, 26 Jun 2026 01:10:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:48.560519"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 43\n# Comments: 8",
+      "link": "https://gchandbook.org/",
+      "published": "Thu, 25 Jun 2026 23:10:30 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:48.560554"
+    },
+    {
+      "source": "hackernews",
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/\nComments URL: https://news.ycombinator.com/item?id=48679934\nPoints: 134\n# Comments: 53",
+      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "published": "Thu, 25 Jun 2026 22:16:55 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:48.560597"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
+      "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "published": "Thu, 25 Jun 2026 20:24:09 +0000",
+      "keywords": [
+        "Microsoft",
         "Windows",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:45.927539"
+      "crawled_at": "2026-06-26T02:10:48.636129"
     },
     {
-      "source": "hackernews",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "summary": "Preprint: https://scrollprize.org/pdf/main.pdfhttps://github.com/ScrollPrize/villa\n\nComments URL: https://news.ycombinator.com/item?id=48675179\nPoints: 405\n# Comments: 103",
-      "link": "https://scrollprize.org/firstscroll",
-      "published": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "source": "arstechnica",
+      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+      "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+      "published": "Thu, 25 Jun 2026 20:01:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-26T02:10:48.636176"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "summary": "Notion is \"going all in on using agents to run your inbox.\"",
+      "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "published": "Thu, 25 Jun 2026 19:04:57 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub"
+        "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-25T19:43:45.927571"
-    },
-    {
-      "source": "hackernews",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\nComments URL: https://news.ycombinator.com/item?id=48674967\nPoints: 129\n# Comments: 76",
-      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "published": "Thu, 25 Jun 2026 15:33:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-06-25T19:43:45.927606"
+      "crawled_at": "2026-06-26T02:10:48.636199"
     },
     {
       "source": "arstechnica",
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "summary": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-      "link": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "published": "Thu, 25 Jun 2026 14:40:23 +0000",
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "published": "Thu, 25 Jun 2026 18:38:51 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.041352"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Apple ratchets up prices, blames the cost of memory",
-      "summary": "Some Macs are hundreds of dollars more expensive today than yesterday.",
-      "link": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
-      "published": "Thu, 25 Jun 2026 14:14:37 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-25T19:43:46.041385"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The \"sad inevitability\" of Europe's heat wave",
-      "summary": "Europeans are baking under their second heat wave of the summer.",
-      "link": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
-      "published": "Thu, 25 Jun 2026 13:54:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.041412"
-    },
-    {
-      "source": "arstechnica",
-      "title": "New effort will get genome sequences for entire Endangered Species list",
-      "summary": "Colossal Biosciences will be biobanking tissues from all of them as well.",
-      "link": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
-      "published": "Thu, 25 Jun 2026 13:40:34 +0000",
-      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Android",
         "iOS"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-25T19:43:46.041438"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.636223"
     },
     {
       "source": "arstechnica",
-      "title": "Every Homo naledi we know of is female, and the implications are fascinating",
-      "summary": "\"There is no natural explanation,\" says paleoanthropologist John Hawks.",
-      "link": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
-      "published": "Thu, 25 Jun 2026 13:28:54 +0000",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "published": "Thu, 25 Jun 2026 18:01:48 +0000",
       "keywords": [
+        "Anthropic",
+        "Claude",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.041466"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.636245"
     },
     {
       "source": "wired",
-      "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
-      "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
-      "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-      "published": "Thu, 25 Jun 2026 19:13:33 +0000",
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
+      "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "published": "Fri, 26 Jun 2026 00:49:13 +0000",
       "keywords": [
+        "AI",
+        "Anthropic",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.801241"
+    },
+    {
+      "source": "wired",
+      "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+      "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
+      "link": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+      "published": "Fri, 26 Jun 2026 00:07:57 +0000",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-06-26T02:10:48.801278"
+    },
+    {
+      "source": "wired",
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "published": "Thu, 25 Jun 2026 23:13:45 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Meta",
+        "Amazon",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.801310"
+    },
+    {
+      "source": "wired",
+      "title": "99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off (2026)",
+      "summary": "We've gone from A to Z to find Amazon's best Prime Day deals on the gear worth owning.",
+      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-25-2026/",
+      "published": "Thu, 25 Jun 2026 22:32:07 +0000",
+      "keywords": [
+        "Go",
         "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.151201"
+      "crawled_at": "2026-06-26T02:10:48.801349"
     },
     {
       "source": "wired",
-      "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
-      "summary": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?",
-      "link": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
-      "published": "Thu, 25 Jun 2026 17:52:51 +0000",
+      "title": "Venezuela’s Powerful Earthquakes Were a Rare ‘Seismic Doublet’",
+      "summary": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+      "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
+      "published": "Thu, 25 Jun 2026 22:31:21 +0000",
       "keywords": [
-        "Tesla"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.151254"
-    },
-    {
-      "source": "wired",
-      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
-      "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
-      "link": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
-      "published": "Thu, 25 Jun 2026 16:54:55 +0000",
-      "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.151287"
-    },
-    {
-      "source": "wired",
-      "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
-      "summary": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
-      "link": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
-      "published": "Thu, 25 Jun 2026 16:05:30 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.151321"
-    },
-    {
-      "source": "wired",
-      "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
-      "summary": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day.",
-      "link": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
-      "published": "Thu, 25 Jun 2026 15:22:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-25T19:43:46.151361"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-26T02:10:48.801399"
     }
   ]
 }
