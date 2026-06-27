@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-27T13:06:31.216055",
+  "last_updated": "2026-06-27T19:02:33.284876",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "published": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T19:02:31.842106"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "published": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T19:02:31.842159"
+    },
     {
       "source": "techcrunch",
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
@@ -15,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:30.429326"
+      "crawled_at": "2026-06-27T19:02:31.842195"
     },
     {
       "source": "techcrunch",
@@ -29,7 +59,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:30.429380"
+      "crawled_at": "2026-06-27T19:02:31.842233"
     },
     {
       "source": "techcrunch",
@@ -42,165 +72,139 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-06-27T13:06:30.429410"
+      "crawled_at": "2026-06-27T19:02:31.842259"
     },
     {
-      "source": "techcrunch",
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "published": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "source": "theverge",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "published": "2026-06-27T14:39:32-04:00",
       "keywords": [
         "AI",
-        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:30.429448"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "published": "Fri, 26 Jun 2026 19:13:40 +0000",
-      "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-06-27T13:06:30.429484"
+      "crawled_at": "2026-06-27T19:02:32.125442"
     },
     {
       "source": "theverge",
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of",
-      "link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "published": "2026-06-27T09:00:00-04:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "Google",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-27T13:06:30.610159"
-    },
-    {
-      "source": "theverge",
-      "title": "This puzzle game&#8217;s simple premise hides surprising depth",
-      "summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots of r",
-      "link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
-      "published": "2026-06-27T08:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:30.610205"
-    },
-    {
-      "source": "theverge",
-      "title": "This might be the new best smart speaker",
-      "summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen Br",
-      "link": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
-      "published": "2026-06-27T08:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:30.610249"
-    },
-    {
-      "source": "theverge",
-      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
-      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179",
-      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "published": "2026-06-26T22:56:52-04:00",
+      "title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+      "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM a",
+      "link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+      "published": "2026-06-27T13:28:18-04:00",
       "keywords": [
         "AI",
         "Go",
         "Apple",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:30.610292"
+      "crawled_at": "2026-06-27T19:02:32.125490"
     },
     {
       "source": "theverge",
-      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-      "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee",
-      "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "published": "2026-06-26T22:54:45-04:00",
+      "title": "The Guardian&#8217;s Kai Wright refuses to buy a new phone",
+      "summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He's a Peabody Award-winning journalist who has profiled power",
+      "link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+      "published": "2026-06-27T11:15:00-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:30.610332"
+      "crawled_at": "2026-06-27T19:02:32.125526"
     },
     {
-      "source": "hackernews",
-      "title": "OpenRA",
-      "summary": "Article URL: https://www.openra.net/\nComments URL: https://news.ycombinator.com/item?id=48697560\nPoints: 23\n# Comments: 7",
-      "link": "https://www.openra.net/",
-      "published": "Sat, 27 Jun 2026 12:10:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.023884"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "summary": "Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48697504\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "published": "Sat, 27 Jun 2026 12:01:03 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.023929"
-    },
-    {
-      "source": "hackernews",
-      "title": "If You Can't Hold It, You Don't Own It",
-      "summary": "Article URL: https://dervis.de/physical/\nComments URL: https://news.ycombinator.com/item?id=48697335\nPoints: 30\n# Comments: 3",
-      "link": "https://dervis.de/physical/",
-      "published": "Sat, 27 Jun 2026 11:32:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.023962"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fintech Engineering Handbook",
-      "summary": "Article URL: https://w.pitula.me/fintech-engineering-handbook/\nComments URL: https://news.ycombinator.com/item?id=48696982\nPoints: 126\n# Comments: 38",
-      "link": "https://w.pitula.me/fintech-engineering-handbook/",
-      "published": "Sat, 27 Jun 2026 10:28:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.023995"
-    },
-    {
-      "source": "hackernews",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 472\n# Comments: 155",
-      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "published": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "source": "theverge",
+      "title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+      "summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneously describing playing Star Fox 64 (Lylat Wars if you're nasty",
+      "link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+      "published": "2026-06-27T10:00:00-04:00",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:31.024023"
+      "crawled_at": "2026-06-27T19:02:32.125574"
+    },
+    {
+      "source": "theverge",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "published": "2026-06-27T09:30:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T19:02:32.125610"
+    },
+    {
+      "source": "hackernews",
+      "title": "Turn your site into a place people can bump into each other",
+      "summary": "Article URL: https://cauenapier.com/blog/townsquare_release/\nComments URL: https://news.ycombinator.com/item?id=48699928\nPoints: 14\n# Comments: 6",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "published": "Sat, 27 Jun 2026 17:11:20 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T19:02:32.914946"
+    },
+    {
+      "source": "hackernews",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "summary": "Article URL: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\nComments URL: https://news.ycombinator.com/item?id=48699842\nPoints: 0\n# Comments: 0",
+      "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "published": "Sat, 27 Jun 2026 17:00:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T19:02:32.914988"
+    },
+    {
+      "source": "hackernews",
+      "title": "Screen time can damage under-twos' development, landmark study suggests",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\nComments URL: https://news.ycombinator.com/item?id=48699778\nPoints: 19\n# Comments: 1",
+      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+      "published": "Sat, 27 Jun 2026 16:51:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T19:02:32.915029"
+    },
+    {
+      "source": "hackernews",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints: 32\n# Comments: 13",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "published": "Sat, 27 Jun 2026 16:31:58 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T19:02:32.915058"
+    },
+    {
+      "source": "hackernews",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 390\n# Comments: 148",
+      "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "published": "Sat, 27 Jun 2026 14:38:05 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T19:02:32.915092"
     },
     {
       "source": "arstechnica",
@@ -212,7 +216,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-27T13:06:31.109780"
+      "crawled_at": "2026-06-27T19:02:33.083853"
     },
     {
       "source": "arstechnica",
@@ -225,7 +229,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:31.109817"
+      "crawled_at": "2026-06-27T19:02:33.083890"
     },
     {
       "source": "arstechnica",
@@ -237,7 +241,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:31.109862"
+      "crawled_at": "2026-06-27T19:02:33.083914"
     },
     {
       "source": "arstechnica",
@@ -249,7 +253,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.109901"
+      "crawled_at": "2026-06-27T19:02:33.083952"
     },
     {
       "source": "arstechnica",
@@ -264,7 +268,20 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-27T13:06:31.109928"
+      "crawled_at": "2026-06-27T19:02:33.083977"
+    },
+    {
+      "source": "wired",
+      "title": "62 Last Minute Prime Day Weekend Deals: Up to 45% Off (2026)",
+      "summary": "Prime Day is officially over, but many of our favorite, hand-picked deals are still available through the weekend.",
+      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/",
+      "published": "Sat, 27 Jun 2026 18:01:21 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T19:02:33.284628"
     },
     {
       "source": "wired",
@@ -276,7 +293,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-06-27T13:06:31.215806"
+      "crawled_at": "2026-06-27T19:02:33.284693"
     },
     {
       "source": "wired",
@@ -286,7 +303,7 @@
       "published": "Sat, 27 Jun 2026 10:31:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.215872"
+      "crawled_at": "2026-06-27T19:02:33.284735"
     },
     {
       "source": "wired",
@@ -300,7 +317,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:31.215907"
+      "crawled_at": "2026-06-27T19:02:33.284768"
     },
     {
       "source": "wired",
@@ -312,19 +329,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-27T13:06:31.215936"
-    },
-    {
-      "source": "wired",
-      "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
-      "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
-      "link": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
-      "published": "Sat, 27 Jun 2026 09:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-27T13:06:31.215976"
+      "crawled_at": "2026-06-27T19:02:33.284795"
     }
   ]
 }
