@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-06-26T19:26:34.134982",
+  "last_updated": "2026-06-27T02:06:12.540012",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "published": "Sat, 27 Jun 2026 01:01:37 +0000",
+      "keywords": [
+        "Anthropic",
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T02:06:10.902083"
+    },
+    {
+      "source": "techcrunch",
+      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+      "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+      "published": "Sat, 27 Jun 2026 00:38:34 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-06-27T02:06:10.902117"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+      "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "published": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:10.902470"
+    },
     {
       "source": "techcrunch",
       "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
@@ -10,7 +51,7 @@
       "published": "Fri, 26 Jun 2026 19:13:40 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-06-26T19:26:33.333552"
+      "crawled_at": "2026-06-27T02:06:10.902519"
     },
     {
       "source": "techcrunch",
@@ -26,312 +67,273 @@
         "REST"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.333607"
+      "crawled_at": "2026-06-27T02:06:10.902563"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "published": "Fri, 26 Jun 2026 18:19:36 +0000",
+      "source": "theverge",
+      "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
+      "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "published": "2026-06-26T20:42:42-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Go",
+        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.333636"
+      "crawled_at": "2026-06-27T02:06:11.336309"
     },
     {
-      "source": "techcrunch",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "source": "theverge",
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "published": "2026-06-26T20:33:44-04:00",
+      "keywords": [
+        "Anthropic",
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T02:06:11.336366"
+    },
+    {
+      "source": "theverge",
+      "title": "Prime Day&#8217;s final hours bring rare discounts on Philips Hue smart lights",
+      "summary": "Philips Hue products don&#8217;t often see major discounts, which makes this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly across much of the company&#8217;s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart but",
+      "link": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+      "published": "2026-06-26T20:20:50-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T02:06:11.336414"
+    },
+    {
+      "source": "theverge",
+      "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+      "summary": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179",
+      "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+      "published": "2026-06-26T19:41:12-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
         "Go",
         "Apple",
-        "Google"
+        "Amazon",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.333680"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
-      "summary": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
-      "link": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "published": "Fri, 26 Jun 2026 17:29:29 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-06-26T19:26:33.333709"
-    },
-    {
-      "source": "theverge",
-      "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-      "summary": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better or equivalent price on digital versions, as well [&#",
-      "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "published": "2026-06-26T14:43:39-04:00",
-      "keywords": [
-        "Amazon",
-        "Git",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.511302"
-    },
-    {
-      "source": "theverge",
-      "title": "The beautiful shame",
-      "summary": "While European tourists marvel at ranch dressing, Buc-ee's, and other wonders of Middle America, would-be World Cup attendees from Africa, Asia, and the Middle East have experienced a different American pastime: exclusion. President Donald Trump's nakedly racist immigration policies have prevented s",
-      "link": "https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump",
-      "published": "2026-06-26T14:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.511362"
-    },
-    {
-      "source": "theverge",
-      "title": "This video bird feeder is the surprise hit of Prime Day",
-      "summary": "I can understand why The Verge readers are flocking to the BirdBuddy deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels is a wholesome upgrade for your yard, but the full price of $299 is tough to stomach. After all, the BirdBuddy is essentially a video doorbell and so",
-      "link": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
-      "published": "2026-06-26T13:56:25-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.511405"
+      "crawled_at": "2026-06-27T02:06:11.336457"
     },
     {
       "source": "theverge",
       "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
       "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee",
       "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "published": "2026-06-26T13:15:27-04:00",
+      "published": "2026-06-26T19:26:09-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.511445"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-v",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "published": "2026-06-26T13:00:00-04:00",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.511475"
+      "crawled_at": "2026-06-27T02:06:11.336496"
     },
     {
       "source": "hackernews",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "summary": "https://archive.ph/PCQQl\n\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 129\n# Comments: 369",
-      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "published": "Fri, 26 Jun 2026 18:23:14 +0000",
+      "title": "Om",
+      "summary": "Article URL: https://daringfireball.net/2026/06/om\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 82\n# Comments: 6",
+      "link": "https://daringfireball.net/2026/06/om",
+      "published": "Fri, 26 Jun 2026 23:33:46 +0000",
       "keywords": [
-        "GPT",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.782606"
-    },
-    {
-      "source": "hackernews",
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "summary": "Article URL: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\nComments URL: https://news.ycombinator.com/item?id=48689277\nPoints: 14\n# Comments: 4",
-      "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "published": "Fri, 26 Jun 2026 17:24:25 +0000",
-      "keywords": [
-        "REST",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.782653"
+      "crawled_at": "2026-06-27T02:06:11.905035"
     },
     {
       "source": "hackernews",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview\n\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 403\n# Comments: 248",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "published": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 206\n# Comments: 165",
+      "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "published": "Fri, 26 Jun 2026 22:48:28 +0000",
       "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.782691"
-    },
-    {
-      "source": "hackernews",
-      "title": "Liva AI (YC S25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "published": "Fri, 26 Jun 2026 17:00:43 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.782719"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM.At Weave, we write most of our code with AI, and it's",
-      "link": "https://github.com/workweave/router",
-      "published": "Fri, 26 Jun 2026 16:40:11 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
         "Anthropic",
-        "Claude"
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-06-27T02:06:11.905077"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "summary": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\nComments URL: https://news.ycombinator.com/item?id=48692946\nPoints: 79\n# Comments: 36",
+      "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "published": "Fri, 26 Jun 2026 22:43:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T02:06:11.905120"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI in mathematics is forcing big questions",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=48692883\nPoints: 40\n# Comments: 17",
+      "link": "https://spectrum.ieee.org/ai-in-mathematics",
+      "published": "Fri, 26 Jun 2026 22:36:51 +0000",
+      "keywords": [
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-26T19:26:33.782831"
+      "crawled_at": "2026-06-27T02:06:11.905147"
+    },
+    {
+      "source": "hackernews",
+      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+      "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.\n\nComments URL: https://news.ycombinator.com/item?id=48692474\nPoints: 56\n# Comments: 36",
+      "link": "https://news.ycombinator.com/item?id=48692474",
+      "published": "Fri, 26 Jun 2026 21:54:59 +0000",
+      "keywords": [
+        "Go",
+        "Git",
+        "GitHub"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-27T02:06:11.905184"
     },
     {
       "source": "arstechnica",
-      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
-      "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
-      "link": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-      "published": "Fri, 26 Jun 2026 17:46:07 +0000",
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "published": "Fri, 26 Jun 2026 22:19:05 +0000",
       "keywords": [
-        "REST",
-        "IoT",
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:12.411181"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "published": "Fri, 26 Jun 2026 21:43:57 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:12.411210"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "summary": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
+      "link": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "published": "Fri, 26 Jun 2026 21:12:07 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.945258"
+      "crawled_at": "2026-06-27T02:06:12.411249"
     },
     {
       "source": "arstechnica",
-      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
-      "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
-      "link": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
-      "published": "Fri, 26 Jun 2026 16:24:59 +0000",
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "published": "Fri, 26 Jun 2026 20:58:02 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.945293"
-    },
-    {
-      "source": "arstechnica",
-      "title": "VW may close four factories to adapt to the future, report says",
-      "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
-      "link": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
-      "published": "Fri, 26 Jun 2026 15:10:03 +0000",
-      "keywords": [
-        "REST"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.945322"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
-      "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
-      "link": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
-      "published": "Fri, 26 Jun 2026 14:41:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:33.945357"
-    },
-    {
-      "source": "arstechnica",
-      "title": "SpaceX plans to launch Starlink mobile service in the US",
-      "summary": "Move would test whether group can turn ambition into a mass-market phone business.",
-      "link": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
-      "published": "Fri, 26 Jun 2026 13:22:59 +0000",
-      "keywords": [
+        "Go",
+        "Apple",
+        "Android",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-26T19:26:33.945383"
+      "crawled_at": "2026-06-27T02:06:12.411276"
     },
     {
-      "source": "wired",
-      "title": "10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)",
-      "summary": "Prime Day isn’t just about cheap TVs. It’s also about cheap stuff to watch on your cheap TV.",
-      "link": "https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/",
-      "published": "Fri, 26 Jun 2026 18:55:18 +0000",
+      "source": "arstechnica",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "published": "Fri, 26 Jun 2026 20:04:55 +0000",
       "keywords": [
-        "Apple"
+        "AI",
+        "OpenAI",
+        "Microsoft"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-26T19:26:34.134736"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:12.411320"
     },
     {
       "source": "wired",
-      "title": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
-      "summary": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
-      "link": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
-      "published": "Fri, 26 Jun 2026 18:45:16 +0000",
+      "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
+      "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
+      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
+      "published": "Sat, 27 Jun 2026 00:59:29 +0000",
       "keywords": [
+        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:34.134784"
+      "crawled_at": "2026-06-27T02:06:12.539796"
     },
     {
       "source": "wired",
-      "title": "I'm Adding These Bose Headphones to My Prime Day Cart (2026)",
-      "summary": "Bose headphones are already one of our favorites for comfort, sound, and noise canceling. Now they’re cheaper.",
-      "link": "https://www.wired.com/story/bose-headphones-amazon-prime-day-2026/",
-      "published": "Fri, 26 Jun 2026 18:16:58 +0000",
+      "title": "99 Last Minute Prime Day Deals: Up to 50% Off (2026)",
+      "summary": "Prime Day is hours away from ending, so take one last look through our hand-picked deals before they're gone.",
+      "link": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
+      "published": "Sat, 27 Jun 2026 00:45:00 +0000",
       "keywords": [
-        "AR"
+        "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-26T19:26:34.134821"
+      "crawled_at": "2026-06-27T02:06:12.539830"
     },
     {
       "source": "wired",
-      "title": "The Prime Day MacBook Deals I Recommend (2026)",
-      "summary": "Apple has warned about MacBook prices rising, making these Prime Day deals even more worthwhile to consider.",
-      "link": "https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/",
-      "published": "Fri, 26 Jun 2026 18:07:38 +0000",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "published": "Sat, 27 Jun 2026 00:26:14 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:12.539857"
+    },
+    {
+      "source": "wired",
+      "title": "17 Last Minute Prime Day Apple Deals on iPads, Macs, and More",
+      "summary": "Despite the surprise price increases to iPads and Macs, there are some fantastic Prime Day deals still left to shop.",
+      "link": "https://www.wired.com/story/best-prime-day-apple-deals-06-26-2026/",
+      "published": "Sat, 27 Jun 2026 00:12:52 +0000",
       "keywords": [
         "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-26T19:26:34.134849"
+      "crawled_at": "2026-06-27T02:06:12.539885"
     },
     {
       "source": "wired",
-      "title": "I Just Saw That Eufy’s Floodlight Security Camera Is Cheaper Than Ever (2026)",
-      "summary": "If you want to beef up your home security this Prime Day, Eufy’s Floodlight Camera is a great way to do it.",
-      "link": "https://www.wired.com/story/amazon-prime-day-eufy-floodlight-security-camera-june-2026/",
-      "published": "Fri, 26 Jun 2026 17:23:59 +0000",
+      "title": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
+      "summary": "With discourse about Christopher Nolan’s epic already raging, first viewer reactions will come from mainstream press, not content creators. Some critics are gloating over this break from the norm.",
+      "link": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/",
+      "published": "Fri, 26 Jun 2026 23:15:28 +0000",
       "keywords": [
-        "Security"
+        "AI",
+        "React",
+        "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-06-26T19:26:34.134881"
+      "category": "AI/ML",
+      "crawled_at": "2026-06-27T02:06:12.539924"
     }
   ]
 }
