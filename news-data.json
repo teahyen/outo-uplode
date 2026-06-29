@@ -1,10 +1,35 @@
 {
-  "last_updated": "2026-06-28T19:00:28.903591",
+  "last_updated": "2026-06-29T02:28:01.738683",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "summary": "Streaming ads might be getting a lot quieter.",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "published": "Sun, 28 Jun 2026 21:34:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-29T02:28:00.912630"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-29T02:28:00.913072"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "summary": "Has Silicon Valley been building the wrong things?",
       "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "published": "Sun, 28 Jun 2026 17:03:16 +0000",
@@ -13,7 +38,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.279730"
+      "crawled_at": "2026-06-29T02:28:00.913117"
     },
     {
       "source": "techcrunch",
@@ -27,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.279770"
+      "crawled_at": "2026-06-29T02:28:00.913144"
     },
     {
       "source": "techcrunch",
@@ -39,34 +64,36 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.279802"
+      "crawled_at": "2026-06-29T02:28:00.913170"
     },
     {
-      "source": "techcrunch",
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the ",
-      "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "published": "Sun, 28 Jun 2026 14:00:00 +0000",
+      "source": "theverge",
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "published": "2026-06-28T17:42:51-04:00",
       "keywords": [
         "AI",
-        "Go",
+        "OpenAI",
+        "Anthropic",
+        "Security",
+        "Cybersecurity"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-29T02:28:01.034696"
+    },
+    {
+      "source": "theverge",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned sin",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "published": "2026-06-28T16:27:36-04:00",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.279846"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
-      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "published": "Sun, 28 Jun 2026 05:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.279871"
+      "crawled_at": "2026-06-29T02:28:01.034743"
     },
     {
       "source": "theverge",
@@ -80,7 +107,7 @@
         "REST"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.402670"
+      "crawled_at": "2026-06-29T02:28:01.034776"
     },
     {
       "source": "theverge",
@@ -93,7 +120,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.402737"
+      "crawled_at": "2026-06-29T02:28:01.034851"
     },
     {
       "source": "theverge",
@@ -109,96 +136,81 @@
         "iPhone"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.402775"
-    },
-    {
-      "source": "theverge",
-      "title": "Nest&#8217;s quest to fix your thermostat",
-      "summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of his life, only to have an experience that drags him back [&#",
-      "link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
-      "published": "2026-06-28T08:02:44-04:00",
-      "keywords": [
-        "REST",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-28T19:00:28.402812"
-    },
-    {
-      "source": "theverge",
-      "title": "Ad-free streaming is a luxury now",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Streaming was once a reprieve from c",
-      "link": "https://www.theverge.com/column/958379/streaming-industry-ads",
-      "published": "2026-06-28T08:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.402853"
+      "crawled_at": "2026-06-29T02:28:01.034894"
     },
     {
       "source": "hackernews",
-      "title": "The Cost Yagni Was Never About – By Kent Beck",
-      "summary": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about\nComments URL: https://news.ycombinator.com/item?id=48710082\nPoints: 6\n# Comments: 0",
-      "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
-      "published": "Sun, 28 Jun 2026 18:31:54 +0000",
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/\nComments URL: https://news.ycombinator.com/item?id=48713697\nPoints: 21\n# Comments: 7",
+      "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "published": "Mon, 29 Jun 2026 01:25:04 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.666997"
-    },
-    {
-      "source": "hackernews",
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\nComments URL: https://news.ycombinator.com/item?id=48709187\nPoints: 41\n# Comments: 4",
-      "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "published": "Sun, 28 Jun 2026 16:58:59 +0000",
-      "keywords": [
-        "Go",
-        "VC",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-06-28T19:00:28.667043"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: DRM-Free Books",
-      "summary": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.https://frequal.com/Perspectives/DrmFreeAuthors.html\n\nC",
-      "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-      "published": "Sun, 28 Jun 2026 16:58:56 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.667093"
-    },
-    {
-      "source": "hackernews",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus\nComments URL: https://news.ycombinator.com/item?id=48708941\nPoints: 119\n# Comments: 167",
-      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "published": "Sun, 28 Jun 2026 16:35:19 +0000",
-      "keywords": [
-        "Claude",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.667123"
+      "crawled_at": "2026-06-29T02:28:01.547958"
     },
     {
       "source": "hackernews",
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565\n\nComments URL: https://news.ycombinator.com/item?id=48708859\nPoints: 51\n# Comments: 18",
-      "link": "https://www.openculture.com/2020/10/daisugi.html",
-      "published": "Sun, 28 Jun 2026 16:28:50 +0000",
+      "title": "Better Images of AI",
+      "summary": "Article URL: https://betterimagesofai.org/\nComments URL: https://news.ycombinator.com/item?id=48713051\nPoints: 12\n# Comments: 7",
+      "link": "https://betterimagesofai.org/",
+      "published": "Sun, 28 Jun 2026 23:50:58 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.667154"
+      "crawled_at": "2026-06-29T02:28:01.547991"
+    },
+    {
+      "source": "hackernews",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 53\n# Comments: 12",
+      "link": "https://arxiv.org/abs/2401.07013",
+      "published": "Sun, 28 Jun 2026 22:32:04 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-29T02:28:01.548026"
+    },
+    {
+      "source": "hackernews",
+      "title": "Xonaly – Canada's Independent Search Engine",
+      "summary": "Article URL: https://xonaly.com/\nComments URL: https://news.ycombinator.com/item?id=48712324\nPoints: 59\n# Comments: 37",
+      "link": "https://xonaly.com/",
+      "published": "Sun, 28 Jun 2026 22:20:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-29T02:28:01.548069"
+    },
+    {
+      "source": "hackernews",
+      "title": "POSIX Is Not a Shell",
+      "summary": "Article URL: https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html\nComments URL: https://news.ycombinator.com/item?id=48711403\nPoints: 40\n# Comments: 26",
+      "link": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+      "published": "Sun, 28 Jun 2026 20:39:50 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-29T02:28:01.548103"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”",
+      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "published": "Sun, 28 Jun 2026 18:49:21 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-06-29T02:28:01.635260"
     },
     {
       "source": "arstechnica",
@@ -210,7 +222,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-28T19:00:28.747011"
+      "crawled_at": "2026-06-29T02:28:01.635296"
     },
     {
       "source": "arstechnica",
@@ -223,7 +235,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.747047"
+      "crawled_at": "2026-06-29T02:28:01.635324"
     },
     {
       "source": "arstechnica",
@@ -235,7 +247,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.747069"
+      "crawled_at": "2026-06-29T02:28:01.635346"
     },
     {
       "source": "arstechnica",
@@ -247,22 +259,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.747106"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
-      "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
-      "link": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
-      "published": "Fri, 26 Jun 2026 20:58:02 +0000",
-      "keywords": [
-        "Go",
-        "Apple",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-06-28T19:00:28.747132"
+      "crawled_at": "2026-06-29T02:28:01.635384"
     },
     {
       "source": "wired",
@@ -272,7 +269,7 @@
       "published": "Sun, 28 Jun 2026 12:21:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.903329"
+      "crawled_at": "2026-06-29T02:28:01.738408"
     },
     {
       "source": "wired",
@@ -285,7 +282,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.903388"
+      "crawled_at": "2026-06-29T02:28:01.738456"
     },
     {
       "source": "wired",
@@ -297,7 +294,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.903431"
+      "crawled_at": "2026-06-29T02:28:01.738486"
     },
     {
       "source": "wired",
@@ -310,7 +307,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-28T19:00:28.903470"
+      "crawled_at": "2026-06-29T02:28:01.738516"
     },
     {
       "source": "wired",
@@ -323,7 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-28T19:00:28.903507"
+      "crawled_at": "2026-06-29T02:28:01.738547"
     }
   ]
 }
