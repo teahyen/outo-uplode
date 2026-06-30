@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-06-30T02:11:19.891660",
+  "last_updated": "2026-06-30T08:54:19.107969",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The AI jobs debate just got messier",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "published": "Tue, 30 Jun 2026 04:01:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-30T08:54:17.103988"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "published": "Tue, 30 Jun 2026 02:28:41 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-06-30T08:54:17.104024"
+    },
     {
       "source": "techcrunch",
       "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
@@ -16,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.364554"
+      "crawled_at": "2026-06-30T08:54:17.104046"
     },
     {
       "source": "techcrunch",
@@ -31,7 +58,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.364883"
+      "crawled_at": "2026-06-30T08:54:17.104075"
     },
     {
       "source": "techcrunch",
@@ -44,36 +71,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.364941"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Waymo and Uber quietly part ways in Phoenix",
-      "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
-      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
-      "published": "Mon, 29 Jun 2026 18:45:12 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.364967"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "published": "Mon, 29 Jun 2026 18:10:26 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.364995"
+      "crawled_at": "2026-06-30T08:54:17.104111"
     },
     {
       "source": "theverge",
@@ -86,7 +84,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-30T02:11:19.541224"
+      "crawled_at": "2026-06-30T08:54:17.285636"
     },
     {
       "source": "theverge",
@@ -98,7 +96,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-30T02:11:19.541295"
+      "crawled_at": "2026-06-30T08:54:17.285695"
     },
     {
       "source": "theverge",
@@ -113,7 +111,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-30T02:11:19.541336"
+      "crawled_at": "2026-06-30T08:54:17.285728"
     },
     {
       "source": "theverge",
@@ -126,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.541382"
+      "crawled_at": "2026-06-30T08:54:17.285764"
     },
     {
       "source": "theverge",
@@ -139,72 +137,68 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.541443"
+      "crawled_at": "2026-06-30T08:54:17.285808"
     },
     {
       "source": "hackernews",
-      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-      "summary": "Article URL: https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/\nComments URL: https://news.ycombinator.com/item?id=48727538\nPoints: 4\n# Comments: 0",
-      "link": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-      "published": "Tue, 30 Jun 2026 01:30:40 +0000",
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "summary": "Article URL: https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers\nComments URL: https://news.ycombinator.com/item?id=48728740\nPoints: 132\n# Comments: 68",
+      "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "published": "Tue, 30 Jun 2026 05:17:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-30T08:54:18.753197"
+    },
+    {
+      "source": "hackernews",
+      "title": "Popping the GPU Bubble",
+      "summary": "Article URL: https://moondream.ai/blog/popping-the-gpu-bubble\nComments URL: https://news.ycombinator.com/item?id=48728729\nPoints: 115\n# Comments: 21",
+      "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "published": "Tue, 30 Jun 2026 05:14:35 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.657242"
+      "crawled_at": "2026-06-30T08:54:18.753225"
+    },
+    {
+      "source": "hackernews",
+      "title": "The end of the AArch64 desktop experiment",
+      "summary": "Article URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\nComments URL: https://news.ycombinator.com/item?id=48728599\nPoints: 30\n# Comments: 14",
+      "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "published": "Tue, 30 Jun 2026 04:51:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-30T08:54:18.753257"
     },
     {
       "source": "hackernews",
       "title": "Exploring PDP-1 Lisp (1960)",
-      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 14\n# Comments: 10",
+      "summary": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html\nComments URL: https://news.ycombinator.com/item?id=48727323\nPoints: 65\n# Comments: 16",
       "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
       "published": "Tue, 30 Jun 2026 00:56:42 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.657285"
+      "crawled_at": "2026-06-30T08:54:18.753283"
     },
     {
       "source": "hackernews",
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 23\n# Comments: 7",
+      "title": "Memory Safe Context Switching",
+      "summary": "Article URL: https://fil-c.org/context_switches\nComments URL: https://news.ycombinator.com/item?id=48727177\nPoints: 119\n# Comments: 23",
       "link": "https://fil-c.org/context_switches",
       "published": "Tue, 30 Jun 2026 00:38:19 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.657320"
-    },
-    {
-      "source": "hackernews",
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/\nComments URL: https://news.ycombinator.com/item?id=48727116\nPoints: 20\n# Comments: 3",
-      "link": "https://longcat.chat/blog/longcat-2.0/",
-      "published": "Tue, 30 Jun 2026 00:30:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.657355"
-    },
-    {
-      "source": "hackernews",
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "summary": "Article URL: https://github.com/SMJAI/open-memory-protocol\nComments URL: https://news.ycombinator.com/item?id=48726966\nPoints: 8\n# Comments: 2",
-      "link": "https://github.com/SMJAI/open-memory-protocol",
-      "published": "Tue, 30 Jun 2026 00:05:33 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Claude",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.657392"
+      "crawled_at": "2026-06-30T08:54:18.753309"
     },
     {
       "source": "arstechnica",
@@ -218,7 +212,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-30T02:11:19.792666"
+      "crawled_at": "2026-06-30T08:54:18.917745"
     },
     {
       "source": "arstechnica",
@@ -231,7 +225,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.792696"
+      "crawled_at": "2026-06-30T08:54:18.917770"
     },
     {
       "source": "arstechnica",
@@ -243,7 +237,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.792726"
+      "crawled_at": "2026-06-30T08:54:18.917793"
     },
     {
       "source": "arstechnica",
@@ -256,7 +250,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.792764"
+      "crawled_at": "2026-06-30T08:54:18.917823"
     },
     {
       "source": "arstechnica",
@@ -269,7 +263,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.792798"
+      "crawled_at": "2026-06-30T08:54:18.917849"
+    },
+    {
+      "source": "wired",
+      "title": "Want to Boost Your Home’s Resale Value? Install a Heat Pump",
+      "summary": "Heat pumps are more than just a way to keep your home comfortable without using fossil fuels.",
+      "link": "https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/",
+      "published": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-06-30T08:54:19.107792"
     },
     {
       "source": "wired",
@@ -283,7 +289,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.891434"
+      "crawled_at": "2026-06-30T08:54:19.107823"
     },
     {
       "source": "wired",
@@ -293,7 +299,7 @@
       "published": "Mon, 29 Jun 2026 21:05:17 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-06-30T02:11:19.891476"
+      "crawled_at": "2026-06-30T08:54:19.107850"
     },
     {
       "source": "wired",
@@ -305,7 +311,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-06-30T02:11:19.891507"
+      "crawled_at": "2026-06-30T08:54:19.107873"
     },
     {
       "source": "wired",
@@ -318,21 +324,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-06-30T02:11:19.891533"
-    },
-    {
-      "source": "wired",
-      "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
-      "summary": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry.",
-      "link": "https://www.wired.com/story/the-robin-byrd-show/",
-      "published": "Mon, 29 Jun 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-06-30T02:11:19.891560"
+      "crawled_at": "2026-06-30T08:54:19.107893"
     }
   ]
 }
