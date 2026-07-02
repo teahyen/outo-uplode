@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-07-02T02:08:02.216994",
+  "last_updated": "2026-07-02T08:39:53.934660",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "published": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-02T08:39:53.186259"
+    },
     {
       "source": "techcrunch",
       "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
@@ -13,7 +29,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-02T02:07:59.510413"
+      "crawled_at": "2026-07-02T08:39:53.186306"
     },
     {
       "source": "techcrunch",
@@ -25,7 +41,7 @@
         "API"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-02T02:07:59.510456"
+      "crawled_at": "2026-07-02T08:39:53.186343"
     },
     {
       "source": "techcrunch",
@@ -40,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.510486"
+      "crawled_at": "2026-07-02T08:39:53.186371"
     },
     {
       "source": "techcrunch",
@@ -54,21 +70,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.510510"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-      "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
-      "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
-      "published": "Wed, 01 Jul 2026 19:18:07 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.510763"
+      "crawled_at": "2026-07-02T08:39:53.186394"
     },
     {
       "source": "theverge",
@@ -81,7 +83,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-02T02:07:59.607478"
+      "crawled_at": "2026-07-02T08:39:53.363947"
     },
     {
       "source": "theverge",
@@ -95,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.607522"
+      "crawled_at": "2026-07-02T08:39:53.363989"
     },
     {
       "source": "theverge",
@@ -109,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.607570"
+      "crawled_at": "2026-07-02T08:39:53.364034"
     },
     {
       "source": "theverge",
@@ -122,7 +124,7 @@
         "iPhone"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.607606"
+      "crawled_at": "2026-07-02T08:39:53.364068"
     },
     {
       "source": "theverge",
@@ -135,69 +137,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:07:59.607645"
+      "crawled_at": "2026-07-02T08:39:53.364103"
     },
     {
       "source": "hackernews",
-      "title": "LibreCAD in the Browser",
-      "summary": "Article URL: https://magik.net/librecad/\nComments URL: https://news.ycombinator.com/item?id=48755075\nPoints: 3\n# Comments: 0",
-      "link": "https://magik.net/librecad/",
-      "published": "Thu, 02 Jul 2026 01:00:31 +0000",
+      "title": "CursorBench 3.1",
+      "summary": "Article URL: https://cursor.com/evals\nComments URL: https://news.ycombinator.com/item?id=48756840\nPoints: 42\n# Comments: 28",
+      "link": "https://cursor.com/evals",
+      "published": "Thu, 02 Jul 2026 05:19:34 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:01.957839"
+      "crawled_at": "2026-07-02T08:39:53.456896"
     },
     {
       "source": "hackernews",
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\nComments URL: https://news.ycombinator.com/item?id=48755005\nPoints: 30\n# Comments: 1",
-      "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "published": "Thu, 02 Jul 2026 00:48:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:01.957912"
-    },
-    {
-      "source": "hackernews",
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-      "summary": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\nComments URL: https://news.ycombinator.com/item?id=48754963\nPoints: 80\n# Comments: 46",
-      "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "published": "Thu, 02 Jul 2026 00:40:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:01.957958"
-    },
-    {
-      "source": "hackernews",
-      "title": "Meta caps internal AI token spending",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/\nComments URL: https://news.ycombinator.com/item?id=48754713\nPoints: 112\n# Comments: 88",
-      "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "published": "Wed, 01 Jul 2026 23:58:48 +0000",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\nComments URL: https://news.ycombinator.com/item?id=48756602\nPoints: 106\n# Comments: 30",
+      "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "published": "Thu, 02 Jul 2026 04:32:41 +0000",
       "keywords": [
         "AI",
-        "Meta",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:08:01.957990"
+      "crawled_at": "2026-07-02T08:39:53.456933"
     },
     {
       "source": "hackernews",
-      "title": "The <Usermedia> HTML Element",
-      "summary": "Article URL: https://developer.chrome.com/blog/usermedia-html-element\nComments URL: https://news.ycombinator.com/item?id=48754700\nPoints: 32\n# Comments: 14",
-      "link": "https://developer.chrome.com/blog/usermedia-html-element",
-      "published": "Wed, 01 Jul 2026 23:56:15 +0000",
+      "title": "A new Android malware from Google",
+      "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html\nComments URL: https://news.ycombinator.com/item?id=48755965\nPoints: 266\n# Comments: 117",
+      "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "published": "Thu, 02 Jul 2026 03:00:15 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-02T08:39:53.456965"
+    },
+    {
+      "source": "hackernews",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 70\n# Comments: 61",
+      "link": "https://senior-swe-bench.snorkel.ai/",
+      "published": "Thu, 02 Jul 2026 02:55:16 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-02T08:39:53.456993"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bring back crappy forums",
+      "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 225\n# Comments: 132",
+      "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "published": "Thu, 02 Jul 2026 02:30:16 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-02T02:08:01.958020"
+      "category": "Mobile",
+      "crawled_at": "2026-07-02T08:39:53.457024"
     },
     {
       "source": "arstechnica",
@@ -210,7 +217,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-02T02:08:02.099752"
+      "crawled_at": "2026-07-02T08:39:53.678294"
     },
     {
       "source": "arstechnica",
@@ -223,7 +230,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:08:02.099782"
+      "crawled_at": "2026-07-02T08:39:53.678323"
     },
     {
       "source": "arstechnica",
@@ -235,7 +242,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:08:02.099816"
+      "crawled_at": "2026-07-02T08:39:53.678354"
     },
     {
       "source": "arstechnica",
@@ -248,7 +255,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:08:02.099840"
+      "crawled_at": "2026-07-02T08:39:53.678379"
     },
     {
       "source": "arstechnica",
@@ -261,68 +268,61 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:02.099871"
+      "crawled_at": "2026-07-02T08:39:53.678410"
     },
     {
       "source": "wired",
-      "title": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
-      "summary": "Fourth of July weekend is the last great grill and griddle sale of the summer, including $250 off my favorite pellet smoker.",
-      "link": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/",
-      "published": "Wed, 01 Jul 2026 23:16:11 +0000",
+      "title": "Paramount+ Coupon Codes and Deals for July 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "published": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-02T08:39:53.934455"
+    },
+    {
+      "source": "wired",
+      "title": "Dell Coupon Codes: 20% Off for July 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-02T08:39:53.934495"
+    },
+    {
+      "source": "wired",
+      "title": "Booking.com Promo Codes: 20% Off | July 2026",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "published": "Thu, 02 Jul 2026 05:00:00 +0000",
       "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:02.216702"
+      "category": "Programming",
+      "crawled_at": "2026-07-02T08:39:53.934540"
     },
     {
       "source": "wired",
-      "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-      "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
-      "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
-      "published": "Wed, 01 Jul 2026 21:34:03 +0000",
-      "keywords": [
-        "React",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:02.216762"
+      "title": "B&H Photo Promo Codes and Deals This July 2026",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "published": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-02T08:39:53.934564"
     },
     {
       "source": "wired",
-      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
-      "summary": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
-      "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
-      "published": "Wed, 01 Jul 2026 20:28:57 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-02T02:08:02.216800"
-    },
-    {
-      "source": "wired",
-      "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
-      "summary": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
-      "link": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
-      "published": "Wed, 01 Jul 2026 19:29:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-02T02:08:02.216841"
-    },
-    {
-      "source": "wired",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "published": "Wed, 01 Jul 2026 18:10:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-02T02:08:02.216869"
+      "title": "30% Off Canon Promo Codes | July 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this July.",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "published": "Thu, 02 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-02T08:39:53.934586"
     }
   ]
 }
