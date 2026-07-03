@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-03T01:52:14.052574",
+  "last_updated": "2026-07-03T08:46:29.146581",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "published": "Fri, 03 Jul 2026 05:05:00 +0000",
+      "keywords": [
+        "Go",
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-07-03T08:46:26.553433"
+    },
     {
       "source": "techcrunch",
       "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-03T01:52:05.726904"
+      "crawled_at": "2026-07-03T08:46:26.553731"
     },
     {
       "source": "techcrunch",
@@ -28,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:05.726955"
+      "crawled_at": "2026-07-03T08:46:26.553777"
     },
     {
       "source": "techcrunch",
@@ -40,7 +54,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:05.726990"
+      "crawled_at": "2026-07-03T08:46:26.553810"
     },
     {
       "source": "techcrunch",
@@ -56,31 +70,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:05.727022"
-    },
-    {
-      "source": "techcrunch",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-      "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "published": "Thu, 02 Jul 2026 20:42:48 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:05.727052"
+      "crawled_at": "2026-07-03T08:46:26.553842"
     },
     {
       "source": "theverge",
       "title": "Sony’s PlayStation disc factory is already being repurposed",
-      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzberg that the company's Thalgau plant produces 600,000 discs every day, half of which",
+      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which",
       "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
       "published": "2026-07-02T21:05:13-04:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:05.893414"
+      "crawled_at": "2026-07-03T08:46:26.683066"
     },
     {
       "source": "theverge",
@@ -95,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:05.893462"
+      "crawled_at": "2026-07-03T08:46:26.683107"
     },
     {
       "source": "theverge",
@@ -109,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:05.893498"
+      "crawled_at": "2026-07-03T08:46:26.683140"
     },
     {
       "source": "theverge",
@@ -121,7 +123,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:05.893538"
+      "crawled_at": "2026-07-03T08:46:26.683176"
     },
     {
       "source": "theverge",
@@ -133,74 +135,68 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-03T01:52:05.893583"
+      "crawled_at": "2026-07-03T08:46:26.683218"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why Switzerland has 25 gbit internet and America doesn't",
+      "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/\nComments URL: https://news.ycombinator.com/item?id=48770647\nPoints: 464\n# Comments: 310",
+      "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "published": "Fri, 03 Jul 2026 04:16:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-03T08:46:28.820451"
+    },
+    {
+      "source": "hackernews",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/\nComments URL: https://news.ycombinator.com/item?id=48770477\nPoints: 43\n# Comments: 6",
+      "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "published": "Fri, 03 Jul 2026 03:49:47 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-03T08:46:28.820495"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj6gr0xkyr3o\nComments URL: https://news.ycombinator.com/item?id=48769696\nPoints: 26\n# Comments: 20",
+      "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+      "published": "Fri, 03 Jul 2026 01:42:40 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-03T08:46:28.820521"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Safari MCP server for web developers",
+      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\nComments URL: https://news.ycombinator.com/item?id=48769639\nPoints: 73\n# Comments: 12",
+      "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "published": "Fri, 03 Jul 2026 01:37:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-03T08:46:28.820549"
     },
     {
       "source": "hackernews",
       "title": "CarPlay Is Additive",
-      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 22\n# Comments: 18",
+      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 258\n# Comments: 314",
       "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
       "published": "Fri, 03 Jul 2026 01:02:45 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.572080"
-    },
-    {
-      "source": "hackernews",
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl\nComments URL: https://news.ycombinator.com/item?id=48768997\nPoints: 47\n# Comments: 28",
-      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "published": "Fri, 03 Jul 2026 00:01:26 +0000",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "Git",
-        "GitHub",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:13.572123"
-    },
-    {
-      "source": "hackernews",
-      "title": "An American Privacy Emergency",
-      "summary": "Article URL: https://scottaaronson.blog/?p=9902\nComments URL: https://news.ycombinator.com/item?id=48768992\nPoints: 124\n# Comments: 21",
-      "link": "https://scottaaronson.blog/?p=9902",
-      "published": "Fri, 03 Jul 2026 00:01:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.572156"
-    },
-    {
-      "source": "hackernews",
-      "title": "Right to Local Intelligence",
-      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 21\n# Comments: 6",
-      "link": "https://righttointelligence.org/",
-      "published": "Thu, 02 Jul 2026 23:54:03 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.572188"
-    },
-    {
-      "source": "hackernews",
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "summary": "Article URL: https://github.com/FractalFir/crustc\nComments URL: https://news.ycombinator.com/item?id=48768464\nPoints: 126\n# Comments: 27",
-      "link": "https://github.com/FractalFir/crustc",
-      "published": "Thu, 02 Jul 2026 22:57:35 +0000",
-      "keywords": [
-        "Rust",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-03T01:52:13.572214"
+      "crawled_at": "2026-07-03T08:46:28.820579"
     },
     {
       "source": "arstechnica",
@@ -212,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.791111"
+      "crawled_at": "2026-07-03T08:46:28.971834"
     },
     {
       "source": "arstechnica",
@@ -224,7 +220,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:13.791150"
+      "crawled_at": "2026-07-03T08:46:28.971866"
     },
     {
       "source": "arstechnica",
@@ -237,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.791181"
+      "crawled_at": "2026-07-03T08:46:28.971894"
     },
     {
       "source": "arstechnica",
@@ -249,7 +245,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.791207"
+      "crawled_at": "2026-07-03T08:46:28.971919"
     },
     {
       "source": "arstechnica",
@@ -261,7 +257,32 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:13.791234"
+      "crawled_at": "2026-07-03T08:46:28.971944"
+    },
+    {
+      "source": "wired",
+      "title": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
+      "summary": "In September, some PlayStation customers will no longer be able to access some purchased movies and shows. It underscores the fact that digital purchases are really more like long-term rentals.",
+      "link": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
+      "published": "Fri, 03 Jul 2026 08:30:00 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-03T08:46:29.146339"
+    },
+    {
+      "source": "wired",
+      "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+      "summary": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
+      "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
+      "published": "Fri, 03 Jul 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-03T08:46:29.146399"
     },
     {
       "source": "wired",
@@ -275,7 +296,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:14.052313"
+      "crawled_at": "2026-07-03T08:46:29.146433"
     },
     {
       "source": "wired",
@@ -287,7 +308,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-03T01:52:14.052362"
+      "crawled_at": "2026-07-03T08:46:29.146470"
     },
     {
       "source": "wired",
@@ -299,35 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-03T01:52:14.052402"
-    },
-    {
-      "source": "wired",
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "published": "Thu, 02 Jul 2026 18:01:20 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:14.052433"
-    },
-    {
-      "source": "wired",
-      "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
-      "summary": "The federal agency says it will temporarily schedule the drug, which has been called “gas station heroin,” as a controlled substance—a boon for MAHA and the mainstream kratom industry.",
-      "link": "https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/",
-      "published": "Thu, 02 Jul 2026 16:21:40 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-03T01:52:14.052465"
+      "crawled_at": "2026-07-03T08:46:29.146504"
     }
   ]
 }
