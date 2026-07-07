@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-07T01:59:33.148521",
+  "last_updated": "2026-07-07T09:21:22.057496",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T09:21:21.315593"
+    },
     {
       "source": "techcrunch",
       "title": "Netflix invented binge-watching. Now it may have outgrown it.",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:32.667348"
+      "crawled_at": "2026-07-07T09:21:21.316045"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.667407"
+      "crawled_at": "2026-07-07T09:21:21.316112"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.667438"
+      "crawled_at": "2026-07-07T09:21:21.316142"
     },
     {
       "source": "techcrunch",
@@ -51,22 +64,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:32.667471"
-    },
-    {
-      "source": "techcrunch",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "published": "Mon, 06 Jul 2026 19:01:59 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.667504"
+      "crawled_at": "2026-07-07T09:21:21.316177"
     },
     {
       "source": "theverge",
@@ -79,7 +77,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.837292"
+      "crawled_at": "2026-07-07T09:21:21.455266"
     },
     {
       "source": "theverge",
@@ -92,7 +90,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.837353"
+      "crawled_at": "2026-07-07T09:21:21.455319"
     },
     {
       "source": "theverge",
@@ -106,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.837396"
+      "crawled_at": "2026-07-07T09:21:21.455360"
     },
     {
       "source": "theverge",
@@ -122,7 +120,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-07T01:59:32.837440"
+      "crawled_at": "2026-07-07T09:21:21.455404"
     },
     {
       "source": "theverge",
@@ -134,70 +132,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:32.837483"
+      "crawled_at": "2026-07-07T09:21:21.455463"
     },
     {
       "source": "hackernews",
-      "title": "LLMs Are Not a Default Execution Engine",
-      "summary": "Article URL: https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt\nComments URL: https://news.ycombinator.com/item?id=48812489\nPoints: 4\n# Comments: 1",
-      "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
-      "published": "Tue, 07 Jul 2026 01:06:19 +0000",
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "summary": "Article URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device\nComments URL: https://news.ycombinator.com/item?id=48815196\nPoints: 15\n# Comments: 1",
+      "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "published": "Tue, 07 Jul 2026 08:54:03 +0000",
+      "keywords": [
+        "REST",
+        "Hack",
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-07-07T09:21:21.771405"
+    },
+    {
+      "source": "hackernews",
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "summary": "Article URL: https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media\nComments URL: https://news.ycombinator.com/item?id=48815117\nPoints: 26\n# Comments: 12",
+      "link": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "published": "Tue, 07 Jul 2026 08:39:51 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.932576"
+      "crawled_at": "2026-07-07T09:21:21.771452"
     },
     {
       "source": "hackernews",
-      "title": "Strata – An app that talks me out of dying outdoors",
-      "summary": "Article URL: https://strata.highloop.co/\nComments URL: https://news.ycombinator.com/item?id=48812282\nPoints: 7\n# Comments: 17",
-      "link": "https://strata.highloop.co/",
-      "published": "Tue, 07 Jul 2026 00:32:59 +0000",
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "summary": "Article URL: https://jobs.ashbyhq.com/lago\nComments URL: https://news.ycombinator.com/item?id=48814509\nPoints: 0\n# Comments: 0",
+      "link": "https://jobs.ashbyhq.com/lago",
+      "published": "Tue, 07 Jul 2026 07:00:27 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-07T09:21:21.771486"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "summary": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/taocp.html\nComments URL: https://news.ycombinator.com/item?id=48813929\nPoints: 7\n# Comments: 0",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "published": "Tue, 07 Jul 2026 05:19:03 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-07T01:59:32.932627"
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:21.771515"
     },
     {
       "source": "hackernews",
       "title": "How to sequence your own DNA at home",
-      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 46\n# Comments: 14",
+      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 204\n# Comments: 72",
       "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
       "published": "Tue, 07 Jul 2026 00:14:21 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:32.932665"
-    },
-    {
-      "source": "hackernews",
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 14\n# Comments: 2",
-      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "published": "Mon, 06 Jul 2026 23:59:54 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.932695"
-    },
-    {
-      "source": "hackernews",
-      "title": "NSA and IETF: Fairness",
-      "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html\nComments URL: https://news.ycombinator.com/item?id=48811887\nPoints: 36\n# Comments: 9",
-      "link": "https://blog.cr.yp.to/20260706-fairness.html",
-      "published": "Mon, 06 Jul 2026 23:33:54 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:32.932719"
+      "crawled_at": "2026-07-07T09:21:21.771548"
     },
     {
       "source": "arstechnica",
@@ -207,7 +208,7 @@
       "published": "Mon, 06 Jul 2026 21:13:37 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.045639"
+      "crawled_at": "2026-07-07T09:21:21.896527"
     },
     {
       "source": "arstechnica",
@@ -217,7 +218,7 @@
       "published": "Mon, 06 Jul 2026 20:52:42 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.045685"
+      "crawled_at": "2026-07-07T09:21:21.896573"
     },
     {
       "source": "arstechnica",
@@ -229,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.045714"
+      "crawled_at": "2026-07-07T09:21:21.896601"
     },
     {
       "source": "arstechnica",
@@ -241,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.045743"
+      "crawled_at": "2026-07-07T09:21:21.896630"
     },
     {
       "source": "arstechnica",
@@ -251,69 +252,65 @@
       "published": "Mon, 06 Jul 2026 17:14:09 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.045772"
+      "crawled_at": "2026-07-07T09:21:21.896660"
     },
     {
       "source": "wired",
-      "title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
-      "summary": "Holes in socks have become a curious sight at this year’s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
-      "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
-      "published": "Mon, 06 Jul 2026 14:50:52 +0000",
+      "title": "Instacart Promo Code: $15 Off | July 2026",
+      "summary": "Find the best Instacart promo code for massive savings in July 2026.",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.148234"
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:22.057299"
     },
     {
       "source": "wired",
-      "title": "Bentley Torcal EV: Price, Specs, Availability",
-      "summary": "The 300-mile Torcal arrives in September, but considering what’s come before with Ferrari, Porsche, and Mercedes, has the company timed its EV entry right?",
-      "link": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
-      "published": "Mon, 06 Jul 2026 11:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T01:59:33.148294"
+      "title": "Office Depot Coupons: Save With Promo Codes in July 2026",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "link": "https://www.wired.com/story/office-depot-promo-codes/",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:22.057334"
     },
     {
       "source": "wired",
-      "title": "9 Best Keyboards (2025), Tested and Reviewed",
-      "summary": "Whether you’re looking to boost your productivity or your Fortnite stats, these are the top keyboards for the job.",
-      "link": "https://www.wired.com/gallery/best-keyboards/",
-      "published": "Mon, 06 Jul 2026 11:00:00 +0000",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.148332"
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:22.057358"
     },
     {
       "source": "wired",
-      "title": "Sony Bravia 7 Mark II: Midrange but Priced High (2026)",
-      "summary": "This midrange mini RGB LED television has a high-end price but doesn’t match the brightness and contrast of more advanced models.",
-      "link": "https://www.wired.com/review/sony-bravia-7-mark-ii/",
-      "published": "Mon, 06 Jul 2026 10:31:00 +0000",
+      "title": "20% Off Sephora Promo Code | July 2026",
+      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+      "link": "https://www.wired.com/story/sephora-promo-code/",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.148369"
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:22.057378"
     },
     {
       "source": "wired",
-      "title": "Good News! Turns Out the Earth Will Never Be Swallowed by the Sun",
-      "summary": "A new study suggests that when our star becomes unstable in 5 billion years or so, Earth may avoid being engulfed by its fiery demise.",
-      "link": "https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/",
-      "published": "Mon, 06 Jul 2026 10:30:00 +0000",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in July 2026",
+      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more this July.",
+      "link": "https://www.wired.com/story/nomad-discount-code/",
+      "published": "Tue, 07 Jul 2026 05:00:00 +0000",
       "keywords": [
-        "Go",
-        "AR"
+        "Go"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T01:59:33.148400"
+      "category": "Programming",
+      "crawled_at": "2026-07-07T09:21:22.057400"
     }
   ]
 }
