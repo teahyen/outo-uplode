@@ -1,261 +1,301 @@
 {
-  "last_updated": "2026-07-07T14:04:00.113779",
+  "last_updated": "2026-07-07T19:38:19.478241",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "published": "Tue, 07 Jul 2026 14:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.521166"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Hacktivists call out Trump by hacking and defacing US Army websites",
-      "summary": "The U.S. Army has fixed two of its websites that were hacked to display messages calling President Trump a \"pedophile\" and a \"thief.\"",
-      "link": "https://techcrunch.com/2026/07/07/hacktivists-call-out-trump-by-hacking-and-defacing-us-army-websites/",
-      "published": "Tue, 07 Jul 2026 13:10:00 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-07-07T14:03:59.521215"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "published": "Tue, 07 Jul 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Funding",
-        "iPhone",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.521489"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "summary": "Discord has acknowledged that a bug in its AI moderation system mistakenly banned more than 8,000 users over the past two months, after harmless images—including spreadsheets, chessboards, game textures, as well as white and gray transparent backgrounds—were incorrectly flagged as harmful content. T",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "published": "Tue, 07 Jul 2026 19:28:38 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.521523"
+      "crawled_at": "2026-07-07T19:38:18.926764"
     },
     {
       "source": "techcrunch",
-      "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-      "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
-      "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
-      "published": "Tue, 07 Jul 2026 00:47:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.521575"
-    },
-    {
-      "source": "theverge",
-      "title": "iRobot’s newest floor cleaner isn’t a robot",
-      "summary": "iRobot just announced its first ever non-robotic floor cleaner. The $399 Roomba Electro Plus is a 5-in-1 hard-floor cleaner that combines vacuuming, mopping, and disinfecting, but you have to operate it yourself. The company also announced updates to its line of Roomba robot vacuums, launching five ",
-      "link": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
-      "published": "2026-07-07T10:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.687573"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft fixes storage-hogging Windows 11 folder",
-      "summary": "Microsoft is addressing a Windows 11 bug that caused a folder to take up several gigabytes of storage space. As spotted earlier by Windows Latest, Microsoft included the patch in its optional June 2026 update (KB5095093), which \"improves disk space usage for the CapabilityAccessManager.db-wal file.\"",
-      "link": "https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder",
-      "published": "2026-07-07T09:52:58-04:00",
-      "keywords": [
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.687647"
-    },
-    {
-      "source": "theverge",
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savi",
-      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "published": "2026-07-07T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.687691"
-    },
-    {
-      "source": "theverge",
-      "title": "Google Search lets creators know more about their reach",
-      "summary": "Google is going to give content creators and website owners a better idea of how people find their social media profiles and YouTube content through Search. With a new feature in the Google Search Console called \"platform properties,\" Google says that you'll be able to \"easily track which search ter",
-      "link": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "published": "2026-07-07T09:00:00-04:00",
+      "title": "Google’s Pixel event is set for August 12",
+      "summary": "Google's upcoming event in August will introduce new Pixel devices.",
+      "link": "https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/",
+      "published": "Tue, 07 Jul 2026 18:38:29 +0000",
       "keywords": [
         "Go",
-        "Google",
-        "AR"
+        "Google"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.687745"
+      "category": "Hardware",
+      "crawled_at": "2026-07-07T19:38:18.926811"
     },
     {
-      "source": "theverge",
-      "title": "iFixit has a new toolkit for fixing appliances, building furniture, and household repairs",
-      "summary": "iFixit is best known for its detailed gadget teardowns and toolkits designed to help you crack open and troubleshoot your own electronics. Today it announced a new toolkit that's instead tailored to household repairs or DIY projects like fixing appliances or assembling flat-packed furniture. iFixit ",
-      "link": "https://www.theverge.com/tech/962055/ifixit-megalodon-tool-kit-household-appliance-repairs",
-      "published": "2026-07-07T08:58:50-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.687790"
-    },
-    {
-      "source": "hackernews",
-      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-      "summary": "Article URL: https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html\nComments URL: https://news.ycombinator.com/item?id=48817191\nPoints: 49\n# Comments: 36",
-      "link": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
-      "published": "Tue, 07 Jul 2026 13:03:31 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.825107"
-    },
-    {
-      "source": "hackernews",
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
-      "summary": "Article URL: https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal\nComments URL: https://news.ycombinator.com/item?id=48817017\nPoints: 64\n# Comments: 55",
-      "link": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "published": "Tue, 07 Jul 2026 12:50:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.825180"
-    },
-    {
-      "source": "hackernews",
-      "title": "98% Isn't Much",
-      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/\nComments URL: https://news.ycombinator.com/item?id=48816959\nPoints: 132\n# Comments: 109",
-      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "published": "Tue, 07 Jul 2026 12:45:14 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.825220"
-    },
-    {
-      "source": "hackernews",
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=3R0Lp86GEBk\nComments URL: https://news.ycombinator.com/item?id=48816956\nPoints: 62\n# Comments: 20",
-      "link": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "published": "Tue, 07 Jul 2026 12:45:06 +0000",
-      "keywords": [
-        "AWS",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-07T14:03:59.825254"
-    },
-    {
-      "source": "hackernews",
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "summary": "Article URL: https://streetcomplete.app/\nComments URL: https://news.ycombinator.com/item?id=48816883\nPoints: 73\n# Comments: 16",
-      "link": "https://streetcomplete.app/",
-      "published": "Tue, 07 Jul 2026 12:38:35 +0000",
+      "source": "techcrunch",
+      "title": "Figma acquires team behind a vibe-coding app",
+      "summary": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
+      "link": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "published": "Tue, 07 Jul 2026 18:37:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-07T14:03:59.825291"
+      "crawled_at": "2026-07-07T19:38:18.926844"
     },
     {
-      "source": "arstechnica",
-      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
-      "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
-      "link": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-      "published": "Tue, 07 Jul 2026 11:15:15 +0000",
+      "source": "techcrunch",
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
+      "link": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "published": "Tue, 07 Jul 2026 17:24:35 +0000",
       "keywords": [
-        "Amazon",
+        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.974955"
+      "crawled_at": "2026-07-07T19:38:18.926882"
     },
     {
-      "source": "arstechnica",
-      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "published": "Tue, 07 Jul 2026 11:00:18 +0000",
+      "source": "techcrunch",
+      "title": "Hacked, leaked, and held for ransom: The worst breaches of 2026 so far",
+      "summary": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "link": "https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "published": "Tue, 07 Jul 2026 16:45:00 +0000",
+      "keywords": [
+        "Security",
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-07-07T19:38:18.926931"
+    },
+    {
+      "source": "theverge",
+      "title": "X says top accounts steal videos from other users as it announces new video tools",
+      "summary": "Nikita Bier, X's head of product, said in a post on Monday that \"[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral,\" while noting that videos on the platform \"make up close to half the impressions on X.\" According to Bier, X is lau",
+      "link": "https://www.theverge.com/tech/962415/x-video-editor-recycled-content",
+      "published": "2026-07-07T14:28:08-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:03:59.975000"
+      "crawled_at": "2026-07-07T19:38:19.024373"
     },
     {
-      "source": "arstechnica",
-      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-      "published": "Mon, 06 Jul 2026 21:13:37 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.975036"
+      "source": "theverge",
+      "title": "The ‘G-Wagen of golf carts’ could be the ideal second car",
+      "summary": "While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in a different direction. Amble's new electric buggy won't impress anyone with its 0-60 time or its self-d",
+      "link": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
+      "published": "2026-07-07T13:52:51-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.024432"
     },
     {
-      "source": "arstechnica",
-      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
-      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
-      "link": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-      "published": "Mon, 06 Jul 2026 20:52:42 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.975077"
+      "source": "theverge",
+      "title": "ABC tells the government to get out of its newsrooms",
+      "summary": "ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues that the agency's actions pose a risk to editorial independence by targeting programs \"perceived as unfr",
+      "link": "https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech",
+      "published": "2026-07-07T13:47:38-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.024472"
     },
     {
-      "source": "arstechnica",
-      "title": "What is the oldest American object ever launched into space?",
-      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
-      "link": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
-      "published": "Mon, 06 Jul 2026 19:57:56 +0000",
+      "source": "theverge",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "published": "2026-07-07T13:46:59-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.024508"
+    },
+    {
+      "source": "theverge",
+      "title": "Google announces Pixel 11 launch event in August",
+      "summary": "Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking place in the evening: It'll kick off at 6PM ET that day. The email also includes a brief animation teasing",
+      "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
+      "published": "2026-07-07T13:22:48-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.024541"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "summary": "Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.\n\nComments URL: https://news.ycombinator.com/item?id=48821848\nPoints: 5\n# Comments: 0",
+      "link": "https://davit.app",
+      "published": "Tue, 07 Jul 2026 18:44:29 +0000",
+      "keywords": [
+        "AI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.161788"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
+      "summary": "From time to time, I check that our open-source project is still available to all users, and I've occasionally noticed that the stargazers (1) information returns a 404 for non-logged-in users.I assume they're preparing to follow the LinkedIn model by making access available to registered users only",
+      "link": "https://news.ycombinator.com/item?id=48821803",
+      "published": "Tue, 07 Jul 2026 18:40:40 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.161849"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/\nComments URL: https://news.ycombinator.com/item?id=48821749\nPoints: 13\n# Comments: 0",
+      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "published": "Tue, 07 Jul 2026 18:36:35 +0000",
+      "keywords": [
+        "AI",
+        "Crypto",
+        "Security",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.161878"
+    },
+    {
+      "source": "hackernews",
+      "title": "Decrypting View State Messages",
+      "summary": "Article URL: https://zeroed.tech/blog/decrypting-viewstate-messages/\nComments URL: https://news.ycombinator.com/item?id=48821691\nPoints: 4\n# Comments: 1",
+      "link": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+      "published": "Tue, 07 Jul 2026 18:32:26 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T14:03:59.975107"
+      "crawled_at": "2026-07-07T19:38:19.161926"
+    },
+    {
+      "source": "hackernews",
+      "title": "Astro 7.0",
+      "summary": "Article URL: https://astro.build/blog/astro-7/\nComments URL: https://news.ycombinator.com/item?id=48821653\nPoints: 83\n# Comments: 15",
+      "link": "https://astro.build/blog/astro-7/",
+      "published": "Tue, 07 Jul 2026 18:30:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-07T19:38:19.161955"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+      "summary": "Google's new phones could feature glowing LEDs and higher price tags.",
+      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+      "published": "Tue, 07 Jul 2026 19:08:34 +0000",
+      "keywords": [
+        "Go",
+        "Google"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-07T19:38:19.309695"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The Weather Channel increases streaming subscription prices by up to $20",
+      "summary": "Livestreaming the channel through its app now starts at $5 per month.",
+      "link": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+      "published": "Tue, 07 Jul 2026 18:29:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-07T19:38:19.309731"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The Nintendo Switch's days are numbered—but what is that number?",
+      "summary": "Ars analysis suggests the 9-year-old console could keep selling for years.",
+      "link": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+      "published": "Tue, 07 Jul 2026 18:16:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-07T19:38:19.309769"
+    },
+    {
+      "source": "arstechnica",
+      "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+      "summary": "The T70S can be eligible for racing events or built to be road-legal.",
+      "link": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+      "published": "Tue, 07 Jul 2026 16:45:18 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-07T19:38:19.309797"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "published": "Tue, 07 Jul 2026 16:14:53 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-07-07T19:38:19.309824"
+    },
+    {
+      "source": "wired",
+      "title": "Mysterious Compound Detected on Pluto and Titan",
+      "summary": "Something on Pluto and one of Saturn’s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
+      "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
+      "published": "Tue, 07 Jul 2026 18:03:40 +0000",
+      "keywords": [
+        "AI",
+        "Database"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.478011"
+    },
+    {
+      "source": "wired",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "published": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-07T19:38:19.478053"
     },
     {
       "source": "wired",
@@ -267,7 +307,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T14:04:00.113513"
+      "crawled_at": "2026-07-07T19:38:19.478084"
     },
     {
       "source": "wired",
@@ -280,7 +320,7 @@
         "iPhone"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:04:00.113550"
+      "crawled_at": "2026-07-07T19:38:19.478108"
     },
     {
       "source": "wired",
@@ -292,31 +332,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-07T14:04:00.113598"
-    },
-    {
-      "source": "wired",
-      "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
-      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
-      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-      "published": "Tue, 07 Jul 2026 10:31:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-07-07T14:04:00.113643"
-    },
-    {
-      "source": "wired",
-      "title": "Pete Holmes Is Not Reading Your Email",
-      "summary": "“You can make a living, you can have a life, and leave 55,000 emails unread with a big fuck off.”",
-      "link": "https://www.wired.com/story/pete-holmes-user-behavior/",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-07T14:04:00.113677"
+      "crawled_at": "2026-07-07T19:38:19.478140"
     }
   ]
 }
