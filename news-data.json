@@ -1,260 +1,298 @@
 {
-  "last_updated": "2026-07-08T13:27:42.225002",
+  "last_updated": "2026-07-08T19:04:32.186859",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Venus Williams-backed WeWard can now lock your apps until you hit your steps",
-      "summary": "With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.",
-      "link": "https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/",
-      "published": "Wed, 08 Jul 2026 13:00:00 +0000",
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "link": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "published": "Wed, 08 Jul 2026 18:46:20 +0000",
       "keywords": [
-        "Funding",
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-08T13:27:41.519450"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.724314"
     },
     {
       "source": "techcrunch",
-      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published": "Wed, 08 Jul 2026 18:30:08 +0000",
       "keywords": [
         "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.724356"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "published": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.724410"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "published": "Wed, 08 Jul 2026 17:11:18 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.724442"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.724468"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+      "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer Worlds, is starting work ",
+      "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+      "published": "2026-07-08T14:50:27-04:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.807038"
+    },
+    {
+      "source": "theverge",
+      "title": "America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+      "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino is basically the ulti",
+      "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+      "published": "2026-07-08T13:57:53-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:31.807108"
+    },
+    {
+      "source": "theverge",
+      "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+      "summary": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm",
+      "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+      "published": "2026-07-08T13:30:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:31.807157"
+    },
+    {
+      "source": "theverge",
+      "title": "If Microsoft sold off Xbox, who would even buy it?",
+      "summary": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramatic cuts, saying in a",
+      "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+      "published": "2026-07-08T13:10:05-04:00",
+      "keywords": [
+        "Microsoft",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-08T19:04:31.807194"
+    },
+    {
+      "source": "theverge",
+      "title": "Twelve South’s AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
+      "summary": "If you&#8217;ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now it’s on sale for $39.99 ($15 off) at Amazon. That&",
+      "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+      "published": "2026-07-08T13:09:28-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.807235"
+    },
+    {
+      "source": "hackernews",
+      "title": "Grok 4.5",
+      "summary": "Article URL: https://x.ai/news/grok-4-5\nComments URL: https://news.ycombinator.com/item?id=48835111\nPoints: 148\n# Comments: 91",
+      "link": "https://x.ai/news/grok-4-5",
+      "published": "Wed, 08 Jul 2026 18:00:32 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.972939"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit de",
+      "link": "https://microsoft.github.io/flint-chart/#/",
+      "published": "Wed, 08 Jul 2026 17:46:12 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:31.973032"
+    },
+    {
+      "source": "hackernews",
+      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "summary": "Article URL: https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1783340582\nComments URL: https://news.ycombinator.com/item?id=48834919\nPoints: 41\n# Comments: 13",
+      "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "published": "Wed, 08 Jul 2026 17:45:26 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:31.973071"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Do We Know About the Microplastics Inside Us?",
+      "summary": "Article URL: https://e360.yale.edu/features/cassandra-rauert-interview\nComments URL: https://news.ycombinator.com/item?id=48834898\nPoints: 47\n# Comments: 4",
+      "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
+      "published": "Wed, 08 Jul 2026 17:43:37 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:31.973105"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT‑Live",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/\nComments URL: https://news.ycombinator.com/item?id=48834405\nPoints: 330\n# Comments: 238",
+      "link": "https://openai.com/index/introducing-gpt-live/",
+      "published": "Wed, 08 Jul 2026 17:03:19 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
         "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:41.519487"
+      "crawled_at": "2026-07-08T19:04:31.973136"
     },
     {
-      "source": "techcrunch",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "published": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "source": "arstechnica",
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "summary": "But the devices could \"easily be reflashed.\"",
+      "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+      "published": "Wed, 08 Jul 2026 18:10:16 +0000",
       "keywords": [
-        "AI",
-        "Startup",
+        "Go"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-07-08T19:04:32.078905"
+    },
+    {
+      "source": "arstechnica",
+      "title": "TikTok users don't have as much agency over their FYPs as they think",
+      "summary": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs",
+      "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+      "published": "Wed, 08 Jul 2026 18:00:49 +0000",
+      "keywords": [
+        "REST"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:32.078941"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "summary": "US military drone losses in Iran war spur Pentagon call for cheap replacements.",
+      "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "published": "Wed, 08 Jul 2026 17:44:54 +0000",
+      "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:41.519516"
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:32.078973"
     },
     {
-      "source": "techcrunch",
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "published": "Wed, 08 Jul 2026 07:16:00 +0000",
+      "source": "arstechnica",
+      "title": "Miami-based City Labs achieves a first for commercial nuclear power in space",
+      "summary": "\"The BOHR mission serves as a pathfinder for future nuclear-powered spacecraft.\"",
+      "link": "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+      "published": "Wed, 08 Jul 2026 17:26:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:32.079002"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "summary": "Android Bench is evolving, and developers can help guide that process.",
+      "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "published": "Wed, 08 Jul 2026 16:39:48 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-08T19:04:32.079024"
+    },
+    {
+      "source": "wired",
+      "title": "Dimming the Sun Would Help Lower the Risks of El Niño",
+      "summary": "As worries about a growing super El Niño mount, new findings suggest a radical solution to mitigating its impacts.",
+      "link": "https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/",
+      "published": "Wed, 08 Jul 2026 18:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-08T19:04:32.186640"
+    },
+    {
+      "source": "wired",
+      "title": "Republicans Gleefully Celebrate Midterms Chaos in Maine",
+      "summary": "Political operatives in Trumpworld hope that US Senate candidate Graham Platner stays in the race as long as possible.",
+      "link": "https://www.wired.com/story/republicans-gleefully-celebrate-midterms-chaos-in-maine/",
+      "published": "Wed, 08 Jul 2026 15:00:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:41.519542"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-      "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "published": "Tue, 07 Jul 2026 22:30:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-08T13:27:41.519572"
-    },
-    {
-      "source": "theverge",
-      "title": "Fi&#8217;s Starlink-enabled pet tracker found my dog when LTE couldn&#8217;t",
-      "summary": "Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing into cellular dead zones. That lets owners tap into SpaceX's constellation of low Earth orbit Starlink",
-      "link": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
-      "published": "2026-07-08T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:41.579900"
-    },
-    {
-      "source": "theverge",
-      "title": "The Steam Machine fits my TV, my desk, and my life",
-      "summary": "For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree with my colleague Sean Hollister's review. But even though I already own a PS5 and an Xbox Series X, [&#82",
-      "link": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
-      "published": "2026-07-08T08:00:00-04:00",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:41.579954"
-    },
-    {
-      "source": "theverge",
-      "title": "The robotaxi law that could ban Tesla",
-      "summary": "For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world reliably? Tesla has bet billions of dollar",
-      "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-      "published": "2026-07-08T07:00:00-04:00",
-      "keywords": [
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:41.579990"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung will launch its new wide foldable on July 22nd",
-      "summary": "Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: \"A new shape unfolds.\" It's long been rumored that Samsung is about to expand its foldable phone line to a third format, with a shorter and wider version of its big book-style foldables, to ",
-      "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
-      "published": "2026-07-08T04:13:52-04:00",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:41.580050"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
-      "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions s",
-      "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-      "published": "2026-07-07T19:55:19-04:00",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:41.580115"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tiny data centre used to heat public swimming pool",
-      "summary": "Article URL: https://www.bbc.com/news/technology-64939558\nComments URL: https://news.ycombinator.com/item?id=48831499\nPoints: 9\n# Comments: 1",
-      "link": "https://www.bbc.com/news/technology-64939558",
-      "published": "Wed, 08 Jul 2026 13:10:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:42.030669"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/\nComments URL: https://news.ycombinator.com/item?id=48830565\nPoints: 89\n# Comments: 36",
-      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "published": "Wed, 08 Jul 2026 11:30:56 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-08T13:27:42.030718"
-    },
-    {
-      "source": "hackernews",
-      "title": "List of European organizations that have banned personal messaging apps at work",
-      "summary": "Article URL: https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work\nComments URL: https://news.ycombinator.com/item?id=48830371\nPoints: 33\n# Comments: 34",
-      "link": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-      "published": "Wed, 08 Jul 2026 11:03:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-08T13:27:42.030760"
-    },
-    {
-      "source": "hackernews",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "summary": "Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\nComments URL: https://news.ycombinator.com/item?id=48829312\nPoints: 580\n# Comments: 115",
-      "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "published": "Wed, 08 Jul 2026 08:46:06 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.030794"
-    },
-    {
-      "source": "hackernews",
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "summary": "Article URL: https://github.com/dekart-xyz/geosql\nComments URL: https://news.ycombinator.com/item?id=48829242\nPoints: 52\n# Comments: 6",
-      "link": "https://github.com/dekart-xyz/geosql",
-      "published": "Wed, 08 Jul 2026 08:37:26 +0000",
-      "keywords": [
-        "Claude",
-        "SQL",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.030820"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Blue Origin, for the first time, is expected to raise private capital",
-      "summary": "The company is raising $10 billion, leading to a valuation of $130 billion.",
-      "link": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
-      "published": "Wed, 08 Jul 2026 12:47:35 +0000",
-      "keywords": [
-        "AI",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.122524"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-      "published": "Wed, 08 Jul 2026 07:00:51 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.122554"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-      "summary": "Cases have risen quickly as officials are working to identify a common source.",
-      "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-      "published": "Tue, 07 Jul 2026 22:29:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:42.122583"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
-      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-      "published": "Tue, 07 Jul 2026 21:03:07 +0000",
-      "keywords": [
-        "Rust"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-08T13:27:42.122616"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Surprisingly large number of people may have marker for tick-linked meat allergy",
-      "summary": "There's still a slew of questions about why some people develop alpha-gal syndrome.",
-      "link": "https://arstechnica.com/health/2026/07/surprisingly-large-number-of-people-may-have-marker-for-tick-linked-meat-allergy/",
-      "published": "Tue, 07 Jul 2026 20:32:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:42.122645"
+      "crawled_at": "2026-07-08T19:04:32.186671"
     },
     {
       "source": "wired",
@@ -266,7 +304,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:42.224787"
+      "crawled_at": "2026-07-08T19:04:32.186713"
     },
     {
       "source": "wired",
@@ -280,7 +318,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-08T13:27:42.224823"
+      "crawled_at": "2026-07-08T19:04:32.186740"
     },
     {
       "source": "wired",
@@ -294,32 +332,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.224854"
-    },
-    {
-      "source": "wired",
-      "title": "LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly",
-      "summary": "It’s hard to say if the pricey LG Micro RGB Evo television is worth shelling out for compared to its cheaper competitors, but you’ll probably enjoy its color-popping display.",
-      "link": "https://www.wired.com/review/lg-micro-rgb-evo/",
-      "published": "Wed, 08 Jul 2026 11:01:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-08T13:27:42.224895"
-    },
-    {
-      "source": "wired",
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "published": "Wed, 08 Jul 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-08T13:27:42.224918"
+      "crawled_at": "2026-07-08T19:04:32.186770"
     }
   ]
 }
