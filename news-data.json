@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-09T01:51:46.704458",
+  "last_updated": "2026-07-09T09:18:45.865258",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+      "summary": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+      "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+      "published": "Thu, 09 Jul 2026 02:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-09T09:18:40.909902"
+    },
     {
       "source": "techcrunch",
       "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
@@ -10,7 +22,7 @@
       "published": "Wed, 08 Jul 2026 23:11:42 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-07-09T01:51:43.711349"
+      "crawled_at": "2026-07-09T09:18:40.909948"
     },
     {
       "source": "techcrunch",
@@ -20,7 +32,7 @@
       "published": "Wed, 08 Jul 2026 22:41:33 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:43.711389"
+      "crawled_at": "2026-07-09T09:18:40.909980"
     },
     {
       "source": "techcrunch",
@@ -33,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:43.711417"
+      "crawled_at": "2026-07-09T09:18:40.910006"
     },
     {
       "source": "techcrunch",
@@ -48,21 +60,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:43.711452"
-    },
-    {
-      "source": "techcrunch",
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-      "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "published": "Wed, 08 Jul 2026 20:29:50 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:43.711492"
+      "crawled_at": "2026-07-09T09:18:40.910040"
     },
     {
       "source": "theverge",
@@ -76,7 +74,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:43.864270"
+      "crawled_at": "2026-07-09T09:18:40.986582"
     },
     {
       "source": "theverge",
@@ -86,7 +84,7 @@
       "published": "2026-07-08T16:00:00-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:43.864337"
+      "crawled_at": "2026-07-09T09:18:40.986646"
     },
     {
       "source": "theverge",
@@ -101,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:43.864375"
+      "crawled_at": "2026-07-09T09:18:40.986684"
     },
     {
       "source": "theverge",
@@ -113,7 +111,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:43.864433"
+      "crawled_at": "2026-07-09T09:18:40.986741"
     },
     {
       "source": "theverge",
@@ -126,69 +124,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:43.864479"
+      "crawled_at": "2026-07-09T09:18:40.986785"
     },
     {
       "source": "hackernews",
-      "title": "Rewriting Bun in Rust",
-      "summary": "Article URL: https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48839751\nPoints: 18\n# Comments: 3",
-      "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
-      "published": "Thu, 09 Jul 2026 01:22:24 +0000",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\nComments URL: https://news.ycombinator.com/item?id=48842611\nPoints: 30\n# Comments: 10",
+      "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "published": "Thu, 09 Jul 2026 08:22:52 +0000",
       "keywords": [
-        "Rust",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-09T01:51:46.437642"
+      "crawled_at": "2026-07-09T09:18:45.671660"
     },
     {
       "source": "hackernews",
-      "title": "A software engineering interview question I like: computing the median",
-      "summary": "Article URL: https://krisshamloo.com/blog/007\nComments URL: https://news.ycombinator.com/item?id=48839434\nPoints: 25\n# Comments: 11",
-      "link": "https://krisshamloo.com/blog/007",
-      "published": "Thu, 09 Jul 2026 00:38:02 +0000",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\nComments URL: https://news.ycombinator.com/item?id=48841963\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "published": "Thu, 09 Jul 2026 07:00:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:46.437686"
+      "crawled_at": "2026-07-09T09:18:45.671705"
     },
     {
       "source": "hackernews",
-      "title": "Remote Attestation",
-      "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 19\n# Comments: 9",
-      "link": "https://www.liamcvw.com/p/remote-attestation",
-      "published": "Thu, 09 Jul 2026 00:32:33 +0000",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "summary": "Article URL: https://github.com/malisper/pgrust\nComments URL: https://news.ycombinator.com/item?id=48841676\nPoints: 114\n# Comments: 133",
+      "link": "https://github.com/malisper/pgrust",
+      "published": "Thu, 09 Jul 2026 06:18:19 +0000",
+      "keywords": [
+        "Rust",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-09T09:18:45.671747"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Donkey Kong Toppled Atari",
+      "summary": "Article URL: https://dfarq.homeip.net/how-donkey-kong-toppled-atari/\nComments URL: https://news.ycombinator.com/item?id=48841385\nPoints: 15\n# Comments: 2",
+      "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "published": "Thu, 09 Jul 2026 05:34:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-09T01:51:46.437719"
+      "crawled_at": "2026-07-09T09:18:45.671800"
     },
     {
       "source": "hackernews",
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 13\n# Comments: 3",
-      "link": "https://mira-wm.com/",
-      "published": "Thu, 09 Jul 2026 00:27:57 +0000",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "summary": "Article URL: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming\nComments URL: https://news.ycombinator.com/item?id=48841259\nPoints: 104\n# Comments: 44",
+      "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "published": "Thu, 09 Jul 2026 05:14:45 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.437746"
-    },
-    {
-      "source": "hackernews",
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 283\n# Comments: 58",
-      "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "published": "Wed, 08 Jul 2026 23:37:43 +0000",
-      "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.437778"
+      "category": "Tech News",
+      "crawled_at": "2026-07-09T09:18:45.671853"
     },
     {
       "source": "arstechnica",
@@ -200,7 +201,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.550429"
+      "crawled_at": "2026-07-09T09:18:45.768356"
     },
     {
       "source": "arstechnica",
@@ -212,7 +213,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-09T01:51:46.550460"
+      "crawled_at": "2026-07-09T09:18:45.768388"
     },
     {
       "source": "arstechnica",
@@ -226,7 +227,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-09T01:51:46.550486"
+      "crawled_at": "2026-07-09T09:18:45.768415"
     },
     {
       "source": "arstechnica",
@@ -242,7 +243,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.550508"
+      "crawled_at": "2026-07-09T09:18:45.768437"
     },
     {
       "source": "arstechnica",
@@ -254,73 +255,67 @@
         "Go"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-07-09T01:51:46.550534"
+      "crawled_at": "2026-07-09T09:18:45.768463"
     },
     {
       "source": "wired",
-      "title": "One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel",
-      "summary": "The animal escaped after apparently arriving inside a package at Meta's Bangkok office, injuring one employee before finally being caught.",
-      "link": "https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/",
-      "published": "Wed, 08 Jul 2026 23:53:04 +0000",
+      "title": "Why Do Some Soccer Players Cut the Heels Off Their Cleats?",
+      "summary": "An image of Portugal forward Pedro Neto’s cleats at the World Cup has reignited a practice among some soccer players: modifying their cleats to relieve heel discomfort.",
+      "link": "https://www.wired.com/story/why-do-some-soccer-players-cut-the-heels-off-their-cleats/",
+      "published": "Thu, 09 Jul 2026 09:00:00 +0000",
       "keywords": [
-        "Meta",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-09T01:51:46.704253"
+      "category": "Tech News",
+      "crawled_at": "2026-07-09T09:18:45.865044"
     },
     {
       "source": "wired",
-      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-      "published": "Wed, 08 Jul 2026 21:08:26 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.704289"
-    },
-    {
-      "source": "wired",
-      "title": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
-      "summary": "After more than a decade of pushback, farmers and repair advocates have won access to equipment and services John Deere had long kept under its control.",
-      "link": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
-      "published": "Wed, 08 Jul 2026 20:27:18 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.704315"
-    },
-    {
-      "source": "wired",
-      "title": "I Built a Self-Improving AI, and So Can You",
-      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
-      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "published": "Wed, 08 Jul 2026 20:09:21 +0000",
+      "title": "The 4 Best Home Air Conditioners to Buy Right Now",
+      "summary": "It's too hot. There, we said it. Protect your health and keep your home cool with one of these top-rated air conditioners.",
+      "link": "https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/",
+      "published": "Thu, 09 Jul 2026 08:49:47 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-09T01:51:46.704341"
+      "crawled_at": "2026-07-09T09:18:45.865076"
     },
     {
       "source": "wired",
-      "title": "Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet",
-      "summary": "Matthew Danzeisen’s lawyer says the case is a “shakedown about a bag” that brushed someone’s leg. Stefanie Bojar says she was injured aboard the jet—and that the lawsuit is a bullying tactic.",
-      "link": "https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/",
-      "published": "Wed, 08 Jul 2026 19:49:30 +0000",
+      "title": "Is an Air-Conditioning Revolution Coming to Europe?",
+      "summary": "As extreme heat becomes the norm on the continent, the AC culture wars may be solved by advances in environmentally friendly technology.",
+      "link": "https://www.wired.com/story/is-an-air-conditioning-revolution-coming-to-europe/",
+      "published": "Thu, 09 Jul 2026 08:44:57 +0000",
       "keywords": [
-        "AWS",
+        "AI",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-09T01:51:46.704379"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-09T09:18:45.865122"
+    },
+    {
+      "source": "wired",
+      "title": "The $28 Million Mistake That Inspired Estonia's AI “Fuckup Finder”",
+      "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
+      "link": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "published": "Thu, 09 Jul 2026 07:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-09T09:18:45.865157"
+    },
+    {
+      "source": "wired",
+      "title": "Layla Sleep Coupon: Save Up to $600 in July 2026",
+      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
+      "link": "https://www.wired.com/story/layla-sleep-coupon/",
+      "published": "Thu, 09 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-09T09:18:45.865185"
     }
   ]
 }
