@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-10T01:49:55.650492",
+  "last_updated": "2026-07-10T08:59:05.773418",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+      "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+      "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+      "published": "Fri, 10 Jul 2026 04:36:20 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-10T08:59:05.078704"
+    },
     {
       "source": "techcrunch",
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -15,7 +28,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.017039"
+      "crawled_at": "2026-07-10T08:59:05.078756"
     },
     {
       "source": "techcrunch",
@@ -28,7 +41,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:52.017096"
+      "crawled_at": "2026-07-10T08:59:05.078798"
     },
     {
       "source": "techcrunch",
@@ -44,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.017138"
+      "crawled_at": "2026-07-10T08:59:05.078838"
     },
     {
       "source": "techcrunch",
@@ -60,21 +73,7 @@
         "Cybersecurity"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.017163"
-    },
-    {
-      "source": "techcrunch",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "published": "Thu, 09 Jul 2026 22:08:58 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.017195"
+      "crawled_at": "2026-07-10T08:59:05.078863"
     },
     {
       "source": "theverge",
@@ -89,7 +88,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.109747"
+      "crawled_at": "2026-07-10T08:59:05.210432"
     },
     {
       "source": "theverge",
@@ -103,7 +102,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.109794"
+      "crawled_at": "2026-07-10T08:59:05.210487"
     },
     {
       "source": "theverge",
@@ -113,7 +112,7 @@
       "published": "2026-07-09T19:00:31-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:52.109840"
+      "crawled_at": "2026-07-10T08:59:05.210535"
     },
     {
       "source": "theverge",
@@ -129,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.109869"
+      "crawled_at": "2026-07-10T08:59:05.210565"
     },
     {
       "source": "theverge",
@@ -142,12 +141,37 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:52.109899"
+      "crawled_at": "2026-07-10T08:59:05.210597"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "summary": "Article URL: https://nevo-project.epfl.ch/\nComments URL: https://news.ycombinator.com/item?id=48856904\nPoints: 19\n# Comments: 16",
+      "link": "https://nevo-project.epfl.ch/",
+      "published": "Fri, 10 Jul 2026 07:39:11 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-10T08:59:05.430733"
+    },
+    {
+      "source": "hackernews",
+      "title": "Browser Fingerprinting – How websites track you across internet –without cookies",
+      "summary": "Article URL: https://mysysinfo.com/blog/what-is-browser-fingerprinting\nComments URL: https://news.ycombinator.com/item?id=48856685\nPoints: 10\n# Comments: 1",
+      "link": "https://mysysinfo.com/blog/what-is-browser-fingerprinting",
+      "published": "Fri, 10 Jul 2026 07:07:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-10T08:59:05.430792"
     },
     {
       "source": "hackernews",
       "title": "Build your own vulnerability harness",
-      "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/\nComments URL: https://news.ycombinator.com/item?id=48854681\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/\nComments URL: https://news.ycombinator.com/item?id=48854681\nPoints: 43\n# Comments: 18",
       "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
       "published": "Fri, 10 Jul 2026 01:28:43 +0000",
       "keywords": [
@@ -156,43 +180,19 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-10T01:49:55.338342"
-    },
-    {
-      "source": "hackernews",
-      "title": "Star Just Ate a Planet, and It's Not Done Yet",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html\nComments URL: https://news.ycombinator.com/item?id=48854638\nPoints: 4\n# Comments: 0",
-      "link": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-      "published": "Fri, 10 Jul 2026 01:20:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.338385"
-    },
-    {
-      "source": "hackernews",
-      "title": "Focus",
-      "summary": "Article URL: https://boz.com/articles/focus\nComments URL: https://news.ycombinator.com/item?id=48854363\nPoints: 5\n# Comments: 0",
-      "link": "https://boz.com/articles/focus",
-      "published": "Fri, 10 Jul 2026 00:40:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.338414"
+      "crawled_at": "2026-07-10T08:59:05.430824"
     },
     {
       "source": "hackernews",
       "title": "Why American ambulance rides are so expensive",
-      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 86\n# Comments: 113",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 194\n# Comments: 254",
       "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
       "published": "Thu, 09 Jul 2026 22:15:56 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.338449"
+      "crawled_at": "2026-07-10T08:59:05.430859"
     },
     {
       "source": "hackernews",
@@ -207,7 +207,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.338529"
+      "crawled_at": "2026-07-10T08:59:05.430940"
     },
     {
       "source": "arstechnica",
@@ -219,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.552380"
+      "crawled_at": "2026-07-10T08:59:05.611118"
     },
     {
       "source": "arstechnica",
@@ -231,7 +231,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.552413"
+      "crawled_at": "2026-07-10T08:59:05.611157"
     },
     {
       "source": "arstechnica",
@@ -244,7 +244,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.552436"
+      "crawled_at": "2026-07-10T08:59:05.611181"
     },
     {
       "source": "arstechnica",
@@ -258,7 +258,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.552464"
+      "crawled_at": "2026-07-10T08:59:05.611210"
     },
     {
       "source": "arstechnica",
@@ -270,76 +270,62 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.552489"
+      "crawled_at": "2026-07-10T08:59:05.611236"
     },
     {
       "source": "wired",
-      "title": "Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo",
-      "summary": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
-      "link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
-      "published": "Fri, 10 Jul 2026 01:08:50 +0000",
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+      "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?",
+      "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "published": "Fri, 10 Jul 2026 06:00:00 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AR"
+        "REST",
+        "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.650294"
+      "crawled_at": "2026-07-10T08:59:05.773160"
     },
     {
       "source": "wired",
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "published": "Thu, 09 Jul 2026 23:13:18 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.650327"
+      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-10T08:59:05.773199"
     },
     {
       "source": "wired",
-      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-      "summary": "Today on Uncanny Valley, we unpack the political debacle unfolding in Maine surrounding the campaign of Democratic candidate Graham Platner.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
-      "published": "Thu, 09 Jul 2026 21:47:57 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.650358"
+      "title": "Chewy Promo Codes: $20 Off July 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more July 2026 discounts.",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-10T08:59:05.773223"
     },
     {
       "source": "wired",
-      "title": "Come to Our WIRED@NIGHT02 Film Screening!",
-      "summary": "See the documentary The Oldest Person in the World before it’s in theaters.",
-      "link": "https://www.wired.com/story/come-to-wirednight02-film-screening/",
-      "published": "Thu, 09 Jul 2026 21:43:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-10T01:49:55.650390"
+      "title": "50% Off DoorDash Promo Code | July 2026",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-10T08:59:05.773255"
     },
     {
       "source": "wired",
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "published": "Thu, 09 Jul 2026 18:30:00 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-10T01:49:55.650423"
+      "title": "LG Promo Codes and Coupons for July 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-10T08:59:05.773278"
     }
   ]
 }
