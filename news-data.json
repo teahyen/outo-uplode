@@ -1,24 +1,27 @@
 {
-  "last_updated": "2026-07-11T01:28:56.324693",
+  "last_updated": "2026-07-11T07:37:59.261667",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
-      "summary": "CISA said it \"missed\" an opportunity to get ahead of the security incident by not creating a response plan ahead of time.",
+      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
       "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
       "published": "Sat, 11 Jul 2026 01:01:28 +0000",
       "keywords": [
-        "AI",
-        "Security"
+        "Security",
+        "Cybersecurity",
+        "Git",
+        "GitHub",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.656841"
+      "category": "Security",
+      "crawled_at": "2026-07-11T07:37:58.376018"
     },
     {
       "source": "techcrunch",
       "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
       "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
       "published": "Sat, 11 Jul 2026 00:29:25 +0000",
       "keywords": [
@@ -26,7 +29,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-07-11T01:28:55.657243"
+      "crawled_at": "2026-07-11T07:37:58.376076"
     },
     {
       "source": "techcrunch",
@@ -40,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.657293"
+      "crawled_at": "2026-07-11T07:37:58.376107"
     },
     {
       "source": "techcrunch",
@@ -52,7 +55,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:55.657340"
+      "crawled_at": "2026-07-11T07:37:58.376143"
     },
     {
       "source": "techcrunch",
@@ -66,7 +69,19 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.657365"
+      "crawled_at": "2026-07-11T07:37:58.376163"
+    },
+    {
+      "source": "theverge",
+      "title": "Are you filthy enough for a $700 portable shower?",
+      "summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the i",
+      "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "published": "2026-07-11T03:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-11T07:37:58.510853"
     },
     {
       "source": "theverge",
@@ -78,7 +93,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-11T01:28:55.727794"
+      "crawled_at": "2026-07-11T07:37:58.510906"
     },
     {
       "source": "theverge",
@@ -91,7 +106,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.727844"
+      "crawled_at": "2026-07-11T07:37:58.510941"
     },
     {
       "source": "theverge",
@@ -103,7 +118,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-11T01:28:55.727886"
+      "crawled_at": "2026-07-11T07:37:58.510979"
     },
     {
       "source": "theverge",
@@ -119,70 +134,44 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.727919"
-    },
-    {
-      "source": "theverge",
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 playe",
-      "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "published": "2026-07-10T15:51:10-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:55.727957"
+      "crawled_at": "2026-07-11T07:37:58.511008"
     },
     {
       "source": "hackernews",
-      "title": "FreeCAD in the Browser",
-      "summary": "Article URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 6\n# Comments: 4",
-      "link": "https://magik.net/freecad/",
-      "published": "Sat, 11 Jul 2026 00:44:00 +0000",
+      "title": "What's the best way to do authentication in modern applications",
+      "summary": "Article URL: https://neciudan.dev/most-secure-way-to-store-auth-token\nComments URL: https://news.ycombinator.com/item?id=48869243\nPoints: 3\n# Comments: 0",
+      "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+      "published": "Sat, 11 Jul 2026 06:09:33 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.139150"
+      "category": "Mobile",
+      "crawled_at": "2026-07-11T07:37:58.845970"
     },
     {
       "source": "hackernews",
-      "title": "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty",
-      "summary": "Article URL: https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/\nComments URL: https://news.ycombinator.com/item?id=48867220\nPoints: 4\n# Comments: 1",
-      "link": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
-      "published": "Sat, 11 Jul 2026 00:39:12 +0000",
+      "title": "The Vintage Beauty of Soviet Control Rooms",
+      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 18\n# Comments: 3",
+      "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "published": "Sat, 11 Jul 2026 05:19:41 +0000",
       "keywords": [
+        "Rust",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.139197"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-      "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0",
-      "link": "https://tilion.dev/blog/cloudflare-blocks-agents",
-      "published": "Sat, 11 Jul 2026 00:26:16 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-11T01:28:56.139229"
+      "category": "Programming",
+      "crawled_at": "2026-07-11T07:37:58.846006"
     },
     {
       "source": "hackernews",
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "summary": "Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 72\n# Comments: 35",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 195\n# Comments: 66",
       "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "published": "Fri, 10 Jul 2026 22:30:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.139267"
+      "crawled_at": "2026-07-11T07:37:58.846051"
     },
     {
       "source": "hackernews",
@@ -194,7 +183,21 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.139300"
+      "crawled_at": "2026-07-11T07:37:58.846083"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 908\n# Comments: 453",
+      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-11T07:37:58.846106"
     },
     {
       "source": "arstechnica",
@@ -207,7 +210,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-07-11T01:28:56.239485"
+      "crawled_at": "2026-07-11T07:37:59.078385"
     },
     {
       "source": "arstechnica",
@@ -217,7 +220,7 @@
       "published": "Fri, 10 Jul 2026 22:37:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.239521"
+      "crawled_at": "2026-07-11T07:37:59.078419"
     },
     {
       "source": "arstechnica",
@@ -229,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.239551"
+      "crawled_at": "2026-07-11T07:37:59.078448"
     },
     {
       "source": "arstechnica",
@@ -241,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.239581"
+      "crawled_at": "2026-07-11T07:37:59.078476"
     },
     {
       "source": "arstechnica",
@@ -254,7 +257,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.239610"
+      "crawled_at": "2026-07-11T07:37:59.078504"
+    },
+    {
+      "source": "wired",
+      "title": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
+      "summary": "Summer 2026 marks the 30th anniversary of Jay-Z’s debut Reasonable Doubt. To honor it, he put on a massive concert at Yankee Stadium—complete with performances from Beyoncé, Nas, and Alicia Keys.",
+      "link": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
+      "published": "Sat, 11 Jul 2026 04:51:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-11T07:37:59.261479"
     },
     {
       "source": "wired",
@@ -268,7 +283,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:56.324388"
+      "crawled_at": "2026-07-11T07:37:59.261511"
     },
     {
       "source": "wired",
@@ -281,7 +296,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.324433"
+      "crawled_at": "2026-07-11T07:37:59.261541"
     },
     {
       "source": "wired",
@@ -297,7 +312,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-11T01:28:56.324462"
+      "crawled_at": "2026-07-11T07:37:59.261564"
     },
     {
       "source": "wired",
@@ -310,19 +325,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-07-11T01:28:56.324502"
-    },
-    {
-      "source": "wired",
-      "title": "What Watching a Soccer Final Does to Your Body, According to Science",
-      "summary": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
-      "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
-      "published": "Fri, 10 Jul 2026 15:41:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-11T01:28:56.324537"
+      "crawled_at": "2026-07-11T07:37:59.261598"
     }
   ]
 }
