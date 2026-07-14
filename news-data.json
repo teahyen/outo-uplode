@@ -1,274 +1,321 @@
 {
-  "last_updated": "2026-07-13T19:09:41.868435",
+  "last_updated": "2026-07-14T01:21:18.204032",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "published": "Mon, 13 Jul 2026 18:22:10 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:40.881102"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "published": "Mon, 13 Jul 2026 17:28:37 +0000",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "published": "Tue, 14 Jul 2026 00:45:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:40.881138"
+      "crawled_at": "2026-07-14T01:21:16.444099"
     },
     {
       "source": "techcrunch",
-      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
-      "summary": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
-      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
-      "published": "Mon, 13 Jul 2026 17:03:11 +0000",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "published": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:16.444140"
+    },
+    {
+      "source": "techcrunch",
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "published": "Mon, 13 Jul 2026 23:58:27 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-14T01:21:16.444176"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "published": "Mon, 13 Jul 2026 23:31:18 +0000",
+      "keywords": [
+        "AI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:16.444203"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "published": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:16.444243"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with",
+      "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "published": "2026-07-13T17:53:20-04:00",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:16.624854"
+    },
+    {
+      "source": "theverge",
+      "title": "OnePlus is reportedly bailing on the US",
+      "summary": "OnePlus and its parent company, Oppo, plan to announce in the coming days that OnePlus brand will be leaving the US and European markets, according to a machine translation of a WinFuture report. Should the exit actually happen, it will mark a conclusion to months of rumors about the future of OnePl",
+      "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+      "published": "2026-07-13T17:48:43-04:00",
+      "keywords": [
+        "AI",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:16.624899"
+    },
+    {
+      "source": "theverge",
+      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
+      "summary": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting ",
+      "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
+      "published": "2026-07-13T17:03:14-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-14T01:21:16.624962"
+    },
+    {
+      "source": "theverge",
+      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+      "summary": "Noise-canceling earbuds are great for flights and focusing, but they're not always ideal for outdoor workouts. The last-gen Shokz OpenRun Pro's open-ear design lets you enjoy music while staying aware of approaching cars, cyclists, and other potential hazards, and right now they're on sale for $109 ",
+      "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+      "published": "2026-07-13T16:57:44-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-14T01:21:16.625017"
+    },
+    {
+      "source": "theverge",
+      "title": "The Pixel colors might rule this year",
+      "summary": "This year's Google Pixel 11 lineup might come in a bunch of funky colors. A series of now-deleted Amazon listings spotted by 9to5Google show what appear to be placeholders for Google's upcoming Pixel 11 in hot pink Fuchsia (Hibiscus), vibrant green Moss (Pistachio), and Midnight (Obsidian) black. We",
+      "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+      "published": "2026-07-13T16:52:27-04:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "Amazon",
+        "5G",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-14T01:21:16.625059"
+    },
+    {
+      "source": "hackernews",
+      "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+      "summary": "Article URL: https://arxiv.org/abs/2607.08550\nComments URL: https://news.ycombinator.com/item?id=48901020\nPoints: 3\n# Comments: 0",
+      "link": "https://arxiv.org/abs/2607.08550",
+      "published": "Tue, 14 Jul 2026 00:58:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:40.881167"
+      "crawled_at": "2026-07-14T01:21:17.990590"
     },
     {
-      "source": "techcrunch",
-      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-      "published": "Mon, 13 Jul 2026 17:00:14 +0000",
+      "source": "hackernews",
+      "title": "The Git history command deserves more attention",
+      "summary": "Article URL: https://lalitm.com/post/git-history/\nComments URL: https://news.ycombinator.com/item?id=48901010\nPoints: 9\n# Comments: 1",
+      "link": "https://lalitm.com/post/git-history/",
+      "published": "Tue, 14 Jul 2026 00:57:11 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-14T01:21:17.990634"
+    },
+    {
+      "source": "hackernews",
+      "title": "What did SFFA vs. Harvard reveal about admissions?",
+      "summary": "Article URL: https://sorting-machine.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=48900796\nPoints: 7\n# Comments: 0",
+      "link": "https://sorting-machine.pages.dev/",
+      "published": "Tue, 14 Jul 2026 00:26:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:40.881196"
+      "crawled_at": "2026-07-14T01:21:17.990670"
     },
     {
-      "source": "techcrunch",
-      "title": "Should AI help you get away with killing your spouse?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "published": "Mon, 13 Jul 2026 16:31:23 +0000",
+      "source": "hackernews",
+      "title": "Turn your singing voice into printable notes (in the browser)",
+      "summary": "Article URL: https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html\nComments URL: https://news.ycombinator.com/item?id=48900686\nPoints: 5\n# Comments: 1",
+      "link": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
+      "published": "Tue, 14 Jul 2026 00:10:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-14T01:21:17.990709"
+    },
+    {
+      "source": "hackernews",
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers\nComments URL: https://news.ycombinator.com/item?id=48900432\nPoints: 36\n# Comments: 40",
+      "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "published": "Mon, 13 Jul 2026 23:39:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-14T01:21:17.990748"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "summary": "The man is said to be doing well in a Frankfurt hospital.",
+      "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "published": "Mon, 13 Jul 2026 22:07:34 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:40.881213"
+      "crawled_at": "2026-07-14T01:21:18.086969"
     },
     {
-      "source": "theverge",
-      "title": "States make last-ditch effort to stop the Paramount ‘media behemoth’",
-      "summary": "A dozen state attorneys general are trying to block the $110 billion merger of Paramount and Warner Bros Discovery they warn would raise movie prices and crush cable TV distributors. The states - California, Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, Ne",
-      "link": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit",
-      "published": "2026-07-13T14:35:48-04:00",
+      "source": "arstechnica",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "published": "Mon, 13 Jul 2026 21:03:07 +0000",
       "keywords": [
-        "AI",
         "Go",
+        "Hack",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.159481"
+      "category": "Security",
+      "crawled_at": "2026-07-14T01:21:18.087003"
     },
     {
-      "source": "theverge",
-      "title": "The EV market is on the road to recovery thanks to high gas prices",
-      "summary": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some of their best numbers since the elimination of the federal EV ",
-      "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
-      "published": "2026-07-13T14:03:20-04:00",
+      "source": "arstechnica",
+      "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+      "summary": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+      "published": "Mon, 13 Jul 2026 20:41:26 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-14T01:21:18.087035"
+    },
+    {
+      "source": "arstechnica",
+      "title": "California creates $3,500 rebate for new electric vehicle buyers",
+      "summary": "There's a separate $1,750 rebate for used EVs, but both rebates have a price cap.",
+      "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+      "published": "Mon, 13 Jul 2026 19:52:48 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:41.159531"
+      "crawled_at": "2026-07-14T01:21:18.087064"
     },
     {
-      "source": "theverge",
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confi",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "published": "2026-07-13T13:00:00-04:00",
+      "source": "arstechnica",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "published": "Mon, 13 Jul 2026 19:17:51 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "AWS",
-        "Startup",
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.159560"
+      "crawled_at": "2026-07-14T01:21:18.087087"
     },
     {
-      "source": "theverge",
-      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
-      "summary": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia.&#160; Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is also a key suppli",
-      "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
-      "published": "2026-07-13T11:00:00-04:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.159591"
-    },
-    {
-      "source": "theverge",
-      "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
-      "summary": "Almost all gaming laptops have gone up in price over the past year. Curiously, the surprisingly fast Asus ROG Flow Z13 gaming laptop/tablet combo has not. It’s actually gotten quite a bit cheaper recently. Best Buy has the lowest price on the configuration that includes the AMD Ryzen AI Max Plus 395",
-      "link": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
-      "published": "2026-07-13T10:52:14-04:00",
+      "source": "wired",
+      "title": "The Best Movies to Stream This Month (July 2026)",
+      "summary": "Project Hail Mary, They Will Kill You, and The Long Walk are among the films deserving of your eyeballs this month.",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "published": "Mon, 13 Jul 2026 23:14:30 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR",
-        "Gaming"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.159622"
+      "crawled_at": "2026-07-14T01:21:18.203791"
     },
     {
-      "source": "hackernews",
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "summary": "Article URL: https://playcode.io/blog/real-price-of-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48896800\nPoints: 7\n# Comments: 1",
-      "link": "https://playcode.io/blog/real-price-of-frontier-models",
-      "published": "Mon, 13 Jul 2026 18:32:27 +0000",
+      "source": "wired",
+      "title": "Sam Neill Inspired a Generation of Scientists",
+      "summary": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jurassic Park.",
+      "link": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/",
+      "published": "Mon, 13 Jul 2026 22:26:22 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-13T19:09:41.515500"
+      "category": "Mobile",
+      "crawled_at": "2026-07-14T01:21:18.203834"
     },
     {
-      "source": "hackernews",
-      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-      "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/\nComments URL: https://news.ycombinator.com/item?id=48896665\nPoints: 13\n# Comments: 2",
-      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "published": "Mon, 13 Jul 2026 18:22:16 +0000",
-      "keywords": [
-        "iOS",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-13T19:09:41.515533"
-    },
-    {
-      "source": "hackernews",
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "summary": "Article URL: https://cakehonolulu.github.io/linux-on-32x/\nComments URL: https://news.ycombinator.com/item?id=48896600\nPoints: 6\n# Comments: 1",
-      "link": "https://cakehonolulu.github.io/linux-on-32x/",
-      "published": "Mon, 13 Jul 2026 18:18:25 +0000",
-      "keywords": [
-        "Linux",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-07-13T19:09:41.515571"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass\nComments URL: https://news.ycombinator.com/item?id=48896599\nPoints: 4\n# Comments: 2",
-      "link": "https://github.com/morganwilliscloud/billai-bass",
-      "published": "Mon, 13 Jul 2026 18:18:23 +0000",
+      "source": "wired",
+      "title": "Siri AI Is Becoming Apple’s Everything Tool",
+      "summary": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "published": "Mon, 13 Jul 2026 21:39:09 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
-        "Cloud",
-        "AR"
+        "Apple",
+        "iPhone",
+        "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.515601"
+      "crawled_at": "2026-07-14T01:21:18.203870"
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Super Dario",
-      "summary": "Article URL: https://superdario.pawb.de\nComments URL: https://news.ycombinator.com/item?id=48896286\nPoints: 111\n# Comments: 24",
-      "link": "https://superdario.pawb.de",
-      "published": "Mon, 13 Jul 2026 17:53:52 +0000",
+      "source": "wired",
+      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+      "summary": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
+      "link": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+      "published": "Mon, 13 Jul 2026 19:55:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:41.515628"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "published": "Mon, 13 Jul 2026 17:18:25 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.662990"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-      "summary": "The amendment would restrict building codes that promote electrification.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
-      "published": "Mon, 13 Jul 2026 16:49:35 +0000",
-      "keywords": [
-        "REST"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-13T19:09:41.663017"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
-      "summary": "Clever coding and graphical compromises get a classic game on more classic hardware.",
-      "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-      "published": "Mon, 13 Jul 2026 16:37:14 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-07-13T19:09:41.663039"
-    },
-    {
-      "source": "arstechnica",
-      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-      "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
-      "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-      "published": "Mon, 13 Jul 2026 16:05:03 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.663057"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Now, defenders are embracing the prompt injection, too",
-      "summary": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-      "published": "Mon, 13 Jul 2026 15:06:34 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-07-13T19:09:41.663076"
+      "crawled_at": "2026-07-14T01:21:18.203911"
     },
     {
       "source": "wired",
@@ -281,58 +328,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.868243"
-    },
-    {
-      "source": "wired",
-      "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
-      "summary": "A Tesla representative at a DC hearing said the vehicle is “an active product being built.” But its timeline isn’t clear.",
-      "link": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/",
-      "published": "Mon, 13 Jul 2026 17:15:35 +0000",
-      "keywords": [
-        "AI",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.868277"
-    },
-    {
-      "source": "wired",
-      "title": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
-      "summary": "Despite a complete lack of evidence, everyone from Russia to Israel and Iran is being blamed for Lindsey Graham’s death.",
-      "link": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/",
-      "published": "Mon, 13 Jul 2026 15:56:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:41.868308"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
-      "summary": "These butt-cleaning machines also offer luxe features like custom seat warming and adjustable water flows.",
-      "link": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
-      "published": "Mon, 13 Jul 2026 11:35:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-13T19:09:41.868334"
-    },
-    {
-      "source": "wired",
-      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
-      "summary": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
-      "link": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-      "published": "Mon, 13 Jul 2026 11:08:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-13T19:09:41.868360"
+      "crawled_at": "2026-07-14T01:21:18.203935"
     }
   ]
 }
