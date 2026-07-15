@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T01:18:05.041413",
+  "last_updated": "2026-07-15T07:48:22.741912",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "Funding"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.065101"
+      "crawled_at": "2026-07-15T07:48:20.263932"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.065304"
+      "crawled_at": "2026-07-15T07:48:20.264417"
     },
     {
       "source": "techcrunch",
@@ -45,7 +45,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.065356"
+      "crawled_at": "2026-07-15T07:48:20.264479"
     },
     {
       "source": "techcrunch",
@@ -60,7 +60,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.065382"
+      "crawled_at": "2026-07-15T07:48:20.264505"
     },
     {
       "source": "techcrunch",
@@ -75,7 +75,36 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.065415"
+      "crawled_at": "2026-07-15T07:48:20.264538"
+    },
+    {
+      "source": "theverge",
+      "title": "Starlink’s V5 dish is now available — here’s how it compares",
+      "summary": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not ",
+      "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "published": "2026-07-15T03:17:27-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-15T07:48:20.368927"
+    },
+    {
+      "source": "theverge",
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begi",
+      "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "published": "2026-07-14T23:28:53-04:00",
+      "keywords": [
+        "Go",
+        "AWS",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-07-15T07:48:20.368989"
     },
     {
       "source": "theverge",
@@ -89,21 +118,22 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:03.142453"
+      "crawled_at": "2026-07-15T07:48:20.369046"
     },
     {
       "source": "theverge",
-      "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
-      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on upda",
+      "title": "Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer",
+      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-breaking release, according to Krebs on Security. It also includes the ability to pause updates indefin",
       "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
       "published": "2026-07-14T17:32:04-04:00",
       "keywords": [
+        "Security",
         "Microsoft",
         "Windows",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:03.142516"
+      "category": "Security",
+      "crawled_at": "2026-07-15T07:48:20.369097"
     },
     {
       "source": "theverge",
@@ -119,100 +149,72 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.142568"
-    },
-    {
-      "source": "theverge",
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositorie",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "published": "2026-07-14T15:25:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google Cloud",
-        "Google",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.142606"
-    },
-    {
-      "source": "theverge",
-      "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
-      "summary": "Although most of Prime Day&#8217;s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue&#8217;s Essential starter kit. Right now",
-      "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
-      "published": "2026-07-14T13:36:05-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:03.142641"
+      "crawled_at": "2026-07-15T07:48:20.369129"
     },
     {
       "source": "hackernews",
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/\nComments URL: https://news.ycombinator.com/item?id=48914683\nPoints: 14\n# Comments: 2",
-      "link": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-      "published": "Wed, 15 Jul 2026 00:20:31 +0000",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "summary": "Article URL: https://www.ayush.digital/blog/the-memory-heist\nComments URL: https://news.ycombinator.com/item?id=48916975\nPoints: 74\n# Comments: 27",
+      "link": "https://www.ayush.digital/blog/the-memory-heist",
+      "published": "Wed, 15 Jul 2026 06:28:00 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:04.639793"
-    },
-    {
-      "source": "hackernews",
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "summary": "Article URL: https://vpd.ca/\nComments URL: https://news.ycombinator.com/item?id=48914644\nPoints: 24\n# Comments: 8",
-      "link": "https://vpd.ca/",
-      "published": "Wed, 15 Jul 2026 00:15:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:04.639839"
-    },
-    {
-      "source": "hackernews",
-      "title": "Casio FX-870P Emulator",
-      "summary": "Article URL: https://github.com/urbancamo/fx870p-emulator\nComments URL: https://news.ycombinator.com/item?id=48913910\nPoints: 13\n# Comments: 2",
-      "link": "https://github.com/urbancamo/fx870p-emulator",
-      "published": "Tue, 14 Jul 2026 22:47:58 +0000",
-      "keywords": [
+        "Claude",
         "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:04.639872"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-15T07:48:21.958287"
     },
     {
       "source": "hackernews",
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario\nComments URL: https://news.ycombinator.com/item?id=48913763\nPoints: 34\n# Comments: 3",
-      "link": "https://www.benjamin-bai.com/projects/lemario",
-      "published": "Tue, 14 Jul 2026 22:30:47 +0000",
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "summary": "Article URL: https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/\nComments URL: https://news.ycombinator.com/item?id=48916805\nPoints: 18\n# Comments: 2",
+      "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "published": "Wed, 15 Jul 2026 06:02:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-15T07:48:21.958334"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jurassic Park computers in excruciating detail",
+      "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html\nComments URL: https://news.ycombinator.com/item?id=48915709\nPoints: 319\n# Comments: 74",
+      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "published": "Wed, 15 Jul 2026 02:57:47 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:04.639900"
+      "crawled_at": "2026-07-15T07:48:21.958372"
     },
     {
       "source": "hackernews",
-      "title": "Probably check on your smart appliances",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/check-your-smart-tv/\nComments URL: https://news.ycombinator.com/item?id=48913457\nPoints: 13\n# Comments: 2",
-      "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "published": "Tue, 14 Jul 2026 22:00:41 +0000",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "summary": "Article URL: https://tailscale.com/security-bulletins\nComments URL: https://news.ycombinator.com/item?id=48915004\nPoints: 128\n# Comments: 55",
+      "link": "https://tailscale.com/security-bulletins",
+      "published": "Wed, 15 Jul 2026 01:08:26 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-15T07:48:21.958400"
+    },
+    {
+      "source": "hackernews",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "summary": "Article URL: https://www.starfleetmath.com/\nComments URL: https://news.ycombinator.com/item?id=48914646\nPoints: 117\n# Comments: 51",
+      "link": "https://www.starfleetmath.com/",
+      "published": "Wed, 15 Jul 2026 00:15:56 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-15T01:18:04.639932"
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:21.958438"
     },
     {
       "source": "arstechnica",
@@ -226,7 +228,7 @@
         "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:04.850460"
+      "crawled_at": "2026-07-15T07:48:22.552600"
     },
     {
       "source": "arstechnica",
@@ -239,7 +241,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:04.850500"
+      "crawled_at": "2026-07-15T07:48:22.552638"
     },
     {
       "source": "arstechnica",
@@ -253,7 +255,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:04.850524"
+      "crawled_at": "2026-07-15T07:48:22.552661"
     },
     {
       "source": "arstechnica",
@@ -265,7 +267,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:04.850574"
+      "crawled_at": "2026-07-15T07:48:22.552700"
     },
     {
       "source": "arstechnica",
@@ -278,71 +280,57 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:04.850601"
+      "crawled_at": "2026-07-15T07:48:22.552726"
     },
     {
       "source": "wired",
-      "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-      "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
-      "link": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
-      "published": "Tue, 14 Jul 2026 22:08:30 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-15T01:18:05.041151"
+      "title": "1Password Coupon: Score a Free Trial in July 2026",
+      "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+      "link": "https://www.wired.com/story/1password-coupon/",
+      "published": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:22.741730"
     },
     {
       "source": "wired",
-      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-      "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-      "published": "Tue, 14 Jul 2026 16:05:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-15T01:18:05.041199"
+      "title": "HelloFresh Promo Codes: 55% Off for July 2026",
+      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in July 2026. Discover our best codes and discounts to let you save time and money.",
+      "link": "https://www.wired.com/story/hellofresh-coupon/",
+      "published": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:22.741763"
     },
     {
       "source": "wired",
-      "title": "New York Governor Signs First Statewide Data Center Moratorium",
-      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-      "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
-      "published": "Tue, 14 Jul 2026 14:54:41 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-15T01:18:05.041235"
+      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for July 2026",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "link": "https://www.wired.com/story/noom-promo-code/",
+      "published": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:22.741792"
     },
     {
       "source": "wired",
-      "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
-      "summary": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
-      "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
-      "published": "Tue, 14 Jul 2026 12:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:05.041271"
+      "title": "Hydrow Discount Code: Save Up to $150 | July 2026",
+      "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
+      "link": "https://www.wired.com/story/hydrow-discount-code/",
+      "published": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:22.741814"
     },
     {
       "source": "wired",
-      "title": "Best RGB TVs (2026): My Picks After Testing the Hottest TVs",
-      "summary": "RGB TVs are the latest hotness in the world of televisions, and I’ve tested many of the latest models to see which you should buy.",
-      "link": "https://www.wired.com/story/best-rgb-tvs/",
-      "published": "Tue, 14 Jul 2026 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-15T01:18:05.041308"
+      "title": "Chegg Coupon Codes July 2026: Save on Study, Textbooks, & More",
+      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "link": "https://www.wired.com/story/chegg-coupon-code/",
+      "published": "Wed, 15 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-15T07:48:22.741835"
     }
   ]
 }
