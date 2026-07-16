@@ -1,263 +1,308 @@
 {
-  "last_updated": "2026-07-16T13:16:43.297503",
+  "last_updated": "2026-07-16T18:53:47.590027",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "summary": "Aina is going to pilot a new device in the coming weeks.",
-      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "published": "Thu, 16 Jul 2026 11:30:00 +0000",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "published": "Thu, 16 Jul 2026 18:32:54 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.331190"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
-      "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
-      "published": "Thu, 16 Jul 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.331253"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
-      "summary": "OnePlus could also wind down its operations in India by 2027.",
-      "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "published": "Thu, 16 Jul 2026 09:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:42.331317"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.331347"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.331375"
-    },
-    {
-      "source": "theverge",
-      "title": "OnePlus never had a chance in the US",
-      "summary": "After an eight-year run, OnePlus announced today that it has exited the United States. It's bittersweet, as the brand has been on a comeback tour of sorts with its excellent OnePlus 15 and widely-praised (though still too expensive) OnePlus Open. The writing has been on the wall for a while now. T-M",
-      "link": "https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us",
-      "published": "2026-07-16T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.526331"
-    },
-    {
-      "source": "theverge",
-      "title": "Claude can now use your 1Password credentials for you",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "published": "2026-07-16T09:00:00-04:00",
-      "keywords": [
-        "Anthropic",
-        "Claude",
-        "Security"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.526386"
-    },
-    {
-      "source": "theverge",
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "published": "2026-07-16T08:06:51-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
         "Go",
         "Google",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.526425"
-    },
-    {
-      "source": "theverge",
-      "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "published": "2026-07-16T07:00:00-04:00",
-      "keywords": [
-        "AI",
         "Git",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.526459"
+      "crawled_at": "2026-07-16T18:53:46.679888"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "published": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.679924"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+      "summary": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
+      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+      "published": "Thu, 16 Jul 2026 17:37:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:46.679987"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
+      "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "published": "Thu, 16 Jul 2026 17:12:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:46.680385"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "published": "Thu, 16 Jul 2026 17:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.680424"
     },
     {
       "source": "theverge",
-      "title": "OnePlus officially gives up on the US and Europe",
-      "summary": "OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises that it will honor existing support and warranty agreements, with devices transitioning to its ColorOS fo",
-      "link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
-      "published": "2026-07-16T05:00:00-04:00",
+      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside informatio",
+      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "published": "2026-07-16T14:43:14-04:00",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-07-16T13:16:42.526514"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.786604"
+    },
+    {
+      "source": "theverge",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] po",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "published": "2026-07-16T13:58:37-04:00",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.786668"
+    },
+    {
+      "source": "theverge",
+      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#",
+      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "published": "2026-07-16T13:57:15-04:00",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:46.786731"
+    },
+    {
+      "source": "theverge",
+      "title": "Google is better at playing the AI regulations game",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of a",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "published": "2026-07-16T12:55:54-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.786767"
+    },
+    {
+      "source": "theverge",
+      "title": "Roblox will let people use AI to make games on their phone",
+      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models simi",
+      "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+      "published": "2026-07-16T12:45:29-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:46.786800"
     },
     {
       "source": "hackernews",
-      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c5y680w62wno\nComments URL: https://news.ycombinator.com/item?id=48933371\nPoints: 47\n# Comments: 53",
-      "link": "https://www.bbc.com/news/articles/c5y680w62wno",
-      "published": "Thu, 16 Jul 2026 12:05:53 +0000",
+      "title": "SPCX is now Wall Street's most shorted new stock",
+      "summary": "Article URL: https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/\nComments URL: https://news.ycombinator.com/item?id=48938001\nPoints: 29\n# Comments: 21",
+      "link": "https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/",
+      "published": "Thu, 16 Jul 2026 18:03:56 +0000",
+      "keywords": [
+        "IPO",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-07-16T18:53:47.370571"
+    },
+    {
+      "source": "hackernews",
+      "title": "42% of adults rely on their parents for financial support",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html\nComments URL: https://news.ycombinator.com/item?id=48937288\nPoints: 41\n# Comments: 31",
+      "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+      "published": "Thu, 16 Jul 2026 17:11:58 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:47.370625"
+    },
+    {
+      "source": "hackernews",
+      "title": "Adaptional (YC S25) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs\nComments URL: https://news.ycombinator.com/item?id=48937125\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "published": "Thu, 16 Jul 2026 17:00:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:42.894439"
+      "crawled_at": "2026-07-16T18:53:47.370660"
     },
     {
       "source": "hackernews",
-      "title": "The Act and the Outcome of Creation",
-      "summary": "Article URL: https://www.ssp.sh/blog/on-creation/\nComments URL: https://news.ycombinator.com/item?id=48933370\nPoints: 9\n# Comments: 0",
-      "link": "https://www.ssp.sh/blog/on-creation/",
-      "published": "Thu, 16 Jul 2026 12:05:42 +0000",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they",
+      "link": "https://news.ycombinator.com/item?id=48937020",
+      "published": "Thu, 16 Jul 2026 16:52:16 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Claude",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:47.370942"
+    },
+    {
+      "source": "hackernews",
+      "title": "Someone Used AI to Write an Unauthorized Biography of Me",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html\nComments URL: https://news.ycombinator.com/item?id=48937007\nPoints: 28\n# Comments: 39",
+      "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+      "published": "Thu, 16 Jul 2026 16:51:20 +0000",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-16T18:53:47.371002"
+    },
+    {
+      "source": "arstechnica",
+      "title": "We've seen helium baked off a rocky exoplanet's atmosphere",
+      "summary": "If the large, rocky planet is losing helium, then we can infer what is left behind.",
+      "link": "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+      "published": "Thu, 16 Jul 2026 18:00:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:42.894483"
+      "crawled_at": "2026-07-16T18:53:47.487768"
     },
     {
-      "source": "hackernews",
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "summary": "Article URL: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading\nComments URL: https://news.ycombinator.com/item?id=48933344\nPoints: 89\n# Comments: 26",
-      "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "published": "Thu, 16 Jul 2026 12:02:11 +0000",
+      "source": "arstechnica",
+      "title": "OnePlus confirms shutdown in the US and Europe, ending months of speculation",
+      "summary": "OnePlus promises to continue supporting the phones it has already released.",
+      "link": "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+      "published": "Thu, 16 Jul 2026 16:29:46 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:47.487805"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Could China and Russia really destroy Starlink? Only with a boomerang.",
+      "summary": "\"We will likely have similar concerns and discussions when China fields its Starlink-like constellation.\"",
+      "link": "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+      "published": "Thu, 16 Jul 2026 16:19:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-16T18:53:47.487837"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Companies coming to market are raising money at fastest pace this century.",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "published": "Thu, 16 Jul 2026 15:48:21 +0000",
       "keywords": [
         "AI",
         "IPO",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.894518"
+      "crawled_at": "2026-07-16T18:53:47.487858"
     },
     {
-      "source": "hackernews",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/\nComments URL: https://news.ycombinator.com/item?id=48933310\nPoints: 53\n# Comments: 47",
-      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "published": "Thu, 16 Jul 2026 11:59:01 +0000",
+      "source": "arstechnica",
+      "title": "Tesla driver who blamed crash on autopilot pressed accelerator 100%, NTSB finds",
+      "summary": "NTSB findings back Elon Musk's claim that driver manually overrode FSD.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
+      "published": "Thu, 16 Jul 2026 14:48:32 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:42.894547"
+      "crawled_at": "2026-07-16T18:53:47.487879"
     },
     {
-      "source": "hackernews",
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "summary": "Article URL: https://onatm.dev/2026/07/16/homescale-part-1/\nComments URL: https://news.ycombinator.com/item?id=48933303\nPoints: 22\n# Comments: 1",
-      "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
-      "published": "Thu, 16 Jul 2026 11:58:09 +0000",
+      "source": "wired",
+      "title": "Everyone Thinks They Have the Diarrhea Parasite",
+      "summary": "Cyclosporiasis isn’t the only thing spreading across the US. So is anxiety about getting hit with it.",
+      "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+      "published": "Thu, 16 Jul 2026 18:36:19 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:42.894583"
+      "crawled_at": "2026-07-16T18:53:47.589693"
     },
     {
-      "source": "arstechnica",
-      "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
-      "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
-      "link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-      "published": "Thu, 16 Jul 2026 11:00:21 +0000",
+      "source": "wired",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "published": "Thu, 16 Jul 2026 18:35:18 +0000",
       "keywords": [
         "AI",
+        "Anthropic",
+        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:43.078358"
+      "crawled_at": "2026-07-16T18:53:47.589734"
     },
     {
-      "source": "arstechnica",
-      "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-      "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
-      "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-      "published": "Wed, 15 Jul 2026 22:36:28 +0000",
+      "source": "wired",
+      "title": "Swatch’s New Gold MoonSwatch Solves the Problem of the Nightmare Royal Pop Launch",
+      "summary": "Swatch’s latest MoonSwatch is the Mission to the Moon 1969, a limited-edition model with components crafted from Omega’s 18K Moonshine Gold. To get one, you'll have to join a lottery.",
+      "link": "https://www.wired.com/story/swatch-gold-moonswatch-solves-the-problem-of-the-nightmare-royal-pop-launch/",
+      "published": "Thu, 16 Jul 2026 15:37:09 +0000",
       "keywords": [
-        "AI",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:43.078391"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
-      "summary": "While an impressive sale, the pen and switch did not break records.",
-      "link": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-      "published": "Wed, 15 Jul 2026 22:10:41 +0000",
-      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:43.078422"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "summary": "The convenience store chain will use StorMagic instead.",
-      "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-      "published": "Wed, 15 Jul 2026 21:41:56 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:43.078443"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Judge: Trump can’t deport researchers just for working in content moderation",
-      "summary": "Disinformation researchers praise ruling blocking Trump visa denials and deportations.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-      "published": "Wed, 15 Jul 2026 21:26:02 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-16T13:16:43.078474"
+      "crawled_at": "2026-07-16T18:53:47.589781"
     },
     {
       "source": "wired",
@@ -269,7 +314,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:43.297237"
+      "crawled_at": "2026-07-16T18:53:47.589817"
     },
     {
       "source": "wired",
@@ -281,42 +326,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:43.297300"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Backpacking Water Filters of 2026",
-      "summary": "We’ve tested filters from Sawyer, Katadyn, LifeStraw, MSR and more to find the best option for every adventure.",
-      "link": "https://www.wired.com/gallery/best-backpacking-water-filters/",
-      "published": "Thu, 16 Jul 2026 11:33:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:43.297336"
-    },
-    {
-      "source": "wired",
-      "title": "Gay Men Flocked to Goose for Friendship. Some Still Feel Excluded",
-      "summary": "Despite positioning itself as an anti-hookup app, users tell WIRED that Goose has fake profiles, harsh acceptance standards, and problems with inclusivity.",
-      "link": "https://www.wired.com/story/gay-men-flocked-to-goose-for-friendship-some-still-feel-excluded/",
-      "published": "Thu, 16 Jul 2026 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-16T13:16:43.297371"
-    },
-    {
-      "source": "wired",
-      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
-      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
-      "link": "https://www.wired.com/review/hisense-xr10-smart-projector/",
-      "published": "Thu, 16 Jul 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-16T13:16:43.297405"
+      "crawled_at": "2026-07-16T18:53:47.589857"
     }
   ]
 }
