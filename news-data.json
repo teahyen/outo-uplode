@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-17T07:50:22.327931",
+  "last_updated": "2026-07-17T13:01:09.492586",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-17T13:01:03.653505"
+    },
     {
       "source": "techcrunch",
       "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
@@ -10,7 +23,7 @@
       "published": "Thu, 16 Jul 2026 23:25:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:19.541228"
+      "crawled_at": "2026-07-17T13:01:03.653551"
     },
     {
       "source": "techcrunch",
@@ -22,7 +35,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:19.541271"
+      "crawled_at": "2026-07-17T13:01:03.653585"
     },
     {
       "source": "techcrunch",
@@ -36,7 +49,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.541298"
+      "crawled_at": "2026-07-17T13:01:03.653611"
     },
     {
       "source": "techcrunch",
@@ -50,23 +63,47 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.541664"
+      "crawled_at": "2026-07-17T13:01:03.653923"
     },
     {
-      "source": "techcrunch",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "published": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "source": "theverge",
+      "title": "Trump is selling high-speed access to his market-moving Truth Social posts",
+      "summary": "Trump Media, the company behind Truth Social, is selling Wall Street faster access to the \"most market-moving\" posts on the US President's social media platform. On Thursday, Trump Media announced plans to launch \"Truth API,\" a licensed real time data feed for businesses that provides \"the fastest a",
+      "link": "https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders",
+      "published": "2026-07-17T08:49:57-04:00",
       "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Git",
+        "API",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.541706"
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:03.712573"
+    },
+    {
+      "source": "theverge",
+      "title": "The war on ‘woke science’ comes for space research",
+      "summary": "The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten the future of US science as we know it. The proposal would give political appointees unprecedented contr",
+      "link": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
+      "published": "2026-07-17T07:00:00-04:00",
+      "keywords": [
+        "Funding",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-17T13:01:03.712636"
+    },
+    {
+      "source": "theverge",
+      "title": "God Of War TV series is recasting Kratos",
+      "summary": "Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in January, with Deadline reporting that four episodes of the [&#8230;",
+      "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
+      "published": "2026-07-17T06:14:04-04:00",
+      "keywords": [
+        "Go",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:03.712677"
     },
     {
       "source": "theverge",
@@ -80,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.624028"
+      "crawled_at": "2026-07-17T13:01:03.712720"
     },
     {
       "source": "theverge",
@@ -92,110 +129,125 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:19.624110"
+      "crawled_at": "2026-07-17T13:01:03.712771"
     },
     {
-      "source": "theverge",
-      "title": "Netflix says around 300 titles used generative AI",
-      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more qu",
-      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-      "published": "2026-07-16T16:29:27-04:00",
+      "source": "hackernews",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166\nComments URL: https://news.ycombinator.com/item?id=48946303\nPoints: 17\n# Comments: 7",
+      "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "published": "Fri, 17 Jul 2026 12:02:39 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-17T13:01:09.252831"
+    },
+    {
+      "source": "hackernews",
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "summary": "Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423\nComments URL: https://news.ycombinator.com/item?id=48946010\nPoints: 165\n# Comments: 74",
+      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "published": "Fri, 17 Jul 2026 11:30:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.624149"
+      "crawled_at": "2026-07-17T13:01:09.252869"
     },
     {
-      "source": "theverge",
-      "title": "Why are people buying so many CDs?",
-      "summary": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth i",
-      "link": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
-      "published": "2026-07-16T15:55:29-04:00",
+      "source": "hackernews",
+      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "summary": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't even used AWS actively in the last year, but AWS console lists the amount as stated above. No feedback",
+      "link": "https://news.ycombinator.com/item?id=48945681",
+      "published": "Fri, 17 Jul 2026 10:45:21 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Hack",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-17T13:01:09.252953"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Owe My Life to the Commodore 64",
+      "summary": "Article URL: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=48945260\nPoints: 45\n# Comments: 29",
+      "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+      "published": "Fri, 17 Jul 2026 09:44:25 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-17T07:50:19.624189"
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:09.252988"
     },
     {
-      "source": "theverge",
-      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside informatio",
-      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-      "published": "2026-07-16T14:43:14-04:00",
+      "source": "hackernews",
+      "title": "Pushinka",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Pushinka\nComments URL: https://news.ycombinator.com/item?id=48944333\nPoints: 21\n# Comments: 6",
+      "link": "https://en.wikipedia.org/wiki/Pushinka",
+      "published": "Fri, 17 Jul 2026 07:29:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:09.253019"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The report oil companies are worried about: Climate attribution science",
+      "summary": "New report says our ability to tie weather damages to climate change is improving.",
+      "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+      "published": "Fri, 17 Jul 2026 11:30:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:09.392610"
+    },
+    {
+      "source": "arstechnica",
+      "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
+      "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+      "published": "Fri, 17 Jul 2026 11:15:55 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:19.624226"
+      "crawled_at": "2026-07-17T13:01:09.392639"
     },
     {
-      "source": "hackernews",
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\nComments URL: https://news.ycombinator.com/item?id=48943745\nPoints: 42\n# Comments: 12",
-      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "published": "Fri, 17 Jul 2026 05:51:10 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:22.078709"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pebble Mega Update – July 2026",
-      "summary": "Article URL: https://repebble.com/blog/pebble-mega-update-july-2026\nComments URL: https://news.ycombinator.com/item?id=48943174\nPoints: 71\n# Comments: 6",
-      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "published": "Fri, 17 Jul 2026 03:53:38 +0000",
+      "source": "arstechnica",
+      "title": "2026 Lucid Gravity Touring review: A strong act 2",
+      "summary": "Quick, comfortable, roomy, and agile for a large electric SUV.",
+      "link": "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+      "published": "Fri, 17 Jul 2026 11:00:30 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:22.078759"
+      "crawled_at": "2026-07-17T13:01:09.392665"
     },
     {
-      "source": "hackernews",
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/\nComments URL: https://news.ycombinator.com/item?id=48943142\nPoints: 94\n# Comments: 56",
-      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "published": "Fri, 17 Jul 2026 03:48:26 +0000",
+      "source": "arstechnica",
+      "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
+      "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
+      "published": "Fri, 17 Jul 2026 11:00:04 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:22.078809"
-    },
-    {
-      "source": "hackernews",
-      "title": "UIUC AI Teaching Assistant",
-      "summary": "Article URL: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc\nComments URL: https://news.ycombinator.com/item?id=48942721\nPoints: 15\n# Comments: 0",
-      "link": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-      "published": "Fri, 17 Jul 2026 02:23:18 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:22.078836"
-    },
-    {
-      "source": "hackernews",
-      "title": "GrapheneOS recommended for domestic abuse victims",
-      "summary": "Article URL: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/\nComments URL: https://news.ycombinator.com/item?id=48942454\nPoints: 112\n# Comments: 81",
-      "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-      "published": "Fri, 17 Jul 2026 01:36:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:22.078872"
+      "crawled_at": "2026-07-17T13:01:09.392692"
     },
     {
       "source": "arstechnica",
@@ -207,115 +259,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:22.225061"
+      "crawled_at": "2026-07-17T13:01:09.392718"
     },
     {
-      "source": "arstechnica",
-      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-      "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
-      "link": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-      "published": "Thu, 16 Jul 2026 22:33:24 +0000",
+      "source": "wired",
+      "title": "Essential Gear for an Emergency Kit—for Cars or Go-Bags",
+      "summary": "We consulted preparedness experts and WIRED’s team of testers for the essential gear to keep on hand in case of wildfires, earthquakes, and lord knows what else.",
+      "link": "https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/",
+      "published": "Fri, 17 Jul 2026 12:06:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:22.225111"
-    },
-    {
-      "source": "arstechnica",
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "summary": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-      "link": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-      "published": "Thu, 16 Jul 2026 22:02:31 +0000",
-      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-17T07:50:22.225151"
+      "crawled_at": "2026-07-17T13:01:09.492382"
     },
     {
-      "source": "arstechnica",
-      "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
-      "summary": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
-      "published": "Thu, 16 Jul 2026 20:52:47 +0000",
+      "source": "wired",
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "link": "https://www.wired.com/story/best-smart-speakers/",
+      "published": "Fri, 17 Jul 2026 12:01:00 +0000",
       "keywords": [
-        "AI",
-        "REST"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:22.225175"
-    },
-    {
-      "source": "arstechnica",
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "summary": "Google says these changes could endanger user privacy and security.",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "published": "Thu, 16 Jul 2026 20:41:45 +0000",
-      "keywords": [
-        "AI",
         "Go",
-        "Security",
+        "Apple",
         "Google",
-        "Android"
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-17T13:01:09.492423"
+    },
+    {
+      "source": "wired",
+      "title": "Valve Steam Machine Review: A Compromised Console",
+      "summary": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.",
+      "link": "https://www.wired.com/review/valve-steam-machine/",
+      "published": "Fri, 17 Jul 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR",
+        "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-17T07:50:22.225196"
+      "crawled_at": "2026-07-17T13:01:09.492446"
     },
     {
       "source": "wired",
-      "title": "Home Depot Promo Codes: 50% Off in July 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this July.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Fri, 17 Jul 2026 05:00:00 +0000",
+      "title": "Panasonic Japanese Microwave Review (2026): True 1-Button Cooking",
+      "summary": "The Japanese Microwave measures food temperature directly, and stops cooking when food’s hot. It’s kinda terrific.",
+      "link": "https://www.wired.com/review/panasonic-japanese-microwave/",
+      "published": "Fri, 17 Jul 2026 10:34:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-07-17T07:50:22.327761"
+      "category": "Tech News",
+      "crawled_at": "2026-07-17T13:01:09.492483"
     },
     {
       "source": "wired",
-      "title": "Paramount+ Coupon Codes and Deals for July 2026",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Fri, 17 Jul 2026 05:00:00 +0000",
+      "title": "23 Best Gifts for Cooks (2026): Vitamix, Frying Pans, Air Fryers",
+      "summary": "From the best air fryer to frying pans to knife sharpeners anyone can use, these ideas will keep the curious home chef in your life tinkering away.",
+      "link": "https://www.wired.com/gallery/gift-for-the-home-chef-2026/",
+      "published": "Fri, 17 Jul 2026 10:34:00 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-17T07:50:22.327791"
-    },
-    {
-      "source": "wired",
-      "title": "LG Promo Codes and Coupons for July 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-07-17T07:50:22.327815"
-    },
-    {
-      "source": "wired",
-      "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "published": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-17T07:50:22.327837"
-    },
-    {
-      "source": "wired",
-      "title": "Booking.com Promo Codes: 20% Off | July 2026",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "link": "https://www.wired.com/story/booking-com-promo-code/",
-      "published": "Fri, 17 Jul 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-07-17T07:50:22.327859"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-17T13:01:09.492508"
     }
   ]
 }
