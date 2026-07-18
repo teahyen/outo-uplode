@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-07-18T01:22:11.641800",
+  "last_updated": "2026-07-18T07:25:35.279469",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "published": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-18T07:25:33.210567"
+    },
     {
       "source": "techcrunch",
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
@@ -13,7 +27,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-18T01:22:10.948816"
+      "crawled_at": "2026-07-18T07:25:33.210641"
     },
     {
       "source": "techcrunch",
@@ -26,7 +40,7 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:10.948857"
+      "crawled_at": "2026-07-18T07:25:33.210675"
     },
     {
       "source": "techcrunch",
@@ -39,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:10.948910"
+      "crawled_at": "2026-07-18T07:25:33.210707"
     },
     {
       "source": "techcrunch",
@@ -52,22 +66,21 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-07-18T01:22:10.948945"
+      "crawled_at": "2026-07-18T07:25:33.210739"
     },
     {
-      "source": "techcrunch",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "published": "Fri, 17 Jul 2026 20:19:49 +0000",
+      "source": "theverge",
+      "title": "Fine, electric mountain bikes don’t suck",
+      "summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Am",
+      "link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "published": "2026-07-18T03:00:00-04:00",
       "keywords": [
         "AI",
-        "Tesla",
-        "Git",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:10.948973"
+      "crawled_at": "2026-07-18T07:25:33.384979"
     },
     {
       "source": "theverge",
@@ -79,7 +92,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.030003"
+      "crawled_at": "2026-07-18T07:25:33.385045"
     },
     {
       "source": "theverge",
@@ -91,7 +104,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.030063"
+      "crawled_at": "2026-07-18T07:25:33.385094"
     },
     {
       "source": "theverge",
@@ -104,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.030099"
+      "crawled_at": "2026-07-18T07:25:33.385127"
     },
     {
       "source": "theverge",
@@ -117,19 +130,43 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-18T01:22:11.030135"
+      "crawled_at": "2026-07-18T07:25:33.385162"
     },
     {
-      "source": "theverge",
-      "title": "Apple Music is getting a price hike",
-      "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230",
-      "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-      "published": "2026-07-17T14:14:26-04:00",
+      "source": "hackernews",
+      "title": "Regressive JPEGs",
+      "summary": "Article URL: https://maurycyz.com/projects/bad_jpeg/\nComments URL: https://news.ycombinator.com/item?id=48954851\nPoints: 113\n# Comments: 5",
+      "link": "https://maurycyz.com/projects/bad_jpeg/",
+      "published": "Sat, 18 Jul 2026 03:14:20 +0000",
       "keywords": [
-        "Apple"
+        "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-18T01:22:11.030169"
+      "category": "Tech News",
+      "crawled_at": "2026-07-18T07:25:34.875834"
+    },
+    {
+      "source": "hackernews",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "summary": "Article URL: https://moonstone.sh/\nComments URL: https://news.ycombinator.com/item?id=48954175\nPoints: 46\n# Comments: 13",
+      "link": "https://moonstone.sh/",
+      "published": "Sat, 18 Jul 2026 01:18:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-18T07:25:34.875878"
+    },
+    {
+      "source": "hackernews",
+      "title": "I started a \"dirt notebook\"",
+      "summary": "Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\nComments URL: https://news.ycombinator.com/item?id=48954149\nPoints: 47\n# Comments: 39",
+      "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "published": "Sat, 18 Jul 2026 01:12:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-18T07:25:34.875913"
     },
     {
       "source": "hackernews",
@@ -141,62 +178,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.343701"
+      "crawled_at": "2026-07-18T07:25:34.875949"
     },
     {
       "source": "hackernews",
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "summary": "Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\nComments URL: https://news.ycombinator.com/item?id=48953406\nPoints: 27\n# Comments: 2",
-      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "published": "Fri, 17 Jul 2026 23:26:35 +0000",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "summary": "Article URL: https://www.stenchill.com/en/\nComments URL: https://news.ycombinator.com/item?id=48953981\nPoints: 37\n# Comments: 7",
+      "link": "https://www.stenchill.com/en/",
+      "published": "Sat, 18 Jul 2026 00:48:37 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.343750"
-    },
-    {
-      "source": "hackernews",
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "summary": "Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\nComments URL: https://news.ycombinator.com/item?id=48952939\nPoints: 102\n# Comments: 106",
-      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "published": "Fri, 17 Jul 2026 22:35:55 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.343786"
-    },
-    {
-      "source": "hackernews",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\nComments URL: https://news.ycombinator.com/item?id=48952880\nPoints: 242\n# Comments: 143",
-      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "published": "Fri, 17 Jul 2026 22:26:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.343820"
-    },
-    {
-      "source": "hackernews",
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md\nComments URL: https://news.ycombinator.com/item?id=48952565\nPoints: 8\n# Comments: 1",
-      "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "published": "Fri, 17 Jul 2026 21:42:43 +0000",
-      "keywords": [
-        "AI",
-        "Vulnerability",
-        "Git",
-        "GitHub",
-        "IoT"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.343850"
+      "crawled_at": "2026-07-18T07:25:34.875981"
     },
     {
       "source": "arstechnica",
@@ -209,7 +203,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.418670"
+      "crawled_at": "2026-07-18T07:25:35.079036"
     },
     {
       "source": "arstechnica",
@@ -222,7 +216,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.418707"
+      "crawled_at": "2026-07-18T07:25:35.079073"
     },
     {
       "source": "arstechnica",
@@ -234,7 +228,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.418735"
+      "crawled_at": "2026-07-18T07:25:35.079100"
     },
     {
       "source": "arstechnica",
@@ -244,7 +238,7 @@
       "published": "Fri, 17 Jul 2026 18:45:23 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.418764"
+      "crawled_at": "2026-07-18T07:25:35.079130"
     },
     {
       "source": "arstechnica",
@@ -257,7 +251,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.418787"
+      "crawled_at": "2026-07-18T07:25:35.079153"
+    },
+    {
+      "source": "wired",
+      "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
+      "summary": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
+      "link": "https://www.wired.com/story/steelseries-coupon-code/",
+      "published": "Sat, 18 Jul 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-18T07:25:35.279216"
     },
     {
       "source": "wired",
@@ -271,7 +277,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-07-18T01:22:11.641540"
+      "crawled_at": "2026-07-18T07:25:35.279265"
     },
     {
       "source": "wired",
@@ -284,7 +290,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.641576"
+      "crawled_at": "2026-07-18T07:25:35.279292"
     },
     {
       "source": "wired",
@@ -297,7 +303,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.641608"
+      "crawled_at": "2026-07-18T07:25:35.279323"
     },
     {
       "source": "wired",
@@ -309,19 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T01:22:11.641650"
-    },
-    {
-      "source": "wired",
-      "title": "‘The Odyssey’ Backlash Failed Tremendously",
-      "summary": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
-      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
-      "published": "Fri, 17 Jul 2026 17:09:13 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-18T01:22:11.641681"
+      "crawled_at": "2026-07-18T07:25:35.279385"
     }
   ]
 }
