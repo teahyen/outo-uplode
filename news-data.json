@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-07-18T18:44:06.715329",
+  "last_updated": "2026-07-19T01:28:41.015939",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Waymo says San Francisco service has resumed after one-hour pause",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "published": "Sat, 18 Jul 2026 19:30:23 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-19T01:28:40.245433"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Kimi: Threat or menace?",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "published": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-19T01:28:40.245468"
+    },
     {
       "source": "techcrunch",
       "title": "All the EVs that were discontinued or killed off in the U.S. this year",
@@ -12,7 +34,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:03.952169"
+      "crawled_at": "2026-07-19T01:28:40.245502"
     },
     {
       "source": "techcrunch",
@@ -26,7 +48,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:03.952205"
+      "crawled_at": "2026-07-19T01:28:40.245526"
     },
     {
       "source": "techcrunch",
@@ -38,34 +60,23 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:03.952249"
+      "crawled_at": "2026-07-19T01:28:40.245565"
     },
     {
-      "source": "techcrunch",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "published": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "source": "theverge",
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "published": "2026-07-18T16:54:42-04:00",
       "keywords": [
         "AI",
-        "API",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:03.952277"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "published": "Fri, 17 Jul 2026 23:08:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-18T18:44:03.952339"
+      "crawled_at": "2026-07-19T01:28:40.336792"
     },
     {
       "source": "theverge",
@@ -78,7 +89,7 @@
         "Google"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-18T18:44:04.031022"
+      "crawled_at": "2026-07-19T01:28:40.336846"
     },
     {
       "source": "theverge",
@@ -93,7 +104,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:04.031063"
+      "crawled_at": "2026-07-19T01:28:40.336878"
     },
     {
       "source": "theverge",
@@ -107,7 +118,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:04.031120"
+      "crawled_at": "2026-07-19T01:28:40.336931"
     },
     {
       "source": "theverge",
@@ -119,86 +130,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:04.031177"
-    },
-    {
-      "source": "theverge",
-      "title": "Surprise! Facial recognition smart locks are actually good",
-      "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
-      "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
-      "published": "2026-07-18T10:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-18T18:44:04.031210"
+      "crawled_at": "2026-07-19T01:28:40.336986"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "summary": "Article URL: https://imaxxing.io/\nComments URL: https://news.ycombinator.com/item?id=48960551\nPoints: 6\n# Comments: 3",
-      "link": "https://imaxxing.io/",
-      "published": "Sat, 18 Jul 2026 18:06:23 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.509585"
-    },
-    {
-      "source": "hackernews",
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3818307\nComments URL: https://news.ycombinator.com/item?id=48960155\nPoints: 47\n# Comments: 14",
-      "link": "https://queue.acm.org/detail.cfm?id=3818307",
-      "published": "Sat, 18 Jul 2026 17:27:24 +0000",
+      "title": "Transcribe.cpp",
+      "summary": "Article URL: https://workshop.cjpais.com/projects/transcribe-cpp\nComments URL: https://news.ycombinator.com/item?id=48963879\nPoints: 10\n# Comments: 2",
+      "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "published": "Sun, 19 Jul 2026 00:38:26 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:06.509623"
+      "crawled_at": "2026-07-19T01:28:40.838842"
     },
     {
       "source": "hackernews",
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/\nComments URL: https://news.ycombinator.com/item?id=48959392\nPoints: 80\n# Comments: 48",
-      "link": "https://ykdojo.github.io/claude-controls-mac/",
-      "published": "Sat, 18 Jul 2026 16:12:08 +0000",
+      "title": "Harness Engineering",
+      "summary": "Article URL: https://github.com/lopopolo/harness-engineering\nComments URL: https://news.ycombinator.com/item?id=48963483\nPoints: 5\n# Comments: 1",
+      "link": "https://github.com/lopopolo/harness-engineering",
+      "published": "Sat, 18 Jul 2026 23:27:36 +0000",
       "keywords": [
-        "Claude",
         "Git",
         "GitHub",
         "AR"
       ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-19T01:28:40.838883"
+    },
+    {
+      "source": "hackernews",
+      "title": "Codex Resets",
+      "summary": "Article URL: https://codex-resets.com/\nComments URL: https://news.ycombinator.com/item?id=48963465\nPoints: 72\n# Comments: 58",
+      "link": "https://codex-resets.com/",
+      "published": "Sat, 18 Jul 2026 23:24:26 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-19T01:28:40.838910"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\nComments URL: https://news.ycombinator.com/item?id=48962983\nPoints: 172\n# Comments: 80",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "published": "Sat, 18 Jul 2026 22:13:39 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:06.509653"
+      "crawled_at": "2026-07-19T01:28:40.838941"
     },
     {
       "source": "hackernews",
-      "title": "Fake food delivery site for the dopamine",
-      "summary": "Article URL: https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/\nComments URL: https://news.ycombinator.com/item?id=48959355\nPoints: 42\n# Comments: 14",
-      "link": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
-      "published": "Sat, 18 Jul 2026 16:08:38 +0000",
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "summary": "Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf\nComments URL: https://news.ycombinator.com/item?id=48962944\nPoints: 26\n# Comments: 4",
+      "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "published": "Sat, 18 Jul 2026 22:09:07 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.509691"
-    },
-    {
-      "source": "hackernews",
-      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
-      "summary": "Article URL: https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/\nComments URL: https://news.ycombinator.com/item?id=48959302\nPoints: 27\n# Comments: 9",
-      "link": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
-      "published": "Sat, 18 Jul 2026 16:03:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.509739"
+      "crawled_at": "2026-07-19T01:28:40.838975"
     },
     {
       "source": "arstechnica",
@@ -211,7 +208,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:06.598149"
+      "crawled_at": "2026-07-19T01:28:40.920916"
     },
     {
       "source": "arstechnica",
@@ -224,7 +221,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.598188"
+      "crawled_at": "2026-07-19T01:28:40.920952"
     },
     {
       "source": "arstechnica",
@@ -237,7 +234,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.598219"
+      "crawled_at": "2026-07-19T01:28:40.920984"
     },
     {
       "source": "arstechnica",
@@ -249,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.598247"
+      "crawled_at": "2026-07-19T01:28:40.921016"
     },
     {
       "source": "arstechnica",
@@ -259,7 +256,7 @@
       "published": "Fri, 17 Jul 2026 18:45:23 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.598276"
+      "crawled_at": "2026-07-19T01:28:40.921044"
     },
     {
       "source": "wired",
@@ -269,7 +266,7 @@
       "published": "Sat, 18 Jul 2026 11:03:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.715082"
+      "crawled_at": "2026-07-19T01:28:41.015682"
     },
     {
       "source": "wired",
@@ -282,7 +279,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-07-18T18:44:06.715118"
+      "crawled_at": "2026-07-19T01:28:41.015748"
     },
     {
       "source": "wired",
@@ -296,7 +293,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:06.715158"
+      "crawled_at": "2026-07-19T01:28:41.015791"
     },
     {
       "source": "wired",
@@ -308,7 +305,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-18T18:44:06.715195"
+      "crawled_at": "2026-07-19T01:28:41.015828"
     },
     {
       "source": "wired",
@@ -323,7 +320,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-18T18:44:06.715223"
+      "crawled_at": "2026-07-19T01:28:41.015857"
     }
   ]
 }
