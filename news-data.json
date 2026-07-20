@@ -1,206 +1,264 @@
 {
-  "last_updated": "2026-07-20T13:45:45.281488",
+  "last_updated": "2026-07-20T19:22:51.313888",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-      "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
-      "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-      "published": "Mon, 20 Jul 2026 12:39:28 +0000",
-      "keywords": [],
-      "category": "Security",
-      "crawled_at": "2026-07-20T13:45:43.388323"
-    },
-    {
-      "source": "techcrunch",
-      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-      "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-      "published": "Mon, 20 Jul 2026 12:30:00 +0000",
-      "keywords": [
-        "Startup",
-        "VC",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-07-20T13:45:43.388386"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "published": "Sun, 19 Jul 2026 21:45:00 +0000",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "published": "Mon, 20 Jul 2026 19:11:25 +0000",
       "keywords": [
         "AI",
         "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.388416"
+      "crawled_at": "2026-07-20T19:22:49.309036"
     },
     {
       "source": "techcrunch",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "published": "Sun, 19 Jul 2026 21:16:07 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:43.388449"
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "published": "Mon, 20 Jul 2026 17:58:50 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-07-20T19:22:49.309084"
     },
     {
       "source": "techcrunch",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "published": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "published": "Mon, 20 Jul 2026 15:45:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Go",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.309118"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "published": "Mon, 20 Jul 2026 15:35:37 +0000",
+      "keywords": [
         "AWS",
-        "Apple"
+        "Security",
+        "Cybersecurity",
+        "Hack",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.388481"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-07-20T19:22:49.309160"
     },
     {
-      "source": "theverge",
-      "title": "AliExpress fined almost $630 million over illegal product sales",
-      "summary": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take eff",
-      "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
-      "published": "2026-07-20T07:16:32-04:00",
+      "source": "techcrunch",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "published": "Mon, 20 Jul 2026 15:23:06 +0000",
       "keywords": [
         "AI",
-        "Git"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.513917"
+      "crawled_at": "2026-07-20T19:22:49.309191"
     },
     {
       "source": "theverge",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight,",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "published": "2026-07-20T06:16:33-04:00",
+      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+      "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,0",
+      "link": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+      "published": "2026-07-20T15:18:45-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.405532"
+    },
+    {
+      "source": "theverge",
+      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+      "summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Mart&#237;nez-Olgu&#237;n said that based on the new company's market",
+      "link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+      "published": "2026-07-20T13:37:53-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.405585"
+    },
+    {
+      "source": "theverge",
+      "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
+      "summary": "If you&#8217;ve been thinking about upgrading your gaming monitor, LG&#8217;s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new low price.&#160;It originally launched at $799.99",
+      "link": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+      "published": "2026-07-20T12:34:24-04:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.405626"
+    },
+    {
+      "source": "theverge",
+      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+      "summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as a permission pop-up or notification. The app doesn't appear ",
+      "link": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+      "published": "2026-07-20T12:14:58-04:00",
+      "keywords": [
+        "AI",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.405666"
+    },
+    {
+      "source": "theverge",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own F",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "published": "2026-07-20T12:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:49.405703"
+    },
+    {
+      "source": "hackernews",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "Article URL: https://openai.com/index/safety-alignment-long-horizon-models/\nComments URL: https://news.ycombinator.com/item?id=48983108\nPoints: 5\n# Comments: 0",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "published": "Mon, 20 Jul 2026 18:43:55 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "Anthropic",
-        "Go",
-        "API"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.513973"
-    },
-    {
-      "source": "theverge",
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-      "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12",
-      "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "published": "2026-07-19T17:02:45-04:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "Google",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-20T13:45:43.514084"
-    },
-    {
-      "source": "theverge",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugst",
-      "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "published": "2026-07-19T15:26:06-04:00",
-      "keywords": [
-        "AI",
-        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.514118"
-    },
-    {
-      "source": "theverge",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "published": "2026-07-19T13:35:54-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:43.514156"
+      "crawled_at": "2026-07-20T19:22:51.055282"
     },
     {
       "source": "hackernews",
-      "title": "Stop Using OpenCode",
-      "summary": "Article URL: https://wren.wtf/shower-thoughts/stop-using-opencode/\nComments URL: https://news.ycombinator.com/item?id=48978112\nPoints: 34\n# Comments: 15",
-      "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "published": "Mon, 20 Jul 2026 12:45:55 +0000",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "summary": "Article URL: https://blaizzy.github.io/nativ/\nComments URL: https://news.ycombinator.com/item?id=48982681\nPoints: 21\n# Comments: 4",
+      "link": "https://blaizzy.github.io/nativ/",
+      "published": "Mon, 20 Jul 2026 18:16:08 +0000",
       "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-20T13:45:44.822608"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:51.055315"
     },
     {
       "source": "hackernews",
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "summary": "Article URL: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/\nComments URL: https://news.ycombinator.com/item?id=48977711\nPoints: 111\n# Comments: 63",
-      "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "published": "Mon, 20 Jul 2026 12:14:08 +0000",
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "summary": "Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/\nComments URL: https://news.ycombinator.com/item?id=48982583\nPoints: 13\n# Comments: 0",
+      "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+      "published": "Mon, 20 Jul 2026 18:10:44 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:51.055345"
+    },
+    {
+      "source": "hackernews",
+      "title": "The drivers behind software delivery inefficiency",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3800646.3800650\nComments URL: https://news.ycombinator.com/item?id=48982578\nPoints: 13\n# Comments: 2",
+      "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+      "published": "Mon, 20 Jul 2026 18:10:17 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:44.822661"
+      "crawled_at": "2026-07-20T19:22:51.055378"
     },
     {
       "source": "hackernews",
-      "title": "Airport Simulator",
-      "summary": "Article URL: https://airport.apunen.com/\nComments URL: https://news.ycombinator.com/item?id=48976846\nPoints: 165\n# Comments: 41",
-      "link": "https://airport.apunen.com/",
-      "published": "Mon, 20 Jul 2026 10:30:40 +0000",
+      "title": "Agent swarms and the new model economics",
+      "summary": "Article URL: https://cursor.com/blog/agent-swarm-model-economics\nComments URL: https://news.ycombinator.com/item?id=48982535\nPoints: 9\n# Comments: 1",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "published": "Mon, 20 Jul 2026 18:06:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-20T19:22:51.055411"
+    },
+    {
+      "source": "arstechnica",
+      "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
+      "summary": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
+      "link": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+      "published": "Mon, 20 Jul 2026 15:59:18 +0000",
+      "keywords": [
+        "Go",
+        "Machine Learning",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-20T19:22:51.144013"
+    },
+    {
+      "source": "arstechnica",
+      "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+      "summary": "Online retailer AliExpress says it's shocked by largest DSA fine yet.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+      "published": "Mon, 20 Jul 2026 15:32:45 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:44.822687"
+      "crawled_at": "2026-07-20T19:22:51.144040"
     },
     {
-      "source": "hackernews",
-      "title": "Airbus Takes Flight from AWS",
-      "summary": "Article URL: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\nComments URL: https://news.ycombinator.com/item?id=48976682\nPoints: 144\n# Comments: 103",
-      "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "published": "Mon, 20 Jul 2026 10:12:22 +0000",
+      "source": "arstechnica",
+      "title": "The first trailer for Avengers: Doomsday is finally here",
+      "summary": "\"Something's coming. Something we may not be able to deter.\"",
+      "link": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
+      "published": "Mon, 20 Jul 2026 14:33:46 +0000",
       "keywords": [
-        "AI",
-        "AWS",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:44.822718"
+      "crawled_at": "2026-07-20T19:22:51.144061"
     },
     {
-      "source": "hackernews",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "summary": "Article URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\nComments URL: https://news.ycombinator.com/item?id=48975665\nPoints: 247\n# Comments: 130",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "published": "Mon, 20 Jul 2026 08:13:36 +0000",
+      "source": "arstechnica",
+      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
+      "summary": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
+      "link": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
+      "published": "Mon, 20 Jul 2026 14:00:50 +0000",
       "keywords": [
-        "GPT",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:44.822751"
+      "category": "Tech News",
+      "crawled_at": "2026-07-20T19:22:51.144090"
     },
     {
       "source": "arstechnica",
@@ -213,53 +271,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:45.038920"
+      "crawled_at": "2026-07-20T19:22:51.144111"
     },
     {
-      "source": "arstechnica",
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
-      "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "published": "Sun, 19 Jul 2026 22:11:21 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.038959"
-    },
-    {
-      "source": "arstechnica",
-      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
-      "link": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-      "published": "Sun, 19 Jul 2026 11:19:31 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.038991"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "published": "Sat, 18 Jul 2026 11:18:25 +0000",
+      "source": "wired",
+      "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
+      "summary": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
+      "link": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
+      "published": "Mon, 20 Jul 2026 19:06:08 +0000",
       "keywords": [
         "AI",
-        "Go"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:45.039020"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "summary": "The FireSat program can spot wildfires that other satellites miss.",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "published": "Fri, 17 Jul 2026 19:50:18 +0000",
-      "keywords": [
-        "Go",
-        "Google"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.039063"
+      "crawled_at": "2026-07-20T19:22:51.313659"
     },
     {
       "source": "wired",
@@ -271,7 +296,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.281231"
+      "crawled_at": "2026-07-20T19:22:51.313695"
     },
     {
       "source": "wired",
@@ -283,7 +308,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.281286"
+      "crawled_at": "2026-07-20T19:22:51.313741"
     },
     {
       "source": "wired",
@@ -297,20 +322,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:45.281313"
-    },
-    {
-      "source": "wired",
-      "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
-      "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.",
-      "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
-      "published": "Mon, 20 Jul 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-20T13:45:45.281350"
+      "crawled_at": "2026-07-20T19:22:51.313767"
     },
     {
       "source": "wired",
@@ -322,7 +334,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-20T13:45:45.281392"
+      "crawled_at": "2026-07-20T19:22:51.313808"
     }
   ]
 }
