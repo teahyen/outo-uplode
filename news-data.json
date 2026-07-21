@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T01:27:57.778996",
+  "last_updated": "2026-07-21T08:05:25.180461",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:55.893526"
+      "crawled_at": "2026-07-21T08:05:21.982606"
     },
     {
       "source": "techcrunch",
@@ -30,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:55.893577"
+      "crawled_at": "2026-07-21T08:05:21.982646"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:55.893651"
+      "crawled_at": "2026-07-21T08:05:21.982671"
     },
     {
       "source": "techcrunch",
@@ -58,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:55.893681"
+      "crawled_at": "2026-07-21T08:05:21.982692"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:55.893715"
+      "crawled_at": "2026-07-21T08:05:21.982717"
     },
     {
       "source": "theverge",
@@ -85,7 +85,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:56.022221"
+      "crawled_at": "2026-07-21T08:05:22.068806"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
       "published": "2026-07-20T18:16:14-04:00",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-07-21T01:27:56.022274"
+      "crawled_at": "2026-07-21T08:05:22.068854"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:56.022318"
+      "crawled_at": "2026-07-21T08:05:22.068903"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:56.022348"
+      "crawled_at": "2026-07-21T08:05:22.068929"
     },
     {
       "source": "theverge",
@@ -133,69 +133,76 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:56.022390"
+      "crawled_at": "2026-07-21T08:05:22.068964"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: I made email signatures less boring",
-      "summary": "Article URL: https://esigna.app\nComments URL: https://news.ycombinator.com/item?id=48986912\nPoints: 3\n# Comments: 0",
-      "link": "https://esigna.app",
-      "published": "Tue, 21 Jul 2026 01:06:20 +0000",
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "summary": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 15\n# Comments: 7",
+      "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "published": "Tue, 21 Jul 2026 06:29:22 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-21T08:05:24.680208"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "summary": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/Af",
+      "link": "https://exsitu.app/map",
+      "published": "Tue, 21 Jul 2026 04:48:32 +0000",
+      "keywords": [
+        "Python",
+        "Go",
+        "Next.js",
+        "API",
+        "Funding"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-21T08:05:24.680345"
+    },
+    {
+      "source": "hackernews",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding\nComments URL: https://news.ycombinator.com/item?id=48987863\nPoints: 240\n# Comments: 112",
+      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "published": "Tue, 21 Jul 2026 03:56:03 +0000",
+      "keywords": [
+        "AI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-21T08:05:24.680373"
+    },
+    {
+      "source": "hackernews",
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 52\n# Comments: 9",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "published": "Tue, 21 Jul 2026 03:54:16 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-21T08:05:24.680400"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 28\n# Comments: 21",
+      "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "published": "Tue, 21 Jul 2026 03:52:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:57.469830"
-    },
-    {
-      "source": "hackernews",
-      "title": "Jellyfin founder Andrew leaves team",
-      "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 14\n# Comments: 2",
-      "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "published": "Mon, 20 Jul 2026 23:15:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.469872"
-    },
-    {
-      "source": "hackernews",
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "summary": "Article URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/\nComments URL: https://news.ycombinator.com/item?id=48984270\nPoints: 53\n# Comments: 48",
-      "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "published": "Mon, 20 Jul 2026 20:12:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.469908"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "summary": "Article URL: https://vincentwoo.com/3d/grace_cathedral/\nComments URL: https://news.ycombinator.com/item?id=48984254\nPoints: 70\n# Comments: 14",
-      "link": "https://vincentwoo.com/3d/grace_cathedral/",
-      "published": "Mon, 20 Jul 2026 20:10:44 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.469943"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "summary": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\nComments URL: https://news.ycombinator.com/item?id=48984231\nPoints: 52\n# Comments: 5",
-      "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "published": "Mon, 20 Jul 2026 20:08:45 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.469981"
+      "crawled_at": "2026-07-21T08:05:24.680423"
     },
     {
       "source": "arstechnica",
@@ -208,7 +215,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-21T01:27:57.617657"
+      "crawled_at": "2026-07-21T08:05:25.042890"
     },
     {
       "source": "arstechnica",
@@ -220,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.617697"
+      "crawled_at": "2026-07-21T08:05:25.042922"
     },
     {
       "source": "arstechnica",
@@ -236,7 +243,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:57.617721"
+      "crawled_at": "2026-07-21T08:05:25.042942"
     },
     {
       "source": "arstechnica",
@@ -246,7 +253,7 @@
       "published": "Mon, 20 Jul 2026 20:30:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.617750"
+      "crawled_at": "2026-07-21T08:05:25.042965"
     },
     {
       "source": "arstechnica",
@@ -256,7 +263,7 @@
       "published": "Mon, 20 Jul 2026 19:20:49 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.617778"
+      "crawled_at": "2026-07-21T08:05:25.042988"
     },
     {
       "source": "wired",
@@ -270,7 +277,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:57.778769"
+      "crawled_at": "2026-07-21T08:05:25.180256"
     },
     {
       "source": "wired",
@@ -283,7 +290,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.778812"
+      "crawled_at": "2026-07-21T08:05:25.180292"
     },
     {
       "source": "wired",
@@ -295,7 +302,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.778859"
+      "crawled_at": "2026-07-21T08:05:25.180329"
     },
     {
       "source": "wired",
@@ -308,7 +315,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-21T01:27:57.778885"
+      "crawled_at": "2026-07-21T08:05:25.180349"
     },
     {
       "source": "wired",
@@ -320,7 +327,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-21T01:27:57.778913"
+      "crawled_at": "2026-07-21T08:05:25.180373"
     }
   ]
 }
