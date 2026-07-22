@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-07-22T08:06:00.426274",
+  "last_updated": "2026-07-22T13:19:07.056114",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:05.179486"
+    },
+    {
+      "source": "techcrunch",
+      "title": "WhatsApp adds Apple CarPlay and Android Auto upgrades, iPad sign-ups, and more",
+      "summary": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contacts hands-free and right from their car's screen.",
+      "link": "https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/",
+      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-22T13:19:05.179544"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "published": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:05.179575"
+    },
     {
       "source": "techcrunch",
       "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
@@ -13,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:05:59.841677"
+      "crawled_at": "2026-07-22T13:19:05.179622"
     },
     {
       "source": "techcrunch",
@@ -27,127 +70,110 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:05:59.841722"
+      "crawled_at": "2026-07-22T13:19:05.179646"
     },
     {
-      "source": "techcrunch",
-      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-      "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-      "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "published": "Wed, 22 Jul 2026 01:27:58 +0000",
+      "source": "theverge",
+      "title": "Samsung’s newest foldable finally feels Ultra",
+      "summary": "While we wait for Apple's rumored foldable iPhone, Samsung is polishing a design it already has on the market. I just spent three hours with my hands on the new Z Fold 8 Ultra, and all I can think about is how Samsung finally made the crease invisible. Samsung says it achieved this thanks to [&#8230",
+      "link": "https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos",
+      "published": "2026-07-22T09:00:00-04:00",
       "keywords": [
-        "Go",
-        "API",
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:05.305113"
+    },
+    {
+      "source": "theverge",
+      "title": "Samsung’s wider Z Fold 8 feels just right",
+      "summary": "A year after overhauling its Z Fold phone with a radically thinner design, Samsung has changed things up again, this time altering the shape entirely. The Z Fold 8 is wider than any of Samsung's previous foldables, and shorter too, a size and shape somewhere between Samsung's traditional Flip and Fo",
+      "link": "https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on",
+      "published": "2026-07-22T09:00:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:05.305165"
+    },
+    {
+      "source": "theverge",
+      "title": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery",
+      "summary": "It's a year of refinement for the Galaxy Watch. With the new Galaxy Watch 9 and Galaxy Watch Ultra 2, which are being announced today, Samsung is more or less taking what people like about its watches and tweaking those elements to be better. The company has been doing this for the past few generati",
+      "link": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
+      "published": "2026-07-22T09:00:00-04:00",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-22T08:05:59.841767"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
-      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "published": "Tue, 21 Jul 2026 23:55:10 +0000",
-      "keywords": [
-        "AI",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:05:59.841792"
-    },
-    {
-      "source": "techcrunch",
-      "title": "These are the countries moving to ban social media for children",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-      "published": "Tue, 21 Jul 2026 20:57:35 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:05:59.841821"
+      "crawled_at": "2026-07-22T13:19:05.305218"
     },
     {
       "source": "theverge",
-      "title": "Samsung Galaxy Unpacked July 2026: How to watch",
-      "summary": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely be the stars of the show. Samsung is expected to show off a [&",
-      "link": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
-      "published": "2026-07-21T21:00:00-04:00",
+      "title": "I almost forgot Samsung’s Z Flip 8 was a foldable",
+      "summary": "Samsung's new Galaxy Z Flip 8 feels more like a regular phone than ever. It's thinner, lighter, and has a front screen you can do just about anything on. Whether that's a good or bad thing, I'm not quite sure yet. I spent three hours with Samsung's newest flip phone last week, and it doesn't [&#8230",
+      "link": "https://www.theverge.com/gadgets/968883/samsung-galaxy-z-flip-8-announced-hands-on",
+      "published": "2026-07-22T09:00:00-04:00",
       "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-07-22T08:05:59.999888"
+      "category": "Tech News",
+      "crawled_at": "2026-07-22T13:19:05.305266"
     },
     {
       "source": "theverge",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact",
-      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "published": "2026-07-21T18:06:43-04:00",
+      "title": "Samsung Galaxy Unpacked 2026: The 6 biggest announcements",
+      "summary": "Samsung's annual summer event kicked off on Wednesday morning with the company unveiling a new lineup of watches and foldables. Following weeks of rumors and leaks, Samsung announced the Galaxy Z Fold 8 with a completely new design that's shorter and wider than last year's Fold, a new \"Ultra\" Fold, ",
+      "link": "https://www.theverge.com/tech/969208/samsung-galaxy-unpacked-2026-everything-announced",
+      "published": "2026-07-22T09:00:00-04:00",
       "keywords": [
-        "AI",
-        "Startup",
-        "iOS",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:05:59.999987"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to g",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "published": "2026-07-21T17:48:54-04:00",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.000082"
-    },
-    {
-      "source": "theverge",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "published": "2026-07-21T15:22:28-04:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.000131"
-    },
-    {
-      "source": "theverge",
-      "title": "Peak Design’s modular Field Bracket has a finder tag built-in",
-      "summary": "I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tags are essential for my cameras. The problem is, strapping a finder tag to a [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter",
-      "published": "2026-07-21T14:12:02-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.000172"
+      "category": "Tech News",
+      "crawled_at": "2026-07-22T13:19:05.305314"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
-      "summary": "Article URL: https://www.readkinetic.com/app/\nComments URL: https://news.ycombinator.com/item?id=49002344\nPoints: 30\n# Comments: 14",
-      "link": "https://www.readkinetic.com/app/",
-      "published": "Wed, 22 Jul 2026 05:49:51 +0000",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "summary": "Article URL: https://www.cole-k.com/2026/07/21/reddit/\nComments URL: https://news.ycombinator.com/item?id=49005747\nPoints: 28\n# Comments: 2",
+      "link": "https://www.cole-k.com/2026/07/21/reddit/",
+      "published": "Wed, 22 Jul 2026 12:32:48 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:06.695155"
+    },
+    {
+      "source": "hackernews",
+      "title": "10 REM\"_(C2SLFF4",
+      "summary": "Article URL: https://beej.us/blog/data/mystery-comment/\nComments URL: https://news.ycombinator.com/item?id=49005329\nPoints: 3\n# Comments: 0",
+      "link": "https://beej.us/blog/data/mystery-comment/",
+      "published": "Wed, 22 Jul 2026 11:58:09 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-22T08:06:00.155875"
+      "category": "Tech News",
+      "crawled_at": "2026-07-22T13:19:06.695200"
+    },
+    {
+      "source": "hackernews",
+      "title": "OverpAId – Fire your CEO. Hire the future",
+      "summary": "Article URL: https://overpaid.lol\nComments URL: https://news.ycombinator.com/item?id=49004663\nPoints: 235\n# Comments: 97",
+      "link": "https://overpaid.lol",
+      "published": "Wed, 22 Jul 2026 10:49:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-22T13:19:06.695235"
     },
     {
       "source": "hackernews",
@@ -162,12 +188,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.155929"
+      "crawled_at": "2026-07-22T13:19:06.695278"
     },
     {
       "source": "hackernews",
       "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "summary": "Article URL: https://github.com/chrislgarry/Apollo-11\nComments URL: https://news.ycombinator.com/item?id=49002166\nPoints: 45\n# Comments: 10",
+      "summary": "Article URL: https://github.com/chrislgarry/Apollo-11\nComments URL: https://news.ycombinator.com/item?id=49002166\nPoints: 102\n# Comments: 31",
       "link": "https://github.com/chrislgarry/Apollo-11",
       "published": "Wed, 22 Jul 2026 05:18:08 +0000",
       "keywords": [
@@ -176,32 +202,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-22T08:06:00.155961"
-    },
-    {
-      "source": "hackernews",
-      "title": "Late.sh – a command-line Clubhouse for computer people",
-      "summary": "Article URL: https://late.sh/\nComments URL: https://news.ycombinator.com/item?id=49001127\nPoints: 114\n# Comments: 42",
-      "link": "https://late.sh/",
-      "published": "Wed, 22 Jul 2026 02:32:30 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-22T08:06:00.156002"
-    },
-    {
-      "source": "hackernews",
-      "title": "LG to ban residential proxies from smart TV apps",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\nComments URL: https://news.ycombinator.com/item?id=49000864\nPoints: 235\n# Comments: 201",
-      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "Wed, 22 Jul 2026 01:52:31 +0000",
-      "keywords": [
-        "Security",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-07-22T08:06:00.156055"
+      "crawled_at": "2026-07-22T13:19:06.695311"
     },
     {
       "source": "arstechnica",
@@ -211,7 +212,7 @@
       "published": "Tue, 21 Jul 2026 23:01:23 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-22T08:06:00.303384"
+      "crawled_at": "2026-07-22T13:19:06.911927"
     },
     {
       "source": "arstechnica",
@@ -226,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-22T08:06:00.303421"
+      "crawled_at": "2026-07-22T13:19:06.911967"
     },
     {
       "source": "arstechnica",
@@ -238,7 +239,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.303442"
+      "crawled_at": "2026-07-22T13:19:06.911992"
     },
     {
       "source": "arstechnica",
@@ -250,7 +251,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-22T08:06:00.303481"
+      "crawled_at": "2026-07-22T13:19:06.912032"
     },
     {
       "source": "arstechnica",
@@ -265,72 +266,65 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.303504"
+      "crawled_at": "2026-07-22T13:19:06.912056"
     },
     {
       "source": "wired",
-      "title": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
-      "summary": "It’s “the most car-like Range Rover ever created,” but will this all-electric grand tourer spoil Jaguar’s Type 01 party?",
-      "link": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
-      "published": "Tue, 21 Jul 2026 23:01:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.425980"
+      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
+      "published": "Wed, 22 Jul 2026 13:01:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-22T13:19:07.055877"
     },
     {
       "source": "wired",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "published": "Tue, 21 Jul 2026 22:50:01 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Security",
-        "Cybersecurity"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.426016"
-    },
-    {
-      "source": "wired",
-      "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
-      "summary": "The discounts may not beat Prime Day, but I found worthwhile prices on WIRED-approved TVs, laptops, tablets, speakers, and other home gear.",
-      "link": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
-      "published": "Tue, 21 Jul 2026 20:39:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-22T08:06:00.426078"
-    },
-    {
-      "source": "wired",
-      "title": "Taylor Farms Spent Big on MAGA and Anti-Regulatory Lobbying Before Diarrhea Outbreak",
-      "summary": "The company donated more than $3.6 million to conservative groups between 2020 and 2025, including $1 million to the MAGA Inc. super PAC.",
-      "link": "https://www.wired.com/story/diarrhea-outbreak-taylor-farms-maga-donations-lobbying/",
-      "published": "Tue, 21 Jul 2026 19:10:35 +0000",
+      "title": "Why Samsung Gave Its Next Folding Phone a New Shape",
+      "summary": "People spend hours watching videos on their smartphones. The wider, shorter, and lighter Galaxy Z Fold8 caters to exactly that.",
+      "link": "https://www.wired.com/story/why-samsung-gave-its-next-folding-phone-a-new-shape-galaxy-z-fold8/",
+      "published": "Wed, 22 Jul 2026 13:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-22T08:06:00.426116"
+      "crawled_at": "2026-07-22T13:19:07.055919"
     },
     {
       "source": "wired",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "published": "Tue, 21 Jul 2026 19:05:00 +0000",
+      "title": "The 13 Best Fans for Getting Through Sweaty Days (2026)",
+      "summary": "From powerful air movers and whisper-quiet pedestal models to options that double as misters, lamps, and air purifiers, these are the fans that impressed us most.",
+      "link": "https://www.wired.com/story/the-best-fans-2026/",
+      "published": "Wed, 22 Jul 2026 11:31:00 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-22T08:06:00.426145"
+      "crawled_at": "2026-07-22T13:19:07.055947"
+    },
+    {
+      "source": "wired",
+      "title": "6 Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+      "summary": "The fitness trackers I’d recommend to beginners, athletes, and kids.",
+      "link": "https://www.wired.com/story/best-fitbit/",
+      "published": "Wed, 22 Jul 2026 10:31:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-22T13:19:07.055982"
+    },
+    {
+      "source": "wired",
+      "title": "States Want ICE Agents to Show Their Faces. The Trump Administration Is Blocking Them",
+      "summary": "Federal lawyers say anti-mask laws would endanger immigration agents, citing an ICE face-recognition art project that doesn’t actually work.",
+      "link": "https://www.wired.com/story/states-want-ice-agents-to-show-their-faces-the-trump-administration-is-blocking-them/",
+      "published": "Wed, 22 Jul 2026 10:30:00 +0000",
+      "keywords": [
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-07-22T13:19:07.056019"
     }
   ]
 }
