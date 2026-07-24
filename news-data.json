@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-07-24T08:04:59.934702",
+  "last_updated": "2026-07-24T13:15:13.623286",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "summary": "Seller is a dedicated Marketplace app for people who list and sell items frequently.",
+      "link": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "published": "Fri, 24 Jul 2026 12:47:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-24T13:15:12.222853"
+    },
     {
       "source": "techcrunch",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -16,7 +28,7 @@
         "Cybersecurity"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.357056"
+      "crawled_at": "2026-07-24T13:15:12.223228"
     },
     {
       "source": "techcrunch",
@@ -29,7 +41,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-07-24T08:04:59.357119"
+      "crawled_at": "2026-07-24T13:15:12.223283"
     },
     {
       "source": "techcrunch",
@@ -42,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.357171"
+      "crawled_at": "2026-07-24T13:15:12.223356"
     },
     {
       "source": "techcrunch",
@@ -56,20 +68,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.357198"
+      "crawled_at": "2026-07-24T13:15:12.223389"
     },
     {
-      "source": "techcrunch",
-      "title": "Patreon lays off 20% of its workforce",
-      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
-      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-      "published": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "source": "theverge",
+      "title": "Whack-a-drone",
+      "summary": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll see a typical coworking space: open tables, healthy snacks, a co",
+      "link": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+      "published": "2026-07-24T08:00:00-04:00",
       "keywords": [
         "AI",
+        "Go",
+        "REST",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.357225"
+      "crawled_at": "2026-07-24T13:15:12.324340"
+    },
+    {
+      "source": "theverge",
+      "title": "TikTok&#8217;s protection of minors should not be opt-in, warns EU",
+      "summary": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The Commission suggests that TikTok should a",
+      "link": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+      "published": "2026-07-24T07:40:03-04:00",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T13:15:12.324401"
+    },
+    {
+      "source": "theverge",
+      "title": "Facebook considers giving up and becoming TikTok",
+      "summary": "Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head Tom Alison announced today that the platform will begin testing a \"reimagined experience\" later this yea",
+      "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+      "published": "2026-07-24T07:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T13:15:12.324448"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "summary": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monito",
+      "link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "published": "2026-07-24T05:20:09-04:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "Windows",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T13:15:12.324481"
     },
     {
       "source": "theverge",
@@ -83,125 +138,80 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.458591"
-    },
-    {
-      "source": "theverge",
-      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
-      "summary": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;",
-      "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
-      "published": "2026-07-23T16:36:40-04:00",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.458656"
-    },
-    {
-      "source": "theverge",
-      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
-      "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about",
-      "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
-      "published": "2026-07-23T15:46:11-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.458701"
-    },
-    {
-      "source": "theverge",
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "published": "2026-07-23T15:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.458741"
-    },
-    {
-      "source": "theverge",
-      "title": "Patreon is laying off 20 percent of workers",
-      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech in",
-      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "published": "2026-07-23T14:20:30-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.458776"
+      "crawled_at": "2026-07-24T13:15:12.324513"
     },
     {
       "source": "hackernews",
-      "title": "The PImpl idiom and the C++26 std:indirect type",
-      "summary": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/\nComments URL: https://news.ycombinator.com/item?id=49032095\nPoints: 18\n# Comments: 13",
-      "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-      "published": "Fri, 24 Jul 2026 07:02:43 +0000",
+      "title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+      "summary": "Article URL: https://militarywatchmagazine.com/\nComments URL: https://news.ycombinator.com/item?id=49034895\nPoints: 8\n# Comments: 0",
+      "link": "https://militarywatchmagazine.com/",
+      "published": "Fri, 24 Jul 2026 12:55:47 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.601807"
+      "crawled_at": "2026-07-24T13:15:13.408488"
     },
     {
       "source": "hackernews",
-      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvg9n2y61w6o\nComments URL: https://news.ycombinator.com/item?id=49031917\nPoints: 32\n# Comments: 21",
-      "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
-      "published": "Fri, 24 Jul 2026 06:36:50 +0000",
+      "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
+      "summary": "Article URL: https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math\nComments URL: https://news.ycombinator.com/item?id=49034838\nPoints: 9\n# Comments: 0",
+      "link": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
+      "published": "Fri, 24 Jul 2026 12:51:13 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.601845"
+      "crawled_at": "2026-07-24T13:15:13.408542"
     },
     {
       "source": "hackernews",
-      "title": "Flux 3",
-      "summary": "Article URL: https://bfl.ai/blog/flux-3\nComments URL: https://news.ycombinator.com/item?id=49031796\nPoints: 130\n# Comments: 27",
-      "link": "https://bfl.ai/blog/flux-3",
-      "published": "Fri, 24 Jul 2026 06:17:08 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.601870"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Visual 6502",
-      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 86\n# Comments: 22",
-      "link": "http://visual6502.org/JSSim/index.html",
-      "published": "Thu, 23 Jul 2026 23:36:42 +0000",
+      "title": "Em dashes are fucking amazing",
+      "summary": "Article URL: https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing\nComments URL: https://news.ycombinator.com/item?id=49034747\nPoints: 5\n# Comments: 1",
+      "link": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "published": "Fri, 24 Jul 2026 12:40:27 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.601900"
+      "crawled_at": "2026-07-24T13:15:13.408594"
     },
     {
       "source": "hackernews",
-      "title": "98.css",
-      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 442\n# Comments: 105",
-      "link": "https://jdan.github.io/98.css/#status-bar",
-      "published": "Thu, 23 Jul 2026 22:30:29 +0000",
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+      "summary": "Article URL: https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/\nComments URL: https://news.ycombinator.com/item?id=49034673\nPoints: 6\n# Comments: 2",
+      "link": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "published": "Fri, 24 Jul 2026 12:34:28 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-24T13:15:13.408647"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "summary": "Article URL: https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing\nComments URL: https://news.ycombinator.com/item?id=49034468\nPoints: 4\n# Comments: 0",
+      "link": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+      "published": "Fri, 24 Jul 2026 12:15:11 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-24T13:15:13.408695"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "published": "Fri, 24 Jul 2026 11:20:43 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.601931"
+      "crawled_at": "2026-07-24T13:15:13.490892"
     },
     {
       "source": "arstechnica",
@@ -215,7 +225,7 @@
         "Windows"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.774318"
+      "crawled_at": "2026-07-24T13:15:13.490923"
     },
     {
       "source": "arstechnica",
@@ -228,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.774347"
+      "crawled_at": "2026-07-24T13:15:13.490946"
     },
     {
       "source": "arstechnica",
@@ -243,7 +253,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.774371"
+      "crawled_at": "2026-07-24T13:15:13.490968"
     },
     {
       "source": "arstechnica",
@@ -256,83 +266,67 @@
         "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.774392"
+      "crawled_at": "2026-07-24T13:15:13.490988"
     },
     {
-      "source": "arstechnica",
-      "title": "Final Coyote vs. Acme trailer drops at SDCC",
-      "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
-      "link": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-      "published": "Thu, 23 Jul 2026 18:01:46 +0000",
+      "source": "wired",
+      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
+      "summary": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
+      "link": "https://www.wired.com/gallery/best-window-air-conditioners/",
+      "published": "Fri, 24 Jul 2026 11:37:00 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T13:15:13.623047"
+    },
+    {
+      "source": "wired",
+      "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
+      "summary": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
+      "link": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
+      "published": "Fri, 24 Jul 2026 11:01:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T13:15:13.623095"
+    },
+    {
+      "source": "wired",
+      "title": "What Is Entropy, Really?",
+      "summary": "Never mind the “heat death of the universe.” Entropy is just a bridge between two levels of reality.",
+      "link": "https://www.wired.com/story/what-is-entropy-really/",
+      "published": "Fri, 24 Jul 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T13:15:13.623129"
+    },
+    {
+      "source": "wired",
+      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
+      "summary": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
+      "link": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
+      "published": "Fri, 24 Jul 2026 10:30:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.774415"
+      "crawled_at": "2026-07-24T13:15:13.623163"
     },
     {
       "source": "wired",
-      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
-      "summary": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
-      "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
-      "published": "Thu, 23 Jul 2026 23:45:12 +0000",
-      "keywords": [
-        "REST"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.934320"
-    },
-    {
-      "source": "wired",
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-      "published": "Thu, 23 Jul 2026 18:45:52 +0000",
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "published": "Fri, 24 Jul 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Meta",
+        "IoT",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.934379"
-    },
-    {
-      "source": "wired",
-      "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
-      "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
-      "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
-      "published": "Thu, 23 Jul 2026 18:18:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.934444"
-    },
-    {
-      "source": "wired",
-      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
-      "summary": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
-      "link": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
-      "published": "Thu, 23 Jul 2026 16:51:52 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-24T08:04:59.934486"
-    },
-    {
-      "source": "wired",
-      "title": "22 Back-to-School College Dorm Room Essentials (2026)",
-      "summary": "Deck out your room and make class a cinch with these WIRED-tested favorites.",
-      "link": "https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/",
-      "published": "Thu, 23 Jul 2026 12:01:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-24T08:04:59.934529"
+      "crawled_at": "2026-07-24T13:15:13.623191"
     }
   ]
 }
