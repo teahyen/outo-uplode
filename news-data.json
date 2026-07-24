@@ -1,78 +1,130 @@
 {
-  "last_updated": "2026-07-23T18:56:59.128284",
+  "last_updated": "2026-07-24T01:42:16.929382",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "published": "Thu, 23 Jul 2026 18:38:34 +0000",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "published": "Fri, 24 Jul 2026 01:00:00 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Security",
-        "Funding",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.189860"
-    },
-    {
-      "source": "techcrunch",
-      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
-      "summary": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
-      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
-      "published": "Thu, 23 Jul 2026 17:27:08 +0000",
-      "keywords": [
-        "Go",
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-07-23T18:56:58.189900"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "published": "Thu, 23 Jul 2026 17:07:35 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.189930"
-    },
-    {
-      "source": "techcrunch",
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "published": "Thu, 23 Jul 2026 17:00:00 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
         "OpenAI",
-        "Apple"
+        "Anthropic",
+        "Security",
+        "Cybersecurity"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.189952"
+      "crawled_at": "2026-07-24T01:42:11.244441"
     },
     {
       "source": "techcrunch",
-      "title": "Tesla’s robotaxis are moving in reverse",
-      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
-      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "published": "Thu, 23 Jul 2026 16:29:59 +0000",
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "published": "Fri, 24 Jul 2026 00:05:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-07-24T01:42:11.244500"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "summary": "Shashua has been invited to take the chairman of the board seat.",
+      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "published": "Thu, 23 Jul 2026 22:40:08 +0000",
       "keywords": [
         "AI",
-        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.190404"
+      "crawled_at": "2026-07-24T01:42:11.244528"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "published": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "keywords": [
+        "AI",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:11.244556"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Patreon lays off 20% of its workforce",
+      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "published": "Thu, 23 Jul 2026 20:30:07 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:11.244584"
+    },
+    {
+      "source": "theverge",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "published": "2026-07-23T17:15:06-04:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:11.304946"
+    },
+    {
+      "source": "theverge",
+      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "summary": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;",
+      "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "published": "2026-07-23T16:36:40-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T01:42:11.305013"
+    },
+    {
+      "source": "theverge",
+      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+      "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about",
+      "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+      "published": "2026-07-23T15:46:11-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:11.305061"
+    },
+    {
+      "source": "theverge",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it wa",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "published": "2026-07-23T15:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:11.305104"
     },
     {
       "source": "theverge",
@@ -85,128 +137,128 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.294855"
-    },
-    {
-      "source": "theverge",
-      "title": "Corsair’s PC case with a panoramic glass design is $70 off",
-      "summary": "On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. The versatile case supports motherboards up to EATX, GPUs up to 460mm in length, and has a seamless [&#8",
-      "link": "https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale",
-      "published": "2026-07-23T13:20:00-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.294910"
-    },
-    {
-      "source": "theverge",
-      "title": "Tesla’s robotaxi promises are clashing with reality",
-      "summary": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent ",
-      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
-      "published": "2026-07-23T13:09:31-04:00",
-      "keywords": [
-        "AI",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.294955"
-    },
-    {
-      "source": "theverge",
-      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-      "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs and GPUs to crunch through. It otherwise looks and acts just l",
-      "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-      "published": "2026-07-23T13:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-07-23T18:56:58.295005"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "published": "2026-07-23T13:00:00-04:00",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.295039"
+      "crawled_at": "2026-07-24T01:42:11.305140"
     },
     {
       "source": "hackernews",
-      "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-      "summary": "Article URL: https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/\nComments URL: https://news.ycombinator.com/item?id=49026059\nPoints: 5\n# Comments: 0",
-      "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-      "published": "Thu, 23 Jul 2026 18:29:22 +0000",
+      "title": "The Visual 6502",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 36\n# Comments: 12",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "published": "Thu, 23 Jul 2026 23:36:42 +0000",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T01:42:16.634692"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 46\n# Comments: 34",
+      "link": "https://arxiv.org/abs/2507.09369",
+      "published": "Thu, 23 Jul 2026 22:51:13 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.821523"
+      "crawled_at": "2026-07-24T01:42:16.634731"
+    },
+    {
+      "source": "hackernews",
+      "title": "98.css",
+      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 196\n# Comments: 33",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "published": "Thu, 23 Jul 2026 22:30:29 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-24T01:42:16.634763"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "summary": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and r",
+      "link": "https://news.ycombinator.com/item?id=49026810",
+      "published": "Thu, 23 Jul 2026 19:26:01 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:16.634973"
     },
     {
       "source": "hackernews",
       "title": "Building on ATProto",
-      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 21\n# Comments: 1",
+      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 124\n# Comments: 59",
       "link": "https://lukekanies.com/writing/building-on-atproto/",
       "published": "Thu, 23 Jul 2026 18:23:50 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:58.821566"
+      "crawled_at": "2026-07-24T01:42:16.635009"
     },
     {
-      "source": "hackernews",
-      "title": "A solid-state “atomic channel” for separating rare earth elements",
-      "summary": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements\nComments URL: https://news.ycombinator.com/item?id=49025831\nPoints: 6\n# Comments: 0",
-      "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "published": "Thu, 23 Jul 2026 18:13:03 +0000",
+      "source": "arstechnica",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "published": "Thu, 23 Jul 2026 20:47:33 +0000",
       "keywords": [
-        "Go",
-        "AR"
+        "AI",
+        "Microsoft",
+        "Windows"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:58.821620"
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:16.822430"
     },
     {
-      "source": "hackernews",
-      "title": "Geekbench 7",
-      "summary": "Article URL: https://www.geekbench.com/blog/2026/07/geekbench-7/\nComments URL: https://news.ycombinator.com/item?id=49025812\nPoints: 11\n# Comments: 5",
-      "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-      "published": "Thu, 23 Jul 2026 18:11:46 +0000",
+      "source": "arstechnica",
+      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "summary": "The FDA hasn't said where the cases are or how they're linked.",
+      "link": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+      "published": "Thu, 23 Jul 2026 19:22:36 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:58.821651"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-      "summary": "Article URL: https://github.com/izeigerman/claude-thermos\nComments URL: https://news.ycombinator.com/item?id=49024882\nPoints: 16\n# Comments: 15",
-      "link": "https://github.com/izeigerman/claude-thermos",
-      "published": "Thu, 23 Jul 2026 17:06:22 +0000",
-      "keywords": [
-        "Claude",
-        "Git",
-        "GitHub",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.821687"
+      "crawled_at": "2026-07-24T01:42:16.822460"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "published": "Thu, 23 Jul 2026 19:14:25 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:16.822484"
+    },
+    {
+      "source": "arstechnica",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "published": "Thu, 23 Jul 2026 19:08:01 +0000",
+      "keywords": [
+        "AI",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-24T01:42:16.822506"
     },
     {
       "source": "arstechnica",
@@ -218,61 +270,19 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.951324"
+      "crawled_at": "2026-07-24T01:42:16.822528"
     },
     {
-      "source": "arstechnica",
-      "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
-      "summary": "The case provides a novel report of the emergence of heterovirulence.",
-      "link": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
-      "published": "Thu, 23 Jul 2026 16:58:26 +0000",
+      "source": "wired",
+      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+      "summary": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
+      "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+      "published": "Thu, 23 Jul 2026 23:45:12 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.951355"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-      "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-      "published": "Thu, 23 Jul 2026 16:41:36 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Git",
-        "AR"
+        "REST"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:58.951397"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Sony's decision to ditch discs was practically inevitable, data shows",
-      "summary": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
-      "link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
-      "published": "Thu, 23 Jul 2026 16:25:46 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:58.951425"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
-      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "published": "Thu, 23 Jul 2026 16:04:19 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:58.951448"
+      "crawled_at": "2026-07-24T01:42:16.929135"
     },
     {
       "source": "wired",
@@ -287,7 +297,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:59.128031"
+      "crawled_at": "2026-07-24T01:42:16.929175"
     },
     {
       "source": "wired",
@@ -299,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:59.128081"
+      "crawled_at": "2026-07-24T01:42:16.929217"
     },
     {
       "source": "wired",
@@ -314,7 +324,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:59.128108"
+      "crawled_at": "2026-07-24T01:42:16.929246"
     },
     {
       "source": "wired",
@@ -324,19 +334,7 @@
       "published": "Thu, 23 Jul 2026 12:01:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-23T18:56:59.128136"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Vacuum for Pet Hair—We Tested Many to Find Which Ones Work Best (2026)",
-      "summary": "Cordless, handheld, robot, and traditional—we tested them all to find the vacuum that’s fantastic for fur.",
-      "link": "https://www.wired.com/gallery/best-pet-hair-vacuums/",
-      "published": "Thu, 23 Jul 2026 11:33:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-23T18:56:59.128164"
+      "crawled_at": "2026-07-24T01:42:16.929275"
     }
   ]
 }
