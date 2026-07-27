@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-07-27T09:26:40.235739",
+  "last_updated": "2026-07-27T14:07:54.655275",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Snapchat now lets you share what you’re listening to in real time",
+      "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-27T14:07:53.725504"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-27T14:07:53.725553"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-27T14:07:53.725605"
+    },
     {
       "source": "techcrunch",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -13,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.183889"
+      "crawled_at": "2026-07-27T14:07:53.725637"
     },
     {
       "source": "techcrunch",
@@ -27,44 +69,36 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-27T09:26:39.183947"
+      "crawled_at": "2026-07-27T14:07:53.725677"
     },
     {
-      "source": "techcrunch",
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "published": "Sun, 26 Jul 2026 19:40:57 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.183976"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Inside one London founder house rewriting the founder-house rules",
-      "summary": "How one founder house is betting work-life balance can beat burnout .",
-      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "published": "Sun, 26 Jul 2026 17:03:19 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.184004"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "published": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "source": "theverge",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "published": "2026-07-27T08:06:22-04:00",
       "keywords": [
         "AI",
         "OpenAI",
-        "Hack",
-        "AR"
+        "Anthropic",
+        "Go",
+        "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.184035"
+      "crawled_at": "2026-07-27T14:07:53.844812"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta is royally screwing up its smart glasses rollout",
+      "summary": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance pred",
+      "link": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+      "published": "2026-07-27T08:00:00-04:00",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-27T14:07:53.844880"
     },
     {
       "source": "theverge",
@@ -78,7 +112,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-27T09:26:39.386195"
+      "crawled_at": "2026-07-27T14:07:53.844928"
     },
     {
       "source": "theverge",
@@ -92,7 +126,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-27T09:26:39.386247"
+      "crawled_at": "2026-07-27T14:07:53.844971"
     },
     {
       "source": "theverge",
@@ -106,103 +140,82 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.386284"
-    },
-    {
-      "source": "theverge",
-      "title": "Carrie is just trying to make a friend in the new trailer",
-      "summary": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes, though it",
-      "link": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
-      "published": "2026-07-26T11:33:27-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.386315"
-    },
-    {
-      "source": "theverge",
-      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
-      "summary": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a three-month subscription (valued at $69) by grabbing a digital code at Eneba that costs $39.01 at th",
-      "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
-      "published": "2026-07-26T11:00:00-04:00",
-      "keywords": [
-        "Microsoft",
-        "Git"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-27T09:26:39.386369"
+      "crawled_at": "2026-07-27T14:07:53.845007"
     },
     {
       "source": "hackernews",
-      "title": "How Unix spell ran in 64 kB of RAM",
-      "summary": "Article URL: https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram\nComments URL: https://news.ycombinator.com/item?id=49066750\nPoints: 4\n# Comments: 0",
-      "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-      "published": "Mon, 27 Jul 2026 08:43:11 +0000",
+      "title": "Should you wash your solar panels?",
+      "summary": "Article URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html\nComments URL: https://news.ycombinator.com/item?id=49069132\nPoints: 23\n# Comments: 8",
+      "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "published": "Mon, 27 Jul 2026 13:04:11 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.798972"
+      "crawled_at": "2026-07-27T14:07:54.367489"
     },
     {
       "source": "hackernews",
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3\nComments URL: https://news.ycombinator.com/item?id=49065752\nPoints: 241\n# Comments: 85",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "published": "Mon, 27 Jul 2026 06:18:10 +0000",
+      "title": "AI companies are shredding rare books",
+      "summary": "Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565\nComments URL: https://news.ycombinator.com/item?id=49068738\nPoints: 232\n# Comments: 127",
+      "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "published": "Mon, 27 Jul 2026 12:32:12 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.799006"
+      "crawled_at": "2026-07-27T14:07:54.367523"
     },
     {
       "source": "hackernews",
-      "title": "PGSimCity - How PostgreSQL Works",
-      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 559\n# Comments: 56",
-      "link": "https://nikolays.github.io/PGSimCity/",
-      "published": "Mon, 27 Jul 2026 00:19:04 +0000",
-      "keywords": [
-        "SQL",
-        "PostgreSQL",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.799040"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fonts In Use – Find out where a font is used",
-      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 64\n# Comments: 4",
-      "link": "https://fontsinuse.com/",
-      "published": "Sun, 26 Jul 2026 23:45:09 +0000",
+      "title": "The Proof Machine (2016)",
+      "summary": "Article URL: https://incredible.pm/\nComments URL: https://news.ycombinator.com/item?id=49068711\nPoints: 11\n# Comments: 0",
+      "link": "https://incredible.pm/",
+      "published": "Mon, 27 Jul 2026 12:29:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.799087"
+      "crawled_at": "2026-07-27T14:07:54.367556"
     },
     {
       "source": "hackernews",
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 158\n# Comments: 81",
-      "link": "https://github.com/vercel-labs/scriptc",
-      "published": "Sun, 26 Jul 2026 22:46:10 +0000",
+      "title": "Worse on Purpose",
+      "summary": "Article URL: https://ledger.worseonpurpose.com/brands\nComments URL: https://news.ycombinator.com/item?id=49068707\nPoints: 50\n# Comments: 16",
+      "link": "https://ledger.worseonpurpose.com/brands",
+      "published": "Mon, 27 Jul 2026 12:29:14 +0000",
       "keywords": [
-        "JavaScript",
-        "TypeScript",
-        "Java",
-        "Git",
-        "GitHub"
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-27T09:26:39.799117"
+      "category": "Tech News",
+      "crawled_at": "2026-07-27T14:07:54.367587"
+    },
+    {
+      "source": "hackernews",
+      "title": "Elevated errors on Claude Opus 5",
+      "summary": "Article URL: https://status.claude.com/incidents/mfdtrknpxghq\nComments URL: https://news.ycombinator.com/item?id=49068029\nPoints: 40\n# Comments: 40",
+      "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "published": "Mon, 27 Jul 2026 11:32:32 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-27T14:07:54.367614"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "published": "Mon, 27 Jul 2026 10:50:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-27T14:07:54.487520"
     },
     {
       "source": "arstechnica",
@@ -216,7 +229,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.989925"
+      "crawled_at": "2026-07-27T14:07:54.487554"
     },
     {
       "source": "arstechnica",
@@ -229,7 +242,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:39.989956"
+      "crawled_at": "2026-07-27T14:07:54.487579"
     },
     {
       "source": "arstechnica",
@@ -241,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.989986"
+      "crawled_at": "2026-07-27T14:07:54.487610"
     },
     {
       "source": "arstechnica",
@@ -253,82 +266,68 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.990014"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "published": "Sat, 25 Jul 2026 10:45:32 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:39.990042"
+      "crawled_at": "2026-07-27T14:07:54.487638"
     },
     {
       "source": "wired",
-      "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
-      "summary": "I tested the Soundcore Nebula P1i, an affordable projector, to see if it could overcome the typical drawbacks that most budget projectors suffer from.",
-      "link": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
-      "published": "Mon, 27 Jul 2026 09:00:00 +0000",
+      "title": "The 10 Best WIRED-Tested Handheld Vacuums of 2026",
+      "summary": "Lightweight, powerful, and generally inexpensive, the handheld vacuum is the perfect household helper.",
+      "link": "https://www.wired.com/gallery/the-best-handheld-vacuum/",
+      "published": "Mon, 27 Jul 2026 11:03:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:40.235462"
+      "crawled_at": "2026-07-27T14:07:54.655006"
     },
     {
       "source": "wired",
-      "title": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
-      "summary": "Black holes eject powerful energy jets that blow away the surrounding gas to great distances. So how can they continue to grow?",
-      "link": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
-      "published": "Mon, 27 Jul 2026 09:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:40.235516"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-      "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-      "link": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-      "published": "Sun, 26 Jul 2026 11:09:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:40.235544"
-    },
-    {
-      "source": "wired",
-      "title": "All the Ways You Can Make Reading on Your Phone Easier",
-      "summary": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
-      "link": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
-      "published": "Sun, 26 Jul 2026 11:00:00 +0000",
+      "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+      "summary": "Ads on Instagram, TikTok, and YouTube are painting prescription stimulants in a negative light while promoting supplements for ADHD that lack evidence.",
+      "link": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
+      "published": "Mon, 27 Jul 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-27T09:26:40.235566"
+      "crawled_at": "2026-07-27T14:07:54.655057"
     },
     {
       "source": "wired",
-      "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-      "summary": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
-      "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
-      "published": "Sun, 26 Jul 2026 10:45:00 +0000",
+      "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
+      "summary": "A svelte smart ring can track important activity, sleep, and health metrics. Plus, unlike most smartwatches, it doesn’t need to be charged every day.",
+      "link": "https://www.wired.com/gallery/best-smart-rings/",
+      "published": "Mon, 27 Jul 2026 10:35:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-27T09:26:40.235600"
+      "crawled_at": "2026-07-27T14:07:54.655100"
+    },
+    {
+      "source": "wired",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-27T14:07:54.655130"
+    },
+    {
+      "source": "wired",
+      "title": "Best Laptops for College Students (2026): MacBooks and Beyond",
+      "summary": "Laptops for college should be portable, offer long battery life, and be well priced. Based on testing hundreds of laptops, these are my top picks.",
+      "link": "https://www.wired.com/story/best-college-laptops/",
+      "published": "Mon, 27 Jul 2026 09:31:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-27T14:07:54.655163"
     }
   ]
 }
