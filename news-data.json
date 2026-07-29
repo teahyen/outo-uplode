@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T01:27:14.669627",
+  "last_updated": "2026-07-29T08:17:03.885261",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:13.557688"
+      "crawled_at": "2026-07-29T08:17:02.995767"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:13.557723"
+      "crawled_at": "2026-07-29T08:17:02.995805"
     },
     {
       "source": "techcrunch",
@@ -42,7 +42,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-07-29T01:27:13.557756"
+      "crawled_at": "2026-07-29T08:17:02.995841"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "Security"
       ],
       "category": "Security",
-      "crawled_at": "2026-07-29T01:27:13.557783"
+      "crawled_at": "2026-07-29T08:17:02.995868"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-07-29T01:27:13.558074"
+      "crawled_at": "2026-07-29T08:17:02.995918"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-07-29T01:27:13.702822"
+      "crawled_at": "2026-07-29T08:17:03.126259"
     },
     {
       "source": "theverge",
@@ -95,7 +95,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:13.702891"
+      "crawled_at": "2026-07-29T08:17:03.126309"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:13.702939"
+      "crawled_at": "2026-07-29T08:17:03.126361"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:13.702973"
+      "crawled_at": "2026-07-29T08:17:03.126398"
     },
     {
       "source": "theverge",
@@ -136,72 +136,84 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:13.703007"
+      "crawled_at": "2026-07-29T08:17:03.126449"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-      "summary": "Hi HN,I'm new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves my micro-blog (I started just right after publishing the project hehe). The project is intentionally small and one-file co",
-      "link": "https://andreadimatteo.com/md-to-html-compiler.html",
-      "published": "Wed, 29 Jul 2026 01:04:30 +0000",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\nComments URL: https://news.ycombinator.com/item?id=49093569\nPoints: 138\n# Comments: 40",
+      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "published": "Wed, 29 Jul 2026 04:58:46 +0000",
       "keywords": [
         "AI",
-        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.144574"
+      "crawled_at": "2026-07-29T08:17:03.635193"
     },
     {
       "source": "hackernews",
-      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "summary": "Article URL: https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf\nComments URL: https://news.ycombinator.com/item?id=49091994\nPoints: 4\n# Comments: 0",
-      "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-      "published": "Wed, 29 Jul 2026 00:44:26 +0000",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\nComments URL: https://news.ycombinator.com/item?id=49093435\nPoints: 35\n# Comments: 8",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "published": "Wed, 29 Jul 2026 04:30:47 +0000",
+      "keywords": [
+        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-29T08:17:03.635248"
+    },
+    {
+      "source": "hackernews",
+      "title": "User Interfaces of the Demo Scene",
+      "summary": "Article URL: https://www.datagubbe.se/scenegui/\nComments URL: https://news.ycombinator.com/item?id=49093434\nPoints: 125\n# Comments: 21",
+      "link": "https://www.datagubbe.se/scenegui/",
+      "published": "Wed, 29 Jul 2026 04:30:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-29T08:17:03.635285"
+    },
+    {
+      "source": "hackernews",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "summary": "Article URL: https://transformer-transformer.github.io/\nComments URL: https://news.ycombinator.com/item?id=49093232\nPoints: 45\n# Comments: 1",
+      "link": "https://transformer-transformer.github.io/",
+      "published": "Wed, 29 Jul 2026 03:52:29 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-29T08:17:03.635325"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hooray for the Sockets Interface",
+      "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 27\n# Comments: 16",
+      "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "published": "Wed, 29 Jul 2026 02:25:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-29T08:17:03.635363"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+      "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+      "published": "Wed, 29 Jul 2026 01:00:36 +0000",
       "keywords": [
         "Go",
-        "5G",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.144619"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-      "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\nComments URL: https://news.ycombinator.com/item?id=49091895\nPoints: 5\n# Comments: 0",
-      "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-      "published": "Wed, 29 Jul 2026 00:32:08 +0000",
-      "keywords": [
-        "VR",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.144657"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Difference Between a Button and a Link",
-      "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/\nComments URL: https://news.ycombinator.com/item?id=49091738\nPoints: 18\n# Comments: 3",
-      "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "published": "Wed, 29 Jul 2026 00:12:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.144690"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "summary": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 22\n# Comments: 3",
-      "link": "https://www.hubble.md/",
-      "published": "Wed, 29 Jul 2026 00:11:23 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-29T01:27:14.144720"
+      "crawled_at": "2026-07-29T08:17:03.736241"
     },
     {
       "source": "arstechnica",
@@ -215,7 +227,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.408809"
+      "crawled_at": "2026-07-29T08:17:03.736275"
     },
     {
       "source": "arstechnica",
@@ -227,7 +239,7 @@
         "IoT"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.408847"
+      "crawled_at": "2026-07-29T08:17:03.736308"
     },
     {
       "source": "arstechnica",
@@ -242,7 +254,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.408905"
+      "crawled_at": "2026-07-29T08:17:03.736331"
     },
     {
       "source": "arstechnica",
@@ -255,84 +267,59 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.408941"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
-      "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
-      "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-      "published": "Tue, 28 Jul 2026 20:51:45 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.408981"
+      "crawled_at": "2026-07-29T08:17:03.736353"
     },
     {
       "source": "wired",
-      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "published": "Wed, 29 Jul 2026 00:15:30 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.669417"
+      "title": "LG Promo Codes and Coupons for July 2026",
+      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-29T08:17:03.885057"
     },
     {
       "source": "wired",
-      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
-      "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and convicted the wrong man.",
-      "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
-      "published": "Tue, 28 Jul 2026 23:30:00 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.669461"
+      "title": "Therabody Promo Codes: 15% Off July 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-29T08:17:03.885103"
     },
     {
       "source": "wired",
-      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-      "summary": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
-      "link": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
-      "published": "Tue, 28 Jul 2026 20:15:19 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.669489"
+      "title": "Zoro Coupon Codes: 55% Off July",
+      "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-29T08:17:03.885130"
     },
     {
       "source": "wired",
-      "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
-      "summary": "Donald Trump’s base has been increasingly spilt. Laura Loomer’s sudden embrace of Ukraine has only widened that divide.",
-      "link": "https://www.wired.com/story/laura-loomer-ukraine/",
-      "published": "Tue, 28 Jul 2026 19:30:33 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-29T01:27:14.669517"
+      "title": "B&H Photo Promo Codes and Deals This July 2026",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-07-29T08:17:03.885153"
     },
     {
       "source": "wired",
-      "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
-      "summary": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
-      "link": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
-      "published": "Tue, 28 Jul 2026 14:00:00 +0000",
+      "title": "Surfshark Promo Codes: 87% Off | July 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "link": "https://www.wired.com/story/surfshark-coupon/",
+      "published": "Wed, 29 Jul 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-29T01:27:14.669547"
+      "category": "Programming",
+      "crawled_at": "2026-07-29T08:17:03.885174"
     }
   ]
 }
