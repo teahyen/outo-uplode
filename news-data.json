@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-31T08:31:10.714083",
+  "last_updated": "2026-07-31T13:28:37.291851",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "published": "Fri, 31 Jul 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T13:28:36.581502"
+    },
     {
       "source": "techcrunch",
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -16,7 +31,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.812123"
+      "crawled_at": "2026-07-31T13:28:36.581529"
     },
     {
       "source": "techcrunch",
@@ -29,7 +44,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.812393"
+      "crawled_at": "2026-07-31T13:28:36.581556"
     },
     {
       "source": "techcrunch",
@@ -44,7 +59,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.812437"
+      "crawled_at": "2026-07-31T13:28:36.581582"
     },
     {
       "source": "techcrunch",
@@ -59,21 +74,60 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.812469"
+      "crawled_at": "2026-07-31T13:28:36.581604"
     },
     {
-      "source": "techcrunch",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "published": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "source": "theverge",
+      "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
+      "summary": "Dungeons &#38; Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced that D&#38;D: World of Warcraft - a new sourcebook that brings Blizzard's Azeroth ",
+      "link": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+      "published": "2026-07-31T08:31:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:36.724804"
+    },
+    {
+      "source": "theverge",
+      "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
+      "summary": "The refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage tables in the room. The only tattoo gun on the premises sat in a display case instead of buzzing [&#8230",
+      "link": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+      "published": "2026-07-31T08:01:00-04:00",
       "keywords": [
         "AI",
-        "Amazon",
-        "Cloud"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.812496"
+      "crawled_at": "2026-07-31T13:28:36.724839"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
+      "summary": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorsese and Steven Spielberg even returned as executive producers on the project), wh",
+      "link": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
+      "published": "2026-07-31T08:00:00-04:00",
+      "keywords": [
+        "Rust",
+        "Apple",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-31T13:28:36.724874"
+    },
+    {
+      "source": "theverge",
+      "title": "Sony pushes forward with ditching discs, despite backlash",
+      "summary": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer Lin Tao said that while the company \"put in a lot of thought and time\" when con",
+      "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+      "published": "2026-07-31T06:40:54-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T13:28:36.724899"
     },
     {
       "source": "theverge",
@@ -88,131 +142,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.976856"
+      "crawled_at": "2026-07-31T13:28:36.724921"
     },
     {
-      "source": "theverge",
-      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230",
-      "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "published": "2026-07-30T18:10:13-04:00",
+      "source": "hackernews",
+      "title": "Ruby Central's Destructive Legacy",
+      "summary": "Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/\nComments URL: https://news.ycombinator.com/item?id=49122105\nPoints: 16\n# Comments: 6",
+      "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+      "published": "Fri, 31 Jul 2026 12:10:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:36.991693"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49122034\nPoints: 0\n# Comments: 0",
+      "link": "https://tasklet.ai/careers/customer-success-engineer",
+      "published": "Fri, 31 Jul 2026 12:00:59 +0000",
       "keywords": [
         "AI",
-        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:08.976901"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the comp",
-      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-      "published": "2026-07-30T16:49:32-04:00",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-31T08:31:08.976952"
-    },
-    {
-      "source": "theverge",
-      "title": "The loss of Situational Awareness",
-      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "published": "2026-07-30T16:46:25-04:00",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:08.976993"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
-      "summary": "The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or graphite, two wireless fast chargers for the watch, and a $50 Costco gift card, all for $339.99 — [&#8",
-      "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
-      "published": "2026-07-30T15:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:08.977050"
+      "crawled_at": "2026-07-31T13:28:36.991723"
     },
     {
       "source": "hackernews",
-      "title": "DeepSeek-V4-Flash Update",
-      "summary": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 163\n# Comments: 56",
-      "link": "https://api-docs.deepseek.com/updates/",
-      "published": "Fri, 31 Jul 2026 06:08:36 +0000",
+      "title": "The End of an Era",
+      "summary": "Article URL: https://hughhowey.com/the-end-of-an-era/\nComments URL: https://news.ycombinator.com/item?id=49121980\nPoints: 126\n# Comments: 109",
+      "link": "https://hughhowey.com/the-end-of-an-era/",
+      "published": "Fri, 31 Jul 2026 11:51:46 +0000",
       "keywords": [
-        "API",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:10.342813"
+      "crawled_at": "2026-07-31T13:28:36.991747"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-      "summary": "Hi HN,I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free ",
-      "link": "https://github.com/mokshablr/gander",
-      "published": "Fri, 31 Jul 2026 05:45:13 +0000",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga\nComments URL: https://news.ycombinator.com/item?id=49120299\nPoints: 138\n# Comments: 52",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "published": "Fri, 31 Jul 2026 07:59:11 +0000",
       "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T13:28:36.991769"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/\nComments URL: https://news.ycombinator.com/item?id=49120097\nPoints: 197\n# Comments: 208",
+      "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+      "keywords": [
+        "AI",
         "Go",
-        "Android",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-07-31T08:31:10.342917"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:C:\\> DIRC:\\> ",
-      "link": "https://marbleos.com/demo",
-      "published": "Fri, 31 Jul 2026 05:17:29 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Claude",
+        "Security",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:10.343110"
-    },
-    {
-      "source": "hackernews",
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "summary": "Article URL: https://github.com/openjdk/jdk/pull/31120\nComments URL: https://news.ycombinator.com/item?id=49119063\nPoints: 85\n# Comments: 30",
-      "link": "https://github.com/openjdk/jdk/pull/31120",
-      "published": "Fri, 31 Jul 2026 04:38:19 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:10.343148"
-    },
-    {
-      "source": "hackernews",
-      "title": "The session you cannot take with you",
-      "summary": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 245\n# Comments: 52",
-      "link": "https://earendil.com/posts/session-portability/",
-      "published": "Fri, 31 Jul 2026 03:47:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:10.343182"
+      "crawled_at": "2026-07-31T13:28:36.991790"
     },
     {
       "source": "arstechnica",
@@ -224,7 +220,7 @@
         "Rust"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-31T08:31:10.512131"
+      "crawled_at": "2026-07-31T13:28:37.139399"
     },
     {
       "source": "arstechnica",
@@ -237,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:10.512162"
+      "crawled_at": "2026-07-31T13:28:37.139422"
     },
     {
       "source": "arstechnica",
@@ -250,7 +246,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:10.512194"
+      "crawled_at": "2026-07-31T13:28:37.139445"
     },
     {
       "source": "arstechnica",
@@ -263,7 +259,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:10.512222"
+      "crawled_at": "2026-07-31T13:28:37.139465"
     },
     {
       "source": "arstechnica",
@@ -275,67 +271,66 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-31T08:31:10.512249"
+      "crawled_at": "2026-07-31T13:28:37.139485"
     },
     {
       "source": "wired",
-      "title": "Mattress Firm Coupons: Save up to $700 |",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-      "link": "https://www.wired.com/story/mattress-firm-coupon/",
-      "published": "Fri, 31 Jul 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-07-31T08:31:10.713839"
-    },
-    {
-      "source": "wired",
-      "title": "SelectBlinds Promo Codes & Coupons: Save on Custom Window Treatments",
-      "summary": "Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.",
-      "link": "https://www.wired.com/story/select-blinds-promo-code/",
-      "published": "Fri, 31 Jul 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-07-31T08:31:10.713877"
-    },
-    {
-      "source": "wired",
-      "title": "Alo Discount Code: Save on Activewear August 2026",
-      "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "published": "Fri, 31 Jul 2026 05:00:00 +0000",
+      "title": "Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers",
+      "summary": "Its latest Pro headset can mix between four inputs and has improved wireless connectivity over the originals.",
+      "link": "https://www.wired.com/review/steelseries-arctis-nova-pro-omni/",
+      "published": "Fri, 31 Jul 2026 13:21:59 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-07-31T08:31:10.713908"
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:37.291686"
     },
     {
       "source": "wired",
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "published": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
+      "summary": "Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.",
+      "link": "https://www.wired.com/gallery/best-dyson-vacuums/",
+      "published": "Fri, 31 Jul 2026 12:01:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:37.291720"
+    },
+    {
+      "source": "wired",
+      "title": "6 Best Phones With Headphone Jacks (2026), Tested and Reviewed",
+      "summary": "Headphone jacks are endangered, but they’re not gone. Here are our favorite smartphones that still let you plug and play.",
+      "link": "https://www.wired.com/gallery/best-headphone-jack-phones/",
+      "published": "Fri, 31 Jul 2026 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude",
-        "Security"
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:37.291748"
+    },
+    {
+      "source": "wired",
+      "title": "Daisy One Review: Comfy and Tactile Headphones",
+      "summary": "The company’s first headphones look very stylish and have great tactile features, but underwhelm on sound quality.",
+      "link": "https://www.wired.com/review/daisy-one/",
+      "published": "Fri, 31 Jul 2026 11:00:00 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-31T08:31:10.713948"
+      "crawled_at": "2026-07-31T13:28:37.291768"
     },
     {
       "source": "wired",
-      "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
-      "summary": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
-      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
-      "published": "Thu, 30 Jul 2026 23:17:46 +0000",
+      "title": "SJY Zeph Open-Back Headphones Review: Music Through Magnets",
+      "summary": "SJY’s Zeph are brilliant wired headphones, using flippable earcups for two different takes on your favorite music.",
+      "link": "https://www.wired.com/review/sjy-zeph-open-back-planar-magnetic-headphones/",
+      "published": "Fri, 31 Jul 2026 10:30:00 +0000",
       "keywords": [
-        "REST"
+        "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-07-31T08:31:10.713989"
+      "category": "Tech News",
+      "crawled_at": "2026-07-31T13:28:37.291793"
     }
   ]
 }
