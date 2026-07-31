@@ -1,72 +1,135 @@
 {
-  "last_updated": "2026-07-30T19:06:57.740826",
+  "last_updated": "2026-07-31T01:46:40.478313",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "published": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:39.602593"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "published": "Thu, 30 Jul 2026 23:28:05 +0000",
+      "keywords": [
+        "AI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:39.603002"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "published": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:39.603051"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "published": "Thu, 30 Jul 2026 23:08:58 +0000",
       "keywords": [
         "AI",
         "Go",
         "Google",
-        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.030441"
+      "crawled_at": "2026-07-31T01:46:39.603087"
     },
     {
       "source": "techcrunch",
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "published": "Thu, 30 Jul 2026 18:38:12 +0000",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "published": "Thu, 30 Jul 2026 22:41:41 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR"
+        "Amazon",
+        "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.030485"
+      "crawled_at": "2026-07-31T01:46:39.603115"
     },
     {
-      "source": "techcrunch",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "published": "Thu, 30 Jul 2026 18:05:21 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.030524"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-      "summary": "Add another member to the fast-and-furious AI unicorn club: Simile",
-      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "published": "Thu, 30 Jul 2026 17:50:11 +0000",
+      "source": "theverge",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "published": "2026-07-30T18:29:45-04:00",
       "keywords": [
         "AI",
-        "Startup",
+        "Apple",
+        "Cloud",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.030548"
+      "crawled_at": "2026-07-31T01:46:39.753962"
     },
     {
-      "source": "techcrunch",
-      "title": "Spotify launches ‘User notes’ to let users add memories to songs",
-      "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
-      "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
-      "published": "Thu, 30 Jul 2026 17:41:25 +0000",
-      "keywords": [],
+      "source": "theverge",
+      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230",
+      "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+      "published": "2026-07-30T18:10:13-04:00",
+      "keywords": [
+        "AI",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:39.754000"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the comp",
+      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+      "published": "2026-07-30T16:49:32-04:00",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-31T01:46:39.754045"
+    },
+    {
+      "source": "theverge",
+      "title": "The loss of Situational Awareness",
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "published": "2026-07-30T16:46:25-04:00",
+      "keywords": [
+        "API",
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.030593"
+      "crawled_at": "2026-07-31T01:46:39.754083"
     },
     {
       "source": "theverge",
@@ -78,129 +141,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.098433"
-    },
-    {
-      "source": "theverge",
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "published": "2026-07-30T14:43:26-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.098482"
-    },
-    {
-      "source": "theverge",
-      "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
-      "summary": "Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and right now it’s down to $59 ($21 off) at Amazon. That’s just $4 shy of the all-time low set during Prime ",
-      "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
-      "published": "2026-07-30T14:01:26-04:00",
-      "keywords": [
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.098535"
-    },
-    {
-      "source": "theverge",
-      "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
-      "summary": "The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of the unusual terrain texture before, called polygonal fractures, each about 1.5 to 3 inches wide, but NASA",
-      "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
-      "published": "2026-07-30T13:20:06-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.098575"
-    },
-    {
-      "source": "theverge",
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announ",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "published": "2026-07-30T13:18:45-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.098616"
+      "crawled_at": "2026-07-31T01:46:39.754137"
     },
     {
       "source": "hackernews",
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "summary": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\nComments URL: https://news.ycombinator.com/item?id=49113929\nPoints: 14\n# Comments: 2",
-      "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "published": "Thu, 30 Jul 2026 18:40:52 +0000",
+      "title": "The AI Aesthetic",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 96\n# Comments: 52",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "published": "Thu, 30 Jul 2026 23:22:16 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:40.110008"
+    },
+    {
+      "source": "hackernews",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\nComments URL: https://news.ycombinator.com/item?id=49116922\nPoints: 83\n# Comments: 74",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "published": "Thu, 30 Jul 2026 23:00:51 +0000",
+      "keywords": [
+        "Anthropic",
+        "Security",
+        "Cybersecurity",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-07-31T01:46:40.110051"
+    },
+    {
+      "source": "hackernews",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=49116721\nPoints: 80\n# Comments: 27",
+      "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:40.110083"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 46\n# Comments: 13",
+      "link": "https://rune.build/blog/rune-1-1-release",
+      "published": "Thu, 30 Jul 2026 21:47:31 +0000",
+      "keywords": [
+        "Python",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-07-31T01:46:40.110112"
+    },
+    {
+      "source": "hackernews",
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\nComments URL: https://news.ycombinator.com/item?id=49116074\nPoints: 22\n# Comments: 6",
+      "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+      "published": "Thu, 30 Jul 2026 21:31:03 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.526767"
-    },
-    {
-      "source": "hackernews",
-      "title": "Postgres Queues Actually Scale",
-      "summary": "Article URL: https://www.dbos.dev/blog/making-postgres-queues-scale\nComments URL: https://news.ycombinator.com/item?id=49113913\nPoints: 12\n# Comments: 1",
-      "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-      "published": "Thu, 30 Jul 2026 18:39:32 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.526810"
-    },
-    {
-      "source": "hackernews",
-      "title": "So you want to use plants to reduce CO₂",
-      "summary": "Article URL: https://dynomight.net/plants/\nComments URL: https://news.ycombinator.com/item?id=49113801\nPoints: 8\n# Comments: 0",
-      "link": "https://dynomight.net/plants/",
-      "published": "Thu, 30 Jul 2026 18:31:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.526853"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-      "summary": "Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway\nComments URL: https://news.ycombinator.com/item?id=49113543\nPoints: 4\n# Comments: 0",
-      "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-      "published": "Thu, 30 Jul 2026 18:08:48 +0000",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.526889"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
-      "summary": "Article URL: https://tally.jiegou.ai/\nComments URL: https://news.ycombinator.com/item?id=49113381\nPoints: 4\n# Comments: 0",
-      "link": "https://tally.jiegou.ai/",
-      "published": "Thu, 30 Jul 2026 17:55:54 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.526940"
+      "crawled_at": "2026-07-31T01:46:40.110168"
     },
     {
       "source": "arstechnica",
@@ -212,7 +219,7 @@
         "Rust"
       ],
       "category": "Programming",
-      "crawled_at": "2026-07-30T19:06:57.654541"
+      "crawled_at": "2026-07-31T01:46:40.320273"
     },
     {
       "source": "arstechnica",
@@ -225,7 +232,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.654571"
+      "crawled_at": "2026-07-31T01:46:40.320303"
     },
     {
       "source": "arstechnica",
@@ -238,7 +245,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.654602"
+      "crawled_at": "2026-07-31T01:46:40.320333"
     },
     {
       "source": "arstechnica",
@@ -251,7 +258,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.654630"
+      "crawled_at": "2026-07-31T01:46:40.320361"
     },
     {
       "source": "arstechnica",
@@ -263,11 +270,68 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-07-30T19:06:57.654656"
+      "crawled_at": "2026-07-31T01:46:40.320387"
     },
     {
       "source": "wired",
-      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI's Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "published": "Fri, 31 Jul 2026 01:24:26 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:40.478092"
+    },
+    {
+      "source": "wired",
+      "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
+      "summary": "A new restriction on foreign-made mobile robots affects robotic vacuums, pool cleaners, and lawn mowers. Here’s what it means for the bots already in your home—and the ones you may never get to buy.",
+      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+      "published": "Thu, 30 Jul 2026 23:17:46 +0000",
+      "keywords": [
+        "REST"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-07-31T01:46:40.478143"
+    },
+    {
+      "source": "wired",
+      "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
+      "summary": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Tehran.",
+      "link": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
+      "published": "Thu, 30 Jul 2026 21:20:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:40.478172"
+    },
+    {
+      "source": "wired",
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+      "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "published": "Thu, 30 Jul 2026 20:12:57 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-07-31T01:46:40.478202"
+    },
+    {
+      "source": "wired",
+      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
       "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
       "published": "Thu, 30 Jul 2026 17:51:10 +0000",
@@ -278,62 +342,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.740630"
-    },
-    {
-      "source": "wired",
-      "title": "Back to School Office Chair Deals 2026: $200 and Less",
-      "summary": "Here are the best back-to-school deals under $200 on comfy, ergonomic chairs for all-nighters and cram sessions",
-      "link": "https://www.wired.com/story/back-to-school-office-chair-deals-2026/",
-      "published": "Thu, 30 Jul 2026 17:49:10 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.740660"
-    },
-    {
-      "source": "wired",
-      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
-      "summary": "The temporary exemption from federal safety standards will let Amazon’s Zoox launch a real, paid robotaxi service in Las Vegas.",
-      "link": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
-      "published": "Thu, 30 Jul 2026 17:06:13 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.740693"
-    },
-    {
-      "source": "wired",
-      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
-      "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
-      "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
-      "published": "Thu, 30 Jul 2026 17:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Vulnerability",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.740718"
-    },
-    {
-      "source": "wired",
-      "title": "The New Friend AI Pendant Can Now Talk Back to You",
-      "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
-      "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "published": "Thu, 30 Jul 2026 16:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-07-30T19:06:57.740746"
+      "crawled_at": "2026-07-31T01:46:40.478235"
     }
   ]
 }
