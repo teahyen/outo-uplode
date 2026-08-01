@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T08:01:04.767421",
+  "last_updated": "2026-08-01T12:53:37.489082",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:00:59.931369"
+      "crawled_at": "2026-08-01T12:53:35.647021"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-01T08:00:59.931415"
+      "crawled_at": "2026-08-01T12:53:35.647067"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:00:59.931458"
+      "crawled_at": "2026-08-01T12:53:35.647108"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-01T08:00:59.931485"
+      "crawled_at": "2026-08-01T12:53:35.647135"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:00:59.931513"
+      "crawled_at": "2026-08-01T12:53:35.647163"
+    },
+    {
+      "source": "theverge",
+      "title": "The OG reading app just got a big update",
+      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Al",
+      "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "published": "2026-08-01T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "Meta"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-01T12:53:35.748281"
     },
     {
       "source": "theverge",
@@ -81,7 +94,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-01T08:01:00.019887"
+      "crawled_at": "2026-08-01T12:53:35.748333"
     },
     {
       "source": "theverge",
@@ -97,7 +110,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:00.019944"
+      "crawled_at": "2026-08-01T12:53:35.748377"
     },
     {
       "source": "theverge",
@@ -113,7 +126,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:00.019981"
+      "crawled_at": "2026-08-01T12:53:35.748412"
     },
     {
       "source": "theverge",
@@ -127,89 +140,110 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:00.020017"
-    },
-    {
-      "source": "theverge",
-      "title": "Google might launch a ‘Pixel Tag’",
-      "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that describes the gadget as an item ",
-      "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-      "published": "2026-07-31T14:27:24-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Google",
-        "5G"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:00.020056"
+      "crawled_at": "2026-08-01T12:53:35.748447"
     },
     {
       "source": "hackernews",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49132058\nPoints: 16\n# Comments: 1",
-      "link": "https://openai.com/index/ten-advances-in-mathematics/",
-      "published": "Sat, 01 Aug 2026 07:37:44 +0000",
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "summary": "Article URL: https://github.com/BurntSushi/ripgrep/issues/3494\nComments URL: https://news.ycombinator.com/item?id=49133889\nPoints: 18\n# Comments: 4",
+      "link": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "published": "Sat, 01 Aug 2026 12:34:25 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.512915"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\nComments URL: https://news.ycombinator.com/item?id=49131367\nPoints: 48\n# Comments: 36",
-      "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "published": "Sat, 01 Aug 2026 05:38:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T08:01:04.512960"
-    },
-    {
-      "source": "hackernews",
-      "title": "What liberal arts education is for (2024)",
-      "summary": "Article URL: https://innig.net/teaching/liberal-arts-manifesto\nComments URL: https://news.ycombinator.com/item?id=49131034\nPoints: 38\n# Comments: 39",
-      "link": "https://innig.net/teaching/liberal-arts-manifesto",
-      "published": "Sat, 01 Aug 2026 04:28:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T08:01:04.512996"
-    },
-    {
-      "source": "hackernews",
-      "title": "The development pipeline is a production system",
-      "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\nComments URL: https://news.ycombinator.com/item?id=49130726\nPoints: 67\n# Comments: 21",
-      "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "published": "Sat, 01 Aug 2026 03:16:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T08:01:04.513034"
-    },
-    {
-      "source": "hackernews",
-      "title": "Flint: A Visualization Language for the AI Era",
-      "summary": "Article URL: https://microsoft.github.io/flint-chart/\nComments URL: https://news.ycombinator.com/item?id=49130604\nPoints: 95\n# Comments: 31",
-      "link": "https://microsoft.github.io/flint-chart/",
-      "published": "Sat, 01 Aug 2026 02:45:09 +0000",
-      "keywords": [
-        "AI",
-        "Microsoft",
         "Git",
         "GitHub",
         "AR"
       ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.227556"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+      "summary": "Article URL: https://freeaipromptgen.com/\nComments URL: https://news.ycombinator.com/item?id=49133672\nPoints: 6\n# Comments: 0",
+      "link": "https://freeaipromptgen.com/",
+      "published": "Sat, 01 Aug 2026 12:03:25 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.513062"
+      "crawled_at": "2026-08-01T12:53:37.227601"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kontigo (YC S24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\nComments URL: https://news.ycombinator.com/item?id=49133655\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "published": "Sat, 01 Aug 2026 12:00:25 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.227638"
+    },
+    {
+      "source": "hackernews",
+      "title": "RamenHaus",
+      "summary": "Article URL: https://ramen.haus/\nComments URL: https://news.ycombinator.com/item?id=49132460\nPoints: 118\n# Comments: 65",
+      "link": "https://ramen.haus/",
+      "published": "Sat, 01 Aug 2026 08:48:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.227666"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Do Great Work (2023)",
+      "summary": "Article URL: https://paulgraham.com/greatwork.html\nComments URL: https://news.ycombinator.com/item?id=49132289\nPoints: 46\n# Comments: 29",
+      "link": "https://paulgraham.com/greatwork.html",
+      "published": "Sat, 01 Aug 2026 08:19:44 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.227696"
+    },
+    {
+      "source": "arstechnica",
+      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+      "summary": "Autonomous vehicle giant disturbs residents' sleep.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+      "published": "Sat, 01 Aug 2026 11:30:54 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-01T12:53:37.355048"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Defcon's new badge is a security key you can see inside",
+      "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+      "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+      "published": "Sat, 01 Aug 2026 10:05:21 +0000",
+      "keywords": [
+        "Security",
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-01T12:53:37.355086"
+    },
+    {
+      "source": "arstechnica",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+      "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "published": "Sat, 01 Aug 2026 10:00:19 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-01T12:53:37.355111"
     },
     {
       "source": "arstechnica",
@@ -221,7 +255,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-01T08:01:04.626343"
+      "crawled_at": "2026-08-01T12:53:37.355140"
     },
     {
       "source": "arstechnica",
@@ -233,106 +267,68 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.626383"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google plans to exempt sanctioned nations from Android developer verification",
-      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-      "published": "Fri, 31 Jul 2026 21:35:56 +0000",
-      "keywords": [
-        "Go",
-        "REST",
-        "Google",
-        "Android"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-01T08:01:04.626411"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "published": "Fri, 31 Jul 2026 21:19:39 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AWS",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.626434"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "published": "Fri, 31 Jul 2026 20:39:14 +0000",
-      "keywords": [
-        "Claude",
-        "Go",
-        "Hack"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.626457"
+      "crawled_at": "2026-08-01T12:53:37.355166"
     },
     {
       "source": "wired",
-      "title": "Paramount+ Coupon Codes and Deals for August 2026",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-01T08:01:04.767166"
-    },
-    {
-      "source": "wired",
-      "title": "Valvoline Coupons and Promo Codes for August 2026",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
+      "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+      "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
+      "link": "https://www.wired.com/gallery/best-office-chairs/",
+      "published": "Sat, 01 Aug 2026 11:59:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T08:01:04.767202"
+      "crawled_at": "2026-08-01T12:53:37.488815"
     },
     {
       "source": "wired",
-      "title": "TurboTax Full Service Coupons This August",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-01T08:01:04.767241"
+      "title": "Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep",
+      "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.",
+      "link": "https://www.wired.com/story/best-organic-mattress/",
+      "published": "Sat, 01 Aug 2026 11:34:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.488856"
     },
     {
       "source": "wired",
-      "title": "Home Depot Promo Codes: 50% Off in August 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-01T08:01:04.767266"
+      "title": "China’s EV Market Is Booming. There’s Just One Problem",
+      "summary": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
+      "link": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
+      "published": "Sat, 01 Aug 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T12:53:37.488896"
     },
     {
       "source": "wired",
-      "title": "Peacock Promo Codes: 40% Off August 2026",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-01T08:01:04.767289"
+      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "published": "Sat, 01 Aug 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-01T12:53:37.488950"
+    },
+    {
+      "source": "wired",
+      "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
+      "summary": "In a world of plasticky water filter pitchers, I tested three new-generation stainless steel filter systems.",
+      "link": "https://www.wired.com/story/steel-water-filters-head-to-head/",
+      "published": "Sat, 01 Aug 2026 10:30:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-01T12:53:37.488976"
     }
   ]
 }
