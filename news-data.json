@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T01:47:50.455948",
+  "last_updated": "2026-08-01T08:01:04.767421",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.551525"
+      "crawled_at": "2026-08-01T08:00:59.931369"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-01T01:47:49.551573"
+      "crawled_at": "2026-08-01T08:00:59.931415"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.551614"
+      "crawled_at": "2026-08-01T08:00:59.931458"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-01T01:47:49.551640"
+      "crawled_at": "2026-08-01T08:00:59.931485"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.551668"
+      "crawled_at": "2026-08-01T08:00:59.931513"
     },
     {
       "source": "theverge",
@@ -81,7 +81,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-01T01:47:49.655746"
+      "crawled_at": "2026-08-01T08:01:00.019887"
     },
     {
       "source": "theverge",
@@ -97,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.655829"
+      "crawled_at": "2026-08-01T08:01:00.019944"
     },
     {
       "source": "theverge",
@@ -113,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.655868"
+      "crawled_at": "2026-08-01T08:01:00.019981"
     },
     {
       "source": "theverge",
@@ -127,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.655904"
+      "crawled_at": "2026-08-01T08:01:00.020017"
     },
     {
       "source": "theverge",
@@ -143,69 +143,73 @@
         "5G"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:49.655943"
+      "crawled_at": "2026-08-01T08:01:00.020056"
     },
     {
       "source": "hackernews",
-      "title": "How to Exist",
-      "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/\nComments URL: https://news.ycombinator.com/item?id=49129990\nPoints: 5\n# Comments: 0",
-      "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "published": "Sat, 01 Aug 2026 00:25:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.217765"
-    },
-    {
-      "source": "hackernews",
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\nComments URL: https://news.ycombinator.com/item?id=49128462\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-      "published": "Fri, 31 Jul 2026 21:00:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.217875"
-    },
-    {
-      "source": "hackernews",
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 30\n# Comments: 17",
-      "link": "https://arxiv.org/abs/2607.28233",
-      "published": "Fri, 31 Jul 2026 20:44:29 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.217940"
-    },
-    {
-      "source": "hackernews",
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "summary": "https://github.com/jwlaboratory/bite-the-bullet\n\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 25\n# Comments: 2",
-      "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "published": "Fri, 31 Jul 2026 19:55:41 +0000",
-      "keywords": [
-        "Git",
-        "GitHub"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.217981"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 447\n# Comments: 168",
-      "link": "https://tailscale.com/blog/hugging-face-intrusion",
-      "published": "Fri, 31 Jul 2026 19:03:45 +0000",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "Article URL: https://openai.com/index/ten-advances-in-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49132058\nPoints: 16\n# Comments: 1",
+      "link": "https://openai.com/index/ten-advances-in-mathematics/",
+      "published": "Sat, 01 Aug 2026 07:37:44 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.218009"
+      "crawled_at": "2026-08-01T08:01:04.512915"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\nComments URL: https://news.ycombinator.com/item?id=49131367\nPoints: 48\n# Comments: 36",
+      "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "published": "Sat, 01 Aug 2026 05:38:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T08:01:04.512960"
+    },
+    {
+      "source": "hackernews",
+      "title": "What liberal arts education is for (2024)",
+      "summary": "Article URL: https://innig.net/teaching/liberal-arts-manifesto\nComments URL: https://news.ycombinator.com/item?id=49131034\nPoints: 38\n# Comments: 39",
+      "link": "https://innig.net/teaching/liberal-arts-manifesto",
+      "published": "Sat, 01 Aug 2026 04:28:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T08:01:04.512996"
+    },
+    {
+      "source": "hackernews",
+      "title": "The development pipeline is a production system",
+      "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\nComments URL: https://news.ycombinator.com/item?id=49130726\nPoints: 67\n# Comments: 21",
+      "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "published": "Sat, 01 Aug 2026 03:16:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-01T08:01:04.513034"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "summary": "Article URL: https://microsoft.github.io/flint-chart/\nComments URL: https://news.ycombinator.com/item?id=49130604\nPoints: 95\n# Comments: 31",
+      "link": "https://microsoft.github.io/flint-chart/",
+      "published": "Sat, 01 Aug 2026 02:45:09 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-01T08:01:04.513062"
     },
     {
       "source": "arstechnica",
@@ -217,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.320721"
+      "crawled_at": "2026-08-01T08:01:04.626343"
     },
     {
       "source": "arstechnica",
@@ -229,7 +233,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.320761"
+      "crawled_at": "2026-08-01T08:01:04.626383"
     },
     {
       "source": "arstechnica",
@@ -244,7 +248,7 @@
         "Android"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-01T01:47:50.320789"
+      "crawled_at": "2026-08-01T08:01:04.626411"
     },
     {
       "source": "arstechnica",
@@ -260,7 +264,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.320852"
+      "crawled_at": "2026-08-01T08:01:04.626434"
     },
     {
       "source": "arstechnica",
@@ -274,72 +278,61 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.320879"
+      "crawled_at": "2026-08-01T08:01:04.626457"
     },
     {
       "source": "wired",
-      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
-      "summary": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
-      "link": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
-      "published": "Fri, 31 Jul 2026 23:38:56 +0000",
+      "title": "Paramount+ Coupon Codes and Deals for August 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.455628"
+      "category": "Programming",
+      "crawled_at": "2026-08-01T08:01:04.767166"
     },
     {
       "source": "wired",
-      "title": "Chinese AI Researchers Are Finding Their Voice on X",
-      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "link": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "published": "Fri, 31 Jul 2026 18:14:43 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.455665"
-    },
-    {
-      "source": "wired",
-      "title": "Can Republicans Actually Send Anthony Fauci to Jail?",
-      "summary": "MAGA is loudly calling for the former White House chief medical adviser to end up in prison. WIRED asked legal experts to weigh in on whether that’s even possible.",
-      "link": "https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/",
-      "published": "Fri, 31 Jul 2026 16:09:37 +0000",
+      "title": "Valvoline Coupons and Promo Codes for August 2026",
+      "summary": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.455699"
+      "crawled_at": "2026-08-01T08:01:04.767202"
     },
     {
       "source": "wired",
-      "title": "Best Robot Vacuum of 2026: Shark, Eufy",
-      "summary": "Tired of vacuuming? Hand the reins to a robot vacuum.",
-      "link": "https://www.wired.com/story/best-robot-vacuum/",
-      "published": "Fri, 31 Jul 2026 15:53:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-01T01:47:50.455724"
+      "title": "TurboTax Full Service Coupons This August",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-01T08:01:04.767241"
     },
     {
       "source": "wired",
-      "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-      "link": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-      "published": "Fri, 31 Jul 2026 15:00:09 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-01T01:47:50.455754"
+      "title": "Home Depot Promo Codes: 50% Off in August 2026",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-01T08:01:04.767266"
+    },
+    {
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off August 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published": "Sat, 01 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-01T08:01:04.767289"
     }
   ]
 }
