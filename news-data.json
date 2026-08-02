@@ -1,7 +1,43 @@
 {
-  "last_updated": "2026-08-02T12:55:31.434387",
+  "last_updated": "2026-08-02T18:52:22.351080",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "published": "Sun, 02 Aug 2026 17:05:07 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-02T18:52:21.639358"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "published": "Sun, 02 Aug 2026 16:05:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-02T18:52:21.639405"
+    },
+    {
+      "source": "techcrunch",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "published": "Sun, 02 Aug 2026 15:23:19 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-02T18:52:21.639451"
+    },
     {
       "source": "techcrunch",
       "title": "Inside the London hacker house taking a stand against founder burnout",
@@ -13,7 +49,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.447008"
+      "crawled_at": "2026-08-02T18:52:21.639475"
     },
     {
       "source": "techcrunch",
@@ -27,50 +63,59 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.447050"
+      "crawled_at": "2026-08-02T18:52:21.639504"
     },
     {
-      "source": "techcrunch",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "published": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "source": "theverge",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [",
+      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "published": "2026-08-02T12:14:20-04:00",
       "keywords": [
-        "AI",
-        "Go",
+        "Microsoft",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.447085"
+      "category": "Tech News",
+      "crawled_at": "2026-08-02T18:52:21.818391"
     },
     {
-      "source": "techcrunch",
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "published": "Sat, 01 Aug 2026 18:47:27 +0000",
+      "source": "theverge",
+      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on tr",
+      "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+      "published": "2026-08-02T11:00:00-04:00",
       "keywords": [
-        "Apple",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-02T12:55:30.447121"
+      "crawled_at": "2026-08-02T18:52:21.818465"
     },
     {
-      "source": "techcrunch",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "published": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "source": "theverge",
+      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+      "summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its RTX 5050 [&#8230;]",
+      "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+      "published": "2026-08-02T10:00:00-04:00",
+      "keywords": [
+        "Go",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-02T18:52:21.818526"
+    },
+    {
+      "source": "theverge",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "published": "2026-08-02T09:00:00-04:00",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.447144"
+      "crawled_at": "2026-08-02T18:52:21.818564"
     },
     {
       "source": "theverge",
@@ -85,122 +130,73 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-02T12:55:30.699125"
+      "crawled_at": "2026-08-02T18:52:21.818612"
     },
     {
-      "source": "theverge",
-      "title": "Pixel 11 specs and price leak with no surprises",
-      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&",
-      "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-      "published": "2026-08-01T17:31:24-04:00",
+      "source": "hackernews",
+      "title": "Welcome to Agents Week",
+      "summary": "Article URL: https://blog.cloudflare.com/agents-week-welcome/\nComments URL: https://news.ycombinator.com/item?id=49146982\nPoints: 3\n# Comments: 1",
+      "link": "https://blog.cloudflare.com/agents-week-welcome/",
+      "published": "Sun, 02 Aug 2026 18:24:30 +0000",
       "keywords": [
-        "AI",
-        "Android",
+        "Cloud",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.699169"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-08-02T18:52:22.128865"
     },
     {
-      "source": "theverge",
-      "title": "Angela Nissel faces down grief with a laugh",
-      "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of [&#82",
-      "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "published": "2026-08-01T16:15:00-04:00",
+      "source": "hackernews",
+      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+      "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\nComments URL: https://news.ycombinator.com/item?id=49146605\nPoints: 4\n# Comments: 0",
+      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "published": "Sun, 02 Aug 2026 17:45:51 +0000",
       "keywords": [
-        "Go",
+        "Security",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:30.699234"
+      "category": "Security",
+      "crawled_at": "2026-08-02T18:52:22.128908"
     },
     {
-      "source": "theverge",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "published": "2026-08-01T14:20:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:30.699280"
-    },
-    {
-      "source": "theverge",
-      "title": "Spider-Man: Brand New Day leak racks up millions of views",
-      "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems",
-      "link": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-      "published": "2026-08-01T13:00:12-04:00",
+      "source": "hackernews",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.See my 5 minute lightning ",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "published": "Sun, 02 Aug 2026 17:05:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:30.699324"
+      "crawled_at": "2026-08-02T18:52:22.128980"
     },
     {
       "source": "hackernews",
-      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-      "summary": "Article URL: https://twitter.com/polynoamial/status/2083467194663571701\nComments URL: https://news.ycombinator.com/item?id=49143688\nPoints: 14\n# Comments: 0",
-      "link": "https://twitter.com/polynoamial/status/2083467194663571701",
-      "published": "Sun, 02 Aug 2026 12:01:37 +0000",
+      "title": "Pushes to arch AUR are suspendended right now.",
+      "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\nComments URL: https://news.ycombinator.com/item?id=49146238\nPoints: 34\n# Comments: 7",
+      "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+      "published": "Sun, 02 Aug 2026 17:03:02 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:31.058436"
-    },
-    {
-      "source": "hackernews",
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\nComments URL: https://news.ycombinator.com/item?id=49143683\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "published": "Sun, 02 Aug 2026 12:01:00 +0000",
-      "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.058485"
+      "crawled_at": "2026-08-02T18:52:22.129020"
     },
     {
       "source": "hackernews",
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "summary": "Article URL: https://website-auditor.io/ai-visibility-index\nComments URL: https://news.ycombinator.com/item?id=49143630\nPoints: 11\n# Comments: 4",
-      "link": "https://website-auditor.io/ai-visibility-index",
-      "published": "Sun, 02 Aug 2026 11:53:52 +0000",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 56\n# Comments: 21",
+      "link": "https://github.com/wie-project/kakehashi",
+      "published": "Sun, 02 Aug 2026 16:26:40 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:31.058513"
-    },
-    {
-      "source": "hackernews",
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "summary": "Article URL: https://meshdiff.com/\nComments URL: https://news.ycombinator.com/item?id=49143479\nPoints: 42\n# Comments: 3",
-      "link": "https://meshdiff.com/",
-      "published": "Sun, 02 Aug 2026 11:34:41 +0000",
-      "keywords": [
+        "Linux",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.058556"
-    },
-    {
-      "source": "hackernews",
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes\nComments URL: https://news.ycombinator.com/item?id=49143414\nPoints: 92\n# Comments: 31",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "published": "Sun, 02 Aug 2026 11:24:20 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.058595"
+      "crawled_at": "2026-08-02T18:52:22.129062"
     },
     {
       "source": "arstechnica",
@@ -212,7 +208,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.277539"
+      "crawled_at": "2026-08-02T18:52:22.233238"
     },
     {
       "source": "arstechnica",
@@ -224,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.277577"
+      "crawled_at": "2026-08-02T18:52:22.233275"
     },
     {
       "source": "arstechnica",
@@ -238,7 +234,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:31.277600"
+      "crawled_at": "2026-08-02T18:52:22.233298"
     },
     {
       "source": "arstechnica",
@@ -251,7 +247,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:31.277621"
+      "crawled_at": "2026-08-02T18:52:22.233341"
     },
     {
       "source": "arstechnica",
@@ -264,7 +260,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-02T12:55:31.277653"
+      "crawled_at": "2026-08-02T18:52:22.233376"
     },
     {
       "source": "wired",
@@ -277,7 +273,7 @@
         "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-02T12:55:31.434104"
+      "crawled_at": "2026-08-02T18:52:22.350840"
     },
     {
       "source": "wired",
@@ -289,7 +285,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.434163"
+      "crawled_at": "2026-08-02T18:52:22.350899"
     },
     {
       "source": "wired",
@@ -302,7 +298,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-02T12:55:31.434188"
+      "crawled_at": "2026-08-02T18:52:22.350924"
     },
     {
       "source": "wired",
@@ -314,7 +310,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.434238"
+      "crawled_at": "2026-08-02T18:52:22.350958"
     },
     {
       "source": "wired",
@@ -326,7 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-02T12:55:31.434275"
+      "crawled_at": "2026-08-02T18:52:22.350992"
     }
   ]
 }
