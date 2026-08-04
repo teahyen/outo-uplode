@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T01:22:32.248548",
+  "last_updated": "2026-08-04T08:16:14.476063",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.453266"
+      "crawled_at": "2026-08-04T08:16:10.409454"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.453309"
+      "crawled_at": "2026-08-04T08:16:10.409499"
     },
     {
       "source": "techcrunch",
@@ -42,7 +42,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-04T01:22:30.453344"
+      "crawled_at": "2026-08-04T08:16:10.409533"
     },
     {
       "source": "techcrunch",
@@ -58,7 +58,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.453390"
+      "crawled_at": "2026-08-04T08:16:10.409583"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.453415"
+      "crawled_at": "2026-08-04T08:16:10.409608"
     },
     {
       "source": "theverge",
@@ -84,7 +84,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.638705"
+      "crawled_at": "2026-08-04T08:16:10.579029"
     },
     {
       "source": "theverge",
@@ -99,7 +99,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-04T01:22:30.638763"
+      "crawled_at": "2026-08-04T08:16:10.579090"
     },
     {
       "source": "theverge",
@@ -112,7 +112,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:30.638821"
+      "crawled_at": "2026-08-04T08:16:10.579149"
     },
     {
       "source": "theverge",
@@ -125,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:30.638864"
+      "crawled_at": "2026-08-04T08:16:10.579192"
     },
     {
       "source": "theverge",
@@ -138,12 +138,66 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:30.638921"
+      "crawled_at": "2026-08-04T08:16:10.579251"
+    },
+    {
+      "source": "hackernews",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\nComments URL: https://news.ycombinator.com/item?id=49165170\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "published": "Tue, 04 Aug 2026 07:01:26 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-04T08:16:13.952356"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple is getting this wrong",
+      "summary": "Article URL: https://openai.com/index/apple-is-getting-this-wrong/\nComments URL: https://news.ycombinator.com/item?id=49164649\nPoints: 151\n# Comments: 140",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "published": "Tue, 04 Aug 2026 05:32:13 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-04T08:16:13.952419"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why did we wait so long for the bicycle? (2019)",
+      "summary": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\nComments URL: https://news.ycombinator.com/item?id=49162787\nPoints: 36\n# Comments: 28",
+      "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+      "published": "Mon, 03 Aug 2026 23:44:19 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-04T08:16:13.952459"
+    },
+    {
+      "source": "hackernews",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 137\n# Comments: 53",
+      "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-04T08:16:13.952493"
     },
     {
       "source": "hackernews",
       "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 47\n# Comments: 18",
+      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 97\n# Comments: 52",
       "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
       "published": "Mon, 03 Aug 2026 22:04:49 +0000",
       "keywords": [
@@ -151,58 +205,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:31.872169"
-    },
-    {
-      "source": "hackernews",
-      "title": "ZX Spectrum System Tour: Text Mode",
-      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 16\n# Comments: 0",
-      "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-      "published": "Mon, 03 Aug 2026 21:39:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:31.872215"
-    },
-    {
-      "source": "hackernews",
-      "title": "LLMs reward expertise",
-      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 392\n# Comments: 180",
-      "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "published": "Mon, 03 Aug 2026 21:13:53 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:31.872242"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "summary": "Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real\nComments URL: https://news.ycombinator.com/item?id=49160437\nPoints: 117\n# Comments: 122",
-      "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-      "published": "Mon, 03 Aug 2026 19:39:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:31.872281"
-    },
-    {
-      "source": "hackernews",
-      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
-      "summary": "Article URL: https://github.com/SwagSoftware/KisakCOD\nComments URL: https://news.ycombinator.com/item?id=49159970\nPoints: 35\n# Comments: 3",
-      "link": "https://github.com/SwagSoftware/KisakCOD",
-      "published": "Mon, 03 Aug 2026 18:58:00 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:31.872327"
+      "crawled_at": "2026-08-04T08:16:13.952529"
     },
     {
       "source": "arstechnica",
@@ -215,7 +218,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:32.043025"
+      "crawled_at": "2026-08-04T08:16:14.322505"
     },
     {
       "source": "arstechnica",
@@ -227,7 +230,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.043065"
+      "crawled_at": "2026-08-04T08:16:14.322547"
     },
     {
       "source": "arstechnica",
@@ -240,7 +243,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:32.043087"
+      "crawled_at": "2026-08-04T08:16:14.322570"
     },
     {
       "source": "arstechnica",
@@ -252,7 +255,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:32.043108"
+      "crawled_at": "2026-08-04T08:16:14.322590"
     },
     {
       "source": "arstechnica",
@@ -264,70 +267,65 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.043135"
+      "crawled_at": "2026-08-04T08:16:14.322617"
     },
     {
       "source": "wired",
-      "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-      "summary": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
-      "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
-      "published": "Mon, 03 Aug 2026 22:27:46 +0000",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "published": "Tue, 04 Aug 2026 05:00:00 +0000",
       "keywords": [
-        "AI",
         "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-04T08:16:14.475816"
+    },
+    {
+      "source": "wired",
+      "title": "Instacart Promo Code: $15 Off | August 2026",
+      "summary": "Find the best Instacart promo code for massive savings in August 2026.",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
+      "published": "Tue, 04 Aug 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-04T08:16:14.475849"
+    },
+    {
+      "source": "wired",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "published": "Tue, 04 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-04T08:16:14.475887"
+    },
+    {
+      "source": "wired",
+      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
+      "published": "Tue, 04 Aug 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-04T08:16:14.475927"
+    },
+    {
+      "source": "wired",
+      "title": "Wayfair Coupons: Up to 80% Off August 2026",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published": "Tue, 04 Aug 2026 05:00:00 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-04T01:22:32.248288"
-    },
-    {
-      "source": "wired",
-      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
-      "summary": "The risk of more debris hitting the moon is on the rise as the space race heats up.",
-      "link": "https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/",
-      "published": "Mon, 03 Aug 2026 19:58:23 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.248325"
-    },
-    {
-      "source": "wired",
-      "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
-      "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
-      "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "published": "Mon, 03 Aug 2026 11:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.248369"
-    },
-    {
-      "source": "wired",
-      "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
-      "summary": "We’ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware’s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
-      "link": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
-      "published": "Mon, 03 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.248410"
-    },
-    {
-      "source": "wired",
-      "title": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
-      "summary": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
-      "link": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
-      "published": "Mon, 03 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-04T01:22:32.248450"
+      "crawled_at": "2026-08-04T08:16:14.475948"
     }
   ]
 }
