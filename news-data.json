@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-05T01:28:11.783087",
+  "last_updated": "2026-08-05T08:13:57.832373",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "published": "Wed, 05 Aug 2026 07:15:49 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-05T08:13:54.138494"
+    },
     {
       "source": "techcrunch",
       "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
@@ -12,7 +24,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:10.980508"
+      "crawled_at": "2026-08-05T08:13:54.138789"
     },
     {
       "source": "techcrunch",
@@ -24,7 +36,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:10.980586"
+      "crawled_at": "2026-08-05T08:13:54.138840"
     },
     {
       "source": "techcrunch",
@@ -37,7 +49,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:10.980623"
+      "crawled_at": "2026-08-05T08:13:54.138872"
     },
     {
       "source": "techcrunch",
@@ -50,22 +62,35 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:10.980654"
+      "crawled_at": "2026-08-05T08:13:54.138903"
     },
     {
-      "source": "techcrunch",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
-      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "published": "Tue, 04 Aug 2026 20:36:30 +0000",
+      "source": "theverge",
+      "title": "Ted Lasso returns at an important time for Apple TV",
+      "summary": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important rele",
+      "link": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+      "published": "2026-08-05T03:00:00-04:00",
       "keywords": [
-        "Anthropic",
         "Go",
-        "Google",
+        "API",
+        "Apple",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:10.980688"
+      "category": "Mobile",
+      "crawled_at": "2026-08-05T08:13:54.291949"
+    },
+    {
+      "source": "theverge",
+      "title": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+      "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&#38;T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&#38;A secti",
+      "link": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+      "published": "2026-08-05T02:50:19-04:00",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-05T08:13:54.292170"
     },
     {
       "source": "theverge",
@@ -79,7 +104,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-05T01:28:11.177074"
+      "crawled_at": "2026-08-05T08:13:54.292234"
     },
     {
       "source": "theverge",
@@ -92,7 +117,7 @@
         "Android"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-05T01:28:11.177128"
+      "crawled_at": "2026-08-05T08:13:54.292275"
     },
     {
       "source": "theverge",
@@ -107,39 +132,52 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.177161"
+      "crawled_at": "2026-08-05T08:13:54.292308"
     },
     {
-      "source": "theverge",
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source ",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "published": "2026-08-04T16:47:55-04:00",
+      "source": "hackernews",
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/\nComments URL: https://news.ycombinator.com/item?id=49179039\nPoints: 46\n# Comments: 25",
+      "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "published": "Wed, 05 Aug 2026 05:52:24 +0000",
       "keywords": [
-        "AI",
-        "Go",
+        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.177192"
+      "crawled_at": "2026-08-05T08:13:57.578849"
     },
     {
-      "source": "theverge",
-      "title": "EA is now a private company",
-      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully",
-      "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
-      "published": "2026-08-04T16:18:14-04:00",
+      "source": "hackernews",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377\nComments URL: https://news.ycombinator.com/item?id=49178608\nPoints: 23\n# Comments: 5",
+      "link": "https://arxiv.org/abs/2607.29377",
+      "published": "Wed, 05 Aug 2026 04:36:44 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.177222"
+      "crawled_at": "2026-08-05T08:13:57.578885"
+    },
+    {
+      "source": "hackernews",
+      "title": "An SLM trained on $8 ESP32-S3",
+      "summary": "Article URL: https://github.com/Carloscodix/qapla\nComments URL: https://news.ycombinator.com/item?id=49178464\nPoints: 17\n# Comments: 6",
+      "link": "https://github.com/Carloscodix/qapla",
+      "published": "Wed, 05 Aug 2026 04:07:27 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-05T08:13:57.578911"
     },
     {
       "source": "hackernews",
       "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 13\n# Comments: 4",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 79\n# Comments: 61",
       "link": "https://arxiv.org/abs/2603.04221",
       "published": "Wed, 05 Aug 2026 00:10:37 +0000",
       "keywords": [
@@ -147,12 +185,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.457719"
+      "crawled_at": "2026-08-05T08:13:57.578947"
     },
     {
       "source": "hackernews",
-      "title": "Bugtraq Is Back",
-      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 9\n# Comments: 2",
+      "title": "Bugtraq is back",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 38\n# Comments: 9",
       "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
       "published": "Wed, 05 Aug 2026 00:05:49 +0000",
       "keywords": [
@@ -160,46 +198,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-05T01:28:11.457761"
-    },
-    {
-      "source": "hackernews",
-      "title": "Flowise Is Shutting Down",
-      "summary": "Article URL: https://flowiseai.com/sunset\nComments URL: https://news.ycombinator.com/item?id=49176920\nPoints: 10\n# Comments: 3",
-      "link": "https://flowiseai.com/sunset",
-      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.457786"
-    },
-    {
-      "source": "hackernews",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963\nComments URL: https://news.ycombinator.com/item?id=49176830\nPoints: 46\n# Comments: 15",
-      "link": "https://queue.acm.org/detail.cfm?id=3807963",
-      "published": "Tue, 04 Aug 2026 23:50:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.457812"
-    },
-    {
-      "source": "hackernews",
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\nComments URL: https://news.ycombinator.com/item?id=49176697\nPoints: 29\n# Comments: 3",
-      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "published": "Tue, 04 Aug 2026 23:31:46 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-05T01:28:11.457843"
+      "crawled_at": "2026-08-05T08:13:57.578980"
     },
     {
       "source": "arstechnica",
@@ -211,7 +210,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.682889"
+      "crawled_at": "2026-08-05T08:13:57.736733"
     },
     {
       "source": "arstechnica",
@@ -225,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.682926"
+      "crawled_at": "2026-08-05T08:13:57.736771"
     },
     {
       "source": "arstechnica",
@@ -238,7 +237,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.682958"
+      "crawled_at": "2026-08-05T08:13:57.736804"
     },
     {
       "source": "arstechnica",
@@ -251,7 +250,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.682980"
+      "crawled_at": "2026-08-05T08:13:57.736826"
     },
     {
       "source": "arstechnica",
@@ -261,76 +260,67 @@
       "published": "Tue, 04 Aug 2026 16:11:05 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.683016"
+      "crawled_at": "2026-08-05T08:13:57.736862"
     },
     {
       "source": "wired",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-      "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "published": "Tue, 04 Aug 2026 23:11:31 +0000",
+      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+      "link": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
+      "published": "Wed, 05 Aug 2026 07:36:06 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-05T08:13:57.832150"
+    },
+    {
+      "source": "wired",
+      "title": "The AI Notetaker Has Been Invited to All the Meetings",
+      "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
+      "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+      "published": "Wed, 05 Aug 2026 07:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.782846"
+      "crawled_at": "2026-08-05T08:13:57.832186"
     },
     {
       "source": "wired",
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "published": "Tue, 04 Aug 2026 22:06:07 +0000",
+      "title": "Sportsman's Warehouse Promo Code: Save in August 2026",
+      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in August 2026.",
+      "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "published": "Wed, 05 Aug 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-05T08:13:57.832221"
+    },
+    {
+      "source": "wired",
+      "title": "Medicube Coupon Code: 40% Off for August 2026",
+      "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+      "link": "https://www.wired.com/story/medicube-coupon-code/",
+      "published": "Wed, 05 Aug 2026 05:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-05T08:13:57.832250"
+    },
+    {
+      "source": "wired",
+      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "published": "Wed, 05 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Security",
-        "Cybersecurity"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-05T01:28:11.782880"
-    },
-    {
-      "source": "wired",
-      "title": "Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal",
-      "summary": "Facing a growing drone threat, the Pentagon is poised to sign a first-of-its-kind contract for “Enduring High Energy Lasers”—and make directed energy weapons an official part of the Army’s kit.",
-      "link": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
-      "published": "Tue, 04 Aug 2026 15:29:45 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.782925"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Gaming Mouse You Can Buy After Testing Dozens of Models",
-      "summary": "From wired to wireless to ultralight, we've tested dozens of gaming mice to find the best for work, your next MMO, and everything in between.",
-      "link": "https://www.wired.com/gallery/best-gaming-mouse/",
-      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-      "keywords": [
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.782958"
-    },
-    {
-      "source": "wired",
-      "title": "Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat",
-      "summary": "I’m an omnivore. Purple Carrot’s vegan meal kit offers some of the best cooking I’ve seen from any meal kit, with or without meat.",
-      "link": "https://www.wired.com/review/purple-carrot-meal-kit-2026/",
-      "published": "Tue, 04 Aug 2026 11:34:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-05T01:28:11.782996"
+      "crawled_at": "2026-08-05T08:13:57.832275"
     }
   ]
 }
