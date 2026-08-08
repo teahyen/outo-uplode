@@ -1,11 +1,68 @@
 {
-  "last_updated": "2026-08-07T18:37:49.725989",
+  "last_updated": "2026-08-08T00:47:44.960018",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Security",
+        "Cybersecurity",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.490178"
+    },
+    {
+      "source": "techcrunch",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.490216"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+      "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "published": "Fri, 07 Aug 2026 21:20:00 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-08T00:47:44.490502"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published": "Fri, 07 Aug 2026 21:00:08 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "Hack",
+        "IoT"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.490540"
+    },
+    {
+      "source": "techcrunch",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
       "keywords": [
@@ -14,57 +71,63 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:47.865852"
+      "crawled_at": "2026-08-08T00:47:44.490571"
     },
     {
-      "source": "techcrunch",
-      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-      "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
-      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-      "published": "Fri, 07 Aug 2026 16:09:04 +0000",
+      "source": "theverge",
+      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a",
+      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "published": "2026-08-07T18:05:08-04:00",
       "keywords": [
         "AI",
+        "REST",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.579729"
+    },
+    {
+      "source": "theverge",
+      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI de",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "published": "2026-08-07T16:01:51-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.579787"
+    },
+    {
+      "source": "theverge",
+      "title": "Watching Roku’s AI channel is like eating from a trough",
+      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "published": "2026-08-07T14:59:46-04:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.579835"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have al",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "published": "2026-08-07T14:40:34-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Security",
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:47.866154"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-      "published": "Fri, 07 Aug 2026 15:52:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:47.866212"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
-      "link": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-      "published": "Fri, 07 Aug 2026 15:11:03 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-07T18:37:47.866243"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-      "published": "Fri, 07 Aug 2026 14:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-07T18:37:47.866292"
+      "crawled_at": "2026-08-08T00:47:44.579879"
     },
     {
       "source": "theverge",
@@ -77,190 +140,139 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:48.021909"
+      "crawled_at": "2026-08-08T00:47:44.579934"
     },
     {
-      "source": "theverge",
-      "title": "Disney Plus tries a new AI-powered search",
-      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But ",
-      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "published": "2026-08-07T13:53:44-04:00",
+      "source": "hackernews",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals\nComments URL: https://news.ycombinator.com/item?id=49217629\nPoints: 6\n# Comments: 1",
+      "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "published": "Sat, 08 Aug 2026 00:03:31 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:48.021956"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that s",
-      "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "published": "2026-08-07T13:43:34-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:48.022009"
-    },
-    {
-      "source": "theverge",
-      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-      "summary": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical release",
-      "link": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-      "published": "2026-08-07T12:58:18-04:00",
-      "keywords": [
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:48.022060"
-    },
-    {
-      "source": "theverge",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "published": "2026-08-07T12:45:14-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:48.022089"
+      "crawled_at": "2026-08-08T00:47:44.663519"
     },
     {
       "source": "hackernews",
-      "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
-      "summary": "Article URL: https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57\nComments URL: https://news.ycombinator.com/item?id=49214306\nPoints: 25\n# Comments: 3",
-      "link": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
-      "published": "Fri, 07 Aug 2026 18:15:33 +0000",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 43\n# Comments: 13",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "published": "Fri, 07 Aug 2026 22:24:27 +0000",
       "keywords": [
-        "REST",
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.367175"
+      "crawled_at": "2026-08-08T00:47:44.663564"
     },
     {
       "source": "hackernews",
-      "title": "Assembly Hall of Shame",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 7\n# Comments: 1",
-      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "published": "Fri, 07 Aug 2026 18:01:30 +0000",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 104\n# Comments: 63",
+      "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-08T00:47:44.663608"
+    },
+    {
+      "source": "hackernews",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 44\n# Comments: 2",
+      "link": "https://github.com/xoreaxeaxeax/repsych",
+      "published": "Fri, 07 Aug 2026 18:51:45 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.367218"
+      "crawled_at": "2026-08-08T00:47:44.663645"
     },
     {
       "source": "hackernews",
-      "title": "The End of No Code",
-      "summary": "Article URL: https://blog.exe.dev/the-end-of-no-code\nComments URL: https://news.ycombinator.com/item?id=49214065\nPoints: 4\n# Comments: 0",
-      "link": "https://blog.exe.dev/the-end-of-no-code",
-      "published": "Fri, 07 Aug 2026 17:59:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-07T18:37:49.367246"
-    },
-    {
-      "source": "hackernews",
-      "title": "DeepSeek V4 Flash 0731",
-      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 58\n# Comments: 38",
-      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "published": "Fri, 07 Aug 2026 17:56:20 +0000",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 136\n# Comments: 47",
+      "link": "https://ancientlibrary.net/",
+      "published": "Fri, 07 Aug 2026 18:51:14 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.367278"
-    },
-    {
-      "source": "hackernews",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 117\n# Comments: 74",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "published": "Fri, 07 Aug 2026 17:36:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:49.367310"
+      "crawled_at": "2026-08-08T00:47:44.663692"
     },
     {
       "source": "arstechnica",
-      "title": "Report: White House drafting executive order linking vaccines and autism",
-      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-      "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-      "published": "Fri, 07 Aug 2026 14:41:34 +0000",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "published": "Fri, 07 Aug 2026 21:48:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.526834"
+      "crawled_at": "2026-08-08T00:47:44.831116"
     },
     {
       "source": "arstechnica",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "published": "Fri, 07 Aug 2026 13:49:37 +0000",
+      "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+      "summary": "Six deaths reported among screwworm cases, one directly attributed to the flies.",
+      "link": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+      "published": "Fri, 07 Aug 2026 21:09:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-08T00:47:44.831154"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "published": "Fri, 07 Aug 2026 19:49:27 +0000",
+      "keywords": [
+        "Meta"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-08T00:47:44.831185"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+      "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun's corona.",
+      "link": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "published": "Fri, 07 Aug 2026 19:00:17 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-08T00:47:44.831208"
+    },
+    {
+      "source": "arstechnica",
+      "title": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+      "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
+      "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
+      "published": "Fri, 07 Aug 2026 18:00:02 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:49.526865"
+      "crawled_at": "2026-08-08T00:47:44.831230"
     },
     {
-      "source": "arstechnica",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "published": "Fri, 07 Aug 2026 13:29:22 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:49.526888"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The world's biggest solar telescope caught vortexes on the Sun's surface",
-      "summary": "We expected them to be there, but they had previously been too small to see.",
-      "link": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
-      "published": "Fri, 07 Aug 2026 13:20:46 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "source": "wired",
+      "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+      "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
+      "link": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+      "published": "Fri, 07 Aug 2026 18:54:04 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.526917"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Trump is losing his war on wind power",
-      "summary": "A court rules that a hold on all wind projects clearly violates the law.",
-      "link": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
-      "published": "Fri, 07 Aug 2026 12:58:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.526943"
+      "crawled_at": "2026-08-08T00:47:44.959758"
     },
     {
       "source": "wired",
@@ -272,7 +284,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.725756"
+      "crawled_at": "2026-08-08T00:47:44.959798"
     },
     {
       "source": "wired",
@@ -285,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.725814"
+      "crawled_at": "2026-08-08T00:47:44.959844"
     },
     {
       "source": "wired",
@@ -297,7 +309,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-07T18:37:49.725844"
+      "crawled_at": "2026-08-08T00:47:44.959873"
     },
     {
       "source": "wired",
@@ -310,19 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.725882"
-    },
-    {
-      "source": "wired",
-      "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-      "summary": "I tested the best webcams across various prices to find the top option. Here’s what I learned.",
-      "link": "https://www.wired.com/story/best-webcams/",
-      "published": "Fri, 07 Aug 2026 11:32:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-07T18:37:49.725915"
+      "crawled_at": "2026-08-08T00:47:44.959910"
     }
   ]
 }
