@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T00:47:44.960018",
+  "last_updated": "2026-08-08T06:32:03.056279",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.490178"
+      "crawled_at": "2026-08-08T06:31:58.405844"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.490216"
+      "crawled_at": "2026-08-08T06:31:58.405880"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.490502"
+      "crawled_at": "2026-08-08T06:31:58.406230"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "IoT"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.490540"
+      "crawled_at": "2026-08-08T06:31:58.406274"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.490571"
+      "crawled_at": "2026-08-08T06:31:58.406306"
     },
     {
       "source": "theverge",
@@ -86,7 +86,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.579729"
+      "crawled_at": "2026-08-08T06:31:58.527818"
     },
     {
       "source": "theverge",
@@ -99,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.579787"
+      "crawled_at": "2026-08-08T06:31:58.527873"
     },
     {
       "source": "theverge",
@@ -111,7 +111,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.579835"
+      "crawled_at": "2026-08-08T06:31:58.527918"
     },
     {
       "source": "theverge",
@@ -127,7 +127,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.579879"
+      "crawled_at": "2026-08-08T06:31:58.527958"
     },
     {
       "source": "theverge",
@@ -140,25 +140,51 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.579934"
+      "crawled_at": "2026-08-08T06:31:58.528011"
     },
     {
       "source": "hackernews",
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals\nComments URL: https://news.ycombinator.com/item?id=49217629\nPoints: 6\n# Comments: 1",
-      "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "published": "Sat, 08 Aug 2026 00:03:31 +0000",
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 42\n# Comments: 15",
+      "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "published": "Sat, 08 Aug 2026 03:41:56 +0000",
       "keywords": [
         "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.663519"
+      "crawled_at": "2026-08-08T06:32:02.850105"
+    },
+    {
+      "source": "hackernews",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 169\n# Comments: 26",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-08T06:32:02.850158"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Nixpkgs core team has disbanded",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 250\n# Comments: 106",
+      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-08T06:32:02.850195"
     },
     {
       "source": "hackernews",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 43\n# Comments: 13",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 189\n# Comments: 64",
       "link": "https://genesisopenmodels.anl.gov/",
       "published": "Fri, 07 Aug 2026 22:24:27 +0000",
       "keywords": [
@@ -166,12 +192,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.663564"
+      "crawled_at": "2026-08-08T06:32:02.850229"
     },
     {
       "source": "hackernews",
       "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 104\n# Comments: 63",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 171\n# Comments: 114",
       "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
       "published": "Fri, 07 Aug 2026 21:19:57 +0000",
       "keywords": [
@@ -179,33 +205,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-08T00:47:44.663608"
-    },
-    {
-      "source": "hackernews",
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 44\n# Comments: 2",
-      "link": "https://github.com/xoreaxeaxeax/repsych",
-      "published": "Fri, 07 Aug 2026 18:51:45 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.663645"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 136\n# Comments: 47",
-      "link": "https://ancientlibrary.net/",
-      "published": "Fri, 07 Aug 2026 18:51:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.663692"
+      "crawled_at": "2026-08-08T06:32:02.850268"
     },
     {
       "source": "arstechnica",
@@ -215,7 +215,7 @@
       "published": "Fri, 07 Aug 2026 21:48:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.831116"
+      "crawled_at": "2026-08-08T06:32:02.955898"
     },
     {
       "source": "arstechnica",
@@ -225,7 +225,7 @@
       "published": "Fri, 07 Aug 2026 21:09:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.831154"
+      "crawled_at": "2026-08-08T06:32:02.955940"
     },
     {
       "source": "arstechnica",
@@ -237,7 +237,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.831185"
+      "crawled_at": "2026-08-08T06:32:02.955971"
     },
     {
       "source": "arstechnica",
@@ -249,7 +249,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.831208"
+      "crawled_at": "2026-08-08T06:32:02.956004"
     },
     {
       "source": "arstechnica",
@@ -262,7 +262,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.831230"
+      "crawled_at": "2026-08-08T06:32:02.956027"
     },
     {
       "source": "wired",
@@ -272,7 +272,7 @@
       "published": "Fri, 07 Aug 2026 18:54:04 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.959758"
+      "crawled_at": "2026-08-08T06:32:03.055992"
     },
     {
       "source": "wired",
@@ -284,7 +284,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.959798"
+      "crawled_at": "2026-08-08T06:32:03.056033"
     },
     {
       "source": "wired",
@@ -297,7 +297,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.959844"
+      "crawled_at": "2026-08-08T06:32:03.056075"
     },
     {
       "source": "wired",
@@ -309,7 +309,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T00:47:44.959873"
+      "crawled_at": "2026-08-08T06:32:03.056103"
     },
     {
       "source": "wired",
@@ -322,7 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T00:47:44.959910"
+      "crawled_at": "2026-08-08T06:32:03.056139"
     }
   ]
 }
