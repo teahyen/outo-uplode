@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-08-08T18:20:19.528233",
+  "last_updated": "2026-08-09T00:51:17.777241",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-09T00:51:16.953466"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-09T00:51:16.953496"
+    },
     {
       "source": "techcrunch",
       "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
@@ -12,7 +41,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:18.681261"
+      "crawled_at": "2026-08-09T00:51:16.953927"
     },
     {
       "source": "techcrunch",
@@ -22,7 +51,7 @@
       "published": "Sat, 08 Aug 2026 16:00:00 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-08-08T18:20:18.681321"
+      "crawled_at": "2026-08-09T00:51:16.953989"
     },
     {
       "source": "techcrunch",
@@ -37,35 +66,19 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:18.681361"
+      "crawled_at": "2026-08-09T00:51:16.954027"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "source": "theverge",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least",
+      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "published": "2026-08-08T17:15:12-04:00",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Security",
-        "Cybersecurity",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:18.681393"
-    },
-    {
-      "source": "techcrunch",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:18.681423"
+      "category": "Tech News",
+      "crawled_at": "2026-08-09T00:51:17.084117"
     },
     {
       "source": "theverge",
@@ -78,7 +91,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-08T18:20:18.833310"
+      "crawled_at": "2026-08-09T00:51:17.084178"
     },
     {
       "source": "theverge",
@@ -88,7 +101,7 @@
       "published": "2026-08-08T11:47:30-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:18.833380"
+      "crawled_at": "2026-08-09T00:51:17.084241"
     },
     {
       "source": "theverge",
@@ -101,7 +114,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-08T18:20:18.833433"
+      "crawled_at": "2026-08-09T00:51:17.084294"
     },
     {
       "source": "theverge",
@@ -115,86 +128,69 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-08-08T18:20:18.833477"
-    },
-    {
-      "source": "theverge",
-      "title": "My favorite feel-good show is back",
-      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the histor",
-      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "published": "2026-08-08T08:00:00-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:18.833518"
+      "crawled_at": "2026-08-09T00:51:17.084340"
     },
     {
       "source": "hackernews",
-      "title": "LinkedIn Feed Blocker",
-      "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker\nComments URL: https://news.ycombinator.com/item?id=49223475\nPoints: 35\n# Comments: 29",
-      "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "published": "Sat, 08 Aug 2026 16:49:07 +0000",
+      "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+      "summary": "Article URL: https://bigthink.com/series/full-interview/meaning-crisis-brooks/\nComments URL: https://news.ycombinator.com/item?id=49226767\nPoints: 17\n# Comments: 16",
+      "link": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+      "published": "Sat, 08 Aug 2026 23:09:07 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.180591"
+      "crawled_at": "2026-08-09T00:51:17.431081"
     },
     {
       "source": "hackernews",
-      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
-      "summary": "Article URL: https://toonk.io/index.html\nComments URL: https://news.ycombinator.com/item?id=49223105\nPoints: 7\n# Comments: 1",
-      "link": "https://toonk.io/index.html",
-      "published": "Sat, 08 Aug 2026 16:07:00 +0000",
+      "title": "My server is a phone now",
+      "summary": "Article URL: https://seg6.space/posts/phone-server/\nComments URL: https://news.ycombinator.com/item?id=49226636\nPoints: 50\n# Comments: 21",
+      "link": "https://seg6.space/posts/phone-server/",
+      "published": "Sat, 08 Aug 2026 22:49:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-09T00:51:17.431122"
+    },
+    {
+      "source": "hackernews",
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\nComments URL: https://news.ycombinator.com/item?id=49225918\nPoints: 79\n# Comments: 42",
+      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+      "published": "Sat, 08 Aug 2026 21:07:10 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.180632"
+      "crawled_at": "2026-08-09T00:51:17.431169"
     },
     {
       "source": "hackernews",
-      "title": "Fastmail offers EU data region",
-      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\nComments URL: https://news.ycombinator.com/item?id=49223082\nPoints: 80\n# Comments: 27",
-      "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "published": "Sat, 08 Aug 2026 16:04:51 +0000",
+      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf\nComments URL: https://news.ycombinator.com/item?id=49225676\nPoints: 21\n# Comments: 8",
+      "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+      "published": "Sat, 08 Aug 2026 20:37:24 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:19.180659"
+      "category": "Tech News",
+      "crawled_at": "2026-08-09T00:51:17.431213"
     },
     {
       "source": "hackernews",
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "summary": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/\nComments URL: https://news.ycombinator.com/item?id=49223079\nPoints: 3\n# Comments: 0",
-      "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "published": "Sat, 08 Aug 2026 16:04:36 +0000",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "summary": "Article URL: https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute\nComments URL: https://news.ycombinator.com/item?id=49225139\n",
+      "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "published": "Sat, 08 Aug 2026 19:38:08 +0000",
       "keywords": [
-        "Hack",
+        "Cloud",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-08-08T18:20:19.180691"
-    },
-    {
-      "source": "hackernews",
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\nComments URL: https://news.ycombinator.com/item?id=49222189\nPoints: 42\n# Comments: 27",
-      "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "published": "Sat, 08 Aug 2026 14:32:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-08T18:20:19.180723"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-08-09T00:51:17.431255"
     },
     {
       "source": "arstechnica",
@@ -206,7 +202,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.404643"
+      "crawled_at": "2026-08-09T00:51:17.520710"
     },
     {
       "source": "arstechnica",
@@ -216,7 +212,7 @@
       "published": "Sat, 08 Aug 2026 11:05:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.404689"
+      "crawled_at": "2026-08-09T00:51:17.520758"
     },
     {
       "source": "arstechnica",
@@ -226,7 +222,7 @@
       "published": "Fri, 07 Aug 2026 21:48:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.404719"
+      "crawled_at": "2026-08-09T00:51:17.520788"
     },
     {
       "source": "arstechnica",
@@ -236,7 +232,7 @@
       "published": "Fri, 07 Aug 2026 21:09:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.404747"
+      "crawled_at": "2026-08-09T00:51:17.520821"
     },
     {
       "source": "arstechnica",
@@ -248,7 +244,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.404775"
+      "crawled_at": "2026-08-09T00:51:17.520848"
     },
     {
       "source": "wired",
@@ -261,7 +257,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:19.527989"
+      "crawled_at": "2026-08-09T00:51:17.777006"
     },
     {
       "source": "wired",
@@ -273,7 +269,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.528052"
+      "crawled_at": "2026-08-09T00:51:17.777051"
     },
     {
       "source": "wired",
@@ -285,7 +281,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.528094"
+      "crawled_at": "2026-08-09T00:51:17.777090"
     },
     {
       "source": "wired",
@@ -297,7 +293,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-08T18:20:19.528118"
+      "crawled_at": "2026-08-09T00:51:17.777114"
     },
     {
       "source": "wired",
@@ -309,7 +305,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-08T18:20:19.528152"
+      "crawled_at": "2026-08-09T00:51:17.777150"
     }
   ]
 }
