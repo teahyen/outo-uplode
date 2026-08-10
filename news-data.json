@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-08-09T18:22:45.865823",
+  "last_updated": "2026-08-10T00:53:41.441531",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-10T00:53:36.689100"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-10T00:53:36.689617"
+    },
     {
       "source": "techcrunch",
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
@@ -13,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.183469"
+      "crawled_at": "2026-08-10T00:53:36.689678"
     },
     {
       "source": "techcrunch",
@@ -25,7 +52,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.183521"
+      "crawled_at": "2026-08-10T00:53:36.689733"
     },
     {
       "source": "techcrunch",
@@ -41,35 +68,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.183556"
+      "crawled_at": "2026-08-10T00:53:36.689777"
     },
     {
-      "source": "techcrunch",
-      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "published": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "source": "theverge",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a [&#8230;]",
+      "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "published": "2026-08-09T16:28:31-04:00",
       "keywords": [
-        "Go",
-        "Security",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-08-09T18:22:45.183599"
-    },
-    {
-      "source": "techcrunch",
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "published": "Sun, 09 Aug 2026 13:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.183628"
+      "category": "Mobile",
+      "crawled_at": "2026-08-10T00:53:36.859428"
     },
     {
       "source": "theverge",
@@ -81,7 +92,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.318067"
+      "crawled_at": "2026-08-10T00:53:36.859508"
     },
     {
       "source": "theverge",
@@ -96,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.318113"
+      "crawled_at": "2026-08-10T00:53:36.859542"
     },
     {
       "source": "theverge",
@@ -109,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.318155"
+      "crawled_at": "2026-08-10T00:53:36.859580"
     },
     {
       "source": "theverge",
@@ -125,85 +136,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.318188"
+      "crawled_at": "2026-08-10T00:53:36.859610"
     },
     {
-      "source": "theverge",
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least",
-      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "published": "2026-08-08T17:15:12-04:00",
+      "source": "hackernews",
+      "title": "To Recruit Teachers, School Districts Are Building Homes",
+      "summary": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html\nComments URL: https://news.ycombinator.com/item?id=49236541\nPoints: 27\n# Comments: 21",
+      "link": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
+      "published": "Sun, 09 Aug 2026 22:00:36 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.318249"
+      "crawled_at": "2026-08-10T00:53:41.185902"
     },
     {
       "source": "hackernews",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "summary": "Article URL: https://openchamber.dev/\nComments URL: https://news.ycombinator.com/item?id=49233448\nPoints: 13\n# Comments: 3",
-      "link": "https://openchamber.dev/",
-      "published": "Sun, 09 Aug 2026 17:27:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.564073"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "summary": "What are you working on?  What have you been curious about lately?\n\nComments URL: https://news.ycombinator.com/item?id=49233423\nPoints: 31\n# Comments: 86",
-      "link": "https://news.ycombinator.com/item?id=49233423",
-      "published": "Sun, 09 Aug 2026 17:23:22 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.564116"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Z_O6Lwj1yjQ\nComments URL: https://news.ycombinator.com/item?id=49233415\nPoints: 9\n# Comments: 1",
-      "link": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-      "published": "Sun, 09 Aug 2026 17:22:53 +0000",
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\nComments URL: https://news.ycombinator.com/item?id=49236439\nPoints: 32\n# Comments: 13",
+      "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "published": "Sun, 09 Aug 2026 21:52:23 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.564145"
+      "crawled_at": "2026-08-10T00:53:41.185942"
     },
     {
       "source": "hackernews",
-      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
-      "summary": "Article URL: https://frequal.com/aptera/ProductionImminent.html\nComments URL: https://news.ycombinator.com/item?id=49233394\nPoints: 20\n# Comments: 11",
-      "link": "https://frequal.com/aptera/ProductionImminent.html",
-      "published": "Sun, 09 Aug 2026 17:19:48 +0000",
+      "title": "Georgia police officers fired after Flock camera misuse",
+      "summary": "Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/\nComments URL: https://news.ycombinator.com/item?id=49236033\nPoints: 67\n# Comments: 40",
+      "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+      "published": "Sun, 09 Aug 2026 21:20:24 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.564180"
+      "crawled_at": "2026-08-10T00:53:41.185983"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-      "summary": "Article URL: https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom\nComments URL: https://news.ycombinator.com/item?id=49233306\nPoints: 4\n# Comments: 0",
-      "link": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "published": "Sun, 09 Aug 2026 17:10:05 +0000",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "summary": "Article URL: https://tuxedono2.com\nComments URL: https://news.ycombinator.com/item?id=49235697\nPoints: 32\n# Comments: 10",
+      "link": "https://tuxedono2.com",
+      "published": "Sun, 09 Aug 2026 20:48:46 +0000",
       "keywords": [
         "AI",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.564211"
+      "crawled_at": "2026-08-10T00:53:41.186015"
+    },
+    {
+      "source": "hackernews",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\nComments URL: https://news.ycombinator.com/item?id=49235641\nPoints: 64\n# Comments: 30",
+      "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "published": "Sun, 09 Aug 2026 20:42:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-10T00:53:41.186052"
     },
     {
       "source": "arstechnica",
@@ -215,7 +211,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.711181"
+      "crawled_at": "2026-08-10T00:53:41.278413"
     },
     {
       "source": "arstechnica",
@@ -227,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.711218"
+      "crawled_at": "2026-08-10T00:53:41.278469"
     },
     {
       "source": "arstechnica",
@@ -237,7 +233,7 @@
       "published": "Sat, 08 Aug 2026 11:05:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.711260"
+      "crawled_at": "2026-08-10T00:53:41.278515"
     },
     {
       "source": "arstechnica",
@@ -247,7 +243,7 @@
       "published": "Fri, 07 Aug 2026 21:48:21 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.711289"
+      "crawled_at": "2026-08-10T00:53:41.278544"
     },
     {
       "source": "arstechnica",
@@ -257,7 +253,7 @@
       "published": "Fri, 07 Aug 2026 21:09:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.711318"
+      "crawled_at": "2026-08-10T00:53:41.278572"
     },
     {
       "source": "wired",
@@ -271,7 +267,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.865575"
+      "crawled_at": "2026-08-10T00:53:41.441256"
     },
     {
       "source": "wired",
@@ -284,7 +280,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.865617"
+      "crawled_at": "2026-08-10T00:53:41.441297"
     },
     {
       "source": "wired",
@@ -297,7 +293,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-09T18:22:45.865649"
+      "crawled_at": "2026-08-10T00:53:41.441329"
     },
     {
       "source": "wired",
@@ -309,7 +305,7 @@
         "Git"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.865686"
+      "crawled_at": "2026-08-10T00:53:41.441367"
     },
     {
       "source": "wired",
@@ -319,7 +315,7 @@
       "published": "Sun, 09 Aug 2026 10:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-09T18:22:45.865719"
+      "crawled_at": "2026-08-10T00:53:41.441401"
     }
   ]
 }
