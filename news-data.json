@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-08-12T07:05:48.328127",
-  "news_count": 20,
+  "last_updated": "2026-08-12T12:41:22.350068",
+  "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.358321"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "summary": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+      "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.358383"
+    },
     {
       "source": "techcrunch",
       "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -13,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:47.311320"
+      "crawled_at": "2026-08-12T12:41:21.358417"
     },
     {
       "source": "techcrunch",
@@ -27,7 +53,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:47.311369"
+      "crawled_at": "2026-08-12T12:41:21.358450"
     },
     {
       "source": "techcrunch",
@@ -40,97 +66,149 @@
         "VC"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:47.311399"
+      "crawled_at": "2026-08-12T12:41:21.358475"
     },
     {
-      "source": "techcrunch",
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "published": "Tue, 11 Aug 2026 20:02:02 +0000",
+      "source": "theverge",
+      "title": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
+      "summary": "The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually a robot. Instead it's a regular Android smartphone with its main camera installed on a compact gimbal arm that unfolds from the phone's rear. Cramming the equivalent of a DJI Osmo ",
+      "link": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+      "published": "2026-08-12T08:30:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Android",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.561592"
+    },
+    {
+      "source": "theverge",
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA c",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "published": "2026-08-12T08:09:34-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "Go",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.561638"
+    },
+    {
+      "source": "theverge",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace ta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "published": "2026-08-12T07:58:54-04:00",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.561685"
+    },
+    {
+      "source": "theverge",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posti",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "published": "2026-08-11T20:39:26-04:00",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.561720"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "summary": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked",
+      "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "published": "2026-08-11T18:36:35-04:00",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:21.561751"
+    },
+    {
+      "source": "hackernews",
+      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+      "summary": "Article URL: https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/\nComments URL: https://news.ycombinator.com/item?id=49271126\nPoints: 22\n# Comments: 2",
+      "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+      "published": "Wed, 12 Aug 2026 12:07:16 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-12T07:05:47.311432"
-    },
-    {
-      "source": "techcrunch",
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "published": "Tue, 11 Aug 2026 19:38:23 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:47.311470"
+      "crawled_at": "2026-08-12T12:41:22.078886"
     },
     {
       "source": "hackernews",
-      "title": "llama.cpp",
-      "summary": "Article URL: https://llama.app\nComments URL: https://news.ycombinator.com/item?id=49267928\nPoints: 112\n# Comments: 48",
-      "link": "https://llama.app",
-      "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+      "title": "2026 Eclipse Webcams",
+      "summary": "Article URL: https://jonty.github.io/2026_eclipse_webcams/\nComments URL: https://news.ycombinator.com/item?id=49270953\nPoints: 65\n# Comments: 11",
+      "link": "https://jonty.github.io/2026_eclipse_webcams/",
+      "published": "Wed, 12 Aug 2026 11:53:01 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-12T07:05:48.045840"
-    },
-    {
-      "source": "hackernews",
-      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
-      "summary": "Article URL: https://github.com/sgkdev/bad_garbage\nComments URL: https://news.ycombinator.com/item?id=49267550\nPoints: 10\n# Comments: 0",
-      "link": "https://github.com/sgkdev/bad_garbage",
-      "published": "Wed, 12 Aug 2026 03:31:42 +0000",
-      "keywords": [
-        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:48.045878"
+      "category": "Tech News",
+      "crawled_at": "2026-08-12T12:41:22.078928"
     },
     {
       "source": "hackernews",
-      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
-      "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\nComments URL: https://news.ycombinator.com/item?id=49267527\nPoints: 11\n# Comments: 0",
-      "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-      "published": "Wed, 12 Aug 2026 03:27:31 +0000",
+      "title": "I hate packaging my software for Linux",
+      "summary": "Article URL: https://getfresh.dev/docs/blog/packaging-for-linux/\nComments URL: https://news.ycombinator.com/item?id=49270764\nPoints: 43\n# Comments: 35",
+      "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "published": "Wed, 12 Aug 2026 11:33:48 +0000",
       "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-12T07:05:48.045919"
+      "crawled_at": "2026-08-12T12:41:22.078962"
     },
     {
       "source": "hackernews",
-      "title": "The Human Is the Loop",
-      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 61\n# Comments: 26",
-      "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "published": "Wed, 12 Aug 2026 02:15:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-12T07:05:48.045953"
-    },
-    {
-      "source": "hackernews",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\nComments URL: https://news.ycombinator.com/item?id=49267057\nPoints: 161\n# Comments: 35",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "summary": "Article URL: https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/\nComments URL: https://news.ycombinator.com/item?id=49270621\nPoints: 17\n# Comments: 8",
+      "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "published": "Wed, 12 Aug 2026 11:13:36 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:48.045985"
+      "crawled_at": "2026-08-12T12:41:22.078989"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "summary": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.Compared with wolframscript / Mathematica, the main differences are:",
+      "link": "https://woxi.ad-si.com",
+      "published": "Wed, 12 Aug 2026 10:06:29 +0000",
+      "keywords": [
+        "AI",
+        "Python",
+        "Rust",
+        "REST",
+        "Startup"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:22.079068"
     },
     {
       "source": "arstechnica",
@@ -143,7 +221,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-12T07:05:48.198050"
+      "crawled_at": "2026-08-12T12:41:22.193344"
     },
     {
       "source": "arstechnica",
@@ -156,7 +234,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-12T07:05:48.198084"
+      "crawled_at": "2026-08-12T12:41:22.193381"
     },
     {
       "source": "arstechnica",
@@ -169,7 +247,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:48.198108"
+      "crawled_at": "2026-08-12T12:41:22.193404"
     },
     {
       "source": "arstechnica",
@@ -182,7 +260,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-12T07:05:48.198131"
+      "crawled_at": "2026-08-12T12:41:22.193427"
     },
     {
       "source": "arstechnica",
@@ -196,59 +274,76 @@
         "Meta"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-12T07:05:48.198173"
+      "crawled_at": "2026-08-12T12:41:22.193450"
     },
     {
       "source": "wired",
-      "title": "Walmart Promo Codes: Up to 65% Off for August 2026",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
+      "title": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
+      "summary": "Honor’s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam.",
+      "link": "https://www.wired.com/story/honor-robot-phone/",
+      "published": "Wed, 12 Aug 2026 12:30:00 +0000",
       "keywords": [
+        "Android"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-12T12:41:22.349815"
+    },
+    {
+      "source": "wired",
+      "title": "This Coin-Sized Device Can Hack a Boeing 737",
+      "summary": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.",
+      "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "published": "Wed, 12 Aug 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "Hack",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-08-12T07:05:48.327953"
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:22.349874"
     },
     {
       "source": "wired",
-      "title": "20% Off Brooks Promo Code | August 2026",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-12T07:05:48.327982"
+      "title": "How to Select the Office Chair That’s Right For You",
+      "summary": "Not all office chairs are right for all people. I asked an ergonomist how to select the right office chair for your budget, height, and physique.",
+      "link": "https://www.wired.com/story/how-to-choose-the-right-office-chair/",
+      "published": "Wed, 12 Aug 2026 11:32:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:22.349906"
     },
     {
       "source": "wired",
-      "title": "Sam's Club Promo Codes and Membership Deals for August 2026",
-      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-      "link": "https://www.wired.com/story/sams-club-coupon/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-12T07:05:48.328009"
+      "title": "Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas",
+      "summary": "Ego’s newest, biggest, self-propelled mower handles larger yards in less time with impressive performance and battery life.",
+      "link": "https://www.wired.com/review/ego-1300-electric-lawn-mower/",
+      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-12T12:41:22.349944"
     },
     {
       "source": "wired",
-      "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
-      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
-      "link": "https://www.wired.com/story/chegg-coupon-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-12T07:05:48.328032"
-    },
-    {
-      "source": "wired",
-      "title": "Zoro Coupon Codes: 55% Off August",
-      "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies this month.",
-      "link": "https://www.wired.com/story/zoro-promo-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-12T07:05:48.328055"
+      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "published": "Wed, 12 Aug 2026 10:45:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-12T12:41:22.349975"
     }
   ]
 }
