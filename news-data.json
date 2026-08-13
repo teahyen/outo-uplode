@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T07:09:35.668663",
+  "last_updated": "2026-08-13T12:42:25.687289",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.663834"
+      "crawled_at": "2026-08-13T12:42:24.842183"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.663871"
+      "crawled_at": "2026-08-13T12:42:24.842209"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "Rust"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:34.663908"
+      "crawled_at": "2026-08-13T12:42:24.842235"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.663943"
+      "crawled_at": "2026-08-13T12:42:24.842258"
     },
     {
       "source": "techcrunch",
@@ -66,7 +66,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.663973"
+      "crawled_at": "2026-08-13T12:42:24.842279"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-08-13T07:09:34.773816"
+      "crawled_at": "2026-08-13T12:42:24.987388"
     },
     {
       "source": "theverge",
@@ -94,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.773872"
+      "crawled_at": "2026-08-13T12:42:24.987425"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.773912"
+      "crawled_at": "2026-08-13T12:42:24.987455"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
       "published": "2026-08-12T15:30:00-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T07:09:34.773957"
+      "crawled_at": "2026-08-13T12:42:24.987491"
     },
     {
       "source": "theverge",
@@ -133,12 +133,36 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:34.773989"
+      "crawled_at": "2026-08-13T12:42:24.987514"
+    },
+    {
+      "source": "hackernews",
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "summary": "Article URL: https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/\nComments URL: https://news.ycombinator.com/item?id=49284774\nPoints: 54\n# Comments: 19",
+      "link": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "published": "Thu, 13 Aug 2026 12:09:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.371143"
+    },
+    {
+      "source": "hackernews",
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "summary": "Article URL: https://atg.science/careers\nComments URL: https://news.ycombinator.com/item?id=49284697\nPoints: 0\n# Comments: 0",
+      "link": "https://atg.science/careers",
+      "published": "Thu, 13 Aug 2026 12:01:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.371174"
     },
     {
       "source": "hackernews",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 17\n# Comments: 3",
+      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 245\n# Comments: 158",
       "link": "https://openai.com/codex/",
       "published": "Thu, 13 Aug 2026 04:53:41 +0000",
       "keywords": [
@@ -149,57 +173,44 @@
         "Linux"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.353112"
-    },
-    {
-      "source": "hackernews",
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "summary": "Article URL: https://celld.dev/\nComments URL: https://news.ycombinator.com/item?id=49281839\nPoints: 9\n# Comments: 0",
-      "link": "https://celld.dev/",
-      "published": "Thu, 13 Aug 2026 04:37:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T07:09:35.353154"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 29\n# Comments: 7",
-      "link": "https://www.ballet.dev/",
-      "published": "Thu, 13 Aug 2026 00:01:43 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.353192"
+      "crawled_at": "2026-08-13T12:42:25.371193"
     },
     {
       "source": "hackernews",
       "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 72\n# Comments: 20",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 103\n# Comments: 40",
       "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
       "published": "Wed, 12 Aug 2026 23:50:33 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-13T07:09:35.353245"
+      "crawled_at": "2026-08-13T12:42:25.371217"
     },
     {
       "source": "hackernews",
       "title": "Flutter 3.47",
-      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 72\n# Comments: 63",
+      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 141\n# Comments: 155",
       "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
       "published": "Wed, 12 Aug 2026 23:46:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T07:09:35.353280"
+      "crawled_at": "2026-08-13T12:42:25.371242"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "published": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-13T12:42:25.516090"
     },
     {
       "source": "arstechnica",
@@ -211,7 +222,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.510545"
+      "crawled_at": "2026-08-13T12:42:25.516111"
     },
     {
       "source": "arstechnica",
@@ -223,7 +234,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.510583"
+      "crawled_at": "2026-08-13T12:42:25.516131"
     },
     {
       "source": "arstechnica",
@@ -235,7 +246,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.510606"
+      "crawled_at": "2026-08-13T12:42:25.516148"
     },
     {
       "source": "arstechnica",
@@ -247,75 +258,66 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T07:09:35.510644"
+      "crawled_at": "2026-08-13T12:42:25.516176"
     },
     {
-      "source": "arstechnica",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "published": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "source": "wired",
+      "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+      "summary": "Protect your Samsung phone with these cases and screen protectors.",
+      "link": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+      "published": "Thu, 13 Aug 2026 12:05:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.687122"
+    },
+    {
+      "source": "wired",
+      "title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
+      "summary": "Speedy Qi2 wireless charging in a magnetic puck and stand combo makes Google’s Pixelsnap well worth grabbing at half price.",
+      "link": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
+      "published": "Thu, 13 Aug 2026 11:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.687159"
+    },
+    {
+      "source": "wired",
+      "title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
+      "summary": "People with schizophrenia face a perfect storm of dangers on a hotter planet.",
+      "link": "https://www.wired.com/story/heat-wave-schizophrenia/",
+      "published": "Thu, 13 Aug 2026 10:16:33 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.687184"
+    },
+    {
+      "source": "wired",
+      "title": "5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More",
+      "summary": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
+      "link": "https://www.wired.com/story/the-best-android-tablets/",
+      "published": "Thu, 13 Aug 2026 10:00:00 +0000",
       "keywords": [
         "AI",
         "Amazon",
+        "Android",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T07:09:35.510667"
+      "crawled_at": "2026-08-13T12:42:25.687202"
     },
     {
       "source": "wired",
-      "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "link": "https://www.wired.com/story/priceline-promo-code/",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:35.668436"
-    },
-    {
-      "source": "wired",
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "summary": "Shop the Naturepedic sale this 2026.",
-      "link": "https://www.wired.com/story/naturepedic-promo-code/",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "title": "The 10 Best Cooling Mattresses for Hot Sleepers (2026)",
+      "summary": "Nothing ruins a great night of sleep faster than getting too hot. We slept on a myriad of cooling mattresses to find which ones drew the heat away best.",
+      "link": "https://www.wired.com/gallery/best-cooling-mattress/",
+      "published": "Thu, 13 Aug 2026 09:35:00 +0000",
       "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:35.668465"
-    },
-    {
-      "source": "wired",
-      "title": "Bose Promo Code: 40% Off for August 2026",
-      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "link": "https://www.wired.com/story/bose-coupon-code/",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:35.668488"
-    },
-    {
-      "source": "wired",
-      "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
-      "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.",
-      "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:35.668513"
-    },
-    {
-      "source": "wired",
-      "title": "Castlery Promo Codes: 15% Off for August 2026",
-      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "link": "https://www.wired.com/story/castlery-promo-code/",
-      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T07:09:35.668537"
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T12:42:25.687227"
     }
   ]
 }
