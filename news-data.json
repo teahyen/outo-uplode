@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T01:03:22.378804",
-  "news_count": 20,
+  "last_updated": "2026-08-13T07:09:35.668663",
+  "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.638463"
+      "crawled_at": "2026-08-13T07:09:34.663834"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.638503"
+      "crawled_at": "2026-08-13T07:09:34.663871"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "Rust"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-13T01:01:09.638545"
+      "crawled_at": "2026-08-13T07:09:34.663908"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.638578"
+      "crawled_at": "2026-08-13T07:09:34.663943"
     },
     {
       "source": "techcrunch",
@@ -66,7 +66,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.638610"
+      "crawled_at": "2026-08-13T07:09:34.663973"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-08-13T01:01:09.705743"
+      "crawled_at": "2026-08-13T07:09:34.773816"
     },
     {
       "source": "theverge",
@@ -94,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.705800"
+      "crawled_at": "2026-08-13T07:09:34.773872"
     },
     {
       "source": "theverge",
@@ -108,7 +108,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.705845"
+      "crawled_at": "2026-08-13T07:09:34.773912"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
       "published": "2026-08-12T15:30:00-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T01:01:09.705894"
+      "crawled_at": "2026-08-13T07:09:34.773957"
     },
     {
       "source": "theverge",
@@ -133,7 +133,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:01:09.705927"
+      "crawled_at": "2026-08-13T07:09:34.773989"
+    },
+    {
+      "source": "hackernews",
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 17\n# Comments: 3",
+      "link": "https://openai.com/codex/",
+      "published": "Thu, 13 Aug 2026 04:53:41 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Linux"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-13T07:09:35.353112"
+    },
+    {
+      "source": "hackernews",
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "summary": "Article URL: https://celld.dev/\nComments URL: https://news.ycombinator.com/item?id=49281839\nPoints: 9\n# Comments: 0",
+      "link": "https://celld.dev/",
+      "published": "Thu, 13 Aug 2026 04:37:31 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T07:09:35.353154"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 29\n# Comments: 7",
+      "link": "https://www.ballet.dev/",
+      "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-13T07:09:35.353192"
+    },
+    {
+      "source": "hackernews",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 72\n# Comments: 20",
+      "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-13T07:09:35.353245"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flutter 3.47",
+      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 72\n# Comments: 63",
+      "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "published": "Wed, 12 Aug 2026 23:46:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-13T07:09:35.353280"
     },
     {
       "source": "arstechnica",
@@ -145,7 +211,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.244267"
+      "crawled_at": "2026-08-13T07:09:35.510545"
     },
     {
       "source": "arstechnica",
@@ -157,7 +223,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.244306"
+      "crawled_at": "2026-08-13T07:09:35.510583"
     },
     {
       "source": "arstechnica",
@@ -169,7 +235,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.244329"
+      "crawled_at": "2026-08-13T07:09:35.510606"
     },
     {
       "source": "arstechnica",
@@ -181,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T01:03:22.244367"
+      "crawled_at": "2026-08-13T07:09:35.510644"
     },
     {
       "source": "arstechnica",
@@ -195,73 +261,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.244411"
+      "crawled_at": "2026-08-13T07:09:35.510667"
     },
     {
       "source": "wired",
-      "title": "The Best Photos of the Big August Solar Eclipse",
-      "summary": "It’s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here’s what it looked like in the path of totality.",
-      "link": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
-      "published": "Wed, 12 Aug 2026 22:47:30 +0000",
+      "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "link": "https://www.wired.com/story/priceline-promo-code/",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T01:03:22.378651"
+      "category": "Programming",
+      "crawled_at": "2026-08-13T07:09:35.668436"
     },
     {
       "source": "wired",
-      "title": "The White House Is Going to Expand Its AI Policy",
-      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "published": "Wed, 12 Aug 2026 21:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.378689"
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "summary": "Shop the Naturepedic sale this 2026.",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-13T07:09:35.668465"
     },
     {
       "source": "wired",
-      "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
-      "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
-      "link": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
-      "published": "Wed, 12 Aug 2026 20:14:30 +0000",
+      "title": "Bose Promo Code: 40% Off for August 2026",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "link": "https://www.wired.com/story/bose-coupon-code/",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T01:03:22.378735"
+      "category": "Programming",
+      "crawled_at": "2026-08-13T07:09:35.668488"
     },
     {
       "source": "wired",
-      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
-      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
-      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
-      "published": "Wed, 12 Aug 2026 19:05:29 +0000",
-      "keywords": [
-        "AI",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.378769"
+      "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
+      "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.",
+      "link": "https://www.wired.com/story/jabra-promo-codes-coupons/",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-13T07:09:35.668513"
     },
     {
       "source": "wired",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "published": "Wed, 12 Aug 2026 18:45:00 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T01:03:22.378796"
+      "title": "Castlery Promo Codes: 15% Off for August 2026",
+      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
+      "link": "https://www.wired.com/story/castlery-promo-code/",
+      "published": "Thu, 13 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-13T07:09:35.668537"
     }
   ]
 }
