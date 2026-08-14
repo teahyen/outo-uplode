@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-14T07:06:03.898049",
+  "last_updated": "2026-08-14T12:38:41.449091",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "published": "Fri, 14 Aug 2026 10:44:30 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:40.826884"
+    },
     {
       "source": "techcrunch",
       "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
@@ -15,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.059855"
+      "crawled_at": "2026-08-14T12:38:40.826921"
     },
     {
       "source": "techcrunch",
@@ -27,7 +40,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.060489"
+      "crawled_at": "2026-08-14T12:38:40.827304"
     },
     {
       "source": "techcrunch",
@@ -42,7 +55,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-14T07:06:03.060537"
+      "crawled_at": "2026-08-14T12:38:40.827352"
     },
     {
       "source": "techcrunch",
@@ -55,95 +68,119 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.060568"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.060596"
+      "crawled_at": "2026-08-14T12:38:40.827384"
     },
     {
       "source": "theverge",
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. I",
-      "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-      "published": "2026-08-13T21:06:15-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.223931"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outs",
-      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-      "published": "2026-08-13T19:13:24-04:00",
-      "keywords": [
-        "Apple",
-        "Git",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-14T07:06:03.223985"
-    },
-    {
-      "source": "theverge",
-      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since ",
-      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-      "published": "2026-08-13T17:53:04-04:00",
+      "title": "CMF hit the balance between cheap and good clip earbuds",
+      "summary": "Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound response suffers. Ambient awareness is great because you can easily hear the sound around you, which mea",
+      "link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review",
+      "published": "2026-08-14T08:00:00-04:00",
       "keywords": [
         "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-14T07:06:03.224046"
-    },
-    {
-      "source": "theverge",
-      "title": "The fight over Flock and other ALPRs",
-      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and pe",
-      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-      "published": "2026-08-13T17:46:21-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.224089"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "published": "2026-08-13T17:42:38-04:00",
-      "keywords": [
-        "Go",
-        "React",
-        "Microsoft",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.224144"
+      "crawled_at": "2026-08-14T12:38:40.904191"
+    },
+    {
+      "source": "theverge",
+      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
+      "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "published": "2026-08-14T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:40.904248"
+    },
+    {
+      "source": "theverge",
+      "title": "Hoto’s new cordless soldering iron heats up in three seconds",
+      "summary": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adju",
+      "link": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+      "published": "2026-08-14T07:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T12:38:40.904308"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained wi",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "published": "2026-08-14T05:21:17-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:40.904346"
+    },
+    {
+      "source": "theverge",
+      "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+      "summary": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build \"a grand monument\" to Musk on the parcel of land it owns near Starbase, Texas, with the",
+      "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+      "published": "2026-08-14T04:40:13-04:00",
+      "keywords": [
+        "AI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:40.904384"
     },
     {
       "source": "hackernews",
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "summary": "Article URL: https://z.ai/blog/glm-5.3\nComments URL: https://news.ycombinator.com/item?id=49294997\nPoints: 226\n# Comments: 77",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/\nComments URL: https://news.ycombinator.com/item?id=49296740\nPoints: 134\n# Comments: 117",
+      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T12:38:41.246339"
+    },
+    {
+      "source": "hackernews",
+      "title": "DeepSeek peak/off-peak pricing update",
+      "summary": "Article URL: https://api-docs.deepseek.com/news/news260813/\nComments URL: https://news.ycombinator.com/item?id=49296627\nPoints: 76\n# Comments: 30",
+      "link": "https://api-docs.deepseek.com/news/news260813/",
+      "published": "Fri, 14 Aug 2026 09:55:33 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T12:38:41.246384"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "summary": "Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\nComments URL: https://news.ycombinator.com/item?id=49295238\nPoints: 45\n# Comments: 11",
+      "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:41.246416"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "summary": "Article URL: https://z.ai/blog/glm-5.3\nComments URL: https://news.ycombinator.com/item?id=49294997\nPoints: 621\n# Comments: 307",
       "link": "https://z.ai/blog/glm-5.3",
       "published": "Fri, 14 Aug 2026 05:19:59 +0000",
       "keywords": [
@@ -151,57 +188,56 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.494197"
+      "crawled_at": "2026-08-14T12:38:41.246442"
     },
     {
       "source": "hackernews",
-      "title": "Bluesky Protocol Services",
-      "summary": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 140\n# Comments: 22",
-      "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+      "summary": "Article URL: https://github.com/JustVugg/lumabri\nComments URL: https://news.ycombinator.com/item?id=49293523\nPoints: 34\n# Comments: 12",
+      "link": "https://github.com/JustVugg/lumabri",
+      "published": "Fri, 14 Aug 2026 00:47:04 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.494241"
+      "crawled_at": "2026-08-14T12:38:41.246486"
     },
     {
-      "source": "hackernews",
-      "title": "Blog about things you don't understand yet",
-      "summary": "Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\nComments URL: https://news.ycombinator.com/item?id=49293087\nPoints: 77\n# Comments: 28",
-      "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "published": "Thu, 13 Aug 2026 23:39:33 +0000",
+      "source": "arstechnica",
+      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "summary": "\"We’ve never seen launch capacity so constrained.\"",
+      "link": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+      "published": "Fri, 14 Aug 2026 11:00:49 +0000",
       "keywords": [
-        "Go",
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.494280"
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:41.345835"
     },
     {
-      "source": "hackernews",
-      "title": "NP-overrated",
-      "summary": "Article URL: https://gruhn.me/blog/2026-08-13/\nComments URL: https://news.ycombinator.com/item?id=49291268\nPoints: 192\n# Comments: 122",
-      "link": "https://gruhn.me/blog/2026-08-13/",
-      "published": "Thu, 13 Aug 2026 20:14:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.494311"
-    },
-    {
-      "source": "hackernews",
-      "title": "How Gödel's Proof Works (2020)",
-      "summary": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/\nComments URL: https://news.ycombinator.com/item?id=49290969\nPoints: 98\n# Comments: 42",
-      "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "published": "Thu, 13 Aug 2026 19:44:46 +0000",
+      "source": "arstechnica",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+      "link": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "published": "Fri, 14 Aug 2026 11:00:05 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
+      "category": "Hardware",
+      "crawled_at": "2026-08-14T12:38:41.345872"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
+      "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+      "published": "Fri, 14 Aug 2026 07:01:15 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.494347"
+      "crawled_at": "2026-08-14T12:38:41.345902"
     },
     {
       "source": "arstechnica",
@@ -214,7 +250,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.753375"
+      "crawled_at": "2026-08-14T12:38:41.345924"
     },
     {
       "source": "arstechnica",
@@ -228,94 +264,70 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-14T07:06:03.753409"
+      "crawled_at": "2026-08-14T12:38:41.345949"
     },
     {
-      "source": "arstechnica",
-      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
-      "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-      "published": "Thu, 13 Aug 2026 19:12:15 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "link": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "published": "Fri, 14 Aug 2026 12:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.753442"
+      "crawled_at": "2026-08-14T12:38:41.448837"
     },
     {
-      "source": "arstechnica",
-      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "published": "Thu, 13 Aug 2026 18:31:56 +0000",
+      "source": "wired",
+      "title": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
+      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "link": "https://www.wired.com/story/best-paper-planners/",
+      "published": "Fri, 14 Aug 2026 11:33:00 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T12:38:41.448877"
+    },
+    {
+      "source": "wired",
+      "title": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
+      "summary": "The agency signed agreements to not enforce parts of three federal court orders against auto dealers accused of discrimination—and didn’t notify judges or at least one of its coplaintiffs.",
+      "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
+      "published": "Fri, 14 Aug 2026 11:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-14T07:06:03.753464"
+      "crawled_at": "2026-08-14T12:38:41.448919"
     },
     {
-      "source": "arstechnica",
-      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-      "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-      "published": "Thu, 13 Aug 2026 18:10:14 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "published": "Fri, 14 Aug 2026 10:45:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T12:38:41.448951"
+    },
+    {
+      "source": "wired",
+      "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
+      "summary": "Protect your Pixel 10a, Pixel 10, or Pixel 10 Pro XL with a tried-and-true phone case, screen protector, and Qi2 charger.",
+      "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
+      "published": "Fri, 14 Aug 2026 10:31:00 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-08-14T07:06:03.753499"
-    },
-    {
-      "source": "wired",
-      "title": "Columbia Promo Codes: 15% Off | August 2026",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-14T07:06:03.897839"
-    },
-    {
-      "source": "wired",
-      "title": "Layla Sleep Coupon: Save Up to $600 in August 2026",
-      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in August 2026.",
-      "link": "https://www.wired.com/story/layla-sleep-coupon/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-14T07:06:03.897892"
-    },
-    {
-      "source": "wired",
-      "title": "Office Depot Coupons: Save With Promo Codes in August 2026",
-      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-14T07:06:03.897921"
-    },
-    {
-      "source": "wired",
-      "title": "HelloFresh Promo Codes: 55% Off for August 2026",
-      "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in August 2026. Discover our best codes and discounts to let you save time and money.",
-      "link": "https://www.wired.com/story/hellofresh-coupon/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-14T07:06:03.897947"
-    },
-    {
-      "source": "wired",
-      "title": "Pura Promo Codes: $20 Off August 2026",
-      "summary": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "link": "https://www.wired.com/story/pura-promo-code/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-14T07:06:03.897971"
+      "crawled_at": "2026-08-14T12:38:41.449000"
     }
   ]
 }
