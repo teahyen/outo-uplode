@@ -1,270 +1,297 @@
 {
-  "last_updated": "2026-08-13T18:45:53.384758",
+  "last_updated": "2026-08-14T01:00:24.977670",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "published": "Thu, 13 Aug 2026 22:12:40 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
+        "Go",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:52.692144"
+      "crawled_at": "2026-08-14T01:00:24.158083"
     },
     {
       "source": "techcrunch",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "published": "Thu, 13 Aug 2026 22:02:04 +0000",
       "keywords": [
-        "AI",
-        "OpenAI"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:52.692178"
+      "crawled_at": "2026-08-14T01:00:24.158834"
     },
     {
       "source": "techcrunch",
-      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "published": "Thu, 13 Aug 2026 16:37:53 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:52.692215"
-    },
-    {
-      "source": "techcrunch",
-      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "published": "Thu, 13 Aug 2026 21:50:11 +0000",
       "keywords": [
         "Go",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-13T18:45:52.692256"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Instagram introduces a redesigned wordmark",
-      "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
-      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-      "published": "Thu, 13 Aug 2026 15:46:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:52.692288"
-    },
-    {
-      "source": "theverge",
-      "title": "I finally found a robot lawnmower I’d trust with my yard",
-      "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on ",
-      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-      "published": "2026-08-13T14:30:00-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:52.797202"
-    },
-    {
-      "source": "theverge",
-      "title": "You can now just point at a mess and this robot vacuum will suck it up",
-      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
-      "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-      "published": "2026-08-13T14:00:00-04:00",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:52.797265"
-    },
-    {
-      "source": "theverge",
-      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
-      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features w",
-      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
-      "published": "2026-08-13T12:38:15-04:00",
-      "keywords": [
-        "Go",
-        "iOS",
+        "Apple",
+        "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-13T18:45:52.797317"
+      "crawled_at": "2026-08-14T01:00:24.158900"
     },
     {
-      "source": "theverge",
-      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
-      "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-l",
-      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
-      "published": "2026-08-13T12:23:18-04:00",
+      "source": "techcrunch",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:52.797362"
+      "crawled_at": "2026-08-14T01:00:24.158933"
     },
     {
-      "source": "theverge",
-      "title": "Meta adds AI screening to detect WhatsApp scams",
-      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users",
-      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-      "published": "2026-08-13T12:10:06-04:00",
-      "keywords": [
-        "AI",
-        "Machine Learning",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:52.797417"
-    },
-    {
-      "source": "hackernews",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\nComments URL: https://news.ycombinator.com/item?id=49289844\nPoints: 16\n# Comments: 0",
-      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "published": "Thu, 13 Aug 2026 18:10:02 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.124066"
-    },
-    {
-      "source": "hackernews",
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "summary": "Article URL: https://0.mk/blog/link-rot\nComments URL: https://news.ycombinator.com/item?id=49289532\nPoints: 18\n# Comments: 3",
-      "link": "https://0.mk/blog/link-rot",
-      "published": "Thu, 13 Aug 2026 17:49:18 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.124111"
-    },
-    {
-      "source": "hackernews",
-      "title": "Choose Boring Technology (2015)",
-      "summary": "Article URL: https://mcfunley.com/choose-boring-technology\nComments URL: https://news.ycombinator.com/item?id=49289512\nPoints: 49\n# Comments: 14",
-      "link": "https://mcfunley.com/choose-boring-technology",
-      "published": "Thu, 13 Aug 2026 17:48:13 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.124145"
-    },
-    {
-      "source": "hackernews",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "summary": "Article URL: https://donkeybas.com/\nComments URL: https://news.ycombinator.com/item?id=49289465\nPoints: 33\n# Comments: 9",
-      "link": "https://donkeybas.com/",
-      "published": "Thu, 13 Aug 2026 17:45:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.124185"
-    },
-    {
-      "source": "hackernews",
-      "title": "Gemini 3.7 Flash",
-      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...\n\nComments URL: https://news.ycombinator.com/item?id=49289112\nPoints: 215\n# Comments: 140",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "published": "Thu, 13 Aug 2026 17:23:22 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "API",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.124211"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
-      "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
-      "link": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-      "published": "Thu, 13 Aug 2026 14:00:57 +0000",
+      "source": "techcrunch",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.239653"
+      "crawled_at": "2026-08-14T01:00:24.158961"
     },
     {
-      "source": "arstechnica",
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "published": "Thu, 13 Aug 2026 13:58:56 +0000",
+      "source": "theverge",
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outs",
+      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "published": "2026-08-13T19:13:24-04:00",
       "keywords": [
-        "Anthropic",
-        "Claude",
+        "Apple",
+        "Git",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-14T01:00:24.273016"
+    },
+    {
+      "source": "theverge",
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since ",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "published": "2026-08-13T17:53:04-04:00",
+      "keywords": [
         "Go",
-        "API",
-        "IPO"
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-14T01:00:24.273095"
+    },
+    {
+      "source": "theverge",
+      "title": "The fight over Flock and other ALPRs",
+      "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and pe",
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "published": "2026-08-13T17:46:21-04:00",
+      "keywords": [
+        "AI",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.239683"
+      "crawled_at": "2026-08-14T01:00:24.273139"
+    },
+    {
+      "source": "theverge",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "published": "2026-08-13T17:42:38-04:00",
+      "keywords": [
+        "Go",
+        "React",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.273197"
+    },
+    {
+      "source": "theverge",
+      "title": "Netflix is closing two game studios",
+      "summary": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and i",
+      "link": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+      "published": "2026-08-13T16:52:58-04:00",
+      "keywords": [
+        "iOS",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-14T01:00:24.273239"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bluesky Protocol Services",
+      "summary": "Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services\nComments URL: https://news.ycombinator.com/item?id=49293324\nPoints: 35\n# Comments: 1",
+      "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.646128"
+    },
+    {
+      "source": "hackernews",
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "summary": "Article URL: https://sparrowmap.com/\nComments URL: https://news.ycombinator.com/item?id=49293294\nPoints: 6\n# Comments: 1",
+      "link": "https://sparrowmap.com/",
+      "published": "Fri, 14 Aug 2026 00:10:04 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.646184"
+    },
+    {
+      "source": "hackernews",
+      "title": "How AI text watermarking works",
+      "summary": "Article URL: https://declaude.org/watermarking/\nComments URL: https://news.ycombinator.com/item?id=49292932\nPoints: 39\n# Comments: 18",
+      "link": "https://declaude.org/watermarking/",
+      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T01:00:24.646212"
+    },
+    {
+      "source": "hackernews",
+      "title": "NP-Overrated",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-13/\nComments URL: https://news.ycombinator.com/item?id=49291268\nPoints: 137\n# Comments: 82",
+      "link": "https://gruhn.me/blog/2026-08-13/",
+      "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.646246"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Gödel's Proof Works (2020)",
+      "summary": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/\nComments URL: https://news.ycombinator.com/item?id=49290969\nPoints: 61\n# Comments: 32",
+      "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "published": "Thu, 13 Aug 2026 19:44:46 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.646285"
     },
     {
       "source": "arstechnica",
-      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "summary": "Let's shield the astronauts instead of the spacecraft.",
-      "link": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "published": "Thu, 13 Aug 2026 13:48:55 +0000",
+      "title": "US wait times for cancer surgeries are getting longer and longer",
+      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
+      "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+      "published": "Thu, 13 Aug 2026 22:17:29 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T01:00:24.859600"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "published": "Thu, 13 Aug 2026 19:38:58 +0000",
+      "keywords": [
+        "Go",
+        "Security",
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-14T01:00:24.859637"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+      "link": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+      "published": "Thu, 13 Aug 2026 19:12:15 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.239712"
+      "crawled_at": "2026-08-14T01:00:24.859672"
     },
     {
       "source": "arstechnica",
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "published": "Thu, 13 Aug 2026 11:10:18 +0000",
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "published": "Thu, 13 Aug 2026 18:31:56 +0000",
       "keywords": [
-        "Claude",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.239741"
+      "crawled_at": "2026-08-14T01:00:24.859695"
     },
     {
       "source": "arstechnica",
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
-      "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-      "published": "Wed, 12 Aug 2026 22:31:19 +0000",
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "published": "Thu, 13 Aug 2026 18:10:14 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-14T01:00:24.859730"
+    },
+    {
+      "source": "wired",
+      "title": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "published": "Thu, 13 Aug 2026 22:37:19 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "OpenAI",
+        "Security",
+        "Cybersecurity",
+        "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.239761"
+      "crawled_at": "2026-08-14T01:00:24.977440"
+    },
+    {
+      "source": "wired",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "published": "Thu, 13 Aug 2026 21:14:43 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-14T01:00:24.977496"
     },
     {
       "source": "wired",
@@ -276,7 +303,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-13T18:45:53.384454"
+      "crawled_at": "2026-08-14T01:00:24.977525"
     },
     {
       "source": "wired",
@@ -288,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.384520"
+      "crawled_at": "2026-08-14T01:00:24.977563"
     },
     {
       "source": "wired",
@@ -298,31 +325,7 @@
       "published": "Thu, 13 Aug 2026 12:05:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.384553"
-    },
-    {
-      "source": "wired",
-      "title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
-      "summary": "Speedy Qi2 wireless charging in a magnetic puck and stand combo makes Google’s Pixelsnap well worth grabbing at half price.",
-      "link": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
-      "published": "Thu, 13 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.384615"
-    },
-    {
-      "source": "wired",
-      "title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
-      "summary": "People with schizophrenia face a perfect storm of dangers on a hotter planet.",
-      "link": "https://www.wired.com/story/heat-wave-schizophrenia/",
-      "published": "Thu, 13 Aug 2026 10:16:33 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-13T18:45:53.384651"
+      "crawled_at": "2026-08-14T01:00:24.977592"
     }
   ]
 }
