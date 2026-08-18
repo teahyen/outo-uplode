@@ -1,73 +1,128 @@
 {
-  "last_updated": "2026-08-17T18:21:23.203037",
+  "last_updated": "2026-08-18T00:34:53.954534",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "YouTube will now count a view as soon as a video starts playing",
-      "summary": "The change comes a year after YouTube applied the same approach to counting views on Shorts videos.",
-      "link": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
-      "published": "Mon, 17 Aug 2026 18:09:33 +0000",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
       "keywords": [
-        "AR"
+        "Anthropic"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-17T18:21:18.229119"
+      "category": "Tech News",
+      "crawled_at": "2026-08-18T00:34:53.274574"
     },
     {
       "source": "techcrunch",
-      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
-      "published": "Mon, 17 Aug 2026 17:10:59 +0000",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
       "keywords": [
         "AI",
-        "Rust",
+        "Go",
+        "Startup",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:18.229151"
+      "crawled_at": "2026-08-18T00:34:53.274622"
     },
     {
       "source": "techcrunch",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "published": "Mon, 17 Aug 2026 20:18:35 +0000",
+      "keywords": [
+        "Security",
+        "Cybersecurity",
+        "Apple",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-18T00:34:53.274665"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "published": "Mon, 17 Aug 2026 19:33:51 +0000",
+      "keywords": [
+        "REST",
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-08-18T00:34:53.274711"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "published": "Mon, 17 Aug 2026 19:24:43 +0000",
       "keywords": [
         "AI",
-        "Amazon",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:18.229173"
+      "crawled_at": "2026-08-18T00:34:53.274747"
     },
     {
-      "source": "techcrunch",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "source": "theverge",
+      "title": "Reddit’s AI is turning posts into podcasts and short videos",
+      "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the [&#8230;]",
+      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "published": "2026-08-17T19:46:01-04:00",
       "keywords": [
         "AI",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:18.229193"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:18.229212"
+      "crawled_at": "2026-08-18T00:34:53.331458"
+    },
+    {
+      "source": "theverge",
+      "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
+      "summary": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in Apr",
+      "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "published": "2026-08-17T16:59:23-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-18T00:34:53.331502"
+    },
+    {
+      "source": "theverge",
+      "title": "This compact Glorious mechanical keyboard is just $35",
+      "summary": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually $139.99) by entering the coupon code WOOTGAMING at checkout, ",
+      "link": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+      "published": "2026-08-17T15:27:49-04:00",
+      "keywords": [
+        "AR",
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-18T00:34:53.331550"
+    },
+    {
+      "source": "theverge",
+      "title": "Wordle meets Clippy in this new word game",
+      "summary": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be ",
+      "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+      "published": "2026-08-17T15:03:41-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-18T00:34:53.331584"
     },
     {
       "source": "theverge",
@@ -80,189 +135,158 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:18.362927"
+      "crawled_at": "2026-08-18T00:34:53.331627"
     },
     {
-      "source": "theverge",
-      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
-      "summary": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-p",
-      "link": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-      "published": "2026-08-17T12:40:32-04:00",
+      "source": "hackernews",
+      "title": "Cursor Origin",
+      "summary": "Article URL: https://cursor.com/docs/origin\nComments URL: https://news.ycombinator.com/item?id=49339359\nPoints: 15\n# Comments: 3",
+      "link": "https://cursor.com/docs/origin",
+      "published": "Mon, 17 Aug 2026 23:58:19 +0000",
       "keywords": [
-        "Go",
-        "Meta",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:18.362988"
+      "crawled_at": "2026-08-18T00:34:53.555532"
     },
     {
-      "source": "theverge",
-      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
-      "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit t",
-      "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
-      "published": "2026-08-17T12:38:35-04:00",
+      "source": "hackernews",
+      "title": "Puppy PPE",
+      "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde\nComments URL: https://news.ycombinator.com/item?id=49338953\nPoints: 8\n# Comments: 1",
+      "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+      "published": "Mon, 17 Aug 2026 23:10:06 +0000",
       "keywords": [
-        "iPhone",
-        "iOS",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-18T00:34:53.555571"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Bluesky draws its logo on screenshots",
+      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 147\n# Comments: 113",
+      "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "published": "Mon, 17 Aug 2026 22:20:40 +0000",
+      "keywords": [
+        "Go",
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-08-18T00:34:53.555603"
+    },
+    {
+      "source": "hackernews",
+      "title": "scScript for Linux",
+      "summary": "Article URL: https://scapplications.com/\nComments URL: https://news.ycombinator.com/item?id=49338428\nPoints: 10\n# Comments: 2",
+      "link": "https://scapplications.com/",
+      "published": "Mon, 17 Aug 2026 22:18:05 +0000",
+      "keywords": [
+        "Linux",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-17T18:21:18.363027"
+      "crawled_at": "2026-08-18T00:34:53.555633"
     },
     {
-      "source": "theverge",
-      "title": "Trump’s dumb border wall",
-      "summary": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some locals call it, is imperiled and already showing signs o",
-      "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
-      "published": "2026-08-17T12:30:00-04:00",
+      "source": "hackernews",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html\nComments URL: https://news.ycombinator.com/item?id=49338328\nPoints: 99\n# Comments: 46",
+      "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "published": "Mon, 17 Aug 2026 22:06:14 +0000",
       "keywords": [
-        "AI",
-        "Go",
         "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-18T00:34:53.555667"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+      "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "published": "Mon, 17 Aug 2026 22:08:47 +0000",
+      "keywords": [
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:18.363061"
+      "crawled_at": "2026-08-18T00:34:53.835470"
     },
     {
-      "source": "theverge",
-      "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
-      "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5",
-      "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "published": "2026-08-17T11:10:25-04:00",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "iOS",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-17T18:21:18.363096"
-    },
-    {
-      "source": "hackernews",
-      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\nComments URL: https://news.ycombinator.com/item?id=49334960\nPoints: 21\n# Comments: 3",
-      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "published": "Mon, 17 Aug 2026 17:52:37 +0000",
+      "source": "arstechnica",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "published": "Mon, 17 Aug 2026 21:18:49 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-08-17T18:21:22.830867"
+      "category": "Tech News",
+      "crawled_at": "2026-08-18T00:34:53.835516"
     },
     {
-      "source": "hackernews",
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b\nComments URL: https://news.ycombinator.com/item?id=49334544\nPoints: 22\n# Comments: 2",
-      "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "published": "Mon, 17 Aug 2026 17:25:17 +0000",
+      "source": "arstechnica",
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+      "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+      "link": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+      "published": "Mon, 17 Aug 2026 20:23:09 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:22.830896"
-    },
-    {
-      "source": "hackernews",
-      "title": "Buy Your Friends Batteries",
-      "summary": "Article URL: https://domenkozar.com/2026/08/17/buy-your-friends-batteries/\nComments URL: https://news.ycombinator.com/item?id=49333932\nPoints: 73\n# Comments: 75",
-      "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-      "published": "Mon, 17 Aug 2026 16:45:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:22.830923"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sun Clock",
-      "summary": "Article URL: https://sunclock.net/\nComments URL: https://news.ycombinator.com/item?id=49333824\nPoints: 17\n# Comments: 9",
-      "link": "https://sunclock.net/",
-      "published": "Mon, 17 Aug 2026 16:37:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:22.830945"
-    },
-    {
-      "source": "hackernews",
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "summary": "Article URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/\nComments URL: https://news.ycombinator.com/item?id=49333344\nPoints: 11\n# Comments: 0",
-      "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "published": "Mon, 17 Aug 2026 16:11:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:22.830990"
+      "crawled_at": "2026-08-18T00:34:53.835540"
     },
     {
       "source": "arstechnica",
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "published": "Mon, 17 Aug 2026 18:13:47 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:23.065871"
-    },
-    {
-      "source": "arstechnica",
-      "title": "This sub-$7,000 sportscar might be just what the future needs",
-      "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
-      "link": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-      "published": "Mon, 17 Aug 2026 15:01:25 +0000",
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "summary": "\"Network effect\" can run in reverse.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "published": "Mon, 17 Aug 2026 20:14:23 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.065902"
+      "crawled_at": "2026-08-18T00:34:53.835565"
     },
     {
       "source": "arstechnica",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.065925"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Meet the only known trebuchet casualty in history",
-      "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-      "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-      "published": "Mon, 17 Aug 2026 13:41:35 +0000",
+      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+      "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "published": "Mon, 17 Aug 2026 20:00:20 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-17T18:21:23.065941"
+      "crawled_at": "2026-08-18T00:34:53.835586"
     },
     {
-      "source": "arstechnica",
-      "title": "Satellite operators are in panic mode due to a worsening launch crisis",
-      "summary": "What happens if the Falcon rockets stop flying?",
-      "link": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-      "published": "Mon, 17 Aug 2026 11:00:26 +0000",
+      "source": "wired",
+      "title": "What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy",
+      "summary": "This year’s El Niño is shaping up to be the strongest on record. This is what impacts to expect and how bad it could get.",
+      "link": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
+      "published": "Mon, 17 Aug 2026 21:28:42 +0000",
       "keywords": [
+        "API",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-17T18:21:23.065973"
+      "category": "Tech News",
+      "crawled_at": "2026-08-18T00:34:53.954302"
+    },
+    {
+      "source": "wired",
+      "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
+      "summary": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
+      "link": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+      "published": "Mon, 17 Aug 2026 20:18:17 +0000",
+      "keywords": [
+        "AI",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-18T00:34:53.954338"
     },
     {
       "source": "wired",
@@ -276,7 +300,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.202809"
+      "crawled_at": "2026-08-18T00:34:53.954380"
     },
     {
       "source": "wired",
@@ -288,7 +312,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.202848"
+      "crawled_at": "2026-08-18T00:34:53.954420"
     },
     {
       "source": "wired",
@@ -302,31 +326,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.202878"
-    },
-    {
-      "source": "wired",
-      "title": "El Niño and Saharan Dust Silence Atlantic Hurricane Season",
-      "summary": "El Niño coupled with Saharan dust is making this year’s hurricane season a dud. But there’s still potential for dangerous storms.",
-      "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
-      "published": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.202907"
-    },
-    {
-      "source": "wired",
-      "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
-      "summary": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process.",
-      "link": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
-      "published": "Mon, 17 Aug 2026 09:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-17T18:21:23.202940"
+      "crawled_at": "2026-08-18T00:34:53.954456"
     }
   ]
 }
