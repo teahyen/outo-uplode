@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:35:20.181403",
+  "last_updated": "2026-08-20T06:24:57.160080",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.503515"
+      "crawled_at": "2026-08-20T06:24:56.316889"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.503560"
+      "crawled_at": "2026-08-20T06:24:56.316931"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.503591"
+      "crawled_at": "2026-08-20T06:24:56.316960"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.503622"
+      "crawled_at": "2026-08-20T06:24:56.316989"
     },
     {
       "source": "techcrunch",
@@ -71,7 +71,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.503652"
+      "crawled_at": "2026-08-20T06:24:56.317018"
     },
     {
       "source": "theverge",
@@ -85,7 +85,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.683071"
+      "crawled_at": "2026-08-20T06:24:56.379299"
     },
     {
       "source": "theverge",
@@ -97,7 +97,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-08-20T00:35:19.683144"
+      "crawled_at": "2026-08-20T06:24:56.379378"
     },
     {
       "source": "theverge",
@@ -111,7 +111,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:19.683198"
+      "crawled_at": "2026-08-20T06:24:56.379429"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-20T00:35:19.683250"
+      "crawled_at": "2026-08-20T06:24:56.379475"
     },
     {
       "source": "theverge",
@@ -137,64 +137,65 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:19.683303"
+      "crawled_at": "2026-08-20T06:24:56.379521"
     },
     {
       "source": "hackernews",
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "summary": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\nComments URL: https://news.ycombinator.com/item?id=49368625\nPoints: 22\n# Comments: 2",
-      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "published": "Wed, 19 Aug 2026 23:38:22 +0000",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Article URL: https://openai.com/index/asana/\nComments URL: https://news.ycombinator.com/item?id=49370862\nPoints: 3\n# Comments: 0",
+      "link": "https://openai.com/index/asana/",
+      "published": "Thu, 20 Aug 2026 05:54:20 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-20T06:24:56.913081"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\nComments URL: https://news.ycombinator.com/item?id=49370440\nPoints: 16\n# Comments: 4",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "published": "Thu, 20 Aug 2026 04:42:02 +0000",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-20T06:24:56.913135"
+    },
+    {
+      "source": "hackernews",
+      "title": "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/\nComments URL: https://news.ycombinator.com/item?id=49370083\nPoints: 38\n# Comments: 0",
+      "link": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
+      "published": "Thu, 20 Aug 2026 03:31:56 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-20T06:24:56.913200"
+    },
+    {
+      "source": "hackernews",
+      "title": "Turns are Better than Radians (2022)",
+      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians\nComments URL: https://news.ycombinator.com/item?id=49369408\nPoints: 114\n# Comments: 53",
+      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "published": "Thu, 20 Aug 2026 01:29:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:19.866708"
-    },
-    {
-      "source": "hackernews",
-      "title": "Technical leaders should have the largest AI exhaust",
-      "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/\nComments URL: https://news.ycombinator.com/item?id=49368389\nPoints: 4\n# Comments: 0",
-      "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
-      "published": "Wed, 19 Aug 2026 23:12:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.866748"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
-      "summary": "Article URL: https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/\nComments URL: https://news.ycombinator.com/item?id=49368182\nPoints: 12\n# Comments: 5",
-      "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
-      "published": "Wed, 19 Aug 2026 22:51:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:19.866795"
-    },
-    {
-      "source": "hackernews",
-      "title": "Collaborative Human Agent Protocol (CHAP)",
-      "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 14\n# Comments: 3",
-      "link": "https://github.com/BrightbeamAI/chap",
-      "published": "Wed, 19 Aug 2026 22:09:16 +0000",
-      "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.866832"
+      "crawled_at": "2026-08-20T06:24:56.913254"
     },
     {
       "source": "hackernews",
       "title": "Feature Request: Support AGENTS.md",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 110\n# Comments: 55",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 195\n# Comments: 108",
       "link": "https://github.com/anthropics/claude-code/issues/6235",
       "published": "Wed, 19 Aug 2026 21:19:50 +0000",
       "keywords": [
@@ -205,7 +206,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:19.866860"
+      "crawled_at": "2026-08-20T06:24:56.913297"
+    },
+    {
+      "source": "arstechnica",
+      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+      "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+      "published": "Thu, 20 Aug 2026 00:18:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-20T06:24:57.049835"
     },
     {
       "source": "arstechnica",
@@ -218,7 +231,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.034816"
+      "crawled_at": "2026-08-20T06:24:57.049866"
     },
     {
       "source": "arstechnica",
@@ -232,7 +245,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.034852"
+      "crawled_at": "2026-08-20T06:24:57.049890"
     },
     {
       "source": "arstechnica",
@@ -245,7 +258,7 @@
         "Google"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:20.034887"
+      "crawled_at": "2026-08-20T06:24:57.049920"
     },
     {
       "source": "arstechnica",
@@ -259,90 +272,59 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.034910"
+      "crawled_at": "2026-08-20T06:24:57.049943"
     },
     {
-      "source": "arstechnica",
-      "title": "The floodgates are open after another Chinese company lands a reusable rocket",
-      "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
-      "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-      "published": "Wed, 19 Aug 2026 18:41:02 +0000",
+      "source": "wired",
+      "title": "Chewy Promo Codes: $20 Off August 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-20T06:24:57.159883"
+    },
+    {
+      "source": "wired",
+      "title": "Peacock Promo Codes: 40% Off August 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-20T06:24:57.159914"
+    },
+    {
+      "source": "wired",
+      "title": "TurboTax Full Service Coupons This August",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+      "link": "https://www.wired.com/story/turbotax-coupon/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-20T06:24:57.159951"
+    },
+    {
+      "source": "wired",
+      "title": "Dell Coupon Codes: 20% Off for August 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:20.034941"
+      "category": "Programming",
+      "crawled_at": "2026-08-20T06:24:57.159981"
     },
     {
       "source": "wired",
-      "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-      "summary": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
-      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-      "published": "Wed, 19 Aug 2026 23:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.181152"
-    },
-    {
-      "source": "wired",
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "published": "Wed, 19 Aug 2026 19:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.181187"
-    },
-    {
-      "source": "wired",
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "published": "Wed, 19 Aug 2026 16:44:07 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.181223"
-    },
-    {
-      "source": "wired",
-      "title": "Google Pixel Watch 5 Review: More Health, More AI",
-      "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-      "link": "https://www.wired.com/review/google-pixel-watch-5/",
-      "published": "Wed, 19 Aug 2026 16:34:24 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-20T00:35:20.181251"
-    },
-    {
-      "source": "wired",
-      "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
-      "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
-      "link": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
-      "published": "Wed, 19 Aug 2026 16:00:00 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-20T00:35:20.181300"
+      "title": "Booking.com Promo Codes: 20% Off | August 2026",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-20T06:24:57.160005"
     }
   ]
 }
