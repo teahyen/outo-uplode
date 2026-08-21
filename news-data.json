@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T06:25:18.542386",
+  "last_updated": "2026-08-21T12:22:49.611398",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "Tesla"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:17.830251"
+      "crawled_at": "2026-08-21T12:22:41.362123"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.830278"
+      "crawled_at": "2026-08-21T12:22:41.362156"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.830577"
+      "crawled_at": "2026-08-21T12:22:41.362497"
     },
     {
       "source": "techcrunch",
@@ -56,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.830603"
+      "crawled_at": "2026-08-21T12:22:41.362547"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,61 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.830623"
+      "crawled_at": "2026-08-21T12:22:41.362605"
+    },
+    {
+      "source": "theverge",
+      "title": "Tesla sunsets its Solar Roof tiles",
+      "summary": "Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports. Sources \"close to the program\" told the publication that Tesla has informed its third-party installer network that Solar Roof is no longer available to order, and that only conventional",
+      "link": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
+      "published": "2026-08-21T08:01:07-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Tesla",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-21T12:22:41.411049"
+    },
+    {
+      "source": "theverge",
+      "title": "My cats hate each other, but this automatic feeder is helping",
+      "summary": "Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, disaster struck for my small dependents: We had a child. Suddenly, the cats were ",
+      "link": "https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies",
+      "published": "2026-08-21T07:30:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-21T12:22:41.411089"
+    },
+    {
+      "source": "theverge",
+      "title": "Patreon is changing its algorithm to help smaller creators get discovered",
+      "summary": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a better internet,\" according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, platform and security improvements, and new features for both creators and fans.",
+      "link": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
+      "published": "2026-08-21T07:08:09-04:00",
+      "keywords": [
+        "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-21T12:22:41.411133"
+    },
+    {
+      "source": "theverge",
+      "title": "My big, fat, technophobic cat",
+      "summary": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's simply too young to be this fat.\" Pablo didn't care, but we [&",
+      "link": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+      "published": "2026-08-21T07:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T12:22:41.411173"
     },
     {
       "source": "theverge",
@@ -83,128 +137,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:17.942142"
-    },
-    {
-      "source": "theverge",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "published": "2026-08-20T17:50:22-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.942177"
-    },
-    {
-      "source": "theverge",
-      "title": "Riot is ending development on its League of Legends fighting game",
-      "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward su",
-      "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
-      "published": "2026-08-20T15:59:09-04:00",
-      "keywords": [
-        "AI",
-        "IoT",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.942205"
-    },
-    {
-      "source": "theverge",
-      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
-      "summary": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV",
-      "link": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
-      "published": "2026-08-20T15:52:57-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.942235"
-    },
-    {
-      "source": "theverge",
-      "title": "Mark Zuckerberg bought an Irish castle",
-      "summary": "Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times. While the exact price of the purchase is unclear, the family could have paid \"anywhere between &#8",
-      "link": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-      "published": "2026-08-20T14:50:14-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:17.942259"
+      "crawled_at": "2026-08-21T12:22:41.411233"
     },
     {
       "source": "hackernews",
-      "title": "Japan tried to build an operating system for the world, the US intervened",
-      "summary": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\nComments URL: https://news.ycombinator.com/item?id=49384180\nPoints: 21\n# Comments: 3",
-      "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "published": "Fri, 21 Aug 2026 05:31:34 +0000",
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "summary": "Article URL: https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering\nComments URL: https://news.ycombinator.com/item?id=49386659\nPoints: 13\n# Comments: 0",
+      "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "published": "Fri, 21 Aug 2026 11:43:38 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-08-21T06:25:18.205645"
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T12:22:49.305363"
     },
     {
       "source": "hackernews",
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "summary": "Article URL: https://github.com/openai/codex/issues/37674\nComments URL: https://news.ycombinator.com/item?id=49383326\nPoints: 82\n# Comments: 21",
-      "link": "https://github.com/openai/codex/issues/37674",
-      "published": "Fri, 21 Aug 2026 03:17:43 +0000",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/vision/\nComments URL: https://news.ycombinator.com/item?id=49386163\nPoints: 138\n# Comments: 31",
+      "link": "https://api-docs.deepseek.com/guides/vision/",
+      "published": "Fri, 21 Aug 2026 10:33:56 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS",
-        "Git",
-        "GitHub"
+        "API",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:18.205675"
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T12:22:49.305404"
     },
     {
       "source": "hackernews",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49383026\nPoints: 243\n# Comments: 166",
-      "link": "https://annas-archive.gl/blog/physical-destruction.html",
-      "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49385994\nPoints: 55\n# Comments: 16",
+      "link": "https://annas-archive.pk/blog/physical-destruction.html",
+      "published": "Fri, 21 Aug 2026 10:05:46 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:18.205705"
+      "crawled_at": "2026-08-21T12:22:49.305444"
     },
     {
       "source": "hackernews",
-      "title": "There's no such thing as a small software team anymore",
-      "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 66\n# Comments: 106",
-      "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "published": "Fri, 21 Aug 2026 00:28:37 +0000",
+      "title": "Small, native web tricks worth remembering",
+      "summary": "Article URL: https://htmlcat.net/\nComments URL: https://news.ycombinator.com/item?id=49385860\nPoints: 72\n# Comments: 17",
+      "link": "https://htmlcat.net/",
+      "published": "Fri, 21 Aug 2026 09:45:14 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.205732"
+      "crawled_at": "2026-08-21T12:22:49.305476"
     },
     {
       "source": "hackernews",
-      "title": "Ox Alpha",
-      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269\n\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoints: 81\n# Comments: 70",
-      "link": "https://openrouter.ai/stealth/ox-alpha",
-      "published": "Thu, 20 Aug 2026 23:56:35 +0000",
-      "keywords": [],
+      "title": "Better Batteries",
+      "summary": "Article URL: https://matklad.github.io/2026/08/20/better-batteries.html\nComments URL: https://news.ycombinator.com/item?id=49385068\nPoints: 13\n# Comments: 9",
+      "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "published": "Fri, 21 Aug 2026 07:48:50 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.205760"
+      "crawled_at": "2026-08-21T12:22:49.305528"
     },
     {
       "source": "arstechnica",
@@ -216,7 +213,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.362848"
+      "crawled_at": "2026-08-21T12:22:49.515851"
     },
     {
       "source": "arstechnica",
@@ -228,7 +225,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.362879"
+      "crawled_at": "2026-08-21T12:22:49.515898"
     },
     {
       "source": "arstechnica",
@@ -241,7 +238,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:18.362897"
+      "crawled_at": "2026-08-21T12:22:49.515925"
     },
     {
       "source": "arstechnica",
@@ -253,7 +250,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:18.362914"
+      "crawled_at": "2026-08-21T12:22:49.515948"
     },
     {
       "source": "arstechnica",
@@ -263,66 +260,68 @@
       "published": "Thu, 20 Aug 2026 14:35:58 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.362934"
+      "crawled_at": "2026-08-21T12:22:49.515976"
     },
     {
       "source": "wired",
-      "title": "The Single English County Saying No to Palantir",
-      "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-      "published": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "title": "I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+      "summary": "Pack up your pool cleaning supplies. Let one of these robot buddies maintain your water quality instead",
+      "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+      "published": "Fri, 21 Aug 2026 11:33:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-21T12:22:49.611177"
+    },
+    {
+      "source": "wired",
+      "title": "Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter",
+      "summary": "The Nyrius Phoenix Home True 4K60 can wirelessly transmit games, TV shows, movies, and more across your home (even through walls).",
+      "link": "https://www.wired.com/review/nyrius-phoenix-home-true-4k60/",
+      "published": "Fri, 21 Aug 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T12:22:49.611215"
+    },
+    {
+      "source": "wired",
+      "title": "The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood",
+      "summary": "Lindsay Clancy’s defense argues she killed her three kids because of postpartum psychosis. But armchair detectives, including many fed-up mothers, are laying blame with her ex-husband.",
+      "link": "https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/",
+      "published": "Fri, 21 Aug 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-21T12:22:49.611255"
+    },
+    {
+      "source": "wired",
+      "title": "5 Best Electric Toothbrushes (2026): Philips, Oral-B, Quip, More",
+      "summary": "After two years of testing, these are the electric toothbrushes that impressed WIRED staffers the most.",
+      "link": "https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/",
+      "published": "Fri, 21 Aug 2026 10:31:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T12:22:49.611286"
+    },
+    {
+      "source": "wired",
+      "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
+      "summary": "As the appetite for “authenticity” grows online, content creators are buying up empty boxes for luxury goods—and resellers are cashing in for “crazy prices.”",
+      "link": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
+      "published": "Fri, 21 Aug 2026 10:30:00 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-21T06:25:18.542232"
-    },
-    {
-      "source": "wired",
-      "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
-      "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
-      "link": "https://www.wired.com/story/ray-ban-promo-code/",
-      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-21T06:25:18.542261"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "link": "https://www.wired.com/story/meta-quest-promo-code/",
-      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "VR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T06:25:18.542279"
-    },
-    {
-      "source": "wired",
-      "title": "30% Off Canon Promo Codes | August 2026",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "keywords": [],
-      "category": "Programming",
-      "crawled_at": "2026-08-21T06:25:18.542296"
-    },
-    {
-      "source": "wired",
-      "title": "Paramount+ Coupon Codes and Deals for August 2026",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-21T06:25:18.542315"
+      "category": "Mobile",
+      "crawled_at": "2026-08-21T12:22:49.611325"
     }
   ]
 }
