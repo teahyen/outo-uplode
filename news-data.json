@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T00:37:44.704672",
+  "last_updated": "2026-08-21T06:25:18.542386",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "Tesla"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:41.920051"
+      "crawled_at": "2026-08-21T06:25:17.830251"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.920085"
+      "crawled_at": "2026-08-21T06:25:17.830278"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.920396"
+      "crawled_at": "2026-08-21T06:25:17.830577"
     },
     {
       "source": "techcrunch",
@@ -56,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.920437"
+      "crawled_at": "2026-08-21T06:25:17.830603"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,20 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.920495"
+      "crawled_at": "2026-08-21T06:25:17.830623"
+    },
+    {
+      "source": "theverge",
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+      "summary": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing control",
+      "link": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+      "published": "2026-08-20T22:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T06:25:17.942142"
     },
     {
       "source": "theverge",
@@ -84,7 +97,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.985309"
+      "crawled_at": "2026-08-21T06:25:17.942177"
     },
     {
       "source": "theverge",
@@ -98,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.985353"
+      "crawled_at": "2026-08-21T06:25:17.942205"
     },
     {
       "source": "theverge",
@@ -111,7 +124,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.985397"
+      "crawled_at": "2026-08-21T06:25:17.942235"
     },
     {
       "source": "theverge",
@@ -126,84 +139,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.985429"
-    },
-    {
-      "source": "theverge",
-      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
-      "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient mea",
-      "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
-      "published": "2026-08-20T13:42:34-04:00",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:41.985485"
+      "crawled_at": "2026-08-21T06:25:17.942259"
     },
     {
       "source": "hackernews",
-      "title": "Copyright does not protect AI-generated content in EU",
-      "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 8\n# Comments: 2",
-      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "published": "Fri, 21 Aug 2026 00:15:12 +0000",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "summary": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\nComments URL: https://news.ycombinator.com/item?id=49384180\nPoints: 21\n# Comments: 3",
+      "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "published": "Fri, 21 Aug 2026 05:31:34 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.487600"
-    },
-    {
-      "source": "hackernews",
-      "title": "Detecting scraper bots through scroll behaviour",
-      "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\nComments URL: https://news.ycombinator.com/item?id=49381311\nPoints: 14\n# Comments: 5",
-      "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-      "published": "Thu, 20 Aug 2026 22:47:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.487644"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Citizen Developer",
-      "summary": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer\nComments URL: https://news.ycombinator.com/item?id=49380491\nPoints: 39\n# Comments: 56",
-      "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
-      "published": "Thu, 20 Aug 2026 21:25:48 +0000",
-      "keywords": [
-        "Cloud",
+        "Go",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-21T00:37:44.487674"
+      "crawled_at": "2026-08-21T06:25:18.205645"
     },
     {
       "source": "hackernews",
-      "title": "The Wonders of the Male Human Pelvis",
-      "summary": "Article URL: https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947\nComments URL: https://news.ycombinator.com/item?id=49380226\nPoints: 34\n# Comments: 13",
-      "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
-      "published": "Thu, 20 Aug 2026 21:01:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.487709"
-    },
-    {
-      "source": "hackernews",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "summary": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\nComments URL: https://news.ycombinator.com/item?id=49379550\nPoints: 814\n# Comments: 185",
-      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "published": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "summary": "Article URL: https://github.com/openai/codex/issues/37674\nComments URL: https://news.ycombinator.com/item?id=49383326\nPoints: 82\n# Comments: 21",
+      "link": "https://github.com/openai/codex/issues/37674",
+      "published": "Fri, 21 Aug 2026 03:17:43 +0000",
       "keywords": [
         "AI",
-        "API",
-        "Meta",
+        "OpenAI",
+        "AWS",
+        "Git",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-21T06:25:18.205675"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49383026\nPoints: 243\n# Comments: 166",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.487743"
+      "crawled_at": "2026-08-21T06:25:18.205705"
+    },
+    {
+      "source": "hackernews",
+      "title": "There's no such thing as a small software team anymore",
+      "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 66\n# Comments: 106",
+      "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "published": "Fri, 21 Aug 2026 00:28:37 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T06:25:18.205732"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ox Alpha",
+      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269\n\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoints: 81\n# Comments: 70",
+      "link": "https://openrouter.ai/stealth/ox-alpha",
+      "published": "Thu, 20 Aug 2026 23:56:35 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-21T06:25:18.205760"
     },
     {
       "source": "arstechnica",
@@ -215,7 +216,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.592149"
+      "crawled_at": "2026-08-21T06:25:18.362848"
     },
     {
       "source": "arstechnica",
@@ -227,7 +228,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.592186"
+      "crawled_at": "2026-08-21T06:25:18.362879"
     },
     {
       "source": "arstechnica",
@@ -240,7 +241,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.592211"
+      "crawled_at": "2026-08-21T06:25:18.362897"
     },
     {
       "source": "arstechnica",
@@ -252,7 +253,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.592235"
+      "crawled_at": "2026-08-21T06:25:18.362914"
     },
     {
       "source": "arstechnica",
@@ -262,74 +263,66 @@
       "published": "Thu, 20 Aug 2026 14:35:58 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.592262"
+      "crawled_at": "2026-08-21T06:25:18.362934"
     },
     {
       "source": "wired",
-      "title": "Google Pixel 11 Review: Minor Upgrade",
-      "summary": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
-      "link": "https://www.wired.com/review/google-pixel-11/",
-      "published": "Thu, 20 Aug 2026 23:15:27 +0000",
+      "title": "The Single English County Saying No to Palantir",
+      "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "published": "Fri, 21 Aug 2026 06:00:00 +0000",
       "keywords": [
-        "AI",
         "Go",
-        "Google",
-        "Android"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.704433"
-    },
-    {
-      "source": "wired",
-      "title": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
-      "summary": "S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
-      "link": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
-      "published": "Thu, 20 Aug 2026 20:58:39 +0000",
-      "keywords": [
-        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.704499"
+      "crawled_at": "2026-08-21T06:25:18.542232"
     },
     {
       "source": "wired",
-      "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-      "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
-      "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
-      "published": "Thu, 20 Aug 2026 20:03:13 +0000",
-      "keywords": [
-        "Hack",
-        "Git",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-08-21T00:37:44.704540"
+      "title": "Ray-Ban Promo Codes: Save 50% in August 2026",
+      "summary": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "link": "https://www.wired.com/story/ray-ban-promo-code/",
+      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-21T06:25:18.542261"
     },
     {
       "source": "wired",
-      "title": "Silicon Valley Doesn't Get Why You Hate AI",
-      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-      "published": "Thu, 20 Aug 2026 18:49:07 +0000",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Meta",
+        "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-21T00:37:44.704567"
+      "crawled_at": "2026-08-21T06:25:18.542279"
     },
     {
       "source": "wired",
-      "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
-      "summary": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
-      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
-      "published": "Thu, 20 Aug 2026 11:02:00 +0000",
+      "title": "30% Off Canon Promo Codes | August 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-08-21T06:25:18.542296"
+    },
+    {
+      "source": "wired",
+      "title": "Paramount+ Coupon Codes and Deals for August 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "published": "Fri, 21 Aug 2026 05:00:00 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-21T00:37:44.704597"
+      "category": "Programming",
+      "crawled_at": "2026-08-21T06:25:18.542315"
     }
   ]
 }
