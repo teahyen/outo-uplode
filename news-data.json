@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T06:21:14.736960",
+  "last_updated": "2026-08-23T12:16:47.202613",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:13.995835"
+      "crawled_at": "2026-08-23T12:16:42.418054"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:13.995889"
+      "crawled_at": "2026-08-23T12:16:42.418102"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-23T06:21:13.995921"
+      "crawled_at": "2026-08-23T12:16:42.418139"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:13.995954"
+      "crawled_at": "2026-08-23T12:16:42.418180"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,20 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:13.995975"
+      "crawled_at": "2026-08-23T12:16:42.418205"
+    },
+    {
+      "source": "theverge",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago",
+      "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "published": "2026-08-23T08:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T12:16:42.493932"
     },
     {
       "source": "theverge",
@@ -81,7 +94,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.104890"
+      "crawled_at": "2026-08-23T12:16:42.494027"
     },
     {
       "source": "theverge",
@@ -93,7 +106,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.104964"
+      "crawled_at": "2026-08-23T12:16:42.494093"
     },
     {
       "source": "theverge",
@@ -107,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.105003"
+      "crawled_at": "2026-08-23T12:16:42.494131"
     },
     {
       "source": "theverge",
@@ -121,84 +134,81 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-23T06:21:14.105049"
+      "crawled_at": "2026-08-23T12:16:42.494175"
     },
     {
-      "source": "theverge",
-      "title": "Two great new repairable gadgets",
-      "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ",
-      "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-      "published": "2026-08-22T08:00:00-04:00",
+      "source": "hackernews",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o\nComments URL: https://news.ycombinator.com/item?id=49407576\nPoints: 10\n# Comments: 3",
+      "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "published": "Sun, 23 Aug 2026 10:14:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T12:16:46.884414"
+    },
+    {
+      "source": "hackernews",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/\nComments URL: https://news.ycombinator.com/item?id=49407507\nPoints: 33\n# Comments: 3",
+      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "published": "Sun, 23 Aug 2026 10:02:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-23T12:16:46.884459"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Sloppification of Peptides",
+      "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides\nComments URL: https://news.ycombinator.com/item?id=49407341\nPoints: 43\n# Comments: 13",
+      "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "published": "Sun, 23 Aug 2026 09:32:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T12:16:46.884496"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "summary": "Article URL: https://skylens.yantraai.app/\nComments URL: https://news.ycombinator.com/item?id=49407309\nPoints: 14\n# Comments: 0",
+      "link": "https://skylens.yantraai.app/",
+      "published": "Sun, 23 Aug 2026 09:27:40 +0000",
       "keywords": [
         "AI",
-        "Go"
+        "Go",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.105080"
+      "crawled_at": "2026-08-23T12:16:46.884525"
     },
     {
       "source": "hackernews",
-      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-      "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\nComments URL: https://news.ycombinator.com/item?id=49406069\nPoints: 14\n# Comments: 3",
-      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-      "published": "Sun, 23 Aug 2026 04:28:18 +0000",
-      "keywords": [
-        "Go",
-        "Crypto",
-        "AR"
-      ],
-      "category": "Blockchain",
-      "crawled_at": "2026-08-23T06:21:14.465218"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\nComments URL: https://news.ycombinator.com/item?id=49405870\nPoints: 37\n# Comments: 15",
-      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "published": "Sun, 23 Aug 2026 03:32:25 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-23T06:21:14.465260"
-    },
-    {
-      "source": "hackernews",
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "summary": "Article URL: https://martypc.net/\nComments URL: https://news.ycombinator.com/item?id=49405816\nPoints: 63\n# Comments: 8",
-      "link": "https://martypc.net/",
-      "published": "Sun, 23 Aug 2026 03:13:16 +0000",
-      "keywords": [
-        "Rust",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-23T06:21:14.465286"
-    },
-    {
-      "source": "hackernews",
-      "title": "I Dream of Quieter Computing",
-      "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/\nComments URL: https://news.ycombinator.com/item?id=49405682\nPoints: 42\n# Comments: 8",
-      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "published": "Sun, 23 Aug 2026 02:33:22 +0000",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/\nComments URL: https://news.ycombinator.com/item?id=49406539\nPoints: 131\n# Comments: 93",
+      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "published": "Sun, 23 Aug 2026 06:41:51 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-23T06:21:14.465311"
+      "crawled_at": "2026-08-23T12:16:46.884559"
     },
     {
-      "source": "hackernews",
-      "title": "The Art and Beauty of Blade Runner",
-      "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\nComments URL: https://news.ycombinator.com/item?id=49405331\nPoints: 44\n# Comments: 11",
-      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "published": "Sun, 23 Aug 2026 00:56:03 +0000",
+      "source": "arstechnica",
+      "title": "Volcanoes that made history",
+      "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+      "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+      "published": "Sun, 23 Aug 2026 11:02:54 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-23T06:21:14.465341"
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T12:16:47.059284"
     },
     {
       "source": "arstechnica",
@@ -210,7 +220,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.565426"
+      "crawled_at": "2026-08-23T12:16:47.059319"
     },
     {
       "source": "arstechnica",
@@ -222,7 +232,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.565469"
+      "crawled_at": "2026-08-23T12:16:47.059357"
     },
     {
       "source": "arstechnica",
@@ -232,7 +242,7 @@
       "published": "Fri, 21 Aug 2026 23:32:17 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.565497"
+      "crawled_at": "2026-08-23T12:16:47.059388"
     },
     {
       "source": "arstechnica",
@@ -242,84 +252,70 @@
       "published": "Fri, 21 Aug 2026 20:26:46 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.565522"
+      "crawled_at": "2026-08-23T12:16:47.059415"
     },
     {
-      "source": "arstechnica",
-      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
-      "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
-      "published": "Fri, 21 Aug 2026 20:10:50 +0000",
+      "source": "wired",
+      "title": "What’s the Best Kindle of 2026? (So Far)",
+      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+      "link": "https://www.wired.com/gallery/best-kindle/",
+      "published": "Sun, 23 Aug 2026 11:03:00 +0000",
       "keywords": [
-        "AI",
-        "AWS",
+        "Amazon",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.565541"
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T12:16:47.202327"
     },
     {
       "source": "wired",
-      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
-      "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
-      "link": "https://www.wired.com/review/saily-ultra-esim/",
-      "published": "Sat, 22 Aug 2026 13:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.736634"
-    },
-    {
-      "source": "wired",
-      "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
-      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
-      "link": "https://www.wired.com/gallery/best-monitor-arms/",
-      "published": "Sat, 22 Aug 2026 11:01:00 +0000",
+      "title": "Transistors Changed Everything. Here’s How They Work",
+      "summary": "How a tiny little electronic switch sparked the computer revolution.",
+      "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+      "published": "Sun, 23 Aug 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.736693"
+      "crawled_at": "2026-08-23T12:16:47.202371"
     },
     {
       "source": "wired",
-      "title": "Set Up a Separate Work Profile on Your Android Phone",
-      "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
-      "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
-      "published": "Sat, 22 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-23T06:21:14.736737"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
-      "summary": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
-      "link": "https://www.wired.com/gallery/the-best-mattress-toppers/",
-      "published": "Sat, 22 Aug 2026 10:32:00 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+      "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+      "published": "Sun, 23 Aug 2026 10:37:00 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T06:21:14.736796"
+      "crawled_at": "2026-08-23T12:16:47.202412"
     },
     {
       "source": "wired",
-      "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-      "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-      "published": "Sat, 22 Aug 2026 10:30:00 +0000",
+      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+      "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+      "published": "Sun, 23 Aug 2026 09:30:00 +0000",
       "keywords": [
         "AI",
         "Apple",
+        "iPhone",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-23T12:16:47.202442"
+    },
+    {
+      "source": "wired",
+      "title": "Is Expensive Bottled Water Actually Better for You?",
+      "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+      "published": "Sun, 23 Aug 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T06:21:14.736835"
+      "crawled_at": "2026-08-23T12:16:47.202470"
     }
   ]
 }
