@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-08-23T00:38:09.059654",
+  "last_updated": "2026-08-23T06:21:14.736960",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "published": "Sun, 23 Aug 2026 03:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-23T06:21:13.995835"
+    },
     {
       "source": "techcrunch",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -14,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.228737"
+      "crawled_at": "2026-08-23T06:21:13.995889"
     },
     {
       "source": "techcrunch",
@@ -28,7 +40,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-23T00:38:08.228788"
+      "crawled_at": "2026-08-23T06:21:13.995921"
     },
     {
       "source": "techcrunch",
@@ -43,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.228828"
+      "crawled_at": "2026-08-23T06:21:13.995954"
     },
     {
       "source": "techcrunch",
@@ -56,20 +68,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.228853"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.228888"
+      "crawled_at": "2026-08-23T06:21:13.995975"
     },
     {
       "source": "theverge",
@@ -82,7 +81,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.320716"
+      "crawled_at": "2026-08-23T06:21:14.104890"
     },
     {
       "source": "theverge",
@@ -94,7 +93,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.320780"
+      "crawled_at": "2026-08-23T06:21:14.104964"
     },
     {
       "source": "theverge",
@@ -108,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.320816"
+      "crawled_at": "2026-08-23T06:21:14.105003"
     },
     {
       "source": "theverge",
@@ -122,7 +121,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-08-23T00:38:08.320855"
+      "crawled_at": "2026-08-23T06:21:14.105049"
     },
     {
       "source": "theverge",
@@ -135,74 +134,71 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.320886"
+      "crawled_at": "2026-08-23T06:21:14.105080"
     },
     {
       "source": "hackernews",
-      "title": "NanoGPT Speedrun Frontier",
-      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 34\n# Comments: 6",
-      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\nComments URL: https://news.ycombinator.com/item?id=49406069\nPoints: 14\n# Comments: 3",
+      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "published": "Sun, 23 Aug 2026 04:28:18 +0000",
       "keywords": [
-        "AI",
-        "GPT",
+        "Go",
+        "Crypto",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.867802"
+      "category": "Blockchain",
+      "crawled_at": "2026-08-23T06:21:14.465218"
     },
     {
       "source": "hackernews",
-      "title": "English ↔ Claudish Translator",
-      "summary": "Article URL: https://programasweights.com/claudish\nComments URL: https://news.ycombinator.com/item?id=49402907\nPoints: 46\n# Comments: 24",
-      "link": "https://programasweights.com/claudish",
-      "published": "Sat, 22 Aug 2026 19:19:15 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.867852"
-    },
-    {
-      "source": "hackernews",
-      "title": "NetBSD and my life (2005)",
-      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 87\n# Comments: 22",
-      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "published": "Sat, 22 Aug 2026 19:07:46 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.867880"
-    },
-    {
-      "source": "hackernews",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html\nComments URL: https://news.ycombinator.com/item?id=49402741\nPoints: 156\n# Comments: 57",
-      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "published": "Sat, 22 Aug 2026 19:04:41 +0000",
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\nComments URL: https://news.ycombinator.com/item?id=49405870\nPoints: 37\n# Comments: 15",
+      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "published": "Sun, 23 Aug 2026 03:32:25 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.867915"
+      "category": "Mobile",
+      "crawled_at": "2026-08-23T06:21:14.465260"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "summary": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them.I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that isn",
-      "link": "https://www.soverybright.com/",
-      "published": "Sat, 22 Aug 2026 18:43:03 +0000",
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "summary": "Article URL: https://martypc.net/\nComments URL: https://news.ycombinator.com/item?id=49405816\nPoints: 63\n# Comments: 8",
+      "link": "https://martypc.net/",
+      "published": "Sun, 23 Aug 2026 03:13:16 +0000",
       "keywords": [
-        "AI",
-        "Claude",
-        "Go",
+        "Rust",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.868002"
+      "category": "Programming",
+      "crawled_at": "2026-08-23T06:21:14.465286"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Dream of Quieter Computing",
+      "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/\nComments URL: https://news.ycombinator.com/item?id=49405682\nPoints: 42\n# Comments: 8",
+      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "published": "Sun, 23 Aug 2026 02:33:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-23T06:21:14.465311"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Art and Beauty of Blade Runner",
+      "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\nComments URL: https://news.ycombinator.com/item?id=49405331\nPoints: 44\n# Comments: 11",
+      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "published": "Sun, 23 Aug 2026 00:56:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-23T06:21:14.465341"
     },
     {
       "source": "arstechnica",
@@ -214,7 +210,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.957288"
+      "crawled_at": "2026-08-23T06:21:14.565426"
     },
     {
       "source": "arstechnica",
@@ -226,7 +222,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.957333"
+      "crawled_at": "2026-08-23T06:21:14.565469"
     },
     {
       "source": "arstechnica",
@@ -236,7 +232,7 @@
       "published": "Fri, 21 Aug 2026 23:32:17 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.957365"
+      "crawled_at": "2026-08-23T06:21:14.565497"
     },
     {
       "source": "arstechnica",
@@ -246,7 +242,7 @@
       "published": "Fri, 21 Aug 2026 20:26:46 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:08.957393"
+      "crawled_at": "2026-08-23T06:21:14.565522"
     },
     {
       "source": "arstechnica",
@@ -260,7 +256,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:08.957415"
+      "crawled_at": "2026-08-23T06:21:14.565541"
     },
     {
       "source": "wired",
@@ -272,7 +268,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:09.059430"
+      "crawled_at": "2026-08-23T06:21:14.736634"
     },
     {
       "source": "wired",
@@ -284,7 +280,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:09.059473"
+      "crawled_at": "2026-08-23T06:21:14.736693"
     },
     {
       "source": "wired",
@@ -297,7 +293,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-23T00:38:09.059506"
+      "crawled_at": "2026-08-23T06:21:14.736737"
     },
     {
       "source": "wired",
@@ -309,7 +305,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-23T00:38:09.059548"
+      "crawled_at": "2026-08-23T06:21:14.736796"
     },
     {
       "source": "wired",
@@ -323,7 +319,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-23T00:38:09.059583"
+      "crawled_at": "2026-08-23T06:21:14.736835"
     }
   ]
 }
