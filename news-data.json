@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-08-25T06:25:49.320686",
+  "last_updated": "2026-08-25T12:24:20.407104",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-25T12:24:19.731206"
+    },
+    {
+      "source": "techcrunch",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T12:24:19.731505"
+    },
     {
       "source": "techcrunch",
       "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
@@ -12,7 +38,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:47.953260"
+      "crawled_at": "2026-08-25T12:24:19.731577"
     },
     {
       "source": "techcrunch",
@@ -25,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:47.953293"
+      "crawled_at": "2026-08-25T12:24:19.731624"
     },
     {
       "source": "techcrunch",
@@ -37,32 +63,61 @@
         "IPO"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-25T06:25:47.953318"
+      "crawled_at": "2026-08-25T12:24:19.731668"
     },
     {
-      "source": "techcrunch",
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "source": "theverge",
+      "title": "The TCL Note A1 is a kinder, gentler tablet",
+      "summary": "Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's [&#8230;]",
+      "link": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+      "published": "2026-08-25T08:00:00-04:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:19.905194"
+    },
+    {
+      "source": "theverge",
+      "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+      "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera. But this is the first time I've ever driven a ",
+      "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+      "published": "2026-08-25T07:00:00-04:00",
       "keywords": [
-        "IPO",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-08-25T06:25:47.953342"
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:19.905274"
     },
     {
-      "source": "techcrunch",
-      "title": "Zillow and Redfin settle FTC antitrust case",
-      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-      "published": "Mon, 24 Aug 2026 20:45:33 +0000",
+      "source": "theverge",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "published": "2026-08-25T05:15:03-04:00",
       "keywords": [
-        "Rust"
+        "AI",
+        "OpenAI",
+        "AWS",
+        "Hack",
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-08-25T06:25:47.953361"
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T12:24:19.905314"
+    },
+    {
+      "source": "theverge",
+      "title": "Android is getting its own weird dots to cure car sickness",
+      "summary": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appears to be rolling ou",
+      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+      "published": "2026-08-25T04:36:27-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Google",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-25T12:24:19.905356"
     },
     {
       "source": "theverge",
@@ -78,127 +133,71 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.087719"
-    },
-    {
-      "source": "theverge",
-      "title": "The cat-and-mouse game over 3D-printed guns has begun",
-      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and indivi",
-      "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-      "published": "2026-08-24T15:50:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "API",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.087759"
-    },
-    {
-      "source": "theverge",
-      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-      "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to c",
-      "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-      "published": "2026-08-24T13:01:05-04:00",
-      "keywords": [
-        "Rust",
-        "AWS",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-25T06:25:48.087792"
-    },
-    {
-      "source": "theverge",
-      "title": "Robotaxis are real now — so is the pushback",
-      "summary": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, com",
-      "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-      "published": "2026-08-24T12:42:37-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.087828"
-    },
-    {
-      "source": "theverge",
-      "title": "The Witcher 4 developers target a 2028 release",
-      "summary": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Micha&#322; Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the [&#82",
-      "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-      "published": "2026-08-24T11:48:53-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.087853"
+      "crawled_at": "2026-08-25T12:24:19.905393"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.Point Claude Code (or anything with file access) at the folder and ask \"what di",
-      "link": "https://github.com/dragthelake/ambient-context",
-      "published": "Tue, 25 Aug 2026 04:33:24 +0000",
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "summary": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly\nComments URL: https://news.ycombinator.com/item?id=49432227\nPoints: 3\n# Comments: 1",
+      "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "published": "Tue, 25 Aug 2026 11:40:00 +0000",
       "keywords": [
-        "AI",
-        "Claude",
-        "API",
+        "Windows",
         "Git",
-        "GitHub"
+        "GitHub",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.448453"
+      "category": "Mobile",
+      "crawled_at": "2026-08-25T12:24:20.013265"
+    },
+    {
+      "source": "hackernews",
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "summary": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\nComments URL: https://news.ycombinator.com/item?id=49432201\nPoints: 63\n# Comments: 53",
+      "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "published": "Tue, 25 Aug 2026 11:37:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:20.013315"
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum battery upends the rules of charging",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\nComments URL: https://news.ycombinator.com/item?id=49431560\nPoints: 38\n# Comments: 32",
+      "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "published": "Tue, 25 Aug 2026 10:34:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:20.013354"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why some US restaurants are banning tips",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 150\n# Comments: 263",
+      "link": "https://www.bbc.com/news/articles/c4g36yze692o",
+      "published": "Tue, 25 Aug 2026 10:09:47 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:20.013388"
     },
     {
       "source": "hackernews",
       "title": "Headlong: A Microharness for Persistent Agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 29\n# Comments: 10",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 84\n# Comments: 33",
       "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
       "published": "Tue, 25 Aug 2026 03:54:19 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.448492"
-    },
-    {
-      "source": "hackernews",
-      "title": "SiFive's First Server Platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 10\n# Comments: 3",
-      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "published": "Tue, 25 Aug 2026 03:06:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-08-25T06:25:48.448519"
-    },
-    {
-      "source": "hackernews",
-      "title": "Thomson Reuters Launches Its Own Frontier Model",
-      "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\nComments URL: https://news.ycombinator.com/item?id=49428318\nPoints: 72\n# Comments: 23",
-      "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-      "published": "Tue, 25 Aug 2026 02:11:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.448554"
-    },
-    {
-      "source": "hackernews",
-      "title": "How Universities Should Prepare Founders",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 78\n# Comments: 72",
-      "link": "https://paulgraham.com/prepare.html",
-      "published": "Tue, 25 Aug 2026 01:40:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.448580"
+      "crawled_at": "2026-08-25T12:24:20.013426"
     },
     {
       "source": "arstechnica",
@@ -211,7 +210,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T06:25:48.551643"
+      "crawled_at": "2026-08-25T12:24:20.253364"
     },
     {
       "source": "arstechnica",
@@ -223,7 +222,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-25T06:25:48.551671"
+      "crawled_at": "2026-08-25T12:24:20.253402"
     },
     {
       "source": "arstechnica",
@@ -236,7 +235,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.551694"
+      "crawled_at": "2026-08-25T12:24:20.253432"
     },
     {
       "source": "arstechnica",
@@ -248,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.551727"
+      "crawled_at": "2026-08-25T12:24:20.253458"
     },
     {
       "source": "arstechnica",
@@ -258,64 +257,68 @@
       "published": "Mon, 24 Aug 2026 19:42:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:48.551749"
+      "crawled_at": "2026-08-25T12:24:20.253485"
     },
     {
       "source": "wired",
-      "title": "Omega Just Released a Mini Moonwatch",
-      "summary": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
-      "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
-      "published": "Tue, 25 Aug 2026 06:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:49.320504"
-    },
-    {
-      "source": "wired",
-      "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
-      "summary": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
-      "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
-      "published": "Tue, 25 Aug 2026 04:01:00 +0000",
+      "title": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)",
+      "summary": "After years of smells, strange noises, and “tea,” these are the composters and food recyclers I’d actually recommend.",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "published": "Tue, 25 Aug 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:49.320547"
+      "crawled_at": "2026-08-25T12:24:20.406748"
     },
     {
       "source": "wired",
-      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
-      "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
-      "link": "https://www.wired.com/review/bitdefender-vpn/",
-      "published": "Mon, 24 Aug 2026 21:08:00 +0000",
+      "title": "The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil",
+      "summary": "The best car phone holders keep your phone firmly in place while never getting in your line of sight. I took a dozen on road trips this summer to find the best.",
+      "link": "https://www.wired.com/story/best-car-phone-mounts-and-holders/",
+      "published": "Tue, 25 Aug 2026 11:08:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:49.320572"
+      "crawled_at": "2026-08-25T12:24:20.406798"
     },
     {
       "source": "wired",
-      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-      "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
-      "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-      "published": "Mon, 24 Aug 2026 20:45:52 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:49.320594"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
-      "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
-      "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
-      "published": "Mon, 24 Aug 2026 20:22:35 +0000",
+      "title": "The County Prosecutors Who Became ICE Informants",
+      "summary": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative oversight.",
+      "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
+      "published": "Tue, 25 Aug 2026 11:00:00 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T06:25:49.320619"
+      "crawled_at": "2026-08-25T12:24:20.406861"
+    },
+    {
+      "source": "wired",
+      "title": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
+      "summary": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment.",
+      "link": "https://www.wired.com/review/optoma-gt2400hdr/",
+      "published": "Tue, 25 Aug 2026 10:32:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T12:24:20.406896"
+    },
+    {
+      "source": "wired",
+      "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
+      "summary": "Archeologists are confronting an “unfathomable” loss as border wall construction is set to cut across ranches that are home to unique historical sites, many of which haven’t been fully studied.",
+      "link": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
+      "published": "Tue, 25 Aug 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T12:24:20.406941"
     }
   ]
 }
