@@ -1,263 +1,305 @@
 {
-  "last_updated": "2026-08-25T12:24:20.407104",
+  "last_updated": "2026-08-25T18:22:04.861190",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-      "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
-      "link": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "published": "Tue, 25 Aug 2026 18:01:30 +0000",
       "keywords": [
-        "Rust",
+        "REST",
+        "Startup",
         "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-25T12:24:19.731206"
-    },
-    {
-      "source": "techcrunch",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:19.731505"
-    },
-    {
-      "source": "techcrunch",
-      "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-      "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-      "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "published": "Tue, 25 Aug 2026 03:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:19.731577"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:19.731624"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
-      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "published": "Mon, 24 Aug 2026 23:05:44 +0000",
-      "keywords": [
-        "IPO"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-25T12:24:19.731668"
+      "crawled_at": "2026-08-25T18:22:01.022750"
     },
     {
-      "source": "theverge",
-      "title": "The TCL Note A1 is a kinder, gentler tablet",
-      "summary": "Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's [&#8230;]",
-      "link": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
-      "published": "2026-08-25T08:00:00-04:00",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:19.905194"
-    },
-    {
-      "source": "theverge",
-      "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
-      "summary": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera. But this is the first time I've ever driven a ",
-      "link": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
-      "published": "2026-08-25T07:00:00-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:19.905274"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violat",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "published": "2026-08-25T05:15:03-04:00",
+      "source": "techcrunch",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "published": "Tue, 25 Aug 2026 17:50:33 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "AWS",
-        "Hack",
+        "Anthropic",
+        "Claude",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:19.905314"
+      "crawled_at": "2026-08-25T18:22:01.022795"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Waymo robotaxis are headed to Munich",
+      "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+      "published": "Tue, 25 Aug 2026 17:32:03 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:01.022829"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+      "summary": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
+      "link": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
+      "published": "Tue, 25 Aug 2026 16:35:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:01.022878"
+    },
+    {
+      "source": "techcrunch",
+      "title": "That fake Grand Theft Auto VI demo is actually just malware",
+      "summary": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
+      "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+      "published": "Tue, 25 Aug 2026 15:48:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-08-25T18:22:01.022907"
     },
     {
       "source": "theverge",
-      "title": "Android is getting its own weird dots to cure car sickness",
-      "summary": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appears to be rolling ou",
-      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-      "published": "2026-08-25T04:36:27-04:00",
+      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+      "summary": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your ",
+      "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+      "published": "2026-08-25T12:58:53-04:00",
       "keywords": [
-        "Go",
-        "Apple",
-        "Google",
         "Android",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-25T12:24:19.905356"
+      "crawled_at": "2026-08-25T18:22:01.150144"
     },
     {
       "source": "theverge",
-      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their ",
-      "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-      "published": "2026-08-24T19:38:10-04:00",
+      "title": "GeForce Now is getting support for the Steam Controller",
+      "summary": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you",
+      "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+      "published": "2026-08-25T12:47:15-04:00",
       "keywords": [
-        "AI",
-        "Go",
-        "Startup",
+        "Windows",
+        "Cloud",
         "AR",
         "Gaming"
       ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-08-25T18:22:01.150193"
+    },
+    {
+      "source": "theverge",
+      "title": "Polestar claims it was blindsided by sales ban",
+      "summary": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter sent to dealers and obtained by The Verge, Polestar ",
+      "link": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
+      "published": "2026-08-25T12:14:45-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:19.905393"
+      "crawled_at": "2026-08-25T18:22:01.150229"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper",
+      "summary": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the desc",
+      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
+      "published": "2026-08-25T10:25:52-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-25T18:22:01.150285"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worl",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "published": "2026-08-25T10:00:00-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T18:22:01.150327"
     },
     {
       "source": "hackernews",
-      "title": "HelloAssembly The smallest possible complete Windows application",
-      "summary": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly\nComments URL: https://news.ycombinator.com/item?id=49432227\nPoints: 3\n# Comments: 1",
-      "link": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "published": "Tue, 25 Aug 2026 11:40:00 +0000",
+      "title": "Dolly Parton, US country star, actor and philanthropist, dies aged 80",
+      "summary": "Article URL: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead\nComments URL: https://news.ycombinator.com/item?id=49438052\nPoints: 24\n# Comments: 0",
+      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "published": "Tue, 25 Aug 2026 18:02:22 +0000",
       "keywords": [
-        "Windows",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.592016"
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\nComments URL: https://news.ycombinator.com/item?id=49437946\nPoints: 6\n# Comments: 1",
+      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "published": "Tue, 25 Aug 2026 17:55:23 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.592063"
+    },
+    {
+      "source": "hackernews",
+      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+      "summary": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49437566\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "published": "Tue, 25 Aug 2026 17:28:52 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T18:22:04.592097"
+    },
+    {
+      "source": "hackernews",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "summary": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\nComments URL: https://news.ycombinator.com/item?id=49437483\nPoints: 13\n# Comments: 4",
+      "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "published": "Tue, 25 Aug 2026 17:23:07 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.592132"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "summary": "Article URL: https://github.com/leodeim/vpsmon\nComments URL: https://news.ycombinator.com/item?id=49437361\nPoints: 11\n# Comments: 7",
+      "link": "https://github.com/leodeim/vpsmon",
+      "published": "Tue, 25 Aug 2026 17:13:59 +0000",
+      "keywords": [
+        "Go",
+        "Linux",
         "Git",
         "GitHub",
         "AR"
       ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.592165"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+      "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
+      "link": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+      "published": "Tue, 25 Aug 2026 17:39:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.686300"
+    },
+    {
+      "source": "arstechnica",
+      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+      "summary": "\"This will be a project like no other.\"",
+      "link": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+      "published": "Tue, 25 Aug 2026 17:26:15 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.686335"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Lab supply companies have been selling antibodies using manipulated images",
+      "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+      "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+      "published": "Tue, 25 Aug 2026 16:16:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T18:22:04.686367"
+    },
+    {
+      "source": "arstechnica",
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+      "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+      "published": "Tue, 25 Aug 2026 16:04:37 +0000",
+      "keywords": [
+        "Meta"
+      ],
       "category": "Mobile",
-      "crawled_at": "2026-08-25T12:24:20.013265"
+      "crawled_at": "2026-08-25T18:22:04.686396"
     },
     {
-      "source": "hackernews",
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "summary": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\nComments URL: https://news.ycombinator.com/item?id=49432201\nPoints: 63\n# Comments: 53",
-      "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "published": "Tue, 25 Aug 2026 11:37:24 +0000",
+      "source": "arstechnica",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "published": "Tue, 25 Aug 2026 15:10:03 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T18:22:04.686424"
+    },
+    {
+      "source": "wired",
+      "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
+      "summary": "The fatalities come amidst declining vaccination rates and calls from President Donald Trump to split up the MMR vaccine.",
+      "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
+      "published": "Tue, 25 Aug 2026 18:17:07 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.013315"
+      "crawled_at": "2026-08-25T18:22:04.860947"
     },
     {
-      "source": "hackernews",
-      "title": "Quantum battery upends the rules of charging",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\nComments URL: https://news.ycombinator.com/item?id=49431560\nPoints: 38\n# Comments: 32",
-      "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "published": "Tue, 25 Aug 2026 10:34:12 +0000",
+      "source": "wired",
+      "title": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
+      "summary": "The Supreme Court has removed one roadblock from the Trump administration’s attempts to impose severe restrictions on voting.",
+      "link": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+      "published": "Tue, 25 Aug 2026 15:16:36 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.013354"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why some US restaurants are banning tips",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 150\n# Comments: 263",
-      "link": "https://www.bbc.com/news/articles/c4g36yze692o",
-      "published": "Tue, 25 Aug 2026 10:09:47 +0000",
-      "keywords": [
+        "AI",
         "REST",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.013388"
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T18:22:04.860991"
     },
     {
-      "source": "hackernews",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 84\n# Comments: 33",
-      "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "published": "Tue, 25 Aug 2026 03:54:19 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.013426"
-    },
-    {
-      "source": "arstechnica",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "published": "Mon, 24 Aug 2026 21:45:53 +0000",
+      "source": "wired",
+      "title": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+      "summary": "Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 price bump.",
+      "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
       "keywords": [
         "AI",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:20.253364"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
-      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-      "published": "Mon, 24 Aug 2026 21:32:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-25T12:24:20.253402"
-    },
-    {
-      "source": "arstechnica",
-      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-      "published": "Mon, 24 Aug 2026 21:04:48 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.253432"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "summary": "Monitor vendors are playing with fire.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "published": "Mon, 24 Aug 2026 20:17:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.253458"
-    },
-    {
-      "source": "arstechnica",
-      "title": "GM vehicles under federal scrutiny after hundreds of reports",
-      "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-      "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-      "published": "Mon, 24 Aug 2026 19:42:50 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.253485"
+      "crawled_at": "2026-08-25T18:22:04.861030"
     },
     {
       "source": "wired",
@@ -269,7 +311,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.406748"
+      "crawled_at": "2026-08-25T18:22:04.861068"
     },
     {
       "source": "wired",
@@ -281,44 +323,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.406798"
-    },
-    {
-      "source": "wired",
-      "title": "The County Prosecutors Who Became ICE Informants",
-      "summary": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative oversight.",
-      "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
-      "published": "Tue, 25 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.406861"
-    },
-    {
-      "source": "wired",
-      "title": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
-      "summary": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment.",
-      "link": "https://www.wired.com/review/optoma-gt2400hdr/",
-      "published": "Tue, 25 Aug 2026 10:32:00 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-25T12:24:20.406896"
-    },
-    {
-      "source": "wired",
-      "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
-      "summary": "Archeologists are confronting an “unfathomable” loss as border wall construction is set to cut across ranches that are home to unique historical sites, many of which haven’t been fully studied.",
-      "link": "https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/",
-      "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-25T12:24:20.406941"
+      "crawled_at": "2026-08-25T18:22:04.861107"
     }
   ]
 }
