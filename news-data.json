@@ -1,72 +1,100 @@
 {
-  "last_updated": "2026-08-24T18:22:35.455882",
+  "last_updated": "2026-08-25T00:36:31.914676",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "published": "Mon, 24 Aug 2026 18:03:55 +0000",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "published": "Tue, 25 Aug 2026 00:23:12 +0000",
       "keywords": [
         "AI",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.773775"
+      "crawled_at": "2026-08-25T00:36:31.183481"
     },
     {
       "source": "techcrunch",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "published": "Mon, 24 Aug 2026 23:05:44 +0000",
       "keywords": [
-        "AI",
+        "IPO"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-08-25T00:36:31.183520"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "keywords": [
+        "IPO",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-08-25T00:36:31.183553"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "published": "Mon, 24 Aug 2026 20:45:33 +0000",
+      "keywords": [
+        "Rust"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-08-25T00:36:31.183579"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "published": "Mon, 24 Aug 2026 20:16:34 +0000",
+      "keywords": [
         "Startup",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.773825"
+      "category": "Startup",
+      "crawled_at": "2026-08-25T00:36:31.183875"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "source": "theverge",
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their ",
+      "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "published": "2026-08-24T19:38:10-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Go",
+        "Startup",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T00:36:31.356784"
+    },
+    {
+      "source": "theverge",
+      "title": "The cat-and-mouse game over 3D-printed guns has begun",
+      "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and indivi",
+      "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "published": "2026-08-24T15:50:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.773893"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Brake problems in GM EVs draw greater federal scrutiny",
-      "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-      "published": "Mon, 24 Aug 2026 14:18:47 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.773940"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-24T18:22:34.773990"
+      "crawled_at": "2026-08-25T00:36:31.356829"
     },
     {
       "source": "theverge",
@@ -80,7 +108,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-08-24T18:22:34.868118"
+      "crawled_at": "2026-08-25T00:36:31.356870"
     },
     {
       "source": "theverge",
@@ -94,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.868170"
+      "crawled_at": "2026-08-25T00:36:31.356913"
     },
     {
       "source": "theverge",
@@ -107,148 +135,168 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:34.868202"
+      "crawled_at": "2026-08-25T00:36:31.356943"
     },
     {
-      "source": "theverge",
-      "title": "ESPN streaming plans are getting more expensive",
-      "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will",
-      "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-      "published": "2026-08-24T11:06:24-04:00",
+      "source": "hackernews",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "summary": "Article URL: https://github.com/murerkinn/bookshelf\nComments URL: https://news.ycombinator.com/item?id=49427001\nPoints: 12\n# Comments: 1",
+      "link": "https://github.com/murerkinn/bookshelf",
+      "published": "Mon, 24 Aug 2026 23:00:37 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.612918"
+    },
+    {
+      "source": "hackernews",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 162\n# Comments: 33",
+      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "published": "Mon, 24 Aug 2026 22:13:40 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T00:36:31.612954"
+    },
+    {
+      "source": "hackernews",
+      "title": "Moon (2024)",
+      "summary": "Article URL: https://ciechanow.ski/moon/\nComments URL: https://news.ycombinator.com/item?id=49426466\nPoints: 74\n# Comments: 12",
+      "link": "https://ciechanow.ski/moon/",
+      "published": "Mon, 24 Aug 2026 22:06:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:34.868244"
+      "crawled_at": "2026-08-25T00:36:31.612986"
     },
     {
-      "source": "theverge",
-      "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-      "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and othe",
-      "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-      "published": "2026-08-24T10:49:44-04:00",
+      "source": "hackernews",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49425819\nPoints: 110\n# Comments: 84",
+      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "published": "Mon, 24 Aug 2026 21:03:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.613037"
+    },
+    {
+      "source": "hackernews",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49425800\nPoints: 48\n# Comments: 6",
+      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "published": "Mon, 24 Aug 2026 21:01:38 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-08-24T18:22:34.868282"
-    },
-    {
-      "source": "hackernews",
-      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\nComments URL: https://news.ycombinator.com/item?id=49409200\nPoints: 21\n# Comments: 2",
-      "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "published": "Sun, 23 Aug 2026 14:38:25 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.271277"
-    },
-    {
-      "source": "hackernews",
-      "title": "Authoritarianism of Code",
-      "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\nComments URL: https://news.ycombinator.com/item?id=49409184\nPoints: 5\n# Comments: 3",
-      "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-      "published": "Sun, 23 Aug 2026 14:36:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-08-24T18:22:35.271313"
-    },
-    {
-      "source": "hackernews",
-      "title": "What Is a Harness?",
-      "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/\nComments URL: https://news.ycombinator.com/item?id=49409092\nPoints: 27\n# Comments: 15",
-      "link": "https://earendil.com/posts/what-is-a-harness/",
-      "published": "Sun, 23 Aug 2026 14:24:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.271348"
-    },
-    {
-      "source": "hackernews",
-      "title": "Death to px, long live ch",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/\nComments URL: https://news.ycombinator.com/item?id=49408889\nPoints: 20\n# Comments: 10",
-      "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-      "published": "Sun, 23 Aug 2026 13:56:27 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.271381"
-    },
-    {
-      "source": "hackernews",
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes\nComments URL: https://news.ycombinator.com/item?id=49408858\nPoints: 48\n# Comments: 13",
-      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "published": "Sun, 23 Aug 2026 13:51:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.271416"
+      "category": "AI/ML",
+      "crawled_at": "2026-08-25T00:36:31.613068"
     },
     {
       "source": "arstechnica",
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-      "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "published": "Mon, 24 Aug 2026 11:00:01 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.365874"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "published": "Sun, 23 Aug 2026 14:30:16 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.365919"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Volcanoes that made history",
-      "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-      "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-      "published": "Sun, 23 Aug 2026 11:02:54 +0000",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "published": "Mon, 24 Aug 2026 21:45:53 +0000",
       "keywords": [
+        "AI",
         "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.365951"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-      "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-      "published": "Sat, 22 Aug 2026 11:22:32 +0000",
-      "keywords": [
-        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:35.365974"
+      "crawled_at": "2026-08-25T00:36:31.790536"
     },
     {
       "source": "arstechnica",
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-      "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-      "published": "Sat, 22 Aug 2026 11:08:53 +0000",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "published": "Mon, 24 Aug 2026 21:32:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-25T00:36:31.790574"
+    },
+    {
+      "source": "arstechnica",
+      "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "published": "Mon, 24 Aug 2026 21:04:48 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.790605"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "summary": "Monitor vendors are playing with fire.",
+      "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "published": "Mon, 24 Aug 2026 20:17:41 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.366009"
+      "crawled_at": "2026-08-25T00:36:31.790632"
+    },
+    {
+      "source": "arstechnica",
+      "title": "GM vehicles under federal scrutiny after hundreds of reports",
+      "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+      "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+      "published": "Mon, 24 Aug 2026 19:42:50 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.790661"
+    },
+    {
+      "source": "wired",
+      "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+      "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+      "link": "https://www.wired.com/review/bitdefender-vpn/",
+      "published": "Mon, 24 Aug 2026 21:08:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.914406"
+    },
+    {
+      "source": "wired",
+      "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
+      "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
+      "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
+      "published": "Mon, 24 Aug 2026 20:45:52 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.914444"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
+      "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
+      "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
+      "published": "Mon, 24 Aug 2026 20:22:35 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-25T00:36:31.914477"
     },
     {
       "source": "wired",
@@ -262,7 +310,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-24T18:22:35.455644"
+      "crawled_at": "2026-08-25T00:36:31.914511"
     },
     {
       "source": "wired",
@@ -274,44 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.455681"
-    },
-    {
-      "source": "wired",
-      "title": "The Kindle Accessories I Never Want to Read Without (2026)",
-      "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
-      "link": "https://www.wired.com/story/best-kindle-accessories/",
-      "published": "Mon, 24 Aug 2026 11:09:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.455718"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
-      "summary": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.",
-      "link": "https://www.wired.com/story/best-home-theater-projector/",
-      "published": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.455748"
-    },
-    {
-      "source": "wired",
-      "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
-      "summary": "Tethered display glasses are truly practical face computers. They trade bulky spatial computing for simplicity: Plug in, recline, and get a massive screen right in front of your nose.",
-      "link": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
-      "published": "Mon, 24 Aug 2026 10:30:00 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-24T18:22:35.455784"
+      "crawled_at": "2026-08-25T00:36:31.914542"
     }
   ]
 }
