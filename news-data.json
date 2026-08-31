@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T20:14:21.084049",
+  "last_updated": "2026-08-31T02:10:07.512097",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.108911"
+      "crawled_at": "2026-08-31T02:10:04.513861"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-30T20:14:15.108961"
+      "crawled_at": "2026-08-31T02:10:04.513925"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.108982"
+      "crawled_at": "2026-08-31T02:10:04.513953"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.109002"
+      "crawled_at": "2026-08-31T02:10:04.513980"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.109025"
+      "crawled_at": "2026-08-31T02:10:04.514008"
+    },
+    {
+      "source": "theverge",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you [&#823",
+      "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "published": "2026-08-30T17:18:59-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T02:10:04.624089"
     },
     {
       "source": "theverge",
@@ -80,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.354699"
+      "crawled_at": "2026-08-31T02:10:04.624132"
     },
     {
       "source": "theverge",
@@ -93,7 +106,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-08-30T20:14:15.354748"
+      "crawled_at": "2026-08-31T02:10:04.624179"
     },
     {
       "source": "theverge",
@@ -108,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.354775"
+      "crawled_at": "2026-08-31T02:10:04.624212"
     },
     {
       "source": "theverge",
@@ -122,86 +135,85 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.354800"
-    },
-    {
-      "source": "theverge",
-      "title": "China’s robots race ahead",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted m",
-      "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-      "published": "2026-08-30T08:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:15.354830"
+      "crawled_at": "2026-08-31T02:10:04.624243"
     },
     {
       "source": "hackernews",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "summary": "Article URL: https://github.com/KodeMunkie/sm750hdmifb\nComments URL: https://news.ycombinator.com/item?id=49501611\nPoints: 17\n# Comments: 6",
-      "link": "https://github.com/KodeMunkie/sm750hdmifb",
-      "published": "Sun, 30 Aug 2026 18:49:08 +0000",
+      "title": "Understanding ChatGPT Work",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\nComments URL: https://news.ycombinator.com/item?id=49504625\nPoints: 11\n# Comments: 1",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "published": "Mon, 31 Aug 2026 01:28:22 +0000",
+      "keywords": [
+        "ChatGPT",
+        "GPT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T02:10:07.097808"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to build a diffusion language model",
+      "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 7\n# Comments: 0",
+      "link": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "published": "Sun, 30 Aug 2026 23:41:32 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-08-30T20:14:20.745786"
-    },
-    {
-      "source": "hackernews",
-      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
-      "summary": "Article URL: https://openrun.dev/blog/litestream/\nComments URL: https://news.ycombinator.com/item?id=49501147\nPoints: 21\n# Comments: 10",
-      "link": "https://openrun.dev/blog/litestream/",
-      "published": "Sun, 30 Aug 2026 18:05:06 +0000",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "SQL",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-30T20:14:20.745818"
-    },
-    {
-      "source": "hackernews",
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "summary": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\nComments URL: https://news.ycombinator.com/item?id=49500471\nPoints: 0\n# Comments: 0",
-      "link": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "published": "Sun, 30 Aug 2026 17:01:56 +0000",
-      "keywords": [
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.745846"
+      "crawled_at": "2026-08-31T02:10:07.097854"
     },
     {
       "source": "hackernews",
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "summary": "Article URL: https://komoroske.com/slime-mold/\nComments URL: https://news.ycombinator.com/item?id=49499891\nPoints: 74\n# Comments: 31",
-      "link": "https://komoroske.com/slime-mold/",
-      "published": "Sun, 30 Aug 2026 16:03:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.745872"
-    },
-    {
-      "source": "hackernews",
-      "title": "Haiku R1/beta6 has been released",
-      "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\nComments URL: https://news.ycombinator.com/item?id=49499867\nPoints: 169\n# Comments: 46",
-      "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "published": "Sun, 30 Aug 2026 16:01:10 +0000",
+      "title": "Matrox: Graphics for Professionals",
+      "summary": "Article URL: https://www.abortretry.fail/p/matrox\nComments URL: https://news.ycombinator.com/item?id=49503934\nPoints: 18\n# Comments: 0",
+      "link": "https://www.abortretry.fail/p/matrox",
+      "published": "Sun, 30 Aug 2026 23:39:35 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-30T20:14:20.745892"
+      "crawled_at": "2026-08-31T02:10:07.097882"
+    },
+    {
+      "source": "hackernews",
+      "title": "“I just chose words carefully”",
+      "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/\nComments URL: https://news.ycombinator.com/item?id=49503601\nPoints: 295\n# Comments: 80",
+      "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "published": "Sun, 30 Aug 2026 22:49:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T02:10:07.097927"
+    },
+    {
+      "source": "hackernews",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "summary": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html\nComments URL: https://news.ycombinator.com/item?id=49502611\nPoints: 59\n# Comments: 19",
+      "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "published": "Sun, 30 Aug 2026 20:46:53 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T02:10:07.097955"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "published": "Sun, 30 Aug 2026 21:40:56 +0000",
+      "keywords": [
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T02:10:07.317695"
     },
     {
       "source": "arstechnica",
@@ -211,7 +223,7 @@
       "published": "Sun, 30 Aug 2026 17:40:30 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.918434"
+      "crawled_at": "2026-08-31T02:10:07.317733"
     },
     {
       "source": "arstechnica",
@@ -223,7 +235,7 @@
         "Meta"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.918469"
+      "crawled_at": "2026-08-31T02:10:07.317768"
     },
     {
       "source": "arstechnica",
@@ -233,7 +245,7 @@
       "published": "Sat, 29 Aug 2026 10:50:31 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.918497"
+      "crawled_at": "2026-08-31T02:10:07.317798"
     },
     {
       "source": "arstechnica",
@@ -246,22 +258,12 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-30T20:14:20.918516"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Cities terminate Flock contracts at record pace in August",
-      "summary": "Cancellations have accelerated.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
-      "published": "Fri, 28 Aug 2026 21:33:54 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:20.918534"
+      "crawled_at": "2026-08-31T02:10:07.317823"
     },
     {
       "source": "wired",
       "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
-      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch.",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.",
       "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
       "published": "Sun, 30 Aug 2026 16:16:24 +0000",
       "keywords": [
@@ -270,7 +272,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:21.083869"
+      "crawled_at": "2026-08-31T02:10:07.511877"
     },
     {
       "source": "wired",
@@ -280,7 +282,7 @@
       "published": "Sun, 30 Aug 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:21.083905"
+      "crawled_at": "2026-08-31T02:10:07.511918"
     },
     {
       "source": "wired",
@@ -292,7 +294,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:21.083931"
+      "crawled_at": "2026-08-31T02:10:07.511951"
     },
     {
       "source": "wired",
@@ -302,7 +304,7 @@
       "published": "Sun, 30 Aug 2026 10:03:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:21.083955"
+      "crawled_at": "2026-08-31T02:10:07.511981"
     },
     {
       "source": "wired",
@@ -314,7 +316,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-30T20:14:21.083982"
+      "crawled_at": "2026-08-31T02:10:07.512014"
     }
   ]
 }
