@@ -1,259 +1,314 @@
 {
-  "last_updated": "2026-08-31T12:04:07.351368",
+  "last_updated": "2026-08-31T22:08:54.971040",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "published": "Mon, 31 Aug 2026 02:34:00 +0000",
+      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+      "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+      "published": "Mon, 31 Aug 2026 20:20:25 +0000",
       "keywords": [
+        "AWS",
+        "Amazon",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-08-31T22:08:54.033087"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "published": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T22:08:54.033127"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+      "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "published": "Mon, 31 Aug 2026 19:32:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-31T22:08:54.033159"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "published": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "keywords": [
+        "AI",
+        "Rust"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T22:08:54.033184"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+      "published": "Mon, 31 Aug 2026 19:02:06 +0000",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-31T22:08:54.033222"
+    },
+    {
+      "source": "theverge",
+      "title": "I went to the loneliest baseball game on Apple Vision Pro",
+      "summary": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox an",
+      "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
+      "published": "2026-08-31T17:18:27-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-31T22:08:54.303888"
+    },
+    {
+      "source": "theverge",
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "summary": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersi",
+      "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "published": "2026-08-31T15:31:59-04:00",
+      "keywords": [
+        "Go",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-08-31T22:08:54.303960"
+    },
+    {
+      "source": "theverge",
+      "title": "Car owners want tech they can ignore",
+      "summary": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. Th",
+      "link": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+      "published": "2026-08-31T13:11:17-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-31T22:08:54.304004"
+    },
+    {
+      "source": "theverge",
+      "title": "Phil Schiller is leaving his biggest jobs at Apple",
+      "summary": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg reports. Schiller in",
+      "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+      "published": "2026-08-31T12:54:07-04:00",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-08-31T22:08:54.304048"
+    },
+    {
+      "source": "theverge",
+      "title": "Markiplier is now GoPro’s biggest shareholder",
+      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to ",
+      "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+      "published": "2026-08-31T12:38:10-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T22:08:54.304089"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "summary": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 82\n# Comments: 50",
+      "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "published": "Mon, 31 Aug 2026 21:10:58 +0000",
+      "keywords": [
+        "Go",
+        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:06.768267"
+      "crawled_at": "2026-08-31T22:08:54.567376"
     },
     {
-      "source": "techcrunch",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been pr",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "published": "Mon, 31 Aug 2026 02:18:57 +0000",
+      "source": "hackernews",
+      "title": "Autonomous (YC F25) Is Hiring Engineers",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49514781\nPoints: 0\n# Comments: 0",
+      "link": "https://news.ycombinator.com/item?id=49514781",
+      "published": "Mon, 31 Aug 2026 21:00:09 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T22:08:54.567416"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Markdown Viewer and Editor",
+      "summary": "I built an online viewer and editor for .md files where the file stays on your machine. Free to use and code is available under MIT License here: https://github.com/hattray/markdown-editorYou can also install it as a Chrome/Edge app so that it works for files on your desktop by double-clicking.Suppo",
+      "link": "https://kingsbridge-consultancy.com/md-viewer/",
+      "published": "Mon, 31 Aug 2026 20:55:03 +0000",
       "keywords": [
         "AI",
-        "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.768340"
+      "crawled_at": "2026-08-31T22:08:54.567468"
     },
     {
-      "source": "techcrunch",
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "published": "Sun, 30 Aug 2026 18:33:44 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.768384"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "keywords": [
-        "Go",
-        "AWS"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-31T12:04:06.768438"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "published": "Sun, 30 Aug 2026 16:03:00 +0000",
+      "source": "hackernews",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o\n\nComments URL: https://news.ycombinator.com/item?id=49512975\nPoints: 137\n# Comments: 25",
+      "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "published": "Mon, 31 Aug 2026 18:21:33 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.768468"
+      "crawled_at": "2026-08-31T22:08:54.567504"
     },
     {
-      "source": "theverge",
-      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-      "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you [&#823",
-      "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-      "published": "2026-08-30T17:18:59-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:06.875537"
-    },
-    {
-      "source": "theverge",
-      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-      "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal",
-      "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-      "published": "2026-08-30T15:14:08-04:00",
+      "source": "hackernews",
+      "title": "The safest job from AI may be writing",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html\nComments URL: https://news.ycombinator.com/item?id=49512856\nPoints: 47\n# Comments: 85",
+      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "published": "Mon, 31 Aug 2026 18:12:20 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.875591"
-    },
-    {
-      "source": "theverge",
-      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-      "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecede",
-      "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
-      "published": "2026-08-30T12:36:39-04:00",
-      "keywords": [
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-08-31T12:04:06.875649"
-    },
-    {
-      "source": "theverge",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacki",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "published": "2026-08-30T11:35:10-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Funding",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.875690"
-    },
-    {
-      "source": "theverge",
-      "title": "Chess.com launched a poker site, and it’s planning even more classic games",
-      "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking ",
-      "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
-      "published": "2026-08-30T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:06.875743"
-    },
-    {
-      "source": "hackernews",
-      "title": "I Think the Military Commissary's Freezers Were Hacked",
-      "summary": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary\nComments URL: https://news.ycombinator.com/item?id=49508506\nPoints: 3\n# Comments: 0",
-      "link": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "published": "Mon, 31 Aug 2026 11:45:48 +0000",
-      "keywords": [
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-08-31T12:04:07.012850"
-    },
-    {
-      "source": "hackernews",
-      "title": "Agent Memory as a File Format",
-      "summary": "Article URL: https://calpaterson.com/memoryfields.html\nComments URL: https://news.ycombinator.com/item?id=49508317\nPoints: 3\n# Comments: 0",
-      "link": "https://calpaterson.com/memoryfields.html",
-      "published": "Mon, 31 Aug 2026 11:17:25 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.012893"
-    },
-    {
-      "source": "hackernews",
-      "title": "A CVE Dispute",
-      "summary": "Article URL: https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/\nComments URL: https://news.ycombinator.com/item?id=49508290\nPoints: 26\n# Comments: 0",
-      "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-      "published": "Mon, 31 Aug 2026 11:13:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.012927"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "summary": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\nComments URL: https://news.ycombinator.com/item?id=49507822\nPoints: 120\n# Comments: 30",
-      "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "published": "Mon, 31 Aug 2026 09:59:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.012969"
-    },
-    {
-      "source": "hackernews",
-      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-      "summary": "Article URL: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/\nComments URL: https://news.ycombinator.com/item?id=49507121\nPoints: 6\n# Comments: 5",
-      "link": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-      "published": "Mon, 31 Aug 2026 08:33:01 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:07.013001"
+      "crawled_at": "2026-08-31T22:08:54.567532"
     },
     {
       "source": "arstechnica",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "published": "Mon, 31 Aug 2026 10:00:34 +0000",
+      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+      "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+      "link": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
+      "published": "Mon, 31 Aug 2026 20:02:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T22:08:54.791135"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+      "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
+      "published": "Mon, 31 Aug 2026 18:39:25 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-08-31T22:08:54.791172"
+    },
+    {
+      "source": "arstechnica",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "published": "Mon, 31 Aug 2026 18:10:45 +0000",
       "keywords": [
         "AI",
-        "Meta",
+        "Anthropic",
+        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:07.229720"
+      "crawled_at": "2026-08-31T22:08:54.791204"
     },
     {
       "source": "arstechnica",
-      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-      "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
-      "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "published": "Sun, 30 Aug 2026 21:40:56 +0000",
+      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+      "summary": "Finding reveals an overlooked way that water can damage surfaces.",
+      "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+      "published": "Mon, 31 Aug 2026 17:11:48 +0000",
       "keywords": [
-        "Gaming"
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T22:08:54.791231"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Think twice before installing this device promising free movies",
+      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-08-31T22:08:54.791260"
+    },
+    {
+      "source": "wired",
+      "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
+      "summary": "From the best Dyson vacuum to the best wireless earbuds we’ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+      "link": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+      "published": "Mon, 31 Aug 2026 20:47:46 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-08-31T22:08:54.970821"
+    },
+    {
+      "source": "wired",
+      "title": "Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All",
+      "summary": "I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.",
+      "link": "https://www.wired.com/review/asus-proart-pa279cdv/",
+      "published": "Mon, 31 Aug 2026 19:48:26 +0000",
+      "keywords": [
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.229774"
+      "crawled_at": "2026-08-31T22:08:54.970866"
     },
     {
-      "source": "arstechnica",
-      "title": "Why it matters that President Trump just dialed into a NASA news conference",
-      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
-      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-      "published": "Sun, 30 Aug 2026 17:40:30 +0000",
+      "source": "wired",
+      "title": "Tempo Promo Codes: Get up to 60% Off Healthy Meals",
+      "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+      "link": "https://www.wired.com/story/tempo-meals-promo-code/",
+      "published": "Mon, 31 Aug 2026 17:18:20 +0000",
       "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.229818"
+      "category": "Programming",
+      "crawled_at": "2026-08-31T22:08:54.970894"
     },
     {
-      "source": "arstechnica",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "published": "Sun, 30 Aug 2026 11:03:47 +0000",
+      "source": "wired",
+      "title": "George Santos Just Got Hit With Kalshi’s First-Ever Lifetime Ban",
+      "summary": "The former US representative was also fined more than $71,000 for allegedly attempting to manipulate the prediction market.",
+      "link": "https://www.wired.com/story/george-santos-gets-a-lifetime-ban-from-kalshi/",
+      "published": "Mon, 31 Aug 2026 15:27:31 +0000",
       "keywords": [
-        "Meta"
+        "Go",
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.229861"
-    },
-    {
-      "source": "arstechnica",
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-      "published": "Sat, 29 Aug 2026 10:50:31 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.229899"
+      "crawled_at": "2026-08-31T22:08:54.970932"
     },
     {
       "source": "wired",
@@ -266,60 +321,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:07.351137"
-    },
-    {
-      "source": "wired",
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "published": "Mon, 31 Aug 2026 10:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:07.351186"
-    },
-    {
-      "source": "wired",
-      "title": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
-      "summary": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
-      "link": "https://www.wired.com/gallery/best-magsafe-grips/",
-      "published": "Mon, 31 Aug 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.351218"
-    },
-    {
-      "source": "wired",
-      "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
-      "summary": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine.",
-      "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
-      "published": "Mon, 31 Aug 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T12:04:07.351245"
-    },
-    {
-      "source": "wired",
-      "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
-      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.",
-      "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-      "published": "Sun, 30 Aug 2026 16:16:24 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-08-31T12:04:07.351282"
+      "crawled_at": "2026-08-31T22:08:54.970961"
     }
   ]
 }
