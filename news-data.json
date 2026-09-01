@@ -1,73 +1,122 @@
 {
-  "last_updated": "2026-08-31T22:08:54.971040",
+  "last_updated": "2026-09-01T02:29:52.520621",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-      "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-      "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "published": "Mon, 31 Aug 2026 20:20:25 +0000",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "published": "Tue, 01 Sep 2026 00:30:00 +0000",
       "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.596606"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "published": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.596903"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+      "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+      "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+      "published": "Mon, 31 Aug 2026 23:41:10 +0000",
+      "keywords": [
+        "AI",
+        "API",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.596929"
+    },
+    {
+      "source": "techcrunch",
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "published": "Mon, 31 Aug 2026 23:14:14 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-09-01T02:29:51.596953"
+    },
+    {
+      "source": "techcrunch",
+      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+      "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+      "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+      "published": "Mon, 31 Aug 2026 22:14:05 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.596972"
+    },
+    {
+      "source": "theverge",
+      "title": "The Google TV Streamer now costs $50 more",
+      "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new [&#8230",
+      "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "published": "2026-08-31T18:32:51-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.729503"
+    },
+    {
+      "source": "theverge",
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "summary": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separat",
+      "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "published": "2026-08-31T18:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-01T02:29:51.729548"
+    },
+    {
+      "source": "theverge",
+      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+      "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" ",
+      "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+      "published": "2026-08-31T17:41:42-04:00",
+      "keywords": [
+        "AI",
         "AWS",
         "Amazon",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-08-31T22:08:54.033087"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "published": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Go"
-      ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.033127"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "published": "Mon, 31 Aug 2026 19:32:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-31T22:08:54.033159"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "published": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "keywords": [
-        "AI",
-        "Rust"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.033184"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-      "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "published": "Mon, 31 Aug 2026 19:02:06 +0000",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-31T22:08:54.033222"
+      "crawled_at": "2026-09-01T02:29:51.729580"
     },
     {
       "source": "theverge",
@@ -80,7 +129,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-08-31T22:08:54.303888"
+      "crawled_at": "2026-09-01T02:29:51.729612"
     },
     {
       "source": "theverge",
@@ -94,109 +143,104 @@
         "Gaming"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-08-31T22:08:54.303960"
-    },
-    {
-      "source": "theverge",
-      "title": "Car owners want tech they can ignore",
-      "summary": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. Th",
-      "link": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
-      "published": "2026-08-31T13:11:17-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-31T22:08:54.304004"
-    },
-    {
-      "source": "theverge",
-      "title": "Phil Schiller is leaving his biggest jobs at Apple",
-      "summary": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg reports. Schiller in",
-      "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
-      "published": "2026-08-31T12:54:07-04:00",
-      "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-08-31T22:08:54.304048"
-    },
-    {
-      "source": "theverge",
-      "title": "Markiplier is now GoPro’s biggest shareholder",
-      "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to ",
-      "link": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
-      "published": "2026-08-31T12:38:10-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.304089"
+      "crawled_at": "2026-09-01T02:29:51.729654"
     },
     {
       "source": "hackernews",
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "summary": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 82\n# Comments: 50",
-      "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "published": "Mon, 31 Aug 2026 21:10:58 +0000",
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "summary": "Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/\nComments URL: https://news.ycombinator.com/item?id=49516699\nPoints: 12\n# Comments: 2",
+      "link": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "published": "Tue, 01 Sep 2026 01:01:08 +0000",
       "keywords": [
-        "Go",
-        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.567376"
+      "crawled_at": "2026-09-01T02:29:52.158353"
     },
     {
       "source": "hackernews",
-      "title": "Autonomous (YC F25) Is Hiring Engineers",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=49514781\nPoints: 0\n# Comments: 0",
-      "link": "https://news.ycombinator.com/item?id=49514781",
-      "published": "Mon, 31 Aug 2026 21:00:09 +0000",
-      "keywords": [],
+      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2094450188911845827\nComments URL: https://news.ycombinator.com/item?id=49516209\nPoints: 35\n# Comments: 29",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+      "published": "Mon, 31 Aug 2026 23:46:38 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.567416"
+      "crawled_at": "2026-09-01T02:29:52.158390"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Markdown Viewer and Editor",
-      "summary": "I built an online viewer and editor for .md files where the file stays on your machine. Free to use and code is available under MIT License here: https://github.com/hattray/markdown-editorYou can also install it as a Chrome/Edge app so that it works for files on your desktop by double-clicking.Suppo",
-      "link": "https://kingsbridge-consultancy.com/md-viewer/",
-      "published": "Mon, 31 Aug 2026 20:55:03 +0000",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "summary": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 74\n# Comments: 67",
+      "link": "https://datacolada.org/138",
+      "published": "Mon, 31 Aug 2026 23:45:56 +0000",
       "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.567468"
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.158416"
     },
     {
       "source": "hackernews",
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o\n\nComments URL: https://news.ycombinator.com/item?id=49512975\nPoints: 137\n# Comments: 25",
-      "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "title": "Run macOS Software on Linux",
+      "summary": "Article URL: https://www.darlinghq.org/\nComments URL: https://news.ycombinator.com/item?id=49515830\nPoints: 112\n# Comments: 33",
+      "link": "https://www.darlinghq.org/",
+      "published": "Mon, 31 Aug 2026 22:53:45 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.567504"
-    },
-    {
-      "source": "hackernews",
-      "title": "The safest job from AI may be writing",
-      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html\nComments URL: https://news.ycombinator.com/item?id=49512856\nPoints: 47\n# Comments: 85",
-      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "published": "Mon, 31 Aug 2026 18:12:20 +0000",
-      "keywords": [
-        "AI",
+        "Linux",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.567532"
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.158438"
+    },
+    {
+      "source": "hackernews",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "summary": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\nComments URL: https://news.ycombinator.com/item?id=49515662\nPoints: 46\n# Comments: 29",
+      "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "published": "Mon, 31 Aug 2026 22:32:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.158467"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "summary": "It's the lightest Bentley in 85 years.",
+      "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "published": "Mon, 31 Aug 2026 23:01:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.294647"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+      "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+      "published": "Mon, 31 Aug 2026 21:23:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.294675"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Get in on the Ars community that doesn’t fit beneath an article",
+      "summary": "You've read the stories. Now check out our forums.",
+      "link": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+      "published": "Mon, 31 Aug 2026 21:12:01 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.294700"
     },
     {
       "source": "arstechnica",
@@ -208,7 +252,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.791135"
+      "crawled_at": "2026-09-01T02:29:52.294724"
     },
     {
       "source": "arstechnica",
@@ -220,47 +264,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.791172"
+      "crawled_at": "2026-09-01T02:29:52.294746"
     },
     {
-      "source": "arstechnica",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "published": "Mon, 31 Aug 2026 18:10:45 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.791204"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
-      "summary": "Finding reveals an overlooked way that water can damage surfaces.",
-      "link": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-      "published": "Mon, 31 Aug 2026 17:11:48 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.791231"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Think twice before installing this device promising free movies",
-      "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
+      "source": "wired",
+      "title": "The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes",
+      "summary": "It’s one of the best times of the year to buy a mattress, and our top tested picks are on sale.",
+      "link": "https://www.wired.com/story/labor-day-mattress-deals-2026/",
+      "published": "Mon, 31 Aug 2026 22:05:42 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-08-31T22:08:54.791260"
+      "category": "Tech News",
+      "crawled_at": "2026-09-01T02:29:52.520443"
     },
     {
       "source": "wired",
@@ -273,7 +289,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.970821"
+      "crawled_at": "2026-09-01T02:29:52.520474"
     },
     {
       "source": "wired",
@@ -285,7 +301,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.970866"
+      "crawled_at": "2026-09-01T02:29:52.520505"
     },
     {
       "source": "wired",
@@ -295,7 +311,7 @@
       "published": "Mon, 31 Aug 2026 17:18:20 +0000",
       "keywords": [],
       "category": "Programming",
-      "crawled_at": "2026-08-31T22:08:54.970894"
+      "crawled_at": "2026-09-01T02:29:52.520525"
     },
     {
       "source": "wired",
@@ -308,20 +324,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-08-31T22:08:54.970932"
-    },
-    {
-      "source": "wired",
-      "title": "Why Food Keeps Making Everybody Sick This Summer",
-      "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and bacteria outbreaks.",
-      "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
-      "published": "Mon, 31 Aug 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-08-31T22:08:54.970961"
+      "crawled_at": "2026-09-01T02:29:52.520555"
     }
   ]
 }
