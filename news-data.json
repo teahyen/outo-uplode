@@ -1,221 +1,237 @@
 {
-  "last_updated": "2026-09-01T20:15:51.713439",
+  "last_updated": "2026-09-02T01:50:53.587536",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first ever foldable iPhone.",
-      "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "published": "Tue, 01 Sep 2026 19:45:28 +0000",
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
       "keywords": [
-        "Apple",
-        "iPhone"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-01T20:15:49.944176"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "keywords": [
-        "Anthropic",
-        "REST",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:49.944231"
+      "crawled_at": "2026-09-02T01:50:52.949814"
     },
     {
       "source": "techcrunch",
-      "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
-      "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-      "published": "Tue, 01 Sep 2026 19:30:24 +0000",
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
       "keywords": [
-        "Go",
-        "API",
-        "REST"
+        "AI",
+        "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:49.944276"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:52.949867"
     },
     {
       "source": "techcrunch",
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
-      "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "published": "Tue, 01 Sep 2026 18:02:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:49.944306"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "published": "Tue, 01 Sep 2026 17:35:37 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:49.944339"
-    },
-    {
-      "source": "theverge",
-      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-      "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the compa",
-      "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-      "published": "2026-09-01T15:43:39-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:50.128548"
-    },
-    {
-      "source": "theverge",
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "published": "2026-09-01T15:02:54-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Security",
-        "Cybersecurity"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:50.128597"
-    },
-    {
-      "source": "theverge",
-      "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
-      "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Tern",
-      "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-      "published": "2026-09-01T14:24:16-04:00",
-      "keywords": [
-        "Go",
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-01T20:15:50.128643"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsui",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "published": "2026-09-01T14:19:26-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AWS",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:50.128678"
-    },
-    {
-      "source": "theverge",
-      "title": "Google Find Hub will soon help you locate things without a tracker",
-      "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in res",
-      "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-      "published": "2026-09-01T14:00:00-04:00",
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "published": "Tue, 01 Sep 2026 22:13:34 +0000",
       "keywords": [
         "Go",
         "Apple",
         "Google",
-        "Android",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-01T20:15:50.128739"
+      "crawled_at": "2026-09-02T01:50:52.949905"
     },
     {
-      "source": "hackernews",
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\nPoints: 4\n# Comments: 0",
-      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "published": "Tue, 01 Sep 2026 19:55:47 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.490951"
-    },
-    {
-      "source": "hackernews",
-      "title": "What's the Scam?",
-      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html\nComments URL: https://news.ycombinator.com/item?id=49526244\nPoints: 18\n# Comments: 3",
-      "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "published": "Tue, 01 Sep 2026 18:46:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.490996"
-    },
-    {
-      "source": "hackernews",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "summary": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 81\n# Comments: 44",
-      "link": "https://danluu.com/zitron/",
-      "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "source": "techcrunch",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
       "keywords": [
         "AI",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.491025"
+      "crawled_at": "2026-09-02T01:50:52.949944"
     },
     {
-      "source": "hackernews",
-      "title": "There Is No AI",
-      "summary": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html\nComments URL: https://news.ycombinator.com/item?id=49525791\nPoints: 12\n# Comments: 0",
-      "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-      "published": "Tue, 01 Sep 2026 18:18:54 +0000",
+      "source": "techcrunch",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.491050"
+      "crawled_at": "2026-09-02T01:50:52.949976"
     },
     {
-      "source": "hackernews",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\n\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 541\n# Comments: 490",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "published": "Tue, 01 Sep 2026 17:53:53 +0000",
+      "source": "theverge",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the ",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "published": "2026-09-01T18:50:29-04:00",
       "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "iOS"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:53.109032"
+    },
+    {
+      "source": "theverge",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "published": "2026-09-01T18:01:36-04:00",
+      "keywords": [
+        "AI",
         "Anthropic",
         "Claude",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.491095"
+      "crawled_at": "2026-09-02T01:50:53.109089"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Appl",
+      "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "published": "2026-09-01T17:22:56-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Google",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-02T01:50:53.109138"
+    },
+    {
+      "source": "theverge",
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The I",
+      "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "published": "2026-09-01T16:54:08-04:00",
+      "keywords": [],
+      "category": "Hardware",
+      "crawled_at": "2026-09-02T01:50:53.109193"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its res",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "published": "2026-09-01T16:45:49-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "REST",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:53.109239"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/1/claude-fable-5-1/\nComments URL: https://news.ycombinator.com/item?id=49530472\nPoints: 11\n# Comments: 1",
+      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "published": "Wed, 02 Sep 2026 01:05:52 +0000",
+      "keywords": [
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:53.239046"
+    },
+    {
+      "source": "hackernews",
+      "title": "The efficient frontier of LLM inference",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 36\n# Comments: 6",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:53.239087"
+    },
+    {
+      "source": "hackernews",
+      "title": "Improving our alignment and security efforts",
+      "summary": "Article URL: https://www.anthropic.com/news/improving-alignment-security-efforts\nComments URL: https://news.ycombinator.com/item?id=49529567\nPoints: 14\n# Comments: 7",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published": "Tue, 01 Sep 2026 23:12:45 +0000",
+      "keywords": [
+        "Anthropic",
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-09-02T01:50:53.239122"
+    },
+    {
+      "source": "hackernews",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/\nComments URL: https://news.ycombinator.com/item?id=49529132\nPoints: 56\n# Comments: 27",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "published": "Tue, 01 Sep 2026 22:30:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-02T01:50:53.239157"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label ",
+      "link": "https://masteranza.github.io/weedout/",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-02T01:50:53.239240"
     },
     {
       "source": "arstechnica",
-      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+      "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
+      "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+      "published": "Tue, 01 Sep 2026 23:01:52 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-02T01:50:53.381378"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Research roundup: 7 cool science stories we almost missed",
+      "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+      "link": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+      "published": "Tue, 01 Sep 2026 19:06:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-02T01:50:53.381416"
+    },
+    {
+      "source": "arstechnica",
+      "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
       "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
       "link": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
       "published": "Tue, 01 Sep 2026 18:21:16 +0000",
@@ -223,7 +239,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.620851"
+      "crawled_at": "2026-09-02T01:50:53.381447"
     },
     {
       "source": "arstechnica",
@@ -236,7 +252,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-01T20:15:51.620887"
+      "crawled_at": "2026-09-02T01:50:53.381475"
     },
     {
       "source": "arstechnica",
@@ -248,36 +264,23 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.620917"
+      "crawled_at": "2026-09-02T01:50:53.381504"
     },
     {
-      "source": "arstechnica",
-      "title": "This is what a supercar was like a century ago",
-      "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
-      "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-      "published": "Tue, 01 Sep 2026 17:34:16 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.620943"
-    },
-    {
-      "source": "arstechnica",
-      "title": "It turns out that Orion's much-maligned heat shield performed really well",
-      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-      "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-      "published": "Tue, 01 Sep 2026 14:46:28 +0000",
+      "source": "wired",
+      "title": "The Range Rover Electric: Specs, Price, Availability",
+      "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
+      "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+      "published": "Tue, 01 Sep 2026 23:01:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.620965"
+      "crawled_at": "2026-09-02T01:50:53.587323"
     },
     {
       "source": "wired",
-      "title": "The Diamond Moon and Other Astronomical Events To See in September 2026",
+      "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
       "summary": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
       "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
       "published": "Tue, 01 Sep 2026 20:00:00 +0000",
@@ -285,7 +288,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.713190"
+      "crawled_at": "2026-09-02T01:50:53.587363"
     },
     {
       "source": "wired",
@@ -299,7 +302,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.713235"
+      "crawled_at": "2026-09-02T01:50:53.587395"
     },
     {
       "source": "wired",
@@ -312,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.713265"
+      "crawled_at": "2026-09-02T01:50:53.587423"
     },
     {
       "source": "wired",
@@ -325,19 +328,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-01T20:15:51.713299"
-    },
-    {
-      "source": "wired",
-      "title": "Using High-Energy Laser, US Shoots Down Drones Near Mexico Border",
-      "summary": "The US Army’s laser system is part of a new generation of directed-energy weapons capable of detecting, tracking, and destroying drones with a concentrated beam of light.",
-      "link": "https://www.wired.com/story/high-energy-laser-us-shoots-down-drones-near-mexico-border/",
-      "published": "Tue, 01 Sep 2026 12:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-01T20:15:51.713342"
+      "crawled_at": "2026-09-02T01:50:53.587455"
     }
   ]
 }
