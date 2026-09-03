@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:56:48.680662",
+  "last_updated": "2026-09-03T10:18:50.119930",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-09-03T01:56:47.712137"
+      "crawled_at": "2026-09-03T10:18:44.229350"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.712175"
+      "crawled_at": "2026-09-03T10:18:44.229390"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.712215"
+      "crawled_at": "2026-09-03T10:18:44.229432"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.712244"
+      "crawled_at": "2026-09-03T10:18:44.229463"
     },
     {
       "source": "techcrunch",
@@ -69,96 +69,107 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.712312"
+      "crawled_at": "2026-09-03T10:18:44.229499"
     },
     {
       "source": "theverge",
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK la",
-      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "published": "2026-09-02T19:00:00-04:00",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-03T01:56:47.832090"
-    },
-    {
-      "source": "theverge",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "published": "2026-09-02T16:11:40-04:00",
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The ",
+      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "published": "2026-09-03T04:59:09-04:00",
       "keywords": [
         "AI",
         "Go",
-        "Google",
-        "AR"
+        "Azure",
+        "Microsoft",
+        "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.832146"
+      "crawled_at": "2026-09-03T10:18:44.377489"
     },
     {
       "source": "theverge",
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sal",
-      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "published": "2026-09-02T14:56:59-04:00",
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "summary": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inc",
+      "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "published": "2026-09-03T04:30:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-03T10:18:44.377552"
+    },
+    {
+      "source": "theverge",
+      "title": "Belkin’s first trackers come ready to attach to your gear.",
+      "summary": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers fro",
+      "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+      "published": "2026-09-03T04:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Apple",
+        "Google",
+        "Android"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-03T10:18:44.377600"
+    },
+    {
+      "source": "theverge",
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "summary": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside",
+      "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "published": "2026-09-03T04:00:00-04:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-03T10:18:44.377638"
+    },
+    {
+      "source": "theverge",
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+      "summary": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It als",
+      "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "published": "2026-09-03T03:30:00-04:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:47.832199"
-    },
-    {
-      "source": "theverge",
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular passwor",
-      "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "published": "2026-09-02T14:48:14-04:00",
-      "keywords": [
-        "Funding",
-        "Linux",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-03T01:56:47.832246"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "published": "2026-09-02T13:52:56-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:47.832304"
+      "crawled_at": "2026-09-03T10:18:44.377705"
     },
     {
       "source": "hackernews",
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "summary": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\nComments URL: https://news.ycombinator.com/item?id=49543841\nPoints: 86\n# Comments: 70",
-      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "published": "Wed, 02 Sep 2026 23:08:47 +0000",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "summary": "Article URL: https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/\nComments URL: https://news.ycombinator.com/item?id=49546800\nPo",
+      "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "published": "Thu, 03 Sep 2026 07:04:13 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Hack",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.399165"
+      "category": "Tech News",
+      "crawled_at": "2026-09-03T10:18:49.869823"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pre-Release of Polars 2.0",
+      "summary": "Article URL: https://pola.rs/posts/announcing-polars-2/\nComments URL: https://news.ycombinator.com/item?id=49546753\nPoints: 140\n# Comments: 24",
+      "link": "https://pola.rs/posts/announcing-polars-2/",
+      "published": "Thu, 03 Sep 2026 06:59:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-03T10:18:49.869869"
     },
     {
       "source": "hackernews",
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.The path to RonanRx is fairly unconventional. During the pande",
-      "link": "https://ronanrx.com/",
+      "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.The path to RonanRx is fairly unconvent",
+      "link": "https://news.ycombinator.com/item?id=49543530",
       "published": "Wed, 02 Sep 2026 22:36:04 +0000",
       "keywords": [
         "AI",
@@ -168,12 +179,12 @@
         "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.399466"
+      "crawled_at": "2026-09-03T10:18:49.870156"
     },
     {
       "source": "hackernews",
       "title": "Reasons robotics is hard",
-      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 36\n# Comments: 6",
+      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 95\n# Comments: 52",
       "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
       "published": "Wed, 02 Sep 2026 22:02:30 +0000",
       "keywords": [
@@ -181,19 +192,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.399500"
-    },
-    {
-      "source": "hackernews",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o\nComments URL: https://news.ycombinator.com/item?id=49543007\nPoints: 95\n# Comments: 58",
-      "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-      "published": "Wed, 02 Sep 2026 21:46:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.399537"
+      "crawled_at": "2026-09-03T10:18:49.870185"
     },
     {
       "source": "hackernews",
@@ -206,7 +205,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.399571"
+      "crawled_at": "2026-09-03T10:18:49.870220"
     },
     {
       "source": "arstechnica",
@@ -218,7 +217,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.486208"
+      "crawled_at": "2026-09-03T10:18:49.956845"
     },
     {
       "source": "arstechnica",
@@ -230,7 +229,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-03T01:56:48.486244"
+      "crawled_at": "2026-09-03T10:18:49.956883"
     },
     {
       "source": "arstechnica",
@@ -243,7 +242,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.486291"
+      "crawled_at": "2026-09-03T10:18:49.956910"
     },
     {
       "source": "arstechnica",
@@ -255,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.486321"
+      "crawled_at": "2026-09-03T10:18:49.956940"
     },
     {
       "source": "arstechnica",
@@ -269,75 +268,67 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.486351"
+      "crawled_at": "2026-09-03T10:18:49.956971"
     },
     {
       "source": "wired",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "published": "Thu, 03 Sep 2026 01:32:02 +0000",
+      "title": "Is It Even Possible to Understand Quantum Mechanics?",
+      "summary": "Common sense is of no help in studying reality at the atomic scale.",
+      "link": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+      "published": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-03T10:18:50.119689"
+    },
+    {
+      "source": "wired",
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "published": "Thu, 03 Sep 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.680433"
+      "crawled_at": "2026-09-03T10:18:50.119740"
     },
     {
       "source": "wired",
-      "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
-      "summary": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season.",
-      "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
-      "published": "Wed, 02 Sep 2026 22:23:26 +0000",
+      "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+      "summary": "While companies promise they can help users monitor gut health, experts suggest that smart toilets provide little in the way of benefits to the average person.",
+      "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
+      "published": "Thu, 03 Sep 2026 09:30:00 +0000",
       "keywords": [
-        "Amazon",
+        "AI",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-03T01:56:48.680479"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-03T10:18:50.119768"
     },
     {
       "source": "wired",
-      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-      "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
-      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
-      "published": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "title": "Face Recognition Is Becoming the Norm for Dating Apps",
+      "summary": "To keep scammers at bay, dating apps are embracing biometric scanning tools and “verified human” badges. These moves are sparking concerns about surveillance and privacy.",
+      "link": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
+      "published": "Thu, 03 Sep 2026 09:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-03T10:18:50.119810"
+    },
+    {
+      "source": "wired",
+      "title": "The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen",
+      "summary": "The World Meteorological Organization is warning that the climate phenomenon that has the Pacific running a fever will last until at least February, with dire consequences for weather worldwide.",
+      "link": "https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/",
+      "published": "Thu, 03 Sep 2026 06:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.680521"
-    },
-    {
-      "source": "wired",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "published": "Wed, 02 Sep 2026 18:41:02 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Go",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-03T01:56:48.680552"
-    },
-    {
-      "source": "wired",
-      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
-      "summary": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
-      "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
-      "published": "Wed, 02 Sep 2026 18:32:01 +0000",
-      "keywords": [
-        "Database",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-03T01:56:48.680588"
+      "crawled_at": "2026-09-03T10:18:50.119856"
     }
   ]
 }
