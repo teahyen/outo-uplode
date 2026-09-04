@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-04T01:51:42.885922",
+  "last_updated": "2026-09-04T10:06:53.958081",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "keywords": [
+        "AI",
+        "REST"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-04T10:06:53.302952"
+    },
     {
       "source": "techcrunch",
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
@@ -12,7 +25,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:38.958435"
+      "crawled_at": "2026-09-04T10:06:53.302987"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:38.958476"
+      "crawled_at": "2026-09-04T10:06:53.303048"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-04T01:51:38.958511"
+      "crawled_at": "2026-09-04T10:06:53.303089"
     },
     {
       "source": "techcrunch",
@@ -53,20 +66,59 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:38.958536"
+      "crawled_at": "2026-09-04T10:06:53.303113"
     },
     {
-      "source": "techcrunch",
-      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-      "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
+      "source": "theverge",
+      "title": "This NAS company wants to run your local smart home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "published": "2026-09-04T05:41:44-04:00",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-04T10:06:53.457004"
+    },
+    {
+      "source": "theverge",
+      "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+      "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point ",
+      "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+      "published": "2026-09-04T03:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-09-04T10:06:53.457085"
+    },
+    {
+      "source": "theverge",
+      "title": "Aqara goes all in on smart lighting",
+      "summary": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp [&#",
+      "link": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+      "published": "2026-09-04T03:00:00-04:00",
       "keywords": [
         "Go",
-        "Tesla"
+        "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-09-04T01:51:38.958991"
+      "category": "Hardware",
+      "crawled_at": "2026-09-04T10:06:53.457129"
+    },
+    {
+      "source": "theverge",
+      "title": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+      "summary": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed [&",
+      "link": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+      "published": "2026-09-04T03:00:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-04T10:06:53.457188"
     },
     {
       "source": "theverge",
@@ -79,131 +131,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:39.162095"
-    },
-    {
-      "source": "theverge",
-      "title": "The unusually muted Tesla Cybercab launch",
-      "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid ro",
-      "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-      "published": "2026-09-03T20:25:06-04:00",
-      "keywords": [
-        "AI",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:39.162140"
-    },
-    {
-      "source": "theverge",
-      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "summary": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the leag",
-      "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "published": "2026-09-03T19:37:37-04:00",
-      "keywords": [
-        "Go",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:39.162181"
-    },
-    {
-      "source": "theverge",
-      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power bank",
-      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "published": "2026-09-03T18:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:39.162225"
-    },
-    {
-      "source": "theverge",
-      "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-      "summary": "A Ravenloft series is currently in development from executive producer Alfonso Cuar&#243;n, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons &#38; Dragons' most iconic campaign settings, which got an update earlier this yea",
-      "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-      "published": "2026-09-03T16:48:05-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:39.162263"
+      "crawled_at": "2026-09-04T10:06:53.457231"
     },
     {
       "source": "hackernews",
-      "title": "GLP-1s are being linked to fewer serious infections, including TB",
-      "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c...\n\nComments URL: https://news.ycombinator.com/item?id=49558086\nPoints: 54\n# Comments: 34",
-      "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-      "published": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+      "summary": "Article URL: https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline\nComments URL: https://news.ycombinator.com/item?id=49562062\nPoints: 15\n# Comments: 4",
+      "link": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+      "published": "Fri, 04 Sep 2026 08:35:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.515779"
+      "crawled_at": "2026-09-04T10:06:53.687440"
     },
     {
       "source": "hackernews",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 99\n# Comments: 30",
-      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "published": "Thu, 03 Sep 2026 21:20:34 +0000",
-      "keywords": [
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.515823"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49556922\nPoints: 0\n# Comments: 0",
-      "link": "https://tasklet.ai/careers/customer-success-engineer",
-      "published": "Thu, 03 Sep 2026 21:01:10 +0000",
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "summary": "Article URL: https://carbonawarepricing.com/\nComments URL: https://news.ycombinator.com/item?id=49561975\nPoints: 28\n# Comments: 4",
+      "link": "https://carbonawarepricing.com/",
+      "published": "Fri, 04 Sep 2026 08:19:57 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.515854"
+      "crawled_at": "2026-09-04T10:06:53.687479"
     },
     {
       "source": "hackernews",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "summary": "Article URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 164\n# Comments: 97",
-      "link": "https://arcprize.org/blog/astra",
-      "published": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "summary": "Article URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\nComments URL: https://news.ycombinator.com/item?id=49561320\nPoints: 130\n# Comments: 40",
+      "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "published": "Fri, 04 Sep 2026 06:47:51 +0000",
       "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
+        "Hack",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.515880"
+      "category": "Security",
+      "crawled_at": "2026-09-04T10:06:53.687521"
     },
     {
       "source": "hackernews",
-      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-      "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsing, and it didn't help.Is this part of Google's war against ad-blocking and non-",
-      "link": "https://news.ycombinator.com/item?id=49555592",
-      "published": "Thu, 03 Sep 2026 19:38:46 +0000",
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/\nComments URL: https://news.ycombinator.com/item?id=49560260\nPoints: 76\n# Comments: 51",
+      "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "published": "Fri, 04 Sep 2026 03:40:26 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Linux",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.515923"
+      "category": "Tech News",
+      "crawled_at": "2026-09-04T10:06:53.687559"
+    },
+    {
+      "source": "hackernews",
+      "title": "From Hookswitch to Grave",
+      "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html\nComments URL: https://news.ycombinator.com/item?id=49559901\nPoints: 27\n# Comments: 2",
+      "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "published": "Fri, 04 Sep 2026 02:40:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-04T10:06:53.687593"
     },
     {
       "source": "arstechnica",
@@ -213,7 +203,7 @@
       "published": "Thu, 03 Sep 2026 22:13:50 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.663544"
+      "crawled_at": "2026-09-04T10:06:53.834232"
     },
     {
       "source": "arstechnica",
@@ -225,7 +215,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.663586"
+      "crawled_at": "2026-09-04T10:06:53.834270"
     },
     {
       "source": "arstechnica",
@@ -238,7 +228,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.663623"
+      "crawled_at": "2026-09-04T10:06:53.834304"
     },
     {
       "source": "arstechnica",
@@ -250,7 +240,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.663654"
+      "crawled_at": "2026-09-04T10:06:53.834333"
     },
     {
       "source": "arstechnica",
@@ -263,69 +253,65 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.663677"
+      "crawled_at": "2026-09-04T10:06:53.834357"
     },
     {
       "source": "wired",
-      "title": "Wikipedia Workers Unionize for the First Time",
-      "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
-      "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
-      "published": "Fri, 04 Sep 2026 00:40:06 +0000",
+      "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-04T10:06:53.957838"
+    },
+    {
+      "source": "wired",
+      "title": "What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn",
+      "summary": "The discovery adds to the planet’s history of strange atmospheric phenomena that scientists don’t full understand.",
+      "link": "https://www.wired.com/story/another-perfect-geometric-shape-detected-on-saturn/",
+      "published": "Fri, 04 Sep 2026 09:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.885707"
+      "crawled_at": "2026-09-04T10:06:53.957884"
     },
     {
       "source": "wired",
-      "title": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
-      "summary": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
-      "link": "https://www.wired.com/gallery/best-video-doorbells/",
-      "published": "Thu, 03 Sep 2026 22:48:55 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-09-04T01:51:42.885748"
-    },
-    {
-      "source": "wired",
-      "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-      "summary": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
-      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
-      "published": "Thu, 03 Sep 2026 22:30:00 +0000",
+      "title": "Silicon Valley Is Having a ‘Hot Girl Renaissance’",
+      "summary": "A San Francisco “Hot List” is trying to buck stereotypes about dating in tech circles amid wider debates about the value of being perceived as attractive.",
+      "link": "https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/",
+      "published": "Fri, 04 Sep 2026 09:00:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.885774"
+      "crawled_at": "2026-09-04T10:06:53.957915"
     },
     {
       "source": "wired",
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "published": "Thu, 03 Sep 2026 21:56:21 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.885796"
+      "title": "Mattress Firm Coupons: Save up to $700",
+      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "link": "https://www.wired.com/story/mattress-firm-coupon/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-09-04T10:06:53.957942"
     },
     {
       "source": "wired",
-      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "published": "Thu, 03 Sep 2026 21:48:24 +0000",
+      "title": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
       "keywords": [
         "AI",
-        "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-04T01:51:42.885837"
+      "crawled_at": "2026-09-04T10:06:53.957967"
     }
   ]
 }
