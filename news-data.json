@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T09:36:24.861566",
+  "last_updated": "2026-09-05T14:09:39.966571",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.093342"
+      "crawled_at": "2026-09-05T14:09:39.152737"
     },
     {
       "source": "techcrunch",
@@ -29,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.093395"
+      "crawled_at": "2026-09-05T14:09:39.152784"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.093423"
+      "crawled_at": "2026-09-05T14:09:39.152812"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T09:36:24.093469"
+      "crawled_at": "2026-09-05T14:09:39.152855"
     },
     {
       "source": "techcrunch",
@@ -73,7 +73,61 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.093520"
+      "crawled_at": "2026-09-05T14:09:39.152903"
+    },
+    {
+      "source": "theverge",
+      "title": "Content creators drop the ball",
+      "summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeatedly asked them to quiet down. Elsewhere in the UST",
+      "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+      "published": "2026-09-05T10:00:16-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T14:09:39.300339"
+    },
+    {
+      "source": "theverge",
+      "title": "The weird and wonderful headphones of CanJam 2026",
+      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character.",
+      "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+      "published": "2026-09-05T09:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T14:09:39.300384"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "published": "2026-09-05T07:15:55-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T14:09:39.300428"
+    },
+    {
+      "source": "theverge",
+      "title": "Robotaxis enter their villain era",
+      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars",
+      "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+      "published": "2026-09-05T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T14:09:39.300459"
     },
     {
       "source": "theverge",
@@ -86,128 +140,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T09:36:24.169562"
-    },
-    {
-      "source": "theverge",
-      "title": "The White House is making arcade games racist",
-      "summary": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to \"Build the Wall,\"",
-      "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-      "published": "2026-09-04T15:42:54-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-05T09:36:24.169620"
-    },
-    {
-      "source": "theverge",
-      "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-      "summary": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, aft",
-      "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-      "published": "2026-09-04T14:00:45-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.169659"
-    },
-    {
-      "source": "theverge",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "published": "2026-09-04T13:51:35-04:00",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.169694"
-    },
-    {
-      "source": "theverge",
-      "title": "AGI is whatever you want it to be",
-      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition ",
-      "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "published": "2026-09-04T13:16:49-04:00",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.169725"
+      "crawled_at": "2026-09-05T14:09:39.300513"
     },
     {
       "source": "hackernews",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 61\n# Comments: 37",
-      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "published": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "title": "Ig Nobel Prize Winners",
+      "summary": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\nComments URL: https://news.ycombinator.com/item?id=49576611\nPoints: 3\n# Comments: 0",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+      "published": "Sat, 05 Sep 2026 14:02:44 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.463407"
-    },
-    {
-      "source": "hackernews",
-      "title": "Git hosting that never leaves Europe",
-      "summary": "Article URL: https://pushin.eu\nComments URL: https://news.ycombinator.com/item?id=49573680\nPoints: 69\n# Comments: 52",
-      "link": "https://pushin.eu",
-      "published": "Sat, 05 Sep 2026 06:31:49 +0000",
-      "keywords": [
-        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T09:36:24.463447"
+      "crawled_at": "2026-09-05T14:09:39.558997"
     },
     {
       "source": "hackernews",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\nComments URL: https://news.ycombinator.com/item?id=49572875\nPoints: 40\n# Comments: 22",
-      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "published": "Sat, 05 Sep 2026 03:38:56 +0000",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 15\n# Comments: 6",
+      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "published": "Sat, 05 Sep 2026 13:36:38 +0000",
       "keywords": [
-        "AI",
-        "GPT",
-        "AR"
+        "AR",
+        "Gaming"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.463477"
+      "category": "Hardware",
+      "crawled_at": "2026-09-05T14:09:39.559069"
     },
     {
       "source": "hackernews",
-      "title": "Nitter has more working instances than before the takedowns",
-      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 208\n# Comments: 71",
-      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "published": "Sat, 05 Sep 2026 00:04:16 +0000",
+      "title": "Pentagon rescinds new testosterone screening policy without explanation",
+      "summary": "Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/\nComments URL: https://news.ycombinator.com/item?id=49576196\nPoints: 47\n# Comments: 26",
+      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "published": "Sat, 05 Sep 2026 13:11:14 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-09-05T09:36:24.463507"
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T14:09:39.559118"
     },
     {
       "source": "hackernews",
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 117\n# Comments: 41",
-      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "published": "Sat, 05 Sep 2026 00:04:14 +0000",
+      "title": "Terpstra Keyboard",
+      "summary": "Article URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 17\n# Comments: 6",
+      "link": "http://terpstrakeyboard.com/",
+      "published": "Sat, 05 Sep 2026 10:33:01 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.463549"
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T14:09:39.559148"
+    },
+    {
+      "source": "hackernews",
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 149\n# Comments: 91",
+      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "published": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "keywords": [
+        "Go",
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T14:09:39.559186"
     },
     {
       "source": "arstechnica",
@@ -219,7 +216,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T09:36:24.656965"
+      "crawled_at": "2026-09-05T14:09:39.763724"
     },
     {
       "source": "arstechnica",
@@ -232,7 +229,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.656997"
+      "crawled_at": "2026-09-05T14:09:39.763751"
     },
     {
       "source": "arstechnica",
@@ -242,7 +239,7 @@
       "published": "Fri, 04 Sep 2026 20:22:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T09:36:24.657035"
+      "crawled_at": "2026-09-05T14:09:39.763789"
     },
     {
       "source": "arstechnica",
@@ -254,7 +251,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-05T09:36:24.657064"
+      "crawled_at": "2026-09-05T14:09:39.763817"
     },
     {
       "source": "arstechnica",
@@ -267,72 +264,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.657088"
+      "crawled_at": "2026-09-05T14:09:39.763841"
     },
     {
       "source": "wired",
-      "title": "Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’",
-      "summary": "The studio released an official catch-up list ahead of December’s release. We have easy links to watch every one of the movies so you can get up to speed.",
-      "link": "https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/",
-      "published": "Sat, 05 Sep 2026 09:00:00 +0000",
+      "title": "4 Best Alexa Speakers I’ve Tested (2026)",
+      "summary": "I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.",
+      "link": "https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/",
+      "published": "Sat, 05 Sep 2026 11:01:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T09:36:24.861302"
+      "crawled_at": "2026-09-05T14:09:39.966366"
     },
     {
       "source": "wired",
-      "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
-      "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
-      "link": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
-      "published": "Fri, 04 Sep 2026 18:54:28 +0000",
+      "title": "There May Not Be an iPhone 18 This Year",
+      "summary": "Apple is expected to announce several products at its September event next week—including a folding phone—but the iPhone 18 might not be among them. It would be a first for the company.",
+      "link": "https://www.wired.com/story/there-may-not-be-an-iphone-18-this-year/",
+      "published": "Sat, 05 Sep 2026 10:30:00 +0000",
       "keywords": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-05T14:09:39.966410"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI Agents Hacked Another Website",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "published": "Sat, 05 Sep 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
         "Go",
+        "Hack",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T09:36:24.861349"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T14:09:39.966442"
     },
     {
       "source": "wired",
-      "title": "Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability",
-      "summary": "In what appears to be a follow-up to the mighty “CasiOak,” the rugged Japanese watch brand is expected to release an all-new luxury homage.",
-      "link": "https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/",
-      "published": "Fri, 04 Sep 2026 18:41:47 +0000",
+      "title": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears",
+      "summary": "The research could do more than help unlock the mystery of caterpillar hearing. It could also help make microphones better.",
+      "link": "https://www.wired.com/story/how-do-caterpillars-hear-without-ears/",
+      "published": "Sat, 05 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T14:09:39.966475"
+    },
+    {
+      "source": "wired",
+      "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
+      "summary": "The main action took place at Geneva Watch Days, but others dialed in remotely to make sure it wasn't just a Swiss party.",
+      "link": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
+      "published": "Sat, 05 Sep 2026 09:45:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.861385"
-    },
-    {
-      "source": "wired",
-      "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
-      "summary": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
-      "link": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
-      "published": "Fri, 04 Sep 2026 15:17:12 +0000",
-      "keywords": [
-        "Go",
-        "Tesla",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-09-05T09:36:24.861421"
-    },
-    {
-      "source": "wired",
-      "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
-      "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
-      "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T09:36:24.861445"
+      "crawled_at": "2026-09-05T14:09:39.966499"
     }
   ]
 }
