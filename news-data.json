@@ -1,7 +1,60 @@
 {
-  "last_updated": "2026-09-05T14:09:39.966571",
+  "last_updated": "2026-09-05T19:40:17.050921",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T19:40:14.206937"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "published": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-05T19:40:14.206976"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "published": "Sat, 05 Sep 2026 17:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-05T19:40:14.207014"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-05T19:40:14.207050"
+    },
     {
       "source": "techcrunch",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -14,66 +67,32 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.152737"
+      "crawled_at": "2026-09-05T19:40:14.207075"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "source": "theverge",
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percen",
+      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "published": "2026-09-05T12:49:33-04:00",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "API",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.152784"
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T19:40:14.324759"
     },
     {
-      "source": "techcrunch",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "IPO"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.152812"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-      "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "published": "Fri, 04 Sep 2026 17:52:05 +0000",
+      "source": "theverge",
+      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast ",
+      "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+      "published": "2026-09-05T11:00:00-04:00",
       "keywords": [
         "Go",
-        "Startup",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-05T14:09:39.152855"
-    },
-    {
-      "source": "techcrunch",
-      "title": "What will Apple’s John Ternus era look like?",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
-      "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "published": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.152903"
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T19:40:14.324829"
     },
     {
       "source": "theverge",
@@ -86,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.300339"
+      "crawled_at": "2026-09-05T19:40:14.324865"
     },
     {
       "source": "theverge",
@@ -100,7 +119,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.300384"
+      "crawled_at": "2026-09-05T19:40:14.324897"
     },
     {
       "source": "theverge",
@@ -114,97 +133,82 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.300428"
+      "crawled_at": "2026-09-05T19:40:14.324938"
     },
     {
-      "source": "theverge",
-      "title": "Robotaxis enter their villain era",
-      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars",
-      "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-      "published": "2026-09-05T07:00:00-04:00",
+      "source": "hackernews",
+      "title": "The moral panic over data centres is foolish",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish\nComments URL: https://news.ycombinator.com/item?id=49579714\nPoints: 29\n# Comments: 26",
+      "link": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
+      "published": "Sat, 05 Sep 2026 19:15:50 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.300459"
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T19:40:16.779799"
     },
     {
-      "source": "theverge",
-      "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the prom",
-      "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-      "published": "2026-09-04T17:23:50-04:00",
+      "source": "hackernews",
+      "title": "The Luxuries in Life",
+      "summary": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 104\n# Comments: 36",
+      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+      "published": "Sat, 05 Sep 2026 17:46:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T19:40:16.779840"
+    },
+    {
+      "source": "hackernews",
+      "title": "Learn Programming with OCaml",
+      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/\nComments URL: https://news.ycombinator.com/item?id=49578280\nPoints: 48\n# Comments: 12",
+      "link": "https://usr.lmf.cnrs.fr/lpo/",
+      "published": "Sat, 05 Sep 2026 16:45:02 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-09-05T19:40:16.779868"
+    },
+    {
+      "source": "hackernews",
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods\nComments URL: https://news.ycombinator.com/item?id=49577985\nPoints: 118\n# Comments: 75",
+      "link": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "published": "Sat, 05 Sep 2026 16:14:34 +0000",
+      "keywords": [
+        "VC",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-09-05T19:40:16.779907"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "summary": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\nComments URL: https://news.ycombinator.com/item?id=49577975\nPoints: 176\n# Comments: 66",
+      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "published": "Sat, 05 Sep 2026 16:13:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-05T19:40:16.779949"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "published": "Sat, 05 Sep 2026 15:17:36 +0000",
       "keywords": [
         "Go",
+        "Tesla",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.300513"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ig Nobel Prize Winners",
-      "summary": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\nComments URL: https://news.ycombinator.com/item?id=49576611\nPoints: 3\n# Comments: 0",
-      "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-      "published": "Sat, 05 Sep 2026 14:02:44 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.558997"
-    },
-    {
-      "source": "hackernews",
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 15\n# Comments: 6",
-      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "published": "Sat, 05 Sep 2026 13:36:38 +0000",
-      "keywords": [
-        "AR",
-        "Gaming"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-05T14:09:39.559069"
-    },
-    {
-      "source": "hackernews",
-      "title": "Pentagon rescinds new testosterone screening policy without explanation",
-      "summary": "Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/\nComments URL: https://news.ycombinator.com/item?id=49576196\nPoints: 47\n# Comments: 26",
-      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-      "published": "Sat, 05 Sep 2026 13:11:14 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.559118"
-    },
-    {
-      "source": "hackernews",
-      "title": "Terpstra Keyboard",
-      "summary": "Article URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 17\n# Comments: 6",
-      "link": "http://terpstrakeyboard.com/",
-      "published": "Sat, 05 Sep 2026 10:33:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.559148"
-    },
-    {
-      "source": "hackernews",
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 149\n# Comments: 91",
-      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "published": "Sat, 05 Sep 2026 10:14:28 +0000",
-      "keywords": [
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.559186"
+      "category": "Security",
+      "crawled_at": "2026-09-05T19:40:16.921233"
     },
     {
       "source": "arstechnica",
@@ -216,7 +220,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T14:09:39.763724"
+      "crawled_at": "2026-09-05T19:40:16.921269"
     },
     {
       "source": "arstechnica",
@@ -229,7 +233,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.763751"
+      "crawled_at": "2026-09-05T19:40:16.921294"
     },
     {
       "source": "arstechnica",
@@ -239,7 +243,7 @@
       "published": "Fri, 04 Sep 2026 20:22:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.763789"
+      "crawled_at": "2026-09-05T19:40:16.921329"
     },
     {
       "source": "arstechnica",
@@ -251,20 +255,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-05T14:09:39.763817"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "published": "Fri, 04 Sep 2026 19:01:02 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.763841"
+      "crawled_at": "2026-09-05T19:40:16.921357"
     },
     {
       "source": "wired",
@@ -276,7 +267,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.966366"
+      "crawled_at": "2026-09-05T19:40:17.050703"
     },
     {
       "source": "wired",
@@ -290,7 +281,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T14:09:39.966410"
+      "crawled_at": "2026-09-05T19:40:17.050749"
     },
     {
       "source": "wired",
@@ -306,7 +297,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.966442"
+      "crawled_at": "2026-09-05T19:40:17.050785"
     },
     {
       "source": "wired",
@@ -318,7 +309,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T14:09:39.966475"
+      "crawled_at": "2026-09-05T19:40:17.050821"
     },
     {
       "source": "wired",
@@ -331,7 +322,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T14:09:39.966499"
+      "crawled_at": "2026-09-05T19:40:17.050845"
     }
   ]
 }
