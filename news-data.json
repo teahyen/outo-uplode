@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-05T19:40:17.050921",
+  "last_updated": "2026-09-06T01:47:06.730373",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-06T01:47:03.934038"
+    },
     {
       "source": "techcrunch",
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -15,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.206937"
+      "crawled_at": "2026-09-06T01:47:03.934080"
     },
     {
       "source": "techcrunch",
@@ -28,7 +43,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.206976"
+      "crawled_at": "2026-09-06T01:47:03.934112"
     },
     {
       "source": "techcrunch",
@@ -40,7 +55,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T19:40:14.207014"
+      "crawled_at": "2026-09-06T01:47:03.934149"
     },
     {
       "source": "techcrunch",
@@ -53,21 +68,34 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T19:40:14.207050"
+      "crawled_at": "2026-09-06T01:47:03.934185"
     },
     {
-      "source": "techcrunch",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "source": "theverge",
+      "title": "Explore the globe in field recordings",
+      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a g",
+      "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+      "published": "2026-09-05T17:31:34-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-06T01:47:04.005867"
+    },
+    {
+      "source": "theverge",
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;",
+      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "published": "2026-09-05T16:53:58-04:00",
       "keywords": [
         "AI",
-        "Startup",
+        "iPhone",
+        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.207075"
+      "crawled_at": "2026-09-06T01:47:04.005908"
     },
     {
       "source": "theverge",
@@ -79,7 +107,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:14.324759"
+      "crawled_at": "2026-09-06T01:47:04.005973"
     },
     {
       "source": "theverge",
@@ -92,7 +120,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:14.324829"
+      "crawled_at": "2026-09-06T01:47:04.006036"
     },
     {
       "source": "theverge",
@@ -105,96 +133,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.324865"
+      "crawled_at": "2026-09-06T01:47:04.006068"
     },
     {
-      "source": "theverge",
-      "title": "The weird and wonderful headphones of CanJam 2026",
-      "summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character.",
-      "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-      "published": "2026-09-05T09:00:00-04:00",
+      "source": "hackernews",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 87\n# Comments: 34",
+      "link": "https://cloudinabottle.org/blog/launch-post",
+      "published": "Sun, 06 Sep 2026 00:03:29 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-09-06T01:47:06.420820"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chrome again exempts Google from user site data settings",
+      "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html\nComments URL: https://news.ycombinator.com/item?id=49581870\nPoints: 24\n# Comments: 0",
+      "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "published": "Sat, 05 Sep 2026 23:39:47 +0000",
       "keywords": [
         "AI",
         "Go",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.324897"
+      "crawled_at": "2026-09-06T01:47:06.420857"
     },
     {
-      "source": "theverge",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our age",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "published": "2026-09-05T07:15:55-04:00",
+      "source": "hackernews",
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 31\n# Comments: 13",
+      "link": "https://github.com/okf-memory/okf-agent-memory",
+      "published": "Sat, 05 Sep 2026 22:15:52 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:14.324938"
+      "crawled_at": "2026-09-06T01:47:06.420895"
     },
     {
       "source": "hackernews",
-      "title": "The moral panic over data centres is foolish",
-      "summary": "Article URL: https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish\nComments URL: https://news.ycombinator.com/item?id=49579714\nPoints: 29\n# Comments: 26",
-      "link": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
-      "published": "Sat, 05 Sep 2026 19:15:50 +0000",
+      "title": "The revolt of the reader",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 99\n# Comments: 27",
+      "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "published": "Sat, 05 Sep 2026 21:37:49 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:16.779799"
+      "crawled_at": "2026-09-06T01:47:06.420951"
     },
     {
       "source": "hackernews",
-      "title": "The Luxuries in Life",
-      "summary": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 104\n# Comments: 36",
-      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "published": "Sat, 05 Sep 2026 17:46:16 +0000",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket\nComments URL: https://news.ycombinator.com/item?id=49580369\nPoints: 366\n# Comments: 187",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "published": "Sat, 05 Sep 2026 20:31:38 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:16.779840"
-    },
-    {
-      "source": "hackernews",
-      "title": "Learn Programming with OCaml",
-      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/\nComments URL: https://news.ycombinator.com/item?id=49578280\nPoints: 48\n# Comments: 12",
-      "link": "https://usr.lmf.cnrs.fr/lpo/",
-      "published": "Sat, 05 Sep 2026 16:45:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-09-05T19:40:16.779868"
-    },
-    {
-      "source": "hackernews",
-      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-      "summary": "Article URL: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods\nComments URL: https://news.ycombinator.com/item?id=49577985\nPoints: 118\n# Comments: 75",
-      "link": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
-      "published": "Sat, 05 Sep 2026 16:14:34 +0000",
-      "keywords": [
-        "VC",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-05T19:40:16.779907"
-    },
-    {
-      "source": "hackernews",
-      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-      "summary": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\nComments URL: https://news.ycombinator.com/item?id=49577975\nPoints: 176\n# Comments: 66",
-      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-      "published": "Sat, 05 Sep 2026 16:13:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:16.779949"
+      "crawled_at": "2026-09-06T01:47:06.420997"
     },
     {
       "source": "arstechnica",
@@ -208,7 +214,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-05T19:40:16.921233"
+      "crawled_at": "2026-09-06T01:47:06.593674"
     },
     {
       "source": "arstechnica",
@@ -220,7 +226,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T19:40:16.921269"
+      "crawled_at": "2026-09-06T01:47:06.593711"
     },
     {
       "source": "arstechnica",
@@ -233,7 +239,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:16.921294"
+      "crawled_at": "2026-09-06T01:47:06.593736"
     },
     {
       "source": "arstechnica",
@@ -243,7 +249,7 @@
       "published": "Fri, 04 Sep 2026 20:22:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:16.921329"
+      "crawled_at": "2026-09-06T01:47:06.593770"
     },
     {
       "source": "arstechnica",
@@ -255,7 +261,7 @@
         "AWS"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-05T19:40:16.921357"
+      "crawled_at": "2026-09-06T01:47:06.593799"
     },
     {
       "source": "wired",
@@ -267,7 +273,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:17.050703"
+      "crawled_at": "2026-09-06T01:47:06.730150"
     },
     {
       "source": "wired",
@@ -281,7 +287,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-05T19:40:17.050749"
+      "crawled_at": "2026-09-06T01:47:06.730194"
     },
     {
       "source": "wired",
@@ -297,7 +303,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:17.050785"
+      "crawled_at": "2026-09-06T01:47:06.730231"
     },
     {
       "source": "wired",
@@ -309,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-05T19:40:17.050821"
+      "crawled_at": "2026-09-06T01:47:06.730266"
     },
     {
       "source": "wired",
@@ -322,7 +328,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-05T19:40:17.050845"
+      "crawled_at": "2026-09-06T01:47:06.730289"
     }
   ]
 }
