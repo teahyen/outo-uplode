@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-09-06T19:42:56.838061",
+  "last_updated": "2026-09-07T01:44:07.356665",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "published": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-07T01:44:06.670612"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-07T01:44:06.670650"
+    },
     {
       "source": "techcrunch",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
@@ -12,7 +39,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:53.863153"
+      "crawled_at": "2026-09-07T01:44:06.670681"
     },
     {
       "source": "techcrunch",
@@ -25,7 +52,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:53.863195"
+      "crawled_at": "2026-09-07T01:44:06.670712"
     },
     {
       "source": "techcrunch",
@@ -40,35 +67,38 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:53.863223"
+      "crawled_at": "2026-09-07T01:44:06.670737"
     },
     {
-      "source": "techcrunch",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "source": "theverge",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user qu",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "published": "2026-09-06T19:36:04-04:00",
       "keywords": [
         "AI",
-        "Go",
-        "Google",
+        "OpenAI",
+        "AWS",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:53.863254"
+      "crawled_at": "2026-09-07T01:44:06.767302"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "published": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "source": "theverge",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
+      "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "published": "2026-09-06T16:56:38-04:00",
       "keywords": [
         "AI",
-        "OpenAI"
+        "Go",
+        "Amazon",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:53.863284"
+      "crawled_at": "2026-09-07T01:44:06.767353"
     },
     {
       "source": "theverge",
@@ -80,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:54.035669"
+      "crawled_at": "2026-09-07T01:44:06.767404"
     },
     {
       "source": "theverge",
@@ -93,7 +123,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:54.035720"
+      "crawled_at": "2026-09-07T01:44:06.767446"
     },
     {
       "source": "theverge",
@@ -106,100 +136,71 @@
         "Android"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:54.035756"
-    },
-    {
-      "source": "theverge",
-      "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-      "summary": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pok&#233;mon Champions originally launc",
-      "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-      "published": "2026-09-06T09:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:54.035812"
-    },
-    {
-      "source": "theverge",
-      "title": "DIY plug-in solar gains momentum in the US",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started With a deep b",
-      "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "published": "2026-09-06T08:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:54.035842"
+      "crawled_at": "2026-09-07T01:44:06.767482"
     },
     {
       "source": "hackernews",
-      "title": "Finder is so frustrating and has been since day one",
-      "summary": "Article URL: https://kepter.app/finder\nComments URL: https://news.ycombinator.com/item?id=49589722\nPoints: 32\n# Comments: 25",
-      "link": "https://kepter.app/finder",
-      "published": "Sun, 06 Sep 2026 19:06:09 +0000",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 76\n# Comments: 28",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "published": "Sun, 06 Sep 2026 23:14:08 +0000",
       "keywords": [
-        "Rust",
+        "Python",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-09-06T19:42:56.540624"
+      "crawled_at": "2026-09-07T01:44:07.059934"
     },
     {
       "source": "hackernews",
-      "title": "Following legal advice, the Nitter project will continue",
-      "summary": "Article URL: https://github.com/zedeus/nitter\nComments URL: https://news.ycombinator.com/item?id=49589003\nPoints: 202\n# Comments: 43",
-      "link": "https://github.com/zedeus/nitter",
-      "published": "Sun, 06 Sep 2026 17:51:23 +0000",
+      "title": "Is mathematics about to enter the conservatory?",
+      "summary": "Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/\nComments URL: https://news.ycombinator.com/item?id=49591793\nPoints: 19\n# Comments: 17",
+      "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "published": "Sun, 06 Sep 2026 23:02:11 +0000",
       "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-07T01:44:07.059980"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "summary": "https://xcancel.com/Liquid_BTC/status/2096696272447218108\n\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 61\n# Comments: 38",
+      "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "published": "Sun, 06 Sep 2026 22:43:25 +0000",
+      "keywords": [
+        "Hack"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-09-07T01:44:07.060013"
+    },
+    {
+      "source": "hackernews",
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/item?id=49591620\nPoints: 64\n# Comments: 21",
+      "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+      "published": "Sun, 06 Sep 2026 22:36:07 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-07T01:44:07.060059"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 67\n# Comments: 22",
+      "link": "https://github.com/marsbos/mador",
+      "published": "Sun, 06 Sep 2026 20:45:13 +0000",
+      "keywords": [
+        "React",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.540687"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nitter is unarchived and will continue",
-      "summary": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 122\n# Comments: 22",
-      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "published": "Sun, 06 Sep 2026 17:49:47 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.540725"
-    },
-    {
-      "source": "hackernews",
-      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0",
-      "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-      "published": "Sun, 06 Sep 2026 17:00:28 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.540771"
-    },
-    {
-      "source": "hackernews",
-      "title": "An Alien Mind",
-      "summary": "Article URL: https://openai.com/index/an-alien-mind/\nComments URL: https://news.ycombinator.com/item?id=49588080\nPoints: 163\n# Comments: 107",
-      "link": "https://openai.com/index/an-alien-mind/",
-      "published": "Sun, 06 Sep 2026 16:27:05 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:56.540796"
+      "crawled_at": "2026-09-07T01:44:07.060106"
     },
     {
       "source": "arstechnica",
@@ -211,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.700611"
+      "crawled_at": "2026-09-07T01:44:07.168775"
     },
     {
       "source": "arstechnica",
@@ -223,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.700676"
+      "crawled_at": "2026-09-07T01:44:07.168825"
     },
     {
       "source": "arstechnica",
@@ -237,7 +238,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-06T19:42:56.700712"
+      "crawled_at": "2026-09-07T01:44:07.168871"
     },
     {
       "source": "arstechnica",
@@ -249,7 +250,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-06T19:42:56.700743"
+      "crawled_at": "2026-09-07T01:44:07.168902"
     },
     {
       "source": "arstechnica",
@@ -262,7 +263,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:56.700765"
+      "crawled_at": "2026-09-07T01:44:07.168924"
     },
     {
       "source": "wired",
@@ -272,7 +273,7 @@
       "published": "Sun, 06 Sep 2026 11:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.837843"
+      "crawled_at": "2026-09-07T01:44:07.356368"
     },
     {
       "source": "wired",
@@ -284,7 +285,7 @@
         "Windows"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.837883"
+      "crawled_at": "2026-09-07T01:44:07.356412"
     },
     {
       "source": "wired",
@@ -294,7 +295,7 @@
       "published": "Sun, 06 Sep 2026 10:30:00 +0000",
       "keywords": [],
       "category": "Hardware",
-      "crawled_at": "2026-09-06T19:42:56.837915"
+      "crawled_at": "2026-09-07T01:44:07.356446"
     },
     {
       "source": "wired",
@@ -309,7 +310,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-06T19:42:56.837950"
+      "crawled_at": "2026-09-07T01:44:07.356485"
     },
     {
       "source": "wired",
@@ -321,7 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-06T19:42:56.837986"
+      "crawled_at": "2026-09-07T01:44:07.356524"
     }
   ]
 }
