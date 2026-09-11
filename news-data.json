@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T01:56:17.927677",
+  "last_updated": "2026-09-11T10:09:16.710582",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:16.951770"
+      "crawled_at": "2026-09-11T10:09:16.059946"
     },
     {
       "source": "techcrunch",
@@ -29,19 +29,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:16.951821"
+      "crawled_at": "2026-09-11T10:09:16.059978"
     },
     {
       "source": "techcrunch",
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "published": "Thu, 10 Sep 2026 21:35:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:16.951859"
+      "crawled_at": "2026-09-11T10:09:16.060013"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:16.951884"
+      "crawled_at": "2026-09-11T10:09:16.060035"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,23 @@
         "Anthropic"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:16.951913"
+      "crawled_at": "2026-09-11T10:09:16.060061"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple addresses iPhone Duo copycats",
+      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global suppli",
+      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "published": "2026-09-11T06:02:58-04:00",
+      "keywords": [
+        "AI",
+        "REST",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-11T10:09:16.127748"
     },
     {
       "source": "theverge",
@@ -82,7 +98,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.191517"
+      "crawled_at": "2026-09-11T10:09:16.127791"
     },
     {
       "source": "theverge",
@@ -95,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.191573"
+      "crawled_at": "2026-09-11T10:09:16.127831"
     },
     {
       "source": "theverge",
@@ -107,7 +123,7 @@
         "Amazon"
       ],
       "category": "Programming",
-      "crawled_at": "2026-09-11T01:56:17.191620"
+      "crawled_at": "2026-09-11T10:09:16.127870"
     },
     {
       "source": "theverge",
@@ -121,87 +137,76 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.191660"
+      "crawled_at": "2026-09-11T10:09:16.127931"
     },
     {
-      "source": "theverge",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "published": "2026-09-10T11:38:19-04:00",
+      "source": "hackernews",
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\nComments URL: https://news.ycombinator.com/item?id=49655286\nPoints: 38\n# Comments: 26",
+      "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "published": "Fri, 11 Sep 2026 08:42:04 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-11T10:09:16.470684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Neijuan",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Neijuan\nComments URL: https://news.ycombinator.com/item?id=49655176\nPoints: 26\n# Comments: 9",
+      "link": "https://en.wikipedia.org/wiki/Neijuan",
+      "published": "Fri, 11 Sep 2026 08:26:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-11T10:09:16.470719"
+    },
+    {
+      "source": "hackernews",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/\nComments URL: https://news.ycombinator.com/item?id=49654229\nPoints: 327\n# Comments: 242",
+      "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "published": "Fri, 11 Sep 2026 06:23:06 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.191695"
+      "crawled_at": "2026-09-11T10:09:16.470743"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph",
-      "summary": "Article URL: https://benzi.fly.dev/benchmark\nComments URL: https://news.ycombinator.com/item?id=49652389\nPoints: 4\n# Comments: 2",
-      "link": "https://benzi.fly.dev/benchmark",
-      "published": "Fri, 11 Sep 2026 01:22:44 +0000",
+      "title": "GPT‑Live‑1 in the API",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/\nComments URL: https://news.ycombinator.com/item?id=49653985\nPoints: 18\n# Comments: 9",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "published": "Fri, 11 Sep 2026 05:45:19 +0000",
       "keywords": [
-        "Claude",
+        "AI",
+        "GPT",
+        "OpenAI",
+        "API",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.575522"
+      "crawled_at": "2026-09-11T10:09:16.470772"
     },
     {
       "source": "hackernews",
-      "title": "Setting up OpenCode with Ollama and sbx on Mac",
-      "summary": "Article URL: https://tensorsandtokens.com/posts/opencode-ollama/\nComments URL: https://news.ycombinator.com/item?id=49652122\nPoints: 4\n# Comments: 1",
-      "link": "https://tensorsandtokens.com/posts/opencode-ollama/",
-      "published": "Fri, 11 Sep 2026 00:45:26 +0000",
+      "title": "The Gemini app is now available for Windows",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/\nComments URL: https://news.ycombinator.com/item?id=49653699\nPoints: 48\n# Comments: 36",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "published": "Fri, 11 Sep 2026 04:52:20 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-09-11T01:56:17.575561"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google will buy half the electricity of a nuclear power plant",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 71\n# Comments: 45",
-      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "published": "Fri, 11 Sep 2026 00:42:41 +0000",
-      "keywords": [
+        "AI",
         "Go",
         "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:17.575598"
-    },
-    {
-      "source": "hackernews",
-      "title": "YuE2 · Frontier Music with Symbolic Planning",
-      "summary": "Article URL: https://map-yue2.github.io/\nComments URL: https://news.ycombinator.com/item?id=49652028\nPoints: 30\n# Comments: 17",
-      "link": "https://map-yue2.github.io/",
-      "published": "Fri, 11 Sep 2026 00:33:26 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:17.575634"
-    },
-    {
-      "source": "hackernews",
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai\nComments URL: https://news.ycombinator.com/item?id=49651372\nPoints: 29\n# Comments: 21",
-      "link": "https://system76.com/workstations/thelio-mira-ai",
-      "published": "Thu, 10 Sep 2026 23:10:06 +0000",
-      "keywords": [
-        "AI",
-        "Linux",
+        "Windows",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.575660"
+      "crawled_at": "2026-09-11T10:09:16.470796"
     },
     {
       "source": "arstechnica",
@@ -213,7 +218,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:17.735114"
+      "crawled_at": "2026-09-11T10:09:16.587287"
     },
     {
       "source": "arstechnica",
@@ -226,7 +231,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.735146"
+      "crawled_at": "2026-09-11T10:09:16.587313"
     },
     {
       "source": "arstechnica",
@@ -239,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:17.735179"
+      "crawled_at": "2026-09-11T10:09:16.587343"
     },
     {
       "source": "arstechnica",
@@ -254,7 +259,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-11T01:56:17.735206"
+      "crawled_at": "2026-09-11T10:09:16.587367"
     },
     {
       "source": "arstechnica",
@@ -268,76 +273,65 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.735231"
+      "crawled_at": "2026-09-11T10:09:16.587387"
     },
     {
       "source": "wired",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "published": "Thu, 10 Sep 2026 23:28:42 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Rust"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.927435"
+      "title": "How 9/11 Made Everyone a Conspiracy Theorist",
+      "summary": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
+      "link": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
+      "published": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-11T10:09:16.710391"
     },
     {
       "source": "wired",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "published": "Thu, 10 Sep 2026 20:30:37 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.927484"
-    },
-    {
-      "source": "wired",
-      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-      "summary": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
-      "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-      "published": "Thu, 10 Sep 2026 20:20:23 +0000",
+      "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+      "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+      "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+      "published": "Fri, 11 Sep 2026 09:15:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.927512"
+      "crawled_at": "2026-09-11T10:09:16.710433"
     },
     {
       "source": "wired",
-      "title": "Which iPhone 18 Model Should You Buy?",
-      "summary": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
-      "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
-      "published": "Thu, 10 Sep 2026 16:30:00 +0000",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "published": "Fri, 11 Sep 2026 09:00:00 +0000",
       "keywords": [
         "AI",
-        "Apple",
-        "iPhone"
+        "API",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-11T01:56:17.927545"
+      "crawled_at": "2026-09-11T10:09:16.710462"
     },
     {
       "source": "wired",
-      "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
-      "summary": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
-      "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "published": "Thu, 10 Sep 2026 16:04:02 +0000",
+      "title": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money",
+      "summary": "Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
+      "link": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
+      "published": "Fri, 11 Sep 2026 09:00:00 +0000",
       "keywords": [
-        "Go",
-        "AR"
+        "REST"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-11T01:56:17.927588"
+      "category": "Hardware",
+      "crawled_at": "2026-09-11T10:09:16.710493"
+    },
+    {
+      "source": "wired",
+      "title": "Chewy Promo Codes: $20 Off September 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "published": "Fri, 11 Sep 2026 05:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-09-11T10:09:16.710515"
     }
   ]
 }
