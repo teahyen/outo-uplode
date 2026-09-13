@@ -1,7 +1,36 @@
 {
-  "last_updated": "2026-09-12T19:49:44.167559",
+  "last_updated": "2026-09-13T01:55:03.437888",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "published": "Sat, 12 Sep 2026 23:25:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-13T01:55:02.478422"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-13T01:55:02.478742"
+    },
     {
       "source": "techcrunch",
       "title": "Anthropic CEO outlines plan to slow AI development",
@@ -15,7 +44,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.445184"
+      "crawled_at": "2026-09-13T01:55:02.478780"
     },
     {
       "source": "techcrunch",
@@ -28,7 +57,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:43.445511"
+      "crawled_at": "2026-09-13T01:55:02.478819"
     },
     {
       "source": "techcrunch",
@@ -41,34 +70,53 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.445546"
+      "crawled_at": "2026-09-13T01:55:02.478846"
     },
     {
-      "source": "techcrunch",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "source": "theverge",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "published": "2026-09-12T17:41:36-04:00",
       "keywords": [
         "AI",
-        "Startup",
+        "OpenAI",
+        "API",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.445572"
+      "crawled_at": "2026-09-13T01:55:02.557468"
     },
     {
-      "source": "techcrunch",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "published": "Fri, 11 Sep 2026 21:19:05 +0000",
+      "source": "theverge",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "published": "2026-09-12T17:16:28-04:00",
       "keywords": [
         "AI",
+        "OpenAI",
+        "Go",
+        "Hack",
+        "IPO"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-13T01:55:02.557523"
+    },
+    {
+      "source": "theverge",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply ",
+      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "published": "2026-09-12T16:08:09-04:00",
+      "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.445604"
+      "crawled_at": "2026-09-13T01:55:02.557579"
     },
     {
       "source": "theverge",
@@ -81,7 +129,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:43.633677"
+      "crawled_at": "2026-09-13T01:55:02.557627"
     },
     {
       "source": "theverge",
@@ -96,111 +144,75 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.633734"
-    },
-    {
-      "source": "theverge",
-      "title": "LG responds to TV spying allegations",
-      "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed t",
-      "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-      "published": "2026-09-12T11:19:44-04:00",
-      "keywords": [
-        "AI",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.633773"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "published": "2026-09-12T10:41:27-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.633808"
-    },
-    {
-      "source": "theverge",
-      "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-      "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name [&#8230;]",
-      "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-      "published": "2026-09-12T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.633845"
+      "crawled_at": "2026-09-13T01:55:02.557667"
     },
     {
       "source": "hackernews",
-      "title": "An open letter to Dario: if you mean it, open the weights",
-      "summary": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\nComments URL: https://news.ycombinator.com/item?id=49676085\nPoints: 41\n# Comments: 1",
-      "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "published": "Sat, 12 Sep 2026 19:15:32 +0000",
+      "title": "Align AI and Mathematics–To Something Else",
+      "summary": "Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\nComments URL: https://news.ycombinator.com/item?id=49678783\nPoints: 5\n# Comments: 0",
+      "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "published": "Sun, 13 Sep 2026 00:47:48 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-13T01:55:03.215915"
+    },
+    {
+      "source": "hackernews",
+      "title": "Everyone should slow down AI development except for me",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 39\n# Comments: 3",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "published": "Sun, 13 Sep 2026 00:30:44 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-13T01:55:03.215953"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Godot 4 port of two 1996 Bethesda shooters",
+      "summary": "Article URL: https://github.com/nemo22/skynet-godot\nComments URL: https://news.ycombinator.com/item?id=49678606\nPoints: 5\n# Comments: 1",
+      "link": "https://github.com/nemo22/skynet-godot",
+      "published": "Sun, 13 Sep 2026 00:18:03 +0000",
       "keywords": [
         "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:43.858927"
+      "crawled_at": "2026-09-13T01:55:03.215990"
     },
     {
       "source": "hackernews",
-      "title": "Will There Be a 7G?",
-      "summary": "Article URL: https://arxiv.org/abs/2609.01877\nComments URL: https://news.ycombinator.com/item?id=49674498\nPoints: 42\n# Comments: 63",
-      "link": "https://arxiv.org/abs/2609.01877",
-      "published": "Sat, 12 Sep 2026 17:05:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:43.858979"
-    },
-    {
-      "source": "hackernews",
-      "title": "Make your first edit to OpenStreetMap",
-      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 124\n# Comments: 41",
-      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "title": "Recurrent Looped Transformer",
+      "summary": "Article URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/\nComments URL: https://news.ycombinator.com/item?id=49678548\nPoints: 5\n# Comments: 0",
+      "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "published": "Sun, 13 Sep 2026 00:05:22 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-12T19:49:43.859015"
+      "category": "Tech News",
+      "crawled_at": "2026-09-13T01:55:03.216025"
     },
     {
       "source": "hackernews",
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\nComments URL: https://news.ycombinator.com/item?id=49673580\nPoints: 53\n# Comments: 17",
-      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "published": "Sat, 12 Sep 2026 15:49:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-09-12T19:49:43.859048"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia is the central bank of AI",
-      "summary": "https://archive.ph/kt50V\n\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 222\n# Comments: 167",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "summary": "Article URL: https://agentsdock.net/\nComments URL: https://news.ycombinator.com/item?id=49678435\nPoints: 4\n# Comments: 2",
+      "link": "https://agentsdock.net/",
+      "published": "Sat, 12 Sep 2026 23:45:58 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:43.859072"
+      "crawled_at": "2026-09-13T01:55:03.216051"
     },
     {
       "source": "arstechnica",
@@ -210,7 +222,7 @@
       "published": "Sat, 12 Sep 2026 11:00:53 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:44.019601"
+      "crawled_at": "2026-09-13T01:55:03.319529"
     },
     {
       "source": "arstechnica",
@@ -220,7 +232,7 @@
       "published": "Fri, 11 Sep 2026 23:34:45 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-09-12T19:49:44.019641"
+      "crawled_at": "2026-09-13T01:55:03.319588"
     },
     {
       "source": "arstechnica",
@@ -233,7 +245,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:44.019664"
+      "crawled_at": "2026-09-13T01:55:03.319613"
     },
     {
       "source": "arstechnica",
@@ -245,7 +257,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:44.019687"
+      "crawled_at": "2026-09-13T01:55:03.319637"
     },
     {
       "source": "arstechnica",
@@ -257,7 +269,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:44.019714"
+      "crawled_at": "2026-09-13T01:55:03.319663"
     },
     {
       "source": "wired",
@@ -267,7 +279,7 @@
       "published": "Sat, 12 Sep 2026 11:08:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-12T19:49:44.167316"
+      "crawled_at": "2026-09-13T01:55:03.437621"
     },
     {
       "source": "wired",
@@ -279,7 +291,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-09-12T19:49:44.167367"
+      "crawled_at": "2026-09-13T01:55:03.437675"
     },
     {
       "source": "wired",
@@ -294,7 +306,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:44.167397"
+      "crawled_at": "2026-09-13T01:55:03.437706"
     },
     {
       "source": "wired",
@@ -310,7 +322,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:44.167430"
+      "crawled_at": "2026-09-13T01:55:03.437739"
     },
     {
       "source": "wired",
@@ -324,7 +336,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-12T19:49:44.167453"
+      "crawled_at": "2026-09-13T01:55:03.437762"
     }
   ]
 }
