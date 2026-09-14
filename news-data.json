@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T02:12:41.117802",
+  "last_updated": "2026-09-14T11:10:28.832042",
   "news_count": 25,
   "news": [
     {
@@ -16,7 +16,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.509649"
+      "crawled_at": "2026-09-14T11:10:28.136248"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.509697"
+      "crawled_at": "2026-09-14T11:10:28.136296"
     },
     {
       "source": "techcrunch",
@@ -44,7 +44,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.509730"
+      "crawled_at": "2026-09-14T11:10:28.136329"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.509760"
+      "crawled_at": "2026-09-14T11:10:28.136358"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.509794"
+      "crawled_at": "2026-09-14T11:10:28.136392"
+    },
+    {
+      "source": "theverge",
+      "title": "What happens after a town de-Flocks",
+      "summary": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediate",
+      "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+      "published": "2026-09-14T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T11:10:28.223866"
     },
     {
       "source": "theverge",
@@ -86,7 +100,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.595106"
+      "crawled_at": "2026-09-14T11:10:28.223911"
     },
     {
       "source": "theverge",
@@ -100,7 +114,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-09-14T02:12:40.595152"
+      "crawled_at": "2026-09-14T11:10:28.223950"
     },
     {
       "source": "theverge",
@@ -113,7 +127,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.595211"
+      "crawled_at": "2026-09-14T11:10:28.224006"
     },
     {
       "source": "theverge",
@@ -126,82 +140,71 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.595256"
-    },
-    {
-      "source": "theverge",
-      "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
-      "summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In retrospect, though, the disappointing demise of B",
-      "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
-      "published": "2026-09-13T09:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-14T02:12:40.595313"
+      "crawled_at": "2026-09-14T11:10:28.224050"
     },
     {
       "source": "hackernews",
-      "title": "The case against JPEG XL",
-      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 39\n# Comments: 31",
-      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "published": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "title": "A 386 PC for Your RP2350",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386\nComments URL: https://news.ycombinator.com/item?id=49693613\nPoints: 46\n# Comments: 14",
+      "link": "https://github.com/rh1tech/frank-386",
+      "published": "Mon, 14 Sep 2026 08:25:57 +0000",
       "keywords": [
-        "AI",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T11:10:28.627886"
+    },
+    {
+      "source": "hackernews",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/\nComments URL: https://news.ycombinator.com/item?id=49693610\nPoints: 61\n# Comments: 18",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "published": "Mon, 14 Sep 2026 08:25:47 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T11:10:28.627937"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch\nComments URL: https://news.ycombinator.com/item?id=49693384\nPoints: 25\n# Comments: 5",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "published": "Mon, 14 Sep 2026 07:55:19 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.809869"
+      "crawled_at": "2026-09-14T11:10:28.627971"
     },
     {
       "source": "hackernews",
-      "title": "Open-Source AI and Open Models Reading List",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list\nComments URL: https://news.ycombinator.com/item?id=49690260\nPoints: 22\n# Comments: 1",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.809905"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Coming War on General Computation (2011)",
-      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation\nComments URL: https://news.ycombinator.com/item?id=49690051\nPoints: 51\n# Comments: 10",
-      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "published": "Sun, 13 Sep 2026 23:54:55 +0000",
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "summary": "Article URL: https://screensize.net/reports/viewport-stats\nComments URL: https://news.ycombinator.com/item?id=49693226\nPoints: 20\n# Comments: 14",
+      "link": "https://screensize.net/reports/viewport-stats",
+      "published": "Mon, 14 Sep 2026 07:35:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.809943"
+      "crawled_at": "2026-09-14T11:10:28.628012"
     },
     {
       "source": "hackernews",
-      "title": "The contagion of fear",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\nComments URL: https://news.ycombinator.com/item?id=49689460\nPoints: 140\n# Comments: 98",
-      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "published": "Sun, 13 Sep 2026 22:38:18 +0000",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "summary": "https://archive.ph/8NmSg\n\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 153\n# Comments: 209",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "published": "Mon, 14 Sep 2026 02:50:40 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.809978"
-    },
-    {
-      "source": "hackernews",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\nComments URL: https://news.ycombinator.com/item?id=49689048\nPoints: 85\n# Comments: 41",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "published": "Sun, 13 Sep 2026 21:47:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.810017"
+      "crawled_at": "2026-09-14T11:10:28.628047"
     },
     {
       "source": "arstechnica",
@@ -213,7 +216,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.959669"
+      "crawled_at": "2026-09-14T11:10:28.731675"
     },
     {
       "source": "arstechnica",
@@ -226,7 +229,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.959707"
+      "crawled_at": "2026-09-14T11:10:28.731712"
     },
     {
       "source": "arstechnica",
@@ -236,7 +239,7 @@
       "published": "Sat, 12 Sep 2026 11:00:53 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T02:12:40.959740"
+      "crawled_at": "2026-09-14T11:10:28.731745"
     },
     {
       "source": "arstechnica",
@@ -246,7 +249,7 @@
       "published": "Fri, 11 Sep 2026 23:34:45 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-09-14T02:12:40.959771"
+      "crawled_at": "2026-09-14T11:10:28.731775"
     },
     {
       "source": "arstechnica",
@@ -259,71 +262,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:40.959792"
+      "crawled_at": "2026-09-14T11:10:28.731795"
     },
     {
       "source": "wired",
-      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-      "summary": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-      "published": "Sun, 13 Sep 2026 11:00:00 +0000",
+      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
+      "summary": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound.",
+      "link": "https://www.wired.com/story/best-soundbars/",
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T11:10:28.831823"
+    },
+    {
+      "source": "wired",
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T11:10:28.831865"
+    },
+    {
+      "source": "wired",
+      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+      "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-14T02:12:41.117591"
+      "crawled_at": "2026-09-14T11:10:28.831897"
     },
     {
       "source": "wired",
-      "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
-      "summary": "Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
-      "link": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
-      "published": "Sun, 13 Sep 2026 10:30:00 +0000",
+      "title": "Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?",
+      "summary": "Roborock's more affordable vacuum did well on corners and navigating my home, but thresholds and small objects remain a challenge. Still, it's a good vacuum for the price, especially when it's on sale.",
+      "link": "https://www.wired.com/review/roborock-qrevo-2-pro/",
+      "published": "Mon, 14 Sep 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T11:10:28.831925"
+    },
+    {
+      "source": "wired",
+      "title": "Best Noise-Canceling Earbuds (2026): Bose, Apple, Samsung, Beats, and More",
+      "summary": "I’ve tested dozens of wireless earbuds. These are the best for when you want to tune out the world, wherever you are.",
+      "link": "https://www.wired.com/story/best-noise-canceling-earbuds/",
+      "published": "Mon, 14 Sep 2026 10:00:00 +0000",
       "keywords": [
         "Apple",
-        "iOS",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-14T02:12:41.117630"
-    },
-    {
-      "source": "wired",
-      "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
-      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
-      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-      "published": "Sun, 13 Sep 2026 10:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-14T02:12:41.117668"
-    },
-    {
-      "source": "wired",
-      "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
-      "summary": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
-      "link": "https://www.wired.com/review/coway-airmega-halo/",
-      "published": "Sun, 13 Sep 2026 10:05:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:41.117696"
-    },
-    {
-      "source": "wired",
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "published": "Sun, 13 Sep 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T02:12:41.117724"
+      "crawled_at": "2026-09-14T11:10:28.831961"
     }
   ]
 }
