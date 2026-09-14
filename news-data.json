@@ -1,262 +1,286 @@
 {
-  "last_updated": "2026-09-14T17:11:50.547340",
+  "last_updated": "2026-09-14T21:08:59.316896",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "published": "Mon, 14 Sep 2026 17:10:30 +0000",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
       "keywords": [
         "AI",
+        "OpenAI",
         "Apple",
-        "iOS"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:49.845439"
+      "crawled_at": "2026-09-14T21:08:54.591853"
     },
     {
       "source": "techcrunch",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "summary": "macOS 27 Goldgen Gate gets a new Spotlight Search with Siri integrated",
-      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "published": "Mon, 14 Sep 2026 17:10:09 +0000",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "published": "Mon, 14 Sep 2026 20:07:37 +0000",
       "keywords": [
         "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T21:08:54.592161"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "published": "Mon, 14 Sep 2026 18:14:29 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T21:08:54.592220"
+    },
+    {
+      "source": "techcrunch",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "published": "Mon, 14 Sep 2026 18:08:43 +0000",
+      "keywords": [
+        "Security",
+        "Hack",
+        "Windows",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-09-14T21:08:54.592275"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "published": "Mon, 14 Sep 2026 17:41:20 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T21:08:54.592312"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump throws out power plant climate pollution rules",
+      "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power ",
+      "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+      "published": "2026-09-14T16:45:00-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T21:08:54.666376"
+    },
+    {
+      "source": "theverge",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launche",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "published": "2026-09-14T16:03:37-04:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T21:08:54.666439"
+    },
+    {
+      "source": "theverge",
+      "title": "Valve&#8217;s virtual reality plans hit actual reality",
+      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valv",
+      "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+      "published": "2026-09-14T15:48:06-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-09-14T21:08:54.666478"
+    },
+    {
+      "source": "theverge",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+      "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 2",
+      "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "published": "2026-09-14T15:30:58-04:00",
+      "keywords": [
+        "Go",
+        "Amazon",
+        "Git",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-14T21:08:54.666522"
+    },
+    {
+      "source": "theverge",
+      "title": "TIFF 2026: The latest movie reviews from Toronto",
+      "summary": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the",
+      "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
+      "published": "2026-09-14T13:30:00-04:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T21:08:54.666556"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Beginning for Mathematics",
+      "summary": "Article URL: https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49703276\nPoints: 18\n# Comments: 1",
+      "link": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
+      "published": "Mon, 14 Sep 2026 20:14:45 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T21:08:59.165007"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\nComments URL: https://news.ycombinator.com/item?id=49703003\nPoints: 55\n# Comments: 60",
+      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "published": "Mon, 14 Sep 2026 19:56:20 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:49.845469"
+      "crawled_at": "2026-09-14T21:08:59.165042"
     },
     {
-      "source": "techcrunch",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "published": "Mon, 14 Sep 2026 17:00:00 +0000",
+      "source": "hackernews",
+      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+      "summary": "Article URL: https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676\nComments URL: https://news.ycombinator.com/item?id=49702239\nPoints: 70\n# Comments: 38",
+      "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "published": "Mon, 14 Sep 2026 19:05:15 +0000",
       "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T21:08:59.165066"
+    },
+    {
+      "source": "hackernews",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 254\n# Comments: 259",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+      "keywords": [
+        "AI",
         "Apple",
         "iOS",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-14T17:11:49.845502"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "published": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "Microsoft"
-      ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:49.845537"
+      "crawled_at": "2026-09-14T21:08:59.165089"
     },
     {
-      "source": "techcrunch",
-      "title": "Waymo opens robotaxi service in Las Vegas",
-      "summary": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
-      "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "published": "Mon, 14 Sep 2026 16:04:16 +0000",
+      "source": "hackernews",
+      "title": "Steam Frame starts at $1059",
+      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 366\n# Comments: 233",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "published": "Mon, 14 Sep 2026 17:27:55 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:49.845559"
+      "category": "Hardware",
+      "crawled_at": "2026-09-14T21:08:59.165115"
     },
     {
-      "source": "theverge",
-      "title": "macOS 27 is available now",
-      "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with ma",
-      "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-      "published": "2026-09-14T13:10:13-04:00",
+      "source": "arstechnica",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "published": "Mon, 14 Sep 2026 19:45:13 +0000",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Rust"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-14T21:08:59.228928"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "published": "Mon, 14 Sep 2026 19:38:46 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-14T21:08:59.228969"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "published": "Mon, 14 Sep 2026 19:28:42 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:49.945115"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "summary": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri AI is available as a beta today for English-only ",
-      "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-      "published": "2026-09-14T13:08:49-04:00",
-      "keywords": [
-        "AI",
         "Apple",
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:49.945152"
-    },
-    {
-      "source": "theverge",
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as [&#8230;]",
-      "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-      "published": "2026-09-14T13:00:00-04:00",
-      "keywords": [
-        "VR",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-14T17:11:49.945189"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve’s Steam Frame costs $1,059",
-      "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx, [&#",
-      "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-      "published": "2026-09-14T13:00:00-04:00",
-      "keywords": [
-        "VR",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:49.945232"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
-      "summary": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes with a copy of [&#8230",
-      "link": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
-      "published": "2026-09-14T13:00:00-04:00",
-      "keywords": [
-        "Go",
-        "VR",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:49.945275"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
-      "summary": "Article URL: http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html\nComments URL: https://news.ycombinator.com/item?id=49699696\nPoints: 3\n# Comments: 0",
-      "link": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
-      "published": "Mon, 14 Sep 2026 16:34:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.181194"
-    },
-    {
-      "source": "hackernews",
-      "title": "Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter",
-      "summary": "Article URL: https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed\nComments URL: https://news.ycombinator.com/item?id=49699671\nPoints: 32\n# Comments: 32",
-      "link": "https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed",
-      "published": "Mon, 14 Sep 2026 16:33:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.181239"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why don't machine learning research agents overfit?",
-      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit\nComments URL: https://news.ycombinator.com/item?id=49699648\nPoints: 9\n# Comments: 1",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "published": "Mon, 14 Sep 2026 16:32:23 +0000",
-      "keywords": [
-        "Machine Learning",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.181265"
-    },
-    {
-      "source": "hackernews",
-      "title": "When LLM judges agree, should we believe them?",
-      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them\nComments URL: https://news.ycombinator.com/item?id=49699590\nPoints: 6\n# Comments: 0",
-      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "published": "Mon, 14 Sep 2026 16:29:30 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.181289"
-    },
-    {
-      "source": "hackernews",
-      "title": "I stress-tested Meta Muse until its agent control plane started timing out",
-      "summary": "Article URL: https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/\nComments URL: https://news.ycombinator.com/item?id=49699527\nPoints: 4\n# Comments: 1",
-      "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
-      "published": "Mon, 14 Sep 2026 16:26:07 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.181321"
+      "crawled_at": "2026-09-14T21:08:59.228990"
     },
     {
       "source": "arstechnica",
-      "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
-      "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
-      "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
-      "published": "Mon, 14 Sep 2026 14:32:35 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.418654"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-      "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-      "published": "Sun, 13 Sep 2026 21:56:52 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.418688"
-    },
-    {
-      "source": "arstechnica",
-      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
-      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
-      "published": "Sun, 13 Sep 2026 11:00:41 +0000",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "published": "Mon, 14 Sep 2026 19:06:13 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.418712"
+      "crawled_at": "2026-09-14T21:08:59.229007"
     },
     {
       "source": "arstechnica",
-      "title": "I spent $4,000 on a robot dog from China",
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "published": "Sat, 12 Sep 2026 11:00:53 +0000",
-      "keywords": [],
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "summary": "US won’t back down from fight to deport technology researchers.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "published": "Mon, 14 Sep 2026 18:24:09 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.418736"
+      "crawled_at": "2026-09-14T21:08:59.229034"
     },
     {
-      "source": "arstechnica",
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-      "published": "Fri, 11 Sep 2026 23:34:45 +0000",
-      "keywords": [],
+      "source": "wired",
+      "title": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+      "summary": "The latest iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.",
+      "link": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+      "published": "Mon, 14 Sep 2026 18:44:44 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "iOS",
+        "AR"
+      ],
       "category": "Mobile",
-      "crawled_at": "2026-09-14T17:11:50.418760"
+      "crawled_at": "2026-09-14T21:08:59.316610"
     },
     {
       "source": "wired",
@@ -269,7 +293,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.547105"
+      "crawled_at": "2026-09-14T21:08:59.316646"
     },
     {
       "source": "wired",
@@ -281,7 +305,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.547135"
+      "crawled_at": "2026-09-14T21:08:59.316666"
     },
     {
       "source": "wired",
@@ -293,7 +317,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T17:11:50.547168"
+      "crawled_at": "2026-09-14T21:08:59.316696"
     },
     {
       "source": "wired",
@@ -307,19 +331,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T17:11:50.547196"
-    },
-    {
-      "source": "wired",
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
-      "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-14T17:11:50.547223"
+      "crawled_at": "2026-09-14T21:08:59.316724"
     }
   ]
 }
