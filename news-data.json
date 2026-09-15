@@ -1,117 +1,27 @@
 {
-  "last_updated": "2026-09-15T10:37:57.406055",
+  "last_updated": "2026-09-15T15:51:49.946071",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:56.467002"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+      "summary": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+      "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+      "published": "Tue, 15 Sep 2026 15:49:18 +0000",
       "keywords": [
         "AI",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:56.467396"
+      "crawled_at": "2026-09-15T15:51:47.867961"
     },
     {
       "source": "techcrunch",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:56.467440"
-    },
-    {
-      "source": "techcrunch",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "published": "Mon, 14 Sep 2026 20:07:37 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:56.467476"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
-      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-      "published": "Mon, 14 Sep 2026 18:14:29 +0000",
-      "keywords": [
-        "Amazon"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:56.467511"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, ",
-      "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-      "published": "2026-09-15T04:54:48-04:00",
-      "keywords": [
-        "AWS",
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-09-15T10:37:56.542420"
-    },
-    {
-      "source": "theverge",
-      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-      "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker reveal",
-      "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-      "published": "2026-09-15T03:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:56.542493"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valv",
-      "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "published": "2026-09-14T20:13:47-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-15T10:37:56.542549"
-    },
-    {
-      "source": "theverge",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "published": "2026-09-14T18:59:41-04:00",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "published": "Tue, 15 Sep 2026 15:47:03 +0000",
       "keywords": [
         "AI",
         "OpenAI",
@@ -120,86 +30,207 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:56.542592"
+      "crawled_at": "2026-09-15T15:51:47.868003"
+    },
+    {
+      "source": "techcrunch",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "published": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:47.868031"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+      "summary": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+      "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+      "published": "Tue, 15 Sep 2026 15:21:10 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T15:51:47.868069"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "published": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:47.868094"
     },
     {
       "source": "theverge",
-      "title": "Apple Home’s new security camera features cost as much as $60 a month",
-      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
-      "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "published": "2026-09-14T18:28:52-04:00",
+      "title": "Now Light’s minimalist phone can easily call an Uber",
+      "summary": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip, they can use it to find pick up [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+      "published": "2026-09-15T11:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T15:51:47.966081"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "published": "2026-09-15T11:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:47.966130"
+    },
+    {
+      "source": "theverge",
+      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+      "summary": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 includes both in a design that looks like ",
+      "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+      "published": "2026-09-15T10:03:18-04:00",
+      "keywords": [
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T15:51:47.966188"
+    },
+    {
+      "source": "theverge",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis wit",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "published": "2026-09-15T09:36:45-04:00",
       "keywords": [
         "AI",
         "Security",
-        "Apple",
-        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:56.542632"
+      "crawled_at": "2026-09-15T15:51:47.966236"
+    },
+    {
+      "source": "theverge",
+      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
+      "summary": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a smartphone as an interface between the company's mobile app and",
+      "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
+      "published": "2026-09-15T09:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T15:51:47.966294"
     },
     {
       "source": "hackernews",
-      "title": "Let's make quality the norm again",
-      "summary": "Article URL: https://www.forbrukerradet.no/short-life/\nComments URL: https://news.ycombinator.com/item?id=49710109\nPoints: 18\n# Comments: 4",
-      "link": "https://www.forbrukerradet.no/short-life/",
-      "published": "Tue, 15 Sep 2026 10:00:16 +0000",
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "summary": "Article URL: https://www.formas.ai/cartesian\nComments URL: https://news.ycombinator.com/item?id=49713999\nPoints: 5\n# Comments: 0",
+      "link": "https://www.formas.ai/cartesian",
+      "published": "Tue, 15 Sep 2026 15:26:45 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:57.181022"
+      "crawled_at": "2026-09-15T15:51:49.643097"
     },
     {
       "source": "hackernews",
-      "title": "How much of F-Droid is LLM generated?",
-      "summary": "Article URL: https://tintotint.eu/whacky-corner/f-droid_slop/\nComments URL: https://news.ycombinator.com/item?id=49710015\nPoints: 9\n# Comments: 4",
-      "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-      "published": "Tue, 15 Sep 2026 09:47:48 +0000",
+      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+      "summary": "Article URL: https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/\nComments URL: https://news.ycombinator.com/item?id=49712746\nPoints: 86\n# Comments: 70",
+      "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+      "published": "Tue, 15 Sep 2026 14:07:01 +0000",
       "keywords": [
-        "Hack",
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:57.181059"
+      "crawled_at": "2026-09-15T15:51:49.643138"
     },
     {
       "source": "hackernews",
-      "title": "Alternatives to MinIO for single-node local S3",
-      "summary": "Article URL: https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/\nComments URL: https://news.ycombinator.com/item?id=49709381\nPoints: 15\n# Comments: 12",
-      "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-      "published": "Tue, 15 Sep 2026 08:21:27 +0000",
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "summary": "Article URL: https://github.com/greentfrapp/panel\nComments URL: https://news.ycombinator.com/item?id=49712621\nPoints: 21\n# Comments: 4",
+      "link": "https://github.com/greentfrapp/panel",
+      "published": "Tue, 15 Sep 2026 13:58:37 +0000",
       "keywords": [
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.181098"
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T15:51:49.643186"
     },
     {
       "source": "hackernews",
-      "title": "The k-server conjecture is true",
-      "summary": "Article URL: https://arxiv.org/abs/2609.15979\nComments URL: https://news.ycombinator.com/item?id=49709129\nPoints: 11\n# Comments: 5",
-      "link": "https://arxiv.org/abs/2609.15979",
-      "published": "Tue, 15 Sep 2026 07:45:31 +0000",
+      "title": "AI is breaking our proxies for expertise",
+      "summary": "Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/\nComments URL: https://news.ycombinator.com/item?id=49712416\nPoints: 46\n# Comments: 18",
+      "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "published": "Tue, 15 Sep 2026 13:41:55 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.181130"
-    },
-    {
-      "source": "hackernews",
-      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-      "summary": "Article URL: https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\nComments URL: https://news.ycombinator.com/item?id=49708774\nPoints: 0\n# Comments: 0",
-      "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-      "published": "Tue, 15 Sep 2026 07:00:30 +0000",
-      "keywords": [
+        "AI",
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.181168"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:49.643214"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "summary": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Ta",
+      "link": "https://withcapsule.app/",
+      "published": "Tue, 15 Sep 2026 13:31:40 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Go",
+        "API",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:49.643384"
+    },
+    {
+      "source": "arstechnica",
+      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
+      "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+      "link": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+      "published": "Tue, 15 Sep 2026 12:36:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T15:51:49.792785"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "published": "Tue, 15 Sep 2026 12:00:41 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T15:51:49.792821"
     },
     {
       "source": "arstechnica",
@@ -212,7 +243,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:57.314121"
+      "crawled_at": "2026-09-15T15:51:49.792844"
     },
     {
       "source": "arstechnica",
@@ -224,7 +255,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.314159"
+      "crawled_at": "2026-09-15T15:51:49.792875"
     },
     {
       "source": "arstechnica",
@@ -234,32 +265,45 @@
       "published": "Mon, 14 Sep 2026 22:06:24 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.314189"
+      "crawled_at": "2026-09-15T15:51:49.792904"
     },
     {
-      "source": "arstechnica",
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "published": "Mon, 14 Sep 2026 21:32:22 +0000",
+      "source": "wired",
+      "title": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "summary": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
+      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "published": "Tue, 15 Sep 2026 13:06:00 +0000",
       "keywords": [
+        "REST",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-15T10:37:57.314240"
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T15:51:49.945800"
     },
     {
-      "source": "arstechnica",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "source": "wired",
+      "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
+      "summary": "Following mass layoffs in 2022 and 2023, many tech workers turned against their employers. When liberal politicians also rallied against Silicon Valley, their backers turned to Donald Trump.",
+      "link": "https://www.wired.com/story/against-tech-oligarchy-book-excerpt-trump-billionaries/",
+      "published": "Tue, 15 Sep 2026 11:00:00 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:57.314266"
+      "crawled_at": "2026-09-15T15:51:49.945837"
+    },
+    {
+      "source": "wired",
+      "title": "‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
+      "summary": "As anxieties over surveillance tech grow, unsuspecting singles are sharing stories of being covertly filmed on dates by Meta smart glasses.",
+      "link": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
+      "published": "Tue, 15 Sep 2026 10:45:00 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T15:51:49.945882"
     },
     {
       "source": "wired",
@@ -271,7 +315,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.405773"
+      "crawled_at": "2026-09-15T15:51:49.945920"
     },
     {
       "source": "wired",
@@ -284,44 +328,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-15T10:37:57.405829"
-    },
-    {
-      "source": "wired",
-      "title": "Lawmakers Want States to Crack Down on Flock Cameras—or Pay the Price",
-      "summary": "A new bipartisan effort in Congress to rein in automated license plate readers takes a page from the national drinking age: Comply, or risk losing federal highway funding.",
-      "link": "https://www.wired.com/story/lawmakers-want-states-to-crack-down-on-flock-cameras-or-pay-the-price/",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "keywords": [
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-15T10:37:57.405874"
-    },
-    {
-      "source": "wired",
-      "title": "If the US Collapses Soon, Don’t Blame Emily St. John Mandel",
-      "summary": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit Party, imagines two possible American futures—totalitarian state and post-civil-war chaos.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-emily-st-john-mandel-exit-party/",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-15T10:37:57.405921"
-    },
-    {
-      "source": "wired",
-      "title": "A New Headset to Help With Depression Is Now Available in the US",
-      "summary": "The device made by Flow Neuroscience is approved by the FDA and could help people get off antidepressants—but it costs $2,200.",
-      "link": "https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/",
-      "published": "Tue, 15 Sep 2026 09:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-15T10:37:57.405951"
+      "crawled_at": "2026-09-15T15:51:49.945963"
     }
   ]
 }
