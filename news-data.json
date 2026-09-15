@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-09-14T21:08:59.316896",
+  "last_updated": "2026-09-15T02:18:55.533669",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T02:18:54.873708"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T02:18:54.873936"
+    },
     {
       "source": "techcrunch",
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
@@ -15,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:54.591853"
+      "crawled_at": "2026-09-15T02:18:54.873955"
     },
     {
       "source": "techcrunch",
@@ -28,7 +52,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:54.592161"
+      "crawled_at": "2026-09-15T02:18:54.873977"
     },
     {
       "source": "techcrunch",
@@ -40,35 +64,64 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:54.592220"
+      "crawled_at": "2026-09-15T02:18:54.874001"
     },
     {
-      "source": "techcrunch",
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
-      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "published": "Mon, 14 Sep 2026 18:08:43 +0000",
+      "source": "theverge",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valv",
+      "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+      "published": "2026-09-14T20:13:47-04:00",
       "keywords": [
-        "Security",
-        "Hack",
-        "Windows",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-09-14T21:08:54.592275"
+      "category": "Hardware",
+      "crawled_at": "2026-09-15T02:18:54.964176"
     },
     {
-      "source": "techcrunch",
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
-      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-      "published": "Mon, 14 Sep 2026 17:41:20 +0000",
+      "source": "theverge",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "published": "2026-09-14T18:59:41-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T02:18:54.964211"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple Home’s new security camera features cost as much as $60 a month",
+      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
+      "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "published": "2026-09-14T18:28:52-04:00",
+      "keywords": [
+        "AI",
+        "Security",
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T02:18:54.964239"
+    },
+    {
+      "source": "theverge",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "published": "2026-09-14T17:21:42-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:54.592312"
+      "crawled_at": "2026-09-15T02:18:54.964263"
     },
     {
       "source": "theverge",
@@ -81,74 +134,64 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:54.666376"
-    },
-    {
-      "source": "theverge",
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launche",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "published": "2026-09-14T16:03:37-04:00",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:54.666439"
-    },
-    {
-      "source": "theverge",
-      "title": "Valve&#8217;s virtual reality plans hit actual reality",
-      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valv",
-      "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-      "published": "2026-09-14T15:48:06-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-14T21:08:54.666478"
-    },
-    {
-      "source": "theverge",
-      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-      "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 2",
-      "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-      "published": "2026-09-14T15:30:58-04:00",
-      "keywords": [
-        "Go",
-        "Amazon",
-        "Git",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-14T21:08:54.666522"
-    },
-    {
-      "source": "theverge",
-      "title": "TIFF 2026: The latest movie reviews from Toronto",
-      "summary": "If you want an idea of what&#8217;s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; the 2025 edition, for instance, included the",
-      "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-      "published": "2026-09-14T13:30:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:54.666556"
+      "crawled_at": "2026-09-15T02:18:54.964287"
     },
     {
       "source": "hackernews",
-      "title": "A Beginning for Mathematics",
-      "summary": "Article URL: https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49703276\nPoints: 18\n# Comments: 1",
-      "link": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
-      "published": "Mon, 14 Sep 2026 20:14:45 +0000",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinator.com/item?id=49706223\nPoints: 20\n# Comments: 2",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-15T02:18:55.314576"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 37\n# Comments: 4",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T02:18:55.314608"
+    },
+    {
+      "source": "hackernews",
+      "title": "Charts built for Chat",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/\nComments URL: https://news.ycombinator.com/item?id=49704246\nPoints: 102\n# Comments: 34",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "published": "Mon, 14 Sep 2026 21:22:54 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:59.165007"
+      "crawled_at": "2026-09-15T02:18:55.314632"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "summary": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\nComments URL: https://news.ycombinator.com/item?id=49704008\nPoints: 176\n# Comments: 180",
+      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "published": "Mon, 14 Sep 2026 21:05:22 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T02:18:55.314665"
     },
     {
       "source": "hackernews",
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\nComments URL: https://news.ycombinator.com/item?id=49703003\nPoints: 55\n# Comments: 60",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\nComments URL: https://news.ycombinator.com/item?id=49703003\nPoints: 111\n# Comments: 111",
       "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
       "published": "Mon, 14 Sep 2026 19:56:20 +0000",
       "keywords": [
@@ -158,48 +201,42 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.165042"
+      "crawled_at": "2026-09-15T02:18:55.314686"
     },
     {
-      "source": "hackernews",
-      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
-      "summary": "Article URL: https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676\nComments URL: https://news.ycombinator.com/item?id=49702239\nPoints: 70\n# Comments: 38",
-      "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-      "published": "Mon, 14 Sep 2026 19:05:15 +0000",
+      "source": "arstechnica",
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "published": "Mon, 14 Sep 2026 22:06:24 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-15T02:18:55.386315"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+      "published": "Mon, 14 Sep 2026 21:32:22 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-15T02:18:55.386343"
+    },
+    {
+      "source": "arstechnica",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
       "keywords": [
         "AI",
-        "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.165066"
-    },
-    {
-      "source": "hackernews",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 254\n# Comments: 259",
-      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "published": "Mon, 14 Sep 2026 17:50:29 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.165089"
-    },
-    {
-      "source": "hackernews",
-      "title": "Steam Frame starts at $1059",
-      "summary": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 366\n# Comments: 233",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "published": "Mon, 14 Sep 2026 17:27:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-14T21:08:59.165115"
+      "crawled_at": "2026-09-15T02:18:55.386360"
     },
     {
       "source": "arstechnica",
@@ -215,7 +252,7 @@
         "Rust"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.228928"
+      "crawled_at": "2026-09-15T02:18:55.386375"
     },
     {
       "source": "arstechnica",
@@ -225,47 +262,21 @@
       "published": "Mon, 14 Sep 2026 19:38:46 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:59.228969"
+      "crawled_at": "2026-09-15T02:18:55.386397"
     },
     {
-      "source": "arstechnica",
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "published": "Mon, 14 Sep 2026 19:28:42 +0000",
+      "source": "wired",
+      "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+      "summary": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
+      "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+      "published": "Tue, 15 Sep 2026 00:23:42 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Apple",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.228990"
-    },
-    {
-      "source": "arstechnica",
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "published": "Mon, 14 Sep 2026 19:06:13 +0000",
-      "keywords": [
-        "AI",
+        "REST",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.229007"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Online hate researcher keeps hammering X despite deportation threat",
-      "summary": "US won’t back down from fight to deport technology researchers.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-      "published": "Mon, 14 Sep 2026 18:24:09 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:59.229034"
+      "crawled_at": "2026-09-15T02:18:55.533534"
     },
     {
       "source": "wired",
@@ -280,7 +291,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-14T21:08:59.316610"
+      "crawled_at": "2026-09-15T02:18:55.533559"
     },
     {
       "source": "wired",
@@ -293,7 +304,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.316646"
+      "crawled_at": "2026-09-15T02:18:55.533581"
     },
     {
       "source": "wired",
@@ -305,7 +316,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.316666"
+      "crawled_at": "2026-09-15T02:18:55.533598"
     },
     {
       "source": "wired",
@@ -317,21 +328,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-14T21:08:59.316696"
-    },
-    {
-      "source": "wired",
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-14T21:08:59.316724"
+      "crawled_at": "2026-09-15T02:18:55.533622"
     }
   ]
 }
