@@ -1,69 +1,132 @@
 {
-  "last_updated": "2026-09-17T15:49:43.866354",
+  "last_updated": "2026-09-17T20:42:29.438824",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "summary": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
-      "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-      "published": "Thu, 17 Sep 2026 15:02:00 +0000",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "published": "Thu, 17 Sep 2026 20:34:47 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:42.580364"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.477931"
     },
     {
       "source": "techcrunch",
-      "title": "I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout",
-      "summary": "Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.",
-      "link": "https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0000",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "published": "Thu, 17 Sep 2026 20:34:24 +0000",
       "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-09-17T15:49:42.580717"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.477961"
     },
     {
       "source": "techcrunch",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "published": "Thu, 17 Sep 2026 20:19:37 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:42.580763"
+      "crawled_at": "2026-09-17T20:42:17.477977"
     },
     {
       "source": "techcrunch",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-17T15:49:42.580805"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "published": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
       "keywords": [
         "AI",
-        "REST",
-        "Meta"
+        "Go",
+        "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:42.580835"
+      "crawled_at": "2026-09-17T20:42:17.477994"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "published": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "API",
+        "Microsoft",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.478288"
+    },
+    {
+      "source": "theverge",
+      "title": "The AI Superintelligence Slowdown",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "published": "2026-09-17T15:28:24-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.628799"
+    },
+    {
+      "source": "theverge",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "published": "2026-09-17T14:58:05-04:00",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Go",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.628843"
+    },
+    {
+      "source": "theverge",
+      "title": "Save $30 or more on a refurbished Apple TV 4K",
+      "summary": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retai",
+      "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+      "published": "2026-09-17T13:14:07-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:17.628867"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
+      "summary": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has bee",
+      "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+      "published": "2026-09-17T12:00:00-04:00",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:17.628907"
     },
     {
       "source": "theverge",
@@ -77,130 +140,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.257533"
-    },
-    {
-      "source": "theverge",
-      "title": "Your robotaxi might be a narc",
-      "summary": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested",
-      "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
-      "published": "2026-09-17T11:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.257601"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Micro",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "published": "2026-09-17T10:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.257645"
-    },
-    {
-      "source": "theverge",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority s",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "published": "2026-09-17T10:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.257676"
-    },
-    {
-      "source": "theverge",
-      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-      "summary": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI and sell them to others. At first, there will be a handful of instruments available, built either by L",
-      "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-      "published": "2026-09-17T10:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.257706"
+      "crawled_at": "2026-09-17T20:42:17.628935"
     },
     {
       "source": "hackernews",
-      "title": "I Don't Like LLMs",
-      "summary": "Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html\nComments URL: https://news.ycombinator.com/item?id=49740834\nPoints: 88\n# Comments: 95",
-      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "published": "Thu, 17 Sep 2026 13:57:07 +0000",
+      "title": "Astra for Law",
+      "summary": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 22\n# Comments: 8",
+      "link": "https://openai.com/index/astra-for-law/",
+      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.515983"
+      "crawled_at": "2026-09-17T20:42:29.064922"
     },
     {
       "source": "hackernews",
-      "title": "I had Gemini train its own replacement for $9",
-      "summary": "Article URL: https://www.petervijeh.com/projects/reddit-ner\nComments URL: https://news.ycombinator.com/item?id=49740330\nPoints: 78\n# Comments: 31",
-      "link": "https://www.petervijeh.com/projects/reddit-ner",
-      "published": "Thu, 17 Sep 2026 13:17:16 +0000",
+      "title": "Everybody's Lost Their Minds",
+      "summary": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 17\n# Comments: 2",
+      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "published": "Thu, 17 Sep 2026 19:43:34 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:29.064954"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't Just Say Hello",
+      "summary": "Article URL: https://nohello.net/en/\nComments URL: https://news.ycombinator.com/item?id=49745266\nPoints: 30\n# Comments: 15",
+      "link": "https://nohello.net/en/",
+      "published": "Thu, 17 Sep 2026 19:16:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:29.064976"
+    },
+    {
+      "source": "hackernews",
+      "title": "Canto: A speech model built for the real world",
+      "summary": "Article URL: https://wisprflow.ai/canto\nComments URL: https://news.ycombinator.com/item?id=49744715\nPoints: 6\n# Comments: 1",
+      "link": "https://wisprflow.ai/canto",
+      "published": "Thu, 17 Sep 2026 18:32:50 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.516019"
+      "crawled_at": "2026-09-17T20:42:29.064992"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks?   So I built this with the hope we could have a",
-      "link": "https://mysetup.ai/",
-      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "title": "Don't Make Job Referrals Public",
+      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 16\n# Comments: 9",
+      "link": "https://blog.melashri.net/micro/public-job-referral/",
+      "published": "Thu, 17 Sep 2026 18:16:38 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.516062"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "summary": "Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).Live demo to try it out: https://app.flat.social/f/demo-f",
-      "link": "https://flat.social",
-      "published": "Thu, 17 Sep 2026 12:57:09 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:43.516145"
-    },
-    {
-      "source": "hackernews",
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)From the activity history, neovim last sent bitcoin out",
-      "link": "https://news.ycombinator.com/item?id=49738879",
-      "published": "Thu, 17 Sep 2026 10:44:49 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Blockchain",
-        "Funding",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.516200"
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:29.065015"
     },
     {
       "source": "arstechnica",
@@ -213,7 +216,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.670362"
+      "crawled_at": "2026-09-17T20:42:29.216868"
     },
     {
       "source": "arstechnica",
@@ -223,7 +226,7 @@
       "published": "Wed, 16 Sep 2026 21:42:09 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:43.670403"
+      "crawled_at": "2026-09-17T20:42:29.216896"
     },
     {
       "source": "arstechnica",
@@ -235,7 +238,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-17T15:49:43.670431"
+      "crawled_at": "2026-09-17T20:42:29.216917"
     },
     {
       "source": "arstechnica",
@@ -249,7 +252,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.670456"
+      "crawled_at": "2026-09-17T20:42:29.216934"
     },
     {
       "source": "arstechnica",
@@ -262,7 +265,62 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:43.670484"
+      "crawled_at": "2026-09-17T20:42:29.216954"
+    },
+    {
+      "source": "wired",
+      "title": "26 Amazon Prime Perks You Might Know You Have (2026)",
+      "summary": "Your membership gets you more than free two-day shipping. Here’s what you may be missing ahead of Amazon Prime Big Deal Days.",
+      "link": "https://www.wired.com/story/amazon-prime-perks/",
+      "published": "Thu, 17 Sep 2026 20:21:04 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:29.438668"
+    },
+    {
+      "source": "wired",
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+      "published": "Thu, 17 Sep 2026 19:58:28 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:29.438699"
+    },
+    {
+      "source": "wired",
+      "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+      "summary": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost.",
+      "link": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
+      "published": "Thu, 17 Sep 2026 19:15:00 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-17T20:42:29.438730"
+    },
+    {
+      "source": "wired",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "published": "Thu, 17 Sep 2026 18:42:25 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-17T20:42:29.438751"
     },
     {
       "source": "wired",
@@ -275,61 +333,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:43.866084"
-    },
-    {
-      "source": "wired",
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-      "link": "https://www.wired.com/gallery/iphone-buying-guide/",
-      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.866127"
-    },
-    {
-      "source": "wired",
-      "title": "Soundboks Rider Party Speaker Review: Loud and Durable",
-      "summary": "I’m genuinely afraid to go full-volume on the Soundboks Rider, which is built like a party-ready tank.",
-      "link": "https://www.wired.com/review/soundboks-rider/",
-      "published": "Thu, 17 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T15:49:43.866155"
-    },
-    {
-      "source": "wired",
-      "title": "People Are Pissed Off and Ready to Own Their Shit",
-      "summary": "A grassroots live tour by YouTuber Louis Rossmann highlights growing resistance to companies that keep people from controlling their devices.",
-      "link": "https://www.wired.com/story/people-are-pissed-off-and-ready-to-own-their-shit/",
-      "published": "Thu, 17 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-09-17T15:49:43.866189"
-    },
-    {
-      "source": "wired",
-      "title": "‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster",
-      "summary": "Vin Diesel, the star of the series, didn’t make a planned appearance at the grand opening of its dynamite new theme park ride. But it didn’t stop his fans from having a good time.",
-      "link": "https://www.wired.com/story/fast-and-furious-roller-coaster/",
-      "published": "Thu, 17 Sep 2026 10:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-17T15:49:43.866230"
+      "crawled_at": "2026-09-17T20:42:29.438780"
     }
   ]
 }
