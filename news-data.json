@@ -1,76 +1,86 @@
 {
-  "last_updated": "2026-09-17T20:42:29.438824",
+  "last_updated": "2026-09-18T02:02:12.630779",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published": "Thu, 17 Sep 2026 20:34:47 +0000",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.100812"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.477931"
+      "crawled_at": "2026-09-18T02:02:12.101132"
     },
     {
       "source": "techcrunch",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "published": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.477961"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "published": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.477977"
-    },
-    {
-      "source": "techcrunch",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.477994"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "published": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "API",
-        "Microsoft",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.478288"
+      "crawled_at": "2026-09-18T02:02:12.101180"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "published": "Thu, 17 Sep 2026 23:08:24 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-18T02:02:12.101221"
+    },
+    {
+      "source": "techcrunch",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.101244"
+    },
+    {
+      "source": "theverge",
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human sa",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "published": "2026-09-17T22:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-18T02:02:12.212834"
     },
     {
       "source": "theverge",
@@ -83,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.628799"
+      "crawled_at": "2026-09-18T02:02:12.212884"
     },
     {
       "source": "theverge",
@@ -99,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.628843"
+      "crawled_at": "2026-09-18T02:02:12.212920"
     },
     {
       "source": "theverge",
@@ -113,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.628867"
+      "crawled_at": "2026-09-18T02:02:12.212952"
     },
     {
       "source": "theverge",
@@ -126,84 +136,75 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:17.628907"
+      "crawled_at": "2026-09-18T02:02:12.213006"
     },
     {
-      "source": "theverge",
-      "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "summary": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black",
-      "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-      "published": "2026-09-17T11:00:00-04:00",
+      "source": "hackernews",
+      "title": "Claude Code from Source",
+      "summary": "Article URL: https://claude-code-from-source.com/\nComments URL: https://news.ycombinator.com/item?id=49749019\nPoints: 12\n# Comments: 1",
+      "link": "https://claude-code-from-source.com/",
+      "published": "Fri, 18 Sep 2026 01:14:04 +0000",
       "keywords": [
-        "AI",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.325373"
+    },
+    {
+      "source": "hackernews",
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 18\n# Comments: 5",
+      "link": "https://github.com/aardappel/goose/tree/master",
+      "published": "Fri, 18 Sep 2026 01:04:54 +0000",
+      "keywords": [
+        "Rust",
+        "Go",
         "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:17.628935"
+      "category": "Programming",
+      "crawled_at": "2026-09-18T02:02:12.325409"
     },
     {
       "source": "hackernews",
-      "title": "Astra for Law",
-      "summary": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 22\n# Comments: 8",
-      "link": "https://openai.com/index/astra-for-law/",
-      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.064922"
-    },
-    {
-      "source": "hackernews",
-      "title": "Everybody's Lost Their Minds",
-      "summary": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 17\n# Comments: 2",
-      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "published": "Thu, 17 Sep 2026 19:43:34 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:29.064954"
-    },
-    {
-      "source": "hackernews",
-      "title": "Don't Just Say Hello",
-      "summary": "Article URL: https://nohello.net/en/\nComments URL: https://news.ycombinator.com/item?id=49745266\nPoints: 30\n# Comments: 15",
-      "link": "https://nohello.net/en/",
-      "published": "Thu, 17 Sep 2026 19:16:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:29.064976"
-    },
-    {
-      "source": "hackernews",
-      "title": "Canto: A speech model built for the real world",
-      "summary": "Article URL: https://wisprflow.ai/canto\nComments URL: https://news.ycombinator.com/item?id=49744715\nPoints: 6\n# Comments: 1",
-      "link": "https://wisprflow.ai/canto",
-      "published": "Thu, 17 Sep 2026 18:32:50 +0000",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 19\n# Comments: 2",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.064992"
+      "crawled_at": "2026-09-18T02:02:12.325439"
     },
     {
       "source": "hackernews",
-      "title": "Don't Make Job Referrals Public",
-      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 16\n# Comments: 9",
-      "link": "https://blog.melashri.net/micro/public-job-referral/",
-      "published": "Thu, 17 Sep 2026 18:16:38 +0000",
+      "title": "How Uber Protects Against Retry Storms",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 40\n# Comments: 23",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:29.065015"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.325468"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 222\n# Comments: 70",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.325495"
     },
     {
       "source": "arstechnica",
@@ -216,7 +217,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.216868"
+      "crawled_at": "2026-09-18T02:02:12.446945"
     },
     {
       "source": "arstechnica",
@@ -226,7 +227,7 @@
       "published": "Wed, 16 Sep 2026 21:42:09 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-09-17T20:42:29.216896"
+      "crawled_at": "2026-09-18T02:02:12.446986"
     },
     {
       "source": "arstechnica",
@@ -238,7 +239,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-17T20:42:29.216917"
+      "crawled_at": "2026-09-18T02:02:12.447015"
     },
     {
       "source": "arstechnica",
@@ -252,7 +253,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.216934"
+      "crawled_at": "2026-09-18T02:02:12.447041"
     },
     {
       "source": "arstechnica",
@@ -265,7 +266,21 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-17T20:42:29.216954"
+      "crawled_at": "2026-09-18T02:02:12.447069"
+    },
+    {
+      "source": "wired",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "published": "Thu, 17 Sep 2026 22:20:21 +0000",
+      "keywords": [
+        "AI",
+        "iOS",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T02:02:12.630532"
     },
     {
       "source": "wired",
@@ -277,7 +292,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:29.438668"
+      "crawled_at": "2026-09-18T02:02:12.630575"
     },
     {
       "source": "wired",
@@ -292,7 +307,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.438699"
+      "crawled_at": "2026-09-18T02:02:12.630611"
     },
     {
       "source": "wired",
@@ -305,7 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-17T20:42:29.438730"
+      "crawled_at": "2026-09-18T02:02:12.630653"
     },
     {
       "source": "wired",
@@ -320,20 +335,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-17T20:42:29.438751"
-    },
-    {
-      "source": "wired",
-      "title": "Apple Watch Series 12 Review: Finally, a Readiness Score (2026)",
-      "summary": "After wearing it day and night for a week, I found that better health tracking, faster charging, and a simpler interface make Apple’s latest smartwatch noticeably easier to live with.",
-      "link": "https://www.wired.com/review/apple-watch-series-12/",
-      "published": "Thu, 17 Sep 2026 12:01:00 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-17T20:42:29.438780"
+      "crawled_at": "2026-09-18T02:02:12.630682"
     }
   ]
 }
