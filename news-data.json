@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T02:02:12.630779",
+  "last_updated": "2026-09-18T10:12:07.981606",
   "news_count": 25,
   "news": [
     {
@@ -14,7 +14,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.100812"
+      "crawled_at": "2026-09-18T10:12:07.339975"
     },
     {
       "source": "techcrunch",
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.101132"
+      "crawled_at": "2026-09-18T10:12:07.340284"
     },
     {
       "source": "techcrunch",
@@ -42,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.101180"
+      "crawled_at": "2026-09-18T10:12:07.340330"
     },
     {
       "source": "techcrunch",
@@ -55,7 +55,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-18T02:02:12.101221"
+      "crawled_at": "2026-09-18T10:12:07.340369"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.101244"
+      "crawled_at": "2026-09-18T10:12:07.340392"
     },
     {
       "source": "theverge",
@@ -80,7 +80,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-18T02:02:12.212834"
+      "crawled_at": "2026-09-18T10:12:07.492414"
     },
     {
       "source": "theverge",
@@ -93,7 +93,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.212884"
+      "crawled_at": "2026-09-18T10:12:07.492463"
     },
     {
       "source": "theverge",
@@ -109,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.212920"
+      "crawled_at": "2026-09-18T10:12:07.492500"
     },
     {
       "source": "theverge",
@@ -123,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.212952"
+      "crawled_at": "2026-09-18T10:12:07.492531"
     },
     {
       "source": "theverge",
@@ -136,206 +136,203 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-18T02:02:12.213006"
+      "crawled_at": "2026-09-18T10:12:07.492583"
     },
     {
       "source": "hackernews",
-      "title": "Claude Code from Source",
-      "summary": "Article URL: https://claude-code-from-source.com/\nComments URL: https://news.ycombinator.com/item?id=49749019\nPoints: 12\n# Comments: 1",
-      "link": "https://claude-code-from-source.com/",
-      "published": "Fri, 18 Sep 2026 01:14:04 +0000",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\nComments URL: https://news.ycombinator.com/item?id=49752056\nPoints: 10\n# Comments: 1",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "published": "Fri, 18 Sep 2026 09:45:07 +0000",
       "keywords": [
-        "Claude",
+        "AI",
+        "API",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.325373"
+      "crawled_at": "2026-09-18T10:12:07.711587"
     },
     {
       "source": "hackernews",
-      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
-      "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 18\n# Comments: 5",
-      "link": "https://github.com/aardappel/goose/tree/master",
-      "published": "Fri, 18 Sep 2026 01:04:54 +0000",
+      "title": "OpenJev",
+      "summary": "Article URL: https://openjev.com/\nComments URL: https://news.ycombinator.com/item?id=49752041\nPoints: 5\n# Comments: 1",
+      "link": "https://openjev.com/",
+      "published": "Fri, 18 Sep 2026 09:42:22 +0000",
       "keywords": [
-        "Rust",
-        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.711624"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jemalloc 5.4.0",
+      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\nComments URL: https://news.ycombinator.com/item?id=49750152\nPoints: 145\n# Comments: 39",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "published": "Fri, 18 Sep 2026 04:20:24 +0000",
+      "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-09-18T02:02:12.325409"
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.711662"
     },
     {
       "source": "hackernews",
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 19\n# Comments: 2",
-      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
+      "title": "The scourge of x86 emulation",
+      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/\nComments URL: https://news.ycombinator.com/item?id=49750094\nPoints: 144\n# Comments: 24",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "published": "Fri, 18 Sep 2026 04:09:48 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.325439"
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.711722"
     },
     {
       "source": "hackernews",
-      "title": "How Uber Protects Against Retry Storms",
-      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 40\n# Comments: 23",
-      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "summary": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 83\n# Comments: 34",
+      "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "published": "Fri, 18 Sep 2026 03:04:38 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.325468"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 222\n# Comments: 70",
-      "link": "https://prismml.com/news/bonsai-2-27b",
-      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.325495"
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.711769"
     },
     {
       "source": "arstechnica",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "published": "Wed, 16 Sep 2026 22:02:46 +0000",
-      "keywords": [
-        "AI",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.446945"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-      "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-      "published": "Wed, 16 Sep 2026 21:42:09 +0000",
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "published": "Thu, 17 Sep 2026 22:31:28 +0000",
       "keywords": [],
-      "category": "Mobile",
-      "crawled_at": "2026-09-18T02:02:12.446986"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-      "summary": "Group plans to be largely out of commission for several weeks.",
-      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-      "published": "Wed, 16 Sep 2026 21:08:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-09-18T02:02:12.447015"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-      "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-      "published": "Wed, 16 Sep 2026 20:44:41 +0000",
-      "keywords": [
-        "AI",
-        "API",
-        "iOS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.447041"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
-      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
-      "link": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
-      "published": "Wed, 16 Sep 2026 20:23:16 +0000",
-      "keywords": [
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-18T02:02:12.447069"
-    },
-    {
-      "source": "wired",
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "published": "Thu, 17 Sep 2026 22:20:21 +0000",
-      "keywords": [
-        "AI",
-        "iOS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.630532"
-    },
-    {
-      "source": "wired",
-      "title": "26 Amazon Prime Perks You Might Know You Have (2026)",
-      "summary": "Your membership gets you more than free two-day shipping. Here’s what you may be missing ahead of Amazon Prime Big Deal Days.",
-      "link": "https://www.wired.com/story/amazon-prime-perks/",
-      "published": "Thu, 17 Sep 2026 20:21:04 +0000",
-      "keywords": [
-        "Amazon"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-09-18T02:02:12.630575"
+      "crawled_at": "2026-09-18T10:12:07.813616"
     },
     {
-      "source": "wired",
-      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "published": "Thu, 17 Sep 2026 19:58:28 +0000",
+      "source": "arstechnica",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "published": "Thu, 17 Sep 2026 22:12:58 +0000",
       "keywords": [
         "AI",
-        "Rust",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.630611"
+      "crawled_at": "2026-09-18T10:12:07.813645"
     },
     {
-      "source": "wired",
-      "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
-      "summary": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost.",
-      "link": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
-      "published": "Thu, 17 Sep 2026 19:15:00 +0000",
+      "source": "arstechnica",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "published": "Thu, 17 Sep 2026 20:24:34 +0000",
       "keywords": [
-        "Amazon",
+        "AI",
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-18T02:02:12.630653"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T10:12:07.813668"
     },
     {
-      "source": "wired",
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "published": "Thu, 17 Sep 2026 18:42:25 +0000",
+      "source": "arstechnica",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "published": "Thu, 17 Sep 2026 20:10:41 +0000",
       "keywords": [
         "AI",
         "OpenAI",
-        "Anthropic",
+        "API",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-18T02:02:12.630682"
+      "crawled_at": "2026-09-18T10:12:07.813717"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+      "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+      "published": "Thu, 17 Sep 2026 19:07:28 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T10:12:07.813743"
+    },
+    {
+      "source": "wired",
+      "title": "Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off",
+      "summary": "Charge your trio of Apple gadgets–iPhone, Apple Watch, and AirPods–with one of my favorite telescopic stands.",
+      "link": "https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/",
+      "published": "Fri, 18 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T10:12:07.981394"
+    },
+    {
+      "source": "wired",
+      "title": "It Still Feels Like Summer in Parts of the US. Blame El Niño",
+      "summary": "Heat records are being shattered thanks to a boost from the natural climate pattern—and burning fossil fuels, of course.",
+      "link": "https://www.wired.com/story/september-feels-like-summer-blame-el-nino/",
+      "published": "Fri, 18 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.981438"
+    },
+    {
+      "source": "wired",
+      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "published": "Fri, 18 Sep 2026 09:15:00 +0000",
+      "keywords": [
+        "AI",
+        "Git"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T10:12:07.981466"
+    },
+    {
+      "source": "wired",
+      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+      "summary": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
+      "link": "https://www.wired.com/story/best-open-earbuds/",
+      "published": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-18T10:12:07.981500"
+    },
+    {
+      "source": "wired",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "published": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-18T10:12:07.981528"
     }
   ]
 }
