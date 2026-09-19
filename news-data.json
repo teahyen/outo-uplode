@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-19T09:53:34.541623",
+  "last_updated": "2026-09-19T14:59:23.517882",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "published": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-19T14:59:19.736691"
+    },
     {
       "source": "techcrunch",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -12,7 +27,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-19T09:53:31.827199"
+      "crawled_at": "2026-09-19T14:59:19.736723"
     },
     {
       "source": "techcrunch",
@@ -26,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.827239"
+      "crawled_at": "2026-09-19T14:59:19.736747"
     },
     {
       "source": "techcrunch",
@@ -40,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.827266"
+      "crawled_at": "2026-09-19T14:59:19.736765"
     },
     {
       "source": "techcrunch",
@@ -54,21 +69,50 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.827293"
+      "crawled_at": "2026-09-19T14:59:19.736784"
     },
     {
-      "source": "techcrunch",
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "published": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "source": "theverge",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology pol",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "published": "2026-09-19T10:00:00-04:00",
       "keywords": [
         "AI",
+        "Rust",
         "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.827322"
+      "crawled_at": "2026-09-19T14:59:19.919370"
+    },
+    {
+      "source": "theverge",
+      "title": "It’s not just LG. Every TV company is spying on you",
+      "summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned i",
+      "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "published": "2026-09-19T09:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-19T14:59:19.919408"
+    },
+    {
+      "source": "theverge",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "published": "2026-09-19T09:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-19T14:59:19.919440"
     },
     {
       "source": "theverge",
@@ -84,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.906724"
+      "crawled_at": "2026-09-19T14:59:19.919469"
     },
     {
       "source": "theverge",
@@ -100,113 +144,99 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.906770"
-    },
-    {
-      "source": "theverge",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will repo",
-      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "published": "2026-09-18T14:27:04-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.906812"
-    },
-    {
-      "source": "theverge",
-      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in [&#8230;]",
-      "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-      "published": "2026-09-18T13:06:37-04:00",
-      "keywords": [
-        "AI",
-        "iPhone",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.906842"
-    },
-    {
-      "source": "theverge",
-      "title": "Gavin Newsom is pushing for an AI kill switch",
-      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendatio",
-      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "published": "2026-09-18T13:04:51-04:00",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:31.906873"
+      "crawled_at": "2026-09-19T14:59:19.919498"
     },
     {
       "source": "hackernews",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\nComments URL: https://news.ycombinator.com/item?id=49763987\nPoints: 102\n# Comments: 45",
-      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "published": "Sat, 19 Sep 2026 06:41:44 +0000",
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "summary": "Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951\nComments URL: https://news.ycombinator.com/item?id=49766821\nPoints: 6\n# Comments: 1",
+      "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "published": "Sat, 19 Sep 2026 14:23:42 +0000",
       "keywords": [
         "AI",
-        "GPT",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.222365"
+      "crawled_at": "2026-09-19T14:59:23.257504"
     },
     {
       "source": "hackernews",
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\nComments URL: https://news.ycombinator.com/item?id=49763928\nPoints: 84\n# Comments: 46",
-      "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "published": "Sat, 19 Sep 2026 06:28:02 +0000",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "summary": "Article URL: https://github.com/mindbox77/zxdesk\nComments URL: https://news.ycombinator.com/item?id=49766676\nPoints: 13\n# Comments: 3",
+      "link": "https://github.com/mindbox77/zxdesk",
+      "published": "Sat, 19 Sep 2026 14:01:58 +0000",
       "keywords": [
-        "REST",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-19T09:53:34.222476"
+      "crawled_at": "2026-09-19T14:59:23.257535"
     },
     {
       "source": "hackernews",
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "summary": "Article URL: https://browser.geekbench.com/v7/cpu/389219\nComments URL: https://news.ycombinator.com/item?id=49763883\nPoints: 40\n# Comments: 28",
-      "link": "https://browser.geekbench.com/v7/cpu/389219",
-      "published": "Sat, 19 Sep 2026 06:19:24 +0000",
+      "title": "What Zig felt like, coming from Rust",
+      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\nComments URL: https://news.ycombinator.com/item?id=49766637\nPoints: 27\n# Comments: 7",
+      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "published": "Sat, 19 Sep 2026 13:55:18 +0000",
       "keywords": [
-        "Apple",
+        "Rust",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-19T09:53:34.222519"
+      "category": "Programming",
+      "crawled_at": "2026-09-19T14:59:23.257555"
     },
     {
       "source": "hackernews",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html\nComments URL: https://news.ycombinator.com/item?id=49763697\nPoints: 206\n# Comments: 89",
-      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "published": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "title": "Tin: full-text search for Postgres",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-tin\nComments URL: https://news.ycombinator.com/item?id=49766611\nPoints: 19\n# Comments: 3",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "published": "Sat, 19 Sep 2026 13:52:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-19T14:59:23.257578"
+    },
+    {
+      "source": "hackernews",
+      "title": "Laya the open source version of Jev",
+      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 310\n# Comments: 61",
+      "link": "https://laya.convaiinnovations.com/",
+      "published": "Sat, 19 Sep 2026 10:46:58 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.222550"
+      "crawled_at": "2026-09-19T14:59:23.257595"
     },
     {
-      "source": "hackernews",
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "summary": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\nComments URL: https://news.ycombinator.com/item?id=49763379\nPoints: 23\n# Comments: 2",
-      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "published": "Sat, 19 Sep 2026 04:44:35 +0000",
+      "source": "arstechnica",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "published": "Sat, 19 Sep 2026 11:10:43 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.222582"
+      "crawled_at": "2026-09-19T14:59:23.367233"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Rings around a tiny body have changed over the past decade",
+      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "published": "Sat, 19 Sep 2026 10:00:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-19T14:59:23.367258"
     },
     {
       "source": "arstechnica",
@@ -219,7 +249,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.386187"
+      "crawled_at": "2026-09-19T14:59:23.367274"
     },
     {
       "source": "arstechnica",
@@ -231,7 +261,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.386215"
+      "crawled_at": "2026-09-19T14:59:23.367289"
     },
     {
       "source": "arstechnica",
@@ -244,96 +274,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-19T09:53:34.386246"
+      "crawled_at": "2026-09-19T14:59:23.367318"
     },
     {
-      "source": "arstechnica",
-      "title": "Finding the cells that put our brain to sleep",
-      "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
-      "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
-      "published": "Fri, 18 Sep 2026 17:49:50 +0000",
+      "source": "wired",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "published": "Sat, 19 Sep 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Security",
+        "Vulnerability",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-19T14:59:23.517739"
+    },
+    {
+      "source": "wired",
+      "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+      "summary": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+      "link": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+      "published": "Sat, 19 Sep 2026 10:30:00 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-09-19T14:59:23.517767"
+    },
+    {
+      "source": "wired",
+      "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+      "summary": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
+      "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
+      "published": "Sat, 19 Sep 2026 10:08:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-19T14:59:23.517792"
+    },
+    {
+      "source": "wired",
+      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "summary": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
+      "published": "Sat, 19 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-19T14:59:23.517816"
+    },
+    {
+      "source": "wired",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "published": "Sat, 19 Sep 2026 10:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.386268"
-    },
-    {
-      "source": "arstechnica",
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "published": "Fri, 18 Sep 2026 17:28:50 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.386289"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
-      "published": "Sat, 19 Sep 2026 09:39:00 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-19T09:53:34.541353"
-    },
-    {
-      "source": "wired",
-      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "summary": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-      "published": "Sat, 19 Sep 2026 09:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.541433"
-    },
-    {
-      "source": "wired",
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "link": "https://www.wired.com/gallery/best-vpn/",
-      "published": "Sat, 19 Sep 2026 09:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-19T09:53:34.541473"
-    },
-    {
-      "source": "wired",
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "published": "Sat, 19 Sep 2026 09:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-19T09:53:34.541499"
-    },
-    {
-      "source": "wired",
-      "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-      "summary": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "published": "Sat, 19 Sep 2026 06:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-19T09:53:34.541545"
+      "crawled_at": "2026-09-19T14:59:23.517835"
     }
   ]
 }
