@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T02:12:36.552402",
+  "last_updated": "2026-09-21T11:21:16.801622",
   "news_count": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "published": "Sun, 20 Sep 2026 21:41:08 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.657764"
+      "crawled_at": "2026-09-21T11:21:16.060170"
     },
     {
       "source": "techcrunch",
@@ -23,7 +23,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.658221"
+      "crawled_at": "2026-09-21T11:21:16.060454"
     },
     {
       "source": "techcrunch",
@@ -33,7 +33,7 @@
       "published": "Sun, 20 Sep 2026 19:38:48 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.658270"
+      "crawled_at": "2026-09-21T11:21:16.060487"
     },
     {
       "source": "techcrunch",
@@ -46,7 +46,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:35.658296"
+      "crawled_at": "2026-09-21T11:21:16.060503"
     },
     {
       "source": "techcrunch",
@@ -56,7 +56,54 @@
       "published": "Sun, 20 Sep 2026 18:32:52 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.658331"
+      "crawled_at": "2026-09-21T11:21:16.060527"
+    },
+    {
+      "source": "theverge",
+      "title": "Get a closer look at the iPhone 18 Pro’s mechanical camera",
+      "summary": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustable mechanical iris opens and closes magnetically, controlling how much light should pass through to ",
+      "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
+      "published": "2026-09-21T06:57:27-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-21T11:21:16.187430"
+    },
+    {
+      "source": "theverge",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "published": "2026-09-21T06:18:06-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-21T11:21:16.187471"
+    },
+    {
+      "source": "theverge",
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" Accordin",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "published": "2026-09-21T05:21:47-04:00",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Meta",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-21T11:21:16.187503"
     },
     {
       "source": "theverge",
@@ -69,11 +116,11 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.834120"
+      "crawled_at": "2026-09-21T11:21:16.187537"
     },
     {
       "source": "theverge",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "published": "2026-09-20T14:50:18-04:00",
@@ -82,78 +129,65 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:35.834163"
+      "crawled_at": "2026-09-21T11:21:16.187566"
     },
     {
-      "source": "theverge",
-      "title": "Kojima Productions disputes reports the studio is in trouble",
-      "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed de",
-      "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-      "published": "2026-09-20T14:15:10-04:00",
+      "source": "hackernews",
+      "title": "ZuckOff Know when a camera is in the room",
+      "summary": "Article URL: https://zuckoff.app/\nComments URL: https://news.ycombinator.com/item?id=49785429\nPoints: 115\n# Comments: 16",
+      "link": "https://zuckoff.app/",
+      "published": "Mon, 21 Sep 2026 10:33:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-21T11:21:16.466830"
+    },
+    {
+      "source": "hackernews",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff\nComments URL: https://news.ycombinator.com/item?id=49785397\nPoints: 71\n# Comments: 1",
+      "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "published": "Mon, 21 Sep 2026 10:27:50 +0000",
       "keywords": [
         "Meta",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:35.834212"
-    },
-    {
-      "source": "theverge",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "published": "2026-09-20T11:39:22-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:35.834254"
-    },
-    {
-      "source": "theverge",
-      "title": "A24’s reputation is on the line with the SCP Foundation movie",
-      "summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on s",
-      "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-      "published": "2026-09-20T08:45:48-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:35.834296"
+      "category": "Mobile",
+      "crawled_at": "2026-09-21T11:21:16.466864"
     },
     {
       "source": "hackernews",
-      "title": "Why back propagation goes backward",
-      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 6\n# Comments: 0",
-      "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "published": "Mon, 21 Sep 2026 00:42:14 +0000",
+      "title": "Jev-Leftpad",
+      "summary": "Article URL: https://github.com/f/jev-leftpad\nComments URL: https://news.ycombinator.com/item?id=49784706\nPoints: 74\n# Comments: 36",
+      "link": "https://github.com/f/jev-leftpad",
+      "published": "Mon, 21 Sep 2026 08:39:32 +0000",
       "keywords": [
-        "Go",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.206762"
+      "crawled_at": "2026-09-21T11:21:16.466887"
     },
     {
       "source": "hackernews",
-      "title": "Amiga Unix, Again",
-      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 19\n# Comments: 6",
-      "link": "https://amigaux.org/",
-      "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "summary": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change\nComments URL: https://news.ycombinator.com/item?id=49784336\nPoints: 45\n# Comments: 15",
+      "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "published": "Mon, 21 Sep 2026 07:55:28 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.206795"
+      "category": "Tech News",
+      "crawled_at": "2026-09-21T11:21:16.466914"
     },
     {
       "source": "hackernews",
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 12\n# Comments: 2",
-      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "published": "Sun, 20 Sep 2026 23:19:04 +0000",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main\nComments URL: https://news.ycombinator.com/item?id=49783999\nPoints: 135\n# Comments: 58",
+      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "published": "Mon, 21 Sep 2026 07:11:55 +0000",
       "keywords": [
         "AI",
         "Git",
@@ -161,33 +195,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.206824"
-    },
-    {
-      "source": "hackernews",
-      "title": "What happened to the Snowden archive",
-      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 173\n# Comments: 75",
-      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "published": "Sun, 20 Sep 2026 22:35:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-21T02:12:36.206857"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google's Open Agentic Orchestrator",
-      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 207\n# Comments: 88",
-      "link": "https://agentexecutor.io",
-      "published": "Sun, 20 Sep 2026 22:32:43 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.206889"
+      "crawled_at": "2026-09-21T11:21:16.466933"
     },
     {
       "source": "arstechnica",
@@ -202,7 +210,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.418025"
+      "crawled_at": "2026-09-21T11:21:16.668668"
     },
     {
       "source": "arstechnica",
@@ -215,7 +223,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.418063"
+      "crawled_at": "2026-09-21T11:21:16.668698"
     },
     {
       "source": "arstechnica",
@@ -228,7 +236,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-21T02:12:36.418091"
+      "crawled_at": "2026-09-21T11:21:16.668718"
     },
     {
       "source": "arstechnica",
@@ -241,7 +249,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.418113"
+      "crawled_at": "2026-09-21T11:21:16.668733"
     },
     {
       "source": "arstechnica",
@@ -253,68 +261,64 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.418140"
+      "crawled_at": "2026-09-21T11:21:16.668752"
     },
     {
       "source": "wired",
-      "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-      "summary": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
-      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
-      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.552158"
-    },
-    {
-      "source": "wired",
-      "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-      "summary": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
-      "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
-      "published": "Sun, 20 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.552212"
-    },
-    {
-      "source": "wired",
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "published": "Mon, 21 Sep 2026 10:34:43 +0000",
       "keywords": [
         "AI",
-        "Meta",
-        "AR"
+        "Security"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.552246"
+      "crawled_at": "2026-09-21T11:21:16.801458"
     },
     {
       "source": "wired",
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-21T02:12:36.552274"
-    },
-    {
-      "source": "wired",
-      "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
-      "summary": "“You know ‘Bang Bus’? We don’t want that.”",
-      "link": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
-      "published": "Sun, 20 Sep 2026 10:00:00 +0000",
+      "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
+      "summary": "The Bambu Lab P2S Combo makes useful, polished objects without requiring advanced technical skills.",
+      "link": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
+      "published": "Mon, 21 Sep 2026 10:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-21T02:12:36.552303"
+      "crawled_at": "2026-09-21T11:21:16.801488"
+    },
+    {
+      "source": "wired",
+      "title": "The Search for Silicon Valley’s Most Powerful Woman",
+      "summary": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
+      "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-21T11:21:16.801521"
+    },
+    {
+      "source": "wired",
+      "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
+      "summary": "WIRED dedicating an entire issue to women in 2026 might seem regressive, or obvious, or even unnecessary. We disagree.",
+      "link": "https://www.wired.com/story/wired-women-editors-letter/",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-21T11:21:16.801548"
+    },
+    {
+      "source": "wired",
+      "title": "Justice for CSS",
+      "summary": "In defense of the girliest programming language.",
+      "link": "https://www.wired.com/story/justice-for-css/",
+      "published": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-09-21T11:21:16.801562"
     }
   ]
 }
