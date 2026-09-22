@@ -1,275 +1,308 @@
 {
-  "last_updated": "2026-09-22T15:54:07.236148",
+  "last_updated": "2026-09-22T20:37:23.611756",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Stolen passwords are exposing America’s water providers to hackers",
-      "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
-      "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
-      "published": "Tue, 22 Sep 2026 15:50:58 +0000",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
       "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.584483"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple could take on Whoop with a new fitness tracker, report says",
+      "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+      "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+      "published": "Tue, 22 Sep 2026 19:27:57 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-22T20:37:21.584515"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "keywords": [
+        "AI",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.605925"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "published": "Tue, 22 Sep 2026 18:40:30 +0000",
+      "keywords": [
+        "AI",
+        "Go",
         "Hack",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-09-22T15:54:06.548312"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.605964"
     },
     {
       "source": "techcrunch",
-      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-      "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.548351"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.548376"
-    },
-    {
-      "source": "techcrunch",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.548397"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "published": "Tue, 22 Sep 2026 14:30:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.548426"
+      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
+      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+      "published": "Tue, 22 Sep 2026 18:24:34 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-22T20:37:21.605995"
     },
     {
       "source": "theverge",
-      "title": "Xbox is barely Xbox anymore",
-      "summary": "Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of being closed altogether,",
-      "link": "https://www.theverge.com/games/998758/xbox-activision-blizzard",
-      "published": "2026-09-22T10:50:00-04:00",
+      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hy",
+      "link": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "published": "2026-09-22T16:14:54-04:00",
       "keywords": [
-        "iOS",
+        "AI",
+        "Angular",
+        "Startup",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-22T15:54:06.657906"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.793726"
     },
     {
       "source": "theverge",
-      "title": "Xbox is merging its Forza developers into a single studio",
-      "summary": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Horizon and Fable. \"Playground and Turn 10 w",
-      "link": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
-      "published": "2026-09-22T10:01:17-04:00",
+      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extre",
+      "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+      "published": "2026-09-22T16:00:00-04:00",
       "keywords": [
-        "REST",
-        "Microsoft",
-        "iOS",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-09-22T15:54:06.657952"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-      "summary": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of the 3",
-      "link": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
-      "published": "2026-09-22T10:01:16-04:00",
-      "keywords": [
+        "AI",
         "Go",
-        "REST",
-        "Microsoft",
         "AR",
         "Gaming"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:06.657995"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.793769"
     },
     {
       "source": "theverge",
-      "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
-      "summary": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 268 X",
-      "link": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
-      "published": "2026-09-22T10:00:33-04:00",
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will fi",
+      "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "published": "2026-09-22T16:00:00-04:00",
       "keywords": [
-        "REST",
-        "Microsoft",
-        "iOS",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-22T15:54:06.658033"
-    },
-    {
-      "source": "theverge",
-      "title": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
-      "summary": "Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable and built to withstand sweat, with water resi",
-      "link": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
-      "published": "2026-09-22T10:00:00-04:00",
-      "keywords": [
+        "AI",
         "Go",
         "AR"
       ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.793801"
+    },
+    {
+      "source": "theverge",
+      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devi",
+      "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+      "published": "2026-09-22T15:48:08-04:00",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:21.793832"
+    },
+    {
+      "source": "theverge",
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart",
+      "link": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "published": "2026-09-22T15:28:55-04:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "Windows",
+        "AR"
+      ],
       "category": "Mobile",
-      "crawled_at": "2026-09-22T15:54:06.658106"
+      "crawled_at": "2026-09-22T20:37:21.793871"
     },
     {
       "source": "hackernews",
-      "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
-      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/\nComments URL: https://news.ycombinator.com/item?id=49802871\nPoints: 18\n# Comments: 9",
-      "link": "https://mouse.dev/blog/muse-runtime-export/",
-      "published": "Tue, 22 Sep 2026 15:25:12 +0000",
+      "title": "The JavaScript Midlife Crisis",
+      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 6\n# Comments: 2",
+      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "published": "Tue, 22 Sep 2026 19:58:47 +0000",
       "keywords": [
-        "Meta",
+        "JavaScript",
+        "Java",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:06.972388"
+      "category": "Programming",
+      "crawled_at": "2026-09-22T20:37:23.100185"
     },
     {
       "source": "hackernews",
-      "title": "If you start writing today, there's no way to know if you can write without AI",
-      "summary": "Article URL: https://www.ssp.sh/brain/ai-writing/\nComments URL: https://news.ycombinator.com/item?id=49802619\nPoints: 7\n# Comments: 7",
-      "link": "https://www.ssp.sh/brain/ai-writing/",
-      "published": "Tue, 22 Sep 2026 15:09:45 +0000",
+      "title": "Native apps written in TypeScript and CSS",
+      "summary": "Article URL: https://github.com/geastack/examples\nComments URL: https://news.ycombinator.com/item?id=49807021\nPoints: 20\n# Comments: 1",
+      "link": "https://github.com/geastack/examples",
+      "published": "Tue, 22 Sep 2026 19:42:20 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.972416"
-    },
-    {
-      "source": "hackernews",
-      "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration\nComments URL: https://news.ycombinator.com/item?id=49802581\nPoints: 8\n# Comments: 2",
-      "link": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-      "published": "Tue, 22 Sep 2026 15:07:03 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:06.972450"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
-      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\nComments URL: https://news.ycombinator.com/item?id=49802161\nPoints: 71\n# Comments: 56",
-      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "published": "Tue, 22 Sep 2026 14:42:59 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:06.972481"
-    },
-    {
-      "source": "hackernews",
-      "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
-      "summary": "Article URL: https://github.com/Amal-David/awesome-jev\nComments URL: https://news.ycombinator.com/item?id=49802160\nPoints: 42\n# Comments: 6",
-      "link": "https://github.com/Amal-David/awesome-jev",
-      "published": "Tue, 22 Sep 2026 14:42:57 +0000",
-      "keywords": [
+        "TypeScript",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:06.972512"
+      "category": "Programming",
+      "crawled_at": "2026-09-22T20:37:23.100217"
     },
     {
-      "source": "arstechnica",
-      "title": "Protests for Germany’s car industry as job losses loom",
-      "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
-      "link": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
-      "published": "Tue, 22 Sep 2026 14:40:47 +0000",
+      "source": "hackernews",
+      "title": "Obscura: The first VPN that can't log your activity",
+      "summary": "Article URL: https://obscura.com/#faq-technical\nComments URL: https://news.ycombinator.com/item?id=49807003\nPoints: 18\n# Comments: 15",
+      "link": "https://obscura.com/#faq-technical",
+      "published": "Tue, 22 Sep 2026 19:40:28 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:07.096313"
+      "crawled_at": "2026-09-22T20:37:23.100243"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Faster Shortest Path Algorithm",
+      "summary": "Article URL: https://www.vals.ai/blogs/faster-shortest-path-algorithm\nComments URL: https://news.ycombinator.com/item?id=49806778\nPoints: 13\n# Comments: 3",
+      "link": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
+      "published": "Tue, 22 Sep 2026 19:24:58 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:23.100262"
+    },
+    {
+      "source": "hackernews",
+      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 201\n# Comments: 104",
+      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "published": "Tue, 22 Sep 2026 19:03:38 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:23.100289"
     },
     {
       "source": "arstechnica",
-      "title": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
-      "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
-      "published": "Tue, 22 Sep 2026 14:29:15 +0000",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "published": "Tue, 22 Sep 2026 19:28:23 +0000",
       "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
         "AWS"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-22T15:54:07.096342"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:23.327811"
     },
     {
       "source": "arstechnica",
-      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
-      "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
-      "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "published": "Tue, 22 Sep 2026 13:33:16 +0000",
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
+      "keywords": [
+        "AI",
+        "Android",
+        "Cloud"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:23.327836"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
+      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
+      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+      "published": "Tue, 22 Sep 2026 17:30:07 +0000",
+      "keywords": [
+        "Go",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-22T20:37:23.327861"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "published": "Tue, 22 Sep 2026 17:06:16 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:07.096361"
+      "crawled_at": "2026-09-22T20:37:23.327877"
     },
     {
       "source": "arstechnica",
-      "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
-      "summary": "\"There was absolutely a time where we were trying to make everyone happy.\"",
-      "link": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
-      "published": "Tue, 22 Sep 2026 11:00:37 +0000",
+      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+      "summary": "The English hospitals recovered patient care data only.",
+      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+      "published": "Tue, 22 Sep 2026 16:55:40 +0000",
       "keywords": [
-        "Go",
-        "REST",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-22T15:54:07.096384"
+      "category": "Tech News",
+      "crawled_at": "2026-09-22T20:37:23.327902"
     },
     {
-      "source": "arstechnica",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "published": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "source": "wired",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "published": "Tue, 22 Sep 2026 18:19:13 +0000",
       "keywords": [
         "AI",
-        "Meta",
+        "Apple",
+        "iPhone"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-22T20:37:23.611595"
+    },
+    {
+      "source": "wired",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "published": "Tue, 22 Sep 2026 16:00:00 +0000",
+      "keywords": [
+        "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:07.096400"
+      "crawled_at": "2026-09-22T20:37:23.611622"
     },
     {
       "source": "wired",
@@ -282,7 +315,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:07.235977"
+      "crawled_at": "2026-09-22T20:37:23.611646"
     },
     {
       "source": "wired",
@@ -297,7 +330,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:07.236007"
+      "crawled_at": "2026-09-22T20:37:23.611669"
     },
     {
       "source": "wired",
@@ -312,31 +345,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T15:54:07.236028"
-    },
-    {
-      "source": "wired",
-      "title": "GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam",
-      "summary": "GoPro’s first foray into the world of cinema cameras isn’t perfect, but it sure is a lot of fun to shoot with.",
-      "link": "https://www.wired.com/review/gopro-mission-1-ils-camera/",
-      "published": "Tue, 22 Sep 2026 11:30:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:07.236056"
-    },
-    {
-      "source": "wired",
-      "title": "The UK Government Faces a Reckoning Over Palantir",
-      "summary": "Andy Burnham once kept Palantir out of Greater Manchester. His first test as prime minister is whether to cut the company’s £330 million NHS contract—and risk a rupture with Big Tech and Washington.",
-      "link": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
-      "published": "Tue, 22 Sep 2026 11:00:00 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T15:54:07.236092"
+      "crawled_at": "2026-09-22T20:37:23.611687"
     }
   ]
 }
