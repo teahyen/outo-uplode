@@ -1,7 +1,34 @@
 {
-  "last_updated": "2026-09-22T20:37:23.611756",
+  "last_updated": "2026-09-23T02:17:26.448737",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:25.955630"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:25.955675"
+    },
     {
       "source": "techcrunch",
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -13,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.584483"
+      "crawled_at": "2026-09-23T02:17:25.955702"
     },
     {
       "source": "techcrunch",
@@ -26,7 +53,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-22T20:37:21.584515"
+      "crawled_at": "2026-09-23T02:17:25.955732"
     },
     {
       "source": "techcrunch",
@@ -39,32 +66,49 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.605925"
+      "crawled_at": "2026-09-23T02:17:25.955765"
     },
     {
-      "source": "techcrunch",
-      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
-      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-      "published": "Tue, 22 Sep 2026 18:40:30 +0000",
+      "source": "theverge",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI compa",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "published": "2026-09-22T20:17:17-04:00",
       "keywords": [
         "AI",
-        "Go",
-        "Hack",
+        "OpenAI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.605964"
+      "crawled_at": "2026-09-23T02:17:26.036925"
     },
     {
-      "source": "techcrunch",
-      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "published": "Tue, 22 Sep 2026 18:24:34 +0000",
-      "keywords": [],
+      "source": "theverge",
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV pro",
+      "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "published": "2026-09-22T18:26:07-04:00",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-09-22T20:37:21.605995"
+      "crawled_at": "2026-09-23T02:17:26.036984"
+    },
+    {
+      "source": "theverge",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. A",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "published": "2026-09-22T16:52:40-04:00",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Windows",
+        "Linux",
+        "Cloud"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:26.037028"
     },
     {
       "source": "theverge",
@@ -79,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.793726"
+      "crawled_at": "2026-09-23T02:17:26.037070"
     },
     {
       "source": "theverge",
@@ -94,57 +138,65 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.793769"
+      "crawled_at": "2026-09-23T02:17:26.037110"
     },
     {
-      "source": "theverge",
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will fi",
-      "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-      "published": "2026-09-22T16:00:00-04:00",
+      "source": "hackernews",
+      "title": "Augustofaces: Pareidolia Fine Art",
+      "summary": "Article URL: https://augusto.at/augustosfaces/\nComments URL: https://news.ycombinator.com/item?id=49809404\nPoints: 4\n# Comments: 0",
+      "link": "https://augusto.at/augustosfaces/",
+      "published": "Tue, 22 Sep 2026 22:52:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-23T02:17:26.152941"
+    },
+    {
+      "source": "hackernews",
+      "title": "The current balance of power in open models",
+      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 40\n# Comments: 12",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "published": "Tue, 22 Sep 2026 22:03:46 +0000",
       "keywords": [
         "AI",
-        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.793801"
+      "crawled_at": "2026-09-23T02:17:26.152979"
     },
     {
-      "source": "theverge",
-      "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-      "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devi",
-      "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-      "published": "2026-09-22T15:48:08-04:00",
+      "source": "hackernews",
+      "title": "The UV index is not the warm sensation of sunlight on bare skin",
+      "summary": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\nComments URL: https://news.ycombinator.com/item?id=49808109\nPoints: 63\n# Comments: 57",
+      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "published": "Tue, 22 Sep 2026 21:06:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-23T02:17:26.153019"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Ru",
+      "link": "https://foxscript.org/",
+      "published": "Tue, 22 Sep 2026 21:00:30 +0000",
       "keywords": [
         "AI",
-        "Apple",
-        "iPhone",
+        "Rust",
+        "Go",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:21.793832"
-    },
-    {
-      "source": "theverge",
-      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
-      "summary": "The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart",
-      "link": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
-      "published": "2026-09-22T15:28:55-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "Windows",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-22T20:37:21.793871"
+      "crawled_at": "2026-09-23T02:17:26.153071"
     },
     {
       "source": "hackernews",
       "title": "The JavaScript Midlife Crisis",
-      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 6\n# Comments: 2",
+      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 42\n# Comments: 27",
       "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
       "published": "Tue, 22 Sep 2026 19:58:47 +0000",
       "keywords": [
@@ -153,62 +205,59 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-09-22T20:37:23.100185"
+      "crawled_at": "2026-09-23T02:17:26.153098"
     },
     {
-      "source": "hackernews",
-      "title": "Native apps written in TypeScript and CSS",
-      "summary": "Article URL: https://github.com/geastack/examples\nComments URL: https://news.ycombinator.com/item?id=49807021\nPoints: 20\n# Comments: 1",
-      "link": "https://github.com/geastack/examples",
-      "published": "Tue, 22 Sep 2026 19:42:20 +0000",
+      "source": "arstechnica",
+      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "published": "Tue, 22 Sep 2026 21:42:14 +0000",
       "keywords": [
-        "TypeScript",
-        "Git",
-        "GitHub",
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:26.250268"
+    },
+    {
+      "source": "arstechnica",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "published": "Tue, 22 Sep 2026 21:25:18 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-09-22T20:37:23.100217"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:26.250299"
     },
     {
-      "source": "hackernews",
-      "title": "Obscura: The first VPN that can't log your activity",
-      "summary": "Article URL: https://obscura.com/#faq-technical\nComments URL: https://news.ycombinator.com/item?id=49807003\nPoints: 18\n# Comments: 15",
-      "link": "https://obscura.com/#faq-technical",
-      "published": "Tue, 22 Sep 2026 19:40:28 +0000",
+      "source": "arstechnica",
+      "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "published": "Tue, 22 Sep 2026 20:38:30 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-22T20:37:23.100243"
+      "crawled_at": "2026-09-23T02:17:26.250329"
     },
     {
-      "source": "hackernews",
-      "title": "A Faster Shortest Path Algorithm",
-      "summary": "Article URL: https://www.vals.ai/blogs/faster-shortest-path-algorithm\nComments URL: https://news.ycombinator.com/item?id=49806778\nPoints: 13\n# Comments: 3",
-      "link": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-      "published": "Tue, 22 Sep 2026 19:24:58 +0000",
+      "source": "arstechnica",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "AR"
+        "Microsoft"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.100262"
-    },
-    {
-      "source": "hackernews",
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 201\n# Comments: 104",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "published": "Tue, 22 Sep 2026 19:03:38 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.100289"
+      "crawled_at": "2026-09-23T02:17:26.250352"
     },
     {
       "source": "arstechnica",
@@ -224,58 +273,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.327811"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "published": "Tue, 22 Sep 2026 19:08:58 +0000",
-      "keywords": [
-        "AI",
-        "Android",
-        "Cloud"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.327836"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "published": "Tue, 22 Sep 2026 17:30:07 +0000",
-      "keywords": [
-        "Go",
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T20:37:23.327861"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "published": "Tue, 22 Sep 2026 17:06:16 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.327877"
-    },
-    {
-      "source": "arstechnica",
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "summary": "The English hospitals recovered patient care data only.",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "published": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-22T20:37:23.327902"
+      "crawled_at": "2026-09-23T02:17:26.250381"
     },
     {
       "source": "wired",
@@ -289,7 +287,7 @@
         "iPhone"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.611595"
+      "crawled_at": "2026-09-23T02:17:26.448529"
     },
     {
       "source": "wired",
@@ -302,20 +300,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.611622"
-    },
-    {
-      "source": "wired",
-      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-      "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.611646"
+      "crawled_at": "2026-09-23T02:17:26.448563"
     },
     {
       "source": "wired",
@@ -330,7 +315,20 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.611669"
+      "crawled_at": "2026-09-23T02:17:26.448595"
+    },
+    {
+      "source": "wired",
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-23T02:17:26.448625"
     },
     {
       "source": "wired",
@@ -345,7 +343,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-22T20:37:23.611687"
+      "crawled_at": "2026-09-23T02:17:26.448649"
     }
   ]
 }
