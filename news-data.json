@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T02:04:28.922859",
+  "last_updated": "2026-09-24T10:41:55.610650",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.056116"
+      "crawled_at": "2026-09-24T10:41:53.871793"
     },
     {
       "source": "techcrunch",
@@ -30,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.056143"
+      "crawled_at": "2026-09-24T10:41:53.871826"
     },
     {
       "source": "techcrunch",
@@ -44,7 +44,7 @@
         "VR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.056164"
+      "crawled_at": "2026-09-24T10:41:53.871853"
     },
     {
       "source": "techcrunch",
@@ -57,7 +57,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.056181"
+      "crawled_at": "2026-09-24T10:41:53.871875"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,22 @@
       "published": "Wed, 23 Sep 2026 23:33:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:27.056206"
+      "crawled_at": "2026-09-24T10:41:53.871906"
+    },
+    {
+      "source": "theverge",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently i",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "published": "2026-09-24T05:04:18-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-24T10:41:53.952363"
     },
     {
       "source": "theverge",
@@ -81,7 +96,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.173333"
+      "crawled_at": "2026-09-24T10:41:53.952434"
     },
     {
       "source": "theverge",
@@ -96,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.173370"
+      "crawled_at": "2026-09-24T10:41:53.952471"
     },
     {
       "source": "theverge",
@@ -111,7 +126,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.173405"
+      "crawled_at": "2026-09-24T10:41:53.952512"
     },
     {
       "source": "theverge",
@@ -124,89 +139,72 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:27.173440"
+      "crawled_at": "2026-09-24T10:41:53.952553"
     },
     {
-      "source": "theverge",
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encomp",
-      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "published": "2026-09-23T19:37:17-04:00",
+      "source": "hackernews",
+      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+      "summary": "Article URL: https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/\nComments URL: https://news.ycombinator.com/item?id=49828409\nPoints: 10\n# Comments: 0",
+      "link": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+      "published": "Thu, 24 Sep 2026 09:52:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-24T10:41:55.405411"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nokia Design Archive",
+      "summary": "Article URL: https://nokiadesignarchive.aalto.fi/index.html\nComments URL: https://news.ycombinator.com/item?id=49828385\nPoints: 34\n# Comments: 12",
+      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "published": "Thu, 24 Sep 2026 09:49:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-24T10:41:55.405455"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI has no intent and no motivation",
+      "summary": "Article URL: https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html\nComments URL: https://news.ycombinator.com/item?id=49828133\nPoints: 26\n# Comments: 29",
+      "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "published": "Thu, 24 Sep 2026 09:13:25 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-24T10:41:55.405487"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints: 131\n# Comments: 58",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "published": "Thu, 24 Sep 2026 08:23:03 +0000",
       "keywords": [
         "AI",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:27.173468"
+      "crawled_at": "2026-09-24T10:41:55.405519"
     },
     {
       "source": "hackernews",
-      "title": "FLAWED's Flaws and What This Means for Industry Research",
-      "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 8\n# Comments: 1",
-      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-      "published": "Thu, 24 Sep 2026 01:16:33 +0000",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "summary": "Article URL: https://transluce.org/agent-activity\nComments URL: https://news.ycombinator.com/item?id=49826565\nPoints: 139\n# Comments: 103",
+      "link": "https://transluce.org/agent-activity",
+      "published": "Thu, 24 Sep 2026 05:21:10 +0000",
       "keywords": [
         "AI",
-        "AWS",
         "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.703811"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 7\n# Comments: 2",
-      "link": "https://carbon.ms/self-hosted",
-      "published": "Thu, 24 Sep 2026 00:45:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.703845"
-    },
-    {
-      "source": "hackernews",
-      "title": "Meta VR Glasses",
-      "summary": "Article URL: https://www.meta.com/vr-glasses/\nComments URL: https://news.ycombinator.com/item?id=49824268\nPoints: 212\n# Comments: 169",
-      "link": "https://www.meta.com/vr-glasses/",
-      "published": "Wed, 23 Sep 2026 23:47:56 +0000",
-      "keywords": [
-        "Meta",
-        "VR",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.703870"
-    },
-    {
-      "source": "hackernews",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\nComments URL: https://news.ycombinator.com/item?id=49823664\nPoints: 56\n# Comments: 8",
-      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "published": "Wed, 23 Sep 2026 22:45:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-09-24T02:04:28.703901"
-    },
-    {
-      "source": "hackernews",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 144\n# Comments: 66",
-      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "published": "Wed, 23 Sep 2026 22:38:16 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Linux",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.703924"
+      "crawled_at": "2026-09-24T10:41:55.405547"
     },
     {
       "source": "arstechnica",
@@ -219,7 +217,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.784936"
+      "crawled_at": "2026-09-24T10:41:55.504624"
     },
     {
       "source": "arstechnica",
@@ -232,7 +230,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-09-24T02:04:28.784966"
+      "crawled_at": "2026-09-24T10:41:55.504656"
     },
     {
       "source": "arstechnica",
@@ -244,7 +242,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.784995"
+      "crawled_at": "2026-09-24T10:41:55.504679"
     },
     {
       "source": "arstechnica",
@@ -254,7 +252,7 @@
       "published": "Wed, 23 Sep 2026 21:06:07 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.785017"
+      "crawled_at": "2026-09-24T10:41:55.504706"
     },
     {
       "source": "arstechnica",
@@ -267,71 +265,66 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.785045"
+      "crawled_at": "2026-09-24T10:41:55.504734"
     },
     {
       "source": "wired",
-      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
-      "summary": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
-      "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-      "published": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "title": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
+      "summary": "A growing body of research is putting the ovary in a new light, not as an egg factory with an expiration date, but as an organ that shapes women’s health long after the fertile years have passed.",
+      "link": "https://www.wired.com/story/ovary-activity-after-menopause/",
+      "published": "Thu, 24 Sep 2026 10:30:00 +0000",
       "keywords": [
-        "Meta",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.922675"
+      "crawled_at": "2026-09-24T10:41:55.610431"
     },
     {
       "source": "wired",
-      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
-      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-      "published": "Wed, 23 Sep 2026 23:42:44 +0000",
+      "title": "Why This Weekend’s Nor’easter Is Like a Hurricane",
+      "summary": "Nor’easters are usually a winter phenomenon. But this week’s storm is arriving earlier than usual, and it could take on some characteristics more typical of tropical systems.",
+      "link": "https://www.wired.com/story/this-weeks-noreaster-forecast/",
+      "published": "Thu, 24 Sep 2026 10:15:00 +0000",
       "keywords": [
-        "Meta",
-        "VR",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.922720"
+      "crawled_at": "2026-09-24T10:41:55.610482"
     },
     {
       "source": "wired",
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
-      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
-      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "published": "Wed, 23 Sep 2026 21:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Security",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.922742"
-    },
-    {
-      "source": "wired",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "published": "Wed, 23 Sep 2026 18:30:00 +0000",
+      "title": "Why No One Wants to Date Tech Bros",
+      "summary": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.",
+      "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
+      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-24T02:04:28.922761"
+      "crawled_at": "2026-09-24T10:41:55.610513"
     },
     {
       "source": "wired",
-      "title": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
-      "summary": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
-      "link": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
-      "published": "Wed, 23 Sep 2026 18:15:00 +0000",
+      "title": "The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)",
+      "summary": "One of the best things to buy during (or leading up to) sales events is expensive home gadgets. These Roborock robot vacuums are already on markdown.",
+      "link": "https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/",
+      "published": "Thu, 24 Sep 2026 09:32:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-24T10:41:55.610547"
+    },
+    {
+      "source": "wired",
+      "title": "Venus May Have Devoured Its Moon",
+      "summary": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten.",
+      "link": "https://www.wired.com/story/venus-may-have-devoured-its-moon/",
+      "published": "Thu, 24 Sep 2026 09:15:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-24T02:04:28.922789"
+      "crawled_at": "2026-09-24T10:41:55.610577"
     }
   ]
 }
