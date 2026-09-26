@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T02:25:59.187606",
+  "last_updated": "2026-09-26T10:28:03.253865",
   "news_count": 25,
   "news": [
     {
@@ -14,12 +14,12 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.397995"
+      "crawled_at": "2026-09-26T10:28:00.512192"
     },
     {
       "source": "techcrunch",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "published": "Fri, 25 Sep 2026 23:11:10 +0000",
       "keywords": [
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.398024"
+      "crawled_at": "2026-09-26T10:28:00.512227"
     },
     {
       "source": "techcrunch",
@@ -40,7 +40,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.398045"
+      "crawled_at": "2026-09-26T10:28:00.512254"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.398071"
+      "crawled_at": "2026-09-26T10:28:00.512286"
     },
     {
       "source": "techcrunch",
@@ -68,7 +68,21 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.398093"
+      "crawled_at": "2026-09-26T10:28:00.512313"
+    },
+    {
+      "source": "theverge",
+      "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+      "summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessor",
+      "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+      "published": "2026-09-26T03:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T10:28:00.563354"
     },
     {
       "source": "theverge",
@@ -81,7 +95,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.503445"
+      "crawled_at": "2026-09-26T10:28:00.563407"
     },
     {
       "source": "theverge",
@@ -94,7 +108,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.503497"
+      "crawled_at": "2026-09-26T10:28:00.563460"
     },
     {
       "source": "theverge",
@@ -109,7 +123,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.503531"
+      "crawled_at": "2026-09-26T10:28:00.563500"
     },
     {
       "source": "theverge",
@@ -124,84 +138,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.503559"
+      "crawled_at": "2026-09-26T10:28:00.563533"
     },
     {
-      "source": "theverge",
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, i",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "published": "2026-09-25T12:49:53-04:00",
+      "source": "hackernews",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705\nComments URL: https://news.ycombinator.com/item?id=49854875\nPoints: 24\n# Comments: 11",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "published": "Sat, 26 Sep 2026 09:41:58 +0000",
       "keywords": [
-        "AI",
-        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.503585"
+      "crawled_at": "2026-09-26T10:28:03.049177"
     },
     {
       "source": "hackernews",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 28\n# Comments: 3",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "published": "Sat, 26 Sep 2026 01:36:50 +0000",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story\nComments URL: https://news.ycombinator.com/item?id=49854693\nPoints: 3\n# Comments: 0",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "published": "Sat, 26 Sep 2026 09:13:41 +0000",
       "keywords": [
+        "Apple",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.967553"
-    },
-    {
-      "source": "hackernews",
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\nComments URL: https://news.ycombinator.com/item?id=49852065\nPoints: 41\n# Comments: 13",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "published": "Sat, 26 Sep 2026 00:59:02 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:58.967588"
-    },
-    {
-      "source": "hackernews",
-      "title": "TiddlyInstall: A universal, reusable, install system",
-      "summary": "Article URL: https://robertsdotpm.github.io/_static/tiddlyinstall.html\nComments URL: https://news.ycombinator.com/item?id=49851879\nPoints: 2\n# Comments: 0",
-      "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-      "published": "Sat, 26 Sep 2026 00:29:48 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.967618"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: A game about fake news and memes",
-      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news.I would appreciate your honest feedback since I'm serious about making it way better.\n\nComments URL: https://news.ycombinator.com/item?id=49851776\nPoints: 8\n# Comments: 3",
-      "link": "https://unspin.app/",
-      "published": "Sat, 26 Sep 2026 00:11:33 +0000",
-      "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-09-26T02:25:58.967651"
+      "crawled_at": "2026-09-26T10:28:03.049221"
     },
     {
       "source": "hackernews",
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\nComments URL: https://news.ycombinator.com/item?id=49850781\nPoints: 10\n# Comments: 0",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "published": "Fri, 25 Sep 2026 22:28:02 +0000",
+      "title": "Floci: Locally emulating any cloud service",
+      "summary": "Article URL: https://floci.io\nComments URL: https://news.ycombinator.com/item?id=49854416\nPoints: 7\n# Comments: 1",
+      "link": "https://floci.io",
+      "published": "Sat, 26 Sep 2026 08:31:02 +0000",
+      "keywords": [
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-09-26T10:28:03.049249"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is your Postgres migration safe or not safe?",
+      "summary": "Article URL: https://safenotsafe.dev/\nComments URL: https://news.ycombinator.com/item?id=49854161\nPoints: 24\n# Comments: 8",
+      "link": "https://safenotsafe.dev/",
+      "published": "Sat, 26 Sep 2026 07:33:12 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:58.967681"
+      "crawled_at": "2026-09-26T10:28:03.049282"
+    },
+    {
+      "source": "hackernews",
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol\nComments URL: https://news.ycombinator.com/item?id=49853918\nPoints: 25\n# Comments: 19",
+      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "published": "Sat, 26 Sep 2026 06:51:12 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-26T10:28:03.049318"
     },
     {
       "source": "arstechnica",
@@ -211,11 +210,11 @@
       "published": "Fri, 25 Sep 2026 23:00:26 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:59.058254"
+      "crawled_at": "2026-09-26T10:28:03.145230"
     },
     {
       "source": "arstechnica",
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
       "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
       "published": "Fri, 25 Sep 2026 21:36:20 +0000",
@@ -223,10 +222,11 @@
         "AI",
         "Anthropic",
         "Claude",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.058279"
+      "crawled_at": "2026-09-26T10:28:03.145262"
     },
     {
       "source": "arstechnica",
@@ -239,7 +239,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.058297"
+      "crawled_at": "2026-09-26T10:28:03.145287"
     },
     {
       "source": "arstechnica",
@@ -253,7 +253,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-26T02:25:59.058324"
+      "crawled_at": "2026-09-26T10:28:03.145322"
     },
     {
       "source": "arstechnica",
@@ -267,7 +267,44 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-26T02:25:59.058346"
+      "crawled_at": "2026-09-26T10:28:03.145349"
+    },
+    {
+      "source": "wired",
+      "title": "This Browser Extension Lets You Snooze Open Tabs Until Later",
+      "summary": "The free add-on Tuck brings one of the best features of modern email—the ability to hide something for a bit—to that tangle of tabs in your browser.",
+      "link": "https://www.wired.com/story/tuck-browser-extension-lets-you-snooze-open-tabs-until-later/",
+      "published": "Sat, 26 Sep 2026 10:00:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T10:28:03.253627"
+    },
+    {
+      "source": "wired",
+      "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
+      "summary": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
+      "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
+      "published": "Sat, 26 Sep 2026 09:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-26T10:28:03.253671"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
+      "published": "Sat, 26 Sep 2026 09:05:00 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-26T10:28:03.253710"
     },
     {
       "source": "wired",
@@ -280,7 +317,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.187433"
+      "crawled_at": "2026-09-26T10:28:03.253745"
     },
     {
       "source": "wired",
@@ -293,48 +330,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.187459"
-    },
-    {
-      "source": "wired",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "published": "Fri, 25 Sep 2026 16:58:20 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.187479"
-    },
-    {
-      "source": "wired",
-      "title": "War Bros Didn’t Always Rule Silicon Valley",
-      "summary": "Some say that tech was always about the money and the military. Don’t buy that argument.",
-      "link": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
-      "published": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T02:25:59.187504"
-    },
-    {
-      "source": "wired",
-      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
-      "summary": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”",
-      "link": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/",
-      "published": "Fri, 25 Sep 2026 11:32:17 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T02:25:59.187532"
+      "crawled_at": "2026-09-26T10:28:03.253768"
     }
   ]
 }
