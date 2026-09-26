@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-26T10:28:03.253865",
+  "last_updated": "2026-09-26T15:18:50.677401",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:49.653455"
+    },
     {
       "source": "techcrunch",
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -14,7 +28,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:00.512192"
+      "crawled_at": "2026-09-26T15:18:49.653491"
     },
     {
       "source": "techcrunch",
@@ -27,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.512227"
+      "crawled_at": "2026-09-26T15:18:49.653512"
     },
     {
       "source": "techcrunch",
@@ -40,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.512254"
+      "crawled_at": "2026-09-26T15:18:49.653530"
     },
     {
       "source": "techcrunch",
@@ -54,21 +68,46 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.512286"
+      "crawled_at": "2026-09-26T15:18:49.653551"
     },
     {
-      "source": "techcrunch",
-      "title": "Meta opens early access program for new Muse features",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "published": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "source": "theverge",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "published": "2026-09-26T10:00:00-04:00",
       "keywords": [
-        "REST",
-        "Meta",
+        "AI",
+        "Go",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:49.746555"
+    },
+    {
+      "source": "theverge",
+      "title": "Control Resonant is a great game — it’s even better when you read everything",
+      "summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the game's",
+      "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+      "published": "2026-09-26T09:00:00-04:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:49.746595"
+    },
+    {
+      "source": "theverge",
+      "title": "Pokémon card resellers have turned collecting into an online blood sport",
+      "summary": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not",
+      "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+      "published": "2026-09-26T08:00:00-04:00",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:00.512313"
+      "crawled_at": "2026-09-26T15:18:49.746639"
     },
     {
       "source": "theverge",
@@ -82,7 +121,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.563354"
+      "crawled_at": "2026-09-26T15:18:49.746663"
     },
     {
       "source": "theverge",
@@ -95,112 +134,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:00.563407"
+      "crawled_at": "2026-09-26T15:18:49.746697"
     },
     {
-      "source": "theverge",
-      "title": "Phones don’t have lights",
-      "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones d",
-      "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-      "published": "2026-09-25T13:42:59-04:00",
+      "source": "hackernews",
+      "title": "A Roman Name for Software",
+      "summary": "Article URL: https://marcosmagueta.com/blog/a-roman-name-for-software/\nComments URL: https://news.ycombinator.com/item?id=49857173\nPoints: 4\n# Comments: 0",
+      "link": "https://marcosmagueta.com/blog/a-roman-name-for-software/",
+      "published": "Sat, 26 Sep 2026 14:53:32 +0000",
       "keywords": [
-        "Meta",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:00.563460"
+      "crawled_at": "2026-09-26T15:18:50.270814"
     },
     {
-      "source": "theverge",
-      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris it",
-      "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-      "published": "2026-09-25T13:23:30-04:00",
+      "source": "hackernews",
+      "title": "Earth is tearing apart beneath the Pacific Northwest",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260924231343.htm\nComments URL: https://news.ycombinator.com/item?id=49856971\nPoints: 14\n# Comments: 1",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+      "published": "Sat, 26 Sep 2026 14:33:11 +0000",
       "keywords": [
         "AI",
-        "iPhone",
-        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.563500"
+      "crawled_at": "2026-09-26T15:18:50.270841"
     },
     {
-      "source": "theverge",
-      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy",
-      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-      "published": "2026-09-25T13:01:36-04:00",
+      "source": "hackernews",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior\nComments URL: https://news.ycombinator.com/item?id=49856149\nPoints: 49\n# Comments: 46",
+      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "published": "Sat, 26 Sep 2026 13:05:36 +0000",
       "keywords": [
         "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:50.270864"
+    },
+    {
+      "source": "hackernews",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/\nComments URL: https://news.ycombinator.com/item?id=49855315\nPoints: 316\n# Comments: 123",
+      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "published": "Sat, 26 Sep 2026 10:55:56 +0000",
+      "keywords": [
         "Go",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:00.563533"
-    },
-    {
-      "source": "hackernews",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705\nComments URL: https://news.ycombinator.com/item?id=49854875\nPoints: 24\n# Comments: 11",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "published": "Sat, 26 Sep 2026 09:41:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.049177"
-    },
-    {
-      "source": "hackernews",
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story\nComments URL: https://news.ycombinator.com/item?id=49854693\nPoints: 3\n# Comments: 0",
-      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "published": "Sat, 26 Sep 2026 09:13:41 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-26T10:28:03.049221"
-    },
-    {
-      "source": "hackernews",
-      "title": "Floci: Locally emulating any cloud service",
-      "summary": "Article URL: https://floci.io\nComments URL: https://news.ycombinator.com/item?id=49854416\nPoints: 7\n# Comments: 1",
-      "link": "https://floci.io",
-      "published": "Sat, 26 Sep 2026 08:31:02 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-26T10:28:03.049249"
-    },
-    {
-      "source": "hackernews",
-      "title": "Is your Postgres migration safe or not safe?",
-      "summary": "Article URL: https://safenotsafe.dev/\nComments URL: https://news.ycombinator.com/item?id=49854161\nPoints: 24\n# Comments: 8",
-      "link": "https://safenotsafe.dev/",
-      "published": "Sat, 26 Sep 2026 07:33:12 +0000",
-      "keywords": [
+        "Google",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:03.049282"
+      "crawled_at": "2026-09-26T15:18:50.270889"
     },
     {
       "source": "hackernews",
-      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol\nComments URL: https://news.ycombinator.com/item?id=49853918\nPoints: 25\n# Comments: 19",
-      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-      "published": "Sat, 26 Sep 2026 06:51:12 +0000",
+      "title": "One Month Without AI",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html\nComments URL: https://news.ycombinator.com/item?id=49855018\nPoints: 134\n# Comments: 134",
+      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "published": "Sat, 26 Sep 2026 10:08:21 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:03.049318"
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:50.270906"
     },
     {
       "source": "arstechnica",
@@ -210,7 +210,7 @@
       "published": "Fri, 25 Sep 2026 23:00:26 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:03.145230"
+      "crawled_at": "2026-09-26T15:18:50.549014"
     },
     {
       "source": "arstechnica",
@@ -226,7 +226,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.145262"
+      "crawled_at": "2026-09-26T15:18:50.549037"
     },
     {
       "source": "arstechnica",
@@ -239,7 +239,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.145287"
+      "crawled_at": "2026-09-26T15:18:50.549053"
     },
     {
       "source": "arstechnica",
@@ -253,7 +253,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-26T10:28:03.145322"
+      "crawled_at": "2026-09-26T15:18:50.549079"
     },
     {
       "source": "arstechnica",
@@ -267,7 +267,57 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-26T10:28:03.145349"
+      "crawled_at": "2026-09-26T15:18:50.549099"
+    },
+    {
+      "source": "wired",
+      "title": "Old-School Credit Card Scams Are Far From Dead",
+      "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+      "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+      "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:50.677248"
+    },
+    {
+      "source": "wired",
+      "title": "12 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)",
+      "summary": "Bring the gift everyone will want to win from this year’s holiday party, from a cute jacket for a beer can to magnets they’ll wish they could eat.",
+      "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2026/",
+      "published": "Sat, 26 Sep 2026 11:36:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-09-26T15:18:50.677284"
+    },
+    {
+      "source": "wired",
+      "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+      "summary": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
+      "link": "https://www.wired.com/story/best-mesh-wifi-routers/",
+      "published": "Sat, 26 Sep 2026 11:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-26T15:18:50.677309"
+    },
+    {
+      "source": "wired",
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+      "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "published": "Sat, 26 Sep 2026 10:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-26T15:18:50.677329"
     },
     {
       "source": "wired",
@@ -279,58 +329,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.253627"
-    },
-    {
-      "source": "wired",
-      "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
-      "summary": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
-      "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
-      "published": "Sat, 26 Sep 2026 09:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:03.253671"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
-      "published": "Sat, 26 Sep 2026 09:05:00 +0000",
-      "keywords": [
-        "Amazon",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-26T10:28:03.253710"
-    },
-    {
-      "source": "wired",
-      "title": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
-      "summary": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
-      "link": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
-      "published": "Sat, 26 Sep 2026 00:02:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.253745"
-    },
-    {
-      "source": "wired",
-      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "summary": "They wanted the silicon. They got the sand.",
-      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-      "published": "Fri, 25 Sep 2026 20:30:40 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-26T10:28:03.253768"
+      "crawled_at": "2026-09-26T15:18:50.677349"
     }
   ]
 }
