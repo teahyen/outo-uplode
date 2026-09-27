@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-09-27T15:57:35.185122",
+  "last_updated": "2026-09-27T20:33:43.685980",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Rust",
+        "Meta"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-27T20:33:42.823100"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-27T20:33:42.823132"
+    },
+    {
+      "source": "techcrunch",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "published": "Sun, 27 Sep 2026 16:02:00 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-27T20:33:42.823154"
+    },
     {
       "source": "techcrunch",
       "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
@@ -12,7 +54,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.332133"
+      "crawled_at": "2026-09-27T20:33:42.823182"
     },
     {
       "source": "techcrunch",
@@ -28,45 +70,23 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.332461"
+      "crawled_at": "2026-09-27T20:33:42.823217"
     },
     {
-      "source": "techcrunch",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
+      "source": "theverge",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government s",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "published": "2026-09-27T13:21:07-04:00",
       "keywords": [
         "AI",
+        "OpenAI",
         "Go",
-        "Google",
-        "AR"
+        "Security",
+        "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.332501"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.332528"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "published": "Sat, 26 Sep 2026 20:24:45 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.332565"
+      "crawled_at": "2026-09-27T20:33:42.964919"
     },
     {
       "source": "theverge",
@@ -76,7 +96,7 @@
       "published": "2026-09-27T08:25:00-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.514301"
+      "crawled_at": "2026-09-27T20:33:42.964986"
     },
     {
       "source": "theverge",
@@ -89,7 +109,7 @@
         "Google"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-27T15:57:34.514349"
+      "crawled_at": "2026-09-27T20:33:42.965021"
     },
     {
       "source": "theverge",
@@ -102,7 +122,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-09-27T15:57:34.514395"
+      "crawled_at": "2026-09-27T20:33:42.965057"
     },
     {
       "source": "theverge",
@@ -117,81 +137,67 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-09-27T15:57:34.514433"
-    },
-    {
-      "source": "theverge",
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and",
-      "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "published": "2026-09-26T15:30:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.514476"
+      "crawled_at": "2026-09-27T20:33:42.965087"
     },
     {
       "source": "hackernews",
-      "title": "postmarketOS Rebrand: Nura",
-      "summary": "Article URL: https://nura.eco/blog/2026/09/27/nura-rename/\nComments URL: https://news.ycombinator.com/item?id=49867553\nPoints: 5\n# Comments: 0",
-      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "published": "Sun, 27 Sep 2026 15:31:15 +0000",
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\nComments URL: https://news.ycombinator.com/item?id=49870070\nPoints: 10\n# Comments: 5",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "published": "Sun, 27 Sep 2026 19:37:05 +0000",
+      "keywords": [
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-09-27T20:33:43.449927"
+    },
+    {
+      "source": "hackernews",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "summary": "https://hex.pm/packages/imphttps://dspy.ai/current/\n\nComments URL: https://news.ycombinator.com/item?id=49869995\nPoints: 10\n# Comments: 4",
+      "link": "https://github.com/deepfates/imp",
+      "published": "Sun, 27 Sep 2026 19:28:23 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-09-27T20:33:43.449973"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "summary": "Article URL: https://loficities.com/\nComments URL: https://news.ycombinator.com/item?id=49869574\nPoints: 62\n# Comments: 16",
+      "link": "https://loficities.com/",
+      "published": "Sun, 27 Sep 2026 18:44:30 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.867354"
+      "crawled_at": "2026-09-27T20:33:43.450010"
     },
     {
       "source": "hackernews",
-      "title": "The Normalization of Inexplicable Failures",
-      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\nComments URL: https://news.ycombinator.com/item?id=49867486\nPoints: 3\n# Comments: 0",
-      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "published": "Sun, 27 Sep 2026 15:26:40 +0000",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "summary": "https://en.wikipedia.org/wiki/John_Chowning\n\nComments URL: https://news.ycombinator.com/item?id=49869142\nPoints: 17\n# Comments: 3",
+      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "published": "Sun, 27 Sep 2026 18:02:43 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-09-27T20:33:43.450038"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ember-1",
+      "summary": "Article URL: https://fireworks.ai/blog/ember-1\nComments URL: https://news.ycombinator.com/item?id=49868830\nPoints: 179\n# Comments: 99",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "published": "Sun, 27 Sep 2026 17:31:53 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.867391"
-    },
-    {
-      "source": "hackernews",
-      "title": "\"They had no concept of a duty of care to their users.\"",
-      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/\nComments URL: https://news.ycombinator.com/item?id=49867067\nPoints: 104\n# Comments: 65",
-      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "published": "Sun, 27 Sep 2026 14:45:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.867432"
-    },
-    {
-      "source": "hackernews",
-      "title": "10 Tells of a Slop UI",
-      "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop\nComments URL: https://news.ycombinator.com/item?id=49867038\nPoints: 132\n# Comments: 96",
-      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-      "published": "Sun, 27 Sep 2026 14:41:26 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-09-27T15:57:34.867464"
-    },
-    {
-      "source": "hackernews",
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 45\n# Comments: 14",
-      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "published": "Sun, 27 Sep 2026 14:30:55 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.867501"
+      "crawled_at": "2026-09-27T20:33:43.450057"
     },
     {
       "source": "arstechnica",
@@ -203,7 +209,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.998416"
+      "crawled_at": "2026-09-27T20:33:43.542871"
     },
     {
       "source": "arstechnica",
@@ -216,7 +222,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.998456"
+      "crawled_at": "2026-09-27T20:33:43.542905"
     },
     {
       "source": "arstechnica",
@@ -226,7 +232,7 @@
       "published": "Fri, 25 Sep 2026 23:00:26 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:34.998486"
+      "crawled_at": "2026-09-27T20:33:43.542928"
     },
     {
       "source": "arstechnica",
@@ -242,7 +248,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.998510"
+      "crawled_at": "2026-09-27T20:33:43.542947"
     },
     {
       "source": "arstechnica",
@@ -255,7 +261,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:34.998531"
+      "crawled_at": "2026-09-27T20:33:43.542982"
     },
     {
       "source": "wired",
@@ -267,7 +273,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:35.184877"
+      "crawled_at": "2026-09-27T20:33:43.685791"
     },
     {
       "source": "wired",
@@ -279,7 +285,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-09-27T15:57:35.184947"
+      "crawled_at": "2026-09-27T20:33:43.685832"
     },
     {
       "source": "wired",
@@ -293,7 +299,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-09-27T15:57:35.184981"
+      "crawled_at": "2026-09-27T20:33:43.685857"
     },
     {
       "source": "wired",
@@ -306,7 +312,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:35.185015"
+      "crawled_at": "2026-09-27T20:33:43.685884"
     },
     {
       "source": "wired",
@@ -319,7 +325,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-09-27T15:57:35.185047"
+      "crawled_at": "2026-09-27T20:33:43.685909"
     }
   ]
 }
