@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T03:00:21.160172",
+  "last_updated": "2026-10-02T11:31:38.663033",
   "news_count": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "published": "Fri, 02 Oct 2026 00:57:57 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.328084"
+      "crawled_at": "2026-10-02T11:31:34.827318"
     },
     {
       "source": "techcrunch",
@@ -23,7 +23,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.328471"
+      "crawled_at": "2026-10-02T11:31:34.827562"
     },
     {
       "source": "techcrunch",
@@ -36,7 +36,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-02T03:00:20.328516"
+      "crawled_at": "2026-10-02T11:31:34.827585"
     },
     {
       "source": "techcrunch",
@@ -51,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.328551"
+      "crawled_at": "2026-10-02T11:31:34.827606"
     },
     {
       "source": "techcrunch",
@@ -63,7 +63,19 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.328583"
+      "crawled_at": "2026-10-02T11:31:34.827626"
+    },
+    {
+      "source": "theverge",
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "published": "2026-10-02T05:42:19-04:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-02T11:31:34.934542"
     },
     {
       "source": "theverge",
@@ -78,7 +90,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.467936"
+      "crawled_at": "2026-10-02T11:31:34.934587"
     },
     {
       "source": "theverge",
@@ -94,7 +106,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.468029"
+      "crawled_at": "2026-10-02T11:31:34.934616"
     },
     {
       "source": "theverge",
@@ -108,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.468071"
+      "crawled_at": "2026-10-02T11:31:34.934641"
     },
     {
       "source": "theverge",
@@ -121,86 +133,72 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.468109"
+      "crawled_at": "2026-10-02T11:31:34.934667"
     },
     {
-      "source": "theverge",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side ",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "published": "2026-10-01T13:12:21-04:00",
+      "source": "hackernews",
+      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+      "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl\nComments URL: https://news.ycombinator.com/item?id=49932048\nPoints: 15\n# Comments: 11",
+      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+      "published": "Fri, 02 Oct 2026 10:50:08 +0000",
       "keywords": [
-        "AI",
-        "Rust",
         "Go",
-        "AWS",
-        "Google"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.468148"
+      "category": "Tech News",
+      "crawled_at": "2026-10-02T11:31:38.494783"
     },
     {
       "source": "hackernews",
-      "title": "Butterflies use optical illusions to dodge predators",
-      "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 18\n# Comments: 3",
-      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "published": "Thu, 01 Oct 2026 23:15:24 +0000",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 24\n# Comments: 6",
+      "link": "https://github.com/kvoltmer/Audionaut",
+      "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-02T11:31:38.494829"
+    },
+    {
+      "source": "hackernews",
+      "title": "Shimano Bicycle Museum Review",
+      "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 133\n# Comments: 22",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "published": "Fri, 02 Oct 2026 05:12:58 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.726710"
+      "crawled_at": "2026-10-02T11:31:38.494853"
     },
     {
       "source": "hackernews",
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 133\n# Comments: 72",
-      "link": "https://lwn.net/Articles/1097401/",
-      "published": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 255\n# Comments: 122",
+      "link": "https://www.deepseek.com/en/harness/",
+      "published": "Fri, 02 Oct 2026 03:11:20 +0000",
       "keywords": [
-        "Linux",
+        "Windows",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.726756"
+      "crawled_at": "2026-10-02T11:31:38.494877"
     },
     {
       "source": "hackernews",
-      "title": "2026 International Utility Locate Rodeo",
-      "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 16\n# Comments: 3",
-      "link": "https://locaterodeo.net/",
-      "published": "Thu, 01 Oct 2026 22:33:23 +0000",
+      "title": "How Singapore's government-run dating service works",
+      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 184\n# Comments: 160",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "published": "Fri, 02 Oct 2026 01:56:52 +0000",
       "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.726790"
-    },
-    {
-      "source": "hackernews",
-      "title": "Frog and Toad and the Increasingly Capable Machines",
-      "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 30\n# Comments: 5",
-      "link": "https://www.frogandtoad.ai/",
-      "published": "Thu, 01 Oct 2026 22:23:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.726816"
-    },
-    {
-      "source": "hackernews",
-      "title": "Aweb – Communication for AI Agents",
-      "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 27\n# Comments: 16",
-      "link": "https://aweb.ai",
-      "published": "Thu, 01 Oct 2026 22:02:31 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.726847"
+      "crawled_at": "2026-10-02T11:31:38.494904"
     },
     {
       "source": "arstechnica",
@@ -210,7 +208,7 @@
       "published": "Thu, 01 Oct 2026 22:27:04 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.894057"
+      "crawled_at": "2026-10-02T11:31:38.552476"
     },
     {
       "source": "arstechnica",
@@ -220,7 +218,7 @@
       "published": "Thu, 01 Oct 2026 22:07:33 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.894094"
+      "crawled_at": "2026-10-02T11:31:38.552504"
     },
     {
       "source": "arstechnica",
@@ -235,7 +233,7 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-02T03:00:20.894121"
+      "crawled_at": "2026-10-02T11:31:38.552533"
     },
     {
       "source": "arstechnica",
@@ -251,7 +249,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:20.894145"
+      "crawled_at": "2026-10-02T11:31:38.552549"
     },
     {
       "source": "arstechnica",
@@ -263,69 +261,74 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:20.894173"
+      "crawled_at": "2026-10-02T11:31:38.552568"
     },
     {
       "source": "wired",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "published": "Thu, 01 Oct 2026 22:10:42 +0000",
+      "title": "Your Driverless Cab Is Spying on You",
+      "summary": "Self-driving cars from Waymo, Zoox, and Tesla are studded with cameras and sensors. Some of them are pointing at riders.",
+      "link": "https://www.wired.com/story/when-the-robotaxis-are-watching-you/",
+      "published": "Fri, 02 Oct 2026 10:30:00 +0000",
       "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:21.159900"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/",
-      "published": "Thu, 01 Oct 2026 20:53:32 +0000",
-      "keywords": [
-        "Amazon",
+        "Tesla",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:21.159965"
+      "crawled_at": "2026-10-02T11:31:38.662862"
     },
     {
       "source": "wired",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "published": "Thu, 01 Oct 2026 19:58:31 +0000",
+      "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
+      "summary": "Dozens and dozens of high profile MAGA influencers and pundits have weighed in. “The laughable fake polls are rolling out,” Catturd posted on X.",
+      "link": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
+      "published": "Fri, 02 Oct 2026 10:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-02T11:31:38.662903"
+    },
+    {
+      "source": "wired",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "published": "Fri, 02 Oct 2026 09:45:00 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "ChatGPT",
+        "GPT",
+        "Hack",
+        "Vulnerability"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T03:00:21.160005"
+      "crawled_at": "2026-10-02T11:31:38.662927"
     },
     {
       "source": "wired",
-      "title": "Experience What It’s Like to Travel in the Occupied West Bank",
-      "summary": "Traverse barriers and checkpoints in the occupied West Bank—your choices reflect the reality of nearly 3.5 million Palestinians who live there.",
-      "link": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
-      "published": "Thu, 01 Oct 2026 18:00:00 +0000",
+      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "published": "Fri, 02 Oct 2026 09:30:00 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-02T11:31:38.662951"
+    },
+    {
+      "source": "wired",
+      "title": "31 Best STEM Toys for Kids (2026): Learning Made Fun",
+      "summary": "We found lots of math-filled and science-rich toys for tiny nerds to assemble, bake, squish—or even tear apart and rebuild.",
+      "link": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
+      "published": "Fri, 02 Oct 2026 09:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:21.160045"
-    },
-    {
-      "source": "wired",
-      "title": "Tim Heidecker Is Bringing His Joe Rogan Parody Show to The Onion",
-      "summary": "Five years after the comedian went viral with a 12-hour blabberthon mocking the king of bro podcasting, he’s back in character to shill a supplement called “Crab Salts.”",
-      "link": "https://www.wired.com/story/tim-heidecker-is-bringing-his-joe-rogan-parody-show-to-the-onion/",
-      "published": "Thu, 01 Oct 2026 16:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-02T03:00:21.160087"
+      "crawled_at": "2026-10-02T11:31:38.662975"
     }
   ]
 }
