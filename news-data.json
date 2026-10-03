@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-10-02T21:32:42.217912",
+  "last_updated": "2026-10-03T02:46:28.266877",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "keywords": [
+        "Meta"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-03T02:46:27.119399"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "summary": "The proposed legislation would extend to all automotica license plate readers.",
+      "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+      "published": "Sat, 03 Oct 2026 00:21:57 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-03T02:46:27.119438"
+    },
     {
       "source": "techcrunch",
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -13,7 +37,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.284960"
+      "crawled_at": "2026-10-03T02:46:27.119465"
     },
     {
       "source": "techcrunch",
@@ -23,7 +47,7 @@
       "published": "Fri, 02 Oct 2026 19:15:51 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T21:32:41.285021"
+      "crawled_at": "2026-10-03T02:46:27.119510"
     },
     {
       "source": "techcrunch",
@@ -37,35 +61,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.285065"
-    },
-    {
-      "source": "techcrunch",
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
-      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "published": "Fri, 02 Oct 2026 17:48:16 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "Meta"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.285123"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "published": "Fri, 02 Oct 2026 17:32:05 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.285164"
+      "crawled_at": "2026-10-03T02:46:27.119548"
     },
     {
       "source": "theverge",
@@ -78,7 +74,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.409789"
+      "crawled_at": "2026-10-03T02:46:27.247081"
     },
     {
       "source": "theverge",
@@ -92,7 +88,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.409836"
+      "crawled_at": "2026-10-03T02:46:27.247122"
     },
     {
       "source": "theverge",
@@ -106,7 +102,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.409883"
+      "crawled_at": "2026-10-03T02:46:27.247166"
     },
     {
       "source": "theverge",
@@ -118,7 +114,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-02T21:32:41.409915"
+      "crawled_at": "2026-10-03T02:46:27.247198"
     },
     {
       "source": "theverge",
@@ -133,73 +129,98 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.409956"
+      "crawled_at": "2026-10-03T02:46:27.247237"
     },
     {
       "source": "hackernews",
-      "title": "Zig v0.17.0",
-      "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 38\n# Comments: 4",
-      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "published": "Fri, 02 Oct 2026 20:56:36 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-02T21:32:41.902842"
-    },
-    {
-      "source": "hackernews",
-      "title": "Everyone's Packing Up",
-      "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 22\n# Comments: 5",
-      "link": "https://widdershins.verja.net/everyones-packing-up/",
-      "published": "Fri, 02 Oct 2026 20:13:04 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-02T21:32:41.902888"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together in",
-      "link": "https://github.com/anteloc/ldraw-nova",
-      "published": "Fri, 02 Oct 2026 20:00:15 +0000",
+      "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
+      "summary": "Article URL: https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821\nComments URL: https://news.ycombinator.com/item?id=49940505\nPoints: 44\n# Comments: 32",
+      "link": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
+      "published": "Sat, 03 Oct 2026 01:15:15 +0000",
       "keywords": [
         "AI",
-        "ChatGPT",
-        "GPT",
-        "OpenAI",
-        "Claude"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.902975"
+      "crawled_at": "2026-10-03T02:46:27.910430"
     },
     {
       "source": "hackernews",
-      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-      "summary": "Article URL: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\nComments URL: https://news.ycombinator.com/item?id=49937718\nPoints: 63\n# Comments: 15",
-      "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-      "published": "Fri, 02 Oct 2026 19:45:06 +0000",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 15\n# Comments: 9",
+      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "published": "Sat, 03 Oct 2026 01:09:01 +0000",
       "keywords": [
-        "Android",
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-03T02:46:27.910467"
+    },
+    {
+      "source": "hackernews",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 17\n# Comments: 0",
+      "link": "https://www.newgrounds.com/",
+      "published": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-03T02:46:27.910512"
+    },
+    {
+      "source": "hackernews",
+      "title": "Where Is the Planet",
+      "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 9\n# Comments: 0",
+      "link": "http://whereistheplanet.com",
+      "published": "Sat, 03 Oct 2026 00:26:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-03T02:46:27.910544"
+    },
+    {
+      "source": "hackernews",
+      "title": "Things That Apparently Cause Cancer",
+      "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 85\n# Comments: 33",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "published": "Sat, 03 Oct 2026 00:23:11 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-02T21:32:41.903016"
+      "crawled_at": "2026-10-03T02:46:27.910578"
     },
     {
-      "source": "hackernews",
-      "title": "Muse Gadgets",
-      "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 34\n# Comments: 23",
-      "link": "https://gadgets.muse.ai",
-      "published": "Fri, 02 Oct 2026 19:26:54 +0000",
+      "source": "arstechnica",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Apple",
+        "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:41.903040"
+      "crawled_at": "2026-10-03T02:46:28.093905"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Someone got Doom in an SQL database",
+      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "published": "Fri, 02 Oct 2026 21:19:05 +0000",
+      "keywords": [
+        "Go",
+        "Database",
+        "SQL"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-03T02:46:28.093937"
     },
     {
       "source": "arstechnica",
@@ -213,7 +234,7 @@
         "Amazon"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.061137"
+      "crawled_at": "2026-10-03T02:46:28.093967"
     },
     {
       "source": "arstechnica",
@@ -226,7 +247,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.061173"
+      "crawled_at": "2026-10-03T02:46:28.093993"
     },
     {
       "source": "arstechnica",
@@ -239,33 +260,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-02T21:32:42.061200"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The 2008 economic crisis changed the US's relationship with energy",
-      "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
-      "link": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
-      "published": "Fri, 02 Oct 2026 18:56:21 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-02T21:32:42.061231"
-    },
-    {
-      "source": "arstechnica",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "published": "Fri, 02 Oct 2026 18:39:36 +0000",
-      "keywords": [
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-10-02T21:32:42.061278"
+      "crawled_at": "2026-10-03T02:46:28.094015"
     },
     {
       "source": "wired",
@@ -278,12 +273,12 @@
         "Database"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.217664"
+      "crawled_at": "2026-10-03T02:46:28.266661"
     },
     {
       "source": "wired",
       "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
-      "summary": "A collaborative Instagram post between footwear line HEYDUDE and a University of Florida frat is sparking backlash due to sexual cyberharassment allegations against two former members.",
+      "summary": "A collaborative Instagram post between footwear line HeyDude and a University of Florida frat is sparking backlash due to sexual cyber-harassment allegations against two former members.",
       "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/",
       "published": "Fri, 02 Oct 2026 18:19:53 +0000",
       "keywords": [
@@ -291,7 +286,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.217718"
+      "crawled_at": "2026-10-03T02:46:28.266706"
     },
     {
       "source": "wired",
@@ -301,7 +296,7 @@
       "published": "Fri, 02 Oct 2026 16:37:32 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-02T21:32:42.217763"
+      "crawled_at": "2026-10-03T02:46:28.266750"
     },
     {
       "source": "wired",
@@ -314,12 +309,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.217788"
+      "crawled_at": "2026-10-03T02:46:28.266777"
     },
     {
       "source": "wired",
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
       "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
       "published": "Fri, 02 Oct 2026 15:00:00 +0000",
       "keywords": [
@@ -327,7 +322,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-02T21:32:42.217818"
+      "crawled_at": "2026-10-03T02:46:28.266805"
     }
   ]
 }
