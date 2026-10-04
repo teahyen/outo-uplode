@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-10-04T16:08:11.085942",
+  "last_updated": "2026-10-04T20:36:43.519941",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-04T20:36:42.803423"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-04T20:36:42.803460"
+    },
     {
       "source": "techcrunch",
       "title": "TechCrunch Mobility: Reining in robotaxis",
@@ -12,7 +38,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.295378"
+      "crawled_at": "2026-10-04T20:36:42.803486"
     },
     {
       "source": "techcrunch",
@@ -24,7 +50,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.295413"
+      "crawled_at": "2026-10-04T20:36:42.803508"
     },
     {
       "source": "techcrunch",
@@ -36,34 +62,46 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-04T16:07:02.295467"
+      "crawled_at": "2026-10-04T20:36:42.803554"
     },
     {
-      "source": "techcrunch",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "source": "theverge",
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled ",
+      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "published": "2026-10-04T16:00:00-04:00",
       "keywords": [
-        "AI",
-        "Amazon"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.295493"
+      "category": "Tech News",
+      "crawled_at": "2026-10-04T20:36:42.996603"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "source": "theverge",
+      "title": "The best early October Prime Day deals happening now",
+      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "published": "2026-10-04T13:18:00-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-04T20:36:42.996664"
+    },
+    {
+      "source": "theverge",
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "published": "2026-10-04T12:16:04-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.295526"
+      "crawled_at": "2026-10-04T20:36:42.996708"
     },
     {
       "source": "theverge",
@@ -79,7 +117,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.381640"
+      "crawled_at": "2026-10-04T20:36:42.996752"
     },
     {
       "source": "theverge",
@@ -91,118 +129,88 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-04T16:07:02.381714"
+      "crawled_at": "2026-10-04T20:36:42.996807"
     },
     {
-      "source": "theverge",
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;",
-      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-      "published": "2026-10-04T09:00:00-04:00",
+      "source": "hackernews",
+      "title": "Homa: The End of TCP for AI Clusters [video]",
+      "summary": "Related: https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item?id=49957117\nPoints: 7\n# Comments: 0",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
       "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.381753"
+      "crawled_at": "2026-10-04T20:36:43.243465"
     },
     {
-      "source": "theverge",
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. T",
-      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-      "published": "2026-10-04T08:34:01-04:00",
+      "source": "hackernews",
+      "title": "Remove and Disable Apple Macos27 AI Models Tool",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 28\n# Comments: 8",
+      "link": "https://github.com/omlahore/RemoveMacAI",
+      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
       "keywords": [
         "AI",
         "Apple",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.381793"
-    },
-    {
-      "source": "theverge",
-      "title": "The iPad Mini is slightly cheaper again during Prime Day",
-      "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, t",
-      "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-      "published": "2026-10-04T08:31:50-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Apple",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:07:02.381850"
-    },
-    {
-      "source": "hackernews",
-      "title": "Car is a smartphone on wheels. Here's who's listening",
-      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/\nComments URL: https://news.ycombinator.com/item?id=49954882\nPoints: 28\n# Comments: 7",
-      "link": "https://automatictransmission.khoury.northeastern.edu/",
-      "published": "Sun, 04 Oct 2026 15:43:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:10.855424"
-    },
-    {
-      "source": "hackernews",
-      "title": "RuneScape's Position on Gen AI",
-      "summary": "Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/\nComments URL: https://news.ycombinator.com/item?id=49954745\nPoints: 9\n# Comments: 3",
-      "link": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
-      "published": "Sun, 04 Oct 2026 15:29:14 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:08:10.855463"
-    },
-    {
-      "source": "hackernews",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 232\n# Comments: 114",
-      "link": "https://github.com/Niko1221/Strata",
-      "published": "Sun, 04 Oct 2026 12:51:53 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-10-04T16:08:10.855499"
-    },
-    {
-      "source": "hackernews",
-      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-      "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\nComments URL: https://news.ycombinator.com/item?id=49953116\nPoints: 75\n# Comments: 33",
-      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-      "published": "Sun, 04 Oct 2026 11:58:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:10.855537"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 56\n# Comments: 36",
-      "link": "https://github.com/allenv0/SCM",
-      "published": "Sun, 04 Oct 2026 09:24:52 +0000",
-      "keywords": [
-        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:08:10.855564"
+      "crawled_at": "2026-10-04T20:36:43.243502"
+    },
+    {
+      "source": "hackernews",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoints: 29\n# Comments: 8",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "published": "Sun, 04 Oct 2026 19:37:05 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-04T20:36:43.243546"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc.The lab runs with Pyodide in a web worker, and",
+      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "published": "Sun, 04 Oct 2026 18:59:25 +0000",
+      "keywords": [
+        "Python",
+        "Go",
+        "AWS",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-04T20:36:43.243636"
+    },
+    {
+      "source": "hackernews",
+      "title": "Incentives in Academic Research",
+      "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 7\n# Comments: 2",
+      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "published": "Sun, 04 Oct 2026 17:42:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-04T20:36:43.243671"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+      "published": "Sun, 04 Oct 2026 15:34:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-04T20:36:43.349932"
     },
     {
       "source": "arstechnica",
@@ -216,7 +224,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:08:10.989450"
+      "crawled_at": "2026-10-04T20:36:43.349973"
     },
     {
       "source": "arstechnica",
@@ -226,7 +234,7 @@
       "published": "Sat, 03 Oct 2026 19:45:17 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:10.989488"
+      "crawled_at": "2026-10-04T20:36:43.350000"
     },
     {
       "source": "arstechnica",
@@ -238,7 +246,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-10-04T16:08:10.989520"
+      "crawled_at": "2026-10-04T20:36:43.350030"
     },
     {
       "source": "arstechnica",
@@ -252,21 +260,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:08:10.989544"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Someone got Doom in an SQL database",
-      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-      "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "published": "Fri, 02 Oct 2026 21:19:05 +0000",
-      "keywords": [
-        "Go",
-        "Database",
-        "SQL"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-04T16:08:10.989569"
+      "crawled_at": "2026-10-04T20:36:43.350053"
     },
     {
       "source": "wired",
@@ -278,7 +272,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-04T16:08:11.085605"
+      "crawled_at": "2026-10-04T20:36:43.519720"
     },
     {
       "source": "wired",
@@ -290,7 +284,20 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:11.085646"
+      "crawled_at": "2026-10-04T20:36:43.519760"
+    },
+    {
+      "source": "wired",
+      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
+      "published": "Sun, 04 Oct 2026 10:30:00 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-04T20:36:43.519797"
     },
     {
       "source": "wired",
@@ -304,20 +311,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-04T16:08:11.085677"
-    },
-    {
-      "source": "wired",
-      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-      "published": "Sun, 04 Oct 2026 10:30:00 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:11.085714"
+      "crawled_at": "2026-10-04T20:36:43.519827"
     },
     {
       "source": "wired",
@@ -329,7 +323,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-04T16:08:11.085755"
+      "crawled_at": "2026-10-04T20:36:43.519867"
     }
   ]
 }
