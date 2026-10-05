@@ -1,267 +1,303 @@
 {
-  "last_updated": "2026-10-05T12:56:21.150277",
+  "last_updated": "2026-10-05T23:26:46.698806",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "published": "Mon, 05 Oct 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Git"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:19.921796"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:19.921834"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:19.921863"
-    },
-    {
-      "source": "techcrunch",
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-      "published": "Sun, 04 Oct 2026 16:05:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:19.921887"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "published": "Sun, 04 Oct 2026 15:15:10 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:19.921909"
-    },
-    {
-      "source": "theverge",
-      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
-      "summary": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's",
-      "link": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
-      "published": "2026-10-05T08:02:41-04:00",
-      "keywords": [
-        "iPhone",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-05T12:56:20.599612"
-    },
-    {
-      "source": "theverge",
-      "title": "Google admits not every Android app runs great on Intel Googlebooks",
-      "summary": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some cl",
-      "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
-      "published": "2026-10-05T06:58:22-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:20.599662"
-    },
-    {
-      "source": "theverge",
-      "title": "Our minds aren’t equipped to handle AI",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "published": "2026-10-05T06:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:20.599703"
-    },
-    {
-      "source": "theverge",
-      "title": "The new Fitbit Edge leaks",
-      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Wat",
-      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "published": "2026-10-04T17:02:09-04:00",
-      "keywords": [
-        "Go",
-        "Google",
-        "Android",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-05T12:56:20.599741"
-    },
-    {
-      "source": "theverge",
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled ",
-      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-      "published": "2026-10-04T16:00:00-04:00",
+      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+      "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+      "published": "Mon, 05 Oct 2026 21:54:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:20.599795"
+      "crawled_at": "2026-10-05T23:26:46.026220"
     },
     {
-      "source": "hackernews",
-      "title": "The Era of Software Quality, or the Era of Ostriches?",
-      "summary": "Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/\nComments URL: https://news.ycombinator.com/item?id=49964018\nPoints: 3\n# Comments: 0",
-      "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-      "published": "Mon, 05 Oct 2026 12:33:15 +0000",
+      "source": "techcrunch",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
       "keywords": [
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:20.863708"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.026257"
     },
     {
-      "source": "hackernews",
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49963366\nPoints: 118\n# Comments: 60",
-      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "published": "Mon, 05 Oct 2026 11:13:51 +0000",
+      "source": "techcrunch",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "published": "Mon, 05 Oct 2026 20:24:09 +0000",
       "keywords": [
+        "AI",
+        "Startup",
         "Funding",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-10-05T12:56:20.863754"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.026279"
     },
     {
-      "source": "hackernews",
-      "title": "Web Search API",
-      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171\nPoints: 90\n# Comments: 45",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "published": "Mon, 05 Oct 2026 10:47:06 +0000",
-      "keywords": [
-        "API",
-        "Cloud",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-05T12:56:20.863785"
-    },
-    {
-      "source": "hackernews",
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 39\n# Comments: 10",
-      "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "published": "Mon, 05 Oct 2026 10:35:59 +0000",
-      "keywords": [
-        "AR"
-      ],
+      "source": "techcrunch",
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "published": "Mon, 05 Oct 2026 19:38:07 +0000",
+      "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:20.863823"
+      "crawled_at": "2026-10-05T23:26:46.026309"
     },
     {
-      "source": "hackernews",
-      "title": "Apple and a Hacker's Future",
-      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 75\n# Comments: 45",
-      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "published": "Mon, 05 Oct 2026 10:05:02 +0000",
-      "keywords": [
-        "Hack",
-        "Apple",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-10-05T12:56:20.863852"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-      "summary": "Ars Technica's guide to new keyboard sensing technologies.",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-      "published": "Mon, 05 Oct 2026 11:00:41 +0000",
+      "source": "techcrunch",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:21.028091"
+      "crawled_at": "2026-10-05T23:26:46.026341"
     },
     {
-      "source": "arstechnica",
-      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-      "published": "Mon, 05 Oct 2026 04:00:52 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:21.028121"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-      "summary": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-      "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-      "published": "Sun, 04 Oct 2026 15:34:14 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.028155"
-    },
-    {
-      "source": "arstechnica",
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-      "published": "Sun, 04 Oct 2026 11:05:53 +0000",
+      "source": "theverge",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "published": "2026-10-05T19:09:55-04:00",
       "keywords": [
         "AI",
         "Go",
+        "Google",
+        "Android",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:21.028186"
+      "crawled_at": "2026-10-05T23:26:46.158910"
+    },
+    {
+      "source": "theverge",
+      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+      "summary": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboar",
+      "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+      "published": "2026-10-05T17:17:45-04:00",
+      "keywords": [
+        "Hack",
+        "VR",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-05T23:26:46.158959"
+    },
+    {
+      "source": "theverge",
+      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock mod",
+      "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "published": "2026-10-05T17:15:05-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.158986"
+    },
+    {
+      "source": "theverge",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "published": "2026-10-05T16:14:57-04:00",
+      "keywords": [
+        "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.159011"
+    },
+    {
+      "source": "theverge",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "published": "2026-10-05T15:28:59-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.159045"
+    },
+    {
+      "source": "hackernews",
+      "title": "Worth Building",
+      "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 9\n# Comments: 0",
+      "link": "https://armstr.ng/writing/worth-building",
+      "published": "Mon, 05 Oct 2026 22:59:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.422909"
+    },
+    {
+      "source": "hackernews",
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 17\n# Comments: 8",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "published": "Mon, 05 Oct 2026 22:55:11 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.422970"
+    },
+    {
+      "source": "hackernews",
+      "title": "Food Atlas: Connections behind the dishes we love",
+      "summary": "Article URL: https://knowledgeartist.org/pages/food-atlas\nComments URL: https://news.ycombinator.com/item?id=49971895\nPoints: 3\n# Comments: 0",
+      "link": "https://knowledgeartist.org/pages/food-atlas",
+      "published": "Mon, 05 Oct 2026 22:51:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.422998"
+    },
+    {
+      "source": "hackernews",
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\nComments URL: https://news.ycombinator.com/item?id=49971523\nPoints: 27\n# Comments: 0",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "published": "Mon, 05 Oct 2026 22:05:57 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.423029"
+    },
+    {
+      "source": "hackernews",
+      "title": "Graphical UI",
+      "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 6\n# Comments: 0",
+      "link": "https://www.graphicalui.com/",
+      "published": "Mon, 05 Oct 2026 21:51:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.423055"
     },
     {
       "source": "arstechnica",
-      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-      "summary": "\"...we were making history.\"",
-      "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-      "published": "Sat, 03 Oct 2026 19:45:17 +0000",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "published": "Mon, 05 Oct 2026 22:26:35 +0000",
+      "keywords": [
+        "Rust",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-05T23:26:46.531724"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+      "published": "Mon, 05 Oct 2026 20:47:48 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.028212"
+      "crawled_at": "2026-10-05T23:26:46.531759"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+      "published": "Mon, 05 Oct 2026 20:31:12 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.531779"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "summary": "The tool can free up over 12GB of storage.",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "published": "Mon, 05 Oct 2026 19:14:44 +0000",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-05T23:26:46.531798"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Controlling the brain with light earns a physiology Nobel",
+      "summary": "The entire field of optogenetics traces back to light-seeking algae.",
+      "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+      "published": "Mon, 05 Oct 2026 17:59:27 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.531814"
+    },
+    {
+      "source": "wired",
+      "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
+      "summary": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
+      "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
+      "published": "Mon, 05 Oct 2026 19:58:38 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-05T23:26:46.698608"
+    },
+    {
+      "source": "wired",
+      "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
+      "summary": "Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed.",
+      "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
+      "published": "Mon, 05 Oct 2026 18:15:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.698655"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
+      "summary": "Amazon Prime Big Deal Days officially begin tomorrow, but I’ve already spotted early discounts on gear our team recommends.",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
+      "published": "Mon, 05 Oct 2026 17:36:00 +0000",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-05T23:26:46.698687"
     },
     {
       "source": "wired",
@@ -273,7 +309,7 @@
         "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.150049"
+      "crawled_at": "2026-10-05T23:26:46.698711"
     },
     {
       "source": "wired",
@@ -285,44 +321,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.150085"
-    },
-    {
-      "source": "wired",
-      "title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
-      "summary": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy watch train running.",
-      "link": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-      "published": "Mon, 05 Oct 2026 10:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-05T12:56:21.150119"
-    },
-    {
-      "source": "wired",
-      "title": "A Prediction Market About the Past? Sure, Why Not!",
-      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "link": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-      "published": "Mon, 05 Oct 2026 09:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.150160"
-    },
-    {
-      "source": "wired",
-      "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
-      "summary": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
-      "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
-      "published": "Mon, 05 Oct 2026 09:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-05T12:56:21.150200"
+      "crawled_at": "2026-10-05T23:26:46.698732"
     }
   ]
 }
