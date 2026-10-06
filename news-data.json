@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-06T03:43:21.168013",
+  "last_updated": "2026-10-06T12:22:29.302280",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "summary": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+      "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "published": "Tue, 06 Oct 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-06T12:22:27.428021"
+    },
     {
       "source": "techcrunch",
       "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
@@ -12,7 +25,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:16.309724"
+      "crawled_at": "2026-10-06T12:22:27.428281"
     },
     {
       "source": "techcrunch",
@@ -28,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.309781"
+      "crawled_at": "2026-10-06T12:22:27.428319"
     },
     {
       "source": "techcrunch",
@@ -43,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.309817"
+      "crawled_at": "2026-10-06T12:22:27.428343"
     },
     {
       "source": "techcrunch",
@@ -53,157 +66,133 @@
       "published": "Mon, 05 Oct 2026 19:38:07 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:16.309855"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.309899"
+      "crawled_at": "2026-10-06T12:22:27.428399"
     },
     {
       "source": "theverge",
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "published": "2026-10-05T19:09:55-04:00",
+      "title": "The planetary wave headed for California isn’t what you think it is",
+      "summary": "A rather strong \"planetary wave\" recently slammed into South America and is making its way toward California. In case you're worried about headlines warning of the supposedly \"freak\" phenomenon \"bringing trouble,\" it's worth understanding what this wave really is and isn't. Called a Kelvin wave, it'",
+      "link": "https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin",
+      "published": "2026-10-06T08:00:00-04:00",
       "keywords": [
-        "AI",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-06T12:22:27.557560"
+    },
+    {
+      "source": "theverge",
+      "title": "The Pixel 11 Pro and Pro XL phones are $250 off",
+      "summary": "During Amazon’s October sale, the Pixel 11 Pro and Pixel 11 Pro XL are discounted by $250 or more. The base model Pixel 11 Pro with 256GB of storage is only $849 (originally $1,099), $50 lower than the usual price for the base Pixel 11, while the 256GB 11 Pro XL is $999, a $300 [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+      "published": "2026-10-06T07:30:00-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:27.557609"
+    },
+    {
+      "source": "theverge",
+      "title": "The Verge&#8217;s guide to the best October Prime Day deals",
+      "summary": "Amazon’s Prime Big Deal Days (also known as October Prime Day) is here, serving as a precursor to Black Friday and Cyber Monday. There are a ton of good deals, and bundling them all into this package is the easiest way to keep the blast of upcoming coverage under control. Below, you’ll find every de",
+      "link": "https://www.theverge.com/tech/1004783/october-prime-day-deals-guide",
+      "published": "2026-10-06T07:01:52-04:00",
+      "keywords": [
         "Go",
-        "Google",
-        "Android",
+        "Amazon",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.452105"
+      "category": "Security",
+      "crawled_at": "2026-10-06T12:22:27.557648"
     },
     {
       "source": "theverge",
-      "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-      "summary": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboar",
-      "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
-      "published": "2026-10-05T17:17:45-04:00",
+      "title": "The best October Prime Day tech deals we found",
+      "summary": "Amazon’s Prime Big Deal Days event has begun, and it lasts through 3AM ET on Thursday, October 8th. We’ve spun through the company’s huge list of deals to find products that Verge readers will like (and that we personally like, too). Prime subscribers can get in on plenty of headphone deals, plus so",
+      "link": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+      "published": "2026-10-06T06:55:05-04:00",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:27.557689"
+    },
+    {
+      "source": "theverge",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what ",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "published": "2026-10-06T06:53:11-04:00",
+      "keywords": [
+        "Amazon",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-06T12:22:27.557729"
+    },
+    {
+      "source": "hackernews",
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "summary": "Article URL: https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/\nComments URL: https://news.ycombinator.com/item?id=49976993\nPoints: 4\n# Comments: 1",
+      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "published": "Tue, 06 Oct 2026 11:34:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:29.073824"
+    },
+    {
+      "source": "hackernews",
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o\nComments URL: https://news.ycombinator.com/item?id=49976468\nPoints: 32\n# Comments: 12",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "published": "Tue, 06 Oct 2026 10:15:40 +0000",
       "keywords": [
         "Hack",
-        "VR",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-06T03:43:16.452167"
-    },
-    {
-      "source": "theverge",
-      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
-      "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock mod",
-      "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
-      "published": "2026-10-05T17:15:05-04:00",
-      "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.452204"
-    },
-    {
-      "source": "theverge",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "published": "2026-10-05T16:14:57-04:00",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.452237"
-    },
-    {
-      "source": "theverge",
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "published": "2026-10-05T15:28:59-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:16.452282"
+      "category": "Security",
+      "crawled_at": "2026-10-06T12:22:29.073862"
     },
     {
       "source": "hackernews",
-      "title": "Photopea creator weighs in on Photosuite project",
-      "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 31\n# Comments: 15",
-      "link": "https://github.com/eolix/photosuite/issues/77",
-      "published": "Tue, 06 Oct 2026 00:41:44 +0000",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/\nComments URL: https://news.ycombinator.com/item?id=49976265\nPoints: 162\n# Comments: 41",
+      "link": "https://www.nobelprize.org/prizes/physics/2026/",
+      "published": "Tue, 06 Oct 2026 09:48:46 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.829468"
-    },
-    {
-      "source": "hackernews",
-      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-      "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?id=49972607\nPoints: 53\n# Comments: 29",
-      "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-      "published": "Tue, 06 Oct 2026 00:24:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.829518"
-    },
-    {
-      "source": "hackernews",
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 44\n# Comments: 30",
-      "link": "https://edworkingpapers.com/ai26-1551",
-      "published": "Tue, 06 Oct 2026 00:00:45 +0000",
-      "keywords": [
-        "AI",
         "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:20.829576"
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:29.073890"
     },
     {
       "source": "hackernews",
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 26\n# Comments: 7",
-      "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "published": "Mon, 05 Oct 2026 23:35:35 +0000",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "summary": "Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/\nComments URL: https://news.ycombinator.com/item?id=49975619\nPoints: 64\n# Comments: 8",
+      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "published": "Tue, 06 Oct 2026 08:08:20 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.829614"
+      "crawled_at": "2026-10-06T12:22:29.073920"
     },
     {
       "source": "hackernews",
-      "title": "Ephemeral Testing",
-      "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 37\n# Comments: 13",
-      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "published": "Mon, 05 Oct 2026 23:06:36 +0000",
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878\nPoints: 65\n# Comments: 14",
+      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "published": "Tue, 06 Oct 2026 03:39:01 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.829646"
+      "crawled_at": "2026-10-06T12:22:29.073951"
     },
     {
       "source": "arstechnica",
@@ -216,7 +205,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-06T03:43:20.965684"
+      "crawled_at": "2026-10-06T12:22:29.193998"
     },
     {
       "source": "arstechnica",
@@ -226,7 +215,7 @@
       "published": "Mon, 05 Oct 2026 20:47:48 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.965724"
+      "crawled_at": "2026-10-06T12:22:29.194030"
     },
     {
       "source": "arstechnica",
@@ -238,7 +227,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:20.965752"
+      "crawled_at": "2026-10-06T12:22:29.194052"
     },
     {
       "source": "arstechnica",
@@ -250,7 +239,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-06T03:43:20.965779"
+      "crawled_at": "2026-10-06T12:22:29.194071"
     },
     {
       "source": "arstechnica",
@@ -263,69 +252,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:20.965800"
+      "crawled_at": "2026-10-06T12:22:29.194088"
     },
     {
       "source": "wired",
-      "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
-      "summary": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
-      "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
-      "published": "Mon, 05 Oct 2026 19:58:38 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-06T03:43:21.167642"
-    },
-    {
-      "source": "wired",
-      "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
-      "summary": "Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed.",
-      "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
-      "published": "Mon, 05 Oct 2026 18:15:16 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:21.167697"
-    },
-    {
-      "source": "wired",
-      "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
-      "summary": "Amazon Prime Big Deal Days officially begin tomorrow, but I’ve already spotted early discounts on gear our team recommends.",
-      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
-      "published": "Mon, 05 Oct 2026 17:36:00 +0000",
+      "title": "94 Best Prime Day Deals We’re Shopping This October (2026)",
+      "summary": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
+      "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 11:48:23 +0000",
       "keywords": [
         "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:21.167739"
+      "crawled_at": "2026-10-06T12:22:29.302087"
     },
     {
       "source": "wired",
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published": "Mon, 05 Oct 2026 11:00:00 +0000",
-      "keywords": [
-        "Gaming"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:21.167773"
-    },
-    {
-      "source": "wired",
-      "title": "Withings BodyScan 2 Review: Worth Its Weight",
-      "summary": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-      "link": "https://www.wired.com/review/withings-bodyscan-2/",
-      "published": "Mon, 05 Oct 2026 10:36:00 +0000",
+      "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
+      "summary": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
+      "link": "https://www.wired.com/review/gamercard/",
+      "published": "Tue, 06 Oct 2026 11:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-06T03:43:21.167804"
+      "crawled_at": "2026-10-06T12:22:29.302123"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026)",
+      "summary": "Some gadgets don’t live up to their promises. These automatic feeders, litter boxes, fountains, and cameras earned my recommendation.",
+      "link": "https://www.wired.com/story/amazon-prime-day-pet-deals-10-6-2026/",
+      "published": "Tue, 06 Oct 2026 10:48:45 +0000",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-06T12:22:29.302149"
+    },
+    {
+      "source": "wired",
+      "title": "Our Go-To Over-Ear Headphones Are at Their Lowest Price for Prime Day",
+      "summary": "The Nothing Headphone (1) is one of my favorites for its stylish design, tactile on-ear controls, and fun sound. It’s over $100 off for Prime Day.",
+      "link": "https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/",
+      "published": "Tue, 06 Oct 2026 10:43:57 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:29.302182"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Power Station Is 30 Percent Off for Prime Day",
+      "summary": "The Bluetti Elite 300, my favorite portable power station, is on sale, and it’s perfect if you want to go off-grid or have a backup at home.",
+      "link": "https://www.wired.com/story/bluetti-elite-300-prime-day-deal-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 10:41:31 +0000",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-06T12:22:29.302211"
     }
   ]
 }
