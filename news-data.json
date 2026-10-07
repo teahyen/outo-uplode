@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-07T03:10:36.060088",
+  "last_updated": "2026-10-07T12:15:06.667436",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "published": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:14:56.099962"
+    },
     {
       "source": "techcrunch",
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
@@ -12,7 +25,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.310267"
+      "crawled_at": "2026-10-07T12:14:56.100261"
     },
     {
       "source": "techcrunch",
@@ -25,7 +38,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-07T03:10:35.310316"
+      "crawled_at": "2026-10-07T12:14:56.100302"
     },
     {
       "source": "techcrunch",
@@ -38,7 +51,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.310367"
+      "crawled_at": "2026-10-07T12:14:56.100332"
     },
     {
       "source": "techcrunch",
@@ -50,117 +63,130 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.310404"
-    },
-    {
-      "source": "techcrunch",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.310429"
+      "crawled_at": "2026-10-07T12:14:56.100368"
     },
     {
       "source": "theverge",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "published": "2026-10-06T19:26:38-04:00",
+      "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+      "summary": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-powered sleep detection, rolling out to both pairs of earbuds. If you're wearing a",
+      "link": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
+      "published": "2026-10-07T08:01:22-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
+        "Go",
+        "Google",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.427808"
+      "crawled_at": "2026-10-07T12:14:56.303686"
     },
     {
       "source": "theverge",
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox manag",
-      "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "published": "2026-10-06T18:12:27-04:00",
+      "title": "AI could upend food delivery",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed star",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "published": "2026-10-07T08:00:00-04:00",
       "keywords": [
-        "Microsoft",
+        "AI",
+        "REST",
+        "Startup",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.427861"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:14:56.303735"
     },
     {
       "source": "theverge",
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite model",
-      "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-      "published": "2026-10-06T18:00:00-04:00",
+      "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+      "summary": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in partnership with Xreal. It turns out they're going head-to-head. Xreal has just o",
+      "link": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+      "published": "2026-10-07T08:00:00-04:00",
       "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "Meta",
+        "VR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:14:56.303784"
+    },
+    {
+      "source": "theverge",
+      "title": "Google now lets you make games with AI",
+      "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to crea",
+      "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+      "published": "2026-10-07T08:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:14:56.303818"
+    },
+    {
+      "source": "theverge",
+      "title": "The best October Prime Day deals from Apple, Sony, Google, and more",
+      "summary": "Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happening, with fresh discounts emerging to make the last day of the sale just as worthy of [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+      "published": "2026-10-07T07:26:22-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "Google",
         "Amazon",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.427919"
+      "category": "Mobile",
+      "crawled_at": "2026-10-07T12:14:56.303868"
     },
     {
-      "source": "theverge",
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to lau",
-      "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "published": "2026-10-06T17:39:53-04:00",
+      "source": "hackernews",
+      "title": "Shipping JPEG XL in Chrome",
+      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49991227\nPoints: 56\n# Comments: 20",
+      "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "published": "Wed, 07 Oct 2026 11:25:02 +0000",
       "keywords": [
-        "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-07T03:10:35.427963"
+      "category": "Programming",
+      "crawled_at": "2026-10-07T12:15:06.307631"
     },
     {
-      "source": "theverge",
-      "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-      "summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Manisc",
-      "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
-      "published": "2026-10-06T17:10:13-04:00",
+      "source": "hackernews",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating\nComments URL: https://news.ycombinator.com/item?id=49990763\nPoints: 18\n# Comments: 10",
+      "link": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "published": "Wed, 07 Oct 2026 10:24:19 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.428008"
+      "crawled_at": "2026-10-07T12:15:06.307676"
     },
     {
       "source": "hackernews",
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "summary": "Article URL: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights\nComments URL: https://news.ycombinator.com/item?id=49987245\nPoints: 5\n# Comments: 1",
-      "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "published": "Wed, 07 Oct 2026 02:22:42 +0000",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49990470\nPoints: 71\n# Comments: 9",
+      "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "published": "Wed, 07 Oct 2026 09:51:43 +0000",
       "keywords": [
-        "Microsoft",
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.878425"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:15:06.307707"
     },
     {
       "source": "hackernews",
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=49987076\nPoints: 27\n# Comments: 3",
-      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "published": "Wed, 07 Oct 2026 02:02:11 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.878471"
-    },
-    {
-      "source": "hackernews",
-      "title": "ESP32-C3 Adblock",
-      "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock\nComments URL: https://news.ycombinator.com/item?id=49986862\nPoints: 7\n# Comments: 2",
-      "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "published": "Wed, 07 Oct 2026 01:39:21 +0000",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "summary": "Article URL: https://github.com/szabadkai/c64-keyboard-font/\nComments URL: https://news.ycombinator.com/item?id=49990224\nPoints: 126\n# Comments: 20",
+      "link": "https://github.com/szabadkai/c64-keyboard-font/",
+      "published": "Wed, 07 Oct 2026 09:17:55 +0000",
       "keywords": [
         "AI",
         "Git",
@@ -168,34 +194,23 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.878497"
+      "crawled_at": "2026-10-07T12:15:06.307737"
     },
     {
       "source": "hackernews",
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis\nComments URL: https://news.ycombinator.com/item?id=49986765\nPoints: 7\n# Comments: 1",
-      "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "published": "Wed, 07 Oct 2026 01:27:49 +0000",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "summary": "Article URL: https://github.com/shader-effects-inc/shaders\nComments URL: https://news.ycombinator.com/item?id=49988709\nPoints: 39\n# Comments: 21",
+      "link": "https://github.com/shader-effects-inc/shaders",
+      "published": "Wed, 07 Oct 2026 05:38:35 +0000",
       "keywords": [
-        "AI",
-        "AR"
+        "JavaScript",
+        "Java",
+        "React",
+        "Vue",
+        "Git"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.878526"
-    },
-    {
-      "source": "hackernews",
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\nComments URL: https://news.ycombinator.com/item?id=49985861\nPoints: 36\n# Comments: 8",
-      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "published": "Tue, 06 Oct 2026 23:50:33 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.878557"
+      "category": "Programming",
+      "crawled_at": "2026-10-07T12:15:06.307768"
     },
     {
       "source": "arstechnica",
@@ -209,7 +224,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.945694"
+      "crawled_at": "2026-10-07T12:15:06.491116"
     },
     {
       "source": "arstechnica",
@@ -225,7 +240,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.945726"
+      "crawled_at": "2026-10-07T12:15:06.491154"
     },
     {
       "source": "arstechnica",
@@ -237,7 +252,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.945758"
+      "crawled_at": "2026-10-07T12:15:06.491186"
     },
     {
       "source": "arstechnica",
@@ -249,7 +264,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:35.945788"
+      "crawled_at": "2026-10-07T12:15:06.491216"
     },
     {
       "source": "arstechnica",
@@ -265,68 +280,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-07T03:10:35.945811"
+      "crawled_at": "2026-10-07T12:15:06.491239"
     },
     {
       "source": "wired",
-      "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-      "published": "Wed, 07 Oct 2026 00:34:56 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:36.059789"
-    },
-    {
-      "source": "wired",
-      "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
-      "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
-      "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-      "published": "Wed, 07 Oct 2026 00:32:13 +0000",
+      "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
+      "summary": "Xreal’s long-hyped Aura glasses arrive soon for $1,279. Here’s how they fare against Meta’s recently announced VR Glasses.",
+      "link": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
       "keywords": [
-        "Amazon",
+        "AI",
+        "Go",
+        "Meta",
+        "VR",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:36.059841"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:15:06.667131"
     },
     {
       "source": "wired",
-      "title": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
-      "summary": "Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen.",
-      "link": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
-      "published": "Wed, 07 Oct 2026 00:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:36.059876"
-    },
-    {
-      "source": "wired",
-      "title": "You Probably Aren’t Going to Get the Plague",
-      "summary": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
-      "link": "https://www.wired.com/story/what-we-know-about-plague-russia/",
-      "published": "Tue, 06 Oct 2026 23:09:20 +0000",
+      "title": "Save Up to 44% With the 18 Best Prime Day Toy Deals (2026)",
+      "summary": "Snag some gifts for your kiddos or unleash your inner child with the best Prime Day toy deals, including Lego, STEM toys, and board games.",
+      "link": "https://www.wired.com/story/amazon-prime-day-lego-deals-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 11:40:49 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:36.059915"
+      "crawled_at": "2026-10-07T12:15:06.667177"
     },
     {
       "source": "wired",
-      "title": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
-      "summary": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
-      "link": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
-      "published": "Tue, 06 Oct 2026 21:30:41 +0000",
+      "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 11:11:05 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-07T12:15:06.667209"
+    },
+    {
+      "source": "wired",
+      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+      "summary": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+      "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 11:10:17 +0000",
       "keywords": [
-        "Git",
+        "Go",
+        "Amazon",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-07T03:10:36.059959"
+      "crawled_at": "2026-10-07T12:15:06.667248"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "published": "Wed, 07 Oct 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-07T12:15:06.667280"
     }
   ]
 }
