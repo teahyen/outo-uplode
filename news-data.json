@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-10-10T16:32:28.336992",
+  "last_updated": "2026-10-10T20:49:52.287408",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Apple",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-10T20:49:51.385747"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "published": "Sat, 10 Oct 2026 17:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-10T20:49:51.386228"
+    },
     {
       "source": "techcrunch",
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
@@ -13,7 +41,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-10T16:32:22.444256"
+      "crawled_at": "2026-10-10T20:49:51.386264"
     },
     {
       "source": "techcrunch",
@@ -27,7 +55,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.444578"
+      "crawled_at": "2026-10-10T20:49:51.386306"
     },
     {
       "source": "techcrunch",
@@ -40,33 +68,35 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.444602"
+      "crawled_at": "2026-10-10T20:49:51.386333"
     },
     {
-      "source": "techcrunch",
-      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "published": "Sat, 10 Oct 2026 03:10:06 +0000",
+      "source": "theverge",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "published": "2026-10-10T14:52:07-04:00",
       "keywords": [
         "AI",
+        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.444619"
+      "crawled_at": "2026-10-10T20:49:51.560243"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "source": "theverge",
+      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "published": "2026-10-10T12:36:44-04:00",
       "keywords": [
         "AI",
-        "Anthropic"
+        "Crypto",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.444642"
+      "crawled_at": "2026-10-10T20:49:51.560290"
     },
     {
       "source": "theverge",
@@ -78,7 +108,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:22.583402"
+      "crawled_at": "2026-10-10T20:49:51.560331"
     },
     {
       "source": "theverge",
@@ -92,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.583442"
+      "crawled_at": "2026-10-10T20:49:51.560367"
     },
     {
       "source": "theverge",
@@ -104,96 +134,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:22.583488"
+      "crawled_at": "2026-10-10T20:49:51.560427"
     },
     {
-      "source": "theverge",
-      "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "summary": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB",
-      "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-      "published": "2026-10-10T09:00:00-04:00",
+      "source": "hackernews",
+      "title": "50MB operating system can resurrect your old PC",
+      "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/\nComments URL: https://news.ycombinator.com/item?id=50036571\nPoints: 5\n# Comments: 1",
+      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+      "published": "Sat, 10 Oct 2026 19:59:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-10T20:49:51.928290"
+    },
+    {
+      "source": "hackernews",
+      "title": "Takeshi's Castle",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 38\n# Comments: 19",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "published": "Sat, 10 Oct 2026 19:12:55 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-10T20:49:51.928330"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 65\n# Comments: 40",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "published": "Sat, 10 Oct 2026 18:48:35 +0000",
       "keywords": [
         "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.583516"
-    },
-    {
-      "source": "theverge",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "published": "2026-10-10T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Meta",
+        "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:22.583542"
+      "crawled_at": "2026-10-10T20:49:51.928360"
     },
     {
       "source": "hackernews",
-      "title": "The Disease called Politics (1962)",
-      "summary": "Article URL: https://www.panarchy.org/roszak/politics.html\nComments URL: https://news.ycombinator.com/item?id=50034141\nPoints: 20\n# Comments: 11",
-      "link": "https://www.panarchy.org/roszak/politics.html",
-      "published": "Sat, 10 Oct 2026 15:53:46 +0000",
+      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+      "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300\nComments URL: https://news.ycombinator.com/item?id=50035561\nPoints: 70\n# Comments: 60",
+      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "published": "Sat, 10 Oct 2026 18:11:58 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-10T20:49:51.928397"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why DuckDB 2.0 is faster",
+      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/\nComments URL: https://news.ycombinator.com/item?id=50035530\nPoints: 51\n# Comments: 12",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "published": "Sat, 10 Oct 2026 18:08:49 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.062185"
-    },
-    {
-      "source": "hackernews",
-      "title": "Knuth Reward Check",
-      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check\nComments URL: https://news.ycombinator.com/item?id=50034081\nPoints: 17\n# Comments: 3",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check",
-      "published": "Sat, 10 Oct 2026 15:47:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.062217"
-    },
-    {
-      "source": "hackernews",
-      "title": "How Protein Took over the World",
-      "summary": "Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd\nComments URL: https://news.ycombinator.com/item?id=50034008\nPoints: 9\n# Comments: 7",
-      "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-      "published": "Sat, 10 Oct 2026 15:40:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.062241"
-    },
-    {
-      "source": "hackernews",
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical\nComments URL: https://news.ycombinator.com/item?id=50033721\nPoints: 10\n# Comments: 0",
-      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "published": "Sat, 10 Oct 2026 15:10:24 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.062266"
-    },
-    {
-      "source": "hackernews",
-      "title": "Bitwarden Dual License Model",
-      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\nComments URL: https://news.ycombinator.com/item?id=50033407\nPoints: 140\n# Comments: 91",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "published": "Sat, 10 Oct 2026 14:32:50 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-10T16:32:28.062290"
+      "crawled_at": "2026-10-10T20:49:51.928429"
     },
     {
       "source": "arstechnica",
@@ -206,7 +209,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.163794"
+      "crawled_at": "2026-10-10T20:49:52.072145"
     },
     {
       "source": "arstechnica",
@@ -219,7 +222,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.163815"
+      "crawled_at": "2026-10-10T20:49:52.072174"
     },
     {
       "source": "arstechnica",
@@ -233,7 +236,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.163837"
+      "crawled_at": "2026-10-10T20:49:52.072205"
     },
     {
       "source": "arstechnica",
@@ -245,7 +248,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.163855"
+      "crawled_at": "2026-10-10T20:49:52.072230"
     },
     {
       "source": "arstechnica",
@@ -258,7 +261,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.163873"
+      "crawled_at": "2026-10-10T20:49:52.072256"
     },
     {
       "source": "wired",
@@ -272,7 +275,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-10T16:32:28.336826"
+      "crawled_at": "2026-10-10T20:49:52.287164"
     },
     {
       "source": "wired",
@@ -285,7 +288,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.336861"
+      "crawled_at": "2026-10-10T20:49:52.287211"
     },
     {
       "source": "wired",
@@ -297,7 +300,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.336891"
+      "crawled_at": "2026-10-10T20:49:52.287254"
     },
     {
       "source": "wired",
@@ -310,7 +313,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-10T16:32:28.336917"
+      "crawled_at": "2026-10-10T20:49:52.287292"
     },
     {
       "source": "wired",
@@ -323,7 +326,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-10T16:32:28.336940"
+      "crawled_at": "2026-10-10T20:49:52.287326"
     }
   ]
 }
