@@ -1,208 +1,192 @@
 {
-  "last_updated": "2026-10-11T11:45:29.780010",
+  "last_updated": "2026-10-11T16:57:22.557261",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "published": "Sun, 11 Oct 2026 16:52:33 +0000",
       "keywords": [
-        "AI",
-        "Rust",
-        "Microsoft",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:25.969449"
+      "crawled_at": "2026-10-11T16:57:20.879835"
     },
     {
       "source": "techcrunch",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "published": "Sun, 11 Oct 2026 16:02:00 +0000",
       "keywords": [
         "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-11T16:57:20.879869"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "published": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-11T16:57:20.879894"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "published": "Sun, 11 Oct 2026 15:00:00 +0000",
+      "keywords": [
         "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-11T16:57:20.879924"
+    },
+    {
+      "source": "techcrunch",
+      "title": "What to know about the landmark Warner Bros. Discovery sale",
+      "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+      "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "published": "Sun, 11 Oct 2026 14:15:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T16:57:20.880212"
+    },
+    {
+      "source": "theverge",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "summary": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights &#38; Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and",
+      "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "published": "2026-10-11T11:34:40-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T16:57:20.945120"
+    },
+    {
+      "source": "theverge",
+      "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+      "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the ",
+      "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+      "published": "2026-10-11T11:15:00-04:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T16:57:20.945186"
+    },
+    {
+      "source": "theverge",
+      "title": "Vurt wants you to look at vertical videos as a genre of their own",
+      "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, ",
+      "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+      "published": "2026-10-11T09:00:00-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T16:57:20.945237"
+    },
+    {
+      "source": "theverge",
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner d",
+      "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+      "published": "2026-10-11T09:00:00-04:00",
+      "keywords": [
         "Apple",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:25.969497"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "published": "Sat, 10 Oct 2026 17:00:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-10-11T11:45:25.969539"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
-      "keywords": [
-        "Cloud",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-11T11:45:25.969562"
-    },
-    {
-      "source": "techcrunch",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:25.969598"
+      "category": "Mobile",
+      "crawled_at": "2026-10-11T16:57:20.945283"
     },
     {
       "source": "theverge",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#823",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "published": "2026-10-11T07:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Rust",
-        "Go",
-        "Cloud",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:26.121644"
-    },
-    {
-      "source": "theverge",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "published": "2026-10-10T18:10:17-04:00",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:26.121689"
-    },
-    {
-      "source": "theverge",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an ",
-      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "published": "2026-10-10T14:52:07-04:00",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:26.121723"
-    },
-    {
-      "source": "theverge",
-      "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-      "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o",
-      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-      "published": "2026-10-10T12:36:44-04:00",
-      "keywords": [
-        "AI",
-        "Crypto",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:26.121754"
-    },
-    {
-      "source": "theverge",
-      "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-      "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October [&#8230;]",
-      "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-      "published": "2026-10-10T11:00:00-04:00",
+      "title": "Horror is big business",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has b",
+      "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "published": "2026-10-11T08:00:00-04:00",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:26.121791"
+      "crawled_at": "2026-10-11T16:57:20.945323"
     },
     {
       "source": "hackernews",
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "summary": "Article URL: https://nitter.net\nComments URL: https://news.ycombinator.com/item?id=50041682\nPoints: 104\n# Comments: 12",
-      "link": "https://nitter.net",
-      "published": "Sun, 11 Oct 2026 10:37:55 +0000",
-      "keywords": [
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-10-11T11:45:29.422429"
-    },
-    {
-      "source": "hackernews",
-      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-      "summary": "Article URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/\nComments URL: https://news.ycombinator.com/item?id=50041667\nPoints: 10\n# Comments: 9",
-      "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-      "published": "Sun, 11 Oct 2026 10:34:43 +0000",
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/\nComments URL: https://news.ycombinator.com/item?id=50044272\nPoints: 16\n# Comments: 2",
+      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "published": "Sun, 11 Oct 2026 15:21:58 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.422474"
+      "crawled_at": "2026-10-11T16:57:22.329252"
     },
     {
       "source": "hackernews",
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d\nComments URL: https://news.ycombinator.com/item?id=50041619\nPoints: 24\n# Comments: 8",
-      "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "published": "Sun, 11 Oct 2026 10:27:53 +0000",
+      "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
+      "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/\nComments URL: https://news.ycombinator.com/item?id=50043682\nPoints: 301\n# Comments: 143",
+      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "published": "Sun, 11 Oct 2026 14:28:39 +0000",
       "keywords": [
-        "Cloud",
+        "AI",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-11T11:45:29.422502"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-11T16:57:22.329291"
     },
     {
       "source": "hackernews",
-      "title": "IRCv3",
-      "summary": "Article URL: https://ircv3.net/\nComments URL: https://news.ycombinator.com/item?id=50041540\nPoints: 92\n# Comments: 64",
-      "link": "https://ircv3.net/",
-      "published": "Sun, 11 Oct 2026 10:11:27 +0000",
+      "title": "Why Texas Is Making Data Centers Wait",
+      "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/\nComments URL: https://news.ycombinator.com/item?id=50043603\nPoints: 19\n# Comments: 23",
+      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "published": "Sun, 11 Oct 2026 14:21:31 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-11T16:57:22.329319"
+    },
+    {
+      "source": "hackernews",
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=50043026\nPoints: 121\n# Comments: 155",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "published": "Sun, 11 Oct 2026 13:16:45 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T16:57:22.329353"
+    },
+    {
+      "source": "hackernews",
+      "title": "The tilde in your PATH may not be your HOME",
+      "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/\nComments URL: https://news.ycombinator.com/item?id=50042425\nPoints: 119\n# Comments: 67",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "published": "Sun, 11 Oct 2026 12:13:13 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.422527"
-    },
-    {
-      "source": "hackernews",
-      "title": "I wish you the best in the Offline",
-      "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/\nComments URL: https://news.ycombinator.com/item?id=50040625\nPoints: 53\n# Comments: 30",
-      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-      "published": "Sun, 11 Oct 2026 07:53:42 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.422557"
+      "crawled_at": "2026-10-11T16:57:22.329387"
     },
     {
       "source": "arstechnica",
@@ -215,7 +199,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.582040"
+      "crawled_at": "2026-10-11T16:57:22.428473"
     },
     {
       "source": "arstechnica",
@@ -228,7 +212,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.582066"
+      "crawled_at": "2026-10-11T16:57:22.428501"
     },
     {
       "source": "arstechnica",
@@ -242,7 +226,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.582093"
+      "crawled_at": "2026-10-11T16:57:22.428532"
     },
     {
       "source": "arstechnica",
@@ -254,7 +238,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.582115"
+      "crawled_at": "2026-10-11T16:57:22.428563"
     },
     {
       "source": "arstechnica",
@@ -267,7 +251,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.582137"
+      "crawled_at": "2026-10-11T16:57:22.428589"
     },
     {
       "source": "wired",
@@ -281,7 +265,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T11:45:29.779793"
+      "crawled_at": "2026-10-11T16:57:22.557005"
     },
     {
       "source": "wired",
@@ -293,7 +277,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.779829"
+      "crawled_at": "2026-10-11T16:57:22.557042"
     },
     {
       "source": "wired",
@@ -305,7 +289,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.779867"
+      "crawled_at": "2026-10-11T16:57:22.557087"
     },
     {
       "source": "wired",
@@ -318,7 +302,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.779903"
+      "crawled_at": "2026-10-11T16:57:22.557146"
     },
     {
       "source": "wired",
@@ -330,7 +314,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T11:45:29.779937"
+      "crawled_at": "2026-10-11T16:57:22.557187"
     }
   ]
 }
