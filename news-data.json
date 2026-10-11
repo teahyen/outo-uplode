@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T02:44:49.268579",
+  "last_updated": "2026-10-11T11:45:29.780010",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.583627"
+      "crawled_at": "2026-10-11T11:45:25.969449"
     },
     {
       "source": "techcrunch",
@@ -30,7 +30,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.583668"
+      "crawled_at": "2026-10-11T11:45:25.969497"
     },
     {
       "source": "techcrunch",
@@ -43,7 +43,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-10-11T02:44:48.583715"
+      "crawled_at": "2026-10-11T11:45:25.969539"
     },
     {
       "source": "techcrunch",
@@ -56,7 +56,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-11T02:44:48.583744"
+      "crawled_at": "2026-10-11T11:45:25.969562"
     },
     {
       "source": "techcrunch",
@@ -70,7 +70,23 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.583785"
+      "crawled_at": "2026-10-11T11:45:25.969598"
+    },
+    {
+      "source": "theverge",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#823",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "published": "2026-10-11T07:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Rust",
+        "Go",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-11T11:45:26.121644"
     },
     {
       "source": "theverge",
@@ -84,7 +100,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.792578"
+      "crawled_at": "2026-10-11T11:45:26.121689"
     },
     {
       "source": "theverge",
@@ -98,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.792622"
+      "crawled_at": "2026-10-11T11:45:26.121723"
     },
     {
       "source": "theverge",
@@ -112,7 +128,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.792660"
+      "crawled_at": "2026-10-11T11:45:26.121754"
     },
     {
       "source": "theverge",
@@ -124,89 +140,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:48.792700"
-    },
-    {
-      "source": "theverge",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "published": "2026-10-10T10:41:16-04:00",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:48.792734"
+      "crawled_at": "2026-10-11T11:45:26.121791"
     },
     {
       "source": "hackernews",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/\nComments URL: https://news.ycombinator.com/item?id=50039092\nPoints: 13\n# Comments: 8",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "published": "Sun, 11 Oct 2026 02:02:38 +0000",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "summary": "Article URL: https://nitter.net\nComments URL: https://news.ycombinator.com/item?id=50041682\nPoints: 104\n# Comments: 12",
+      "link": "https://nitter.net",
+      "published": "Sun, 11 Oct 2026 10:37:55 +0000",
       "keywords": [
-        "AI",
+        "Funding",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.046741"
+      "category": "Startup",
+      "crawled_at": "2026-10-11T11:45:29.422429"
     },
     {
       "source": "hackernews",
-      "title": "Anthropic asks users to stop being mean to Claude",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\nComments URL: https://news.ycombinator.com/item?id=50038865\nPoints: 33\n# Comments: 18",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "published": "Sun, 11 Oct 2026 01:17:22 +0000",
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "summary": "Article URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/\nComments URL: https://news.ycombinator.com/item?id=50041667\nPoints: 10\n# Comments: 9",
+      "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "published": "Sun, 11 Oct 2026 10:34:43 +0000",
       "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.046778"
-    },
-    {
-      "source": "hackernews",
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "summary": "Article URL: https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/\nComments URL: https://news.ycombinator.com/item?id=50038640\nPoints: 25\n# Comments: 19",
-      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "published": "Sun, 11 Oct 2026 00:47:37 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.046810"
-    },
-    {
-      "source": "hackernews",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "summary": "Article URL: https://wallhop.io/\nComments URL: https://news.ycombinator.com/item?id=50038634\nPoints: 107\n# Comments: 53",
-      "link": "https://wallhop.io/",
-      "published": "Sun, 11 Oct 2026 00:46:48 +0000",
-      "keywords": [
-        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:49.046850"
+      "crawled_at": "2026-10-11T11:45:29.422474"
     },
     {
       "source": "hackernews",
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "summary": "Article URL: https://github.com/othermod/PSPi-Version-6\nComments URL: https://news.ycombinator.com/item?id=50038623\nPoints: 13\n# Comments: 2",
-      "link": "https://github.com/othermod/PSPi-Version-6",
-      "published": "Sun, 11 Oct 2026 00:45:49 +0000",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d\nComments URL: https://news.ycombinator.com/item?id=50041619\nPoints: 24\n# Comments: 8",
+      "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "published": "Sun, 11 Oct 2026 10:27:53 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-10-11T11:45:29.422502"
+    },
+    {
+      "source": "hackernews",
+      "title": "IRCv3",
+      "summary": "Article URL: https://ircv3.net/\nComments URL: https://news.ycombinator.com/item?id=50041540\nPoints: 92\n# Comments: 64",
+      "link": "https://ircv3.net/",
+      "published": "Sun, 11 Oct 2026 10:11:27 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:49.046888"
+      "crawled_at": "2026-10-11T11:45:29.422527"
+    },
+    {
+      "source": "hackernews",
+      "title": "I wish you the best in the Offline",
+      "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/\nComments URL: https://news.ycombinator.com/item?id=50040625\nPoints: 53\n# Comments: 30",
+      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "published": "Sun, 11 Oct 2026 07:53:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T11:45:29.422557"
     },
     {
       "source": "arstechnica",
@@ -219,7 +215,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.156153"
+      "crawled_at": "2026-10-11T11:45:29.582040"
     },
     {
       "source": "arstechnica",
@@ -232,7 +228,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.156182"
+      "crawled_at": "2026-10-11T11:45:29.582066"
     },
     {
       "source": "arstechnica",
@@ -246,7 +242,7 @@
         "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.156213"
+      "crawled_at": "2026-10-11T11:45:29.582093"
     },
     {
       "source": "arstechnica",
@@ -258,7 +254,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.156238"
+      "crawled_at": "2026-10-11T11:45:29.582115"
     },
     {
       "source": "arstechnica",
@@ -271,72 +267,70 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.156266"
+      "crawled_at": "2026-10-11T11:45:29.582137"
     },
     {
       "source": "wired",
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "published": "Sun, 11 Oct 2026 11:30:00 +0000",
       "keywords": [
         "AI",
         "Go",
-        "AR"
+        "Google"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-11T02:44:49.268324"
+      "crawled_at": "2026-10-11T11:45:29.779793"
     },
     {
       "source": "wired",
-      "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
-      "summary": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
-      "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
-      "published": "Sat, 10 Oct 2026 11:30:00 +0000",
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "published": "Sun, 11 Oct 2026 10:33:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T11:45:29.779829"
+    },
+    {
+      "source": "wired",
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+      "link": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "published": "Sun, 11 Oct 2026 10:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-11T11:45:29.779867"
+    },
+    {
+      "source": "wired",
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "summary": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+      "link": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "published": "Sun, 11 Oct 2026 10:00:00 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:49.268367"
+      "crawled_at": "2026-10-11T11:45:29.779903"
     },
     {
       "source": "wired",
-      "title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
-      "summary": "Whether you want a weight log on your phone or a bathroom gadget packed with sensors, I’ve found an option for you.",
-      "link": "https://www.wired.com/gallery/best-smart-scales/",
-      "published": "Sat, 10 Oct 2026 11:04:00 +0000",
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "summary": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
+      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "published": "Sun, 11 Oct 2026 09:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:49.268410"
-    },
-    {
-      "source": "wired",
-      "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
-      "summary": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
-      "link": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
-      "published": "Sat, 10 Oct 2026 09:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-11T02:44:49.268448"
-    },
-    {
-      "source": "wired",
-      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
-      "link": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
-      "published": "Sat, 10 Oct 2026 09:00:00 +0000",
-      "keywords": [
-        "Startup",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-11T02:44:49.268503"
+      "crawled_at": "2026-10-11T11:45:29.779937"
     }
   ]
 }
