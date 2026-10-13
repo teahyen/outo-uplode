@@ -1,275 +1,321 @@
 {
-  "last_updated": "2026-10-13T13:07:24.128720",
+  "last_updated": "2026-10-13T22:03:17.458449",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "published": "Tue, 13 Oct 2026 13:00:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.479291"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-      "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-      "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-      "published": "Tue, 13 Oct 2026 12:40:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.479330"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "published": "Tue, 13 Oct 2026 12:23:42 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.479355"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.479383"
-    },
-    {
-      "source": "techcrunch",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "published": "Mon, 12 Oct 2026 17:19:14 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.479408"
-    },
-    {
-      "source": "theverge",
-      "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-      "summary": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announced at Apple's Welcome Home event in New York City, is the first model to support",
-      "link": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-      "published": "2026-10-13T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.644169"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch",
-      "summary": "Apple is announcing the long-awaited HomePod Mini 2 with a new chip that can power Siri AI - but support for those new AI features won't be available at launch. The speaker is also getting a new sound glow feature that syncs its LED lights with a song's album art, and it can now be [&#8230;]",
-      "link": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
-      "published": "2026-10-13T09:00:00-04:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:03.644210"
-    },
-    {
-      "source": "theverge",
-      "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
-      "summary": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use. The collection is something of a smart home starter pack, including security cameras, a video doorbell, a door lock, and two the",
-      "link": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced",
-      "published": "2026-10-13T09:00:00-04:00",
-      "keywords": [
-        "Security",
-        "Apple",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-10-13T13:07:03.644253"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing i",
-      "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "published": "2026-10-13T09:00:00-04:00",
-      "keywords": [
-        "Go",
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-13T13:07:03.644295"
-    },
-    {
-      "source": "theverge",
-      "title": "Elgato takes on DJI with a tiny wireless mic for creators on the go",
-      "summary": "Elgato already dominates the market for hardware built for creators that use powerful desktop PCs, and it's now turning its attention to creators on the go with its first wireless microphone. The $99.99 Wave Go clips onto your clothes just like DJI's Mic Mini, with hands-free recording for vlogging ",
-      "link": "https://www.theverge.com/tech/1009752/elgato-wave-go-microphone-creators-pricing-release-date",
-      "published": "2026-10-13T09:00:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-10-13T13:07:03.644339"
-    },
-    {
-      "source": "hackernews",
-      "title": "Apple HomeView",
-      "summary": "Article URL: https://www.apple.com/apple-homeview/\nComments URL: https://news.ycombinator.com/item?id=50071017\nPoints: 5\n# Comments: 0",
-      "link": "https://www.apple.com/apple-homeview/",
-      "published": "Tue, 13 Oct 2026 13:02:12 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-13T13:07:23.671044"
-    },
-    {
-      "source": "hackernews",
-      "title": "Mozilla Introduces Firefox Enterprise",
-      "summary": "Article URL: https://www.firefox.com/en-US/enterprise/\nComments URL: https://news.ycombinator.com/item?id=50070302\nPoints: 73\n# Comments: 44",
-      "link": "https://www.firefox.com/en-US/enterprise/",
-      "published": "Tue, 13 Oct 2026 12:00:42 +0000",
+      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+      "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
+      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "published": "Tue, 13 Oct 2026 21:15:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-13T13:07:23.671084"
+      "crawled_at": "2026-10-13T22:03:14.182296"
     },
     {
-      "source": "hackernews",
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "summary": "Article URL: https://eg2.haku.sh/\nComments URL: https://news.ycombinator.com/item?id=50069971\nPoints: 110\n# Comments: 32",
-      "link": "https://eg2.haku.sh/",
-      "published": "Tue, 13 Oct 2026 11:27:14 +0000",
+      "source": "techcrunch",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "published": "Tue, 13 Oct 2026 20:59:11 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:14.182632"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:14.182674"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+      "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "published": "Tue, 13 Oct 2026 20:13:53 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-13T22:03:14.182709"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+      "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
+      "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "published": "Tue, 13 Oct 2026 20:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-13T22:03:14.182749"
+    },
+    {
+      "source": "theverge",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral commu",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "published": "2026-10-13T16:45:25-04:00",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:14.315048"
+    },
+    {
+      "source": "theverge",
+      "title": "It looks like Apple Music is getting a new icon",
+      "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Mus",
+      "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "published": "2026-10-13T16:05:02-04:00",
+      "keywords": [
+        "Go",
+        "Apple",
+        "iOS",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-13T22:03:14.315102"
+    },
+    {
+      "source": "theverge",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion ",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "published": "2026-10-13T15:42:42-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:23.671110"
+      "crawled_at": "2026-10-13T22:03:14.315137"
+    },
+    {
+      "source": "theverge",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty a",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "published": "2026-10-13T15:00:48-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Microsoft",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:14.315170"
+    },
+    {
+      "source": "theverge",
+      "title": "The Nothing Headphone A are half off for the first time",
+      "summary": "One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll save 33 percent on your order, bringing the [&#823",
+      "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
+      "published": "2026-10-13T14:33:14-04:00",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:14.315208"
     },
     {
       "source": "hackernews",
-      "title": "Character.ai Files for Bankruptcy",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney\nComments URL: https://news.ycombinator.com/item?id=50069942\nPoints: 66\n# Comments: 33",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "published": "Tue, 13 Oct 2026 11:24:08 +0000",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "summary": "Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0\nComments URL: https://news.ycombinator.com/item?id=50078686\nPoints: 0\n# Comments: 0",
+      "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "published": "Tue, 13 Oct 2026 21:01:12 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:23.671138"
+      "crawled_at": "2026-10-13T22:03:16.864925"
     },
     {
       "source": "hackernews",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "summary": "Article URL: https://github.com/rust-lang/rust/issues/164250\nComments URL: https://news.ycombinator.com/item?id=50069499\nPoints: 253\n# Comments: 128",
-      "link": "https://github.com/rust-lang/rust/issues/164250",
-      "published": "Tue, 13 Oct 2026 10:27:00 +0000",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132\n\nComments URL: https://news.ycombinator.com/item?id=50078141\nPoints: 58\n# Comments: 91",
+      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "published": "Tue, 13 Oct 2026 20:23:55 +0000",
       "keywords": [
-        "Rust",
+        "AI",
+        "OpenAI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:16.864960"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "summary": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-be",
+      "link": "https://parsimony.lasu.dev/",
+      "published": "Tue, 13 Oct 2026 19:50:31 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
+        "Claude",
         "Git",
-        "GitHub",
+        "GitHub"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:16.865049"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "summary": "https://celebratio.org/Appel_KI/article/796/#sender\n\nComments URL: https://news.ycombinator.com/item?id=50077096\nPoints: 13\n# Comments: 13",
+      "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "published": "Tue, 13 Oct 2026 19:17:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-13T22:03:16.865100"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners.",
+      "link": "https://guitoro.com/",
+      "published": "Tue, 13 Oct 2026 19:11:48 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-13T22:03:16.865182"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
+      "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
+      "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+      "published": "Tue, 13 Oct 2026 17:33:20 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-13T22:03:16.999223"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
+      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "published": "Tue, 13 Oct 2026 17:00:39 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:16.999253"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "summary": "Developers will get 50 percent discounted API rates through November.",
+      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "published": "Tue, 13 Oct 2026 16:00:02 +0000",
+      "keywords": [
+        "Go",
+        "API",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-13T13:07:23.671166"
+      "crawled_at": "2026-10-13T22:03:16.999279"
     },
     {
       "source": "arstechnica",
-      "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
-      "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
-      "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
-      "published": "Mon, 12 Oct 2026 21:54:35 +0000",
+      "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+      "summary": "It can recognize up to six users with its camera.",
+      "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+      "published": "Tue, 13 Oct 2026 15:29:17 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-13T22:03:16.999307"
+    },
+    {
+      "source": "arstechnica",
+      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+      "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "published": "Tue, 13 Oct 2026 15:17:59 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-13T22:03:16.999333"
+    },
+    {
+      "source": "wired",
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "published": "Tue, 13 Oct 2026 19:35:29 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-13T22:03:17.458211"
+    },
+    {
+      "source": "wired",
+      "title": "The 9 Best Movies to Stream This Month (October 2026)",
+      "summary": "Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "published": "Tue, 13 Oct 2026 18:49:55 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-13T13:07:23.916480"
+      "crawled_at": "2026-10-13T22:03:17.458248"
     },
     {
-      "source": "arstechnica",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "published": "Mon, 12 Oct 2026 20:59:50 +0000",
+      "source": "wired",
+      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+      "summary": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.",
+      "link": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "published": "Tue, 13 Oct 2026 13:30:00 +0000",
       "keywords": [
         "AI",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:23.916510"
-    },
-    {
-      "source": "arstechnica",
-      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-      "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-      "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-      "published": "Mon, 12 Oct 2026 20:26:14 +0000",
-      "keywords": [
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-13T13:07:23.916537"
-    },
-    {
-      "source": "arstechnica",
-      "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-      "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-      "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-      "published": "Mon, 12 Oct 2026 18:46:43 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:23.916559"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "published": "Mon, 12 Oct 2026 18:21:36 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:23.916617"
+      "crawled_at": "2026-10-13T22:03:17.458282"
     },
     {
       "source": "wired",
@@ -283,7 +329,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-13T13:07:24.128488"
+      "crawled_at": "2026-10-13T22:03:17.458315"
     },
     {
       "source": "wired",
@@ -297,45 +343,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-13T13:07:24.128529"
-    },
-    {
-      "source": "wired",
-      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
-      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
-      "published": "Tue, 13 Oct 2026 11:30:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-10-13T13:07:24.128563"
-    },
-    {
-      "source": "wired",
-      "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
-      "summary": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
-      "link": "https://www.wired.com/gallery/best-tech-books-to-gift/",
-      "published": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "keywords": [
-        "API",
-        "Startup",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-10-13T13:07:24.128615"
-    },
-    {
-      "source": "wired",
-      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
-      "published": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-13T13:07:24.128641"
+      "crawled_at": "2026-10-13T22:03:17.458368"
     }
   ]
 }
