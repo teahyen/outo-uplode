@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T02:34:23.796531",
+  "last_updated": "2026-10-14T10:47:50.722163",
   "news_count": 25,
   "news": [
     {
@@ -13,12 +13,12 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-14T02:34:21.610672"
+      "crawled_at": "2026-10-14T10:47:46.000851"
     },
     {
       "source": "techcrunch",
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "published": "Tue, 13 Oct 2026 23:13:31 +0000",
       "keywords": [
@@ -27,7 +27,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.610714"
+      "crawled_at": "2026-10-14T10:47:46.000886"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.611069"
+      "crawled_at": "2026-10-14T10:47:46.001164"
     },
     {
       "source": "techcrunch",
@@ -51,7 +51,7 @@
       "published": "Tue, 13 Oct 2026 23:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:21.611112"
+      "crawled_at": "2026-10-14T10:47:46.001196"
     },
     {
       "source": "techcrunch",
@@ -64,7 +64,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.611144"
+      "crawled_at": "2026-10-14T10:47:46.001235"
     },
     {
       "source": "theverge",
@@ -77,7 +77,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-14T02:34:21.708202"
+      "crawled_at": "2026-10-14T10:47:46.090219"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.708248"
+      "crawled_at": "2026-10-14T10:47:46.090260"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-14T02:34:21.708291"
+      "crawled_at": "2026-10-14T10:47:46.090297"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.708326"
+      "crawled_at": "2026-10-14T10:47:46.090325"
     },
     {
       "source": "theverge",
@@ -136,73 +136,79 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:21.708358"
+      "crawled_at": "2026-10-14T10:47:46.090352"
     },
     {
       "source": "hackernews",
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "summary": "Article URL: https://blumify.io/people\nComments URL: https://news.ycombinator.com/item?id=50081151\nPoints: 10\n# Comments: 2",
-      "link": "https://blumify.io/people",
-      "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "summary": "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover datalo",
+      "link": "https://book.humanexperiences.io/",
+      "published": "Wed, 14 Oct 2026 10:29:56 +0000",
       "keywords": [
-        "AI",
+        "ChatGPT",
+        "GPT",
+        "Python",
+        "TypeScript",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.410138"
+      "crawled_at": "2026-10-14T10:47:50.458154"
     },
     {
       "source": "hackernews",
-      "title": "High-speed video reveals how honey bee stingers pump venom",
-      "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/\nComments URL: https://news.ycombinator.com/item?id=50081133\nPoints: 13\n# Comments: 0",
-      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-      "published": "Wed, 14 Oct 2026 01:05:23 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.410186"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.I felt there are ",
-      "link": "https://pulseos.finance",
-      "published": "Tue, 13 Oct 2026 23:13:23 +0000",
+      "title": "I let an AI run my startup for a week",
+      "summary": "Article URL: https://daily.tinyprojects.dev/221\nComments URL: https://news.ycombinator.com/item?id=50085296\nPoints: 9\n# Comments: 0",
+      "link": "https://daily.tinyprojects.dev/221",
+      "published": "Wed, 14 Oct 2026 10:25:48 +0000",
       "keywords": [
         "AI",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-14T10:47:50.458184"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple: Switch to Safari (From Chrome)",
+      "summary": "Article URL: https://www.apple.com/safari/switch/\nComments URL: https://news.ycombinator.com/item?id=50085112\nPoints: 7\n# Comments: 1",
+      "link": "https://www.apple.com/safari/switch/",
+      "published": "Wed, 14 Oct 2026 10:08:57 +0000",
+      "keywords": [
         "Apple",
-        "Windows",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.410305"
+      "category": "Mobile",
+      "crawled_at": "2026-10-14T10:47:50.458221"
     },
     {
       "source": "hackernews",
-      "title": "Recreational Programming",
-      "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming\nComments URL: https://news.ycombinator.com/item?id=50079865\nPoints: 67\n# Comments: 22",
-      "link": "https://www.cphiri.dev/presentations/recreational-programming",
-      "published": "Tue, 13 Oct 2026 22:33:33 +0000",
+      "title": "Ask HN: What is the current trajectory of a senior engineer?",
+      "summary": "Been recently thinking about this more and more: When the need for a human in the design loop ceases?Given that LLMs are RL'd to the max with everything that can be given a wrong/right answer (code/maths), what currently is stopping Anthropic, OpenAI et al. from internally building (and maybe buying",
+      "link": "https://news.ycombinator.com/item?id=50084969",
+      "published": "Wed, 14 Oct 2026 09:54:23 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-14T10:47:50.458280"
+    },
+    {
+      "source": "hackernews",
+      "title": "What agents mean for Rust (and vice versa)",
+      "summary": "Article URL: https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/\nComments URL: https://news.ycombinator.com/item?id=50084416\nPoints: 15\n# Comments: 13",
+      "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "published": "Wed, 14 Oct 2026 08:49:06 +0000",
+      "keywords": [
+        "Rust",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-14T02:34:23.410334"
-    },
-    {
-      "source": "hackernews",
-      "title": "AlphaNIST",
-      "summary": "Article URL: https://alpha-nist.github.io/\nComments URL: https://news.ycombinator.com/item?id=50079464\nPoints: 43\n# Comments: 14",
-      "link": "https://alpha-nist.github.io/",
-      "published": "Tue, 13 Oct 2026 21:57:29 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.410363"
+      "crawled_at": "2026-10-14T10:47:50.458306"
     },
     {
       "source": "arstechnica",
@@ -216,7 +222,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.655294"
+      "crawled_at": "2026-10-14T10:47:50.608460"
     },
     {
       "source": "arstechnica",
@@ -228,7 +234,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.655333"
+      "crawled_at": "2026-10-14T10:47:50.608490"
     },
     {
       "source": "arstechnica",
@@ -241,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.655359"
+      "crawled_at": "2026-10-14T10:47:50.608510"
     },
     {
       "source": "arstechnica",
@@ -254,7 +260,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.655383"
+      "crawled_at": "2026-10-14T10:47:50.608527"
     },
     {
       "source": "arstechnica",
@@ -267,70 +273,68 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.655410"
+      "crawled_at": "2026-10-14T10:47:50.608550"
     },
     {
       "source": "wired",
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "published": "Tue, 13 Oct 2026 23:17:59 +0000",
+      "title": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful",
+      "summary": "This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.",
+      "link": "https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/",
+      "published": "Wed, 14 Oct 2026 10:30:00 +0000",
       "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.796299"
-    },
-    {
-      "source": "wired",
-      "title": "The 9 Best TV Shows to Stream This Month (October 2026)",
-      "summary": "Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.",
-      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "published": "Tue, 13 Oct 2026 23:00:40 +0000",
-      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.796338"
+      "crawled_at": "2026-10-14T10:47:50.721928"
     },
     {
       "source": "wired",
-      "title": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie",
-      "summary": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
-      "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/",
-      "published": "Tue, 13 Oct 2026 22:08:44 +0000",
+      "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
+      "summary": "A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.",
+      "link": "https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/",
+      "published": "Wed, 14 Oct 2026 10:30:00 +0000",
+      "keywords": [
+        "Funding",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-14T10:47:50.721965"
+    },
+    {
+      "source": "wired",
+      "title": "Nothing Headphone (1) Pro: Studio Quality",
+      "summary": "Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.",
+      "link": "https://www.wired.com/review/nothing-headphone-1-pro/",
+      "published": "Wed, 14 Oct 2026 10:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.796377"
+      "crawled_at": "2026-10-14T10:47:50.721994"
     },
     {
       "source": "wired",
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "published": "Tue, 13 Oct 2026 19:35:29 +0000",
+      "title": "cool kids are writing in all lowercase now. does that make you mad?",
+      "summary": "a certain kind of person writes in all lowercase now. why?",
+      "link": "https://www.wired.com/story/the-case-for-lowercase/",
+      "published": "Wed, 14 Oct 2026 10:00:00 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-14T02:34:23.796410"
+      "crawled_at": "2026-10-14T10:47:50.722012"
     },
     {
       "source": "wired",
-      "title": "The 9 Best Movies to Stream This Month (October 2026)",
-      "summary": "Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.",
-      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "published": "Tue, 13 Oct 2026 18:49:55 +0000",
+      "title": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)",
+      "summary": "The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.",
+      "link": "https://www.wired.com/story/best-energy-drinks/",
+      "published": "Wed, 14 Oct 2026 09:36:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-14T02:34:23.796439"
+      "crawled_at": "2026-10-14T10:47:50.722037"
     }
   ]
 }
