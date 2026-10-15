@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-15T02:14:37.026696",
+  "last_updated": "2026-10-15T10:30:31.674696",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "keywords": [],
+      "category": "Programming",
+      "crawled_at": "2026-10-15T10:30:30.571386"
+    },
     {
       "source": "techcrunch",
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -15,7 +25,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.337757"
+      "crawled_at": "2026-10-15T10:30:30.571445"
     },
     {
       "source": "techcrunch",
@@ -27,7 +37,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:36.338081"
+      "crawled_at": "2026-10-15T10:30:30.571703"
     },
     {
       "source": "techcrunch",
@@ -40,7 +50,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-10-15T02:14:36.338109"
+      "crawled_at": "2026-10-15T10:30:30.571750"
     },
     {
       "source": "techcrunch",
@@ -53,21 +63,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.338144"
+      "crawled_at": "2026-10-15T10:30:30.571801"
     },
     {
-      "source": "techcrunch",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "published": "Wed, 14 Oct 2026 23:00:00 +0000",
+      "source": "theverge",
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accord",
+      "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "published": "2026-10-15T06:05:07-04:00",
       "keywords": [
-        "Startup",
-        "iOS",
+        "AI",
+        "Microsoft",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-15T02:14:36.338173"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-15T10:30:30.730704"
     },
     {
       "source": "theverge",
@@ -82,7 +92,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.472470"
+      "crawled_at": "2026-10-15T10:30:30.730746"
     },
     {
       "source": "theverge",
@@ -97,7 +107,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.472506"
+      "crawled_at": "2026-10-15T10:30:30.730786"
     },
     {
       "source": "theverge",
@@ -113,7 +123,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.472542"
+      "crawled_at": "2026-10-15T10:30:30.730820"
     },
     {
       "source": "theverge",
@@ -127,85 +137,74 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-15T02:14:36.472578"
+      "crawled_at": "2026-10-15T10:30:30.730860"
     },
     {
-      "source": "theverge",
-      "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "published": "2026-10-14T15:06:03-04:00",
+      "source": "hackernews",
+      "title": "The cost of getting a job today",
+      "summary": "Article URL: https://weli.dev/blog/the-cost-of-getting-a-job-today/\nComments URL: https://news.ycombinator.com/item?id=50101149\nPoints: 22\n# Comments: 20",
+      "link": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "published": "Thu, 15 Oct 2026 09:13:20 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-15T10:30:31.280621"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI was great until it was not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not\nComments URL: https://news.ycombinator.com/item?id=50100791\nPoints: 67\n# Comments: 43",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "published": "Thu, 15 Oct 2026 08:18:38 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Go",
-        "Google"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.472601"
+      "crawled_at": "2026-10-15T10:30:31.280656"
+    },
+    {
+      "source": "hackernews",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "summary": "Article URL: https://github.com/awslabs/aidlc-workflows\nComments URL: https://news.ycombinator.com/item?id=50100387\nPoints: 10\n# Comments: 9",
+      "link": "https://github.com/awslabs/aidlc-workflows",
+      "published": "Thu, 15 Oct 2026 07:20:39 +0000",
+      "keywords": [
+        "AI",
+        "AWS",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-15T10:30:31.280684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always o",
+      "link": "https://github.com/andunieee/flipflop",
+      "published": "Thu, 15 Oct 2026 04:25:28 +0000",
+      "keywords": [
+        "Rust",
+        "Go",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-15T10:30:31.280726"
     },
     {
       "source": "hackernews",
       "title": "The Double Headed Stack Allocator",
-      "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 66\n# Comments: 20",
       "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
       "published": "Thu, 15 Oct 2026 02:06:36 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:36.707127"
-    },
-    {
-      "source": "hackernews",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 78\n# Comments: 19",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "published": "Wed, 14 Oct 2026 23:59:37 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.707153"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tiny Little Office",
-      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 154\n# Comments: 22",
-      "link": "https://tinylittleoffice.com/",
-      "published": "Wed, 14 Oct 2026 22:10:08 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:36.707175"
-    },
-    {
-      "source": "hackernews",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 193\n# Comments: 61",
-      "link": "https://typesafe.ai/blog/jev-1-14",
-      "published": "Wed, 14 Oct 2026 21:11:03 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.707199"
-    },
-    {
-      "source": "hackernews",
-      "title": "OpenCode 2.0",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 320\n# Comments: 136",
-      "link": "https://anoma.ly/notes/opencode-2-0/",
-      "published": "Wed, 14 Oct 2026 20:48:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-15T02:14:36.707217"
+      "crawled_at": "2026-10-15T10:30:31.280762"
     },
     {
       "source": "arstechnica",
@@ -219,7 +218,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-15T02:14:36.844141"
+      "crawled_at": "2026-10-15T10:30:31.447294"
     },
     {
       "source": "arstechnica",
@@ -231,7 +230,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-15T02:14:36.844163"
+      "crawled_at": "2026-10-15T10:30:31.447323"
     },
     {
       "source": "arstechnica",
@@ -243,7 +242,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:36.844186"
+      "crawled_at": "2026-10-15T10:30:31.447353"
     },
     {
       "source": "arstechnica",
@@ -255,7 +254,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:36.844206"
+      "crawled_at": "2026-10-15T10:30:31.447414"
     },
     {
       "source": "arstechnica",
@@ -267,69 +266,68 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:36.844221"
+      "crawled_at": "2026-10-15T10:30:31.447443"
     },
     {
       "source": "wired",
-      "title": "Trump Aides Admit the House Is a Lost Cause",
-      "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
-      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
-      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:37.026560"
-    },
-    {
-      "source": "wired",
-      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "published": "Wed, 14 Oct 2026 18:15:00 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:37.026586"
-    },
-    {
-      "source": "wired",
-      "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
-      "summary": "Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.",
-      "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
-      "published": "Wed, 14 Oct 2026 14:00:00 +0000",
+      "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+      "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:37.026614"
+      "crawled_at": "2026-10-15T10:30:31.674468"
     },
     {
       "source": "wired",
-      "title": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
-      "summary": "Brian K. Vaughan claims he’s seen Dune: Part Three and it’s “a fucking beautiful movie.”",
-      "link": "https://www.wired.com/story/new-york-comic-con-interview/",
-      "published": "Wed, 14 Oct 2026 13:30:00 +0000",
+      "title": "The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync",
+      "summary": "Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?",
+      "link": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "published": "Thu, 15 Oct 2026 09:36:00 +0000",
       "keywords": [
-        "AI",
+        "Go",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-15T02:14:37.026631"
+      "category": "Tech News",
+      "crawled_at": "2026-10-15T10:30:31.674507"
     },
     {
       "source": "wired",
-      "title": "Formlabs Has a 3D Printer for Normies",
-      "summary": "The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.",
-      "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
-      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "keywords": [],
+      "title": "Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission",
+      "summary": "Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.",
+      "link": "https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/",
+      "published": "Thu, 15 Oct 2026 09:15:00 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-10-15T02:14:37.026650"
+      "crawled_at": "2026-10-15T10:30:31.674550"
+    },
+    {
+      "source": "wired",
+      "title": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended",
+      "summary": "Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided. “It’s obviously some form of volume manipulation,” one expert says.",
+      "link": "https://www.wired.com/story/over-dollar600-million-traded-on-polymarket-election-contracts-after-races-ended/",
+      "published": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-15T10:30:31.674594"
+    },
+    {
+      "source": "wired",
+      "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "published": "Thu, 15 Oct 2026 05:00:00 +0000",
+      "keywords": [
+        "Gaming"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-15T10:30:31.674624"
     }
   ]
 }
