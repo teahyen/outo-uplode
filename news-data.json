@@ -1,72 +1,102 @@
 {
-  "last_updated": "2026-10-16T15:43:09.208160",
+  "last_updated": "2026-10-16T20:12:25.524954",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "published": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "summary": "Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I never once noticed a longing stare from other drivers. Unlike with other cars I’ve tested, no enthus",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "published": "Fri, 16 Oct 2026 19:40:00 +0000",
       "keywords": [
-        "AI",
-        "API",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:07.536025"
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:22.945488"
     },
     {
       "source": "techcrunch",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "published": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "Go",
+        "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:07.536062"
+      "crawled_at": "2026-10-16T20:12:22.945535"
     },
     {
       "source": "techcrunch",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "keywords": [
+        "ChatGPT",
+        "GPT",
+        "Go",
+        "VC",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:22.945577"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "published": "Fri, 16 Oct 2026 16:06:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:22.945604"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "keywords": [
+        "AI",
+        "GPT",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:22.945633"
+    },
+    {
+      "source": "theverge",
+      "title": "Why Apple is finally making its own smart home devices",
+      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider E",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "published": "2026-10-16T14:30:27-04:00",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-16T20:12:23.101724"
+    },
+    {
+      "source": "theverge",
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time",
+      "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "published": "2026-10-16T12:02:22-04:00",
       "keywords": [
         "Go",
-        "Startup",
+        "Apple",
+        "Amazon",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-10-16T15:43:07.536097"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "published": "Fri, 16 Oct 2026 12:55:09 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:07.536122"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "published": "Fri, 16 Oct 2026 05:16:46 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:07.536141"
+      "category": "Mobile",
+      "crawled_at": "2026-10-16T20:12:23.101779"
     },
     {
       "source": "theverge",
@@ -79,7 +109,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-16T15:43:07.664475"
+      "crawled_at": "2026-10-16T20:12:23.101812"
     },
     {
       "source": "theverge",
@@ -91,7 +121,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-10-16T15:43:07.664530"
+      "crawled_at": "2026-10-16T20:12:23.101852"
     },
     {
       "source": "theverge",
@@ -104,101 +134,101 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-16T15:43:07.664566"
+      "crawled_at": "2026-10-16T20:12:23.101885"
     },
     {
-      "source": "theverge",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, A",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "published": "2026-10-16T11:00:00-04:00",
+      "source": "hackernews",
+      "title": "The Fatal Flaw of 911",
+      "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\nComments URL: https://news.ycombinator.com/item?id=50123356\nPoints: 10\n# Comments: 5",
+      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "published": "Fri, 16 Oct 2026 19:33:00 +0000",
       "keywords": [
-        "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-16T15:43:07.664611"
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:25.267537"
     },
     {
-      "source": "theverge",
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn'",
-      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "published": "2026-10-16T10:15:29-04:00",
+      "source": "hackernews",
+      "title": "How the Claude Code team does code review",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 48\n# Comments: 43",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "published": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:25.267568"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude reveals ECDSA curve origins",
+      "summary": "https://words.filippo.io/seeds-solved/\n\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 243\n# Comments: 96",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "published": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "keywords": [
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:25.267590"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "summary": "Hi HN,I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges a",
+      "link": "https://stoke.money",
+      "published": "Fri, 16 Oct 2026 18:54:47 +0000",
       "keywords": [
         "AI",
+        "Claude",
         "Rust",
-        "Tesla",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:07.664636"
-    },
-    {
-      "source": "hackernews",
-      "title": "Hello Toronto – Waymo Is En Route",
-      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/\nComments URL: https://news.ycombinator.com/item?id=50118981\nPoints: 64\n# Comments: 87",
-      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "published": "Fri, 16 Oct 2026 14:44:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:08.940291"
-    },
-    {
-      "source": "hackernews",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "summary": "Article URL: https://calif.io/research/big-fish\nComments URL: https://news.ycombinator.com/item?id=50118977\nPoints: 31\n# Comments: 2",
-      "link": "https://calif.io/research/big-fish",
-      "published": "Fri, 16 Oct 2026 14:44:02 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:08.940330"
-    },
-    {
-      "source": "hackernews",
-      "title": "Redesigning Source Control at Anthropic",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50118863\nPoints: 27\n# Comments: 27",
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "published": "Fri, 16 Oct 2026 14:34:47 +0000",
-      "keywords": [
-        "Anthropic",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:08.940360"
-    },
-    {
-      "source": "hackernews",
-      "title": "What on Earth Is Dekton?",
-      "summary": "Article URL: https://www.worksinprogress.news/p/porcelain\nComments URL: https://news.ycombinator.com/item?id=50118828\nPoints: 5\n# Comments: 0",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "published": "Fri, 16 Oct 2026 14:31:43 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:08.940378"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse\n\nComments URL: https://news.ycombinator.com/item?id=50118688\nPoints: 25\n# Comments: 9",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "published": "Fri, 16 Oct 2026 14:18:44 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
         "Go",
-        "Google"
+        "API"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:08.940399"
+      "crawled_at": "2026-10-16T20:12:25.267729"
+    },
+    {
+      "source": "hackernews",
+      "title": "C++26: The New Debugging Header",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\nComments URL: https://news.ycombinator.com/item?id=50122736\nPoints: 10\n# Comments: 0",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "published": "Fri, 16 Oct 2026 18:52:39 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:25.267757"
+    },
+    {
+      "source": "arstechnica",
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "published": "Fri, 16 Oct 2026 17:05:59 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:25.390096"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "published": "Fri, 16 Oct 2026 15:41:00 +0000",
+      "keywords": [
+        "AI",
+        "Meta",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:25.390126"
     },
     {
       "source": "arstechnica",
@@ -210,7 +240,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:09.050044"
+      "crawled_at": "2026-10-16T20:12:25.390152"
     },
     {
       "source": "arstechnica",
@@ -225,7 +255,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:09.050072"
+      "crawled_at": "2026-10-16T20:12:25.390171"
     },
     {
       "source": "arstechnica",
@@ -237,99 +267,73 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:09.050097"
+      "crawled_at": "2026-10-16T20:12:25.390194"
     },
     {
-      "source": "arstechnica",
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "published": "Fri, 16 Oct 2026 12:00:05 +0000",
+      "source": "wired",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "published": "Fri, 16 Oct 2026 20:05:08 +0000",
       "keywords": [
         "AI",
-        "Microsoft",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-16T20:12:25.524771"
+    },
+    {
+      "source": "wired",
+      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+      "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
+      "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+      "published": "Fri, 16 Oct 2026 18:21:54 +0000",
+      "keywords": [
+        "Go",
+        "AWS",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-10-16T20:12:25.524809"
+    },
+    {
+      "source": "wired",
+      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+      "summary": "It turns out the Roadster 2 both sucks and blows.",
+      "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+      "published": "Fri, 16 Oct 2026 16:30:12 +0000",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:25.524834"
+    },
+    {
+      "source": "wired",
+      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+      "summary": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+      "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "keywords": [
+        "AR",
         "Gaming"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:09.050113"
+      "category": "Tech News",
+      "crawled_at": "2026-10-16T20:12:25.524859"
     },
     {
-      "source": "arstechnica",
-      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-      "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
-      "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-      "published": "Fri, 16 Oct 2026 11:00:53 +0000",
+      "source": "wired",
+      "title": "Thank Gen Z for the ‘Girls’ Revival",
+      "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
+      "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
+      "published": "Fri, 16 Oct 2026 16:21:38 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:09.050136"
-    },
-    {
-      "source": "wired",
-      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "summary": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
-      "link": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-      "published": "Fri, 16 Oct 2026 15:25:18 +0000",
-      "keywords": [
-        "Funding",
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-10-16T15:43:09.207976"
-    },
-    {
-      "source": "wired",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "published": "Fri, 16 Oct 2026 15:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:09.208018"
-    },
-    {
-      "source": "wired",
-      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "summary": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
-      "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-      "published": "Fri, 16 Oct 2026 13:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Microsoft",
-        "Windows"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:09.208042"
-    },
-    {
-      "source": "wired",
-      "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
-      "summary": "A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.",
-      "link": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
-      "published": "Fri, 16 Oct 2026 11:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-16T15:43:09.208069"
-    },
-    {
-      "source": "wired",
-      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "published": "Fri, 16 Oct 2026 11:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Vue",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-16T15:43:09.208091"
+      "crawled_at": "2026-10-16T20:12:25.524888"
     }
   ]
 }
