@@ -1,70 +1,127 @@
 {
-  "last_updated": "2026-10-19T17:54:36.797034",
+  "last_updated": "2026-10-19T21:49:32.983513",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-      "summary": "His vision will culminate with the R4 vehicle.",
-      "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-      "published": "Mon, 19 Oct 2026 17:39:51 +0000",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "keywords": [
+        "AI",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:29.921828"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+      "keywords": [
+        "AI",
+        "Claude",
+        "Go",
+        "API",
+        "Hack"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:29.921874"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:29.921894"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "published": "Mon, 19 Oct 2026 18:49:04 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Startup",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:29.921921"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "keywords": [
+        "AI",
+        "REST",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:29.921939"
+    },
+    {
+      "source": "theverge",
+      "title": "The fossil fuel comeback is here",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despi",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "published": "2026-10-19T17:48:01-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:31.003882"
+      "crawled_at": "2026-10-19T21:49:30.022106"
     },
     {
-      "source": "techcrunch",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "published": "Mon, 19 Oct 2026 16:55:56 +0000",
+      "source": "theverge",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "published": "2026-10-19T17:28:20-04:00",
       "keywords": [
-        "React",
-        "Amazon",
+        "AI",
+        "Go",
+        "API"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:30.022149"
+    },
+    {
+      "source": "theverge",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident respon",
+      "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "published": "2026-10-19T17:00:17-04:00",
+      "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:31.003922"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:30.022187"
     },
     {
-      "source": "techcrunch",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "source": "theverge",
+      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+      "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a disc",
+      "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+      "published": "2026-10-19T14:52:41-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.003945"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.003969"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "published": "Mon, 19 Oct 2026 12:56:14 +0000",
-      "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.003993"
+      "crawled_at": "2026-10-19T21:49:30.022219"
     },
     {
       "source": "theverge",
@@ -76,79 +133,63 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-19T17:54:31.130516"
-    },
-    {
-      "source": "theverge",
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megaw",
-      "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "published": "2026-10-19T11:44:20-04:00",
-      "keywords": [
-        "AI",
-        "Funding",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.130570"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "published": "2026-10-19T10:41:48-04:00",
-      "keywords": [
-        "AI",
-        "REST",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.130604"
-    },
-    {
-      "source": "theverge",
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms c",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "published": "2026-10-19T10:30:00-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:31.130638"
-    },
-    {
-      "source": "theverge",
-      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-      "summary": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure w",
-      "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-      "published": "2026-10-19T10:24:42-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-19T17:54:31.130681"
+      "crawled_at": "2026-10-19T21:49:30.022250"
     },
     {
       "source": "hackernews",
-      "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
-      "summary": "Article URL: https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/\nComments URL: https://news.ycombinator.com/item?id=50155291\nPoints: 22\n# Comments: 0",
-      "link": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
-      "published": "Mon, 19 Oct 2026 17:30:26 +0000",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "summary": "Article URL: https://bsd.network/@brynet/117407035545900963\nComments URL: https://news.ycombinator.com/item?id=50158138\nPoints: 7\n# Comments: 1",
+      "link": "https://bsd.network/@brynet/117407035545900963",
+      "published": "Mon, 19 Oct 2026 21:11:45 +0000",
+      "keywords": [
+        "Linux",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-10-19T21:49:32.604133"
+    },
+    {
+      "source": "hackernews",
+      "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+      "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark\nComments URL: https://news.ycombinator.com/item?id=50158100\nPoints: 33\n# Comments: 3",
+      "link": "https://josie.lol/blog/linux-rtx-spark",
+      "published": "Mon, 19 Oct 2026 21:08:18 +0000",
+      "keywords": [
+        "Microsoft",
+        "Linux",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-19T21:49:32.604175"
+    },
+    {
+      "source": "hackernews",
+      "title": "Germany's far-right AfD: half a million internal documents leaked",
+      "summary": "Article URL: https://hexane.cc/\nComments URL: https://news.ycombinator.com/item?id=50157664\nPoints: 36\n# Comments: 13",
+      "link": "https://hexane.cc/",
+      "published": "Mon, 19 Oct 2026 20:31:05 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.586356"
+      "crawled_at": "2026-10-19T21:49:32.604202"
     },
     {
       "source": "hackernews",
-      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
-      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3\nComments URL: https://news.ycombinator.com/item?id=50155245\nPoints: 23\n# Comments: 4",
+      "title": "The reverts will continue until morale improves",
+      "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves\nComments URL: https://news.ycombinator.com/item?id=50156206\nPoints: 114\n# Comments: 16",
+      "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-19T21:49:32.604234"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mercury 3: Diffusion at scale",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3\nComments URL: https://news.ycombinator.com/item?id=50155245\nPoints: 189\n# Comments: 75",
       "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
       "published": "Mon, 19 Oct 2026 17:27:11 +0000",
       "keywords": [
@@ -156,169 +197,134 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:36.586388"
+      "crawled_at": "2026-10-19T21:49:32.604254"
     },
     {
-      "source": "hackernews",
-      "title": "Evidence (YC S21) Is Hiring Software Engineers",
-      "summary": "Article URL: https://evidence.dev/jobs\nComments URL: https://news.ycombinator.com/item?id=50155172\nPoints: 0\n# Comments: 0",
-      "link": "https://evidence.dev/jobs",
-      "published": "Mon, 19 Oct 2026 17:21:33 +0000",
+      "source": "arstechnica",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "published": "Mon, 19 Oct 2026 20:54:17 +0000",
       "keywords": [
-        "AR"
+        "AI"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.586415"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:32.845684"
     },
     {
-      "source": "hackernews",
-      "title": "Pentulive (Puppy Live) [video]",
-      "summary": "Article URL: https://yle.fi/t/18-332106/fi\nComments URL: https://news.ycombinator.com/item?id=50154147\nPoints: 4\n# Comments: 0",
-      "link": "https://yle.fi/t/18-332106/fi",
-      "published": "Mon, 19 Oct 2026 16:09:10 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.586438"
-    },
-    {
-      "source": "hackernews",
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
-      "summary": "Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark (https://laminar.sh/blog/flow-1), it matches GPT-6-sol in dete",
-      "link": "https://news.ycombinator.com/item?id=50154029",
-      "published": "Mon, 19 Oct 2026 16:00:18 +0000",
+      "source": "arstechnica",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "published": "Mon, 19 Oct 2026 20:21:53 +0000",
       "keywords": [
         "AI",
-        "GPT",
-        "Rust",
+        "OpenAI",
         "Go",
-        "REST"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:36.586677"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Huge DMV data breach impacted current and former Florida residents",
-      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "published": "Mon, 19 Oct 2026 16:38:13 +0000",
-      "keywords": [],
-      "category": "Security",
-      "crawled_at": "2026-10-19T17:54:36.658447"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "published": "Mon, 19 Oct 2026 14:45:43 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:36.658477"
+      "crawled_at": "2026-10-19T21:49:32.845715"
     },
     {
       "source": "arstechnica",
-      "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
-      "link": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-      "published": "Mon, 19 Oct 2026 14:35:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.658501"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-      "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
-      "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-      "published": "Mon, 19 Oct 2026 13:31:08 +0000",
+      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "summary": "One way to make batteries cleaner is to make fewer of them.",
+      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "published": "Mon, 19 Oct 2026 20:03:55 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.658525"
+      "crawled_at": "2026-10-19T21:49:32.845737"
     },
     {
       "source": "arstechnica",
-      "title": "DIY VR: How to build your own headset, and why you probably won't want to",
-      "summary": "A primer on the joys and pains of building your own head-mounted display.",
-      "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-      "published": "Mon, 19 Oct 2026 12:33:34 +0000",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "published": "Mon, 19 Oct 2026 19:39:19 +0000",
       "keywords": [
         "AI",
-        "VR"
+        "Hack",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:36.658541"
+      "crawled_at": "2026-10-19T21:49:32.845753"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "published": "Mon, 19 Oct 2026 19:27:24 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-19T21:49:32.845774"
     },
     {
       "source": "wired",
-      "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
-      "summary": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
-      "link": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
-      "published": "Mon, 19 Oct 2026 16:10:40 +0000",
+      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
+      "summary": "You can never have too many portable chargers, especially when they’re this discounted.",
+      "link": "https://www.wired.com/story/power-bank-deals-october-2026/",
+      "published": "Mon, 19 Oct 2026 20:55:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.796824"
+      "crawled_at": "2026-10-19T21:49:32.983330"
     },
     {
       "source": "wired",
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-      "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-      "published": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "published": "Mon, 19 Oct 2026 19:49:17 +0000",
       "keywords": [
-        "Meta",
+        "AI",
+        "OpenAI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-19T21:49:32.983363"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
+      "summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
+      "link": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
+      "published": "Mon, 19 Oct 2026 19:43:22 +0000",
+      "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-19T17:54:36.796872"
+      "crawled_at": "2026-10-19T21:49:32.983387"
     },
     {
       "source": "wired",
-      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
-      "link": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
-      "published": "Mon, 19 Oct 2026 11:30:00 +0000",
-      "keywords": [
-        "Rust"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-19T17:54:36.796898"
-    },
-    {
-      "source": "wired",
-      "title": "How the Xbox’s Disc-to-Digital Program Works",
-      "summary": "Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.",
-      "link": "https://www.wired.com/story/xbox-disc-to-digital/",
-      "published": "Mon, 19 Oct 2026 10:30:00 +0000",
-      "keywords": [
-        "Microsoft",
-        "Git"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-19T17:54:36.796925"
-    },
-    {
-      "source": "wired",
-      "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
-      "summary": "In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.",
-      "link": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
-      "published": "Mon, 19 Oct 2026 10:30:00 +0000",
+      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
+      "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
+      "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+      "published": "Mon, 19 Oct 2026 18:55:05 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-19T17:54:36.796954"
+      "crawled_at": "2026-10-19T21:49:32.983408"
+    },
+    {
+      "source": "wired",
+      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+      "summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
+      "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+      "published": "Mon, 19 Oct 2026 18:45:06 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-19T21:49:32.983438"
     }
   ]
 }
