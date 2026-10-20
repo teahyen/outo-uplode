@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-10-20T02:30:38.563458",
+  "last_updated": "2026-10-20T10:34:49.082336",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "published": "Tue, 20 Oct 2026 07:01:00 +0000",
+      "keywords": [
+        "AI",
+        "Security",
+        "Apple"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-20T10:34:48.630067"
+    },
     {
       "source": "techcrunch",
       "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
@@ -12,7 +26,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:37.607197"
+      "crawled_at": "2026-10-20T10:34:48.630475"
     },
     {
       "source": "techcrunch",
@@ -25,7 +39,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.607245"
+      "crawled_at": "2026-10-20T10:34:48.630516"
     },
     {
       "source": "techcrunch",
@@ -39,7 +53,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:37.607280"
+      "crawled_at": "2026-10-20T10:34:48.630551"
     },
     {
       "source": "techcrunch",
@@ -53,23 +67,37 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.607321"
+      "crawled_at": "2026-10-20T10:34:48.630592"
     },
     {
-      "source": "techcrunch",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "source": "theverge",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correc",
+      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "published": "2026-10-20T06:16:47-04:00",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Rust",
-        "Microsoft"
+        "Go",
+        "Google",
+        "5G",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.607354"
+      "crawled_at": "2026-10-20T10:34:48.687967"
+    },
+    {
+      "source": "theverge",
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that",
+      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "published": "2026-10-20T00:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Security",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-20T10:34:48.688030"
     },
     {
       "source": "theverge",
@@ -83,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.743461"
+      "crawled_at": "2026-10-20T10:34:48.688078"
     },
     {
       "source": "theverge",
@@ -93,12 +121,12 @@
       "published": "2026-10-19T17:48:01-04:00",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:37.743523"
+      "crawled_at": "2026-10-20T10:34:48.688148"
     },
     {
       "source": "theverge",
       "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
       "published": "2026-10-19T17:28:20-04:00",
       "keywords": [
@@ -107,99 +135,85 @@
         "API"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.743560"
-    },
-    {
-      "source": "theverge",
-      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident respon",
-      "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-      "published": "2026-10-19T17:00:17-04:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.743604"
-    },
-    {
-      "source": "theverge",
-      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
-      "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a disc",
-      "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
-      "published": "2026-10-19T14:52:41-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:37.743645"
+      "crawled_at": "2026-10-20T10:34:48.688193"
     },
     {
       "source": "hackernews",
-      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-      "summary": "Article URL: https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd\nComments URL: https://news.ycombinator.com/item?id=50160289\nPoints: 4\n# Comments: 1",
-      "link": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-      "published": "Tue, 20 Oct 2026 01:34:58 +0000",
+      "title": "Revolut down as users report app not working",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo\nComments URL: https://news.ycombinator.com/item?id=50163625\nPoints: 16\n# Comments: 4",
+      "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+      "published": "Tue, 20 Oct 2026 09:54:48 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.356487"
+      "category": "Mobile",
+      "crawled_at": "2026-10-20T10:34:48.794941"
     },
     {
       "source": "hackernews",
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "summary": "Article URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/\nComments URL: https://news.ycombinator.com/item?id=50159993\nPoints: 129\n# Comments: 49",
-      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "published": "Tue, 20 Oct 2026 00:53:52 +0000",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/\nComments URL: https://news.ycombinator.com/item?id=50163502\nPoints: 147\n# Comments: 89",
+      "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "published": "Tue, 20 Oct 2026 09:35:40 +0000",
       "keywords": [
         "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.356536"
-    },
-    {
-      "source": "hackernews",
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack\nComments URL: https://news.ycombinator.com/item?id=50159616\nPoints: 64\n# Comments: 62",
-      "link": "https://ipinfo.io/blog/france-fridges-hack",
-      "published": "Tue, 20 Oct 2026 00:00:49 +0000",
-      "keywords": [
         "Hack",
         "AR"
       ],
-      "category": "Security",
-      "crawled_at": "2026-10-20T02:30:38.356569"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-20T10:34:48.794979"
     },
     {
       "source": "hackernews",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\nComments URL: https://news.ycombinator.com/item?id=50159341\nPoints: 36\n# Comments: 4",
-      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "published": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "summary": "Article URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules\nComments URL: https://news.ycombinator.com/item?id=50163462\nPoints: 42\n# Comments: 16",
+      "link": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+      "published": "Tue, 20 Oct 2026 09:30:31 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-20T10:34:48.795018"
+    },
+    {
+      "source": "hackernews",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 137\n# Comments: 31",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "published": "Tue, 20 Oct 2026 09:08:54 +0000",
       "keywords": [
         "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.356599"
+      "crawled_at": "2026-10-20T10:34:48.795044"
     },
     {
       "source": "hackernews",
-      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
-      "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\nComments URL: https://news.ycombinator.com/item?id=50159245\nPoints: 38\n# Comments: 22",
-      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "published": "Mon, 19 Oct 2026 23:08:52 +0000",
+      "title": "Fizzpoker – No-login Online Poker with friends",
+      "summary": "Article URL: https://www.fizzpoker.com\nComments URL: https://news.ycombinator.com/item?id=50163173\nPoints: 6\n# Comments: 5",
+      "link": "https://www.fizzpoker.com",
+      "published": "Tue, 20 Oct 2026 08:55:50 +0000",
       "keywords": [
-        "IoT",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.356647"
+      "crawled_at": "2026-10-20T10:34:48.795083"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "published": "Tue, 20 Oct 2026 05:59:56 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-20T10:34:48.970312"
     },
     {
       "source": "arstechnica",
@@ -211,7 +225,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.447492"
+      "crawled_at": "2026-10-20T10:34:48.970356"
     },
     {
       "source": "arstechnica",
@@ -223,7 +237,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.447525"
+      "crawled_at": "2026-10-20T10:34:48.970380"
     },
     {
       "source": "arstechnica",
@@ -238,7 +252,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.447558"
+      "crawled_at": "2026-10-20T10:34:48.970406"
     },
     {
       "source": "arstechnica",
@@ -248,84 +262,67 @@
       "published": "Mon, 19 Oct 2026 20:03:55 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.447585"
-    },
-    {
-      "source": "arstechnica",
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "published": "Mon, 19 Oct 2026 19:39:19 +0000",
-      "keywords": [
-        "AI",
-        "Hack",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.447607"
+      "crawled_at": "2026-10-20T10:34:48.970433"
     },
     {
       "source": "wired",
-      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
-      "summary": "You can never have too many portable chargers, especially when they’re this discounted.",
-      "link": "https://www.wired.com/story/power-bank-deals-october-2026/",
-      "published": "Mon, 19 Oct 2026 20:55:15 +0000",
+      "title": "Sexual Assault Is a Free Speech Issue",
+      "summary": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
+      "link": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
+      "published": "Tue, 20 Oct 2026 10:30:00 +0000",
       "keywords": [
+        "AI",
         "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-20T10:34:49.082092"
+    },
+    {
+      "source": "wired",
+      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+      "summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
+      "link": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+      "published": "Tue, 20 Oct 2026 10:30:00 +0000",
+      "keywords": [
+        "Gaming"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.563185"
+      "crawled_at": "2026-10-20T10:34:49.082143"
     },
     {
       "source": "wired",
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "published": "Mon, 19 Oct 2026 19:49:17 +0000",
+      "title": "Organic Mattress Sale: 20 Percent Off Essentia Beds",
+      "summary": "Sleep healthier this winter with an organic mattress—now on heavy discount through November 2.",
+      "link": "https://www.wired.com/story/essentia-sale-october-2026/",
+      "published": "Tue, 20 Oct 2026 10:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-20T10:34:49.082178"
+    },
+    {
+      "source": "wired",
+      "title": "They Fled Trump’s America. Now They Regret it",
+      "summary": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
+      "link": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "published": "Tue, 20 Oct 2026 10:22:23 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Go"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.563229"
+      "crawled_at": "2026-10-20T10:34:49.082208"
     },
     {
       "source": "wired",
-      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
-      "summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
-      "link": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
-      "published": "Mon, 19 Oct 2026 19:43:22 +0000",
+      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
+      "summary": "By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.",
+      "link": "https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/",
+      "published": "Tue, 20 Oct 2026 10:15:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-20T02:30:38.563263"
-    },
-    {
-      "source": "wired",
-      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-      "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
-      "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-      "published": "Mon, 19 Oct 2026 18:55:05 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T02:30:38.563290"
-    },
-    {
-      "source": "wired",
-      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
-      "summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
-      "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
-      "published": "Mon, 19 Oct 2026 18:45:06 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T02:30:38.563331"
+      "crawled_at": "2026-10-20T10:34:49.082238"
     }
   ]
 }
