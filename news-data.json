@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-20T20:58:34.910854",
+  "last_updated": "2026-10-21T02:24:20.869247",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-21T02:24:20.121930"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "published": "Tue, 20 Oct 2026 22:57:57 +0000",
+      "keywords": [
+        "Tesla",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-21T02:24:20.121966"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Go",
+        "Hack",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-21T02:24:20.122201"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "keywords": [
+        "Anthropic",
+        "IPO",
+        "Cloud",
+        "AR"
+      ],
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-10-21T02:24:20.122231"
+    },
     {
       "source": "techcrunch",
       "title": "SpaceX’s AI business is beating expectations",
@@ -13,196 +70,187 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.126999"
+      "crawled_at": "2026-10-21T02:24:20.122249"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "source": "theverge",
+      "title": "YouTube might be testing hiding the dislike button",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for th",
+      "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "published": "2026-10-20T20:00:56-04:00",
+      "keywords": [
+        "Go",
+        "Google",
+        "5G",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-21T02:24:20.282429"
+    },
+    {
+      "source": "theverge",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "published": "2026-10-20T19:04:19-04:00",
       "keywords": [
         "AI",
         "OpenAI",
-        "Startup",
-        "IoT",
+        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.127055"
+      "crawled_at": "2026-10-21T02:24:20.282476"
     },
     {
-      "source": "techcrunch",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "published": "Tue, 20 Oct 2026 20:00:00 +0000",
+      "source": "theverge",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycare",
+      "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "published": "2026-10-20T18:20:11-04:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-21T02:24:20.282505"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini abou",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "published": "2026-10-20T18:11:34-04:00",
       "keywords": [
         "AI",
         "Go",
         "Google",
+        "Android",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.127092"
-    },
-    {
-      "source": "techcrunch",
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
-      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-      "published": "Tue, 20 Oct 2026 19:32:43 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:32.127129"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "Amazon"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.127161"
+      "crawled_at": "2026-10-21T02:24:20.282535"
     },
     {
       "source": "theverge",
-      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
-      "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology",
-      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
-      "published": "2026-10-20T16:52:07-04:00",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors",
+      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "published": "2026-10-20T17:30:24-04:00",
       "keywords": [
         "AI",
-        "Go",
+        "Tesla",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.208835"
-    },
-    {
-      "source": "theverge",
-      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
-      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help",
-      "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
-      "published": "2026-10-20T16:32:09-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:32.208893"
-    },
-    {
-      "source": "theverge",
-      "title": "SpaceX says big AI growth fueled revenue jump",
-      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its ",
-      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-      "published": "2026-10-20T16:26:58-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.208932"
-    },
-    {
-      "source": "theverge",
-      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic ",
-      "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "published": "2026-10-20T16:26:04-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:32.208982"
-    },
-    {
-      "source": "theverge",
-      "title": "TikTok has started censoring searches for popular peptides",
-      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include subst",
-      "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-      "published": "2026-10-20T16:16:04-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:32.209018"
+      "crawled_at": "2026-10-21T02:24:20.282561"
     },
     {
       "source": "hackernews",
-      "title": "On AI writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing\nComments URL: https://news.ycombinator.com/item?id=50171771\nPoints: 31\n# Comments: 5",
-      "link": "https://www.bolkunov.com/p/on-ai-writing",
-      "published": "Tue, 20 Oct 2026 19:55:11 +0000",
+      "title": "T3 Code now synced between GitHub and GitCafe",
+      "summary": "Article URL: https://git.cafe/pingdotgg/t3code\nComments URL: https://news.ycombinator.com/item?id=50175075\nPoints: 7\n# Comments: 5",
+      "link": "https://git.cafe/pingdotgg/t3code",
+      "published": "Wed, 21 Oct 2026 01:48:22 +0000",
       "keywords": [
-        "AI",
+        "Git",
+        "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.653282"
+      "category": "Programming",
+      "crawled_at": "2026-10-21T02:24:20.547728"
     },
     {
       "source": "hackernews",
-      "title": "SimCity, but with Permits",
-      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 276\n# Comments: 135",
-      "link": "https://permit.petercai.com/",
-      "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "title": "GitHub package firewall",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50175063\nPoints: 6\n# Comments: 0",
+      "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+      "published": "Wed, 21 Oct 2026 01:45:29 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.653318"
-    },
-    {
-      "source": "hackernews",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 45\n# Comments: 19",
-      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "published": "Tue, 20 Oct 2026 17:48:29 +0000",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.653350"
-    },
-    {
-      "source": "hackernews",
-      "title": "What shall I teach my son?",
-      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 111\n# Comments: 195",
-      "link": "https://stevekrouse.com/ends",
-      "published": "Tue, 20 Oct 2026 17:25:07 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.653382"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu\nComments URL: https://news.ycombinator.com/item?id=50169053\nPoints: 187\n# Comments: 47",
-      "link": "https://github.com/google-pytorch/torch_tpu",
-      "published": "Tue, 20 Oct 2026 16:40:24 +0000",
-      "keywords": [
-        "Go",
-        "Google",
         "Git",
         "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.653417"
+      "crawled_at": "2026-10-21T02:24:20.547767"
+    },
+    {
+      "source": "hackernews",
+      "title": "Good type against all odds",
+      "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 11\n# Comments: 4",
+      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "published": "Wed, 21 Oct 2026 01:45:07 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-21T02:24:20.547787"
+    },
+    {
+      "source": "hackernews",
+      "title": "Learning to live with Waymos",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird\nComments URL: https://news.ycombinator.com/item?id=50175057\nPoints: 7\n# Comments: 0",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "published": "Wed, 21 Oct 2026 01:44:34 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-21T02:24:20.547814"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "summary": "https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ\n\nComments URL: https://news.ycombinator.com/item?id=50173891\nPoints: 69\n# Comments: 43",
+      "link": "https://www.thebeliever.net/the-other-epidemic/",
+      "published": "Tue, 20 Oct 2026 23:04:09 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-21T02:24:20.547842"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+      "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "published": "Tue, 20 Oct 2026 22:04:54 +0000",
+      "keywords": [
+        "Go",
+        "Tesla"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-21T02:24:20.712652"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "published": "Tue, 20 Oct 2026 21:44:34 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-21T02:24:20.712686"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "published": "Tue, 20 Oct 2026 21:14:33 +0000",
+      "keywords": [
+        "Microsoft",
+        "AR",
+        "Gaming"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-21T02:24:20.712707"
     },
     {
       "source": "arstechnica",
@@ -214,7 +262,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.791943"
+      "crawled_at": "2026-10-21T02:24:20.712722"
     },
     {
       "source": "arstechnica",
@@ -228,45 +276,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.791984"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "published": "Tue, 20 Oct 2026 20:00:33 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.792013"
-    },
-    {
-      "source": "arstechnica",
-      "title": "OpenBSD 8.0 arrives with security record still intact",
-      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
-      "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-      "published": "Tue, 20 Oct 2026 19:57:18 +0000",
-      "keywords": [
-        "Security",
-        "VC",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-10-20T20:58:34.792038"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "published": "Tue, 20 Oct 2026 19:47:35 +0000",
-      "keywords": [
-        "Go"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.792068"
+      "crawled_at": "2026-10-21T02:24:20.712740"
     },
     {
       "source": "wired",
@@ -278,7 +288,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.910595"
+      "crawled_at": "2026-10-21T02:24:20.868978"
     },
     {
       "source": "wired",
@@ -291,7 +301,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.910633"
+      "crawled_at": "2026-10-21T02:24:20.869011"
     },
     {
       "source": "wired",
@@ -303,7 +313,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.910699"
+      "crawled_at": "2026-10-21T02:24:20.869075"
     },
     {
       "source": "wired",
@@ -316,7 +326,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-20T20:58:34.910727"
+      "crawled_at": "2026-10-21T02:24:20.869095"
     },
     {
       "source": "wired",
@@ -328,7 +338,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-20T20:58:34.910758"
+      "crawled_at": "2026-10-21T02:24:20.869118"
     }
   ]
 }
