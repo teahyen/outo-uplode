@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:19:48.918378",
+  "last_updated": "2026-10-22T10:47:52.288215",
   "news_count": 25,
   "news": [
     {
@@ -15,7 +15,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:47.889730"
+      "crawled_at": "2026-10-22T10:47:51.475253"
     },
     {
       "source": "techcrunch",
@@ -28,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:47.890015"
+      "crawled_at": "2026-10-22T10:47:51.475634"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:47.890052"
+      "crawled_at": "2026-10-22T10:47:51.475671"
     },
     {
       "source": "techcrunch",
@@ -54,7 +54,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:47.890081"
+      "crawled_at": "2026-10-22T10:47:51.475722"
     },
     {
       "source": "techcrunch",
@@ -67,7 +67,7 @@
         "VC"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:47.890112"
+      "crawled_at": "2026-10-22T10:47:51.475756"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-22T02:19:48.064370"
+      "crawled_at": "2026-10-22T10:47:51.614556"
     },
     {
       "source": "theverge",
@@ -92,7 +92,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-22T02:19:48.064446"
+      "crawled_at": "2026-10-22T10:47:51.614623"
     },
     {
       "source": "theverge",
@@ -105,7 +105,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.064485"
+      "crawled_at": "2026-10-22T10:47:51.614659"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.064522"
+      "crawled_at": "2026-10-22T10:47:51.614694"
     },
     {
       "source": "theverge",
@@ -133,73 +133,76 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.064568"
+      "crawled_at": "2026-10-22T10:47:51.614755"
     },
     {
       "source": "hackernews",
-      "title": "The era of speedball capitalism has dawned",
-      "summary": "Article URL: https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned\nComments URL: https://news.ycombinator.com/item?id=50189666\nPoints: 19\n# Comments: 3",
-      "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
-      "published": "Thu, 22 Oct 2026 00:48:10 +0000",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "summary": "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/\nComments URL: https://news.ycombinator.com/item?id=50193170\nPoints: 30\n# Comments: 0",
+      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "published": "Thu, 22 Oct 2026 09:31:18 +0000",
       "keywords": [
-        "API",
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.513491"
+      "crawled_at": "2026-10-22T10:47:51.923278"
     },
     {
       "source": "hackernews",
-      "title": "When Do We Become the Person We Ought to Be?",
-      "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought\nComments URL: https://news.ycombinator.com/item?id=50189278\nPoints: 16\n# Comments: 11",
-      "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
-      "published": "Wed, 21 Oct 2026 23:57:41 +0000",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943\nComments URL: https://news.ycombinator.com/item?id=50192900\nPoints: 103\n# Comments: 26",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "published": "Thu, 22 Oct 2026 08:51:31 +0000",
       "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.513540"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-22T10:47:51.923316"
     },
     {
       "source": "hackernews",
-      "title": "mitmproxy adds --emudhra option",
-      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 194\n# Comments: 50",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "published": "Wed, 21 Oct 2026 23:51:37 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.513579"
-    },
-    {
-      "source": "hackernews",
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\nComments URL: https://news.ycombinator.com/item?id=50189150\nPoints: 107\n# Comments: 83",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "published": "Wed, 21 Oct 2026 23:38:32 +0000",
+      "title": "Achieving AI-style reasoning without an LLM",
+      "summary": "Article URL: https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/\nComments URL: https://news.ycombinator.com/item?id=50192868\nPoints: 28\n# Comments: 4",
+      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "published": "Thu, 22 Oct 2026 08:46:58 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.513608"
+      "crawled_at": "2026-10-22T10:47:51.923345"
     },
     {
       "source": "hackernews",
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441\nComments URL: https://news.ycombinator.com/item?id=50189023\nPoints: 26\n# Comments: 15",
-      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
-      "published": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "title": "OpenAI CLI",
+      "summary": "Article URL: https://github.com/openai/openai-cli\nComments URL: https://news.ycombinator.com/item?id=50191507\nPoints: 126\n# Comments: 72",
+      "link": "https://github.com/openai/openai-cli",
+      "published": "Thu, 22 Oct 2026 05:23:11 +0000",
       "keywords": [
+        "AI",
+        "OpenAI",
         "Git",
         "GitHub",
         "AR"
       ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-22T10:47:51.923369"
+    },
+    {
+      "source": "hackernews",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 211\n# Comments: 141",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "published": "Thu, 22 Oct 2026 02:30:52 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.513655"
+      "crawled_at": "2026-10-22T10:47:51.923405"
     },
     {
       "source": "arstechnica",
@@ -212,7 +215,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.697291"
+      "crawled_at": "2026-10-22T10:47:52.091452"
     },
     {
       "source": "arstechnica",
@@ -224,7 +227,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.697333"
+      "crawled_at": "2026-10-22T10:47:52.091492"
     },
     {
       "source": "arstechnica",
@@ -236,7 +239,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.697405"
+      "crawled_at": "2026-10-22T10:47:52.091521"
     },
     {
       "source": "arstechnica",
@@ -248,7 +251,7 @@
         "Tesla"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.697454"
+      "crawled_at": "2026-10-22T10:47:52.091552"
     },
     {
       "source": "arstechnica",
@@ -261,74 +264,72 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.697488"
+      "crawled_at": "2026-10-22T10:47:52.091574"
     },
     {
       "source": "wired",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "published": "Wed, 21 Oct 2026 22:39:50 +0000",
+      "title": "Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "summary": "An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less Personalized Ads models at the beginning of this year.",
+      "link": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "published": "Thu, 22 Oct 2026 10:43:13 +0000",
       "keywords": [
-        "AI",
         "Meta",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.918112"
-    },
-    {
-      "source": "wired",
-      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
-      "summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
-      "link": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
-      "published": "Wed, 21 Oct 2026 21:57:22 +0000",
-      "keywords": [
-        "AI",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.918155"
-    },
-    {
-      "source": "wired",
-      "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
-      "summary": "As the White House contemplates losing Congress, there has been an unusually early effort to find a Republican scapegoat.",
-      "link": "https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/",
-      "published": "Wed, 21 Oct 2026 21:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.918202"
+      "crawled_at": "2026-10-22T10:47:52.287981"
     },
     {
       "source": "wired",
-      "title": "Trump Isn’t Even Good at TV Anymore",
-      "summary": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
-      "link": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
-      "published": "Wed, 21 Oct 2026 20:38:01 +0000",
+      "title": "I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went",
+      "summary": "A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.",
+      "link": "https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/",
+      "published": "Thu, 22 Oct 2026 10:30:00 +0000",
       "keywords": [
-        "AI",
-        "Go",
+        "iPhone",
+        "iOS",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-22T02:19:48.918231"
+      "category": "Mobile",
+      "crawled_at": "2026-10-22T10:47:52.288025"
     },
     {
       "source": "wired",
-      "title": "Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds",
-      "summary": "By keeping Skullcandy in Park City, Utah, Bose is betting that skate cred and budget pricing will reach listeners it’s been missing.",
-      "link": "https://www.wired.com/story/bose-acquires-skullcandy-october-2026/",
-      "published": "Wed, 21 Oct 2026 20:15:00 +0000",
+      "title": "They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028",
+      "summary": "A host of election-denying candidates are running for attorney general in states across the country.",
+      "link": "https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/",
+      "published": "Thu, 22 Oct 2026 10:15:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-22T02:19:48.918268"
+      "crawled_at": "2026-10-22T10:47:52.288057"
+    },
+    {
+      "source": "wired",
+      "title": "Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant",
+      "summary": "After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.",
+      "link": "https://www.wired.com/story/greenlight-hub-voice-assistant-feature/",
+      "published": "Thu, 22 Oct 2026 10:01:00 +0000",
+      "keywords": [
+        "Git",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-22T10:47:52.288097"
+    },
+    {
+      "source": "wired",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-22T10:47:52.288126"
     }
   ]
 }
