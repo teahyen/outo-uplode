@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-10-23T10:39:58.240809",
+  "last_updated": "2026-10-23T16:03:53.283550",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "published": "Fri, 23 Oct 2026 16:02:43 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-23T16:03:52.669536"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+      "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+      "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "published": "Fri, 23 Oct 2026 15:00:09 +0000",
+      "keywords": [
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-10-23T16:03:52.669594"
+    },
     {
       "source": "techcrunch",
       "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
@@ -14,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.733845"
+      "crawled_at": "2026-10-23T16:03:52.669622"
     },
     {
       "source": "techcrunch",
@@ -27,7 +55,7 @@
         "API"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.733877"
+      "crawled_at": "2026-10-23T16:03:52.669648"
     },
     {
       "source": "techcrunch",
@@ -40,164 +68,184 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.733905"
+      "crawled_at": "2026-10-23T16:03:52.669675"
     },
     {
-      "source": "techcrunch",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "published": "Thu, 22 Oct 2026 23:50:41 +0000",
+      "source": "theverge",
+      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+      "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety St",
+      "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+      "published": "2026-10-23T11:24:45-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:52.757008"
+    },
+    {
+      "source": "theverge",
+      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+      "summary": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&#38;T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The m",
+      "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+      "published": "2026-10-23T11:16:24-04:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-23T16:03:52.757075"
+    },
+    {
+      "source": "theverge",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "published": "2026-10-23T10:47:41-04:00",
       "keywords": [
         "AI",
+        "Go",
+        "API",
         "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.734220"
+      "crawled_at": "2026-10-23T16:03:52.757112"
     },
     {
-      "source": "techcrunch",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "published": "Thu, 22 Oct 2026 23:15:00 +0000",
+      "source": "theverge",
+      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+      "summary": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time",
+      "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+      "published": "2026-10-23T10:42:46-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.734258"
+      "crawled_at": "2026-10-23T16:03:52.757155"
     },
     {
       "source": "theverge",
-      "title": "No, the iPhone Duo isn’t a small phone",
-      "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-      "published": "2026-10-23T06:00:00-04:00",
+      "title": "Our best tips for using the iPhone Duo",
+      "summary": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+      "published": "2026-10-23T10:00:00-04:00",
       "keywords": [
-        "Go",
         "iPhone",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-23T10:39:57.834297"
+      "crawled_at": "2026-10-23T16:03:52.757190"
     },
     {
-      "source": "theverge",
-      "title": "Etsy is cracking down on AI slop listings",
-      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongsi",
-      "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "published": "2026-10-22T20:09:58-04:00",
+      "source": "hackernews",
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\nComments URL: https://news.ycombinator.com/item?id=50210067\nPoints: 42\n# Comments: 6",
+      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "published": "Fri, 23 Oct 2026 14:52:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:52.994404"
+    },
+    {
+      "source": "hackernews",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 375\n# Comments: 273",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "published": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:52.994453"
+    },
+    {
+      "source": "hackernews",
+      "title": "Shitter – A Nitter Fork",
+      "summary": "Article URL: https://codeberg.org/shitter/shitter\nComments URL: https://news.ycombinator.com/item?id=50208343\nPoints: 121\n# Comments: 69",
+      "link": "https://codeberg.org/shitter/shitter",
+      "published": "Fri, 23 Oct 2026 13:02:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-10-23T16:03:52.994490"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenSSL 4.1.0",
+      "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0\nComments URL: https://news.ycombinator.com/item?id=50208099\nPoints: 130\n# Comments: 32",
+      "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "published": "Fri, 23 Oct 2026 12:42:44 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:52.994523"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/\nComments URL: https://news.ycombinator.com/item?id=50207620\nPoints: 14\n# Comments: 5",
+      "link": "https://www.thisandthat.chat/enron/",
+      "published": "Fri, 23 Oct 2026 12:02:53 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.834338"
+      "crawled_at": "2026-10-23T16:03:52.994549"
     },
     {
-      "source": "theverge",
-      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-      "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a que",
-      "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-      "published": "2026-10-22T19:02:43-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-23T10:39:57.834377"
-    },
-    {
-      "source": "theverge",
-      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft k",
-      "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-      "published": "2026-10-22T19:00:00-04:00",
+      "source": "arstechnica",
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+      "published": "Fri, 23 Oct 2026 13:43:21 +0000",
       "keywords": [
         "React",
-        "Microsoft",
-        "AR",
-        "Gaming"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:57.834430"
+      "crawled_at": "2026-10-23T16:03:53.172777"
     },
     {
-      "source": "theverge",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "published": "2026-10-22T17:51:25-04:00",
+      "source": "arstechnica",
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "published": "Fri, 23 Oct 2026 11:30:22 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Go",
-        "Google",
-        "Microsoft"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.834470"
-    },
-    {
-      "source": "hackernews",
-      "title": "France needs to read my paper",
-      "summary": "Article URL: https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/\nComments URL: https://news.ycombinator.com/item?id=50206586\nPoints: 11\n# Comments: 0",
-      "link": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
-      "published": "Fri, 23 Oct 2026 09:54:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:57.962989"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Rise and Fall of Jev",
-      "summary": "Article URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm\nComments URL: https://news.ycombinator.com/item?id=50206361\nPoints: 3\n# Comments: 0",
-      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
-      "published": "Fri, 23 Oct 2026 09:21:00 +0000",
-      "keywords": [
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:57.963023"
+      "crawled_at": "2026-10-23T16:03:53.172812"
     },
     {
-      "source": "hackernews",
-      "title": "I Did This Without Your Knowledge",
-      "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge\nComments URL: https://news.ycombinator.com/item?id=50204926\nPoints: 38\n# Comments: 21",
-      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-      "published": "Fri, 23 Oct 2026 05:51:45 +0000",
+      "source": "arstechnica",
+      "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+      "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
+      "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+      "published": "Fri, 23 Oct 2026 11:15:03 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:53.172849"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+      "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
+      "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+      "published": "Fri, 23 Oct 2026 11:00:57 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:57.963060"
-    },
-    {
-      "source": "hackernews",
-      "title": "This I Believe (1952)",
-      "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468\nComments URL: https://news.ycombinator.com/item?id=50203759\nPoints: 92\n# Comments: 34",
-      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "published": "Fri, 23 Oct 2026 02:19:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:57.963092"
-    },
-    {
-      "source": "hackernews",
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 186\n# Comments: 109",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "published": "Fri, 23 Oct 2026 00:52:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-23T10:39:57.963122"
+      "crawled_at": "2026-10-23T16:03:53.172879"
     },
     {
       "source": "arstechnica",
@@ -210,54 +258,55 @@
         "Hack"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-23T10:39:58.103020"
+      "crawled_at": "2026-10-23T16:03:53.172904"
     },
     {
-      "source": "arstechnica",
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
-      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-      "published": "Thu, 22 Oct 2026 22:12:19 +0000",
+      "source": "wired",
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+      "link": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+      "published": "Fri, 23 Oct 2026 15:00:00 +0000",
+      "keywords": [
+        "Go",
+        "Meta"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:53.283217"
+    },
+    {
+      "source": "wired",
+      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+      "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+      "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+      "published": "Fri, 23 Oct 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:58.103055"
+      "crawled_at": "2026-10-23T16:03:53.283279"
     },
     {
-      "source": "arstechnica",
-      "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-      "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-      "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-      "published": "Thu, 22 Oct 2026 21:52:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:58.103084"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:58.103106"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-      "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-      "published": "Thu, 22 Oct 2026 20:17:52 +0000",
+      "source": "wired",
+      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
+      "summary": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
+      "link": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
+      "published": "Fri, 23 Oct 2026 11:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:58.103133"
+      "crawled_at": "2026-10-23T16:03:53.283337"
+    },
+    {
+      "source": "wired",
+      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
+      "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
+      "link": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
+      "published": "Fri, 23 Oct 2026 10:45:00 +0000",
+      "keywords": [
+        "AR",
+        "Gaming"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-23T16:03:53.283371"
     },
     {
       "source": "wired",
@@ -267,57 +316,7 @@
       "published": "Fri, 23 Oct 2026 10:30:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-23T10:39:58.240607"
-    },
-    {
-      "source": "wired",
-      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
-      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
-      "link": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
-      "published": "Fri, 23 Oct 2026 10:15:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-23T10:39:58.240649"
-    },
-    {
-      "source": "wired",
-      "title": "What Type of Mattress Is Right for You? (2026)",
-      "summary": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
-      "link": "https://www.wired.com/story/mattress-types-explained-2026/",
-      "published": "Fri, 23 Oct 2026 10:08:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:58.240676"
-    },
-    {
-      "source": "wired",
-      "title": "8 Things to Know About the iPhone Duo",
-      "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
-      "link": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
-      "published": "Fri, 23 Oct 2026 09:15:00 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-23T10:39:58.240709"
-    },
-    {
-      "source": "wired",
-      "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
-      "summary": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
-      "link": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
-      "published": "Fri, 23 Oct 2026 09:07:00 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-23T10:39:58.240735"
+      "crawled_at": "2026-10-23T16:03:53.283412"
     }
   ]
 }
