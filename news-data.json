@@ -1,7 +1,32 @@
 {
-  "last_updated": "2026-10-24T19:56:47.606634",
+  "last_updated": "2026-10-25T02:10:34.901103",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-25T02:10:34.201715"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-25T02:10:34.201750"
+    },
     {
       "source": "techcrunch",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -16,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:46.494256"
+      "crawled_at": "2026-10-25T02:10:34.202193"
     },
     {
       "source": "techcrunch",
@@ -28,7 +53,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:46.494301"
+      "crawled_at": "2026-10-25T02:10:34.202242"
     },
     {
       "source": "techcrunch",
@@ -40,34 +65,21 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:46.494329"
+      "crawled_at": "2026-10-25T02:10:34.202269"
     },
     {
-      "source": "techcrunch",
-      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
-      "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "published": "Sat, 24 Oct 2026 15:30:00 +0000",
+      "source": "theverge",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published": "2026-10-24T17:29:12-04:00",
       "keywords": [
+        "AI",
+        "Go",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-10-24T19:56:46.494367"
-    },
-    {
-      "source": "techcrunch",
-      "title": "These clever apps show off the iPhone Duo’s potential",
-      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "Git",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-24T19:56:46.494403"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-25T02:10:34.348405"
     },
     {
       "source": "theverge",
@@ -82,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:46.638521"
+      "crawled_at": "2026-10-25T02:10:34.348452"
     },
     {
       "source": "theverge",
@@ -95,7 +107,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-24T19:56:46.638592"
+      "crawled_at": "2026-10-25T02:10:34.348495"
     },
     {
       "source": "theverge",
@@ -108,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:46.638636"
+      "crawled_at": "2026-10-25T02:10:34.348536"
     },
     {
       "source": "theverge",
@@ -122,87 +134,72 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-24T19:56:46.638683"
+      "crawled_at": "2026-10-25T02:10:34.348603"
     },
     {
-      "source": "theverge",
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RT",
-      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "published": "2026-10-24T10:00:00-04:00",
+      "source": "hackernews",
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb\nComments URL: https://news.ycombinator.com/item?id=50226646\nPoints: 12\n# Comments: 3",
+      "link": "https://codeberg.org/Misom/FindMyWeb",
+      "published": "Sat, 24 Oct 2026 23:42:52 +0000",
       "keywords": [
-        "Go",
         "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-24T19:56:46.638732"
+      "category": "Programming",
+      "crawled_at": "2026-10-25T02:10:34.578192"
     },
     {
       "source": "hackernews",
-      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-      "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/\nComments URL: https://news.ycombinator.com/item?id=50224074\nPoints: 38\n# Comments: 8",
-      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-      "published": "Sat, 24 Oct 2026 19:03:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.246483"
-    },
-    {
-      "source": "hackernews",
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft\nComments URL: https://news.ycombinator.com/item?id=50223844\nPoints: 52\n# Comments: 12",
-      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-      "published": "Sat, 24 Oct 2026 18:31:48 +0000",
+      "title": "Why Gopher in 2026?",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt\nComments URL: https://news.ycombinator.com/item?id=50226577\nPoints: 24\n# Comments: 7",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "published": "Sat, 24 Oct 2026 23:33:19 +0000",
       "keywords": [
         "Go",
-        "Microsoft",
-        "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.246537"
+      "crawled_at": "2026-10-25T02:10:34.578234"
     },
     {
       "source": "hackernews",
-      "title": "Dream-1",
-      "summary": "Article URL: https://dreamlabs.ai/research/dream-1/\nComments URL: https://news.ycombinator.com/item?id=50223785\nPoints: 66\n# Comments: 37",
-      "link": "https://dreamlabs.ai/research/dream-1/",
-      "published": "Sat, 24 Oct 2026 18:23:24 +0000",
+      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
+      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/\nComments URL: https://news.ycombinator.com/item?id=50226434\nPoints: 44\n# Comments: 33",
+      "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+      "published": "Sat, 24 Oct 2026 23:14:30 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T02:10:34.578273"
+    },
+    {
+      "source": "hackernews",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 171\n# Comments: 143",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "published": "Sat, 24 Oct 2026 23:11:54 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.246581"
+      "crawled_at": "2026-10-25T02:10:34.578301"
     },
     {
       "source": "hackernews",
-      "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeh8870\nComments URL: https://news.ycombinator.com/item?id=50223752\nPoints: 24\n# Comments: 7",
-      "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-      "published": "Sat, 24 Oct 2026 18:19:05 +0000",
+      "title": "We should be more ambitious with the software we build",
+      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 172\n# Comments: 132",
+      "link": "https://danluu.com/ambitious/",
+      "published": "Sat, 24 Oct 2026 21:47:31 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.246611"
-    },
-    {
-      "source": "hackernews",
-      "title": "Why is AI generated language so hard to understand?",
-      "summary": "Article URL: https://arxiv.org/abs/2610.29162\nComments URL: https://news.ycombinator.com/item?id=50223647\nPoints: 40\n# Comments: 27",
-      "link": "https://arxiv.org/abs/2610.29162",
-      "published": "Sat, 24 Oct 2026 18:04:57 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.246636"
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T02:10:34.578334"
     },
     {
       "source": "arstechnica",
@@ -215,7 +212,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-24T19:56:47.400327"
+      "crawled_at": "2026-10-25T02:10:34.712383"
     },
     {
       "source": "arstechnica",
@@ -229,7 +226,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.400359"
+      "crawled_at": "2026-10-25T02:10:34.712415"
     },
     {
       "source": "arstechnica",
@@ -239,7 +236,7 @@
       "published": "Fri, 23 Oct 2026 22:48:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.400389"
+      "crawled_at": "2026-10-25T02:10:34.712447"
     },
     {
       "source": "arstechnica",
@@ -252,7 +249,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.400419"
+      "crawled_at": "2026-10-25T02:10:34.712477"
     },
     {
       "source": "arstechnica",
@@ -267,7 +264,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.400440"
+      "crawled_at": "2026-10-25T02:10:34.712498"
     },
     {
       "source": "wired",
@@ -281,7 +278,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-24T19:56:47.606335"
+      "crawled_at": "2026-10-25T02:10:34.900856"
     },
     {
       "source": "wired",
@@ -293,7 +290,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.606392"
+      "crawled_at": "2026-10-25T02:10:34.900911"
     },
     {
       "source": "wired",
@@ -305,7 +302,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.606425"
+      "crawled_at": "2026-10-25T02:10:34.900945"
     },
     {
       "source": "wired",
@@ -319,7 +316,7 @@
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-10-24T19:56:47.606481"
+      "crawled_at": "2026-10-25T02:10:34.900983"
     },
     {
       "source": "wired",
@@ -332,7 +329,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-24T19:56:47.606520"
+      "crawled_at": "2026-10-25T02:10:34.901020"
     }
   ]
 }
