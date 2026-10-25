@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T02:10:34.901103",
+  "last_updated": "2026-10-25T10:20:11.828038",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.201715"
+      "crawled_at": "2026-10-25T10:20:08.802864"
     },
     {
       "source": "techcrunch",
@@ -25,7 +25,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.201750"
+      "crawled_at": "2026-10-25T10:20:08.802893"
     },
     {
       "source": "techcrunch",
@@ -41,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.202193"
+      "crawled_at": "2026-10-25T10:20:08.803146"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.202242"
+      "crawled_at": "2026-10-25T10:20:08.803174"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.202269"
+      "crawled_at": "2026-10-25T10:20:08.803194"
     },
     {
       "source": "theverge",
@@ -79,7 +79,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.348405"
+      "crawled_at": "2026-10-25T10:20:08.900824"
     },
     {
       "source": "theverge",
@@ -94,7 +94,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.348452"
+      "crawled_at": "2026-10-25T10:20:08.900863"
     },
     {
       "source": "theverge",
@@ -107,7 +107,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-25T02:10:34.348495"
+      "crawled_at": "2026-10-25T10:20:08.900899"
     },
     {
       "source": "theverge",
@@ -120,7 +120,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.348536"
+      "crawled_at": "2026-10-25T10:20:08.900934"
     },
     {
       "source": "theverge",
@@ -134,25 +134,62 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-10-25T02:10:34.348603"
+      "crawled_at": "2026-10-25T10:20:08.900973"
     },
     {
       "source": "hackernews",
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb\nComments URL: https://news.ycombinator.com/item?id=50226646\nPoints: 12\n# Comments: 3",
-      "link": "https://codeberg.org/Misom/FindMyWeb",
-      "published": "Sat, 24 Oct 2026 23:42:52 +0000",
+      "title": "Online censorship is crushing indie webcomics",
+      "summary": "Article URL: https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463\nComments URL: https://news.ycombinator.com/item?id=50229599\nPoints: 39\n# Comments: 15",
+      "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "published": "Sun, 25 Oct 2026 09:04:13 +0000",
       "keywords": [
-        "Apple",
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-10-25T02:10:34.578192"
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T10:20:11.582782"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order\nComments URL: https://news.ycombinator.com/item?id=50229587\nPoints: 108\n# Comments: 40",
+      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "published": "Sun, 25 Oct 2026 09:00:40 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T10:20:11.582822"
+    },
+    {
+      "source": "hackernews",
+      "title": "Not Palantir",
+      "summary": "Article URL: https://notpalantir.eu/\nComments URL: https://news.ycombinator.com/item?id=50228988\nPoints: 12\n# Comments: 2",
+      "link": "https://notpalantir.eu/",
+      "published": "Sun, 25 Oct 2026 06:55:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T10:20:11.582846"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\nComments URL: https://news.ycombinator.com/item?id=50227356\nPoints: 168\n# Comments: 57",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "published": "Sun, 25 Oct 2026 01:33:49 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-25T10:20:11.582868"
     },
     {
       "source": "hackernews",
       "title": "Why Gopher in 2026?",
-      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt\nComments URL: https://news.ycombinator.com/item?id=50226577\nPoints: 24\n# Comments: 7",
+      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt\nComments URL: https://news.ycombinator.com/item?id=50226577\nPoints: 76\n# Comments: 25",
       "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
       "published": "Sat, 24 Oct 2026 23:33:19 +0000",
       "keywords": [
@@ -160,46 +197,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.578234"
-    },
-    {
-      "source": "hackernews",
-      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-      "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/\nComments URL: https://news.ycombinator.com/item?id=50226434\nPoints: 44\n# Comments: 33",
-      "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-      "published": "Sat, 24 Oct 2026 23:14:30 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.578273"
-    },
-    {
-      "source": "hackernews",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 171\n# Comments: 143",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "published": "Sat, 24 Oct 2026 23:11:54 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.578301"
-    },
-    {
-      "source": "hackernews",
-      "title": "We should be more ambitious with the software we build",
-      "summary": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 172\n# Comments: 132",
-      "link": "https://danluu.com/ambitious/",
-      "published": "Sat, 24 Oct 2026 21:47:31 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.578334"
+      "crawled_at": "2026-10-25T10:20:11.582893"
     },
     {
       "source": "arstechnica",
@@ -212,7 +210,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-25T02:10:34.712383"
+      "crawled_at": "2026-10-25T10:20:11.678966"
     },
     {
       "source": "arstechnica",
@@ -226,7 +224,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.712415"
+      "crawled_at": "2026-10-25T10:20:11.678994"
     },
     {
       "source": "arstechnica",
@@ -236,7 +234,7 @@
       "published": "Fri, 23 Oct 2026 22:48:25 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.712447"
+      "crawled_at": "2026-10-25T10:20:11.679019"
     },
     {
       "source": "arstechnica",
@@ -249,7 +247,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.712477"
+      "crawled_at": "2026-10-25T10:20:11.679042"
     },
     {
       "source": "arstechnica",
@@ -264,7 +262,58 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.712498"
+      "crawled_at": "2026-10-25T10:20:11.679059"
+    },
+    {
+      "source": "wired",
+      "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+      "summary": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out.",
+      "link": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+      "published": "Sun, 25 Oct 2026 10:15:00 +0000",
+      "keywords": [
+        "Apple",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-25T10:20:11.827828"
+    },
+    {
+      "source": "wired",
+      "title": "Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries",
+      "summary": "Hyve’s smart porch lockbox can secure incoming gifts—if your delivery driver uses it and there’s still room inside.",
+      "link": "https://www.wired.com/review/hyve-smart-package-locker/",
+      "published": "Sun, 25 Oct 2026 10:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T10:20:11.827869"
+    },
+    {
+      "source": "wired",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-25T10:20:11.827898"
+    },
+    {
+      "source": "wired",
+      "title": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
+      "summary": "WIRED attempts what even the Swedish brand hasn’t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?",
+      "link": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
+      "published": "Sun, 25 Oct 2026 09:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-25T10:20:11.827932"
     },
     {
       "source": "wired",
@@ -278,58 +327,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-25T02:10:34.900856"
-    },
-    {
-      "source": "wired",
-      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
-      "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
-      "link": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
-      "published": "Sat, 24 Oct 2026 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.900911"
-    },
-    {
-      "source": "wired",
-      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
-      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
-      "link": "https://www.wired.com/gallery/best-pet-cameras/",
-      "published": "Sat, 24 Oct 2026 11:03:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.900945"
-    },
-    {
-      "source": "wired",
-      "title": "9 Unique Apps to Try on the iPhone Duo",
-      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-      "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-      "published": "Sat, 24 Oct 2026 10:45:00 +0000",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-10-25T02:10:34.900983"
-    },
-    {
-      "source": "wired",
-      "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-      "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-      "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-      "published": "Sat, 24 Oct 2026 10:30:00 +0000",
-      "keywords": [
-        "IoT",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-25T02:10:34.901020"
+      "crawled_at": "2026-10-25T10:20:11.827952"
     }
   ]
 }
