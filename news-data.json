@@ -1,23 +1,50 @@
 {
-  "last_updated": "2026-10-26T22:02:48.810179",
+  "last_updated": "2026-10-27T02:47:34.565016",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:33.755425"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "keywords": [
+        "AI",
+        "Rust",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:33.755803"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
       "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
       "published": "Mon, 26 Oct 2026 22:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:28.531826"
+      "crawled_at": "2026-10-27T02:47:33.755856"
     },
     {
       "source": "techcrunch",
       "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
+      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
       "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
       "published": "Mon, 26 Oct 2026 21:05:11 +0000",
       "keywords": [
@@ -25,7 +52,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:28.531883"
+      "crawled_at": "2026-10-27T02:47:33.755899"
     },
     {
       "source": "techcrunch",
@@ -40,36 +67,50 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:28.531917"
+      "crawled_at": "2026-10-27T02:47:33.755930"
     },
     {
-      "source": "techcrunch",
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "published": "Mon, 26 Oct 2026 18:59:52 +0000",
+      "source": "theverge",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts th",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T19:34:58-04:00",
       "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:33.918745"
+    },
+    {
+      "source": "theverge",
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and t",
+      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "published": "2026-10-26T17:56:36-04:00",
+      "keywords": [
+        "AI",
         "Go",
-        "Startup",
-        "Funding",
+        "Amazon",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-10-26T22:02:28.531953"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:33.918802"
     },
     {
-      "source": "techcrunch",
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "published": "Mon, 26 Oct 2026 17:45:00 +0000",
+      "source": "theverge",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published": "2026-10-26T17:45:31-04:00",
       "keywords": [
-        "Startup",
-        "Funding",
+        "AI",
+        "Anthropic",
+        "Go",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-10-26T22:02:28.531993"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:33.918840"
     },
     {
       "source": "theverge",
@@ -85,7 +126,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:28.691176"
+      "crawled_at": "2026-10-27T02:47:33.918872"
     },
     {
       "source": "theverge",
@@ -98,114 +139,82 @@
         "AR"
       ],
       "category": "Blockchain",
-      "crawled_at": "2026-10-26T22:02:28.691239"
-    },
-    {
-      "source": "theverge",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve sy",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "published": "2026-10-26T13:30:55-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:28.691282"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
-      "summary": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If you",
-      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "published": "2026-10-26T13:28:07-04:00",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-26T22:02:28.691324"
-    },
-    {
-      "source": "theverge",
-      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-      "summary": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T13:25:34-04:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:28.691364"
+      "crawled_at": "2026-10-27T02:47:33.918922"
     },
     {
       "source": "hackernews",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 14\n# Comments: 1",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 22\n# Comments: 1",
+      "link": "https://github.com/otya128/winevdm",
+      "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+      "keywords": [
+        "Windows",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T02:47:34.173053"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 83\n# Comments: 23",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:34.173115"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPoints: 28\n# Comments: 18",
+      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "published": "Mon, 26 Oct 2026 22:27:17 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T02:47:34.173161"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\n\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 342\n# Comments: 136",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "published": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T02:47:34.173202"
+    },
+    {
+      "source": "hackernews",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "summary": "Related:The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661\n\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 534\n# Comments: 226",
       "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "published": "Mon, 26 Oct 2026 21:35:28 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.572674"
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T02:47:34.173241"
     },
     {
-      "source": "hackernews",
-      "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-      "summary": "Article URL: https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce\nComments URL: https://news.ycombinator.com/item?id=50250937\nPoints: 62\n# Comments: 28",
-      "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-      "published": "Mon, 26 Oct 2026 21:05:15 +0000",
+      "source": "arstechnica",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "published": "Mon, 26 Oct 2026 22:36:06 +0000",
       "keywords": [
         "Microsoft",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.572723"
-    },
-    {
-      "source": "hackernews",
-      "title": "Magic state cultivation on a superconducting quantum processor",
-      "summary": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivation offers an efficient alternative to resource-intensive distillation protocols;",
-      "link": "https://arxiv.org/abs/2512.13908",
-      "published": "Mon, 26 Oct 2026 19:37:59 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.572831"
-    },
-    {
-      "source": "hackernews",
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/\nComments URL: https://news.ycombinator.com/item?id=50249275\nPoints: 164\n# Comments: 27",
-      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "published": "Mon, 26 Oct 2026 19:05:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.572872"
-    },
-    {
-      "source": "hackernews",
-      "title": "US designates helium as a critical material",
-      "summary": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c\nComments URL: https://news.ycombinator.com/item?id=50248665\nPoints: 136\n# Comments: 66",
-      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "published": "Mon, 26 Oct 2026 18:31:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.572909"
+      "crawled_at": "2026-10-27T02:47:34.409287"
     },
     {
       "source": "arstechnica",
@@ -217,7 +226,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.691352"
+      "crawled_at": "2026-10-27T02:47:34.409324"
     },
     {
       "source": "arstechnica",
@@ -229,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.691390"
+      "crawled_at": "2026-10-27T02:47:34.409358"
     },
     {
       "source": "arstechnica",
@@ -244,7 +253,7 @@
         "iOS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.691415"
+      "crawled_at": "2026-10-27T02:47:34.409381"
     },
     {
       "source": "arstechnica",
@@ -257,19 +266,20 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.691437"
+      "crawled_at": "2026-10-27T02:47:34.409403"
     },
     {
-      "source": "arstechnica",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "published": "Mon, 26 Oct 2026 18:50:41 +0000",
+      "source": "wired",
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "published": "Mon, 26 Oct 2026 22:40:37 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.691466"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T02:47:34.564750"
     },
     {
       "source": "wired",
@@ -283,7 +293,7 @@
         "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.809893"
+      "crawled_at": "2026-10-27T02:47:34.564792"
     },
     {
       "source": "wired",
@@ -295,7 +305,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.809935"
+      "crawled_at": "2026-10-27T02:47:34.564824"
     },
     {
       "source": "wired",
@@ -307,7 +317,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-26T22:02:48.809974"
+      "crawled_at": "2026-10-27T02:47:34.564863"
     },
     {
       "source": "wired",
@@ -321,21 +331,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.809997"
-    },
-    {
-      "source": "wired",
-      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
-      "summary": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
-      "link": "https://www.wired.com/review/google-fitbit-edge/",
-      "published": "Mon, 26 Oct 2026 18:49:49 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-26T22:02:48.810019"
+      "crawled_at": "2026-10-27T02:47:34.564885"
     }
   ]
 }
