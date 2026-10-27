@@ -1,201 +1,263 @@
 {
-  "last_updated": "2026-10-27T11:13:15.824210",
+  "last_updated": "2026-10-27T16:59:07.637753",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "published": "Tue, 27 Oct 2026 16:30:57 +0000",
       "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.154324"
-    },
-    {
-      "source": "techcrunch",
-      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-      "summary": "Whose hand is behind this travesty?",
-      "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-      "published": "Tue, 27 Oct 2026 06:34:44 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:14.154364"
-    },
-    {
-      "source": "techcrunch",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.154392"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
-      "keywords": [
-        "AI",
         "Rust",
+        "Go",
+        "Google",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.154850"
+      "category": "Programming",
+      "crawled_at": "2026-10-27T16:59:02.638034"
     },
     {
       "source": "techcrunch",
-      "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:14.154943"
-    },
-    {
-      "source": "theverge",
-      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-o",
-      "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "published": "2026-10-27T07:00:00-04:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.232257"
-    },
-    {
-      "source": "theverge",
-      "title": "Data center backlash is uniting America",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become",
-      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "published": "2026-10-27T06:00:00-04:00",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:14.232324"
-    },
-    {
-      "source": "theverge",
-      "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-      "summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on [&#82",
-      "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-      "published": "2026-10-27T05:54:22-04:00",
-      "keywords": [
-        "AI",
-        "AR",
-        "Gaming"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.232362"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts th",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "published": "2026-10-26T19:34:58-04:00",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.232399"
-    },
-    {
-      "source": "theverge",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and t",
-      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-      "published": "2026-10-26T17:56:36-04:00",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "published": "Tue, 27 Oct 2026 14:59:09 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Amazon",
+        "Startup",
+        "Google",
+        "Microsoft"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:02.638081"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+      "published": "Tue, 27 Oct 2026 14:51:33 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T16:59:02.638122"
+    },
+    {
+      "source": "techcrunch",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+      "published": "Tue, 27 Oct 2026 14:40:39 +0000",
+      "keywords": [
+        "Go",
+        "Hack",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-10-27T16:59:02.638152"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "published": "Tue, 27 Oct 2026 14:25:11 +0000",
+      "keywords": [
+        "Apple"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-27T16:59:02.638179"
+    },
+    {
+      "source": "theverge",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "published": "2026-10-27T12:51:22-04:00",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "IPO",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:14.232442"
+      "crawled_at": "2026-10-27T16:59:02.821104"
     },
     {
-      "source": "hackernews",
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "summary": "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/\nComments URL: https://news.ycombinator.com/item?id=50256985\nPoints: 54\n# Comments: 15",
-      "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "published": "Tue, 27 Oct 2026 10:27:50 +0000",
+      "source": "theverge",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the",
+      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "published": "2026-10-27T12:44:40-04:00",
       "keywords": [
-        "5G",
+        "AI",
+        "Meta",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.553287"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:02.821152"
     },
     {
-      "source": "hackernews",
-      "title": "I will no longer upload to NEW",
-      "summary": "Article URL: https://lists.debian.org/debian-devel/2026/10/msg00263.html\nComments URL: https://news.ycombinator.com/item?id=50256738\nPoints: 65\n# Comments: 15",
-      "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
-      "published": "Tue, 27 Oct 2026 09:59:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.553332"
-    },
-    {
-      "source": "hackernews",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50255298\nPoints: 175\n# Comments: 125",
-      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "published": "Tue, 27 Oct 2026 06:25:37 +0000",
+      "source": "theverge",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "published": "2026-10-27T12:14:18-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:15.553360"
+      "crawled_at": "2026-10-27T16:59:02.821194"
+    },
+    {
+      "source": "theverge",
+      "title": "Major League Baseball is looking for a new kind of fan",
+      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, a",
+      "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+      "published": "2026-10-27T12:02:43-04:00",
+      "keywords": [
+        "AI",
+        "Go"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:02.821227"
+    },
+    {
+      "source": "theverge",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 ",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "published": "2026-10-27T12:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:02.821267"
     },
     {
       "source": "hackernews",
-      "title": "Writing about pratt parsing so I remember it",
-      "summary": "Article URL: https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\nComments URL: https://news.ycombinator.com/item?id=50255177\nPoints: 40\n# Comments: 3",
-      "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
-      "published": "Tue, 27 Oct 2026 06:02:23 +0000",
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\nComments URL: https://news.ycombinator.com/item?id=50261819\nPoints: 5\n# Comments: 1",
+      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "published": "Tue, 27 Oct 2026 16:40:15 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.229076"
+    },
+    {
+      "source": "hackernews",
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "summary": "Article URL: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/\nComments URL: https://news.ycombinator.com/item?id=50261784\nPoints: 8\n# Comments: 0",
+      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "published": "Tue, 27 Oct 2026 16:38:08 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.229117"
+    },
+    {
+      "source": "hackernews",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "summary": "Article URL: https://cfsg.axiommath.ai/\nComments URL: https://news.ycombinator.com/item?id=50261647\nPoints: 11\n# Comments: 6",
+      "link": "https://cfsg.axiommath.ai/",
+      "published": "Tue, 27 Oct 2026 16:29:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.229144"
+    },
+    {
+      "source": "hackernews",
+      "title": "Vicious Cycles: Theses on a philosophy of news",
+      "summary": "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/\nComments URL: https://news.ycombinator.com/item?id=50261623\nPoints: 3\n# Comments: 0",
+      "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+      "published": "Tue, 27 Oct 2026 16:27:29 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.553394"
+      "crawled_at": "2026-10-27T16:59:07.229180"
     },
     {
       "source": "hackernews",
-      "title": "I still teach OpenGL ES 3.0",
-      "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html\nComments URL: https://news.ycombinator.com/item?id=50253939\nPoints: 73\n# Comments: 45",
-      "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-      "published": "Tue, 27 Oct 2026 02:15:10 +0000",
+      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+      "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=50261584\nPoints: 7\n# Comments: 0",
+      "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+      "published": "Tue, 27 Oct 2026 16:25:12 +0000",
+      "keywords": [
+        "AI",
+        "Cloud",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.229207"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "published": "Tue, 27 Oct 2026 14:20:26 +0000",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-10-27T16:59:07.408726"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "published": "Tue, 27 Oct 2026 14:00:49 +0000",
+      "keywords": [
+        "AI",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.408772"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
+      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "published": "Tue, 27 Oct 2026 13:32:35 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.553426"
+      "crawled_at": "2026-10-27T16:59:07.408812"
+    },
+    {
+      "source": "arstechnica",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "published": "Tue, 27 Oct 2026 13:22:16 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-27T16:59:07.408850"
     },
     {
       "source": "arstechnica",
@@ -208,59 +270,50 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.694217"
+      "crawled_at": "2026-10-27T16:59:07.408936"
     },
     {
-      "source": "arstechnica",
-      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
-      "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-      "published": "Mon, 26 Oct 2026 20:27:00 +0000",
+      "source": "wired",
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "summary": "Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so.",
+      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "published": "Tue, 27 Oct 2026 16:24:34 +0000",
       "keywords": [
+        "AI",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.694253"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.637465"
     },
     {
-      "source": "arstechnica",
-      "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-      "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
-      "link": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-      "published": "Mon, 26 Oct 2026 20:15:07 +0000",
+      "source": "wired",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "published": "Tue, 27 Oct 2026 15:10:26 +0000",
       "keywords": [
-        "AR"
+        "AI",
+        "ChatGPT",
+        "GPT",
+        "OpenAI",
+        "Go"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.694286"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-27T16:59:07.637509"
     },
     {
-      "source": "arstechnica",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "published": "Mon, 26 Oct 2026 20:04:16 +0000",
+      "source": "wired",
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "summary": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "published": "Tue, 27 Oct 2026 13:29:41 +0000",
       "keywords": [
         "AI",
         "Go",
-        "Apple",
-        "iOS"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:15.694309"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-      "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
-      "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
-      "published": "Mon, 26 Oct 2026 19:04:40 +0000",
-      "keywords": [
-        "AI",
-        "Apple"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:15.694330"
+      "crawled_at": "2026-10-27T16:59:07.637543"
     },
     {
       "source": "wired",
@@ -274,7 +327,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-27T11:13:15.823931"
+      "crawled_at": "2026-10-27T16:59:07.637570"
     },
     {
       "source": "wired",
@@ -286,42 +339,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.823985"
-    },
-    {
-      "source": "wired",
-      "title": "Instagram Is a Streaming Service Now",
-      "summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
-      "link": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
-      "published": "Tue, 27 Oct 2026 10:30:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.824019"
-    },
-    {
-      "source": "wired",
-      "title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
-      "summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
-      "link": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
-      "published": "Tue, 27 Oct 2026 10:15:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.824054"
-    },
-    {
-      "source": "wired",
-      "title": "How to Hide Your Baby From the Government",
-      "summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
-      "link": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
-      "published": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-27T11:13:15.824093"
+      "crawled_at": "2026-10-27T16:59:07.637613"
     }
   ]
 }
