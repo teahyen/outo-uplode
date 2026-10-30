@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-10-30T03:22:59.188139",
+  "last_updated": "2026-10-30T11:48:52.786602",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "published": "Fri, 30 Oct 2026 07:01:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-10-30T11:48:52.149828"
+    },
     {
       "source": "techcrunch",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -14,12 +26,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.146440"
+      "crawled_at": "2026-10-30T11:48:52.150354"
     },
     {
       "source": "techcrunch",
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "published": "Thu, 29 Oct 2026 23:44:56 +0000",
       "keywords": [
@@ -28,11 +40,11 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.146489"
+      "crawled_at": "2026-10-30T11:48:52.150413"
     },
     {
       "source": "techcrunch",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "published": "Thu, 29 Oct 2026 23:42:22 +0000",
@@ -43,7 +55,7 @@
         "Cloud"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.146521"
+      "crawled_at": "2026-10-30T11:48:52.150451"
     },
     {
       "source": "techcrunch",
@@ -57,20 +69,34 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-30T03:22:58.146554"
+      "crawled_at": "2026-10-30T11:48:52.150487"
     },
     {
-      "source": "techcrunch",
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "published": "Thu, 29 Oct 2026 21:51:29 +0000",
+      "source": "theverge",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst,",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "published": "2026-10-30T07:00:00-04:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.146582"
+      "crawled_at": "2026-10-30T11:48:52.243689"
+    },
+    {
+      "source": "theverge",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either ",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T05:00:00-04:00",
+      "keywords": [
+        "AI",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-10-30T11:48:52.243749"
     },
     {
       "source": "theverge",
@@ -83,7 +109,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.270738"
+      "crawled_at": "2026-10-30T11:48:52.243790"
     },
     {
       "source": "theverge",
@@ -96,7 +122,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.270783"
+      "crawled_at": "2026-10-30T11:48:52.243828"
     },
     {
       "source": "theverge",
@@ -111,102 +137,73 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.270827"
-    },
-    {
-      "source": "theverge",
-      "title": "Patrick Stewart has died at age 86",
-      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mir",
-      "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "published": "2026-10-29T16:10:02-04:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:58.270868"
-    },
-    {
-      "source": "theverge",
-      "title": "Reddit will force everyone to log in",
-      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a l",
-      "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "published": "2026-10-29T16:07:00-04:00",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-30T03:22:58.270906"
+      "crawled_at": "2026-10-30T11:48:52.243868"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languag",
-      "link": "https://github.com/Millillion/lasm",
-      "published": "Fri, 30 Oct 2026 02:05:41 +0000",
+      "title": "Backdoors in official Claude Code extensions",
+      "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 51\n# Comments: 6",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "published": "Fri, 30 Oct 2026 11:05:53 +0000",
       "keywords": [
         "Claude",
         "Go",
-        "Cloud",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.878878"
+      "crawled_at": "2026-10-30T11:48:52.463815"
     },
     {
       "source": "hackernews",
-      "title": "Pico CSS is no longer maintained",
-      "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 44\n# Comments: 15",
-      "link": "https://github.com/picocss/pico/discussions/754",
-      "published": "Fri, 30 Oct 2026 01:58:44 +0000",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com/item?id=50301983\nPoints: 53\n# Comments: 9",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "published": "Fri, 30 Oct 2026 10:22:51 +0000",
       "keywords": [
-        "AI",
-        "Git",
-        "GitHub",
+        "Anthropic",
+        "Claude",
+        "Hack",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.878916"
+      "crawled_at": "2026-10-30T11:48:52.463860"
     },
     {
       "source": "hackernews",
-      "title": "Herdr has released native app",
-      "summary": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 39\n# Comments: 33",
-      "link": "https://github.com/herdrdev/herdr-app",
-      "published": "Fri, 30 Oct 2026 00:42:41 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-10-30T03:22:58.878949"
-    },
-    {
-      "source": "hackernews",
-      "title": "Cormac McCarthy's Library",
-      "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/\nComments URL: https://news.ycombinator.com/item?id=50298318\nPoints: 24\n# Comments: 7",
-      "link": "https://cormacmccarthy.lib.utk.edu/",
-      "published": "Fri, 30 Oct 2026 00:31:00 +0000",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\nComments URL: https://news.ycombinator.com/item?id=50301717\nPoints: 20\n# Comments: 13",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "published": "Fri, 30 Oct 2026 09:49:02 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:58.878981"
+      "crawled_at": "2026-10-30T11:48:52.463899"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual ope",
-      "link": "https://github.com/mottopanikeiku/doomformer",
-      "published": "Thu, 29 Oct 2026 23:25:46 +0000",
+      "title": "elect.horse",
+      "summary": "Article URL: https://elect.horse/\nComments URL: https://news.ycombinator.com/item?id=50301462\nPoints: 54\n# Comments: 12",
+      "link": "https://elect.horse/",
+      "published": "Fri, 30 Oct 2026 09:14:34 +0000",
       "keywords": [
-        "AI",
-        "Git",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:58.879052"
+      "category": "Tech News",
+      "crawled_at": "2026-10-30T11:48:52.463929"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "summary": "Article URL: https://www.workatastartup.com/jobs/98722\nComments URL: https://news.ycombinator.com/item?id=50300643\nPoints: 0\n# Comments: 0",
+      "link": "https://www.workatastartup.com/jobs/98722",
+      "published": "Fri, 30 Oct 2026 07:00:35 +0000",
+      "keywords": [
+        "Startup",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-10-30T11:48:52.463963"
     },
     {
       "source": "arstechnica",
@@ -218,7 +215,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:59.029116"
+      "crawled_at": "2026-10-30T11:48:52.637680"
     },
     {
       "source": "arstechnica",
@@ -232,7 +229,7 @@
         "Cloud"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-10-30T03:22:59.029151"
+      "crawled_at": "2026-10-30T11:48:52.637717"
     },
     {
       "source": "arstechnica",
@@ -246,7 +243,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:59.029176"
+      "crawled_at": "2026-10-30T11:48:52.637742"
     },
     {
       "source": "arstechnica",
@@ -259,7 +256,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-10-30T03:22:59.029221"
+      "crawled_at": "2026-10-30T11:48:52.637769"
     },
     {
       "source": "arstechnica",
@@ -269,74 +266,73 @@
       "published": "Thu, 29 Oct 2026 18:29:12 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:59.029260"
+      "crawled_at": "2026-10-30T11:48:52.637807"
     },
     {
       "source": "wired",
-      "title": "What to Know About China’s Top-Secret Spaceplane",
-      "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "published": "Thu, 29 Oct 2026 20:45:36 +0000",
+      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "summary": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "published": "Fri, 30 Oct 2026 11:36:52 +0000",
       "keywords": [
         "AI",
-        "Go"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:59.187845"
-    },
-    {
-      "source": "wired",
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "link": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "published": "Thu, 29 Oct 2026 19:51:56 +0000",
-      "keywords": [
-        "AI",
+        "Go",
+        "Crypto",
         "Hack",
-        "AR"
+        "Git"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:59.187883"
+      "crawled_at": "2026-10-30T11:48:52.786332"
     },
     {
       "source": "wired",
-      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "published": "Thu, 29 Oct 2026 19:41:36 +0000",
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "link": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "published": "Fri, 30 Oct 2026 11:00:00 +0000",
       "keywords": [
-        "AR"
+        "iOS"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:59.187923"
+      "category": "Mobile",
+      "crawled_at": "2026-10-30T11:48:52.786387"
     },
     {
       "source": "wired",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "published": "Thu, 29 Oct 2026 18:39:43 +0000",
+      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+      "link": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "published": "Fri, 30 Oct 2026 10:45:00 +0000",
       "keywords": [
         "AI",
-        "Claude",
-        "Go",
-        "Vulnerability"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-10-30T03:22:59.187958"
-    },
-    {
-      "source": "wired",
-      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
-      "summary": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days.",
-      "link": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "published": "Thu, 29 Oct 2026 17:41:36 +0000",
-      "keywords": [
         "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-10-30T03:22:59.188018"
+      "category": "AI/ML",
+      "crawled_at": "2026-10-30T11:48:52.786418"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Handheld Translators for Work and Travel (2026)",
+      "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+      "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "published": "Fri, 30 Oct 2026 10:30:00 +0000",
+      "keywords": [],
+      "category": "Hardware",
+      "crawled_at": "2026-10-30T11:48:52.786454"
+    },
+    {
+      "source": "wired",
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
+      "link": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "published": "Fri, 30 Oct 2026 10:30:00 +0000",
+      "keywords": [
+        "Go",
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-10-30T11:48:52.786493"
     }
   ]
 }
