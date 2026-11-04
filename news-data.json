@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-11-03T22:39:47.972336",
+  "last_updated": "2026-11-04T03:47:19.806956",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-04T03:47:19.248917"
+    },
+    {
+      "source": "techcrunch",
       "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
       "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "published": "Tue, 03 Nov 2026 22:19:53 +0000",
       "keywords": [
@@ -13,12 +26,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.153863"
+      "crawled_at": "2026-11-04T03:47:19.248966"
     },
     {
       "source": "techcrunch",
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "published": "Tue, 03 Nov 2026 21:43:08 +0000",
       "keywords": [
@@ -28,7 +41,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.154213"
+      "crawled_at": "2026-11-04T03:47:19.249004"
     },
     {
       "source": "techcrunch",
@@ -41,108 +54,136 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:46.154265"
+      "crawled_at": "2026-11-04T03:47:19.249044"
     },
     {
       "source": "techcrunch",
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
       "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
       "published": "Tue, 03 Nov 2026 20:57:17 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:46.154299"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "published": "Tue, 03 Nov 2026 19:45:48 +0000",
-      "keywords": [
-        "Crypto",
-        "Security",
-        "Cybersecurity",
-        "Hack",
-        "AR"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-11-03T22:39:46.154332"
+      "crawled_at": "2026-11-04T03:47:19.249076"
     },
     {
       "source": "theverge",
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you [&#8230;]",
-      "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "published": "2026-11-03T17:20:50-05:00",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's dat",
+      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "published": "2026-11-03T20:15:34-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.575671"
+      "crawled_at": "2026-11-04T03:47:19.353390"
     },
     {
       "source": "theverge",
-      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed f",
-      "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-      "published": "2026-11-03T17:15:33-05:00",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "summary": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visu",
+      "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "published": "2026-11-03T20:02:53-05:00",
       "keywords": [
-        "Rust"
+        "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-11-03T22:39:46.575737"
+      "category": "Tech News",
+      "crawled_at": "2026-11-04T03:47:19.353443"
     },
     {
       "source": "theverge",
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered installer in June apparently spread by a malici",
-      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "published": "2026-11-03T17:04:02-05:00",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "published": "2026-11-03T19:42:10-05:00",
       "keywords": [
         "AI",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-04T03:47:19.353476"
+    },
+    {
+      "source": "theverge",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "published": "2026-11-03T18:37:45-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-04T03:47:19.353505"
+    },
+    {
+      "source": "theverge",
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying go",
+      "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "published": "2026-11-03T17:59:36-05:00",
+      "keywords": [
+        "Go"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-04T03:47:19.353549"
+    },
+    {
+      "source": "hackernews",
+      "title": "Democrats win control of the House of Representatives",
+      "summary": "Article URL: https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397\nComments URL: https://news.ycombinator.com/item?id=50361247\nPoints: 8\n# Comments: 0",
+      "link": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397",
+      "published": "Wed, 04 Nov 2026 03:36:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-04T03:47:19.591511"
+    },
+    {
+      "source": "hackernews",
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/\nComments URL: https://news.ycombinator.com/item?id=50361107\nPoints: 7\n# Comments: 0",
+      "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "published": "Wed, 04 Nov 2026 03:11:27 +0000",
+      "keywords": [
         "Go",
-        "Crypto",
-        "Hack",
-        "Google"
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.575780"
+      "category": "Tech News",
+      "crawled_at": "2026-11-04T03:47:19.591554"
     },
     {
-      "source": "theverge",
-      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over",
-      "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-      "published": "2026-11-03T16:21:04-05:00",
+      "source": "hackernews",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today\nComments URL: https://news.ycombinator.com/item?id=50360573\nPoints: 25\n# Comments: 0",
+      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "published": "Wed, 04 Nov 2026 01:40:42 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-04T03:47:19.591591"
+    },
+    {
+      "source": "hackernews",
+      "title": "C++26 Disapproved",
+      "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/\nComments URL: https://news.ycombinator.com/item?id=50360164\nPoints: 65\n# Comments: 13",
+      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "published": "Wed, 04 Nov 2026 00:33:22 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.575820"
-    },
-    {
-      "source": "theverge",
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially ",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "published": "2026-11-03T16:01:07-05:00",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:46.575851"
+      "crawled_at": "2026-11-04T03:47:19.591618"
     },
     {
       "source": "hackernews",
       "title": "The Internals of PostgreSQL",
-      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 20\n# Comments: 0",
+      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 165\n# Comments: 10",
       "link": "https://www.interdb.jp/pg/index.html",
       "published": "Tue, 03 Nov 2026 21:51:06 +0000",
       "keywords": [
@@ -151,60 +192,20 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:47.719195"
+      "crawled_at": "2026-11-04T03:47:19.591647"
     },
     {
-      "source": "hackernews",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 64\n# Comments: 6",
-      "link": "https://arxiv.org/abs/2605.29713",
-      "published": "Tue, 03 Nov 2026 21:40:53 +0000",
+      "source": "arstechnica",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "published": "Tue, 03 Nov 2026 22:39:37 +0000",
       "keywords": [
         "AI",
-        "AR"
+        "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.719236"
-    },
-    {
-      "source": "hackernews",
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\nComments URL: https://news.ycombinator.com/item?id=50358562\nPoints: 119\n# Comments: 82",
-      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "published": "Tue, 03 Nov 2026 21:39:05 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:47.719274"
-    },
-    {
-      "source": "hackernews",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months\nComments URL: https://news.ycombinator.com/item?id=50358422\nPoints: 43\n# Comments: 8",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "published": "Tue, 03 Nov 2026 21:26:44 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.719306"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "summary": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that a",
-      "link": "https://github.com/finic-ai/kairos",
-      "published": "Tue, 03 Nov 2026 21:16:48 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "Docker",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.719467"
+      "crawled_at": "2026-11-04T03:47:19.699642"
     },
     {
       "source": "arstechnica",
@@ -218,7 +219,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.845016"
+      "crawled_at": "2026-11-04T03:47:19.699681"
     },
     {
       "source": "arstechnica",
@@ -231,7 +232,7 @@
         "AWS"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.845048"
+      "crawled_at": "2026-11-04T03:47:19.699747"
     },
     {
       "source": "arstechnica",
@@ -243,7 +244,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:47.845079"
+      "crawled_at": "2026-11-04T03:47:19.699779"
     },
     {
       "source": "arstechnica",
@@ -258,19 +259,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.845102"
+      "crawled_at": "2026-11-04T03:47:19.699802"
     },
     {
-      "source": "arstechnica",
-      "title": "Another child dies of measles as CDC reportedly holds up health alert",
-      "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
-      "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-      "published": "Tue, 03 Nov 2026 17:21:29 +0000",
+      "source": "wired",
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "summary": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
+      "link": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "published": "Tue, 03 Nov 2026 22:44:01 +0000",
       "keywords": [
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-03T22:39:47.845130"
+      "crawled_at": "2026-11-04T03:47:19.806676"
     },
     {
       "source": "wired",
@@ -283,7 +284,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-03T22:39:47.971985"
+      "crawled_at": "2026-11-04T03:47:19.806744"
     },
     {
       "source": "wired",
@@ -295,7 +296,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-03T22:39:47.972032"
+      "crawled_at": "2026-11-04T03:47:19.806784"
     },
     {
       "source": "wired",
@@ -310,7 +311,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.972069"
+      "crawled_at": "2026-11-04T03:47:19.806819"
     },
     {
       "source": "wired",
@@ -323,23 +324,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.972094"
-    },
-    {
-      "source": "wired",
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "published": "Tue, 03 Nov 2026 14:45:08 +0000",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "GPT",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-03T22:39:47.972128"
+      "crawled_at": "2026-11-04T03:47:19.806843"
     }
   ]
 }
