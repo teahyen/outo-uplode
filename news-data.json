@@ -1,215 +1,210 @@
 {
-  "last_updated": "2026-11-06T04:02:43.680485",
+  "last_updated": "2026-11-06T13:24:28.474459",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "published": "Fri, 06 Nov 2026 00:07:18 +0000",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-06T13:24:26.649624"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "published": "Fri, 06 Nov 2026 13:00:00 +0000",
       "keywords": [
+        "AI",
+        "Go",
+        "Git",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-06T13:24:26.649665"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "published": "Fri, 06 Nov 2026 11:50:10 +0000",
+      "keywords": [
+        "AI",
+        "Tesla"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-06T13:24:26.649683"
+    },
+    {
+      "source": "techcrunch",
+      "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "published": "Fri, 06 Nov 2026 07:18:44 +0000",
+      "keywords": [
+        "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:41.729975"
+      "crawled_at": "2026-11-06T13:24:26.649908"
     },
     {
       "source": "techcrunch",
-      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-      "published": "Fri, 06 Nov 2026 00:01:38 +0000",
-      "keywords": [
-        "Go",
-        "REST",
-        "Google",
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:41.730033"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
       "keywords": [
         "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.730324"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "published": "Thu, 05 Nov 2026 21:15:00 +0000",
-      "keywords": [
-        "AI",
-        "AWS",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.730374"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.730412"
-    },
-    {
-      "source": "theverge",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "published": "2026-11-05T19:37:56-05:00",
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.882573"
-    },
-    {
-      "source": "theverge",
-      "title": "Airbnb is working on an AI travel agent",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointmen",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "published": "2026-11-05T19:06:12-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.882613"
-    },
-    {
-      "source": "theverge",
-      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Lette",
-      "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-      "published": "2026-11-05T18:45:10-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "REST",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.882650"
-    },
-    {
-      "source": "theverge",
-      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
-      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 bill",
-      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-      "published": "2026-11-05T18:17:10-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-06T04:02:41.882692"
-    },
-    {
-      "source": "theverge",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity ",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "published": "2026-11-05T17:26:50-05:00",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
+        "Security",
         "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:41.882725"
+      "crawled_at": "2026-11-06T13:24:26.649930"
     },
     {
-      "source": "hackernews",
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "summary": "Article URL: https://github.com/dsx-ai-factory/nvke\nComments URL: https://news.ycombinator.com/item?id=50387738\nPoints: 12\n# Comments: 1",
-      "link": "https://github.com/dsx-ai-factory/nvke",
-      "published": "Fri, 06 Nov 2026 03:16:26 +0000",
+      "source": "theverge",
+      "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
+      "summary": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden",
+      "link": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
+      "published": "2026-11-06T08:00:00-05:00",
       "keywords": [
         "AI",
-        "Kubernetes",
-        "Git",
-        "GitHub",
+        "Go",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.353920"
+      "crawled_at": "2026-11-06T13:24:26.737079"
     },
     {
-      "source": "hackernews",
-      "title": "Claude was faster and cheaper. We took the scenic route anyway",
-      "summary": "Article URL: https://blog.grainulation.org/verify-then-vote/\nComments URL: https://news.ycombinator.com/item?id=50387623\nPoints: 10\n# Comments: 1",
-      "link": "https://blog.grainulation.org/verify-then-vote/",
-      "published": "Fri, 06 Nov 2026 02:59:39 +0000",
+      "source": "theverge",
+      "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+      "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+      "published": "2026-11-06T07:30:00-05:00",
       "keywords": [
         "AI",
-        "Claude",
+        "Go",
+        "iPhone",
+        "Android",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.353975"
+      "crawled_at": "2026-11-06T13:24:26.737121"
     },
     {
-      "source": "hackernews",
-      "title": "Closed AI models dominate the price-performance frontier",
-      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\nComments URL: https://news.ycombinator.com/item?id=50387546\nPoints: 12\n# Comments: 1",
-      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "published": "Fri, 06 Nov 2026 02:49:56 +0000",
+      "source": "theverge",
+      "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+      "summary": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 [&#",
+      "link": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+      "published": "2026-11-06T07:00:00-05:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-06T13:24:26.737154"
+    },
+    {
+      "source": "theverge",
+      "title": "The Enough Phone is made by and for people fed up with big screens",
+      "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just a ",
+      "link": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+      "published": "2026-11-06T07:00:00-05:00",
+      "keywords": [
+        "Funding",
+        "Android",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-06T13:24:26.737188"
+    },
+    {
+      "source": "theverge",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "published": "2026-11-06T06:55:19-05:00",
       "keywords": [
         "AI",
+        "Microsoft",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.354007"
+      "crawled_at": "2026-11-06T13:24:26.737219"
     },
     {
       "source": "hackernews",
-      "title": "Castration extends life span in mice",
-      "summary": "Article URL: https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests\nComments URL: https://news.ycombinator.com/item?id=50387470\nPoints: 8\n# Comments: 6",
-      "link": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
-      "published": "Fri, 06 Nov 2026 02:38:29 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.354046"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html\nComments URL: https://news.ycombinator.com/item?id=50387406\nPoints: 18\n# Comments: 0",
-      "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "published": "Fri, 06 Nov 2026 02:30:25 +0000",
+      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+      "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv\nComments URL: https://news.ycombinator.com/item?id=50391456\nPoints: 43\n# Comments: 17",
+      "link": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+      "published": "Fri, 06 Nov 2026 12:13:51 +0000",
       "keywords": [
         "Tesla",
         "AR"
       ],
+      "category": "Security",
+      "crawled_at": "2026-11-06T13:24:28.226461"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "summary": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50391342\nPoints: 0\n# Comments: 0",
+      "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "published": "Fri, 06 Nov 2026 12:00:42 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-06T13:24:28.226492"
+    },
+    {
+      "source": "hackernews",
+      "title": "We've built an open-source feature flag server for 11 years",
+      "summary": "Article URL: https://github.com/Unleash/unleash\nComments URL: https://news.ycombinator.com/item?id=50391145\nPoints: 26\n# Comments: 13",
+      "link": "https://github.com/Unleash/unleash",
+      "published": "Fri, 06 Nov 2026 11:40:06 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.354082"
+      "crawled_at": "2026-11-06T13:24:28.226520"
+    },
+    {
+      "source": "hackernews",
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "summary": "Article URL: https://jhr.pensoft.net/articles.php?id=9096\nComments URL: https://news.ycombinator.com/item?id=50390525\nPoints: 65\n# Comments: 22",
+      "link": "https://jhr.pensoft.net/articles.php?id=9096",
+      "published": "Fri, 06 Nov 2026 10:21:15 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-06T13:24:28.226548"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\nComments URL: https://news.ycombinator.com/item?id=50390124\nPoints: 264\n# Comments: 167",
+      "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "published": "Fri, 06 Nov 2026 09:27:12 +0000",
+      "keywords": [
+        "Go",
+        "Google",
+        "Android",
+        "Git",
+        "GitHub"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-06T13:24:28.226577"
     },
     {
       "source": "arstechnica",
@@ -221,7 +216,7 @@
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.487651"
+      "crawled_at": "2026-11-06T13:24:28.355060"
     },
     {
       "source": "arstechnica",
@@ -237,7 +232,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.487680"
+      "crawled_at": "2026-11-06T13:24:28.355085"
     },
     {
       "source": "arstechnica",
@@ -249,7 +244,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.487711"
+      "crawled_at": "2026-11-06T13:24:28.355109"
     },
     {
       "source": "arstechnica",
@@ -261,7 +256,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.487736"
+      "crawled_at": "2026-11-06T13:24:28.355127"
     },
     {
       "source": "arstechnica",
@@ -276,69 +271,69 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.487759"
+      "crawled_at": "2026-11-06T13:24:28.355145"
     },
     {
       "source": "wired",
-      "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
-      "link": "https://www.wired.com/gallery/best-vpn/",
-      "published": "Thu, 05 Nov 2026 23:00:00 +0000",
+      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+      "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "published": "Fri, 06 Nov 2026 12:05:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-06T13:24:28.474265"
+    },
+    {
+      "source": "wired",
+      "title": "Horny Grandmas Are Having a Moment",
+      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
+      "link": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
+      "published": "Fri, 06 Nov 2026 12:00:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.680271"
+      "crawled_at": "2026-11-06T13:24:28.474299"
     },
     {
       "source": "wired",
-      "title": "The 7 Best Early Black Friday TV Deals (2026)",
-      "summary": "I found discounts of up to half off some of the top WIRED-tested TVs.",
-      "link": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
-      "published": "Thu, 05 Nov 2026 22:28:43 +0000",
+      "title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
+      "summary": "After enduring years of smells, strange noises, and waste “tea,” I’ve found the composters and food recyclers I’d actually recommend.",
+      "link": "https://www.wired.com/story/home-composters-buying-guide/",
+      "published": "Fri, 06 Nov 2026 11:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.680302"
+      "crawled_at": "2026-11-06T13:24:28.474339"
     },
     {
       "source": "wired",
-      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
-      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
-      "published": "Thu, 05 Nov 2026 22:18:42 +0000",
-      "keywords": [],
+      "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
+      "summary": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world.",
+      "link": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
+      "published": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "keywords": [
+        "AR"
+      ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.680346"
+      "crawled_at": "2026-11-06T13:24:28.474365"
     },
     {
       "source": "wired",
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "published": "Thu, 05 Nov 2026 21:37:18 +0000",
+      "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+      "summary": "Air conditioners can now follow you from room to room to cut power draw. Saving the planet, however, won’t come from a smarter breeze.",
+      "link": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+      "published": "Fri, 06 Nov 2026 11:00:00 +0000",
       "keywords": [
         "AI",
-        "Anthropic",
-        "Claude",
-        "Go",
-        "REST"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T04:02:43.680378"
-    },
-    {
-      "source": "wired",
-      "title": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
-      "summary": "Get a head start on holiday shopping with discounts on WIRED-tested headphones, laptops, and TVs.",
-      "link": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
-      "published": "Thu, 05 Nov 2026 20:00:29 +0000",
-      "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-06T04:02:43.680407"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-06T13:24:28.474387"
     }
   ]
 }
