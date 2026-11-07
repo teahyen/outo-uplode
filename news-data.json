@@ -1,11 +1,40 @@
 {
-  "last_updated": "2026-11-06T22:29:26.264955",
+  "last_updated": "2026-11-07T03:38:22.955314",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-07T03:38:22.206875"
+    },
+    {
+      "source": "techcrunch",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-07T03:38:22.206905"
+    },
+    {
+      "source": "techcrunch",
       "title": "The Duo apps are coming, says Apple",
-      "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+      "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
       "published": "Fri, 06 Nov 2026 21:38:05 +0000",
       "keywords": [
@@ -14,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.385576"
+      "crawled_at": "2026-11-07T03:38:22.206923"
     },
     {
       "source": "techcrunch",
@@ -29,7 +58,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.385612"
+      "crawled_at": "2026-11-07T03:38:22.206944"
     },
     {
       "source": "techcrunch",
@@ -42,35 +71,50 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.385639"
+      "crawled_at": "2026-11-07T03:38:22.206964"
     },
     {
-      "source": "techcrunch",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "published": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "source": "theverge",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T18:46:18-05:00",
       "keywords": [
         "AI",
-        "REST",
-        "AR"
+        "OpenAI",
+        "Anthropic",
+        "Funding",
+        "IPO"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.386092"
+      "crawled_at": "2026-11-07T03:38:22.313775"
     },
     {
-      "source": "techcrunch",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "published": "Fri, 06 Nov 2026 16:50:01 +0000",
+      "source": "theverge",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advance",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T18:00:44-05:00",
+      "keywords": [
+        "AI",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-07T03:38:22.313815"
+    },
+    {
+      "source": "theverge",
+      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#",
+      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "published": "2026-11-06T17:45:43-05:00",
       "keywords": [
         "Go",
-        "Startup",
+        "5G",
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-06T22:29:25.386140"
+      "crawled_at": "2026-11-07T03:38:22.313853"
     },
     {
       "source": "theverge",
@@ -84,7 +128,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T22:29:25.511912"
+      "crawled_at": "2026-11-07T03:38:22.313893"
     },
     {
       "source": "theverge",
@@ -97,114 +141,109 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.511964"
+      "crawled_at": "2026-11-07T03:38:22.313929"
     },
     {
-      "source": "theverge",
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than",
-      "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "published": "2026-11-06T14:47:02-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.512007"
-    },
-    {
-      "source": "theverge",
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new d",
-      "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "published": "2026-11-06T13:42:30-05:00",
+      "source": "hackernews",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "summary": "Article URL: https://josef.cn/blog/unitree\nComments URL: https://news.ycombinator.com/item?id=50400597\nPoints: 45\n# Comments: 28",
+      "link": "https://josef.cn/blog/unitree",
+      "published": "Sat, 07 Nov 2026 01:05:16 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T22:29:25.512055"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you ca",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "published": "2026-11-06T13:10:10-05:00",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.512087"
+      "crawled_at": "2026-11-07T03:38:22.659586"
     },
     {
       "source": "hackernews",
-      "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 96\n# Comments: 43",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.868039"
-    },
-    {
-      "source": "hackernews",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 191\n# Comments: 43",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\nComments URL: https://news.ycombinator.com/item?id=50399991\nPoints: 41\n# Comments: 12",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "published": "Fri, 06 Nov 2026 23:37:19 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.868076"
+      "category": "Tech News",
+      "crawled_at": "2026-11-07T03:38:22.659625"
     },
     {
       "source": "hackernews",
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "summary": "Hi there :)Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.For more details, here's the Show HN post:https://news.ycombinator.com/item?id=49937916From the comments, I got the impression that there was quite an interes",
-      "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "published": "Fri, 06 Nov 2026 19:41:20 +0000",
+      "title": "Libghostty 1.0",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0\nComments URL: https://news.ycombinator.com/item?id=50399933\nPoints: 292\n# Comments: 45",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-07T03:38:22.659651"
+    },
+    {
+      "source": "hackernews",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip\nComments URL: https://news.ycombinator.com/item?id=50399695\nPoints: 58\n# Comments: 45",
+      "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "published": "Fri, 06 Nov 2026 23:03:55 +0000",
       "keywords": [
         "AI",
-        "Go",
-        "REST",
-        "Git",
-        "GitHub"
+        "OpenAI",
+        "API",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.868173"
+      "crawled_at": "2026-11-07T03:38:22.659673"
     },
     {
       "source": "hackernews",
-      "title": "As the Japanese countryside empties out, wildlife is disappearing",
-      "summary": "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity\nComments URL: https://news.ycombinator.com/item?id=50397264\nPoints: 62\n# Comments: 32",
-      "link": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-      "published": "Fri, 06 Nov 2026 19:36:16 +0000",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/\nComments URL: https://news.ycombinator.com/item?id=50399657\nPoints: 142\n# Comments: 64",
+      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "published": "Fri, 06 Nov 2026 23:00:46 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-06T22:29:25.868207"
+      "crawled_at": "2026-11-07T03:38:22.659704"
     },
     {
-      "source": "hackernews",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 108\n# Comments: 59",
-      "link": "https://pwn.ai/blog/firecracker-escape",
-      "published": "Fri, 06 Nov 2026 19:33:38 +0000",
+      "source": "arstechnica",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "published": "Fri, 06 Nov 2026 23:09:45 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:25.868233"
+      "crawled_at": "2026-11-07T03:38:22.785879"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "published": "Fri, 06 Nov 2026 22:41:37 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-07T03:38:22.785904"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "published": "Fri, 06 Nov 2026 22:08:47 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-07T03:38:22.785928"
     },
     {
       "source": "arstechnica",
@@ -217,7 +256,7 @@
         "Hack"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:26.114877"
+      "crawled_at": "2026-11-07T03:38:22.785947"
     },
     {
       "source": "arstechnica",
@@ -230,42 +269,21 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:26.114905"
+      "crawled_at": "2026-11-07T03:38:22.785964"
     },
     {
-      "source": "arstechnica",
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "published": "Fri, 06 Nov 2026 20:05:30 +0000",
+      "source": "wired",
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+      "summary": "Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+      "link": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+      "published": "Fri, 06 Nov 2026 22:31:15 +0000",
       "keywords": [
-        "REST",
+        "AI",
+        "Tesla",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-11-06T22:29:26.114934"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "published": "Fri, 06 Nov 2026 19:50:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-11-06T22:29:26.114963"
-    },
-    {
-      "source": "arstechnica",
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "published": "Fri, 06 Nov 2026 19:12:28 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-06T22:29:26.114991"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-07T03:38:22.955084"
     },
     {
       "source": "wired",
@@ -277,7 +295,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T22:29:26.264716"
+      "crawled_at": "2026-11-07T03:38:22.955145"
     },
     {
       "source": "wired",
@@ -290,7 +308,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:26.264752"
+      "crawled_at": "2026-11-07T03:38:22.955180"
     },
     {
       "source": "wired",
@@ -302,7 +320,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-06T22:29:26.264813"
+      "crawled_at": "2026-11-07T03:38:22.955210"
     },
     {
       "source": "wired",
@@ -318,20 +336,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:26.264850"
-    },
-    {
-      "source": "wired",
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-06T22:29:26.264874"
+      "crawled_at": "2026-11-07T03:38:22.955236"
     }
   ]
 }
