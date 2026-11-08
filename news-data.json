@@ -1,204 +1,213 @@
 {
-  "last_updated": "2026-11-08T12:22:59.026473",
+  "last_updated": "2026-11-08T21:26:59.121736",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "published": "Sat, 07 Nov 2026 22:07:22 +0000",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:56.391079"
+    },
+    {
+      "source": "techcrunch",
+      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+      "published": "Sun, 08 Nov 2026 21:00:00 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T21:26:56.391125"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "published": "Sun, 08 Nov 2026 20:30:00 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:57.435936"
+      "crawled_at": "2026-11-08T21:26:56.391160"
     },
     {
       "source": "techcrunch",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "published": "Sun, 08 Nov 2026 19:51:30 +0000",
       "keywords": [
         "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:56.391180"
+    },
+    {
+      "source": "techcrunch",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "summary": "SNL seems to have its knives out for tech executives.",
+      "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+      "published": "Sun, 08 Nov 2026 18:00:04 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T21:26:56.391207"
+    },
+    {
+      "source": "theverge",
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi",
+      "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "published": "2026-11-08T15:52:05-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Linux",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:56.543563"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "published": "2026-11-08T15:22:39-05:00",
+      "keywords": [
         "Security",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:57.436340"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-      "published": "Sat, 07 Nov 2026 19:00:00 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-08T12:22:57.436393"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "published": "Sat, 07 Nov 2026 17:24:07 +0000",
-      "keywords": [
-        "Crypto",
-        "Hack",
-        "AR"
-      ],
       "category": "Security",
-      "crawled_at": "2026-11-08T12:22:57.436431"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "published": "Sat, 07 Nov 2026 17:18:00 +0000",
-      "keywords": [
-        "Amazon"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:57.436474"
+      "crawled_at": "2026-11-08T21:26:56.543623"
     },
     {
       "source": "theverge",
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizz",
-      "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "published": "2026-11-07T12:00:00-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-08T12:22:57.551831"
-    },
-    {
-      "source": "theverge",
-      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership ru",
-      "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-      "published": "2026-11-07T11:00:00-05:00",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "published": "2026-11-08T14:18:19-05:00",
       "keywords": [
         "AI",
-        "Git",
+        "OpenAI",
+        "Apple",
+        "Meta",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:57.551889"
+      "crawled_at": "2026-11-08T21:26:56.543652"
     },
     {
       "source": "theverge",
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that cov",
-      "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "published": "2026-11-07T11:00:00-05:00",
-      "keywords": [
-        "Go",
-        "Database",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:57.551951"
-    },
-    {
-      "source": "theverge",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "published": "2026-11-07T10:50:00-05:00",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "published": "2026-11-08T12:23:19-05:00",
       "keywords": [
         "AI",
+        "AWS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:57.551991"
+      "crawled_at": "2026-11-08T21:26:56.543679"
     },
     {
       "source": "theverge",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a ho",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "published": "2026-11-07T10:43:45-05:00",
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for ",
+      "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "published": "2026-11-08T11:00:00-05:00",
       "keywords": [
         "AI",
+        "Apple",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:57.552022"
+      "crawled_at": "2026-11-08T21:26:56.543711"
     },
     {
       "source": "hackernews",
-      "title": "Person of Interest",
-      "summary": "Article URL: https://krthr.co/person-of-interest/\nComments URL: https://news.ycombinator.com/item?id=50412318\nPoints: 59\n# Comments: 26",
-      "link": "https://krthr.co/person-of-interest/",
-      "published": "Sun, 08 Nov 2026 11:23:28 +0000",
-      "keywords": [
-        "REST",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:58.785743"
-    },
-    {
-      "source": "hackernews",
-      "title": "Petered (what happens after the Peter Principle)",
-      "summary": "Article URL: https://aworkinglibrary.com/writing/petered\nComments URL: https://news.ycombinator.com/item?id=50412152\nPoints: 31\n# Comments: 12",
-      "link": "https://aworkinglibrary.com/writing/petered",
-      "published": "Sun, 08 Nov 2026 10:56:43 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-08T12:22:58.785784"
-    },
-    {
-      "source": "hackernews",
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/\nComments URL: https://news.ycombinator.com/item?id=50412072\nPoints: 14\n# Comments: 0",
-      "link": "https://linebender.org/blog/jit-bitmap-text/",
-      "published": "Sun, 08 Nov 2026 10:42:15 +0000",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\nComments URL: https://news.ycombinator.com/item?id=50416801\nPoints: 122\n# Comments: 96",
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "published": "Sun, 08 Nov 2026 20:26:43 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:58.785838"
+      "crawled_at": "2026-11-08T21:26:58.818896"
     },
     {
       "source": "hackernews",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "summary": "Article URL: https://github.com/synchopate/llama-modchip\nComments URL: https://news.ycombinator.com/item?id=50411961\nPoints: 6\n# Comments: 4",
-      "link": "https://github.com/synchopate/llama-modchip",
-      "published": "Sun, 08 Nov 2026 10:22:04 +0000",
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15\nComments URL: https://news.ycombinator.com/item?id=50416471\nPoints: 25\n# Comments: 7",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "published": "Sun, 08 Nov 2026 19:49:46 +0000",
       "keywords": [
-        "Git",
-        "GitHub",
         "AR"
       ],
-      "category": "Hardware",
-      "crawled_at": "2026-11-08T12:22:58.785874"
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T21:26:58.818933"
     },
     {
       "source": "hackernews",
-      "title": "GitHub Down Again?",
-      "summary": "Article URL: https://github.com/torvalds/linux\nComments URL: https://news.ycombinator.com/item?id=50411818\nPoints: 104\n# Comments: 100",
-      "link": "https://github.com/torvalds/linux",
-      "published": "Sun, 08 Nov 2026 09:56:07 +0000",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough\nComments URL: https://news.ycombinator.com/item?id=50416456\nPoints: 3\n# Comments: 0",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "published": "Sun, 08 Nov 2026 19:48:32 +0000",
       "keywords": [
         "AI",
-        "Linux",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:58.785900"
+      "crawled_at": "2026-11-08T21:26:58.818955"
+    },
+    {
+      "source": "hackernews",
+      "title": "How I Fight AI Brain Fry",
+      "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry\nComments URL: https://news.ycombinator.com/item?id=50416363\nPoints: 65\n# Comments: 45",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "published": "Sun, 08 Nov 2026 19:37:42 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:58.818976"
+    },
+    {
+      "source": "hackernews",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nComments URL: https://news.ycombinator.com/item?id=50416158\nPoints: 90\n# Comments: 78",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "published": "Sun, 08 Nov 2026 19:20:32 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:58.818998"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "published": "Sun, 08 Nov 2026 12:15:31 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T21:26:58.957075"
     },
     {
       "source": "arstechnica",
@@ -210,7 +219,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:58.919014"
+      "crawled_at": "2026-11-08T21:26:58.957107"
     },
     {
       "source": "arstechnica",
@@ -224,7 +233,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:58.919045"
+      "crawled_at": "2026-11-08T21:26:58.957126"
     },
     {
       "source": "arstechnica",
@@ -237,7 +246,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:58.919076"
+      "crawled_at": "2026-11-08T21:26:58.957151"
     },
     {
       "source": "arstechnica",
@@ -250,20 +259,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:58.919099"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-      "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "published": "Fri, 06 Nov 2026 22:08:47 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:58.919125"
+      "crawled_at": "2026-11-08T21:26:58.957169"
     },
     {
       "source": "wired",
@@ -276,7 +272,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:59.026266"
+      "crawled_at": "2026-11-08T21:26:59.121475"
     },
     {
       "source": "wired",
@@ -290,7 +286,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:59.026306"
+      "crawled_at": "2026-11-08T21:26:59.121513"
     },
     {
       "source": "wired",
@@ -302,7 +298,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:59.026337"
+      "crawled_at": "2026-11-08T21:26:59.121537"
     },
     {
       "source": "wired",
@@ -314,7 +310,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T12:22:59.026360"
+      "crawled_at": "2026-11-08T21:26:59.121556"
     },
     {
       "source": "wired",
@@ -326,7 +322,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T12:22:59.026398"
+      "crawled_at": "2026-11-08T21:26:59.121588"
     }
   ]
 }
