@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:10:59.330486",
+  "last_updated": "2026-11-08T12:22:59.026473",
   "news_count": 25,
   "news": [
     {
@@ -12,7 +12,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:57.551215"
+      "crawled_at": "2026-11-08T12:22:57.435936"
     },
     {
       "source": "techcrunch",
@@ -26,7 +26,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:57.551590"
+      "crawled_at": "2026-11-08T12:22:57.436340"
     },
     {
       "source": "techcrunch",
@@ -39,7 +39,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-08T03:10:57.551624"
+      "crawled_at": "2026-11-08T12:22:57.436393"
     },
     {
       "source": "techcrunch",
@@ -53,7 +53,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-11-08T03:10:57.551652"
+      "crawled_at": "2026-11-08T12:22:57.436431"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,7 @@
         "Amazon"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:57.551685"
+      "crawled_at": "2026-11-08T12:22:57.436474"
     },
     {
       "source": "theverge",
@@ -77,7 +77,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-08T03:10:57.681846"
+      "crawled_at": "2026-11-08T12:22:57.551831"
     },
     {
       "source": "theverge",
@@ -91,7 +91,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:57.681895"
+      "crawled_at": "2026-11-08T12:22:57.551889"
     },
     {
       "source": "theverge",
@@ -105,7 +105,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:57.681945"
+      "crawled_at": "2026-11-08T12:22:57.551951"
     },
     {
       "source": "theverge",
@@ -118,7 +118,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:57.681978"
+      "crawled_at": "2026-11-08T12:22:57.551991"
     },
     {
       "source": "theverge",
@@ -131,71 +131,74 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:57.682005"
+      "crawled_at": "2026-11-08T12:22:57.552022"
     },
     {
       "source": "hackernews",
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\nComments URL: https://news.ycombinator.com/item?id=50408961\nPoints: 22\n# Comments: 4",
-      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "published": "Sat, 07 Nov 2026 23:15:34 +0000",
+      "title": "Person of Interest",
+      "summary": "Article URL: https://krthr.co/person-of-interest/\nComments URL: https://news.ycombinator.com/item?id=50412318\nPoints: 59\n# Comments: 26",
+      "link": "https://krthr.co/person-of-interest/",
+      "published": "Sun, 08 Nov 2026 11:23:28 +0000",
+      "keywords": [
+        "REST",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T12:22:58.785743"
+    },
+    {
+      "source": "hackernews",
+      "title": "Petered (what happens after the Peter Principle)",
+      "summary": "Article URL: https://aworkinglibrary.com/writing/petered\nComments URL: https://news.ycombinator.com/item?id=50412152\nPoints: 31\n# Comments: 12",
+      "link": "https://aworkinglibrary.com/writing/petered",
+      "published": "Sun, 08 Nov 2026 10:56:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-08T12:22:58.785784"
+    },
+    {
+      "source": "hackernews",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/\nComments URL: https://news.ycombinator.com/item?id=50412072\nPoints: 14\n# Comments: 0",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "published": "Sun, 08 Nov 2026 10:42:15 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.064565"
+      "crawled_at": "2026-11-08T12:22:58.785838"
     },
     {
       "source": "hackernews",
-      "title": "GitHub New pull request overview page in public preview",
-      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50408931\nPoints: 75\n# Comments: 57",
-      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "published": "Sat, 07 Nov 2026 23:09:40 +0000",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip\nComments URL: https://news.ycombinator.com/item?id=50411961\nPoints: 6\n# Comments: 4",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "published": "Sun, 08 Nov 2026 10:22:04 +0000",
       "keywords": [
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.064607"
+      "category": "Hardware",
+      "crawled_at": "2026-11-08T12:22:58.785874"
     },
     {
       "source": "hackernews",
-      "title": "IRA Velinsky – Commodore's Industrial Designer",
-      "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\nComments URL: https://news.ycombinator.com/item?id=50408750\nPoints: 16\n# Comments: 0",
-      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-      "published": "Sat, 07 Nov 2026 22:45:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.064644"
-    },
-    {
-      "source": "hackernews",
-      "title": "Making any integer with four 2s (2025)",
-      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\nComments URL: https://news.ycombinator.com/item?id=50408713\nPoints: 68\n# Comments: 15",
-      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "published": "Sat, 07 Nov 2026 22:38:58 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.064674"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am alr",
-      "link": "https://eyesrhythm.com/",
-      "published": "Sat, 07 Nov 2026 21:47:47 +0000",
+      "title": "GitHub Down Again?",
+      "summary": "Article URL: https://github.com/torvalds/linux\nComments URL: https://news.ycombinator.com/item?id=50411818\nPoints: 104\n# Comments: 100",
+      "link": "https://github.com/torvalds/linux",
+      "published": "Sun, 08 Nov 2026 09:56:07 +0000",
       "keywords": [
         "AI",
-        "Go",
+        "Linux",
+        "Git",
+        "GitHub",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:59.064753"
+      "crawled_at": "2026-11-08T12:22:58.785900"
     },
     {
       "source": "arstechnica",
@@ -207,7 +210,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.160408"
+      "crawled_at": "2026-11-08T12:22:58.919014"
     },
     {
       "source": "arstechnica",
@@ -221,7 +224,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:59.160433"
+      "crawled_at": "2026-11-08T12:22:58.919045"
     },
     {
       "source": "arstechnica",
@@ -234,7 +237,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:59.160457"
+      "crawled_at": "2026-11-08T12:22:58.919076"
     },
     {
       "source": "arstechnica",
@@ -247,7 +250,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:59.160475"
+      "crawled_at": "2026-11-08T12:22:58.919099"
     },
     {
       "source": "arstechnica",
@@ -260,68 +263,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.160496"
+      "crawled_at": "2026-11-08T12:22:58.919125"
     },
     {
       "source": "wired",
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
-      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "published": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "link": "https://www.wired.com/gallery/best-computer-speakers/",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
       "keywords": [
-        "Security",
-        "Hack"
-      ],
-      "category": "Security",
-      "crawled_at": "2026-11-08T03:10:59.330285"
-    },
-    {
-      "source": "wired",
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "summary": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/",
-      "published": "Sat, 07 Nov 2026 12:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-08T03:10:59.330349"
-    },
-    {
-      "source": "wired",
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "published": "Sat, 07 Nov 2026 11:45:00 +0000",
-      "keywords": [
-        "Apple",
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-08T03:10:59.330372"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T12:22:59.026266"
     },
     {
       "source": "wired",
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "published": "Sat, 07 Nov 2026 11:37:00 +0000",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-08T12:22:59.026306"
+    },
+    {
+      "source": "wired",
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "summary": "More evidence that magnets are magical.",
+      "link": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "published": "Sun, 08 Nov 2026 11:30:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T12:22:59.026337"
+    },
+    {
+      "source": "wired",
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "link": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "published": "Sun, 08 Nov 2026 11:00:00 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-08T03:10:59.330391"
+      "crawled_at": "2026-11-08T12:22:59.026360"
     },
     {
       "source": "wired",
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "link": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "published": "Sat, 07 Nov 2026 11:15:00 +0000",
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "link": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "published": "Sun, 08 Nov 2026 10:30:00 +0000",
       "keywords": [
-        "Apple",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-08T03:10:59.330415"
+      "category": "Tech News",
+      "crawled_at": "2026-11-08T12:22:59.026398"
     }
   ]
 }
