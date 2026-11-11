@@ -1,53 +1,256 @@
 {
-  "last_updated": "2026-11-11T13:08:07.353338",
+  "last_updated": "2026-11-11T23:48:25.894616",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "published": "Wed, 11 Nov 2026 07:30:51 +0000",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published": "Wed, 11 Nov 2026 23:28:45 +0000",
       "keywords": [
-        "Go"
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:06.458578"
+      "crawled_at": "2026-11-11T23:48:24.362383"
     },
     {
       "source": "techcrunch",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "published": "Wed, 11 Nov 2026 01:02:13 +0000",
+      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "published": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:24.362432"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "published": "Wed, 11 Nov 2026 20:15:15 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:24.362495"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "published": "Wed, 11 Nov 2026 20:12:01 +0000",
+      "keywords": [
+        "Meta",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:24.362528"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "published": "Wed, 11 Nov 2026 20:04:28 +0000",
+      "keywords": [
+        "API",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:24.362573"
+    },
+    {
+      "source": "theverge",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "published": "2026-11-11T17:44:36-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:24.511133"
+    },
+    {
+      "source": "theverge",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-frie",
+      "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "published": "2026-11-11T17:00:00-05:00",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-11-11T23:48:24.511203"
+    },
+    {
+      "source": "theverge",
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like ",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "published": "2026-11-11T16:54:21-05:00",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:24.511246"
+    },
+    {
+      "source": "theverge",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
+      "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "published": "2026-11-11T13:13:52-05:00",
+      "keywords": [
+        "AI",
+        "Git",
+        "AR",
+        "Gaming"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:24.511280"
+    },
+    {
+      "source": "theverge",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which a",
+      "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "published": "2026-11-11T12:09:58-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:24.511339"
+    },
+    {
+      "source": "hackernews",
+      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+      "summary": "Article URL: https://developer.chrome.com/blog/modern-web-guidance-v1\nComments URL: https://news.ycombinator.com/item?id=50460398\nPoints: 5\n# Comments: 0",
+      "link": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "published": "Wed, 11 Nov 2026 23:22:29 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-11-11T23:48:25.645396"
+    },
+    {
+      "source": "hackernews",
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 5\n# Comments: 2",
+      "link": "https://github.com/tylertms/Stela",
+      "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+      "keywords": [
+        "Apple",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-11T23:48:25.645436"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+      "summary": "Article URL: https://twitter.com/watcherguru/status/2120645607866188008\nComments URL: https://news.ycombinator.com/item?id=50459776\nPoints: 71\n# Comments: 12",
+      "link": "https://twitter.com/watcherguru/status/2120645607866188008",
+      "published": "Wed, 11 Nov 2026 22:36:35 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:25.645492"
+    },
+    {
+      "source": "hackernews",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 41\n# Comments: 9",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:25.645521"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lock Your GitHub Actions",
+      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/\nComments URL: https://news.ycombinator.com/item?id=50459485\nPoints: 59\n# Comments: 12",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+      "keywords": [
+        "Go",
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:25.645553"
+    },
+    {
+      "source": "arstechnica",
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "published": "Wed, 11 Nov 2026 23:10:17 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:25.765850"
+    },
+    {
+      "source": "arstechnica",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "published": "Wed, 11 Nov 2026 20:32:21 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-11-11T23:48:25.765886"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "published": "Wed, 11 Nov 2026 20:22:03 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:06.458637"
+      "crawled_at": "2026-11-11T23:48:25.765915"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+      "source": "arstechnica",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "link": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "published": "Wed, 11 Nov 2026 19:00:26 +0000",
       "keywords": [
-        "AI",
-        "OpenAI",
-        "Startup",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:06.458666"
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:25.765943"
     },
     {
-      "source": "techcrunch",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "source": "arstechnica",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "published": "Wed, 11 Nov 2026 18:16:40 +0000",
       "keywords": [
         "AI",
         "OpenAI",
@@ -55,282 +258,71 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:06.458705"
+      "crawled_at": "2026-11-11T23:48:25.765968"
     },
     {
-      "source": "techcrunch",
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-      "published": "Tue, 10 Nov 2026 20:47:05 +0000",
+      "source": "wired",
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
+      "link": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "published": "Wed, 11 Nov 2026 22:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:25.894405"
+    },
+    {
+      "source": "wired",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "published": "Wed, 11 Nov 2026 19:55:54 +0000",
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T23:48:25.894435"
+    },
+    {
+      "source": "wired",
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "link": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "published": "Wed, 11 Nov 2026 17:08:14 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T23:48:25.894482"
+    },
+    {
+      "source": "wired",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000",
       "keywords": [
         "AI",
         "Startup",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:06.458733"
-    },
-    {
-      "source": "theverge",
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices m",
-      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "published": "2026-11-11T08:00:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:06.628136"
-    },
-    {
-      "source": "theverge",
-      "title": "Not everyone is loving their new iPhone Duo",
-      "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the ph",
-      "link": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-      "published": "2026-11-11T08:00:00-05:00",
-      "keywords": [
-        "Go",
-        "iPhone",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-11T13:08:06.628190"
-    },
-    {
-      "source": "theverge",
-      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-      "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access ",
-      "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-      "published": "2026-11-11T07:30:00-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:06.628228"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple is killing its Support Community forum next week",
-      "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Communi",
-      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "published": "2026-11-11T07:19:10-05:00",
-      "keywords": [
-        "Go",
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-11T13:08:06.628272"
-    },
-    {
-      "source": "theverge",
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release",
-      "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "published": "2026-11-10T19:34:24-05:00",
-      "keywords": [
-        "Microsoft",
-        "Windows",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:06.628336"
-    },
-    {
-      "source": "hackernews",
-      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50452404\nPoints: 0\n# Comments: 0",
-      "link": "https://news.ycombinator.com/item?id=50452404",
-      "published": "Wed, 11 Nov 2026 12:00:35 +0000",
-      "keywords": [
-        "AI",
-        "Security"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.049745"
-    },
-    {
-      "source": "hackernews",
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/\nComments URL: https://news.ycombinator.com/item?id=50451903\nPoints: 29\n# Comments: 5",
-      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "published": "Wed, 11 Nov 2026 10:48:40 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:07.049816"
-    },
-    {
-      "source": "hackernews",
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "summary": "Article URL: https://github.com/gmkurtzer/ginux\nComments URL: https://news.ycombinator.com/item?id=50450007\nPoints: 91\n# Comments: 44",
-      "link": "https://github.com/gmkurtzer/ginux",
-      "published": "Wed, 11 Nov 2026 05:25:54 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:07.049853"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "summary": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time ",
-      "link": "https://github.com/adrbn/bo2-mac",
-      "published": "Wed, 11 Nov 2026 04:56:47 +0000",
-      "keywords": [
-        "AI",
-        "Claude",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.049915"
-    },
-    {
-      "source": "hackernews",
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "summary": "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\nComments URL: https://news.ycombinator.com/item?id=50449748\nPoints: 261\n# Comments: 93",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "published": "Wed, 11 Nov 2026 04:28:57 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:07.049951"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "published": "Tue, 10 Nov 2026 23:30:56 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.216739"
-    },
-    {
-      "source": "arstechnica",
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "published": "Tue, 10 Nov 2026 23:02:39 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.216784"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Security",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.216808"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "published": "Tue, 10 Nov 2026 21:55:26 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.216831"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "published": "Tue, 10 Nov 2026 21:12:59 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-11T13:08:07.216860"
+      "crawled_at": "2026-11-11T23:48:25.894508"
     },
     {
       "source": "wired",
-      "title": "Best Indoor Garden Systems I’ve Been Testing for Years (2026)",
-      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a hydroponic garden. Here are a few that might be worth the investment.",
-      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-      "published": "Wed, 11 Nov 2026 12:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Startup",
-      "crawled_at": "2026-11-11T13:08:07.353097"
-    },
-    {
-      "source": "wired",
-      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
-      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
-      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
-      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:07.353138"
-    },
-    {
-      "source": "wired",
-      "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-      "summary": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
-      "link": "https://www.wired.com/story/best-oled-tv/",
-      "published": "Wed, 11 Nov 2026 11:30:00 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T13:08:07.353170"
-    },
-    {
-      "source": "wired",
-      "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
-      "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
-      "link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
-      "published": "Wed, 11 Nov 2026 11:15:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.353210"
-    },
-    {
-      "source": "wired",
-      "title": "Best Air Purifiers (2026): Tested Picks for Every Room",
-      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-      "link": "https://www.wired.com/gallery/best-air-purifiers/",
-      "published": "Wed, 11 Nov 2026 11:02:00 +0000",
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "published": "Wed, 11 Nov 2026 16:13:03 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T13:08:07.353232"
+      "crawled_at": "2026-11-11T23:48:25.894538"
     }
   ]
 }
