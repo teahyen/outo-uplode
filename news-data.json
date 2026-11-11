@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-10T22:37:57.438907",
+  "last_updated": "2026-11-11T03:39:14.632355",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "published": "Wed, 11 Nov 2026 01:02:13 +0000",
+      "keywords": [
+        "Go",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T03:39:13.860037"
+    },
     {
       "source": "techcrunch",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -15,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.825156"
+      "crawled_at": "2026-11-11T03:39:13.860063"
     },
     {
       "source": "techcrunch",
@@ -30,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.825430"
+      "crawled_at": "2026-11-11T03:39:13.860396"
     },
     {
       "source": "techcrunch",
@@ -44,7 +57,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.825456"
+      "crawled_at": "2026-11-11T03:39:13.860414"
     },
     {
       "source": "techcrunch",
@@ -57,21 +70,21 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:56.825485"
+      "crawled_at": "2026-11-11T03:39:13.860438"
     },
     {
-      "source": "techcrunch",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "published": "Tue, 10 Nov 2026 19:57:52 +0000",
+      "source": "theverge",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release",
+      "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "published": "2026-11-10T19:34:24-05:00",
       "keywords": [
-        "Anthropic",
-        "IPO",
+        "Microsoft",
+        "Windows",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-11-10T22:37:56.825516"
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T03:39:13.986291"
     },
     {
       "source": "theverge",
@@ -86,7 +99,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.993066"
+      "crawled_at": "2026-11-11T03:39:13.986329"
     },
     {
       "source": "theverge",
@@ -100,7 +113,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.993110"
+      "crawled_at": "2026-11-11T03:39:13.986367"
     },
     {
       "source": "theverge",
@@ -114,7 +127,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.993139"
+      "crawled_at": "2026-11-11T03:39:13.986391"
     },
     {
       "source": "theverge",
@@ -127,86 +140,112 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:56.993167"
-    },
-    {
-      "source": "theverge",
-      "title": "Starlink Mini 2 adds a swappable battery",
-      "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $99",
-      "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "published": "2026-11-10T14:19:12-05:00",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-10T22:37:56.993199"
+      "crawled_at": "2026-11-11T03:39:13.986415"
     },
     {
       "source": "hackernews",
-      "title": "rVPN – stealth VPN with end-to-end encryption",
-      "summary": "Article URL: https://rvpn.org/\nComments URL: https://news.ycombinator.com/item?id=50446714\nPoints: 21\n# Comments: 11",
-      "link": "https://rvpn.org/",
-      "published": "Tue, 10 Nov 2026 21:42:50 +0000",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna\nComments URL: https://news.ycombinator.com/item?id=50449275\nPoints: 3\n# Comments: 0",
+      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "published": "Wed, 11 Nov 2026 02:57:08 +0000",
+      "keywords": [
+        "IoT",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T03:39:14.321997"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hooked on Tuna",
+      "summary": "Article URL: https://blue-continuum.com/hooked-on-tuna\nComments URL: https://news.ycombinator.com/item?id=50449080\nPoints: 5\n# Comments: 0",
+      "link": "https://blue-continuum.com/hooked-on-tuna",
+      "published": "Wed, 11 Nov 2026 02:23:25 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:57.108064"
+      "crawled_at": "2026-11-11T03:39:14.322028"
     },
     {
       "source": "hackernews",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "summary": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/\nComments URL: https://news.ycombinator.com/item?id=50446520\nPoints: 41\n# Comments: 7",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "published": "Tue, 10 Nov 2026 21:25:03 +0000",
+      "title": "A great old-timey game-programming hack (2013)",
+      "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\nComments URL: https://news.ycombinator.com/item?id=50448921\nPoints: 35\n# Comments: 6",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "published": "Wed, 11 Nov 2026 01:56:31 +0000",
       "keywords": [
-        "AI",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.108101"
-    },
-    {
-      "source": "hackernews",
-      "title": "Six Math Essentials by Terence Tao",
-      "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html\nComments URL: https://news.ycombinator.com/item?id=50446246\nPoints: 52\n# Comments: 5",
-      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "published": "Tue, 10 Nov 2026 20:58:44 +0000",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:57.108130"
-    },
-    {
-      "source": "hackernews",
-      "title": "Sherman Anti-Trust Act (1890",
-      "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act\nComments URL: https://news.ycombinator.com/item?id=50446219\nPoints: 40\n# Comments: 21",
-      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-      "published": "Tue, 10 Nov 2026 20:56:16 +0000",
-      "keywords": [
-        "Rust",
-        "Go",
+        "Hack",
         "AR"
       ],
       "category": "Programming",
-      "crawled_at": "2026-11-10T22:37:57.108154"
+      "crawled_at": "2026-11-11T03:39:14.322049"
     },
     {
       "source": "hackernews",
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\nComments URL: https://news.ycombinator.com/item?id=50445401\nPoints: 136\n# Comments: 97",
-      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "published": "Tue, 10 Nov 2026 19:50:46 +0000",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "summary": "Article URL: https://tis-100.wincon.dev/\nComments URL: https://news.ycombinator.com/item?id=50448340\nPoints: 16\n# Comments: 1",
+      "link": "https://tis-100.wincon.dev/",
+      "published": "Wed, 11 Nov 2026 00:37:05 +0000",
       "keywords": [
-        "Go",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:57.108185"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T03:39:14.322066"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/\nComments URL: https://news.ycombinator.com/item?id=50448174\nPoints: 16\n# Comments: 9",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "published": "Wed, 11 Nov 2026 00:15:33 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T03:39:14.322087"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "published": "Tue, 10 Nov 2026 23:30:56 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T03:39:14.438663"
+    },
+    {
+      "source": "arstechnica",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "published": "Tue, 10 Nov 2026 23:02:39 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T03:39:14.438686"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "Security",
+        "Amazon",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-11T03:39:14.438702"
     },
     {
       "source": "arstechnica",
@@ -219,7 +258,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.269398"
+      "crawled_at": "2026-11-11T03:39:14.438717"
     },
     {
       "source": "arstechnica",
@@ -231,45 +270,21 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-10T22:37:57.269429"
+      "crawled_at": "2026-11-11T03:39:14.438738"
     },
     {
-      "source": "arstechnica",
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-      "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "published": "Tue, 10 Nov 2026 20:30:01 +0000",
+      "source": "wired",
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "summary": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "published": "Tue, 10 Nov 2026 22:42:06 +0000",
       "keywords": [
-        "AI"
+        "AI",
+        "Amazon",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.269451"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google Fi adds support for a second 5G network, won't say which one",
-      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
-      "link": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-      "published": "Tue, 10 Nov 2026 19:35:59 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "5G"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-10T22:37:57.269472"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "published": "Tue, 10 Nov 2026 19:00:26 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.269490"
+      "crawled_at": "2026-11-11T03:39:14.632144"
     },
     {
       "source": "wired",
@@ -283,7 +298,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.438613"
+      "crawled_at": "2026-11-11T03:39:14.632181"
     },
     {
       "source": "wired",
@@ -295,7 +310,17 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:57.438645"
+      "crawled_at": "2026-11-11T03:39:14.632204"
+    },
+    {
+      "source": "wired",
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-11T03:39:14.632230"
     },
     {
       "source": "wired",
@@ -310,31 +335,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.438668"
-    },
-    {
-      "source": "wired",
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Windows",
-        "Linux"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-10T22:37:57.438692"
-    },
-    {
-      "source": "wired",
-      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
-      "summary": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
-      "link": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-10T22:37:57.438720"
+      "crawled_at": "2026-11-11T03:39:14.632248"
     }
   ]
 }
