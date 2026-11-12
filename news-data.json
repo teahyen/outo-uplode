@@ -1,7 +1,30 @@
 {
-  "last_updated": "2026-11-11T23:48:25.894616",
+  "last_updated": "2026-11-12T04:47:18.480663",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "published": "Thu, 12 Nov 2026 03:13:10 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-12T04:47:17.623565"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+      "keywords": [
+        "AI",
+        "Security"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-12T04:47:17.623595"
+    },
     {
       "source": "techcrunch",
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -12,11 +35,11 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:24.362383"
+      "crawled_at": "2026-11-12T04:47:17.623626"
     },
     {
       "source": "techcrunch",
-      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
       "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "published": "Wed, 11 Nov 2026 23:17:05 +0000",
@@ -25,7 +48,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:24.362432"
+      "crawled_at": "2026-11-12T04:47:17.623654"
     },
     {
       "source": "techcrunch",
@@ -38,33 +61,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:24.362495"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "published": "Wed, 11 Nov 2026 20:12:01 +0000",
-      "keywords": [
-        "Meta",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:24.362528"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "published": "Wed, 11 Nov 2026 20:04:28 +0000",
-      "keywords": [
-        "API",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:24.362573"
+      "crawled_at": "2026-11-12T04:47:17.623689"
     },
     {
       "source": "theverge",
@@ -77,7 +74,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:24.511133"
+      "crawled_at": "2026-11-12T04:47:17.710886"
     },
     {
       "source": "theverge",
@@ -90,7 +87,7 @@
         "AR"
       ],
       "category": "Hardware",
-      "crawled_at": "2026-11-11T23:48:24.511203"
+      "crawled_at": "2026-11-12T04:47:17.710946"
     },
     {
       "source": "theverge",
@@ -102,7 +99,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:24.511246"
+      "crawled_at": "2026-11-12T04:47:17.710979"
     },
     {
       "source": "theverge",
@@ -117,7 +114,7 @@
         "Gaming"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:24.511280"
+      "crawled_at": "2026-11-12T04:47:17.711008"
     },
     {
       "source": "theverge",
@@ -129,24 +126,37 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:24.511339"
+      "crawled_at": "2026-11-12T04:47:17.711054"
     },
     {
       "source": "hackernews",
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "summary": "Article URL: https://developer.chrome.com/blog/modern-web-guidance-v1\nComments URL: https://news.ycombinator.com/item?id=50460398\nPoints: 5\n# Comments: 0",
-      "link": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "published": "Wed, 11 Nov 2026 23:22:29 +0000",
+      "title": "Lean Grimoire",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\nComments URL: https://news.ycombinator.com/item?id=50462375\nPoints: 14\n# Comments: 2",
+      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "published": "Thu, 12 Nov 2026 02:36:48 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Programming",
-      "crawled_at": "2026-11-11T23:48:25.645396"
+      "category": "Tech News",
+      "crawled_at": "2026-11-12T04:47:18.131507"
+    },
+    {
+      "source": "hackernews",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 47\n# Comments: 22",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "published": "Thu, 12 Nov 2026 02:11:11 +0000",
+      "keywords": [
+        "Vulnerability",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-12T04:47:18.131542"
     },
     {
       "source": "hackernews",
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 5\n# Comments: 2",
+      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 79\n# Comments: 32",
       "link": "https://github.com/tylertms/Stela",
       "published": "Wed, 11 Nov 2026 23:02:38 +0000",
       "keywords": [
@@ -156,24 +166,12 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-11T23:48:25.645436"
+      "crawled_at": "2026-11-12T04:47:18.131568"
     },
     {
       "source": "hackernews",
-      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-      "summary": "Article URL: https://twitter.com/watcherguru/status/2120645607866188008\nComments URL: https://news.ycombinator.com/item?id=50459776\nPoints: 71\n# Comments: 12",
-      "link": "https://twitter.com/watcherguru/status/2120645607866188008",
-      "published": "Wed, 11 Nov 2026 22:36:35 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.645492"
-    },
-    {
-      "source": "hackernews",
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 41\n# Comments: 9",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 254\n# Comments: 36",
       "link": "https://www.mcmillen.dev/sigbovik/",
       "published": "Wed, 11 Nov 2026 22:34:23 +0000",
       "keywords": [
@@ -181,22 +179,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.645521"
+      "crawled_at": "2026-11-12T04:47:18.131589"
     },
     {
       "source": "hackernews",
-      "title": "Lock Your GitHub Actions",
-      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/\nComments URL: https://news.ycombinator.com/item?id=50459485\nPoints: 59\n# Comments: 12",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\nComments URL: https://news.ycombinator.com/item?id=50459703\nPoints: 712\n# Comments: 986",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "published": "Wed, 11 Nov 2026 22:31:06 +0000",
       "keywords": [
-        "Go",
-        "Git",
-        "GitHub",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.645553"
+      "crawled_at": "2026-11-12T04:47:18.131619"
     },
     {
       "source": "arstechnica",
@@ -208,7 +203,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.765850"
+      "crawled_at": "2026-11-12T04:47:18.307483"
     },
     {
       "source": "arstechnica",
@@ -218,7 +213,7 @@
       "published": "Wed, 11 Nov 2026 20:32:21 +0000",
       "keywords": [],
       "category": "Mobile",
-      "crawled_at": "2026-11-11T23:48:25.765886"
+      "crawled_at": "2026-11-12T04:47:18.307514"
     },
     {
       "source": "arstechnica",
@@ -231,7 +226,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.765915"
+      "crawled_at": "2026-11-12T04:47:18.307538"
     },
     {
       "source": "arstechnica",
@@ -243,7 +238,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.765943"
+      "crawled_at": "2026-11-12T04:47:18.307561"
     },
     {
       "source": "arstechnica",
@@ -258,7 +253,32 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.765968"
+      "crawled_at": "2026-11-12T04:47:18.307581"
+    },
+    {
+      "source": "wired",
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
+      "link": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "published": "Thu, 12 Nov 2026 02:33:02 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-12T04:47:18.480435"
+    },
+    {
+      "source": "wired",
+      "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
+      "link": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+      "published": "Thu, 12 Nov 2026 01:53:24 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-12T04:47:18.480478"
     },
     {
       "source": "wired",
@@ -271,7 +291,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.894405"
+      "crawled_at": "2026-11-12T04:47:18.480503"
     },
     {
       "source": "wired",
@@ -284,7 +304,7 @@
         "OpenAI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.894435"
+      "crawled_at": "2026-11-12T04:47:18.480520"
     },
     {
       "source": "wired",
@@ -296,33 +316,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-11T23:48:25.894482"
-    },
-    {
-      "source": "wired",
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "published": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "keywords": [
-        "AI",
-        "Startup",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.894508"
-    },
-    {
-      "source": "wired",
-      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
-      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
-      "published": "Wed, 11 Nov 2026 16:13:03 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-11T23:48:25.894538"
+      "crawled_at": "2026-11-12T04:47:18.480543"
     }
   ]
 }
