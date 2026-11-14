@@ -1,7 +1,19 @@
 {
-  "last_updated": "2026-11-13T22:59:01.205865",
+  "last_updated": "2026-11-14T03:56:42.615300",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-14T03:56:41.923451"
+    },
     {
       "source": "techcrunch",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -16,7 +28,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.295362"
+      "crawled_at": "2026-11-14T03:56:41.923494"
     },
     {
       "source": "techcrunch",
@@ -30,7 +42,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.295410"
+      "crawled_at": "2026-11-14T03:56:41.923532"
     },
     {
       "source": "techcrunch",
@@ -43,7 +55,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-11-13T22:59:00.295458"
+      "crawled_at": "2026-11-14T03:56:41.923576"
     },
     {
       "source": "techcrunch",
@@ -57,33 +69,33 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.295482"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.295509"
+      "crawled_at": "2026-11-14T03:56:41.923600"
     },
     {
       "source": "theverge",
-      "title": "FAA ground stop shuts down flights nationwide",
-      "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground st",
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a tempo",
       "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "published": "2026-11-13T16:38:25-05:00",
+      "published": "2026-11-13T20:53:04-05:00",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.418078"
+      "crawled_at": "2026-11-14T03:56:42.109791"
+    },
+    {
+      "source": "theverge",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "published": "2026-11-13T18:49:11-05:00",
+      "keywords": [
+        "AI",
+        "Amazon"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-14T03:56:42.109847"
     },
     {
       "source": "theverge",
@@ -99,7 +111,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.418133"
+      "crawled_at": "2026-11-14T03:56:42.109887"
     },
     {
       "source": "theverge",
@@ -114,7 +126,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.418174"
+      "crawled_at": "2026-11-14T03:56:42.109925"
     },
     {
       "source": "theverge",
@@ -129,85 +141,97 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.418213"
-    },
-    {
-      "source": "theverge",
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensingt",
-      "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "published": "2026-11-13T13:10:41-05:00",
-      "keywords": [
-        "AI",
-        "Git",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.418253"
+      "crawled_at": "2026-11-14T03:56:42.109959"
     },
     {
       "source": "hackernews",
-      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
-      "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage\nComments URL: https://news.ycombinator.com/item?id=50490778\nPoints: 5\n# Comments: 1",
-      "link": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
-      "published": "Fri, 13 Nov 2026 22:16:11 +0000",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 44\n# Comments: 10",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "Funding",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-14T03:56:42.359336"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ggml v1.0.0",
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 40\n# Comments: 1",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-14T03:56:42.359376"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\nComments URL: https://news.ycombinator.com/item?id=50492993\nPoints: 49\n# Comments: 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "published": "Sat, 14 Nov 2026 02:21:36 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-13T22:59:00.888597"
+      "crawled_at": "2026-11-14T03:56:42.359416"
     },
     {
       "source": "hackernews",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "summary": "Article URL: https://orcasairband.com/\nComments URL: https://news.ycombinator.com/item?id=50490593\nPoints: 33\n# Comments: 11",
-      "link": "https://orcasairband.com/",
-      "published": "Fri, 13 Nov 2026 22:04:24 +0000",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\nComments URL: https://news.ycombinator.com/item?id=50492860\nPoints: 64\n# Comments: 12",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "published": "Sat, 14 Nov 2026 02:02:42 +0000",
       "keywords": [
-        "AI",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.888631"
+      "category": "Tech News",
+      "crawled_at": "2026-11-14T03:56:42.359457"
     },
     {
       "source": "hackernews",
-      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-      "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop\nComments URL: https://news.ycombinator.com/item?id=50489678\nPoints: 84\n# Comments: 25",
-      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-      "published": "Fri, 13 Nov 2026 21:08:49 +0000",
-      "keywords": [
-        "iOS",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-13T22:59:00.888667"
-    },
-    {
-      "source": "hackernews",
-      "title": "All US airports are currently ground stopped",
-      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605\nComments URL: https://news.ycombinator.com/item?id=50489652\nPoints: 99\n# Comments: 22",
-      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "published": "Fri, 13 Nov 2026 21:06:52 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:00.888694"
-    },
-    {
-      "source": "hackernews",
-      "title": "FAA Issues National Ground Stop",
-      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;advn=111\nComments URL: https://news.ycombinator.com/item?id=50489641\nPoints: 786\n# Comments: 446",
-      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-      "published": "Fri, 13 Nov 2026 21:05:53 +0000",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5\nComments URL: https://news.ycombinator.com/item?id=50492601\nPoints: 205\n# Comments: 200",
+      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "published": "Sat, 14 Nov 2026 01:30:01 +0000",
       "keywords": [
         "Go",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-13T22:59:00.888728"
+      "crawled_at": "2026-11-14T03:56:42.359490"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "summary": "One way or another, the company will get some more data on Saturday.",
+      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "published": "Sat, 14 Nov 2026 00:49:13 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-14T03:56:42.486803"
+    },
+    {
+      "source": "arstechnica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "published": "Fri, 13 Nov 2026 23:17:38 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-14T03:56:42.486849"
     },
     {
       "source": "arstechnica",
@@ -219,7 +243,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-13T22:59:01.032756"
+      "crawled_at": "2026-11-14T03:56:42.486879"
     },
     {
       "source": "arstechnica",
@@ -231,7 +255,7 @@
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:01.032795"
+      "crawled_at": "2026-11-14T03:56:42.486907"
     },
     {
       "source": "arstechnica",
@@ -243,35 +267,19 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-13T22:59:01.032825"
+      "crawled_at": "2026-11-14T03:56:42.486933"
     },
     {
-      "source": "arstechnica",
-      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "published": "Fri, 13 Nov 2026 19:49:16 +0000",
+      "source": "wired",
+      "title": "The FAA Nationwide Ground Stop Is Over",
+      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+      "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+      "published": "Sat, 14 Nov 2026 01:46:40 +0000",
       "keywords": [
-        "Go",
-        "AWS"
-      ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-11-13T22:59:01.032850"
-    },
-    {
-      "source": "arstechnica",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "published": "Fri, 13 Nov 2026 17:25:45 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Hack",
-        "AR"
+        "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:01.032872"
+      "crawled_at": "2026-11-14T03:56:42.615078"
     },
     {
       "source": "wired",
@@ -284,7 +292,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:01.205631"
+      "crawled_at": "2026-11-14T03:56:42.615106"
     },
     {
       "source": "wired",
@@ -297,7 +305,7 @@
         "Go"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:01.205662"
+      "crawled_at": "2026-11-14T03:56:42.615129"
     },
     {
       "source": "wired",
@@ -309,7 +317,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-13T22:59:01.205703"
+      "crawled_at": "2026-11-14T03:56:42.615167"
     },
     {
       "source": "wired",
@@ -321,21 +329,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-13T22:59:01.205741"
-    },
-    {
-      "source": "wired",
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "published": "Fri, 13 Nov 2026 19:08:57 +0000",
-      "keywords": [
-        "AI",
-        "Microsoft",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-13T22:59:01.205766"
+      "crawled_at": "2026-11-14T03:56:42.615202"
     }
   ]
 }
