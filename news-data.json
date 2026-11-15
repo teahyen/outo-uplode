@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T03:42:05.165980",
+  "last_updated": "2026-11-15T13:06:24.936425",
   "news_count": 25,
   "news": [
     {
@@ -13,7 +13,7 @@
         "AR"
       ],
       "category": "Security",
-      "crawled_at": "2026-11-15T03:40:56.090270"
+      "crawled_at": "2026-11-15T13:06:24.094231"
     },
     {
       "source": "techcrunch",
@@ -23,7 +23,7 @@
       "published": "Sat, 14 Nov 2026 21:41:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:40:56.090313"
+      "crawled_at": "2026-11-15T13:06:24.094274"
     },
     {
       "source": "techcrunch",
@@ -37,7 +37,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:40:56.090342"
+      "crawled_at": "2026-11-15T13:06:24.094304"
     },
     {
       "source": "techcrunch",
@@ -52,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-15T03:40:56.090373"
+      "crawled_at": "2026-11-15T13:06:24.094334"
     },
     {
       "source": "techcrunch",
@@ -65,7 +65,19 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:40:56.090402"
+      "crawled_at": "2026-11-15T13:06:24.094364"
+    },
+    {
+      "source": "theverge",
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "published": "2026-11-15T08:00:00-05:00",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.234022"
     },
     {
       "source": "theverge",
@@ -77,7 +89,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:40:56.472760"
+      "crawled_at": "2026-11-15T13:06:24.234095"
     },
     {
       "source": "theverge",
@@ -89,7 +101,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-15T03:40:56.472821"
+      "crawled_at": "2026-11-15T13:06:24.234142"
     },
     {
       "source": "theverge",
@@ -102,7 +114,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:40:56.472882"
+      "crawled_at": "2026-11-15T13:06:24.234182"
     },
     {
       "source": "theverge",
@@ -115,88 +127,80 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:40:56.472921"
+      "crawled_at": "2026-11-15T13:06:24.234258"
     },
     {
-      "source": "theverge",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "published": "2026-11-14T10:00:00-05:00",
+      "source": "hackernews",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "summary": "Article URL: https://space.stackexchange.com/questions/37775\nComments URL: https://news.ycombinator.com/item?id=50505271\nPoints: 72\n# Comments: 42",
+      "link": "https://space.stackexchange.com/questions/37775",
+      "published": "Sun, 15 Nov 2026 09:06:43 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.648935"
+    },
+    {
+      "source": "hackernews",
+      "title": "Book list for streetfighting computer scientists",
+      "summary": "Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists\nComments URL: https://news.ycombinator.com/item?id=50504718\nPoints: 42\n# Comments: 12",
+      "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "published": "Sun, 15 Nov 2026 07:08:50 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.648982"
+    },
+    {
+      "source": "hackernews",
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/\nComments URL: https://news.ycombinator.com/item?id=50504277\nPoints: 55\n# Comments: 7",
+      "link": "https://netbsd.org/~nia/disk-encrypt/",
+      "published": "Sun, 15 Nov 2026 05:29:54 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.649027"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kiri – The Modern Container Runtime",
+      "summary": "Article URL: https://runkiri.com/\nComments URL: https://news.ycombinator.com/item?id=50504077\nPoints: 64\n# Comments: 30",
+      "link": "https://runkiri.com/",
+      "published": "Sun, 15 Nov 2026 04:40:41 +0000",
       "keywords": [
         "AI",
-        "OpenAI",
-        "Rust",
-        "Security",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:40:56.472960"
+      "crawled_at": "2026-11-15T13:06:24.649055"
     },
     {
       "source": "hackernews",
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\nComments URL: https://news.ycombinator.com/item?id=50503588\nPoints: 10\n# Comments: 0",
-      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-      "published": "Sun, 15 Nov 2026 03:05:54 +0000",
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp\nComments URL: https://news.ycombinator.com/item?id=50503930\nPoints: 39\n# Comments: 8",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "published": "Sun, 15 Nov 2026 04:09:11 +0000",
       "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:42:04.925904"
-    },
-    {
-      "source": "hackernews",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\nComments URL: https://news.ycombinator.com/item?id=50503255\nPoints: 68\n# Comments: 10",
-      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "published": "Sun, 15 Nov 2026 02:00:54 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-15T03:42:04.925954"
-    },
-    {
-      "source": "hackernews",
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html\nComments URL: https://news.ycombinator.com/item?id=50502839\nPoints: 10\n# Comments: 2",
-      "link": "https://bobbiec.github.io/jamaican-font.html",
-      "published": "Sun, 15 Nov 2026 00:56:45 +0000",
-      "keywords": [
-        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:42:04.925982"
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.649097"
     },
     {
-      "source": "hackernews",
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\nComments URL: https://news.ycombinator.com/item?id=50501631\nPoints: 281\n# Comments: 153",
-      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "published": "Sat, 14 Nov 2026 22:26:30 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-11-15T03:42:04.926023"
-    },
-    {
-      "source": "hackernews",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957\nComments URL: https://news.ycombinator.com/item?id=50501594\nPoints: 134\n# Comments: 45",
-      "link": "https://retrocomputing.stackexchange.com/questions/17957",
-      "published": "Sat, 14 Nov 2026 22:22:49 +0000",
-      "keywords": [
-        "Apple",
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-15T03:42:04.926057"
+      "source": "arstechnica",
+      "title": "How the world’s fires changed while humanity hit pause",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "published": "Sun, 15 Nov 2026 12:07:34 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.811243"
     },
     {
       "source": "arstechnica",
@@ -208,7 +212,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.025766"
+      "crawled_at": "2026-11-15T13:06:24.811286"
     },
     {
       "source": "arstechnica",
@@ -220,7 +224,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.025833"
+      "crawled_at": "2026-11-15T13:06:24.811316"
     },
     {
       "source": "arstechnica",
@@ -233,7 +237,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.025878"
+      "crawled_at": "2026-11-15T13:06:24.811344"
     },
     {
       "source": "arstechnica",
@@ -245,84 +249,69 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.025912"
-    },
-    {
-      "source": "arstechnica",
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "published": "Fri, 13 Nov 2026 23:17:38 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.025940"
+      "crawled_at": "2026-11-15T13:06:24.811375"
     },
     {
       "source": "wired",
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "published": "Sat, 14 Nov 2026 13:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-15T03:42:05.165612"
-    },
-    {
-      "source": "wired",
-      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
-      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "published": "Sat, 14 Nov 2026 12:05:00 +0000",
+      "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+      "summary": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "link": "https://www.wired.com/story/best-paper-planners/",
+      "published": "Sun, 15 Nov 2026 12:01:00 +0000",
       "keywords": [
         "Git",
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-15T03:42:05.165652"
+      "crawled_at": "2026-11-15T13:06:24.936206"
     },
     {
       "source": "wired",
-      "title": "How to Run SteamOS on Your Mac",
-      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
-      "link": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
-      "published": "Sat, 14 Nov 2026 12:00:00 +0000",
+      "title": "AI DJs Completely Kill My Groove",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "published": "Sun, 15 Nov 2026 12:00:00 +0000",
       "keywords": [
-        "Apple"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-15T03:42:05.165741"
-    },
-    {
-      "source": "wired",
-      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
-      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
-      "published": "Sat, 14 Nov 2026 11:30:00 +0000",
-      "keywords": [
-        "Apple",
+        "AI",
         "AR"
       ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-15T03:42:05.165778"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-15T13:06:24.936239"
     },
     {
       "source": "wired",
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
-      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
-      "published": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+      "summary": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+      "link": "https://www.wired.com/review/evercade-nexus/",
+      "published": "Sun, 15 Nov 2026 11:30:00 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.936276"
+    },
+    {
+      "source": "wired",
+      "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+      "summary": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+      "link": "https://www.wired.com/review/logitech-yeti-2/",
+      "published": "Sun, 15 Nov 2026 11:30:00 +0000",
       "keywords": [
+        "Git"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-15T13:06:24.936304"
+    },
+    {
+      "source": "wired",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "published": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "keywords": [
+        "AI",
         "Go",
-        "Cloud",
         "AR"
       ],
-      "category": "Cloud/DevOps",
-      "crawled_at": "2026-11-15T03:42:05.165811"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-15T13:06:24.936334"
     }
   ]
 }
