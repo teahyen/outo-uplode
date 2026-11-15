@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-14T21:46:49.404409",
+  "last_updated": "2026-11-15T03:42:05.165980",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-15T03:40:56.090270"
+    },
     {
       "source": "techcrunch",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -10,7 +23,7 @@
       "published": "Sat, 14 Nov 2026 21:41:22 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:48.702252"
+      "crawled_at": "2026-11-15T03:40:56.090313"
     },
     {
       "source": "techcrunch",
@@ -24,7 +37,7 @@
         "Tesla"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.702280"
+      "crawled_at": "2026-11-15T03:40:56.090342"
     },
     {
       "source": "techcrunch",
@@ -39,7 +52,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-14T21:46:48.702303"
+      "crawled_at": "2026-11-15T03:40:56.090373"
     },
     {
       "source": "techcrunch",
@@ -52,23 +65,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.702324"
-    },
-    {
-      "source": "techcrunch",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Startup",
-        "Apple",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.702345"
+      "crawled_at": "2026-11-15T03:40:56.090402"
     },
     {
       "source": "theverge",
@@ -80,7 +77,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:48.890709"
+      "crawled_at": "2026-11-15T03:40:56.472760"
     },
     {
       "source": "theverge",
@@ -92,7 +89,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-14T21:46:48.890754"
+      "crawled_at": "2026-11-15T03:40:56.472821"
     },
     {
       "source": "theverge",
@@ -105,7 +102,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.890786"
+      "crawled_at": "2026-11-15T03:40:56.472882"
     },
     {
       "source": "theverge",
@@ -118,7 +115,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.890813"
+      "crawled_at": "2026-11-15T03:40:56.472921"
     },
     {
       "source": "theverge",
@@ -134,69 +131,84 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:48.890840"
+      "crawled_at": "2026-11-15T03:40:56.472960"
     },
     {
       "source": "hackernews",
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka\nComments URL: https://news.ycombinator.com/item?id=50500963\nPoints: 95\n# Comments: 39",
-      "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-      "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\nComments URL: https://news.ycombinator.com/item?id=50503588\nPoints: 10\n# Comments: 0",
+      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "published": "Sun, 15 Nov 2026 03:05:54 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-15T03:42:04.925904"
+    },
+    {
+      "source": "hackernews",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\nComments URL: https://news.ycombinator.com/item?id=50503255\nPoints: 68\n# Comments: 10",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "published": "Sun, 15 Nov 2026 02:00:54 +0000",
       "keywords": [
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.111414"
+      "category": "Mobile",
+      "crawled_at": "2026-11-15T03:42:04.925954"
     },
     {
       "source": "hackernews",
-      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-      "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year\nComments URL: https://news.ycombinator.com/item?id=50499945\nPoints: 36\n# Comments: 3",
-      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-      "published": "Sat, 14 Nov 2026 19:23:40 +0000",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html\nComments URL: https://news.ycombinator.com/item?id=50502839\nPoints: 10\n# Comments: 2",
+      "link": "https://bobbiec.github.io/jamaican-font.html",
+      "published": "Sun, 15 Nov 2026 00:56:45 +0000",
       "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.111452"
-    },
-    {
-      "source": "hackernews",
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\nComments URL: https://news.ycombinator.com/item?id=50499723\nPoints: 111\n# Comments: 42",
-      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "published": "Sat, 14 Nov 2026 18:56:47 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.111485"
-    },
-    {
-      "source": "hackernews",
-      "title": "US IRS free online tax filing open source repo (2025)",
-      "summary": "Article URL: https://github.com/IRS-Public/direct-file\nComments URL: https://news.ycombinator.com/item?id=50499083\nPoints: 114\n# Comments: 63",
-      "link": "https://github.com/IRS-Public/direct-file",
-      "published": "Sat, 14 Nov 2026 17:48:20 +0000",
-      "keywords": [
+        "AI",
         "Git",
         "GitHub",
         "AR"
       ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.111510"
+      "category": "AI/ML",
+      "crawled_at": "2026-11-15T03:42:04.925982"
     },
     {
       "source": "hackernews",
-      "title": "A Family Tree of Software Job Titles",
-      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\nComments URL: https://news.ycombinator.com/item?id=50499038\nPoints: 112\n# Comments: 51",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "published": "Sat, 14 Nov 2026 17:45:19 +0000",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\nComments URL: https://news.ycombinator.com/item?id=50501631\nPoints: 281\n# Comments: 153",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "published": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-11-15T03:42:04.926023"
+    },
+    {
+      "source": "hackernews",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957\nComments URL: https://news.ycombinator.com/item?id=50501594\nPoints: 134\n# Comments: 45",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-15T03:42:04.926057"
+    },
+    {
+      "source": "arstechnica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "summary": "It felt like stepping into the future.",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "published": "Sun, 15 Nov 2026 00:40:59 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.111535"
+      "crawled_at": "2026-11-15T03:42:05.025766"
     },
     {
       "source": "arstechnica",
@@ -208,7 +220,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.275055"
+      "crawled_at": "2026-11-15T03:42:05.025833"
     },
     {
       "source": "arstechnica",
@@ -221,7 +233,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.275106"
+      "crawled_at": "2026-11-15T03:42:05.025878"
     },
     {
       "source": "arstechnica",
@@ -233,7 +245,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.275133"
+      "crawled_at": "2026-11-15T03:42:05.025912"
     },
     {
       "source": "arstechnica",
@@ -245,19 +257,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.275154"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
-      "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-      "published": "Fri, 13 Nov 2026 21:59:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-14T21:46:49.275174"
+      "crawled_at": "2026-11-15T03:42:05.025940"
     },
     {
       "source": "wired",
@@ -270,7 +270,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-14T21:46:49.404233"
+      "crawled_at": "2026-11-15T03:42:05.165612"
     },
     {
       "source": "wired",
@@ -283,7 +283,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-14T21:46:49.404262"
+      "crawled_at": "2026-11-15T03:42:05.165652"
     },
     {
       "source": "wired",
@@ -295,7 +295,7 @@
         "Apple"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-14T21:46:49.404287"
+      "crawled_at": "2026-11-15T03:42:05.165741"
     },
     {
       "source": "wired",
@@ -308,7 +308,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-14T21:46:49.404307"
+      "crawled_at": "2026-11-15T03:42:05.165778"
     },
     {
       "source": "wired",
@@ -322,7 +322,7 @@
         "AR"
       ],
       "category": "Cloud/DevOps",
-      "crawled_at": "2026-11-14T21:46:49.404328"
+      "crawled_at": "2026-11-15T03:42:05.165811"
     }
   ]
 }
