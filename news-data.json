@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-11-20T05:56:53.232381",
+  "last_updated": "2026-11-20T14:44:18.880060",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "published": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.382308"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "published": "Fri, 20 Nov 2026 13:25:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.382351"
+    },
+    {
+      "source": "techcrunch",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "published": "Fri, 20 Nov 2026 13:21:11 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.382385"
+    },
+    {
+      "source": "techcrunch",
+      "title": "The U.S. national cyber director is stepping down",
+      "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "published": "Fri, 20 Nov 2026 09:14:19 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-20T14:44:18.382415"
+    },
     {
       "source": "techcrunch",
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -16,59 +66,49 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.638497"
+      "crawled_at": "2026-11-20T14:44:18.382440"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+      "source": "theverge",
+      "title": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "published": "2026-11-20T09:06:59-05:00",
       "keywords": [
-        "Anthropic",
-        "IPO",
+        "Cloud",
         "AR"
       ],
-      "category": "Startup",
-      "crawled_at": "2026-11-20T05:56:52.638550"
+      "category": "Cloud/DevOps",
+      "crawled_at": "2026-11-20T14:44:18.544997"
     },
     {
-      "source": "techcrunch",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "published": "Fri, 20 Nov 2026 00:26:03 +0000",
+      "source": "theverge",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "published": "2026-11-20T07:30:47-05:00",
       "keywords": [
         "AI",
-        "Anthropic",
-        "Rust"
+        "REST",
+        "Android",
+        "iOS",
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.638588"
+      "crawled_at": "2026-11-20T14:44:18.545046"
     },
     {
-      "source": "techcrunch",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "published": "Thu, 19 Nov 2026 23:37:56 +0000",
+      "source": "theverge",
+      "title": "Why the robots are ditching Uber",
+      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - a",
+      "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "published": "2026-11-20T07:00:00-05:00",
       "keywords": [
-        "AI"
+        "Go",
+        "AR"
       ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.638617"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "published": "Thu, 19 Nov 2026 22:33:26 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.638646"
+      "category": "Tech News",
+      "crawled_at": "2026-11-20T14:44:18.545095"
     },
     {
       "source": "theverge",
@@ -81,7 +121,7 @@
         "Apple"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.753487"
+      "crawled_at": "2026-11-20T14:44:18.545125"
     },
     {
       "source": "theverge",
@@ -95,245 +135,193 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.753543"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#",
-      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "published": "2026-11-19T16:12:06-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Meta",
-        "VR",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.753577"
-    },
-    {
-      "source": "theverge",
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "published": "2026-11-19T15:22:17-05:00",
-      "keywords": [
-        "AI",
-        "Meta",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.753613"
-    },
-    {
-      "source": "theverge",
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#82",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "published": "2026-11-19T15:05:06-05:00",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.753641"
+      "crawled_at": "2026-11-20T14:44:18.545166"
     },
     {
       "source": "hackernews",
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084\nComments URL: https://news.ycombinator.com/item?id=50570479\nPoints: 35\n# Comments: 3",
-      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-      "published": "Fri, 20 Nov 2026 05:21:02 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:52.940594"
-    },
-    {
-      "source": "hackernews",
-      "title": "FFmpeg 9.1 'Gauss'",
-      "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1\nComments URL: https://news.ycombinator.com/item?id=50569998\nPoints: 15\n# Comments: 6",
-      "link": "https://ffmpeg.org/download.html#release_9.1",
-      "published": "Fri, 20 Nov 2026 04:02:39 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:52.940636"
-    },
-    {
-      "source": "hackernews",
-      "title": "GIMP now has UI tests",
-      "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/\nComments URL: https://news.ycombinator.com/item?id=50569985\nPoints: 41\n# Comments: 22",
-      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "published": "Fri, 20 Nov 2026 04:00:24 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:52.940669"
-    },
-    {
-      "source": "hackernews",
-      "title": "PostgreSQL 19",
-      "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/\nComments URL: https://news.ycombinator.com/item?id=50569890\nPoints: 49\n# Comments: 1",
-      "link": "https://www.postgresql.org/docs/release/19.0/",
-      "published": "Fri, 20 Nov 2026 03:45:45 +0000",
-      "keywords": [
-        "SQL",
-        "PostgreSQL",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:52.940699"
-    },
-    {
-      "source": "hackernews",
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\nComments URL: https://news.ycombinator.com/item?id=50569516\nPoints: 42\n# Comments: 5",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "published": "Fri, 20 Nov 2026 02:43:49 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:52.940736"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "summary": "Amazon now uses its shopping platform for political purposes.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "published": "Thu, 19 Nov 2026 22:16:37 +0000",
-      "keywords": [
-        "Amazon"
-      ],
-      "category": "Mobile",
-      "crawled_at": "2026-11-20T05:56:53.050198"
-    },
-    {
-      "source": "arstechnica",
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "published": "Thu, 19 Nov 2026 21:19:12 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:53.050234"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "published": "Thu, 19 Nov 2026 20:29:46 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:53.050268"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "published": "Thu, 19 Nov 2026 20:19:28 +0000",
-      "keywords": [
-        "AI",
-        "AWS"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:53.050297"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "published": "Thu, 19 Nov 2026 19:52:54 +0000",
-      "keywords": [
-        "AI",
-        "Go",
-        "Google"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:53.050317"
-    },
-    {
-      "source": "wired",
-      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
-      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
-      "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
-      "published": "Fri, 20 Nov 2026 02:39:47 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:53.232158"
-    },
-    {
-      "source": "wired",
-      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
-      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
-      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
-      "published": "Thu, 19 Nov 2026 23:12:17 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:53.232209"
-    },
-    {
-      "source": "wired",
-      "title": "Best Amazon Black Friday Deals (2026)",
-      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
-      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "published": "Thu, 19 Nov 2026 22:02:12 +0000",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:53.232232"
-    },
-    {
-      "source": "wired",
-      "title": "What’s With All These Outages?",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "published": "Thu, 19 Nov 2026 21:57:01 +0000",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "summary": "Article URL: https://alpo.ge/remark.pdf\nComments URL: https://news.ycombinator.com/item?id=50574968\nPoints: 14\n# Comments: 1",
+      "link": "https://alpo.ge/remark.pdf",
+      "published": "Fri, 20 Nov 2026 14:16:21 +0000",
       "keywords": [
         "AI",
         "Anthropic",
-        "Go",
-        "IPO",
-        "Git"
+        "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T05:56:53.232263"
+      "crawled_at": "2026-11-20T14:44:18.637373"
+    },
+    {
+      "source": "hackernews",
+      "title": "Llms.txt and MCP didn't move the needle",
+      "summary": "Article URL: https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did\nComments URL: https://news.ycombinator.com/item?id=50574772\nPoints: 14\n# Comments: 3",
+      "link": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "published": "Fri, 20 Nov 2026 14:00:23 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.637412"
+    },
+    {
+      "source": "hackernews",
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\nComments URL: https://news.ycombinator.com/item?id=50574383\nPoints: 36\n# Comments: 9",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "published": "Fri, 20 Nov 2026 13:29:59 +0000",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "IPO",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.637443"
+    },
+    {
+      "source": "hackernews",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/\nComments URL: https://news.ycombinator.com/item?id=50573886\nPoints: 48\n# Comments: 11",
+      "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "published": "Fri, 20 Nov 2026 12:41:38 +0000",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-11-20T14:44:18.637474"
+    },
+    {
+      "source": "hackernews",
+      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai\nComments URL: https://news.ycombinator.com/item?id=50573681\nPoints: 20\n# Comments: 11",
+      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+      "published": "Fri, 20 Nov 2026 12:16:36 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.637499"
+    },
+    {
+      "source": "arstechnica",
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "published": "Fri, 20 Nov 2026 14:15:21 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Hardware",
+      "crawled_at": "2026-11-20T14:44:18.780550"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "published": "Fri, 20 Nov 2026 13:35:45 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.780580"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "summary": "Gambling? We're just swapping contracts!",
+      "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "published": "Fri, 20 Nov 2026 12:30:29 +0000",
+      "keywords": [],
+      "category": "Mobile",
+      "crawled_at": "2026-11-20T14:44:18.780611"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Science has a home here at Ars—please help keep it that way",
+      "summary": "Your support for Ars matters more now than ever.",
+      "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+      "published": "Fri, 20 Nov 2026 12:15:36 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-20T14:44:18.780641"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump admin still won't let Wi-Fi giant TP-Link sell its latest routers in US",
+      "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
+      "published": "Fri, 20 Nov 2026 12:00:43 +0000",
+      "keywords": [],
+      "category": "Hardware",
+      "crawled_at": "2026-11-20T14:44:18.780669"
     },
     {
       "source": "wired",
-      "title": "The Best Hatch Black Friday Deals (2026)",
-      "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
-      "link": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
-      "published": "Thu, 19 Nov 2026 20:44:44 +0000",
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "summary": "Pura fragrances are 20% off, and diffusers are 30% off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
+      "link": "https://www.wired.com/story/pura-black-friday-2026/",
+      "published": "Fri, 20 Nov 2026 13:30:00 +0000",
       "keywords": [
-        "Amazon"
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-20T14:44:18.879846"
+    },
+    {
+      "source": "wired",
+      "title": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "summary": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
+      "link": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "published": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-20T14:44:18.879886"
+    },
+    {
+      "source": "wired",
+      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
+      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+      "published": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "keywords": [
+        "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T05:56:53.232289"
+      "crawled_at": "2026-11-20T14:44:18.879922"
+    },
+    {
+      "source": "wired",
+      "title": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "summary": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+      "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "published": "Fri, 20 Nov 2026 12:15:00 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-20T14:44:18.879954"
+    },
+    {
+      "source": "wired",
+      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
+      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "keywords": [
+        "Apple",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-20T14:44:18.879986"
     }
   ]
 }
