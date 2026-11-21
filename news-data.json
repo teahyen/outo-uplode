@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-20T23:28:08.747673",
+  "last_updated": "2026-11-21T04:41:06.158147",
   "news_count": 25,
   "news": [
+    {
+      "source": "techcrunch",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "published": "Sat, 21 Nov 2026 04:00:00 +0000",
+      "keywords": [
+        "Startup",
+        "Apple",
+        "iPhone",
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-21T04:41:03.551896"
+    },
     {
       "source": "techcrunch",
       "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
@@ -14,7 +29,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:05.971445"
+      "crawled_at": "2026-11-21T04:41:03.551933"
     },
     {
       "source": "techcrunch",
@@ -28,7 +43,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:05.971485"
+      "crawled_at": "2026-11-21T04:41:03.551959"
     },
     {
       "source": "techcrunch",
@@ -41,7 +56,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:05.971517"
+      "crawled_at": "2026-11-21T04:41:03.551993"
     },
     {
       "source": "techcrunch",
@@ -54,19 +69,7 @@
         "AR"
       ],
       "category": "Startup",
-      "crawled_at": "2026-11-20T23:28:05.971550"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Chips can survive the space environment — can their financing?",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Hardware",
-      "crawled_at": "2026-11-20T23:28:05.971587"
+      "crawled_at": "2026-11-21T04:41:03.552019"
     },
     {
       "source": "theverge",
@@ -81,12 +84,12 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:06.087631"
+      "crawled_at": "2026-11-21T04:41:03.658903"
     },
     {
       "source": "theverge",
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the r",
       "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
       "published": "2026-11-20T14:35:06-05:00",
       "keywords": [
@@ -94,7 +97,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:06.087671"
+      "crawled_at": "2026-11-21T04:41:03.658940"
     },
     {
       "source": "theverge",
@@ -107,7 +110,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:06.087723"
+      "crawled_at": "2026-11-21T04:41:03.659006"
     },
     {
       "source": "theverge",
@@ -122,7 +125,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:06.087764"
+      "crawled_at": "2026-11-21T04:41:03.659040"
     },
     {
       "source": "theverge",
@@ -135,74 +138,70 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:06.087818"
+      "crawled_at": "2026-11-21T04:41:03.659083"
     },
     {
       "source": "hackernews",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "summary": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 15\n# Comments: 1",
-      "link": "https://ninlive.com/",
-      "published": "Fri, 20 Nov 2026 22:30:47 +0000",
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "summary": "Article URL: https://www.backblaze.com/company/policy/privacy\nComments URL: https://news.ycombinator.com/item?id=50585593\nPoints: 31\n# Comments: 3",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "published": "Sat, 21 Nov 2026 03:23:16 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-21T04:41:05.970858"
+    },
+    {
+      "source": "hackernews",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\nComments URL: https://news.ycombinator.com/item?id=50585376\nPoints: 18\n# Comments: 5",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "published": "Sat, 21 Nov 2026 02:40:39 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.507648"
+      "crawled_at": "2026-11-21T04:41:05.970890"
     },
     {
       "source": "hackernews",
-      "title": "Nasdaq erases all 2026 gains",
-      "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html\nComments URL: https://news.ycombinator.com/item?id=50583254\nPoints: 14\n# Comments: 0",
-      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "published": "Fri, 20 Nov 2026 22:29:06 +0000",
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes\nComments URL: https://news.ycombinator.com/item?id=50584429\nPoints: 19\n# Comments: 1",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "published": "Sat, 21 Nov 2026 00:33:40 +0000",
       "keywords": [
         "AI",
+        "Rust",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.507686"
+      "crawled_at": "2026-11-21T04:41:05.970913"
     },
     {
       "source": "hackernews",
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 4\n# Comments: 2",
-      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "published": "Fri, 20 Nov 2026 22:18:20 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.507721"
-    },
-    {
-      "source": "hackernews",
-      "title": "A few hours ago Google DeepMind created a math horizon repo",
-      "summary": "Article URL: https://github.com/google-deepmind/math-horizon\nComments URL: https://news.ycombinator.com/item?id=50582629\nPoints: 31\n# Comments: 14",
-      "link": "https://github.com/google-deepmind/math-horizon",
-      "published": "Fri, 20 Nov 2026 21:42:21 +0000",
-      "keywords": [
-        "Go",
-        "Google",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.507754"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 174\n# Comments: 69",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-      "published": "Fri, 20 Nov 2026 20:22:41 +0000",
+      "title": "Re: Riemann",
+      "summary": "Article URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 179\n# Comments: 169",
+      "link": "https://borretti.me/article/re-riemann",
+      "published": "Fri, 20 Nov 2026 23:42:44 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.507795"
+      "crawled_at": "2026-11-21T04:41:05.970938"
+    },
+    {
+      "source": "hackernews",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411\nComments URL: https://news.ycombinator.com/item?id=50583856\nPoints: 36\n# Comments: 20",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "published": "Fri, 20 Nov 2026 23:29:30 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-21T04:41:05.970964"
     },
     {
       "source": "arstechnica",
@@ -214,7 +213,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.619931"
+      "crawled_at": "2026-11-21T04:41:06.070098"
     },
     {
       "source": "arstechnica",
@@ -227,7 +226,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.619961"
+      "crawled_at": "2026-11-21T04:41:06.070123"
     },
     {
       "source": "arstechnica",
@@ -242,7 +241,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.619983"
+      "crawled_at": "2026-11-21T04:41:06.070142"
     },
     {
       "source": "arstechnica",
@@ -256,7 +255,7 @@
         "Meta"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.620011"
+      "crawled_at": "2026-11-21T04:41:06.070164"
     },
     {
       "source": "arstechnica",
@@ -269,7 +268,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.620049"
+      "crawled_at": "2026-11-21T04:41:06.070183"
     },
     {
       "source": "wired",
@@ -281,7 +280,7 @@
         "AR"
       ],
       "category": "Mobile",
-      "crawled_at": "2026-11-20T23:28:08.747458"
+      "crawled_at": "2026-11-21T04:41:06.157949"
     },
     {
       "source": "wired",
@@ -294,7 +293,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-20T23:28:08.747498"
+      "crawled_at": "2026-11-21T04:41:06.157999"
     },
     {
       "source": "wired",
@@ -307,7 +306,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.747529"
+      "crawled_at": "2026-11-21T04:41:06.158026"
     },
     {
       "source": "wired",
@@ -319,7 +318,7 @@
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.747555"
+      "crawled_at": "2026-11-21T04:41:06.158050"
     },
     {
       "source": "wired",
@@ -329,7 +328,7 @@
       "published": "Fri, 20 Nov 2026 16:00:00 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-11-20T23:28:08.747584"
+      "crawled_at": "2026-11-21T04:41:06.158074"
     }
   ]
 }
