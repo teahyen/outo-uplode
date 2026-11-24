@@ -1,261 +1,310 @@
 {
-  "last_updated": "2026-11-23T16:45:27.541106",
+  "last_updated": "2026-11-24T03:34:30.645263",
   "news_count": 25,
   "news": [
     {
       "source": "techcrunch",
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
-      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "published": "Mon, 23 Nov 2026 16:39:10 +0000",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "published": "Mon, 23 Nov 2026 23:07:49 +0000",
       "keywords": [
         "AR"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.024500"
+      "crawled_at": "2026-11-24T03:34:30.122391"
     },
     {
       "source": "techcrunch",
-      "title": "CrowdStrike to acquire Zscaler for $44 billion",
-      "summary": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-      "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-      "published": "Mon, 23 Nov 2026 16:20:11 +0000",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "Mon, 23 Nov 2026 22:05:50 +0000",
       "keywords": [
         "AI",
-        "Rust",
-        "Security",
-        "Cybersecurity",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.122432"
+    },
+    {
+      "source": "techcrunch",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published": "Mon, 23 Nov 2026 22:02:05 +0000",
+      "keywords": [
+        "AI",
+        "Startup",
+        "iOS",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.024538"
+      "crawled_at": "2026-11-24T03:34:30.122461"
     },
     {
       "source": "techcrunch",
-      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-      "summary": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-      "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-      "published": "Mon, 23 Nov 2026 15:29:49 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.024573"
-    },
-    {
-      "source": "techcrunch",
-      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "published": "Mon, 23 Nov 2026 15:04:01 +0000",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "published": "Mon, 23 Nov 2026 21:47:41 +0000",
       "keywords": [],
       "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.024617"
+      "crawled_at": "2026-11-24T03:34:30.122490"
     },
     {
       "source": "techcrunch",
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "published": "Mon, 23 Nov 2026 21:25:42 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.122518"
+    },
+    {
+      "source": "theverge",
+      "title": "Google alternative Kagi launches an email service",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Ka",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "published": "2026-11-23T19:02:52-05:00",
+      "keywords": [
+        "AI",
+        "Go",
+        "Google",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.174694"
+    },
+    {
+      "source": "theverge",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, year",
+      "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "published": "2026-11-23T18:25:01-05:00",
+      "keywords": [
+        "Hack",
+        "AR"
+      ],
+      "category": "Programming",
+      "crawled_at": "2026-11-24T03:34:30.174759"
+    },
+    {
+      "source": "theverge",
+      "title": "The Verge’s 2026 holiday gift guide",
+      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things r",
+      "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "published": "2026-11-23T18:14:10-05:00",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.174813"
+    },
+    {
+      "source": "theverge",
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first",
+      "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "published": "2026-11-23T17:38:09-05:00",
+      "keywords": [
+        "AI",
+        "Linux",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.174863"
+    },
+    {
+      "source": "theverge",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "published": "2026-11-23T17:25:12-05:00",
+      "keywords": [
+        "AI",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.174897"
+    },
+    {
+      "source": "hackernews",
+      "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375\nComments URL: https://news.ycombinator.com/item?id=50621977\nPoints: 56\n# Comments: 30",
+      "link": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+      "published": "Tue, 24 Nov 2026 00:53:46 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.411796"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Power of GraphQL, Without GraphQL",
+      "summary": "Article URL: https://cobalt27.dev/\nComments URL: https://news.ycombinator.com/item?id=50621466\nPoints: 17\n# Comments: 14",
+      "link": "https://cobalt27.dev/",
+      "published": "Tue, 24 Nov 2026 00:03:59 +0000",
+      "keywords": [
+        "GraphQL",
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.411860"
+    },
+    {
+      "source": "hackernews",
+      "title": "The search for a top dark matter candidate",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/\nComments URL: https://news.ycombinator.com/item?id=50620831\nPoints: 20\n# Comments: 2",
+      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "published": "Mon, 23 Nov 2026 23:12:40 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.411923"
+    },
+    {
+      "source": "hackernews",
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/\nComments URL: https://news.ycombinator.com/item?id=50620822\nPoints: 250\n# Comments: 187",
+      "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "published": "Mon, 23 Nov 2026 23:11:38 +0000",
+      "keywords": [
+        "Security",
+        "AR"
+      ],
+      "category": "Security",
+      "crawled_at": "2026-11-24T03:34:30.411961"
+    },
+    {
+      "source": "hackernews",
+      "title": "Freeing the iPod Nano 5G",
+      "summary": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd\nComments URL: https://news.ycombinator.com/item?id=50620721\nPoints: 56\n# Comments: 7",
+      "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "published": "Mon, 23 Nov 2026 23:03:13 +0000",
+      "keywords": [
+        "API",
+        "IPO",
+        "5G",
+        "AR"
+      ],
+      "category": "Startup",
+      "crawled_at": "2026-11-24T03:34:30.411992"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "published": "Mon, 23 Nov 2026 21:58:34 +0000",
+      "keywords": [
+        "AI",
+        "Go",
+        "AR"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.506999"
+    },
+    {
+      "source": "arstechnica",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "published": "Mon, 23 Nov 2026 21:30:44 +0000",
+      "keywords": [],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.507040"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+      "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+      "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+      "published": "Mon, 23 Nov 2026 20:34:51 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Mobile",
+      "crawled_at": "2026-11-24T03:34:30.507075"
+    },
+    {
+      "source": "arstechnica",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "published": "Mon, 23 Nov 2026 20:11:43 +0000",
       "keywords": [
         "AI"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.024646"
+      "crawled_at": "2026-11-24T03:34:30.507095"
     },
     {
-      "source": "theverge",
-      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-      "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven C",
-      "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-      "published": "2026-11-23T11:30:11-05:00",
+      "source": "arstechnica",
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "summary": "Amazon now uses its packages for political purposes.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "published": "Mon, 23 Nov 2026 19:38:13 +0000",
+      "keywords": [
+        "Amazon"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.507121"
+    },
+    {
+      "source": "wired",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+      "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+      "published": "Tue, 24 Nov 2026 01:35:38 +0000",
+      "keywords": [
+        "AI"
+      ],
+      "category": "AI/ML",
+      "crawled_at": "2026-11-24T03:34:30.645021"
+    },
+    {
+      "source": "wired",
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+      "link": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "published": "Mon, 23 Nov 2026 21:31:08 +0000",
+      "keywords": [
+        "AR"
+      ],
+      "category": "Tech News",
+      "crawled_at": "2026-11-24T03:34:30.645072"
+    },
+    {
+      "source": "wired",
+      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
+      "link": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+      "published": "Mon, 23 Nov 2026 18:46:51 +0000",
       "keywords": [
         "AI",
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.117663"
+      "crawled_at": "2026-11-24T03:34:30.645101"
     },
     {
-      "source": "theverge",
-      "title": "Tech leaders are celebrating Jensen Huang’s return",
-      "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable co",
-      "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-      "published": "2026-11-23T11:14:04-05:00",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.117717"
-    },
-    {
-      "source": "theverge",
-      "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
-      "summary": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using ",
-      "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
-      "published": "2026-11-23T11:00:00-05:00",
-      "keywords": [
-        "Rust",
-        "AR",
-        "Gaming"
-      ],
-      "category": "Programming",
-      "crawled_at": "2026-11-23T16:45:27.117762"
-    },
-    {
-      "source": "theverge",
-      "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
-      "summary": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, w",
-      "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-      "published": "2026-11-23T10:00:44-05:00",
-      "keywords": [
-        "AI",
-        "Apple",
-        "Amazon",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.117801"
-    },
-    {
-      "source": "theverge",
-      "title": "The Verge’s favorite holiday gifts that cost $50 or less",
-      "summary": "You've got $50 to spend on a friend or loved one this shopping season, and you're not sure what to spend it on. First off, that's actually really generous of you. While this price tier can sometimes be challenging to shop for - caught between affordable accessories and big-ticket items - there's ple",
-      "link": "https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026",
-      "published": "2026-11-23T10:00:00-05:00",
+      "source": "wired",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "published": "Mon, 23 Nov 2026 17:52:56 +0000",
       "keywords": [
         "Go"
       ],
       "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.117853"
-    },
-    {
-      "source": "hackernews",
-      "title": "Ladybird Is Now in Alpha",
-      "summary": "Article URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 132\n# Comments: 21",
-      "link": "https://ladybird.org/posts/alpha/",
-      "published": "Mon, 23 Nov 2026 16:13:12 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.265653"
-    },
-    {
-      "source": "hackernews",
-      "title": "One Man's Quest to End Daylight Savings",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings\nComments URL: https://news.ycombinator.com/item?id=50613465\nPoints: 25\n# Comments: 23",
-      "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
-      "published": "Mon, 23 Nov 2026 15:28:41 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.265700"
-    },
-    {
-      "source": "hackernews",
-      "title": "Building a wireless network adapter for the Super Nintendo",
-      "summary": "Article URL: https://boland.dev/snet/\nComments URL: https://news.ycombinator.com/item?id=50611861\nPoints: 10\n# Comments: 1",
-      "link": "https://boland.dev/snet/",
-      "published": "Mon, 23 Nov 2026 14:16:37 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.265734"
-    },
-    {
-      "source": "hackernews",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j...\n\nComments URL: https://news.ycombinator.com/item?id=50611576\nPoints: 252\n# Comments: 1525",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "published": "Mon, 23 Nov 2026 14:00:18 +0000",
-      "keywords": [
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.265771"
-    },
-    {
-      "source": "hackernews",
-      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "summary": "Article URL: https://github.com/mikuta0407/win4wine\nComments URL: https://news.ycombinator.com/item?id=50610743\nPoints: 110\n# Comments: 57",
-      "link": "https://github.com/mikuta0407/win4wine",
-      "published": "Mon, 23 Nov 2026 12:28:11 +0000",
-      "keywords": [
-        "Windows",
-        "Linux",
-        "Git",
-        "GitHub",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.265814"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "summary": "\"All of you have lived stolen lives. But now you must give them back\"",
-      "link": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "published": "Mon, 23 Nov 2026 15:55:12 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.404482"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "published": "Mon, 23 Nov 2026 15:46:18 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.404510"
-    },
-    {
-      "source": "arstechnica",
-      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-      "summary": "COP31 ended without a consensus deal for the first time since 2009.",
-      "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-      "published": "Mon, 23 Nov 2026 15:23:26 +0000",
-      "keywords": [
-        "AI"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.404534"
-    },
-    {
-      "source": "arstechnica",
-      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-      "summary": "There were 352 position changes, including 35 for the lead.",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-      "published": "Mon, 23 Nov 2026 13:54:22 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.404561"
-    },
-    {
-      "source": "arstechnica",
-      "title": "Tri-screen portable monitors aren’t for the faint of heart",
-      "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
-      "published": "Mon, 23 Nov 2026 12:15:16 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.404589"
+      "crawled_at": "2026-11-24T03:34:30.645135"
     },
     {
       "source": "wired",
@@ -268,56 +317,7 @@
         "AR"
       ],
       "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.540878"
-    },
-    {
-      "source": "wired",
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "published": "Mon, 23 Nov 2026 13:11:48 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.540912"
-    },
-    {
-      "source": "wired",
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "published": "Mon, 23 Nov 2026 12:00:00 +0000",
-      "keywords": [
-        "AI",
-        "AR"
-      ],
-      "category": "AI/ML",
-      "crawled_at": "2026-11-23T16:45:27.540940"
-    },
-    {
-      "source": "wired",
-      "title": "44 Best Gifts Under $100 That WIRED Loves (2026)",
-      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-      "link": "https://www.wired.com/gallery/best-gifts-under-100/",
-      "published": "Mon, 23 Nov 2026 12:00:00 +0000",
-      "keywords": [],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.540971"
-    },
-    {
-      "source": "wired",
-      "title": "Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More",
-      "summary": "If your friend is in the depths of newborn survival, these gifts and gadgets can go a long way to help make parenting a little easier.",
-      "link": "https://www.wired.com/story/gifts-for-parents-2026/",
-      "published": "Mon, 23 Nov 2026 11:30:00 +0000",
-      "keywords": [
-        "Go",
-        "AR"
-      ],
-      "category": "Tech News",
-      "crawled_at": "2026-11-23T16:45:27.541005"
+      "crawled_at": "2026-11-24T03:34:30.645163"
     }
   ]
 }
